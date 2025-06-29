@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006451407",
+      "ANCIEN_ID": "PFEBXXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/14/LEGIARTI000006451407.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1966-07-10",
+        "DATE_FIN": "2012-05-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-492 du 9 juillet 1966 portant organisation de la police nationale",
+          "@c_titre_court": "Loi n°66-492 du 9 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692468"
+        },
+        {
+          "#text": "Loi n° 66-492 du 9 juillet 1966 portant organisation de la police nationale.",
+          "@c_titre_court": "Loi n° 66-492 du 9 juillet 1966",
+          "@debut": "1966-07-10",
+          "@fin": "2012-05-01",
+          "@id_txt": "LEGITEXT000006068285"
+        }
+      ],
+      "@cid": "JORFTEXT000000692468",
+      "@date_publi": "1966-07-10",
+      "@date_signature": "1966-07-09",
+      "@nature": "LOI",
+      "@num": "66-492"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-07-10",
+          "@etat": "ABROGE",
+          "@fin": "2012-05-01",
+          "@id": "LEGIARTI000006451407",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les décrets d'application pourront constituer un corps d'extinction de fonctionnaires d'Etat, les corps de services actifs de la préfecture de police n'ayant pas d'équivalent dans la sûreté nationale.<br/>\n<br/>   Les fonctionnaires des services actifs de la préfecture de police, en fonction à la date d'application de la présente loi et intégrés dans les nouveaux corps, ne peuvent être mutés en dehors des limites territoriales définies par l'article 10 de la loi n° 64-707 du 10 juillet 1964 que sur leur demande ou par mesure disciplinaire.<br/>\n<br/>   Ces fonctionnaires conservent sur leur demande le bénéfice des limites d'âge applicables à leurs anciens corps.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 64-707 du 10 juillet 1964",
+        "@cidtexte": "JORFTEXT000000319965",
+        "@datesignatexte": "1964-07-10",
+        "@id": "JORFTEXT000000319965",
+        "@naturetexte": "LOI",
+        "@numtexte": "64-707",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2012-351\n du 12 mars 2012 - art. 19 (V)",
+        "@cidtexte": "JORFTEXT000025498645",
+        "@datesignatexte": "2012-03-12",
+        "@id": "LEGIARTI000025501190",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "IOCD1129997R",
+        "@num": "19",
+        "@numtexte": "2012-351",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

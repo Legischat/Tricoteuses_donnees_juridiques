@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006409394",
+      "ANCIEN_ID": "PAIBQXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/93/LEGIARTI000006409394.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-01-01",
+        "DATE_FIN": "1995-05-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 novembre 1991 fixant le montant de l'allocation de fin de    service allouée à certains militaires appelés",
+          "@c_titre_court": "Arrêté du 22 novembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000538695"
+        },
+        {
+          "#text": "Arrêté du 22 novembre 1991 fixant le montant de l'allocation de fin de service allouée à certains militaires appelés",
+          "@c_titre_court": "Arrêté du 22 novembre 1991",
+          "@debut": "1991-01-01",
+          "@fin": "1995-05-06",
+          "@id_txt": "LEGITEXT000006078303"
+        }
+      ],
+      "@cid": "JORFTEXT000000538695",
+      "@date_publi": "1991-11-24",
+      "@date_signature": "1991-11-22",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "ARRETE",
+      "@nor": "DEFP9102181A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1995-05-06",
+          "@id": "LEGIARTI000006409394",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant de l'allocation prévue par le décret du 22 novembre 1991 susvisé est fixé à 350 F.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-04-21 art. 2 JORF 6 mai 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 91-1190 1991-11-22",
+        "@cidtexte": "JORFTEXT000000720928",
+        "@datesignatexte": "1991-11-22",
+        "@id": "JORFTEXT000000720928",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFP9102180D",
+        "@numtexte": "91-1190",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 91-1190 1991-11-22",
+        "@cidtexte": "JORFTEXT000000720928",
+        "@datesignatexte": "1991-11-22",
+        "@id": "JORFTEXT000000720928",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFP9102180D",
+        "@numtexte": "91-1190",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

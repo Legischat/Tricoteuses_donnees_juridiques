@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006854889",
+      "ANCIEN_ID": "UPHJRXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/48/LEGIARTI000006854889.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1981-04-10",
+        "DATE_FIN": "1991-09-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°81-324 du 7 avril 1981 FIXANT LES NORMES D'HYGIENE ET DE SECURITE APPLICABLES AUX PISCINES ET AUX BAIGNADES AMENAGEES",
+          "@c_titre_court": "Décret n°81-324 du 7 avril 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000857791"
+        },
+        {
+          "#text": "Décret n°81-324 du 7 avril 1981 fixant les normes d'hygiène et de sécurité applicables aux piscines et aux baignades aménagées",
+          "@c_titre_court": "Décret n°81-324 du 7 avril 1981",
+          "@debut": "1991-09-26",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006063476"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Installations",
+            "@debut": "1981-04-10",
+            "@fin": "1991-09-26",
+            "@id": "LEGISCTA000006109506"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000857791",
+      "@date_publi": "1981-04-10",
+      "@date_signature": "1981-04-07",
+      "@nature": "DECRET",
+      "@num": "81-324"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-04-10",
+          "@etat": "MODIFIE",
+          "@fin": "1991-09-26",
+          "@id": "LEGIARTI000006854889",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-09-26",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006854890",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'assainissement des établissements doit être réalisé de manière à éviter tout risque de pollution des eaux de baignade.<br/>\n<br/>   La conception et le nombre des installations sanitaires, déterminé en fonction de la capacité d'accueil de l'installation, doivent être conformes aux dispositions de l'annexe II du présent décret.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1981-04-07 (dispositions administratives applicables aux piscines et aux baignades aménagées)",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Arrêté 1981-04-07 (dispositions techniques applicables aux piscines)",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret n°81-324 du 7 avril 1981 - art. ANNEXE II (M)",
+        "@cidtexte": "JORFTEXT000000857791",
+        "@datesignatexte": "1981-04-07",
+        "@id": "LEGIARTI000006854915",
+        "@naturetexte": "DECRET",
+        "@num": "ANNEXE II",
+        "@numtexte": "81-324",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. D1332-8 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006909923",
+        "@naturetexte": "CODE",
+        "@num": "D1332-8",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

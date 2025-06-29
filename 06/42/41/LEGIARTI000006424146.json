@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006424146",
+      "ANCIEN_ID": "PCHHXXXXXXX020AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/41/LEGIARTI000006424146.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "20",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1990-12-13",
+        "DATE_FIN": "2007-01-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 90-1111 du 12 décembre 1990    portant statut de La Poste",
+          "@c_titre_court": "Décret n°90-1111 du 12 décembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000344533"
+        },
+        {
+          "#text": "Décret n°90-1111 du 12 décembre 1990 portant statut de La Poste",
+          "@c_titre_court": "Décret n°90-1111 du 12 décembre 1990",
+          "@debut": "1990-12-13",
+          "@fin": "2010-06-01",
+          "@id_txt": "LEGITEXT000006076865"
+        }
+      ],
+      "@cid": "JORFTEXT000000344533",
+      "@date_publi": "1990-12-13",
+      "@date_signature": "1990-12-12",
+      "@nature": "DECRET",
+      "@nor": "PTTC9000953D",
+      "@num": "90-1111"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-12-13",
+          "@etat": "TRANSFERE",
+          "@fin": "2007-01-07",
+          "@id": "LEGIARTI000006424146",
+          "@num": "20",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-01-07",
+          "@etat": "ABROGE",
+          "@fin": "2010-06-01",
+          "@id": "LEGIARTI000006424147",
+          "@num": "20",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le ministre d'Etat, ministre de l'économie, des finances et du budget, le ministre d'Etat, ministre de la fonction publique et des réformes administratives, le ministre des postes, des télécommunications et de l'espace et le ministre délégué au budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 90-1111 1990-12-12 art. 33",
+        "@cidtexte": "JORFTEXT000000344533",
+        "@datesignatexte": "1990-12-12",
+        "@id": "JORFTEXT000000344533",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PTTC9000953D",
+        "@numtexte": "90-1111",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 2007-29 2007-01-05 art. 4 1° JORF 7 janvier 2007",
+        "@cidtexte": "JORFTEXT000000646118",
+        "@datesignatexte": "2007-01-05",
+        "@id": "JORFTEXT000000646118",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDI0609109D",
+        "@numtexte": "2007-29",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      }
+    ]
+  }
+}

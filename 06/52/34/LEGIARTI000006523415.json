@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006523415",
+      "ANCIEN_ID": "PLIFNXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/34/LEGIARTI000006523415.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1er juillet 1995 modifiant l'arrêté du 13 septembre 1985 portant    règlement du pari mutuel",
+          "@c_titre_court": "Arrêté du 1 juillet 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000737650"
+        },
+        {
+          "#text": "Arrêté du 1 juillet 1995 modifiant l'arrêté du 13 septembre 1985 portant règlement du pari mutuel",
+          "@c_titre_court": "Arrêté du 1 juillet 1995",
+          "@debut": "1995-08-06",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005619157"
+        }
+      ],
+      "@cid": "JORFTEXT000000737650",
+      "@date_publi": "1995-08-06",
+      "@date_signature": "1995-07-01",
+      "@nature": "ARRETE",
+      "@nor": "AGRH9501424A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006523415",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-09-13",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 13 septembre 1985 - art. 50 (Ab)",
+        "@cidtexte": "JORFTEXT000000494091",
+        "@datesignatexte": "1985-09-13",
+        "@id": "LEGIARTI000023755439",
+        "@naturetexte": "ARRETE",
+        "@num": "50",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

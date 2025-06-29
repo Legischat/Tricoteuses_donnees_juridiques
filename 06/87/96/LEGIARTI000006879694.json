@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006879694",
+      "ANCIEN_ID": "UTHADXXXXXX022AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/96/LEGIARTI000006879694.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-02-04",
+        "DATE_FIN": "2023-10-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 67-967 du 27 octobre 1967 portant statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Décret n° 67-967 du 27 octobre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000702914"
+        },
+        {
+          "#text": "Décret n°67-967 du 27 octobre 1967 relatif au statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Décret n°67-967 du 27 octobre 1967",
+          "@debut": "1968-02-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061498"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre V : Hypothèques maritimes",
+            "@debut": "1968-02-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006111694"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000702914",
+      "@date_publi": "1967-11-04",
+      "@date_signature": "1967-10-27",
+      "@nature": "DECRET",
+      "@num": "67-967"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-02-04",
+          "@etat": "ABROGE",
+          "@fin": "2023-10-07",
+          "@id": "LEGIARTI000006879694",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'acquéreur déclarera par le même acte qu'il est prêt à acquitter sur-le-champ les dettes hypothécaires jusqu'à concurrence du prix d'acquisition sans distinction des dettes exigibles et non exigibles.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 67-5 1967-01-03",
+        "@cidtexte": "JORFTEXT000000878026",
+        "@datesignatexte": "1967-01-03",
+        "@id": "JORFTEXT000000878026",
+        "@naturetexte": "LOI",
+        "@numtexte": "67-5",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°67-967 du 27 octobre 1967 - art. 100 (V)",
+        "@cidtexte": "JORFTEXT000000702914",
+        "@datesignatexte": "1967-10-27",
+        "@id": "LEGIARTI000006879778",
+        "@naturetexte": "DECRET",
+        "@num": "100",
+        "@numtexte": "67-967",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°2023-921 du 5 octobre 2023 - art. 8 (V)",
+        "@cidtexte": "JORFTEXT000048157606",
+        "@datesignatexte": "2023-10-05",
+        "@id": "LEGIARTI000048159265",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMM2227798D",
+        "@num": "8",
+        "@numtexte": "2023-921",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

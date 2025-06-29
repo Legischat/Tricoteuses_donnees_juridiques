@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652511",
+      "ANCIEN_ID": "SBAXXXXXXXX5X05000AAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/25/LEGIARTI000006652511.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "50",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-11-19",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 4 : Des obligations de l'armateur envers le marin",
+            "@debut": "1926-12-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101380"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations",
+              "@debut": "1926-12-15",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123911"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 2 : De la suspension et de la rétention des salaires",
+                "@debut": "1926-12-15",
+                "@fin": "2010-12-01",
+                "@id": "LEGISCTA000006139985"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-12-15",
+          "@etat": "MODIFIE",
+          "@fin": "1997-11-19",
+          "@id": "LEGIARTI000006652510",
+          "@num": "50",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-11-19",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006652511",
+          "@num": "50",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'inexécution des obligations qui incombent au marin, soit en vertu des lois, décrets et usages en vigueur, soit en vertu du contrat d'engagement et des règlements particuliers auxquels le contrat se réfère, ne peut donner lieu à aucune amende ou suspension partielle de salaires autres que les amendes ou suspension résultant de l'application des lois pénales. <br/>\n<br/>   Cette disposition ne s'applique pas aux dédits stipulés dans les contrats d'engagement pour les cas de rupture du contrat avant le terme fixé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997",
+        "@cidtexte": "JORFTEXT000000751904",
+        "@datesignatexte": "1997-11-18",
+        "@id": "LEGIARTI000006624180",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9600072L",
+        "@num": "46",
+        "@numtexte": "97-1051",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307 du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

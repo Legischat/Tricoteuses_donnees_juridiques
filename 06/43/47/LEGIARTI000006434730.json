@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006434730",
+      "ANCIEN_ID": "PEAXXXXXXXX1X491L00AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/47/LEGIARTI000006434730.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "491",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1983-05-01",
+        "DATE_FIN": "2004-03-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de justice militaire",
+          "@c_titre_court": "Code de justice militaire",
+          "@debut": "1983-05-01",
+          "@fin": "2007-05-12",
+          "@id_txt": "LEGITEXT000006070884"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1983-05-01",
+            "@fin": "2007-05-12",
+            "@id": "LEGISCTA000006090526"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre IV : Des prévôtés et des tribunaux prévôtaux",
+              "@debut": "1983-05-01",
+              "@fin": "2007-05-12",
+              "@id": "LEGISCTA000006117977"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Des tribunaux prévôtaux",
+                "@debut": "1983-05-01",
+                "@fin": "2007-05-12",
+                "@id": "LEGISCTA000006136306"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre IV : Du jugement.",
+                  "@debut": "1983-05-01",
+                  "@fin": "2007-05-12",
+                  "@id": "LEGISCTA000006150216"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070884",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-01",
+          "@etat": "MODIFIE",
+          "@fin": "2004-03-10",
+          "@id": "LEGIARTI000006434730",
+          "@num": "491",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-03-10",
+          "@etat": "ABROGE",
+          "@fin": "2007-05-12",
+          "@id": "LEGIARTI000006434731",
+          "@num": "491",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si le prévôt estime que le fait relève de sa compétence, il prononce la peine en indiquant l'infraction dont le prévenu est déclaré coupable, ainsi que les textes appliqués ; il condamne le prévenu aux frais envers l'Etat et fixe la durée de la contrainte judiciaire.<br/>\n<br/>   Dans le cas contraire, il transmet sans délai la procédure, et éventuellement, fait conduire le prévenu devant l'autorité judiciaire ou militaire qui a mis en mouvement l'action publique.<br/>\n<br/>   Si le prévôt estime que le fait ne constitue aucune infraction ou que le fait n'est pas établi ou qu'il n'est pas imputable au prévenu, il renvoie celui-ci des fins de la poursuite.<br/>\n<br/>   Il statue sur la demande de dommages-intérêts de la partie civile et sur la restitution des objets saisis.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 82-621 1982-07-21 JORF 22 juillet 1982 rectificatif JORF 3 août 1982 en vigueur le 1er mai 1983",
+        "@cidtexte": "JORFTEXT000000504202",
+        "@datesignatexte": "1982-07-21",
+        "@id": "JORFTEXT000000504202",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-621",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 82-984 1982-11-19",
+        "@cidtexte": "JORFTEXT000000331734",
+        "@datesignatexte": "1982-11-19",
+        "@id": "JORFTEXT000000331734",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-984",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006218942",
+      "ANCIEN_ID": "UTHT2XXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/21/89/LEGIARTI000006218942.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "2006-07-07",
+        "DATE_FIN": "2009-07-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2003-416 du 30 avril 2003  relatif au transport de bois ronds",
+          "@c_titre_court": "Décret n°2003-416 du 30 avril 2003",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000411890"
+        },
+        {
+          "#text": "Décret n°2003-416 du 30 avril 2003 relatif au transport de bois ronds.",
+          "@c_titre_court": "Décret n°2003-416 du 30 avril 2003",
+          "@debut": "2003-05-08",
+          "@fin": "2009-07-08",
+          "@id_txt": "LEGITEXT000005634347"
+        }
+      ],
+      "@cid": "JORFTEXT000000411890",
+      "@date_publi": "2003-05-08",
+      "@date_signature": "2003-04-30",
+      "@ministere": "MINISTERE DE L'EQUIPEMENT, DES TRANSPORTS, DU LOGEMENT, DU TOURISME ET DE LA MER",
+      "@nature": "DECRET",
+      "@nor": "EQUS0201837D",
+      "@num": "2003-416"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-05-08",
+          "@etat": "MODIFIE",
+          "@fin": "2006-07-07",
+          "@id": "LEGIARTI000006218941",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-07",
+          "@etat": "PERIME",
+          "@fin": "2009-07-08",
+          "@id": "LEGIARTI000006218942",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001633307",
+          "@num": "3",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent décret sont applicables jusqu'au 8 juillet 2009.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Directive 96-53 CE 1996-07-25 (Conseil)",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Directive 97-27 CE 1997-07-22 (Conseil)",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°2003-416 du 30 avril 2003 - art. 3, v. init.",
+        "@cidtexte": "JORFTEXT000000411890",
+        "@datesignatexte": "2003-04-30",
+        "@id": "JORFARTI000001633307",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS0201837D",
+        "@num": "3",
+        "@numtexte": "2003-416",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°2006-807 du 6 juillet 2006 - art. 1 () JORF 7 juillet 2006",
+        "@cidtexte": "JORFTEXT000000425713",
+        "@datesignatexte": "2006-07-06",
+        "@id": "LEGIARTI000006252829",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS0601422D",
+        "@num": "1",
+        "@numtexte": "2006-807",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

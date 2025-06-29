@@ -1,0 +1,165 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006612004",
+      "ANCIEN_ID": "RBAXXXXXXXX2X154R02AXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/20/LEGIARTI000006612004.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R154-2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-07-14",
+        "DATE_FIN": "2012-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099186"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Régime forestier.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121948"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre V : Dispositions communes aux forêts et terrains relevant du régime forestier.",
+                "@debut": "2003-06-22",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138752"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre IV : Exécution des jugements concernant les délits et contraventions commis dans les forêts et terrains relevant du régime forestier.",
+                  "@debut": "2003-06-22",
+                  "@fin": "2012-07-01",
+                  "@id": "LEGISCTA000006152978"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "2003-06-22",
+          "@id": "LEGIARTI000006612002",
+          "@num": "R154-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-06-22",
+          "@etat": "MODIFIE",
+          "@fin": "2006-07-14",
+          "@id": "LEGIARTI000006612003",
+          "@num": "R154-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006612004",
+          "@num": "R154-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les extraits des jugements contradictoires contre lesquels les condamnés n'ont pas interjeté appel sont remis par les greffiers directement au comptable du Trésor dix jours après celui où le jugement a été prononcé.<br/>\n<br/>   L'extrait des jugements ou arrêts rendus sur appel est remis directement aux comptables du Trésor par les greffiers des cours et tribunaux d'appel, quatre jours après celui où le jugement a été prononcé, si le condamné ne s'est point pourvu en cassation.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°79-114 du 25 janvier 1979",
+        "@cidtexte": "JORFTEXT000000880704",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880704",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-114",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2006-871 du 12 juillet 2006 - art. 4 () JORF 14 juillet 2006",
+        "@cidtexte": "JORFTEXT000000609862",
+        "@datesignatexte": "2006-07-12",
+        "@id": "LEGIARTI000006253074",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRF0601025D",
+        "@num": "4",
+        "@numtexte": "2006-871",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code forestier (nouveau) - art. R162-1 (V)",
+        "@cidtexte": "LEGITEXT000025244092",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000026127969",
+        "@naturetexte": "CODE",
+        "@num": "R162-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret n°2012-836\n du 29 juin 2012 - art. 6",
+        "@cidtexte": "JORFTEXT000026120331",
+        "@datesignatexte": "2012-06-29",
+        "@id": "LEGIARTI000026124107",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS1202581D",
+        "@num": "6",
+        "@numtexte": "2012-836",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

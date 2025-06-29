@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006916812",
+      "ANCIEN_ID": "AKFAIXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/68/LEGIARTI000006916812.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1998-05-24",
+        "DATE_FIN": "2012-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-2591 du 2 novembre 1945 relative au statut des avoués",
+          "@c_titre_court": "Ordonnance n°45-2591 du 2 novembre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000334192"
+        },
+        {
+          "#text": "Ordonnance n° 45-2591 du 2 novembre 1945 relative au statut des avoués",
+          "@c_titre_court": "Ordonnance n° 45-2591 du 2 novembre 1945",
+          "@debut": "1945-11-03",
+          "@fin": "2012-01-01",
+          "@id_txt": "LEGITEXT000006069176"
+        }
+      ],
+      "@cid": "JORFTEXT000000334192",
+      "@date_publi": "1945-11-03",
+      "@date_signature": "1945-11-02",
+      "@nature": "ORDONNANCE",
+      "@num": "45-2591"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-11-03",
+          "@etat": "MODIFIE",
+          "@fin": "1998-05-24",
+          "@id": "LEGIARTI000006916811",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1998-05-24",
+          "@etat": "ABROGE",
+          "@fin": "2012-01-01",
+          "@id": "LEGIARTI000006916812",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les avoués sont les officiers ministériels qui représentent les parties devant les cours d'appel auprès desquelles ils sont établis.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°98-399 du 22 mai 1998 - art. 1 () JORF 24 mai 1998",
+        "@cidtexte": "JORFTEXT000000740652",
+        "@datesignatexte": "1998-05-22",
+        "@id": "LEGIARTI000006202486",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC9820221D",
+        "@num": "1",
+        "@numtexte": "98-399",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2011-94\n du 25 janvier 2011 - art. 33 (V)",
+        "@cidtexte": "JORFTEXT000023474278",
+        "@datesignatexte": "2011-01-25",
+        "@id": "LEGIARTI000023475428",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSC0909345L",
+        "@num": "33",
+        "@numtexte": "2011-94",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006323927",
+      "ANCIEN_ID": "FAHEKXXXXXX012AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/39/LEGIARTI000006323927.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-01-31",
+        "DATE_FIN": "1994-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°71-490 du 23 juin 1971 INSTITUANT UN COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT ET CREANT UNE TAXE PARAFISCALE AU PROFIT DE CE COMITE",
+          "@c_titre_court": "Décret n°71-490 du 23 juin 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000335236"
+        },
+        {
+          "#text": "Décret n°71-490 du 23 juin 1971 DU 23 JUIN 1971 INSTITUANT UN COMITE DE DEVELOPPEMENT DES INDUSTRIES FRANCAISES DE L'AMEUBLEMENT ET CREANT UNE TAXE PARAFISCALE AU PROFIT DE CE COMITE.",
+          "@c_titre_court": "Décret n°71-490 du 23 juin 1971",
+          "@debut": "1971-06-25",
+          "@fin": "2009-04-04",
+          "@id_txt": "LEGITEXT000006061827"
+        }
+      ],
+      "@cid": "JORFTEXT000000335236",
+      "@date_publi": "1971-06-25",
+      "@date_signature": "1971-06-23",
+      "@nature": "DECRET",
+      "@num": "71-490"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-06-25",
+          "@etat": "MODIFIE",
+          "@fin": "1981-12-16",
+          "@id": "LEGIARTI000006323925",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-12-16",
+          "@etat": "MODIFIE",
+          "@fin": "1985-01-31",
+          "@id": "LEGIARTI000006323926",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-31",
+          "@etat": "ABROGE",
+          "@fin": "1994-12-31",
+          "@id": "LEGIARTI000006323927",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Cette taxe est assise et recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur la valeur ajoutée, sous réserve des dispositions des articles 13 et 14 ci-après.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-141 1985-01-30 art. 13, art. 14",
+        "@cidtexte": "JORFTEXT000000866862",
+        "@datesignatexte": "1985-01-30",
+        "@id": "JORFTEXT000000866862",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-141",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "La taxe est instituée jusqu'au 31 décembre 1985",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi 94-1213 1994-12-30 art. 5 JORF 31 décembre 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006432340",
+      "ANCIEN_ID": "PDIBMXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/23/LEGIARTI000006432340.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-01-15",
+        "DATE_FIN": "2009-10-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 mars 1996 relatif au contrôle des recettes dans les salles de    spectacles cinématographiques",
+          "@c_titre_court": "Arrêté du 4 mars 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000559322"
+        },
+        {
+          "#text": "Arrêté du 4 mars 1996 relatif au contrôle des recettes dans les salles de spectacles cinématographiques",
+          "@c_titre_court": "Arrêté du 4 mars 1996",
+          "@debut": "1996-03-28",
+          "@fin": "2009-10-19",
+          "@id_txt": "LEGITEXT000005620643"
+        }
+      ],
+      "@cid": "JORFTEXT000000559322",
+      "@date_publi": "1996-03-28",
+      "@date_signature": "1996-03-04",
+      "@ministere": "MINISTERE DU BUDGET",
+      "@nature": "ARRETE",
+      "@nor": "BUDF9500017A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-03-28",
+          "@etat": "MODIFIE",
+          "@fin": "2004-01-15",
+          "@id": "LEGIARTI000006432339",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-01-15",
+          "@etat": "ABROGE",
+          "@fin": "2009-10-19",
+          "@id": "LEGIARTI000006432340",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les billets délivrés doivent être extraits d'un carnet à souche ou d'un distributeur automatique. Ils doivent mentionner le nom de la localité, celui de l'établissement, le numéro d'ordre dans la série des billets, la catégorie de places à laquelle ils donnent droit ainsi que le nom du fabricant ou du marchand ou de l'importateur.<br/>\n<br/>   Lorsque les billets sont imprimés et édités par des caisses automatisées ou des systèmes informatisés dans les conditions prévues à l'article 50 sexies B de l'annexe IV du code général des impôts, ils doivent obligatoirement comporter sur la partie réservée au spectateur et sur la partie réservée au contrôle les mentions suivantes :<br/>\n<br/>   - le titre du film, éventuellement en abrégé ;<br/>\n<br/>   - l'identification de la série des billets ;<br/>\n<br/>   - le numéro du billet dans la série ;<br/>\n<br/>   - le prix payé par le spectateur ou, dans le cas de formules d'accès donnant droit à des entrées multiples, le prix payé pour la formule avec l'identification de celle-ci ;<br/>\n<br/>   - l'identification de la séance pour laquelle le billet est vendu (jour, heure ou numéro de séance) ;<br/>\n<br/>   - l'identification de la salle ou son numéro dans le complexe ;<br/>\n<br/>   - le numéro d'opération, s'il s'agit d'un système informatisé.<br/>\n<br/>   Au cas où plusieurs caisses automatisées ou systèmes informatisés assurent la vente des billets d'une même série pour une même salle, la caisse ou le système qui a édité et comptabilisé le billet doit être mentionné. \"<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2004-01-02 art. 2 JORF 15 janvier 2004",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 16 octobre 2009 - art. 3",
+        "@cidtexte": "JORFTEXT000021164127",
+        "@datesignatexte": "2009-10-16",
+        "@id": "LEGIARTI000021165228",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "MCCK0918755A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "CGIAN4 50 sexies B",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

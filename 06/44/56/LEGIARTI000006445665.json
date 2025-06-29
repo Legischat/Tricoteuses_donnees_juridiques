@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006445665",
+      "ANCIEN_ID": "ACAXXXXXXXX5X02057AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/56/LEGIARTI000006445665.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2057",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1804-03-21",
+        "DATE_FIN": "2016-11-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : Des différentes manières dont on acquiert la propriété",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006090271"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre XV : Des transactions",
+              "@debut": "1804-03-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118164"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1804-03-21",
+          "@etat": "ABROGE",
+          "@fin": "2016-11-20",
+          "@id": "LEGIARTI000006445665",
+          "@num": "2057",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque les parties ont transigé généralement sur toutes les affaires qu'elles pouvaient avoir ensemble, les titres qui leur étaient alors inconnus, et qui auraient été postérieurement découverts, ne sont point une cause de rescision, à moins qu'ils n'aient été retenus par le fait de l'une des parties.<br/>\n<br/>   Mais la transaction serait nulle si elle n'avait qu'un objet sur lequel il serait constaté, par des titres nouvellement découverts, que l'une des parties n'avait aucun droit.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2016-1547 du 18 novembre 2016 - art. 10",
+        "@cidtexte": "JORFTEXT000033418805",
+        "@datesignatexte": "2016-11-18",
+        "@id": "LEGIARTI000033423938",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX1515639L",
+        "@num": "10",
+        "@numtexte": "2016-1547",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1804-03-20",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1804-03-20 promulguée le 30 mars 1804",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

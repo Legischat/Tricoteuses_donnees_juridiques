@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006880080",
+      "ANCIEN_ID": "UTHALXXXXXX025AAXXXXXXBA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/00/LEGIARTI000006880080.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25 bis",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1971-11-26",
+        "DATE_FIN": "1979-04-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°49-1473 du 14 novembre 1949 relatif à la coordination et à l'harmonisation des transports ferroviaires et routiers",
+          "@c_titre_court": "Décret n°49-1473 du 14 novembre 1949",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000496442"
+        },
+        {
+          "#text": "Décret n°49-1473 du 14 novembre 1949 relatif à la coordination et à l'harmonisation des transports ferroviaires et routiers",
+          "@c_titre_court": "Décret n°49-1473 du 14 novembre 1949",
+          "@debut": "1949-11-15",
+          "@fin": "2012-09-30",
+          "@id_txt": "LEGITEXT000006060535"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : TRANSPORTS DE MARCHANDISES",
+            "@debut": "1949-11-15",
+            "@fin": "2012-09-30",
+            "@id": "LEGISCTA000006111715"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "INSCRIPTION AU REGISTRE DES TRANSPORTEURS ROUTIERS.",
+              "@debut": "1949-11-15",
+              "@fin": "1986-03-18",
+              "@id": "LEGISCTA000006131390"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000496442",
+      "@date_publi": "1949-11-15",
+      "@date_signature": "1949-11-14",
+      "@nature": "DECRET",
+      "@num": "49-1473"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-11-26",
+          "@etat": "MODIFIE",
+          "@fin": "1979-04-01",
+          "@id": "LEGIARTI000006880080",
+          "@num": "25 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-04-01",
+          "@etat": "ABROGE",
+          "@fin": "1986-03-18",
+          "@id": "LEGIARTI000006880081",
+          "@num": "25 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Pour exécuter un transport routier de marchandises, le véhicule ou l'ensemble de véhicules doit être muni d'une licence dont la validité géographique couvre la totalité du trajet entre les lieux de chargement et de déchargement.<br/>\n<br/>       Toutefois, un arrêté du ministre des transports peut prévoir que, dans certaines limites et sous certaines conditions, si le transport est assuré par un véhicule articulé et s'il y a changement de tracteur pour le parcours initial ou terminal dans une zone d'attraction urbaine, l'ensemble peut être muni durant ce parcours d'une licence de zone de camionnage ou de zone courte.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°49-874 du 5 juillet 1949 - art. 7, v. init.",
+        "@cidtexte": "JORFTEXT000000878003",
+        "@datesignatexte": "1949-07-05",
+        "@id": "JORFARTI000001680885",
+        "@naturetexte": "LOI",
+        "@num": "7",
+        "@numtexte": "49-874",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 49-1473 1949-11-14 ART. 23 (champ d'application - transports exclus)",
+        "@cidtexte": "JORFTEXT000000496442",
+        "@datesignatexte": "1949-11-14",
+        "@id": "JORFTEXT000000496442",
+        "@naturetexte": "DECRET",
+        "@numtexte": "49-1473",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

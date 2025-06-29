@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006926920",
+      "ANCIEN_ID": "AKHEIXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/69/LEGIARTI000006926920.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1982-01-01",
+        "DATE_FIN": "1990-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°81-445 du 9 mai 1981 CONDITIONS MINIMALES D'ASSURANCE DE LA RESPONSABILITE PROFESSIONNELLE DES PERSONNES PHYSIQUES OU MORALES INSCRITES AU TABLEAU DE L'ORDRE DES EXPERTS COMPTABLES ET DES COMPTABLES AGREES OU AUTORISES A EXERCER EN FRANCE LA PROFESSION D'EXPERT COMPTABLE",
+          "@c_titre_court": "Décret n°81-445 du 9 mai 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503510"
+        },
+        {
+          "#text": "Décret n°81-445 du 7 mai 1981 pris en application de la loi n° 68-946 du 31 octobre 1968 modifiant le statut de l'ordre des experts comptables et des comptables agréés",
+          "@c_titre_court": "Décret n°81-445 du 7 mai 1981",
+          "@debut": "1982-01-01",
+          "@fin": "1996-01-24",
+          "@id_txt": "LEGITEXT000006063514"
+        }
+      ],
+      "@cid": "JORFTEXT000000503510",
+      "@date_publi": "1981-05-09",
+      "@date_signature": "1981-05-09",
+      "@nature": "DECRET",
+      "@num": "81-445"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1990-01-01",
+          "@id": "LEGIARTI000006926920",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1996-01-24",
+          "@id": "LEGIARTI000006926921",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les contrats visés à l'article 1er doivent être d'une durée minimale d'un an et comporter une clause de tacite reconduction annuelle.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-2138 1945-09-19",
+        "@cidtexte": "JORFTEXT000000698851",
+        "@datesignatexte": "1945-09-19",
+        "@id": "JORFTEXT000000698851",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2138",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 68-946 1968-10-31",
+        "@cidtexte": "JORFTEXT000000317517",
+        "@datesignatexte": "1968-10-31",
+        "@id": "JORFTEXT000000317517",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-946",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 81-445 1981-05-07 art. 1",
+        "@cidtexte": "JORFTEXT000000503510",
+        "@datesignatexte": "1981-05-09",
+        "@id": "JORFTEXT000000503510",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-445",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

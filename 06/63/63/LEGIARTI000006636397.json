@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006636397",
+      "ANCIEN_ID": "ADIXPXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/63/LEGIARTI000006636397.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-06-16",
+        "DATE_FIN": "2002-09-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 mai 1985 relatif au traitement par rayonnements ionisants de la gomme arabique, des légumes déshydratés et des flocons et germes de céréales",
+          "@c_titre_court": "Arrêté du 17 mai 1985",
+          "@debut": "1985-06-16",
+          "@fin": "2002-09-07",
+          "@id_txt": "LEGITEXT000006071961"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions relatives au traitement de la gomme arabique.",
+            "@debut": "1985-06-16",
+            "@fin": "2002-09-07",
+            "@id": "LEGISCTA000006100553"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071961",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-05-17",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-06-16",
+          "@etat": "ABROGE",
+          "@fin": "2002-09-07",
+          "@id": "LEGIARTI000006636397",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La gomme arabique ayant subi le traitement prévu à l'article 1er doit répondre aux critères de pureté et aux spécifications fixés par l'arrêté du 25 janvier 1982 susvisé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-01-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1985-05-17 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 70-392 1970-05-08",
+        "@cidtexte": "JORFTEXT000000304045",
+        "@datesignatexte": "1970-05-08",
+        "@id": "JORFTEXT000000304045",
+        "@naturetexte": "DECRET",
+        "@numtexte": "70-392",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 20 août 2002 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000410150",
+        "@datesignatexte": "2002-08-20",
+        "@id": "LEGIARTI000021244775",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC0200067A",
+        "@num": "4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

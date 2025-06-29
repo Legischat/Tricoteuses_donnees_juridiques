@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006238328",
+      "ANCIEN_ID": "PAIG6XXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/23/83/LEGIARTI000006238328.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-02-01",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 janvier 2005 relatif à l'organisation du centre des hautes études de l'armement",
+          "@c_titre_court": "Arrêté du 31 janvier 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000606017"
+        },
+        {
+          "#text": "Arrêté du 31 janvier 2005 relatif à l'organisation du centre des hautes études de l'armement.",
+          "@c_titre_court": "Arrêté du 31 janvier 2005",
+          "@debut": "2005-02-01",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000006051210"
+        }
+      ],
+      "@cid": "JORFTEXT000000606017",
+      "@date_publi": "2005-02-01",
+      "@date_signature": "2005-01-31",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "ARRETE",
+      "@nor": "DEFD0500041A",
+      "@num_parution_jo": "0026"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-02-01",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006238328",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001268617",
+          "@num": "4",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 25 août 2000 relatif à l'organisation du centre des hautes études de l'armement est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2000-08-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 2 décembre 2009 - art. 99 (Ab)",
+        "@cidtexte": "JORFTEXT000021466720",
+        "@datesignatexte": "2009-12-02",
+        "@id": "LEGIARTI000021476730",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEFD0928921A",
+        "@num": "99",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

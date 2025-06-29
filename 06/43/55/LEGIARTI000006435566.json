@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006435566",
+      "ANCIEN_ID": "PEEARXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/55/LEGIARTI000006435566.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1886-10-31",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi  du 30 octobre 1886 portant sur l'organisation de l'enseignement primaire.",
+          "@c_titre_court": "Loi  du 30 octobre 1886",
+          "@debut": "1886-10-31",
+          "@fin": "2000-06-22",
+          "@id_txt": "LEGITEXT000006070886"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : De l'enseignement public",
+            "@debut": "1886-10-31",
+            "@fin": "2000-06-22",
+            "@id": "LEGISCTA000006090568"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Du personnel enseignant",
+              "@debut": "1886-10-31",
+              "@fin": "2000-06-22",
+              "@id": "LEGISCTA000006118005"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Conditions requises",
+                "@debut": "1886-10-31",
+                "@fin": "2000-06-22",
+                "@id": "LEGISCTA000006136324"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070886",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1886-10-30",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1886-10-31",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006435566",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les écoles publiques de tout ordre, l'enseignement est exclusivement confié à un personnel laïque.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 2000-549 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583540",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006435990",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "MENX0000033R",
+        "@num": "7",
+        "@numtexte": "2000-549",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. L141-5 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006524455",
+        "@naturetexte": "CODE",
+        "@num": "L141-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

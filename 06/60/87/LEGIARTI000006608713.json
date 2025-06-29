@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006608713",
+      "ANCIEN_ID": "ADIDUXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/87/LEGIARTI000006608713.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1965-11-19",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 novembre 1965 relatif aux conditions de collecte et de commercialisation des oeufs",
+          "@c_titre_court": "Arrêté du 4 novembre 1965",
+          "@debut": "1965-11-19",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000006071484"
+        }
+      ],
+      "@cid": "LEGITEXT000006071484",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1965-11-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-11-19",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006608713",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les locaux, le matériel et les appareils visés au présent règlement doivent être constamment maintenus en bon état d'entretien et de propreté et désinfectés aussi souvent que nécessaire.<br/>\n<br/>   Les désinfectants utilisés ne doivent en aucun cas avoir une odeur pénétrante susceptible de se communiquer aux oeufs.<br/>\n<br/>   Les oeufs reconnus impropres à la consommation doivent être immédiatement placés dans les récipients destinés à les recevoir prévus à l'article 7 (par. 8) du présent arrêté.<br/>\n<br/>   Ces récipients sont vidés, lavés et désinfectés chaque jour.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1965-11-04 art. 7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 65-116 1965-02-15",
+        "@cidtexte": "JORFTEXT000000493917",
+        "@datesignatexte": "1965-02-15",
+        "@id": "JORFTEXT000000493917",
+        "@naturetexte": "DECRET",
+        "@numtexte": "65-116",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 21 décembre 2009 - art. 9 (V)",
+        "@cidtexte": "JORFTEXT000021573483",
+        "@datesignatexte": "2009-12-21",
+        "@id": "LEGIARTI000021676880",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0927709A",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

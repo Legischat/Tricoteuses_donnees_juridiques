@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006421305",
+      "ANCIEN_ID": "ACAXXXXXXXX5X00085AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/13/LEGIARTI000006421305.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "85",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1804-03-21",
+        "DATE_FIN": "2011-05-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Des personnes",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089697"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Des actes de l'état civil",
+              "@debut": "1804-03-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117679"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre IV : Des actes de décès.",
+                "@debut": "1804-03-21",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006136105"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1804-03-21",
+          "@etat": "MODIFIE",
+          "@fin": "2011-05-19",
+          "@id": "LEGIARTI000006421305",
+          "@num": "85",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2011-05-19",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000024041539",
+          "@num": "85",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Dans tous les cas de mort violente, ou dans les prisons et maisons de réclusion, ou d'exécution à mort, il ne sera fait sur les registres aucune mention de ces circonstances, et les actes de décès seront simplement rédigés dans les formes prescrites par l'article 79.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code pénitentiaire - art. L214-8 (V)",
+        "@cidtexte": "LEGITEXT000045476241",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000045480390",
+        "@naturetexte": "CODE",
+        "@num": "L214-8",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code civil - art. 79 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006421236",
+        "@naturetexte": "CODE",
+        "@num": "79",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1803-03-11",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1803-03-11 promulguée le 21 mars 1803",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006773793",
+      "ANCIEN_ID": "SSHBE5XXXXX014AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/77/37/LEGIARTI000006773793.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-06-09",
+        "DATE_FIN": "1990-02-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°51-727 du 6 juin 1951 ASSURANCES SOCIALES AGRICOLES",
+          "@c_titre_court": "Décret n°51-727 du 6 juin 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868022"
+        },
+        {
+          "#text": "Décret n°51-727 du 6 juin 1951  FIXANT LE REGIME DES PENSIONS DE VIEILLESSE ET D'INVALIDITE DE L'ASSURANCE SOCIALE OBLIGATOIRE AGRICOLE.",
+          "@c_titre_court": "Décret n°51-727 du 6 juin 1951",
+          "@debut": "1951-06-09",
+          "@fin": "1990-02-21",
+          "@id_txt": "LEGITEXT000006060617"
+        }
+      ],
+      "@cid": "JORFTEXT000000868022",
+      "@date_publi": "1951-06-09",
+      "@date_signature": "1951-06-06",
+      "@nature": "DECRET",
+      "@num": "51-727"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-06-09",
+          "@etat": "ABROGE",
+          "@fin": "1990-02-21",
+          "@id": "LEGIARTI000006773793",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un règlement d'administration publique déterminera les conditions d'application du présent décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°51-727 du 6 juin 1951 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000868022",
+        "@datesignatexte": "1951-06-06",
+        "@id": "LEGIARTI000006773766",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "51-727",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 90-161 1990-02-19 art. 2 II",
+        "@cidtexte": "JORFTEXT000000349902",
+        "@datesignatexte": "1990-02-19",
+        "@id": "JORFTEXT000000349902",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS8902331D",
+        "@numtexte": "90-161",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 90-161 1990-02-19 art. 2 JORF 21 février 1990",
+        "@cidtexte": "JORFTEXT000000349902",
+        "@datesignatexte": "1990-02-19",
+        "@id": "JORFTEXT000000349902",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS8902331D",
+        "@numtexte": "90-161",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

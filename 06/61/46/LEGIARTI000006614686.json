@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006614686",
+      "ANCIEN_ID": "ADIIEXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/46/LEGIARTI000006614686.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-02-05",
+        "DATE_FIN": "1983-09-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 février 1983 relatif aux prix de certains fruits et légumes frais et pommes de terre de primeur",
+          "@c_titre_court": "Arrêté du 4 février 1983",
+          "@debut": "1983-02-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071561"
+        }
+      ],
+      "@cid": "LEGITEXT000006071561",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-02-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-02-05",
+          "@etat": "ABROGE",
+          "@fin": "1983-09-16",
+          "@id": "LEGIARTI000006614686",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est entériné par le présent arrêté l'avenant à la convention professionnelle nationale du 28 octobre 1982 souscrite par l'union nationale des fruitiers détaillants et le syndicat national des maisons à succursales, ci-joint en annexe.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 11/A 1983-02-04 BOCC n° 3, 5 février 1983",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 48/A 1983-09-15 art. 7 BOCC n° 17, 16 septembre 1983",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006425543",
+      "ANCIEN_ID": "ACAXXXXXXXX5X00339AAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/55/LEGIARTI000006425543.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "339",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-07-06",
+        "DATE_FIN": "2006-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Des personnes",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089697"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VII : De la filiation",
+              "@debut": "1972-08-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117789"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : De la filiation naturelle.",
+                "@debut": "1972-08-01",
+                "@fin": "2006-07-01",
+                "@id": "LEGISCTA000006136187"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 2 : De la reconnaissance des enfants naturels",
+                  "@debut": "1972-08-01",
+                  "@fin": "2006-07-01",
+                  "@id": "LEGISCTA000006150060"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-08-01",
+          "@etat": "MODIFIE",
+          "@fin": "1996-07-06",
+          "@id": "LEGIARTI000006425542",
+          "@num": "339",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-06",
+          "@etat": "ABROGE",
+          "@fin": "2006-07-01",
+          "@id": "LEGIARTI000006425543",
+          "@num": "339",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La reconnaissance peut être contestée par toutes personnes qui y ont intérêt, même par son auteur.<br/>\n<br/>   L'action est aussi ouverte au ministère public, si des indices tirés des actes eux-mêmes rendent invraisemblable la filiation déclarée. Elle lui est également ouverte lorsque la reconnaissance est effectuée en fraude des règles régissant l'adoption.<br/>\n<br/>   Quand il existe une possession d'état conforme à la reconnaissance et qui a duré dix ans au moins depuis celle-ci, aucune contestation n'est plus recevable, si ce n'est de la part de l'autre parent, de l'enfant lui-même ou de ceux qui se prétendent les parents véritables.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1803-03-14",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°72-3 du 3 janvier 1972 - art. 16 (V)",
+        "@cidtexte": "JORFTEXT000000875196",
+        "@datesignatexte": "1972-01-03",
+        "@id": "LEGIARTI000006283641",
+        "@naturetexte": "LOI",
+        "@num": "16",
+        "@numtexte": "72-3",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°96-604 du 5 juillet 1996 - art. 26 () JORF 6 juillet 1996",
+        "@cidtexte": "JORFTEXT000000193679",
+        "@datesignatexte": "1996-07-05",
+        "@id": "LEGIARTI000006284481",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9601574L",
+        "@num": "26",
+        "@numtexte": "96-604",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application",
+        "@cidtexte": "JORFTEXT000000451869",
+        "@datesignatexte": "2005-07-04",
+        "@id": "JORFTEXT000000451869",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0500068R",
+        "@numtexte": "2005-759",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006",
+        "@cidtexte": "JORFTEXT000000451869",
+        "@datesignatexte": "2005-07-04",
+        "@id": "LEGIARTI000006285068",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0500068R",
+        "@num": "18",
+        "@numtexte": "2005-759",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006450478",
+      "ANCIEN_ID": "ACAXXXXXXXX5X02490AAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/04/LEGIARTI000006450478.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2490",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2008-01-01",
+        "DATE_FIN": "2011-04-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre V : Dispositions applicables à Mayotte",
+            "@debut": "2006-03-24",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006091523"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-03-24",
+          "@etat": "MODIFIE",
+          "@fin": "2008-01-01",
+          "@id": "LEGIARTI000006450477",
+          "@num": "2490",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2008-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2011-04-01",
+          "@id": "LEGIARTI000006450478",
+          "@num": "2490",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2011-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "2013-01-01",
+          "@id": "LEGIARTI000023822336",
+          "@num": "2490",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2013-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2020-01-01",
+          "@id": "LEGIARTI000022336314",
+          "@num": "2490",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2020-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000039119523",
+          "@num": "2490",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Pour l'application du présent code à Mayotte, les termes énumérés ci-après sont remplacés comme suit :</p>\n<p>1° \"Tribunal de grande instance\" ou \"tribunal d'instance\" par : \"tribunal de première instance\" ;</p>\n<p>2° \"Cour\" ou \"cour d'appel\" par : \"tribunal supérieur d'appel\" ;</p>\n<p>3° \"Juge d'instance\" par : \"président du tribunal de première instance ou son délégué\" ;</p>\n<p>4° \"Département\" ou \"arrondissement\" par : \"collectivité départementale\" ;</p>\n<p>5° (Supprimé) ;</p>\n<p>6° \"Décret du 4 janvier 1955\" par : \"dispositions du titre IV du livre IV\" ;</p>\n<p>7° \"Bureau des hypothèques\" ou \"conservation des hypothèques\" par : \"service de la conservation de la propriété immobilière\" ;</p>\n<p>8° \"Conservateur des hypothèques\" par : \"conservateur de la propriété immobilière\" ;</p>\n<p>9° \"Inscription à la conservation des hypothèques\" par : \"inscription au livre foncier\" ;</p>\n<p>10° \"Fichier immobilier\" par : \"livre foncier\".</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1804-03-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2005-870 du 28 juillet 2005 - art. 2 () JORF 29 juillet 2005 en vigueur le 1er janvier 2008",
+        "@cidtexte": "JORFTEXT000000261651",
+        "@datesignatexte": "2005-07-28",
+        "@id": "LEGIARTI000006531510",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DOMX0500128R",
+        "@num": "2",
+        "@numtexte": "2005-870",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code civil - art. 2285 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006448040",
+        "@naturetexte": "CODE",
+        "@num": "2285",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code civil - art. 2285 (T)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006448041",
+        "@naturetexte": "CODE",
+        "@num": "2285",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

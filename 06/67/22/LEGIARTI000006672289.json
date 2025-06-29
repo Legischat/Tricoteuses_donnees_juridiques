@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006672289",
+      "ANCIEN_ID": "SFHF9XXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/22/LEGIARTI000006672289.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1949-01-12",
+        "DATE_FIN": "2017-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°49-39 du 11 janvier 1949 relatif à la formation professionnelle accélérée et réduisant le nombre des centres subventionnés par l'Etat.",
+          "@c_titre_court": "Décret n°49-39 du 11 janvier 1949",
+          "@debut": "1949-01-12",
+          "@fin": "2017-01-01",
+          "@id_txt": "LEGITEXT000006072290"
+        }
+      ],
+      "@cid": "LEGITEXT000006072290",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1949-01-11",
+      "@nature": "DECRET",
+      "@num": "49-39"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1949-01-12",
+          "@etat": "ABROGE",
+          "@fin": "2017-01-01",
+          "@id": "LEGIARTI000006672289",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 7 du décret n° 46-2511 du 9 novembre 1946 susvisé est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°46-2511 du 9 novembre 1946",
+        "@cidtexte": "JORFTEXT000000500798",
+        "@datesignatexte": "1946-11-09",
+        "@id": "JORFTEXT000000500798",
+        "@naturetexte": "DECRET",
+        "@numtexte": "46-2511",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2016-1539 du 15 novembre 2016 - art. 7",
+        "@cidtexte": "JORFTEXT000033394500",
+        "@datesignatexte": "2016-11-15",
+        "@id": "LEGIARTI000033398682",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ETSD1619944D",
+        "@num": "7",
+        "@numtexte": "2016-1539",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

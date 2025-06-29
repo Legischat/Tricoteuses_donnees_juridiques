@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006865495",
+      "ANCIEN_ID": "AIICDXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/54/LEGIARTI000006865495.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-12-17",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 novembre 1985 réglementant l'hygiène de la préparation des viandes attendries destinées à la consommation",
+          "@c_titre_court": "Arrêté du 12 novembre 1985",
+          "@debut": "1985-12-17",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000006074868"
+        }
+      ],
+      "@cid": "LEGITEXT000006074868",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-11-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-12-17",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006865495",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'application du présent arrêté, il faut entendre par :<br/>\n<br/>   a) Viande attendrie toute pièce de viande visée en annexe, provenant du découpage et du désossage des carcasses d'animaux de boucherie de l'espèce bovine, soumise, à l'état réfrigéré, à l'action d'un attendrisseur mécanique autorisé. L'attendrissage de viandes ayant subi un traitement de congélation est interdit :<br/>\n<br/>   b) Conditionnement : l'opération qui réalise la protection hermétique des unités de vente par l'emploi d'une première enveloppe ou d'un premier contenant au contact direct de la denrée ;<br/>\n<br/>   c) Emballage : la mise des unités conditionnées dans un deuxième contenant ;<br/>\n<br/>   d) Etablissement agréé : établissement d'abattage ou de découpage dont l'installation, l'équipement et le fonctionnement satisfont aux exigences communautaires pour l'exportation des viandes et qui figure sur la liste des établissements agréés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-295 1967-03-31",
+        "@cidtexte": "JORFTEXT000000305784",
+        "@datesignatexte": "1967-03-31",
+        "@id": "JORFTEXT000000305784",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-295",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 21 décembre 2009 - art. 9 (V)",
+        "@cidtexte": "JORFTEXT000021573483",
+        "@datesignatexte": "2009-12-21",
+        "@id": "LEGIARTI000021676880",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0927709A",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

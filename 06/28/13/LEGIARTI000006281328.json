@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006281328",
+      "ANCIEN_ID": "APEAKXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/13/LEGIARTI000006281328.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1912-08-11",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 8 août 1912 relative aux récompenses industrielles",
+          "@c_titre_court": "Loi du 8 août 1912",
+          "@debut": "1912-08-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069416"
+        }
+      ],
+      "@cid": "LEGITEXT000006069416",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1912-08-08",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1912-08-11",
+          "@etat": "ABROGE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006281328",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 463 du code pénal est applicable aux délits prévus et punis par la présente loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°92-1336 du 16 décembre 1992 - art. 323 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491861",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "323",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 93-913 1993-07-19 art. 1 *date d'entrée en vigueur de la loi n° 92-1336 du 16 décembre 1992*",
+        "@cidtexte": "JORFTEXT000000363212",
+        "@datesignatexte": "1993-07-19",
+        "@id": "JORFTEXT000000363212",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9300093L",
+        "@numtexte": "93-913",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code pénal 463",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

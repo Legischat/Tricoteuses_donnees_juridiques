@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006405529",
+      "ANCIEN_ID": "ABHACXXXXXX020AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/55/LEGIARTI000006405529.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "20",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1968-01-01",
+        "DATE_FIN": "1982-04-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-1255 du 31 décembre 1967 TENDANT A FACILITER LE REDRESSEMENT ECONOMIQUE ET FINANCIER DE CERTAINES ENTREPRISES",
+          "@c_titre_court": "Décret n°67-1255 du 31 décembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000852195"
+        },
+        {
+          "#text": "Décret n°67-1255 du 31 décembre 1967 tendant à faciliter le redressement économique et financier de certaines entreprises",
+          "@c_titre_court": "Décret n°67-1255 du 31 décembre 1967",
+          "@debut": "1968-01-01",
+          "@fin": "1986-01-01",
+          "@id_txt": "LEGITEXT000006061413"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre III : Apurement collectif du passif.",
+            "@debut": "1968-01-01",
+            "@fin": "1986-01-01",
+            "@id": "LEGISCTA000006088758"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000852195",
+      "@date_publi": "1968-01-03",
+      "@date_signature": "1967-12-31",
+      "@nature": "DECRET",
+      "@num": "67-1255"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1982-04-11",
+          "@id": "LEGIARTI000006405529",
+          "@num": "20",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-04-11",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006405530",
+          "@num": "20",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le greffier du tribunal qui a rendu un jugement relatif à la suspension provisoire des poursuites ou à la durée d'exécution du plan d'apurement collectif du passif en avise, sans délai, le préfet du département où se trouve le siège de la juridiction commerciale dans le ressort de laquelle est dressée la liste électorale consulaire comportant inscription du débiteur ou des autres personnes visées à l'article 39 de l'ordonnance n° 67-820 du 23 septembre 1967 [*débiteur dirigeant d'une personne morale*] ; il en avise également, sans délai, le premier président et le procureur général de la cour d'appel dont relève cette même juridiction [*communication - notification*].<br/>\n<br/>   Le dépôt par le débiteur d'une requête en suspension provisoire des poursuites est également porté, dans les mêmes conditions, à la connaissance des autorités administrative et judiciaires mentionnées à l'alinéa précédent.<br/>\n<br/>   Celles-ci veillent à l'application des dispositions de l'article 39 de l'ordonnance précitée et en poursuivent d'office l'exécution [*attributions*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°67-820 du 23 septembre 1967 - art. 39 (Ab)",
+        "@cidtexte": "JORFTEXT000000339815",
+        "@datesignatexte": "1967-09-23",
+        "@id": "LEGIARTI000006403377",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "39",
+        "@numtexte": "67-820",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 67-1255 1967-12-31 JORF 3 janvier 1968 rectificatif JORF 21 janvier 1968 en vigueur le 1er janvier 1968",
+        "@cidtexte": "JORFTEXT000000852195",
+        "@datesignatexte": "1967-12-31",
+        "@id": "JORFTEXT000000852195",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-1255",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

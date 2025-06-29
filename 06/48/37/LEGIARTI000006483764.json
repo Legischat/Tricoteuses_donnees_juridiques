@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006483764",
+      "ANCIEN_ID": "PHHTAXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/37/LEGIARTI000006483764.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-01-30",
+        "DATE_FIN": "1998-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 97-73 du 29 janvier 1997 relatif aux conditions de cessation de    fonctions des personnels du Centre français du commerce extérieur",
+          "@c_titre_court": "Décret n°97-73 du 29 janvier 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000747033"
+        },
+        {
+          "#text": "Décret n°97-73 du 29 janvier 1997 relatif aux conditions de cessation de fonctions des personnels du Centre français du commerce extérieur",
+          "@c_titre_court": "Décret n°97-73 du 29 janvier 1997",
+          "@debut": "1997-01-30",
+          "@fin": "1998-12-31",
+          "@id_txt": "LEGITEXT000005622717"
+        }
+      ],
+      "@cid": "JORFTEXT000000747033",
+      "@date_publi": "1997-01-30",
+      "@date_signature": "1997-01-29",
+      "@ministere": "MINISTERE DE L'ECONOMIE ET DES FINANCES",
+      "@nature": "DECRET",
+      "@nor": "FCEE9700005D",
+      "@num": "97-73"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-01-30",
+          "@etat": "ABROGE",
+          "@fin": "1998-12-31",
+          "@id": "LEGIARTI000006483764",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'indemnité de fin de carrière prévue à l'article 41 du décret n° 60-425 du 4 mai 1960 susvisé est fixée à neuf mois de salaire dès lors que l'ancienneté des fonctions exercées par l'agent au Centre français du commerce extérieur est au moins égale à cinq ans.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 60-425 1960-05-04",
+        "@cidtexte": "JORFTEXT000000521462",
+        "@datesignatexte": "1960-05-04",
+        "@id": "JORFTEXT000000521462",
+        "@naturetexte": "DECRET",
+        "@numtexte": "60-425",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°60-425 du 4 mai 1960 - art. 41 (V)",
+        "@cidtexte": "JORFTEXT000000521462",
+        "@datesignatexte": "1960-05-04",
+        "@id": "LEGIARTI000006504568",
+        "@naturetexte": "DECRET",
+        "@num": "41",
+        "@numtexte": "60-425",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°97-73 du 29 janvier 1997 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000747033",
+        "@datesignatexte": "1997-01-29",
+        "@id": "LEGIARTI000006483767",
+        "@naturetexte": "DECRET",
+        "@nortexte": "FCEE9700005D",
+        "@num": "5",
+        "@numtexte": "97-73",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006808413",
+      "ANCIEN_ID": "TXXXXXXXXXX0234R0040XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/84/LEGIARTI000006808413.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R234-4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1975-08-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "REGLEMENTATION DU TRAVAIL",
+              "@debut": "1973-11-23",
+              "@fin": "1985-09-14",
+              "@id": "LEGISCTA000006128494"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "HYGIENE ET SECURITE",
+                "@debut": "1973-11-23",
+                "@fin": "1985-09-14",
+                "@id": "LEGISCTA000006143018"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "DISPOSITIONS PARTICULIERES AUX FEMMES ET AUX JEUNES TRAVAILLEURS",
+                  "@debut": "1973-11-23",
+                  "@fin": "1975-08-15",
+                  "@id": "LEGISCTA000006158052"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "HYGIENE .",
+                    "@debut": "1973-11-23",
+                    "@fin": "1975-08-15",
+                    "@id": "LEGISCTA000006175088"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "MODIFIE",
+          "@fin": "1975-08-15",
+          "@id": "LEGIARTI000006808413",
+          "@num": "R234-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1975-08-15",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018511184",
+          "@num": "R234-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'emploi des jeunes travailleurs de moins de dix-huit ans et des femmes aux étalages extérieurs mentionnés au premier alinéa de l'article précédent est interdit d'une façon absolue après huit heures du soir ou lorsque la température est inférieure à 0 degré centigrade.<br/>\n<br/>   En cas de froid, des moyens de chauffage suffisants sont aménagés pour les employés à l'intérieur de l'établissement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail - art. R234-4-1 (VT)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018511181",
+        "@naturetexte": "CODE",
+        "@num": "R234-4-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail R234-3 AL. 1",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

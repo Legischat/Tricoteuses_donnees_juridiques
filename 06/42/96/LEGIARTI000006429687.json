@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006429687",
+      "ANCIEN_ID": "PCIKLXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/96/LEGIARTI000006429687.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 novembre 1989 MODIFIANT L'ARRETE DU 16-05-1989 FIXANT LES CONDITIONS DE COMMERCIALISATION DU COLISSIMO",
+          "@c_titre_court": "Arrêté du 17 novembre 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000315678"
+        },
+        {
+          "#text": "Arrêté du 17 novembre 1989 modifiant l'arrêté du 16 mai 1989 fixant les conditions de commercialisation du Colissimo",
+          "@c_titre_court": "Arrêté du 17 novembre 1989",
+          "@debut": "1989-11-20",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006059284"
+        }
+      ],
+      "@cid": "JORFTEXT000000315678",
+      "@date_publi": "1989-11-18",
+      "@date_signature": "1989-11-17",
+      "@nature": "ARRETE",
+      "@nor": "PTTQ8901045A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006429687",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1989-05-16",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 16 mai 1989 - art. 5 (V)",
+        "@cidtexte": "JORFTEXT000000870901",
+        "@datesignatexte": "1989-05-16",
+        "@id": "LEGIARTI000022452925",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "PTTP8900438A",
+        "@num": "5",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

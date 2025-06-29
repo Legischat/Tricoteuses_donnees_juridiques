@@ -1,0 +1,146 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769328",
+      "ANCIEN_ID": "SSHAU1XXXXX042AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/93/LEGIARTI000006769328.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 40",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-08-21",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "40° Intoxication professionnelle par l'oxyde de carbone",
+                "@debut": "1976-01-27",
+                "@fin": "2005-04-22",
+                "@id": "LEGISCTA000006142296"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-27",
+          "@etat": "MODIFIE",
+          "@fin": "1993-08-21",
+          "@id": "LEGIARTI000006769327",
+          "@num": "Tableau 40",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-08-21",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769328",
+          "@num": "Tableau 40",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "DÉSIGNATION DE LA MALADIE<br/>\n Syndrome associant céphalées, asthénie, vertiges, nausées, confirmé par la présence dans le sang d'un taux d'oxyde de carbone supérieur à 1,5 millilitre pour 100 millilitres de sang.<br/>\n DÉLAI de prise en charge<br/>\n 30 jours<br/>\n LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer la maladie<br/>\n Travaux exposant aux émanations d'oxyde de carbone provenant d'origines diverses, notamment de foyers industriels, de gazogènes, d'appareils de chauffage ou de moteurs à allumage commandé tels que par exemple dans les champignonnières.<br/>\n Sont exclus les travaux effectués dans des locaux comportant des installations de ventilation telles que la teneur en oxyde de carbone vérifiée à hauteur des voies respiratoires est, de façon habituelle, inférieure à 50 cm3 par mètre cube, lorsque ces installations sont maintenues en état de bon fonctionnement et contrôlées au moins une fois par an par un organisme agréé dans les conditions prévues par l'article R. 231-55 du code du travail.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°93-1010 du 19 août 1993 - art. 1 () JORF 21 août 1993",
+        "@cidtexte": "JORFTEXT000000530120",
+        "@datesignatexte": "1993-08-19",
+        "@id": "LEGIARTI000006933386",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS9301188D",
+        "@num": "1",
+        "@numtexte": "93-1010",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. R231-55 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006806537",
+        "@naturetexte": "CODE",
+        "@num": "R231-55",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

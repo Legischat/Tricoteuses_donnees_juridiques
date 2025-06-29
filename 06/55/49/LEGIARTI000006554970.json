@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006554970",
+      "ANCIEN_ID": "ADHGFXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/49/LEGIARTI000006554970.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1966-03-09",
+        "DATE_FIN": "1981-02-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°65-763 du 3 septembre 1965 PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE POUR L'APPLICATION DE LA LOI DU 01-08-1905 SUR LA REPRESSION DES FRAUDES DANS LA VENTE DES MARCHANDISES ET DES FALSIFICATIONS DES DENREES ALIMENTAIRES,",
+          "@c_titre_court": "Décret n°65-763 du 3 septembre 1965",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000490669"
+        },
+        {
+          "#text": "Décret n°65-763 du 3 septembre 1965 pris pour l'application de la loi du 1er août 1905 modifiée sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires en ce qui concerne le café",
+          "@c_titre_court": "Décret n°65-763 du 3 septembre 1965",
+          "@debut": "1966-03-09",
+          "@fin": "1991-04-09",
+          "@id_txt": "LEGITEXT000006061308"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Extraits de café, liquides et en poudre.",
+            "@debut": "1966-03-09",
+            "@fin": "1981-02-05",
+            "@id": "LEGISCTA000006097027"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000490669",
+      "@date_publi": "1965-09-09",
+      "@date_signature": "1965-09-03",
+      "@nature": "DECRET",
+      "@num": "65-763"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-03-09",
+          "@etat": "ABROGE",
+          "@fin": "1981-02-05",
+          "@id": "LEGIARTI000006554970",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En ce qui concerne les extraits de cafés en poudre soluble :<br/>\n<br/>   1° La dénomination \"extrait de café en poudre soluble\" ou \"café soluble\" est réservée au produit sec soluble résultant de l'épuisement du café torréfié par l'eau potable et renfermant exclusivement les principes solubles, sapides et aromatiques du café.<br/>\n<br/>   La quantité de café vert mis en oeuvre ne doit pas être inférieure à trois fois la quantité d'extrait en poudre soluble obtenu.<br/>\n<br/>   2° La dénomination \"extrait de café décaféiné en poudre soluble\" ou \"café soluble décaféiné\" est réservée à l'extrait défini à l'alinéa précédent, ne contenant plus, après décaféination, que 0,3 p. 100 en poids au maximum de caféine anhydre par rapport au produit supposé sec.<br/>\n<br/>   La teneur en eau des extraits en poudre soluble, décaféinés au non, ne doit pas être supérieure à 3,5 p. 100.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°65-763 du 3 septembre 1965 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000000490669",
+        "@datesignatexte": "1965-09-03",
+        "@id": "LEGIARTI000006554996",
+        "@naturetexte": "DECRET",
+        "@num": "11",
+        "@numtexte": "65-763",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-104 1981-02-02 JORF 5 février 1981 rectificatif JONC 27 juin 1981",
+        "@cidtexte": "JORFTEXT000000859438",
+        "@datesignatexte": "1981-02-02",
+        "@id": "JORFTEXT000000859438",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-104",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

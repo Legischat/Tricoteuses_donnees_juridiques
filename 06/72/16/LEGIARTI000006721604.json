@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721604",
+      "ANCIEN_ID": "SPIV5XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/16/LEGIARTI000006721604.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-05-18",
+        "DATE_FIN": "1989-11-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 avril 1973 relatif au certificat de capacité d'ambulancier.",
+          "@c_titre_court": "Arrêté du 26 avril 1973",
+          "@debut": "1973-05-18",
+          "@fin": "1989-11-03",
+          "@id_txt": "LEGITEXT000006073105"
+        }
+      ],
+      "@cid": "LEGITEXT000006073105",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1973-04-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-05-18",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-03",
+          "@id": "LEGIARTI000006721604",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Il est institué un certificat de capacité pour les ambulanciers.<br/>\n    Ce certificat est, dans les conditions prévues à l'article 12 du présent arrêté, délivré aux personnes qui ont suivi un enseignement agréé et subi avec succès les épreuves d'un examen à l'issue de cet enseignement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1973-04-26 art. 12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1989-03-21 art. 20 JORF 3 mai 1989 en vigueur le 3 novembre 1989",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 73-384 1973-03-27",
+        "@cidtexte": "JORFTEXT000000858207",
+        "@datesignatexte": "1973-03-27",
+        "@id": "JORFTEXT000000858207",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-384",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

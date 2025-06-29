@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006260872",
+      "ANCIEN_ID": "PSI8BXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/26/08/LEGIARTI000006260872.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-03-03",
+        "DATE_FIN": "2009-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 mars 2007 portant création, à titre expérimental, d'un traitement automatisé de contrôle des données signalétiques des véhicules",
+          "@c_titre_court": "Arrêté du 2 mars 2007",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000822457"
+        },
+        {
+          "#text": "Arrêté du 2 mars 2007 portant création, à titre expérimental, d'un traitement automatisé de contrôle des données signalétiques des véhicules.",
+          "@c_titre_court": "Arrêté du 2 mars 2007",
+          "@debut": "2007-03-03",
+          "@fin": "2009-05-27",
+          "@id_txt": "LEGITEXT000006055581"
+        }
+      ],
+      "@cid": "JORFTEXT000000822457",
+      "@date_publi": "2007-03-03",
+      "@date_signature": "2007-03-02",
+      "@ministere": "MINISTERE DE L'INTERIEUR ET DE L'AMENAGEMENT DU TERRITOIRE",
+      "@nature": "ARRETE",
+      "@nor": "INTC0700185A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2007-03-03",
+          "@etat": "ABROGE",
+          "@fin": "2009-05-27",
+          "@id": "LEGIARTI000006260872",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001911918",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le ministère de l'intérieur (direction générale de la police nationale), le ministère de la défense (direction générale de la gendarmerie nationale) et le ministère de l'économie, des finances et de l'industrie (direction générale des douanes et droits indirects) sont autorisés à mettre en oeuvre, à titre expérimental, des traitements automatisés de contrôle des données signalétiques des véhicules prenant la photographie de leurs occupants :<br/>\n<br/>   - par les services de police et de gendarmerie nationales et des douanes, afin de prévenir et de réprimer le terrorisme, de faciliter la constatation des infractions s'y rattachant, de faciliter la constatation des infractions criminelles ou liées à la criminalité organisée au sens de l'article 706-73 du code de procédure pénale, des infractions de vol et de recel de véhicules volés, des infractions de contrebande, d'importation ou d'exportation commises en bande organisée, prévues et réprimées par le deuxième alinéa de l'article 414 du code des douanes, ainsi que la constatation, lorsqu'elles portent sur des fonds provenant de ces mêmes infractions, de la réalisation ou de la tentative de réalisation des opérations financières définies à l'article 415 du même code et afin de permettre le rassemblement des preuves de ces infractions et la recherche de leurs auteurs ;<br/>\n<br/>   - par les services de police et de gendarmerie nationales, à titre temporaire, pour la préservation de l'ordre public, à l'occasion d'événements particuliers ou de grands rassemblements de personnes, par décision de l'autorité administrative.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 18 mai 2009 - art. 8",
+        "@cidtexte": "JORFTEXT000020665029",
+        "@datesignatexte": "2009-05-18",
+        "@id": "LEGIARTI000020666004",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "IOCC0904953A",
+        "@num": "8",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "CODE DE PROCEDURE PENALE - art. 706-73 (M)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006577776",
+        "@naturetexte": "CODE",
+        "@num": "706-73",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des douanes - art. 414 (M)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615940",
+        "@naturetexte": "CODE",
+        "@num": "414",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des douanes - art. 415 (T)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615945",
+        "@naturetexte": "CODE",
+        "@num": "415",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

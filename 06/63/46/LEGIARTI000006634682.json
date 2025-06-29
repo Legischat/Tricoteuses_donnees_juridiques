@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006634682",
+      "ANCIEN_ID": "ADIVZXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/46/LEGIARTI000006634682.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-03-30",
+        "DATE_FIN": "1990-06-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 mars 1985 relatif à la publicité des prix de certains services",
+          "@c_titre_court": "Arrêté du 29 mars 1985",
+          "@debut": "1985-03-30",
+          "@fin": "1990-06-10",
+          "@id_txt": "LEGITEXT000006071911"
+        }
+      ],
+      "@cid": "LEGITEXT000006071911",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-03-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-30",
+          "@etat": "ABROGE",
+          "@fin": "1990-06-10",
+          "@id": "LEGIARTI000006634682",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>   Toute publicité écrite, effectuée quel que soit le support utilisé, à l'exception des annuaires, doit comporter les mentions suivantes, dès lors qu'elle porte sur les prestations visées par le présent arrêté :</p>\n<p>     - le nom, la raison sociale et l'adresse de l'entreprise ;</p>\n<p>     - les taux horaires de la main-d'oeuvre toutes taxes comprises pratiqués pour chaque catégorie de prestation concernée ou les prix unitaires, quelles que soient les unités ;</p>\n<p>     - le cas échéant, toute autre condition de rémunération.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 26/A 1985-03-29 BOCC n° 5, 30 mars 1985",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 85-81/A 1985-12-30 art. 2",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 2 mars 1990, v. init.",
+        "@cidtexte": "JORFTEXT000000158562",
+        "@datesignatexte": "1990-03-02",
+        "@id": "JORFTEXT000000158562",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC9000034A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

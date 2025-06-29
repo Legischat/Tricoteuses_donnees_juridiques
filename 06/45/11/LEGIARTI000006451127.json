@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006451127",
+      "ANCIEN_ID": "PFEAXXXXXXX108AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/11/LEGIARTI000006451127.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "108",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-01-01",
+        "DATE_FIN": "2005-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°72-662 du 13 juillet 1972 PORTANT STATUT GENERAL DES MILITAIRES",
+          "@c_titre_court": "Loi n°72-662 du 13 juillet 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509303"
+        },
+        {
+          "#text": "Loi n° 72-662 du 13 juillet 1972 portant statut général des militaires (1).",
+          "@c_titre_court": "Loi n° 72-662 du 13 juillet 1972",
+          "@debut": "1972-07-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068452"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VI : Dispositions diverses et dispositions transitoires.",
+            "@debut": "2003-01-01",
+            "@fin": "2005-07-01",
+            "@id": "LEGISCTA000006091556"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000509303",
+      "@date_publi": "1972-07-14",
+      "@date_signature": "1972-07-13",
+      "@nature": "LOI",
+      "@num": "72-662"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-07-14",
+          "@etat": "MODIFIE",
+          "@fin": "2003-01-01",
+          "@id": "LEGIARTI000006451126",
+          "@num": "108",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-07-01",
+          "@id": "LEGIARTI000006451127",
+          "@num": "108",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de la présente loi sont applicables aux corps militaires relevant du ministre chargé de la marine marchande, qui exerce, conjointement avec le ministre dont relèvent les armées, les pouvoirs dévolus à celui-ci.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°2003-483 du 5 juin 2003 - art. 1 () JORF 7 juin 2003 en vigueur le 1er janvier 2003",
+        "@cidtexte": "JORFTEXT000000229442",
+        "@datesignatexte": "2003-06-05",
+        "@id": "LEGIARTI000006219682",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEFX0300049R",
+        "@num": "1",
+        "@numtexte": "2003-483",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 2005-270 2005-03-24 art. 92 21° JORF 26 mars 2005 en vigueur au 1er juillet 2005",
+        "@cidtexte": "JORFTEXT000000808186",
+        "@datesignatexte": "2005-03-24",
+        "@id": "JORFTEXT000000808186",
+        "@naturetexte": "LOI",
+        "@nortexte": "DEFX0400144L",
+        "@numtexte": "2005-270",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

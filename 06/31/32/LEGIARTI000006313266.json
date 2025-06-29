@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006313266",
+      "ANCIEN_ID": "FAAACGIXXXX1864AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/32/LEGIARTI000006313266.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1864",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1982-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "RECOUVREMENT DE L'IMPOT",
+            "@debut": "1972-08-30",
+            "@fin": "2006-01-01",
+            "@id": "LEGISCTA000006084262"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "PROCEDURES",
+              "@debut": "1979-07-01",
+              "@fin": "1987-01-01",
+              "@id": "LEGISCTA000006114511"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "CONTRIBUTIONS INDIRECTES.",
+                "@debut": "1979-07-01",
+                "@fin": "1982-01-01",
+                "@id": "LEGISCTA000006133913"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-04-30",
+          "@etat": "MODIFIE",
+          "@fin": "1979-07-01",
+          "@id": "LEGIARTI000049250457",
+          "@num": "1864",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1982-01-01",
+          "@id": "LEGIARTI000006313266",
+          "@num": "1864",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>     Dans le cas où le motif de la saisie porte sur le faux ou l'altération des expéditions, le procès-verbal énonce le genre de faux, les altérations ou surcharges.<br/>\n<br/>    Lesdites expéditions, signées et paraphées des saisissants ne varietur, sont annexées au procès-verbal qui contient la sommation faite à la partie de les parapher et sa réponse.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n° 81-860 du 15 septembre 1981 - art. 3, v. init.",
+        "@cidtexte": "JORFTEXT000000880684",
+        "@datesignatexte": "1981-09-15",
+        "@id": "JORFTEXT000000880684",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-860",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "EDITION 1979-07-01",
+        "@sens": "source",
+        "@typelien": "HISTO"
+      },
+      {
+        "#text": "Livre des procédures fiscales - Art. R. 226-3",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

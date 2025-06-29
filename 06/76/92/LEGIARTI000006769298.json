@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769298",
+      "ANCIEN_ID": "SSHAU1XXXXX016AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/92/LEGIARTI000006769298.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 14",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-01-15",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "14° Affections causées par les ciments",
+                "@debut": "1985-01-15",
+                "@fin": "2005-04-22",
+                "@id": "LEGISCTA000006142277"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-15",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769298",
+          "@num": "Tableau 14",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "DESIGNATION DES MALADIES :<br/>\n    Ulcérations, dermites primitives, pyodermites  <br/>\n    DELAI de prise en charge : 30 jours <br/>\n<br/>\n    Blépharite<br/>\n    DELAI de prise en charge 30 jours<br/>\n<br/>\n    Conjonctivite<br/>\n    DELAI de prise en charge : 30 jours<br/>\n<br/>\n    Lésions eczématiformes (cf. tableau 44) <br/>\n    DELAI de prise en charge : cf. tableau 44<br/>\n   LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies<br/>\n    Emploi de ciments à l'occasion de travaux effectués dans une exploitation ou une entreprise agricole.<br/>\n    Emploi de ciments à l'occasion de travaux effectués par des artisans ruraux.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 75-863 1975-09-08 art. 4 JORF 20 septembre 1975",
+        "@cidtexte": "JORFTEXT000000683193",
+        "@datesignatexte": "1975-09-08",
+        "@id": "JORFTEXT000000683193",
+        "@naturetexte": "DECRET",
+        "@numtexte": "75-863",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 84-1299 1984-12-31 art. 3 JORF 15 janvier 1985",
+        "@cidtexte": "JORFTEXT000000868585",
+        "@datesignatexte": "1984-12-31",
+        "@id": "JORFTEXT000000868585",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-1299",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

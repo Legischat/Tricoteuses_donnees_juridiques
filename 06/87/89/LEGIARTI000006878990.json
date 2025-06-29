@@ -1,0 +1,138 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006878990",
+      "ANCIEN_ID": "UTEBEXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/89/LEGIARTI000006878990.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-10-26",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°68-917 du 24 octobre 1968 relative au port autonome de Paris",
+          "@c_titre_court": "Loi n°68-917 du 24 octobre 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878369"
+        },
+        {
+          "#text": "Loi n° 68-917 du 24 octobre 1968 relative au port autonome de Paris",
+          "@c_titre_court": "Loi n° 68-917 du 24 octobre 1968",
+          "@debut": "1968-10-26",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068325"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "ADMINISTRATION DU PORT",
+            "@debut": "1968-10-26",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006111615"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000878369",
+      "@date_publi": "1968-10-26",
+      "@date_signature": "1968-10-24",
+      "@nature": "LOI",
+      "@num": "68-917"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-10-26",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006878990",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Sous réserve des dispositions prévues à l'article 9, le personnel du port, à l'exception du directeur et de l'agent comptable, est soumis au régime du code du travail.<br/>\n    Le personnel en service dans les installations portuaires transférées qui passera au service du port autonome de Paris sera intégré suivant une procédure fixée par décret en Conseil d'Etat.<br/>\n    Les garanties dont bénéficiait chacun de ces agents au moment de son intégration, en ce qui concerne les conditions d'emploi, de rémunération et de retraite, ne pourront en aucun cas être réduites.<br/>\n    Il en est de même pour le personnel des concessions d'outillage pris en charge par le port en application de l'article 4 ci-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 68-917 1968-10-24 ART. 14 (date d'entrée en vigueur)",
+        "@cidtexte": "JORFTEXT000000878369",
+        "@datesignatexte": "1968-10-24",
+        "@id": "JORFTEXT000000878369",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-917",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°68-917 du 24 octobre 1968",
+        "@cidtexte": "JORFTEXT000000878369",
+        "@datesignatexte": "1968-10-24",
+        "@id": "JORFTEXT000000878369",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-917",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des transports - art. L4322-10 (VT)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023082922",
+        "@naturetexte": "CODE",
+        "@num": "L4322-10",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code des transports - art. L4322-9 (VT)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023082926",
+        "@naturetexte": "CODE",
+        "@num": "L4322-9",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

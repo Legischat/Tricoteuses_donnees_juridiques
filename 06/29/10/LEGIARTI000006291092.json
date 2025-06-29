@@ -1,0 +1,128 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006291092",
+      "ANCIEN_ID": "AAEAVXXXXXX048AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/10/LEGIARTI000006291092.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "48",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-12-31",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 24 juillet 1867 sur les sociétés",
+          "@c_titre_court": "Loi du 24 juillet 1867",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000515628"
+        },
+        {
+          "#text": "Loi du 24 juillet 1867 sur les sociétés commerciales",
+          "@c_titre_court": "Loi du 24 juillet 1867",
+          "@debut": "1867-07-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069563"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Sociétés à capital variable.",
+            "@debut": "1867-07-24",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006084117"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000515628",
+      "@date_publi": "1867-07-29",
+      "@date_signature": "1867-07-24",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1867-07-24",
+          "@etat": "MODIFIE",
+          "@fin": "1981-12-31",
+          "@id": "LEGIARTI000006291091",
+          "@num": "48",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006291092",
+          "@num": "48",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il peut être stipulé dans les statuts des sociétés qui n'ont pas la forme de société anonyme ainsi que dans toute société coopérative que le capital social est susceptible d'augmentation par des versements successifs des associés ou l'admission d'associés nouveaux et de diminution par la reprise totale ou partielle des apports effectués.<br/>\n<br/>   Les sociétés dont les statuts [*contenu*] contiendront la stipulation ci-dessus seront soumises, indépendamment des règles générales qui leur sont propres suivant leur forme spéciale, aux dispositions des articles suivants.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1867-07-24 art. 64 *publicité permanente*",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi 81-1162 1981-12-30 *Objet : mise en harmonie du droit des sociétés commerciales avec la deuxième directive adoptée par le conseil des communautés européennes, le 13 décembre 1976 - art. 33 :",
+        "@cidtexte": "JORFTEXT000000888624",
+        "@datesignatexte": "1981-12-30",
+        "@id": "JORFTEXT000000888624",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-1162",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L231-1 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006228802",
+        "@naturetexte": "CODE",
+        "@num": "L231-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "mesures d'application - dispositions transitoires*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

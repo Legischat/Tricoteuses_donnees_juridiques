@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006887828",
+      "ANCIEN_ID": "UTIDVXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/78/LEGIARTI000006887828.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-11-25",
+        "DATE_FIN": "2011-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 février 1986 relatif au contrôle des transports urbains de personnes et des transports routiers non urbains de personnes.",
+          "@c_titre_court": "Arrêté du 14 février 1986",
+          "@debut": "1987-01-01",
+          "@fin": "2011-12-31",
+          "@id_txt": "LEGITEXT000006075026"
+        }
+      ],
+      "@cid": "LEGITEXT000006075026",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-02-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2000-11-25",
+          "@id": "LEGIARTI000006887827",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-11-25",
+          "@etat": "ABROGE",
+          "@fin": "2011-12-31",
+          "@id": "LEGIARTI000006887828",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "Arrêté 1986-02-14 art. 10 : Les dispositions de l'article 1er du présent arrêté sont applicables aux entreprises établies dans la région d'Ile-de-France.<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La licence communautaire et ses copies conformes numérotées, la licence de transport intérieur et ses copies conformes numérotées, prévues par l'article 11 du décret du 16 août 1985 susvisé, sont établies conformément aux modèles figurant respectivement aux annexes I a, I b, I c et I d.<br/>\n<br/>   Tout véhicule effectuant un service de transport public routier de personnes ou un service privé pour le compte d'autrui doit avoir à son bord, pour être présentée à toute réquisition des agents chargés du contrôle, une copie conforme numérotée de la licence communautaire ou de la licence de transport intérieur de l'entreprise effectuant le service.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-02-14 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1986-02-14 art. 10",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 2000-11-24 art. 1 JORF 25 novembre 2000",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 82-1153 1982-12-30",
+        "@cidtexte": "JORFTEXT000000319738",
+        "@datesignatexte": "1982-12-30",
+        "@id": "JORFTEXT000000319738",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1153",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 28 décembre 2011 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000025056889",
+        "@datesignatexte": "2011-12-28",
+        "@id": "LEGIARTI000025118013",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TRAT1131822A",
+        "@num": "4",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

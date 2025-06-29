@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652399",
+      "ANCIEN_ID": "SBAXXXXXXXX5X01501AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/23/LEGIARTI000006652399.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-03-27",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 2 : De la formation et de la constatation du contrat d'engagement",
+            "@debut": "1926-12-15",
+            "@fin": "2013-07-18",
+            "@id": "LEGISCTA000006101377"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-03-27",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006652399",
+          "@num": "15-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le texte des dispositions légales et réglementaires qui régissent le contrat d'engagement doit, comme le texte des conditions du contrat, se trouver à bord, pour être communiqué par le capitaine au marin, sur sa demande. <br/>\n<br/>   Les conditions générales d'engagement doivent être affichées dans les locaux d'équipage.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307 du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des transports - art. L5542-6 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023079799",
+        "@naturetexte": "CODE",
+        "@num": "L5542-6",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

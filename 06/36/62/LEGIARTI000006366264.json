@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006366264",
+      "ANCIEN_ID": "MRHEPXXXXXXA00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/62/LEGIARTI000006366264.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-04-13",
+        "DATE_FIN": "2006-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 2001-312 du 11 avril 2001 relatif à la prime d'aménagement du territoire",
+          "@c_titre_court": "Décret n°2001-312 du 11 avril 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000222068"
+        },
+        {
+          "#text": "Décret n°2001-312 du 11 avril 2001 relatif à la prime d'aménagement du territoire",
+          "@c_titre_court": "Décret n°2001-312 du 11 avril 2001",
+          "@debut": "2001-04-13",
+          "@fin": "2006-12-31",
+          "@id_txt": "LEGITEXT000005630840"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "2001-04-13",
+            "@fin": "2006-12-31",
+            "@id": "LEGISCTA000006086294"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000222068",
+      "@date_publi": "2001-04-13",
+      "@date_signature": "2001-04-11",
+      "@ministere": "MINISTERE DE L'AMENAGEMENT DU TERRITOIRE ET DE L'ENVIRONNEMENT",
+      "@nature": "DECRET",
+      "@nor": "ATET0190007D",
+      "@num": "2001-312"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-04-13",
+          "@etat": "ABROGE",
+          "@fin": "2006-12-31",
+          "@id": "LEGIARTI000006366264",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les listes (non reproduites cf jorf 13 avril 2001) qui suivent ont été établies d'après le code officiel géographique, 13e édition de l'INSEE.<br/>\n<br/>   Pseudo-canton - commune (canton non précis).<br/>\n Le lien commune-canton est complexe et plusieurs situations peuvent se présenter. Ainsi un canton peut être composé :<br/>\n<br/>   a) D'une ou plusieurs communes ;<br/>\n<br/>   b) D'une fraction de commune ;<br/>\n<br/>   c) De fractions de communes ;<br/>\n<br/>   d) D'une fraction de commune et de communes entières ;<br/>\n<br/>   e) De fractions de communes et de communes entières.<br/>\n<br/>   Le concept du pseudo-canton consiste à attribuer à chaque commune un code canton unique, y compris lorsque la commune est à cheval sur plusieurs cantons. Le pseudo-canton est défini comme suit :<br/>\n<br/>   a) Lorsqu'un canton comprend au moins une commune entière, l'ensemble des communes entières de ce canton constitue un pseudo-canton dont le code est le code canton du code officiel géographique ;<br/>\n<br/>   b) Chacune des communes non incluses dans les pseudo-cantons définis en a constitue à elle seule un pseudo-canton, dont le numéro de code correspond à la modalité \" canton non précisé \" disponible dans le code officiel géographique (toutes ces communes sont traversées par au moins une limite de canton).<br/>\n<br/>   Source : INSEE, Recensement de la population de 1999.<br/>\n<br/>   Les périmètres des découpages infra-communaux (quartier, ZAC, arrondissement) sont consultables sur demande auprès des préfectures de région concernées (secrétariat général pour les affaires régionales).<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2001-312 du 11 avril 2001 - art. 12 (Ab)",
+        "@cidtexte": "JORFTEXT000000222068",
+        "@datesignatexte": "2001-04-11",
+        "@id": "LEGIARTI000006366261",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ATET0190007D",
+        "@num": "12",
+        "@numtexte": "2001-312",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

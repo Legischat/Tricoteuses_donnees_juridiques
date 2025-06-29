@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006466064",
+      "ANCIEN_ID": "ACEARXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/60/LEGIARTI000006466064.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1958-03-11",
+        "DATE_FIN": "1986-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 57-298 du 11 mars 1957 sur la propriété littéraire et artistique",
+          "@c_titre_court": "Loi n° 57-298 du 11 mars 1957",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000315384"
+        },
+        {
+          "#text": "Loi n°57-298 du 11 mars 1957 sur la propriété littéraire et artistique",
+          "@c_titre_court": "Loi n°57-298 du 11 mars 1957",
+          "@debut": "1958-03-11",
+          "@fin": "1992-07-03",
+          "@id_txt": "LEGITEXT000006068170"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Des droits des auteurs.",
+            "@debut": "1958-03-11",
+            "@fin": "1992-07-03",
+            "@id": "LEGISCTA000006092428"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000315384",
+      "@date_publi": "1957-03-14",
+      "@date_signature": "1957-03-11",
+      "@nature": "LOI",
+      "@num": "57-298"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-03-11",
+          "@etat": "MODIFIE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006466064",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-07-03",
+          "@id": "LEGIARTI000006466065",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'oeuvre cinématographique est réputée achevée lorsque la première \"copie standard\" a été établie d'un commun accord entre le réalisateur ou éventuellement les coauteurs et le producteur.<br/>\n<br/>   Les droits propres des auteurs tels qu'ils sont définis à l'article 6 ne peuvent être exercés par eux que sur l'oeuvre cinématographique achevée, sauf éventuellement application de l'article 1382 du code civil à l'encontre de celui dont la faute aurait empêché l'achèvement du film [*réparation du préjudice*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 57-298 1957-03-11 JORF 14 mars 1957 rectificatif JORF 19 avril 1957 en vigueur le 11 mars 1958",
+        "@cidtexte": "JORFTEXT000000315384",
+        "@datesignatexte": "1957-03-11",
+        "@id": "JORFTEXT000000315384",
+        "@naturetexte": "LOI",
+        "@numtexte": "57-298",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°57-298 du 11 mars 1957 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000315384",
+        "@datesignatexte": "1957-03-11",
+        "@id": "LEGIARTI000006466052",
+        "@naturetexte": "LOI",
+        "@num": "6",
+        "@numtexte": "57-298",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la propriété intellectuelle - art. L121-5 (V)",
+        "@cidtexte": "LEGITEXT000006069414",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006278895",
+        "@naturetexte": "CODE",
+        "@num": "L121-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code civil - art. 1382 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006438819",
+        "@naturetexte": "CODE",
+        "@num": "1382",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

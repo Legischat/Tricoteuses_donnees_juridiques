@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327121",
+      "ANCIEN_ID": "FAIGSXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/71/LEGIARTI000006327121.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-10-02",
+        "DATE_FIN": "2012-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 septembre 1982 MODALITES DE REMUNERATION DES ETABLISSEMENTS ET ORGANISMES HABILITES A OUVRIR DES COMPTES SUR LE LIVRET D'EPARGNE POPULAIRE",
+          "@c_titre_court": "Arrêté du 29 septembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000324574"
+        },
+        {
+          "#text": "Arrêté du 29 septembre 1982 FIXANT LES MODALITES DE REMUNERATION DES ETABLISSEMENTS ET ORGANISMES HABILITES A OUVRIR DES COMPTES SUR LIVRET D'EPARGNE POPULAIRE.",
+          "@c_titre_court": "Arrêté du 29 septembre 1982",
+          "@debut": "1982-10-02",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006069766"
+        }
+      ],
+      "@cid": "JORFTEXT000000324574",
+      "@date_publi": "1982-10-02",
+      "@date_signature": "1982-09-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-10-02",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006327121",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Pour la gestion des comptes sur livret d'épargne populaire, les établissements et organismes habilités à ouvrir de tels comptes perçoivent une rémunération composée de deux éléments :</p>\n<p>le premier est assis sur l'encours des dépôts effectués auprès de la caisse des dépôts et consignations ; son taux est de 0,50 p. 100 ;</p>\n<p>le second est assis sur les excédents nets des dépôts centralisés à la caisse des dépôts et consignations ; son taux est de 0,10 p. 100.</p>\n<p>Cette rémunération est versée par la caisse des dépôts et consignations sur une base trimestrielle. Elle s'entend hors taxe sur la valeur ajoutée.</p>\n<p>Sur ces compléments d'intérêts s'imputent éventuellement des intérêts moratoires en cas de retard dans la centralisation des fonds à la caisse des dépôts et consignations. Ils sont décomptés par journée au taux du marché monétaire au jour le jour.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°82-454 du 28 mai 1982 - art. 29 (Ab)",
+        "@cidtexte": "JORFTEXT000000879675",
+        "@datesignatexte": "1982-05-28",
+        "@id": "LEGIARTI000006731034",
+        "@naturetexte": "DECRET",
+        "@num": "29",
+        "@numtexte": "82-454",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 18 juin 2012 - art. 2",
+        "@cidtexte": "JORFTEXT000026074430",
+        "@datesignatexte": "2012-06-18",
+        "@id": "LEGIARTI000026075423",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "EFIT1225903A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

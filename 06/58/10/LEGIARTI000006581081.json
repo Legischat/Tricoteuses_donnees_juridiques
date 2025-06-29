@@ -1,0 +1,140 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006581081",
+      "ANCIEN_ID": "RAA0XXXXXXX1135AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/10/LEGIARTI000006581081.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1135",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1955-04-19",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Mutualité sociale agricole",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121386"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre IV : Assurance vieillesse des personnes non salariées",
+                "@debut": "1955-04-19",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006138276"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 2 : Cotisations.",
+                  "@debut": "1955-04-19",
+                  "@fin": "2000-06-22",
+                  "@id": "LEGISCTA000006152114"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006581081",
+          "@num": "1135",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006581082",
+          "@num": "1135",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Quiconque sera convaincu d'avoir, moyennant une rémunération quelconque, offert, accepté de prêter ou prêté des services à un exploitant en vue de lui permettre de se soustraire aux obligations mises à sa charge par la présente section, sera puni d'une amende de 360 F à 25.000 F et d'un emprisonnement d'un mois à six mois et, en cas de récidive dans le délai d'un an, d'une amende de 3.600 F à 50.000 F et d'un emprisonnement de trois mois à deux ans.<br/>\n<br/>   En outre, s'il y a lieu, le tribunal pourra prononcer à l'égard du délinquant les peines accessoires prévues à l'article 1130.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. L725-16 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006585389",
+        "@naturetexte": "CODE",
+        "@num": "L725-16",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural 1130",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural L725-16",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

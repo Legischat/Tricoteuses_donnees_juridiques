@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006318169",
+      "ANCIEN_ID": "FAEFIXXXXXX032AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/81/LEGIARTI000006318169.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "32",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1993-01-01",
+        "DATE_FIN": "1993-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI de finances pour 1992   (n° 91-1322 du 30 décembre 1991)  (1)",
+          "@c_titre_court": "Loi",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000356342"
+        },
+        {
+          "#text": "Loi n° 91-1322 du 30 décembre 1991 de Finances pour 1992",
+          "@c_titre_court": "Loi n° 91-1322 du 30 décembre 1991",
+          "@debut": "1991-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006078468"
+        }
+      ],
+      "@cid": "JORFTEXT000000356342",
+      "@date_publi": "1991-12-31",
+      "@date_signature": "1991-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX9100159L",
+      "@num": "91-1322",
+      "@num_parution_jo": "0304"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-12-31",
+          "@etat": "PERIME",
+          "@fin": "1993-01-01",
+          "@id": "LEGIARTI000006318168",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1993-12-31",
+          "@id": "LEGIARTI000006318169",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2022-01-01",
+          "@id": "LEGIARTI000006318170",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les produits désignés ci-après, élaborés sous contrôle fiscal dans des unités pilotes en vue d'être utilisés comme carburant ou combustible dans le cadre de projets expérimentaux sont exonérés de la taxe intérieure de consommation sur les produits pétroliers prévue à l'article 265 du code des douanes dans les conditions suivantes :<br/>\n<br/>   a) Esters d'huile de colza et de tournesol utilisés en substitution du fioul domestique et du gazole ;<br/>\n<br/>   b) Alcool éthylique, élaboré à partir de céréales, topinambours, pommes de terre ou betteraves, et incorporé aux supercarburants et aux essences ;<br/>\n<br/>   c) Dérivés de l'alcool éthylique visé au b ci-dessus, pour leur contenu en alcool, incorporés aux supercarburants et aux essences dans la limite de 15 p. 100 en volume.<br/>\n<br/>   Les modalités d'application des présentes dispositions sont fixées par arrêtés conjoints des ministres chargés de l'agriculture, du budget, de l'énergie et de la consommation.<br/>\n b) Mesures d'actualisation ou de reconduction<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi - art. 89 (V) JORF 31 décembre 1992 en vigueur le 1er janvier 1993",
+        "@cidtexte": "JORFTEXT000000178406",
+        "@datesignatexte": "1992-12-30",
+        "@id": "LEGIARTI000006318652",
+        "@naturetexte": "LOI",
+        "@nortexte": "BUDX9200273L",
+        "@num": "89",
+        "@numtexte": "92-1376",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code des douanes - art. 265 (M)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615102",
+        "@naturetexte": "CODE",
+        "@num": "265",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

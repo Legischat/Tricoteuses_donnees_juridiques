@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006701231",
+      "ANCIEN_ID": "SPHADXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/12/LEGIARTI000006701231.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-04-30",
+        "DATE_FIN": "2003-03-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°59-585 du 24 avril 1959 PORTANT RAP POUR L'APPLICATION DES ART. L44-2 ET L44-3 DU CODE DE LA SANTE PUBLIQUE (ISSUS DE L'ORDONNANCE 5948 DU 06-01-1959) ET RELATIFS AUX RADIATIONS IONISANTES",
+          "@c_titre_court": "Décret n°59-585 du 24 avril 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000673226"
+        },
+        {
+          "#text": "Décret n°59-585 du 24 avril 1959  PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE POUR L'APPLICATION DES ARTICLES L44-2 et L44-3 DU CODE DE LA SANTE PUBLIQUE ET RELATIF AUX RADIATIONS IONISANTES",
+          "@c_titre_court": "Décret n°59-585 du 24 avril 1959",
+          "@debut": "1959-04-30",
+          "@fin": "2003-03-26",
+          "@id_txt": "LEGITEXT000006060902"
+        }
+      ],
+      "@cid": "JORFTEXT000000673226",
+      "@date_publi": "1959-04-30",
+      "@date_signature": "1959-04-24",
+      "@nature": "DECRET",
+      "@num": "59-585"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-04-30",
+          "@etat": "ABROGE",
+          "@fin": "2003-03-26",
+          "@id": "LEGIARTI000006701231",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'emploi des radiations ionisantes sur le corps humain est réservé aux médecins réunissant les conditions légales d'exercice et sous la responsabilité et la surveillance directe de ceux-ci, aux auxiliaires médicaux agissant dans les limites de leur compétence définies par les textes en vigueur.<br/>\n<br/>   Les personnes autorisées à exercer l'art dentaire peuvent également, dans la limite de leur compétence, utiliser lesdites radiations.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-03-26",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 59-585 1959-04-24 JORF 30 AVRIL 1959 RECTIFICATIF JORF 13 MAI",
+        "@cidtexte": "JORFTEXT000000673226",
+        "@datesignatexte": "1959-04-24",
+        "@id": "JORFTEXT000000673226",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-585",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°2003-270 du 24 mars 2003 - art. 2 (Ab) JORF 26 mars 2003",
+        "@cidtexte": "JORFTEXT000000237131",
+        "@datesignatexte": "2003-03-24",
+        "@id": "LEGIARTI000006218030",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0320872D",
+        "@num": "2",
+        "@numtexte": "2003-270",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L44-2 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692244",
+        "@naturetexte": "CODE",
+        "@num": "L44-2",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L44-3 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692246",
+        "@naturetexte": "CODE",
+        "@num": "L44-3",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

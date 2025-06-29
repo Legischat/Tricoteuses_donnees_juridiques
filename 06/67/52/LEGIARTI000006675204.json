@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006675204",
+      "ANCIEN_ID": "SHHCHXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/52/LEGIARTI000006675204.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1948-01-01",
+        "DATE_FIN": "2012-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°47-1619 du 23 août 1947 MESURES PARTICULIERES DE PROTECTION DES OUVRIERS EFFECTUANT DES TRAVAUX DE PEINTURE OU DE VERNISSAGE PAR PULVERISATION",
+          "@c_titre_court": "Décret n°47-1619 du 23 août 1947",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000300323"
+        },
+        {
+          "#text": "Décret n°47-1619 du 23 août 1947 portant règlement d'administration publique en ce qui concerne les mesures particulières relatives à la protection des ouvriers qui exécutent des travaux de peinture ou de vernissage par pulvérisation.",
+          "@c_titre_court": "Décret n°47-1619 du 23 août 1947",
+          "@debut": "1948-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060477"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre premier : prévention des intoxications",
+            "@debut": "1948-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006102569"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000300323",
+      "@date_publi": "1947-08-28",
+      "@date_signature": "1947-08-23",
+      "@nature": "DECRET",
+      "@num": "47-1619"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1948-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006675204",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le chef d'entreprise est tenu de désigner un médecin qui procédera aux examens prévus à l'art. 7.<br/>\n    La rémunération de ce médecin est à la charge de l'entreprise.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 47-1619 1947-08-23 JORF 28 août 1947 en vigueur le 1er janvier 1948 rectificatif JORF 5 septembre 1947",
+        "@cidtexte": "JORFTEXT000000300323",
+        "@datesignatexte": "1947-08-23",
+        "@id": "JORFTEXT000000300323",
+        "@naturetexte": "DECRET",
+        "@numtexte": "47-1619",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°47-1619 du 23 août 1947 - art. 7",
+        "@cidtexte": "JORFTEXT000000300323",
+        "@datesignatexte": "1947-08-23",
+        "@id": "LEGIARTI000006675205",
+        "@naturetexte": "DECRET",
+        "@num": "7",
+        "@numtexte": "47-1619",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2012-135\n du 30 janvier 2012 - art. 2",
+        "@cidtexte": "JORFTEXT000025241584",
+        "@datesignatexte": "2012-01-30",
+        "@id": "LEGIARTI000025266700",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ETST1200303D",
+        "@num": "2",
+        "@numtexte": "2012-135",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

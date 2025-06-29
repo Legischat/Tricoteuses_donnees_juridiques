@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006889499",
+      "ANCIEN_ID": "UTIHXXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/94/LEGIARTI000006889499.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-09-06",
+        "DATE_FIN": "1992-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1 septembre 1975 fixant les modalités d'application de l'article R. 53-1, alinéa 4, du code de la route",
+          "@c_titre_court": "Arrêté du 1 septembre 1975",
+          "@debut": "1975-09-06",
+          "@fin": "1992-01-01",
+          "@id_txt": "LEGITEXT000006075091"
+        }
+      ],
+      "@cid": "LEGITEXT000006075091",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1975-09-01",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-09-06",
+          "@etat": "ABROGE",
+          "@fin": "1992-01-01",
+          "@id": "LEGIARTI000006889499",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'interdiction de transporter aux places avant d'un véhicule automobile les enfants définis à l'alinéa 4 de l'article R. 53-1 du code de la route n'est pas applicable dans le cas :<br/>\n<br/>   a) De véhicules ne comportant pas de sièges arrière ;<br/>\n<br/>   b) De véhicules dont les sièges arrière sont momentanément inutilisables (breacks et voitures commerciales, notamment) ;<br/>\n<br/>   c) De voitures particulières transportant des enfants en nombre tel qu'ils ne peuvent être tous placés à l'arrière (transports d'élèves et familles nombreuses, notamment) ;<br/>\n<br/>   d) De véhicules de transport en commun de personnes, à condition que tous les autres sièges soient occupés par des enfants.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-12-27 art. 7 JORF 29 décembre 1991 en vigueur le 1er janvier 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R.53-1 al. 4",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la route R53-1",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

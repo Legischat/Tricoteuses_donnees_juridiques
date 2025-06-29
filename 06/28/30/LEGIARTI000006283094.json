@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283094",
+      "ANCIEN_ID": "APIBRXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/30/LEGIARTI000006283094.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-01-30",
+        "DATE_FIN": "1998-12-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 janvier 1996 relatif aux redevances de procédures perçues par    l'Institut national de la propriété industrielle",
+          "@c_titre_court": "Arrêté du 12 janvier 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000358671"
+        },
+        {
+          "#text": "Arrêté du 12 janvier 1996 relatif aux redevances de procédures perçues par l'Institut national de la propriété industrielle",
+          "@c_titre_court": "Arrêté du 12 janvier 1996",
+          "@debut": "1996-01-30",
+          "@fin": "1998-12-03",
+          "@id_txt": "LEGITEXT000005620242"
+        }
+      ],
+      "@cid": "JORFTEXT000000358671",
+      "@date_publi": "1996-01-30",
+      "@date_signature": "1996-01-12",
+      "@ministere": "MINISTERE DE L'INDUSTRIE, DE LA POSTE ET DES TELECOMMUNICATIONS",
+      "@nature": "ARRETE",
+      "@nor": "INDP9501251A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-01-30",
+          "@etat": "ABROGE",
+          "@fin": "1998-12-03",
+          "@id": "LEGIARTI000006283094",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 20 décembre 1994 relatif aux redevances de procédure perçues par l'Institut national de la propriété industrielle est abrogé.<br/>\n<br/>   Toutefois, les taux prévus par cet arrêté restent applicables si des avertissements ou notifications ont déjà été adressés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-12-20",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1998-12-24 art. 6 *dispositions transitoires concernant avertissements ou notifications*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1998-12-24 art. 6 JORF 3 décembre 1998",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la propriété intellectuelle - art. R411-17 (M)",
+        "@cidtexte": "LEGITEXT000006069414",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006280088",
+        "@naturetexte": "CODE",
+        "@num": "R411-17",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

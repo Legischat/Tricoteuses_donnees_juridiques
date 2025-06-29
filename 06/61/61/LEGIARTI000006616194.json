@@ -1,0 +1,126 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616194",
+      "ANCIEN_ID": "RDEABXXXXXX016AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/61/LEGIARTI000006616194.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-01-01",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 92-1477 du 31 décembre 1992 relative aux produits soumis à certaines restrictions de circulation et à la complémentarité entre les services de police, de gendarmerie et de douane (1)",
+          "@c_titre_court": "Loi n°92-1477 du 31 décembre 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000542776"
+        },
+        {
+          "#text": "Loi n° 92-1477 du 31 décembre 1992 relative aux produits soumis à certaines restrictions de circulation et à la complémentarité entre les services de police, de gendarmerie et de douane",
+          "@c_titre_court": "Loi n° 92-1477 du 31 décembre 1992",
+          "@debut": "1993-01-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006080748"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dispositions relatives à l'exportation et à l'importation de médicaments, substances ou préparations classées comme stupéfiants ou comme psychotropes et à l'importation de certaines catégories de médicaments à usage humain.",
+            "@debut": "1993-01-05",
+            "@fin": "2000-06-22",
+            "@id": "LEGISCTA000006099287"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000542776",
+      "@date_publi": "1993-01-04",
+      "@date_signature": "1992-12-31",
+      "@nature": "LOI",
+      "@nor": "EURX9200209L",
+      "@num": "92-1477"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-01-05",
+          "@etat": "MODIFIE",
+          "@fin": "1994-01-01",
+          "@id": "LEGIARTI000006616193",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006616194",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'ils ont le statut de marchandises communautaires et sont en provenance ou à destination des autres Etats membres de la Communauté européenne, les médicaments, substances ou préparations classés comme stupéfiants ou auxquels la réglementation des stupéfiants est appliquée en tout ou partie en vertu du code de la santé publique ainsi que les médicaments, substances ou préparations classés comme psychotropes doivent être présentés au service des douanes, munis des documents qui les accompagnent.<br/>\n<br/>   Les agents des douanes sont chargés :<br/>\n<br/>   1° D'endosser, après contrôle des marchandises, l'autorisation d'importation ou d'exportation prévue par le code de la santé publique pour les médicaments, substances ou préparations classés comme stupéfiants ou auxquels la réglementation des stupéfiants est appliquée en tout ou partie ;<br/>\n<br/>   2° D'endosser, après contrôle des marchandises, l'autorisation d'importation ou d'exportation ou la déclaration d'exportation prévues par la convention sur les substances psychotropes signée à Vienne le 21 février 1971 et ratifiée en application de la loi n° 74-1009 du 2 décembre 1974 pour les médicaments, substances ou préparations classés comme psychotropes.<br/>\n<br/>   Les modalités de la présentation en douane sont fixées par arrêté du ministre chargé des douanes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Convention 1971-02-21, signée à Vienne",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 74-1009 1974-12-02",
+        "@cidtexte": "JORFTEXT000000518348",
+        "@datesignatexte": "1974-12-02",
+        "@id": "JORFTEXT000000518348",
+        "@naturetexte": "LOI",
+        "@numtexte": "74-1009",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994",
+        "@cidtexte": "JORFTEXT000000361983",
+        "@datesignatexte": "1993-12-31",
+        "@id": "LEGIARTI000006514764",
+        "@naturetexte": "LOI",
+        "@nortexte": "EURX9200218L",
+        "@num": "11",
+        "@numtexte": "93-1420",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-548 2000-06-15 art. 4 II JORF 22 juin 2000",
+        "@cidtexte": "JORFTEXT000000217229",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000217229",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "MESX0000036R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

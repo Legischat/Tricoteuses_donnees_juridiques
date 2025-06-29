@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006672784",
+      "ANCIEN_ID": "SFIB2XXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/27/LEGIARTI000006672784.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-07-10",
+        "DATE_FIN": "2014-08-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 février 1986 relatif à la création de comités consulaires pour l'emploi et la formation professionnelle",
+          "@c_titre_court": "Arrêté du 5 février 1986",
+          "@debut": "1986-02-14",
+          "@fin": "2014-08-20",
+          "@id_txt": "LEGITEXT000006072324"
+        }
+      ],
+      "@cid": "LEGITEXT000006072324",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-02-05",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-02-14",
+          "@etat": "MODIFIE",
+          "@fin": "1996-07-10",
+          "@id": "LEGIARTI000006672783",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-10",
+          "@etat": "ABROGE",
+          "@fin": "2014-08-20",
+          "@id": "LEGIARTI000006672784",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les circonscriptions consulaires comptant au moins 5.000 immatriculés, il est créé auprès du chef de mission diplomatique ou du chef de poste consulaire responsable de la circonscription un comité consulaire pour l'emploi et la formation professionnelle. Dans les autres circonscriptions consulaires, le chef de poste peut, s'il l'estime souhaitable, décider de la création d'un tel comité.<br/>\n<br/>   En outre, le regroupement de plusieurs circonscriptions consulaires sous l'égide d'un seul comité peut être décidé, à l'initiative du chef de poste diplomatique, en particulier lorsque ces circonscriptions concernent le même bassin d'emploi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "ARRÊTÉ du 6 août 2014 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000029368195",
+        "@datesignatexte": "2014-08-06",
+        "@id": "LEGIARTI000029372290",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "MAEF1412403A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Arrêté 1996-06-28 art. 1 JORF 10 juillet 1996",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

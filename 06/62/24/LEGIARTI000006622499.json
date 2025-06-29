@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006622499",
+      "ANCIEN_ID": "ADIMFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/24/LEGIARTI000006622499.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1980-06-26",
+        "DATE_FIN": "1981-11-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 mai 1980 relatif aux teneurs maximales pour les substances et produits indésirables dans les aliments des animaux",
+          "@c_titre_court": "Arrêté du 29 mai 1980",
+          "@debut": "1980-06-26",
+          "@fin": "1989-04-13",
+          "@id_txt": "LEGITEXT000006071682"
+        }
+      ],
+      "@cid": "LEGITEXT000006071682",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1980-05-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-06-26",
+          "@etat": "MODIFIE",
+          "@fin": "1981-11-17",
+          "@id": "LEGIARTI000006622499",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-11-17",
+          "@etat": "ABROGE",
+          "@fin": "1989-04-13",
+          "@id": "LEGIARTI000006622500",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les aliments simples, les aliments complets et les aliments complémentaires sont considérés comme impropres à la vente pour l'alimentation des animaux, au sens de l'article 6 du décret du 28 juin 1949, lorsque les teneurs en substances et produits indésirables sont supérieures aux maximums fixés.<br/>\n<br/>   En annexe I, pour les aliments complets et les aliments complémentaires ainsi que pour les aliments simples destinés à l'utilisation directe par les éleveurs ; <br/>\n<br/>   En annexe II, pour les aliments simples en tant que matières premières destinées aux seuls fabricants d'aliments pour animaux en vue de la fabrication d'aliments complets ou complémentaires pour animaux.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1980-05-29 annexe I, annexe II",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°49-854 du 28 juin 1949 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000305130",
+        "@datesignatexte": "1949-06-28",
+        "@id": "LEGIARTI000006545468",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "49-854",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

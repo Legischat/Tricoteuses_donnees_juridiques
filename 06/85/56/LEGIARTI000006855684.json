@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855684",
+      "ANCIEN_ID": "UPHLDXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/56/LEGIARTI000006855684.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-11-20",
+        "DATE_FIN": "1988-03-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-978 du 17 novembre 1982 RELATIF A LA REGLEMENTATION DE LA PECHE DANS LES EAUX FRANCAISES DU LAC LEMAN",
+          "@c_titre_court": "Décret n°82-978 du 17 novembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880460"
+        },
+        {
+          "#text": "Décret n°82-978 du 17 novembre 1982 relatif à la réglementation de la pêche dans les eaux françaises du lac Léman.",
+          "@c_titre_court": "Décret n°82-978 du 17 novembre 1982",
+          "@debut": "1982-11-20",
+          "@fin": "1988-03-13",
+          "@id_txt": "LEGITEXT000006063963"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Engins et moyens de pêche *modes*.",
+            "@debut": "1982-11-20",
+            "@fin": "1988-03-13",
+            "@id": "LEGISCTA000006109572"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000880460",
+      "@date_publi": "1982-11-20",
+      "@date_signature": "1982-11-17",
+      "@nature": "DECRET",
+      "@num": "82-978"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-11-20",
+          "@etat": "ABROGE",
+          "@fin": "1988-03-13",
+          "@id": "LEGIARTI000006855684",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un arrêté du commissaire de la République fixe :<br/>\n<br/>   a) Les dimensions maxima des filets. La longueur est celle de la ralingue ou du chalame et la hauteur celle du filet proprement dit, abstraction faite des chevalets.<br/>\n<br/>   Les filets sont mesurés hors de l'eau à l'état humide, mailles ouvertes sur l'étendage.<br/>\n<br/>   b) Pour tous filets, engins et lignes, les structures, les époques et les conditions d'utilisation, le nombre, les conditions de jalonnement, les zones en dehors desquelles ils ne peuvent être tendus ou utilisés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°82-978 du 17 novembre 1982 - art. 22 (Ab)",
+        "@cidtexte": "JORFTEXT000000880460",
+        "@datesignatexte": "1982-11-17",
+        "@id": "LEGIARTI000006855701",
+        "@naturetexte": "DECRET",
+        "@num": "22",
+        "@numtexte": "82-978",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-230 du 9 mars 1988 - art. 23 (Ab) JORF 13 mars 1988",
+        "@cidtexte": "JORFTEXT000000315255",
+        "@datesignatexte": "1988-03-09",
+        "@id": "LEGIARTI000006858117",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ENVN8700287D",
+        "@num": "23",
+        "@numtexte": "88-230",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

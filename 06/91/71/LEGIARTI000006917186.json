@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006917186",
+      "ANCIEN_ID": "AKFALXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/71/LEGIARTI000006917186.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-06",
+        "DATE_FIN": "2005-05-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°59-26 du 3 janvier 1959 PORTANT APPLICATION AUX ACTIVITES DE REPRESENTATION DE LA LOI DU 30 août 1947 RELATIVE A L'ASSAINISSEMENT DES PROFESSIONS COMMERCIALES ET INDUSTRIELLES. L 471635",
+          "@c_titre_court": "Ordonnance n°59-26 du 3 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687693"
+        },
+        {
+          "#text": "Ordonnance n°59-26 du 3 janvier 1959 portant application aux activités de représentation de la loi du 30 août 1947 relative à l'assainissement des professions commerciales et industrielles.",
+          "@c_titre_court": "Ordonnance n°59-26 du 3 janvier 1959",
+          "@debut": "1959-01-06",
+          "@fin": "2005-05-07",
+          "@id_txt": "LEGITEXT000006069258"
+        }
+      ],
+      "@cid": "JORFTEXT000000687693",
+      "@date_publi": "1959-01-06",
+      "@date_signature": "1959-01-03",
+      "@nature": "ORDONNANCE",
+      "@num": "59-26"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-06",
+          "@etat": "ABROGE",
+          "@fin": "2005-05-07",
+          "@id": "LEGIARTI000006917186",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de la loi du 30 août 1947 sur l'assainissement des professions commerciales et industrielles sont applicables aux personnes qui exercent la représentation commerciale :<br/>\n<br/>   Soit dans les conditions de l'article 29 b du livre ter du code du travail ;<br/>\n<br/>   Soit à titre d'agent commercial mandataire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du travail - art. L751-14 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650622",
+        "@naturetexte": "CODE",
+        "@num": "L751-14",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail art. 29",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1947-08-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2005-428 du 6 mai 2005 - art. 3 () JORF 7 mai 2005",
+        "@cidtexte": "JORFTEXT000000789598",
+        "@datesignatexte": "2005-05-06",
+        "@id": "LEGIARTI000006917418",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0500020R",
+        "@num": "3",
+        "@numtexte": "2005-428",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

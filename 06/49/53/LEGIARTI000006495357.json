@@ -1,0 +1,124 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006495357",
+      "ANCIEN_ID": "PJFAPXXXXXX026AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/53/LEGIARTI000006495357.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "26",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1958-12-24",
+        "DATE_FIN": "2002-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante",
+          "@c_titre_court": "Ordonnance n° 45-174 du 2 février 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517521"
+        },
+        {
+          "#text": "Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.",
+          "@c_titre_court": "Ordonnance n° 45-174 du 2 février 1945",
+          "@debut": "1958-12-23",
+          "@fin": "2021-09-30",
+          "@id_txt": "LEGITEXT000006069158"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : La liberté surveillée.",
+            "@debut": "1945-02-04",
+            "@fin": "2021-09-30",
+            "@id": "LEGISCTA000006094226"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000517521",
+      "@date_publi": "1945-02-04",
+      "@date_signature": "1945-02-02",
+      "@nature": "ORDONNANCE",
+      "@num": "45-174"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-12-24",
+          "@etat": "MODIFIE",
+          "@fin": "2002-01-01",
+          "@id": "LEGIARTI000006495357",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2021-09-30",
+          "@id": "LEGIARTI000006495358",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans tous les cas ou le régime de la liberté surveillée sera décidé, le mineur, ses parents, son tuteur, la personne qui en a la garde, seront avertis du caractère et de l'objet de cette mesure et des obligations qu'elle comporte.<br/>\n<br/>   Le délégué à la liberté surveillée fera rapport au juge des enfants, en cas de mauvaise conduite, de péril moral du mineur, d'entraves systématiques à l'exercice de la surveillance, ainsi que dans le cas ou une modification de placement ou de garde lui paraîtra utile.<br/>\n<br/>   En cas de décès, de maladie grave, de changement de résidence ou d'absence non autorisée du mineur, les parents, tuteur, gardien ou patron devront sans retard en informer le délégué.<br/>\n<br/>   Si un incident à la liberté surveillé révèle un défaut de surveillance caractérisé de la part des parents ou du tuteur ou gardien, ou des entraves systématiques à l'exercice de la mission du délégué, le juge des enfants ou le tribunal pour enfants, quelle que soit la décision prise à l'égard du mineur, pourra condamner les parents ou le tuteur ou gardien à une amende civile de 10 à 500 francs.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 51-687 1951-05-24 art. 7 JORF 2 juin 1951",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 45-174 1945-02-02 JORF 4 février 1945 rectificatif JORF 6 mars 1945",
+        "@cidtexte": "JORFTEXT000000517521",
+        "@datesignatexte": "1945-02-02",
+        "@id": "JORFTEXT000000517521",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-174",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n° 45-174 du 2 février 1945 - art. 44 (M)",
+        "@cidtexte": "JORFTEXT000000517521",
+        "@datesignatexte": "1945-02-02",
+        "@id": "LEGIARTI000033462379",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "44",
+        "@numtexte": "45-174",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 58-1300 1958-12-23 art. 1 JORF 24 décembre 1958",
+        "@cidtexte": "JORFTEXT000000705210",
+        "@datesignatexte": "1958-12-23",
+        "@id": "JORFTEXT000000705210",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1300",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

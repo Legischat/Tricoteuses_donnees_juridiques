@@ -1,0 +1,165 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006804705",
+      "ANCIEN_ID": "TXXXXXXXXXX0516R0060XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/47/LEGIARTI000006804705.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R516-6",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1974-10-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CONFLITS DU TRAVAIL",
+              "@debut": "1973-11-21",
+              "@fin": "1979-12-02",
+              "@id": "LEGISCTA000006128488"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES",
+                "@debut": "1973-11-21",
+                "@fin": "1979-12-02",
+                "@id": "LEGISCTA000006142982"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "PROCEDURE DEVANT LES CONSEILS DE PRUD'HOMMES",
+                  "@debut": "1973-11-23",
+                  "@fin": "1987-06-30",
+                  "@id": "LEGISCTA000006157933"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "ASSISTANCE ET REPRESENTATION DES PARTIES .",
+                    "@debut": "1973-11-23",
+                    "@fin": "1976-01-01",
+                    "@id": "LEGISCTA000006174836"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "MODIFIE",
+          "@fin": "1974-10-01",
+          "@id": "LEGIARTI000006804705",
+          "@num": "R516-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1974-10-01",
+          "@etat": "MODIFIE",
+          "@fin": "1976-01-01",
+          "@id": "LEGIARTI000006804706",
+          "@num": "R516-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018507424",
+          "@num": "R516-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si le conseil, d'office ou à la demande des parties,<br/>\n ordonne la preuve par témoins, ceux-ci sont appelés dans les mêmes formes et délais.<br/>\n<br/>   L'enquête ne peut avoir lieu que devant le conseil.<br/>\n<br/>\n<br/>   Le secrétaire du conseil de prud'hommes exerce les fonctions dévolues au greffier du tribunal de grande instance par les dispositions de la première partie, livre Ier, titre XII, du Code de procédure civile et sous la même responsabilité.<br/>\n<br/>\n<br/>   Les copies du jugement ordonnant l'enquête et les procès-verbaux sont remis ou adressés par le secrétaire aux parties ou aux personnes habilitées à les représenter.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de procédure civile LIVRE I TITRE XII",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail - art. R516-8 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006804708",
+        "@naturetexte": "CODE",
+        "@num": "R516-8",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail R516-8 (1973)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

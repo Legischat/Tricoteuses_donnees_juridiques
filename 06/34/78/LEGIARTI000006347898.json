@@ -1,0 +1,155 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006347898",
+      "ANCIEN_ID": "MCXXXXXXXXX2X241R17AAXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/78/LEGIARTI000006347898.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R241-17",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1977-03-20",
+        "DATE_FIN": "1989-10-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code des communes",
+          "@c_titre_court": "Code des communes",
+          "@debut": "1977-03-20",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070162"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1977-03-20",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085623"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LIVRE 2 : Finances communales",
+              "@debut": "1977-04-05",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006115381"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "TITRE 4 : Comptabilité",
+                "@debut": "1977-03-20",
+                "@fin": "2000-04-09",
+                "@id": "LEGISCTA000006134674"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "CHAPITRE 1 : Comptabilité du maire et du comptable",
+                  "@debut": "1977-03-20",
+                  "@fin": "1989-10-10",
+                  "@id": "LEGISCTA000006148235"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "SECTION 3 : Comptabilité du comptable.",
+                    "@debut": "1977-03-20",
+                    "@fin": "1989-10-10",
+                    "@id": "LEGISCTA000006163727"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070162",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-03-20",
+          "@etat": "MODIFIE",
+          "@fin": "1989-10-10",
+          "@id": "LEGIARTI000006347898",
+          "@num": "R241-17",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-10-10",
+          "@etat": "ABROGE",
+          "@fin": "2000-04-09",
+          "@id": "LEGIARTI000006347899",
+          "@num": "R241-17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le maire remet au comptable de la commune, dûment récapitulée sur un bordereau d'émission, une expédition en forme de tous les baux, contrats, jugements, testaments, déclarations, états de recouvrement, titres nouvels et autres, concernant les recettes dont la perception lui est confiée [*documents*]. <br/>\n    Le comptable peut demander, au besoin, que les originaux des actes formant titre au profit de la commune lui soient remis contre récépissé. <br/>\n    Pour lui permettre d'exercer le contrôle qui lui incombe,<br/>\n le receveur particulier des finances reçoit directement du maire une copie de chaque bordereau d'émission de titres de recettes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1862-05-31 art. 512 modifié",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 77-91 1977-01-27",
+        "@cidtexte": "JORFTEXT000000335057",
+        "@datesignatexte": "1977-01-27",
+        "@id": "JORFTEXT000000335057",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-91",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 77-91 1977-01-27 JORF et JONC 3 février 1977 date d'entrée en vigueur élection des maires",
+        "@cidtexte": "JORFTEXT000000335057",
+        "@datesignatexte": "1977-01-27",
+        "@id": "JORFTEXT000000335057",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-91",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code général des collectivités territoriales - art. D2343-1 (V)",
+        "@cidtexte": "LEGITEXT000006070633",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006396690",
+        "@naturetexte": "CODE",
+        "@num": "D2343-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

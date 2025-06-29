@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607995",
+      "ANCIEN_ID": "RAIGIXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/79/LEGIARTI000006607995.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1995-01-24",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 juin 1986 relatif au livre généalogique des races françaises de chevaux de selle",
+          "@c_titre_court": "Arrêté du 4 juin 1986",
+          "@debut": "1986-07-25",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071465"
+        }
+      ],
+      "@cid": "LEGITEXT000006071465",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-06-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-07-25",
+          "@etat": "MODIFIE",
+          "@fin": "1995-01-24",
+          "@id": "LEGIARTI000006607994",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-01-24",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006607995",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le livre généalogique des races françaises de chevaux de selle comprend trois sections :<br/>\n<br/>   Le stud-book français du cheval arabe ;<br/>\n<br/>   Le stud-book de l'anglo-arabe ;<br/>\n<br/>   Le stud-book du cheval de selle français.<br/>\n<br/>   La commission des chevaux de selle visée à l'article 15 du décret du 15 avril 1976 fixant les modalités d'application aux équidés de la loi du 28 décembre 1966 sur l'élevage peut se réunir soit en commission plénière, soit en commission du stud-book arabe, soit en commission du stud-book anglo-arabe, soit en commission du stud-book selle français.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-01-10 art. 1 JORF 24 janvier 1995",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 66-1005 1966-12-28",
+        "@cidtexte": "JORFTEXT000000691978",
+        "@datesignatexte": "1966-12-28",
+        "@id": "JORFTEXT000000691978",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-1005",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 76-351 1976-04-15 art. 15",
+        "@cidtexte": "JORFTEXT000000678696",
+        "@datesignatexte": "1976-04-15",
+        "@id": "JORFTEXT000000678696",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-351",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

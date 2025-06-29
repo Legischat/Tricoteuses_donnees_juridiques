@@ -1,0 +1,134 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006628539",
+      "ANCIEN_ID": "RIEBGXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/85/LEGIARTI000006628539.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1980-07-09",
+        "DATE_FIN": "2001-12-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 15 juin 1906 sur les distributions d'énergie",
+          "@c_titre_court": "Loi du 15 juin 1906",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000508752"
+        },
+        {
+          "#text": "Loi du 15 juin 1906 sur les distributions d'énergie",
+          "@c_titre_court": "Loi du 15 juin 1906",
+          "@debut": "1906-06-17",
+          "@fin": "2016-01-01",
+          "@id_txt": "LEGITEXT000006071810"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Régime des concessions simples sans déclaration d'utilité publique.",
+            "@debut": "1930-04-17",
+            "@fin": "2012-01-01",
+            "@id": "LEGISCTA000006100016"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000508752",
+      "@date_publi": "1906-06-17",
+      "@date_signature": "1906-06-15",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-09",
+          "@etat": "MODIFIE",
+          "@fin": "2001-12-29",
+          "@id": "LEGIARTI000006628539",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-12-29",
+          "@etat": "MODIFIE",
+          "@fin": "2003-01-04",
+          "@id": "LEGIARTI000006628540",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-01-04",
+          "@etat": "ABROGE",
+          "@fin": "2012-01-01",
+          "@id": "LEGIARTI000024008241",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2012-01-01",
+          "@etat": "MODIFIE_MORT_NE",
+          "@fin": "2011-12-31",
+          "@id": "LEGIARTI000022173406",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE_MORT_NE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La concession confère à l'entrepreneur le droit d'exécuter sur les voies publiques et leurs dépendances tous travaux nécessaires à l'établissement et à l'entretien des ouvrages en se conformant aux conditions du cahier des charges, des règlements de voirie et des décrets en conseil d'Etat prévus à l'article 18 ci-après.<br/>\n<br/>   L'autorité qui a fait la concession a toujours le droit, pour un motif d'intérêt public, d'exiger la suppression d'une partie quelconque des ouvrages d'une concession ou d'en faire modifier les dispositions et le tracé.<br/>\n<br/>   L'indemnité qui peut être due dans ce cas au concessionnaire est fixée par les tribunaux compétents si les obligations et droits de celui-ci ne sont pas réglés soit par le cahier des charges, soit par une convention postérieure.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1906-06-15 art. 18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 80-514 1980-07-07 art. 1 JORF 9 juillet 1980",
+        "@cidtexte": "JORFTEXT000000705205",
+        "@datesignatexte": "1980-07-07",
+        "@id": "JORFTEXT000000705205",
+        "@naturetexte": "LOI",
+        "@numtexte": "80-514",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la voirie routière - art. L113-5 (V)",
+        "@cidtexte": "LEGITEXT000006070667",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000022173386",
+        "@naturetexte": "CODE",
+        "@num": "L113-5",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

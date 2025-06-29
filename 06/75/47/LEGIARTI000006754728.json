@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006754728",
+      "ANCIEN_ID": "AFIDEXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/47/LEGIARTI000006754728.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-02-06",
+        "DATE_FIN": "1985-02-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 février 1972 relatif à la fixation du capital minimum des banques",
+          "@c_titre_court": "Arrêté du 4 février 1972",
+          "@debut": "1972-02-06",
+          "@fin": "1985-02-28",
+          "@id_txt": "LEGITEXT000006073248"
+        }
+      ],
+      "@cid": "LEGITEXT000006073248",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-02-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-02-06",
+          "@etat": "ABROGE",
+          "@fin": "1985-02-28",
+          "@id": "LEGIARTI000006754728",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le capital [*social*] minimum des banques d'affaires fixé par l'article 2 de l'arrêté susvisé du 25 mai 1966, est doublé pour celles de ces banques dont le montant total du bilan et des engagements hors bilan est supérieur à 300 millions de francs, au terme de deux exercices sociaux consécutifs.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1966-05-25 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1985-02-20 art. 2 JORF 28 février 1985",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1941-06-13 art. 8",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

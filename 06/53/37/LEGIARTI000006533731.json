@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006533731",
+      "ANCIEN_ID": "ADHACXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/37/LEGIARTI000006533731.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1993-07-27",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 28 juillet 1908 PORTANT APPLICATION DE LA LOI DU 1 août 1905 AUX CIDRES ET POIRES",
+          "@c_titre_court": "Décret du 28 juillet 1908",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000479684"
+        },
+        {
+          "#text": "Décret du 28 juillet 1908 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles, en ce qui concerne les cidres et poirés",
+          "@c_titre_court": "Décret du 28 juillet 1908",
+          "@debut": "1908-08-07",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071227"
+        }
+      ],
+      "@cid": "JORFTEXT000000479684",
+      "@date_publi": "1908-08-07",
+      "@date_signature": "1908-07-28",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1908-08-07",
+          "@etat": "MODIFIE",
+          "@fin": "1993-07-27",
+          "@id": "LEGIARTI000006533730",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-07-27",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006533731",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont considérées comme frauduleuses les manipulations et pratiques qui ont pour objet de modifier la composition du cidre et du poiré définis à l'article ci-dessus, dans le but soit de tromper l'acheteur sur les qualités substantielles ou l'origine du produit, soit d'en dissimuler l'altération.<br/>\n<br/>   En conséquence, rentre dans le cas prévu par l'article L. 213-3 paragraphe 4, du code de la consommation, le fait d'exposer, de mettre en vente ou de vendre, sous forme indiquant leur destination ou leur emploi, tous produits, de composition secrète ou non, propres à effectuer les manipulations ou pratiques ci-dessus visées.<br/>\n<br/>   Il en est de même du fait d'exposer, de mettre en vente ou de vendre, des produits désignés sous une appellation ou dans des termes de nature à faire croire que les boissons fabriquées avec ces produits peuvent être légalement mélangées aux cidres et poirés, ou même vendues séparément comme cidre ou poiré.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°93-949 du 26 juillet 1993 - art. 2 (V) JORF 27 juillet 1993",
+        "@cidtexte": "JORFTEXT000000529228",
+        "@datesignatexte": "1993-07-26",
+        "@id": "LEGIARTI000006932790",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9300016L",
+        "@num": "2",
+        "@numtexte": "93-949",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la consommation - art. L213-3 (M)",
+        "@cidtexte": "LEGITEXT000006069565",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006292231",
+        "@naturetexte": "CODE",
+        "@num": "L213-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

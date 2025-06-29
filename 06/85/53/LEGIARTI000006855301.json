@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855301",
+      "ANCIEN_ID": "UPHKBXXXXXX026AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/53/LEGIARTI000006855301.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "26",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-08-21",
+        "DATE_FIN": "2009-05-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-696 du 18 août 1979 CREATION ET DELIMITATION DU PARC NATIONAL DU MERCANTOUR ET D'UNE ZONE PERIPHERIQUE AUTOUR DU PARC",
+          "@c_titre_court": "Décret n°79-696 du 18 août 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000696617"
+        },
+        {
+          "#text": "Décret n°79-696 du 18 août 1979 créant le parc national du Mercantour",
+          "@c_titre_court": "Décret n°79-696 du 18 août 1979",
+          "@debut": "1979-08-21",
+          "@fin": "2009-05-03",
+          "@id_txt": "LEGITEXT000006063097"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Réglementation générale du parc",
+            "@debut": "1979-08-21",
+            "@fin": "2009-05-03",
+            "@id": "LEGISCTA000006109537"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Protection de la faune, de la flore, des minéraux et des fossiles",
+              "@debut": "1979-08-21",
+              "@fin": "2009-05-03",
+              "@id": "LEGISCTA000006129518"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000696617",
+      "@date_publi": "1979-08-21",
+      "@date_signature": "1979-08-18",
+      "@nature": "DECRET",
+      "@num": "79-696"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-08-21",
+          "@etat": "ABROGE",
+          "@fin": "2009-05-03",
+          "@id": "LEGIARTI000006855301",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sauf autorisation du directeur du parc national, il est interdit de prélever des minéraux ou des fossiles ou, à l'exception des cas prévus à l'article 35 du présent décret, de les détenir, de les transporter, de les colporter, de les mettre en vente [*commercialisation*], de les vendre ou de les acheter sciemment, tant à l'extérieur du parc national, s'ils en proviennent, qu'à l'intérieur de celui-ci.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 60-708 1960-07-22",
+        "@cidtexte": "JORFTEXT000000512209",
+        "@datesignatexte": "1960-07-22",
+        "@id": "JORFTEXT000000512209",
+        "@naturetexte": "LOI",
+        "@numtexte": "60-708",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 79-696 1979-08-18 JORF 21 AOUT 1979 rectificatif JONC 25 AOUT ET 16 SEPTEMBRE 1979",
+        "@cidtexte": "JORFTEXT000000696617",
+        "@datesignatexte": "1979-08-18",
+        "@id": "JORFTEXT000000696617",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-696",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°79-696 du 18 août 1979 - art. 35",
+        "@cidtexte": "JORFTEXT000000696617",
+        "@datesignatexte": "1979-08-18",
+        "@id": "LEGIARTI000006855311",
+        "@naturetexte": "DECRET",
+        "@num": "35",
+        "@numtexte": "79-696",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2009-486 du 29 avril 2009 - art. 29",
+        "@cidtexte": "JORFTEXT000020567285",
+        "@datesignatexte": "2009-04-29",
+        "@id": "LEGIARTI000020570054",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVN0826313D",
+        "@num": "29",
+        "@numtexte": "2009-486",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006717053",
+      "ANCIEN_ID": "AFFAMXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/70/LEGIARTI000006717053.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1816-07-03",
+        "DATE_FIN": "2005-08-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance du 3 juillet 1816 autorisant la Caisse des dépôts et consignations à recevoir les dépôts volontaires des particuliers.",
+          "@c_titre_court": "Ordonnance du 3 juillet 1816",
+          "@debut": "1816-07-03",
+          "@fin": "2005-08-25",
+          "@id_txt": "LEGITEXT000006072843"
+        }
+      ],
+      "@cid": "LEGITEXT000006072843",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1816-07-03",
+      "@nature": "ORDONNANCE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1816-07-03",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006717053",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Conformément à la faculté accordée par l'article 7 de la loi du 28 nivôse an XIII, la Caisse des dépôts et consignations est autorisée à recevoir les dépôts volontaires des particuliers.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005",
+        "@cidtexte": "JORFTEXT000000451781",
+        "@datesignatexte": "2005-08-02",
+        "@id": "LEGIARTI000006244165",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOX0500001D",
+        "@num": "5",
+        "@numtexte": "2005-1007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. R518-35 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006685383",
+        "@naturetexte": "CODE",
+        "@num": "R518-35",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 28 nivôse an XIII art. 7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 1816-07-03, Bull. lois, 7e S., B. 98, n° 877",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

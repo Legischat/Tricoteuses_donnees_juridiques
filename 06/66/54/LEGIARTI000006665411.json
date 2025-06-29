@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006665411",
+      "ANCIEN_ID": "SEHMZXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/54/LEGIARTI000006665411.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1968-03-01",
+        "DATE_FIN": "2006-09-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-1165 du 22 décembre 1967 FIXANT LES MODALITES D'APPLICATION DE L'ORDONNANCE 67830 DU 27-9-1967 EN CE QUI CONCERNE LES TITRES-RESTAURANT",
+          "@c_titre_court": "Décret n°67-1165 du 22 décembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000304268"
+        },
+        {
+          "#text": "Décret n°67-1165 du 22 décembre 1967 relatif aux titres-restaurant.",
+          "@c_titre_court": "Décret n°67-1165 du 22 décembre 1967",
+          "@debut": "1968-03-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061405"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Conditions d'émission et d'utilisation des titres-restaurant.",
+            "@debut": "1968-03-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101840"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000304268",
+      "@date_publi": "1967-12-28",
+      "@date_signature": "1967-12-22",
+      "@nature": "DECRET",
+      "@num": "67-1165"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-03-01",
+          "@etat": "MODIFIE",
+          "@fin": "2006-09-07",
+          "@id": "LEGIARTI000006665411",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-09-07",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018503817",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les titres-restaurant doivent dans tous les cas comporter, à l'encre et en caractères très apparents [*conditions de forme*], les mentions [*obligatoires*] suivantes :<br/>\n<br/>     1) Nom et adresse de l'émetteur ;<br/>\n<br/>     2) Nom et adresse de la personne, du centre de chèques postaux ou de l'établissement bancaire à qui les titres doivent être présentés au remboursement par les restaurateurs ;<br/>\n<br/>     3) Montant de la valeur libératoire du titre ;<br/>\n<br/>     4) Indication de l'année civile d'émission ;<br/>\n<br/>     5) Indication de la période d'utilisation par les salariés bénéficiaires, telle qu'elle est définie au deuxième alinéa de l'article 20 de l'ordonnance susvisée ;<br/>\n<br/>     6) Numéro dans une série continue de nombres caractérisant l'émission ;<br/>\n<br/>     7) Nom et adresse du restaurateur chez qui le repas a été consommé.<br/>\n<br/>   Les mentions visées aux 1), 2), 3), 4) et 6) ci-dessus sont apposées au recto du titre par l'émetteur.<br/>\n<br/>   L'employeur est tenu, avant de remettre les titres à son personnel, d'y porter l'indication de la période d'utilisation visée au 5) si elle n'a pas été apposée par l'émetteur.<br/>\n<br/>   Les mentions prescrites au 7) du présent article sont apposées par le restaurateur au moment de la réception du titre.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 67-830 1967-09-27",
+        "@cidtexte": "JORFTEXT000000698675",
+        "@datesignatexte": "1967-09-27",
+        "@id": "JORFTEXT000000698675",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "67-830",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Ordonnance n°67-830 du 27 septembre 1967 - art. 20 (V)",
+        "@cidtexte": "JORFTEXT000000698675",
+        "@datesignatexte": "1967-09-27",
+        "@id": "LEGIARTI000006659963",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "20",
+        "@numtexte": "67-830",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°67-1165 du 22 décembre 1967 - art. 14 (M)",
+        "@cidtexte": "JORFTEXT000000304268",
+        "@datesignatexte": "1967-12-22",
+        "@id": "LEGIARTI000006665434",
+        "@naturetexte": "DECRET",
+        "@num": "14",
+        "@numtexte": "67-1165",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

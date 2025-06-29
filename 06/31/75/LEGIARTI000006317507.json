@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006317507",
+      "ANCIEN_ID": "AAGAFXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/75/LEGIARTI000006317507.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1937-10-01",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 25 août 1937 réglementant les bons de caisse",
+          "@c_titre_court": "Décret-loi du 25 août 1937",
+          "@debut": "1937-08-28",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006069591"
+        }
+      ],
+      "@cid": "LEGITEXT000006069591",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1937-08-25",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1937-10-01",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006317507",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006317508",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'émetteur qui reproduira un bilan inexact et faussement certifié sincère dans le cas prévu par l'article 2, alinéa 2, du présent décret sera puni [*responsabilité des dirigeants de sociétés*] des peines prévues par l'article 405 du code pénal.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code pénal 405",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret-loi 1937-08-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret-loi 1937-08-25 JORF 28 août 1937 rectificatif JORF 31 août 1937 en vigueur le 1er octobre 1937",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

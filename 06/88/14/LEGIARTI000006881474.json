@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006881474",
+      "ANCIEN_ID": "UTHDSXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/14/LEGIARTI000006881474.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1960-03-13",
+        "DATE_FIN": "2001-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°60-226 du 29 février 1960 RELATIF AU DISPOSITIF DE CONTROLE DE LA DUREE DU STATIONNEMENT DANS LES AGGLOMERATIONS - CONFORMITE DU DISPOSITIF DE CONTROLE A UN MODELE TYPE FIXE PAR ARRETE DU MINISTRE DE L'INTERIEUR",
+          "@c_titre_court": "Décret n°60-226 du 29 février 1960",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000338725"
+        },
+        {
+          "#text": "Décret n°60-226 du 29 février 1960 relatif au dispositif de contrôle de la durée du stationnement dans les agglomérations.",
+          "@c_titre_court": "Décret n°60-226 du 29 février 1960",
+          "@debut": "1960-03-13",
+          "@fin": "2001-06-01",
+          "@id_txt": "LEGITEXT000006060954"
+        }
+      ],
+      "@cid": "JORFTEXT000000338725",
+      "@date_publi": "1960-03-13",
+      "@date_signature": "1960-02-29",
+      "@nature": "DECRET",
+      "@num": "60-226"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-03-13",
+          "@etat": "ABROGE",
+          "@fin": "2001-06-01",
+          "@id": "LEGIARTI000006881474",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'obligation d'apposition sur le véhicule du dispositif de contrôle est portée à la connaissance des usagers par adjonction aux signaux réglementaires de limitation de durée de stationnement, tels qu'ils sont définis par l'arrêté ministériel du 22 juillet 1954, d'un panonceau rectangulaire portant en caractères bleus sur fond blanc la mention \" Dispositif de contrôle obligatoire \".<br/>\n<br/>   Cette mention doit être lisible à une distance de 30 mètres.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1954-07-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1960-02-29",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret n°60-226 du 29 février 1960 - art. 8 (Ab)",
+        "@cidtexte": "JORFTEXT000000338725",
+        "@datesignatexte": "1960-02-29",
+        "@id": "LEGIARTI000006881475",
+        "@naturetexte": "DECRET",
+        "@num": "8",
+        "@numtexte": "60-226",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2001-251 2001-03-22 art. 5 JORF 25 mars 2001 en vigueur le 1er juin 2001",
+        "@cidtexte": "JORFTEXT000000578193",
+        "@datesignatexte": "2001-03-22",
+        "@id": "JORFTEXT000000578193",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS0100055D",
+        "@numtexte": "2001-251",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

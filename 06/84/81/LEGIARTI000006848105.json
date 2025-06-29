@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006848105",
+      "ANCIEN_ID": "UPEFCXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/81/LEGIARTI000006848105.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-01-04",
+        "DATE_FIN": "1995-02-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 92-3 du 3 janvier 1992 sur l'eau  (1)",
+          "@c_titre_court": "Loi n°92-3 du 3 janvier 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000173995"
+        },
+        {
+          "#text": "Loi n° 92-3 du 3 janvier 1992 sur l'eau",
+          "@c_titre_court": "Loi n° 92-3 du 3 janvier 1992",
+          "@debut": "1992-01-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006078514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : De la police et de la gestion des eaux.",
+            "@debut": "1992-01-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108858"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000173995",
+      "@date_publi": "1992-01-04",
+      "@date_signature": "1992-01-03",
+      "@nature": "LOI",
+      "@nor": "ENVX9100061L",
+      "@num": "92-3"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-04",
+          "@etat": "MODIFIE",
+          "@fin": "1995-02-03",
+          "@id": "LEGIARTI000006848105",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-02-03",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006848106",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les parties submersibles des vallées non couvertes par un plan d'exposition aux risques naturels prévisibles, l'autorité administrative peut élaborer des plans de surfaces submersibles qui définissent les prescriptions techniques à respecter afin d'assurer le libre écoulement des eaux, la conservation des champs d'inondation et le fonctionnement des écosystèmes qu'ils constituent.<br/>\n<br/>   Dans les zones couvertes par un plan de surfaces submersibles, les dispositions du deuxième alinéa et des alinéas suivants de l'article 5-1 de la loi n° 82-600 du 13 juillet 1982 relative à l'indemnisation des victimes de catastrophes naturelles sont applicables.<br/>\n<br/>   Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont établis les plans de surfaces submersibles ainsi que la nature des prescriptions techniques qui y sont applicables.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°82-600 du 13 juillet 1982 - art. 5-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000691989",
+        "@datesignatexte": "1982-07-13",
+        "@id": "LEGIARTI000006840005",
+        "@naturetexte": "LOI",
+        "@num": "5-1",
+        "@numtexte": "82-600",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 92-3 1992-01-03 art. 45",
+        "@cidtexte": "JORFTEXT000000173995",
+        "@datesignatexte": "1992-01-03",
+        "@id": "JORFTEXT000000173995",
+        "@naturetexte": "LOI",
+        "@nortexte": "ENVX9100061L",
+        "@numtexte": "92-3",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

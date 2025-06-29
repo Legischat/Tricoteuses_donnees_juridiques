@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006717980",
+      "ANCIEN_ID": "SPIGLXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/79/LEGIARTI000006717980.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-01-01",
+        "DATE_FIN": "1990-03-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 décembre 1988 RELATIF AU TARIF DE CESSION DES PRODUITS SANGUINS",
+          "@c_titre_court": "Arrêté du 29 décembre 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000327858"
+        },
+        {
+          "#text": "Arrêté du 29 décembre 1988 relatif au tarif de cession des produits sanguins",
+          "@c_titre_court": "Arrêté du 29 décembre 1988",
+          "@debut": "1989-01-01",
+          "@fin": "1990-03-07",
+          "@id_txt": "LEGITEXT000006058683"
+        }
+      ],
+      "@cid": "JORFTEXT000000327858",
+      "@date_publi": "1988-12-30",
+      "@date_signature": "1988-12-29",
+      "@nature": "ARRETE",
+      "@nor": "SPSP8801953A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1990-03-07",
+          "@id": "LEGIARTI000006717980",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les arrêtés du 30 décembre 1987 et du 12 septembre 1988 relatifs au tarif de cession des produits sanguins sont abrogés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-12-30 (abrogé)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1988-09-12 (abrogé)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1990-03-02 art. 5 JORF 7 mars 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

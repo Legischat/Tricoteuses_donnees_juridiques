@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006916111",
+      "ANCIEN_ID": "AKFAGXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/61/LEGIARTI000006916111.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1816-07-22",
+        "DATE_FIN": "1945-11-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance du Roi du 26 juin 1816, qui établit, en exécution de la loi du 28 avril 1816, des commissaires-priseurs dans les villes chefs-lieux d'arrondissement, ou qui sont le siège d'un tribunal de première instance, et dans celles qui, n'ayant ni sous-préfecture, ni tribunal, renferment une population de cinq mille âmes et au-dessus.",
+          "@c_titre_court": "Ordonnance du 26 juin 1816",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878069"
+        },
+        {
+          "#text": "Ordonnance du 26 juin 1816 qui établit, en exécution de la loi du 28 avril 1816, des commissaires-priseurs judiciaires dans les villes chefs-lieux d'arrondissement, ou qui sont le siège d'un tribunal de grande instance, et dans celles qui, n'ayant ni sous-préfecture ni tribunal, renferment une population de cinq mille âmes et au-dessus",
+          "@c_titre_court": "Ordonnance du 26 juin 1816",
+          "@debut": "2000-07-11",
+          "@fin": "2022-07-01",
+          "@id_txt": "LEGITEXT000006075136"
+        }
+      ],
+      "@cid": "JORFTEXT000000878069",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1816-06-26",
+      "@nature": "ORDONNANCE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1816-07-22",
+          "@etat": "ABROGE",
+          "@fin": "1945-11-03",
+          "@id": "LEGIARTI000006916111",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Nul ne pourra être admis à exercer les fonctions de commissaire-priseur, s'il n'a vingt-cinq ans accomplis, ou s'il n'a obtenu de nous les dispenses d'âge que nous nous réservons d'accorder lorsque nous le jugerons convenable.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1816-04-28",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Ordonnance 1816-06-26 promulguée le 22 juillet 1816",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 45-2593 1945-11-02 art. 12 JORF 3 novembre 1945 rectificatif JORF 8 novembre 1945",
+        "@cidtexte": "JORFTEXT000000889039",
+        "@datesignatexte": "1945-11-02",
+        "@id": "JORFTEXT000000889039",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2593",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

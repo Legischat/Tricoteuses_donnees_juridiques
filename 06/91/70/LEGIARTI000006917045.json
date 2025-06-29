@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006917045",
+      "ANCIEN_ID": "AKFAIXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/70/LEGIARTI000006917045.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-11-03",
+        "DATE_FIN": "2012-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-2591 du 2 novembre 1945 relative au statut des avoués",
+          "@c_titre_court": "Ordonnance n°45-2591 du 2 novembre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000334192"
+        },
+        {
+          "#text": "Ordonnance n° 45-2591 du 2 novembre 1945 relative au statut des avoués",
+          "@c_titre_court": "Ordonnance n° 45-2591 du 2 novembre 1945",
+          "@debut": "1945-11-03",
+          "@fin": "2012-01-01",
+          "@id_txt": "LEGITEXT000006069176"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : Dispositions communes.",
+            "@debut": "1945-11-03",
+            "@fin": "2012-01-01",
+            "@id": "LEGISCTA000006112973"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000334192",
+      "@date_publi": "1945-11-03",
+      "@date_signature": "1945-11-02",
+      "@nature": "ORDONNANCE",
+      "@num": "45-2591"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-11-03",
+          "@etat": "ABROGE",
+          "@fin": "2012-01-01",
+          "@id": "LEGIARTI000006917045",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Un    décret en Conseil d'Etat déterminera les modalités d'application et les dispositions transitoires relatives à la présente ordonnance. <br/>\n<br/>Il fixera, en outre, les conditions dans lesquelles la bourse commune existant entre tous les avoués d'une même compagnie garantit la responsabilité professionnelle des avoués.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 45-1118 1945-12-19",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 45-2591 1945-11-02 JORF 3 novembre 1945 rectificatif JORF 8 novembre 1945",
+        "@cidtexte": "JORFTEXT000000334192",
+        "@datesignatexte": "1945-11-02",
+        "@id": "JORFTEXT000000334192",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2591",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°80-514 du 7 juillet 1980 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000000705205",
+        "@datesignatexte": "1980-07-07",
+        "@id": "LEGIARTI000006529660",
+        "@naturetexte": "LOI",
+        "@num": "unique",
+        "@numtexte": "80-514",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2011-94\n du 25 janvier 2011 - art. 33 (V)",
+        "@cidtexte": "JORFTEXT000023474278",
+        "@datesignatexte": "2011-01-25",
+        "@id": "LEGIARTI000023475428",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSC0909345L",
+        "@num": "33",
+        "@numtexte": "2011-94",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

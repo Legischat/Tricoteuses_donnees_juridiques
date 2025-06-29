@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006421524",
+      "ANCIEN_ID": "PCEBUXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/15/LEGIARTI000006421524.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "unique",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1895-07-24",
+        "DATE_FIN": "2019-12-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi  du 22 juillet 1895 relative à l'application de l'article 14 de la loi du 29 juillet 1881, sur la presse.",
+          "@c_titre_court": "Loi du 22 juillet 1895",
+          "@debut": "1895-07-24",
+          "@fin": "2019-12-13",
+          "@id_txt": "LEGITEXT000006070726"
+        }
+      ],
+      "@cid": "LEGITEXT000006070726",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1895-07-22",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1895-07-24",
+          "@etat": "ABROGE",
+          "@fin": "2019-12-13",
+          "@id": "LEGIARTI000006421524",
+          "@num": "unique",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 14 de la loi du 29 juillet 1881, sur la presse, est applicable aux journaux publiés en France en langue étrangère.<br/>\n<br/>   La présente loi, délibérée et adoptée par le Sénat et par la Chambre des députés, sera exécutée comme loi de l'Etat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2019-1332 du 11 décembre 2019 - art. 1",
+        "@cidtexte": "JORFTEXT000039480074",
+        "@datesignatexte": "2019-12-11",
+        "@id": "LEGIARTI000039482898",
+        "@naturetexte": "LOI",
+        "@nortexte": "CPAX1907946L",
+        "@num": "1",
+        "@numtexte": "2019-1332",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1881-07-29 art. 14",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1881-07-29 art. 14",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

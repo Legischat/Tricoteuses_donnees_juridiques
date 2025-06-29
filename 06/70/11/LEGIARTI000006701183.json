@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006701183",
+      "ANCIEN_ID": "AFEBMXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/11/LEGIARTI000006701183.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-01-04",
+        "DATE_FIN": "1994-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°73-7 du 3 janvier 1973 DIRECTION ET ADMINISTRATION DE LA BANQUE DE FRANCE",
+          "@c_titre_court": "Loi n°73-7 du 3 janvier 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000334815"
+        },
+        {
+          "#text": "Loi n°73-7 du 3 janvier 1973 sur la Banque de France",
+          "@c_titre_court": "Loi n°73-7 du 3 janvier 1973",
+          "@debut": "1973-01-04",
+          "@fin": "1994-01-01",
+          "@id_txt": "LEGITEXT000006068472"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Organisation de la Banque de France",
+            "@debut": "1973-01-04",
+            "@fin": "1994-01-01",
+            "@id": "LEGISCTA000006103802"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section I : Direction et administration de la Banque de France.",
+              "@debut": "1973-01-04",
+              "@fin": "1994-01-01",
+              "@id": "LEGISCTA000006125595"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000334815",
+      "@date_publi": "1973-01-04",
+      "@date_signature": "1973-01-03",
+      "@nature": "LOI",
+      "@num": "73-7"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-01-04",
+          "@etat": "ABROGE",
+          "@fin": "1994-01-01",
+          "@id": "LEGIARTI000006701183",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le gouverneur préside le conseil général et fixe l'ordre du jour de ses travaux ; nulle décision du conseil général ne peut être exécutée si elle n'est pas revêtue de sa signature.<br/>\n<br/>   Il fait exécuter les dispositions légales et réglementaires relatives à la Banque, ainsi que les décisions du conseil général.<br/>\n<br/>   Il représente la Banque vis-à-vis des tiers ; il signe seul au nom de la Banque, tous traités et conventions.<br/>\n<br/>   Il présente au Président de la République, au nom du conseil général, quand il le juge nécessaire et au moins une fois par an, le compte rendu des opérations de la Banque.<br/>\n<br/>   Il nomme à tous les emplois de la Banque sous réserve des dispositions de l'article 32.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 73-7 1973-01-03 JORF 4 janvier 1973 rectificatif JORF 6 janvier 1973",
+        "@cidtexte": "JORFTEXT000000334815",
+        "@datesignatexte": "1973-01-03",
+        "@id": "JORFTEXT000000334815",
+        "@naturetexte": "LOI",
+        "@numtexte": "73-7",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°73-7 du 3 janvier 1973 - art. 32 (Ab)",
+        "@cidtexte": "JORFTEXT000000334815",
+        "@datesignatexte": "1973-01-03",
+        "@id": "LEGIARTI000006701464",
+        "@naturetexte": "LOI",
+        "@num": "32",
+        "@numtexte": "73-7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°93-980 du 4 août 1993 - art. 35 (V) JORF 6 août 1993 en vigueur le 1er janvier 1994",
+        "@cidtexte": "JORFTEXT000000180850",
+        "@datesignatexte": "1993-08-04",
+        "@id": "LEGIARTI000006697421",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9300075L",
+        "@num": "35",
+        "@numtexte": "93-980",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

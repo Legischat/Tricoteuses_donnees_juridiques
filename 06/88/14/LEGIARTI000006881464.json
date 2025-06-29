@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006881464",
+      "ANCIEN_ID": "UTHDRXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/14/LEGIARTI000006881464.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-09-09",
+        "DATE_FIN": "2001-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°72-822 du 6 septembre 1972 PORTANT APPLICATION DES ART. L25 A L25-7 DU CODE DE LA ROUTE ; MODIFIE PAR LA LOI 70-1301 DU 31-12-1970, RELATIVE A LA MISE EN FOURRIERE, A L'ALIENATION ET A LA DESTRUCTION DES VEHICULES TERRESTRES",
+          "@c_titre_court": "Décret n°72-822 du 6 septembre 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000854912"
+        },
+        {
+          "#text": "Décret n°72-822 du 6 septembre 1972 relatif à l'application de l'article 3 de la loi n° 70-1301 du 31 décembre 1970, relative à la mise en fourrière, à l'aliénation et à la destruction des véhicules terrestres.",
+          "@c_titre_court": "Décret n°72-822 du 6 septembre 1972",
+          "@debut": "1972-09-09",
+          "@fin": "2001-06-01",
+          "@id_txt": "LEGITEXT000006061985"
+        }
+      ],
+      "@cid": "JORFTEXT000000854912",
+      "@date_publi": "1972-09-09",
+      "@date_signature": "1972-09-06",
+      "@nature": "DECRET",
+      "@num": "72-822"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-09-09",
+          "@etat": "ABROGE",
+          "@fin": "2001-06-01",
+          "@id": "LEGIARTI000006881464",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque le propriétaire n'a pu être identifié, l'officier de police judiciaire prescrit la mise en fourrière après avoir vérifié que le véhicule n'a pas été signalé comme ayant été volé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 70-1301 1970-12-31",
+        "@cidtexte": "JORFTEXT000000693656",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000693656",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1301",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 2001-251 2001-03-22 art. 5 JORF 25 mars 2001 en vigueur le 1er juin 2001",
+        "@cidtexte": "JORFTEXT000000578193",
+        "@datesignatexte": "2001-03-22",
+        "@id": "JORFTEXT000000578193",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS0100055D",
+        "@numtexte": "2001-251",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006469290",
+      "ANCIEN_ID": "ACEBIXXXXXX030AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/92/LEGIARTI000006469290.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-12-22",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-420 du 18 juin 1966 SUR LES CONTRATS D'AFFRETEMENT ET DE TRANSPORT MARITIME",
+          "@c_titre_court": "Loi n°66-420 du 18 juin 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692464"
+        },
+        {
+          "#text": "Loi n° 66-420 du 18 juin 1966 sur les contrats d'affrètement et de transport maritimes",
+          "@c_titre_court": "Loi n° 66-420 du 18 juin 1966",
+          "@debut": "1967-04-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068280"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Transport de marchandises",
+            "@debut": "1967-04-11",
+            "@fin": "2010-12-01",
+            "@id": "LEGISCTA000006092543"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre IV : Responsabilité du transporteur.",
+              "@debut": "1967-04-11",
+              "@fin": "2010-12-01",
+              "@id": "LEGISCTA000006118708"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000692464",
+      "@date_publi": "1966-06-24",
+      "@date_signature": "1966-06-18",
+      "@nature": "LOI",
+      "@num": "66-420"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-11",
+          "@etat": "MODIFIE",
+          "@fin": "1979-12-22",
+          "@id": "LEGIARTI000006469289",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-12-22",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006469290",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Par dérogation à l'article précédent, toutes clauses relatives à la responsabilité ou à la réparation sont autorisées dans les transports d'animaux vivants et dans les transports de marchandises chargées sur le pont conformément à l'article 22 sauf en ce qui concerne les conteneurs chargés à bord de navires munis d'installations appropriées pour ce type de transport.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°66-420 du 18 juin 1966 - art. 22",
+        "@cidtexte": "JORFTEXT000000692464",
+        "@datesignatexte": "1966-06-18",
+        "@id": "LEGIARTI000006469254",
+        "@naturetexte": "LOI",
+        "@num": "22",
+        "@numtexte": "66-420",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 79-1103 1979-12-21 art. 4 *champ d'application*",
+        "@cidtexte": "JORFTEXT000000705050",
+        "@datesignatexte": "1979-12-21",
+        "@id": "JORFTEXT000000705050",
+        "@naturetexte": "LOI",
+        "@numtexte": "79-1103",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

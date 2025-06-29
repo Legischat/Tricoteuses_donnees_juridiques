@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006716541",
+      "ANCIEN_ID": "SPIBSXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/65/LEGIARTI000006716541.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-06-22",
+        "DATE_FIN": "1994-07-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 novembre 1980 fixant la liste des actes réservés d'hématologie.",
+          "@c_titre_court": "Arrêté du 6 novembre 1980",
+          "@debut": "1980-12-02",
+          "@fin": "1994-07-12",
+          "@id_txt": "LEGITEXT000006072806"
+        }
+      ],
+      "@cid": "LEGITEXT000006072806",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1980-11-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-06-22",
+          "@etat": "ABROGE",
+          "@fin": "1994-07-12",
+          "@id": "LEGIARTI000006716541",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les actes d'hématologie suivants :<br/>\n    Index phagocytaire ;<br/>\n    Réduction du bleu de nitro-tetrazonium (N.B.T.) par méthode spectrophotométrique ;<br/>\n    Index chimiotactique ;<br/>\n    Pouvoir bactéricide des cellules phagocytaires ;<br/>\n    Identification d'un mélange complexe d'anticorps antierythrocytes ;<br/>\n    Identification des sous-groupes A, B, O, autres que A 1 et 2 ;<br/>\n    Dosage des anticorps anti-D exprimé en unité de masse, sont réservés aux personnes possédant le certificat d'études spéciales d'hématologie ou un diplôme reconnu équivalent par une disposition réglementaire ou la dispense prévue à l'article 3 du décret susvisé du 30 décembre 1975, et ne peuvent être effectués que dans un laboratoire d'analyses de biologie médicale dont au moins un directeur ou un directeur adjoint remplit cette condition.<br/>\n    En outre, ces personnes doivent justifier de l'attestation de capacité prévue à l'article 2.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1980-11-06 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1986-04-29 art. 1 I JORF 22 juin 1986",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°75-1344 du 30 décembre 1975 - art. 3 (M)",
+        "@cidtexte": "JORFTEXT000000499606",
+        "@datesignatexte": "1975-12-30",
+        "@id": "LEGIARTI000006704417",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "75-1344",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°94-575 du 11 juillet 1994 - art. 9 () JORF 12 juillet 1994",
+        "@cidtexte": "JORFTEXT000000366467",
+        "@datesignatexte": "1994-07-11",
+        "@id": "LEGIARTI000006666430",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFF9400715D",
+        "@num": "9",
+        "@numtexte": "94-575",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

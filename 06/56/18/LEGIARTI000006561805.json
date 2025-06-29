@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006561805",
+      "ANCIEN_ID": "ADHIVXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/18/LEGIARTI000006561805.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1962-12-06",
+        "DATE_FIN": "1996-12-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°62-1463 du 26 novembre 1962 PRECISANT LES MODALITES D'APPLICATION DE LA LOI DU 30 décembre 1906 SUR LES VENTES AU DEBALLAGE",
+          "@c_titre_court": "Décret n°62-1463 du 26 novembre 1962",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000853062"
+        },
+        {
+          "#text": "Décret n°62-1463 du 26 novembre 1962 précisant les modalités d'application de la loi du 30 décembre 1906 sur les ventes au déballage complétant la loi du 25 juin 1841",
+          "@c_titre_court": "Décret n°62-1463 du 26 novembre 1962",
+          "@debut": "1962-12-06",
+          "@fin": "1996-12-17",
+          "@id_txt": "LEGITEXT000006061076"
+        }
+      ],
+      "@cid": "JORFTEXT000000853062",
+      "@date_publi": "1962-12-06",
+      "@date_signature": "1962-11-26",
+      "@nature": "DECRET",
+      "@num": "62-1463"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1962-12-06",
+          "@etat": "ABROGE",
+          "@fin": "1996-12-17",
+          "@id": "LEGIARTI000006561805",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont considérées comme ventes au déballage, au sens de la loi du 30 décembre 1906, les ventes précédées ou accompagnées de publicité, effectuées sur des emplacements ou dans les locaux habituellement destinés au commerce et présentant un caractère réellement ou apparemment occasionnel ou exceptionnel. Ce caractère peut résulter du mode d'acquisition des marchandises, de l'importance du stock mis en vente, des prix annoncés ou de toute autre cause.<br/>\n<br/>   Ne tombent pas sous le coup des dispositions de la loi du 30 décembre 1906 les ventes effectuées par des commerçants ambulants et forains lorsque ces ventes ne présentent pas de caractère exceptionnel, correspondent au commerce dont il est fait mention sur la patente des intéressés et qu'elles sont réalisées sur les emplacements où les commerçants exercent habituellement et régulièrement leur activité.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°62-1463 du 26 novembre 1962 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000853062",
+        "@datesignatexte": "1962-11-26",
+        "@id": "LEGIARTI000006561799",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "62-1463",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°96-1097 du 16 décembre 1996 - art. 16 (Ab) JORF 17 décembre 1996",
+        "@cidtexte": "JORFTEXT000000746506",
+        "@datesignatexte": "1996-12-16",
+        "@id": "LEGIARTI000006594989",
+        "@naturetexte": "DECRET",
+        "@nortexte": "COMK9604006D",
+        "@num": "16",
+        "@numtexte": "96-1097",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1841-06-25",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1906-12-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

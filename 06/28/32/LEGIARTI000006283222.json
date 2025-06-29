@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283222",
+      "ANCIEN_ID": "ARAXXXXXXXX5X00019AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/32/LEGIARTI000006283222.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1807-09-20",
+        "DATE_FIN": "1966-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de commerce (ancien)",
+          "@c_titre_court": "Code de commerce",
+          "@debut": "1807-09-20",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre I : Du commerce en général",
+            "@debut": "1807-09-20",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083845"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre III : Des sociétés.",
+              "@debut": "1807-09-20",
+              "@fin": "1966-07-25",
+              "@id": "LEGISCTA000006114096"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069441",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1807-09-20",
+          "@etat": "ABROGE",
+          "@fin": "1966-07-25",
+          "@id": "LEGIARTI000006283222",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   (Texte abrogé, non reproduit)<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1807-09-10 promulguée le 20 septembre 1807",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 505 JORF 25 juillet 1966",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

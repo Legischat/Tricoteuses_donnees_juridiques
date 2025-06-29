@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006669220",
+      "ANCIEN_ID": "SEIJ3XXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/92/LEGIARTI000006669220.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-01-13",
+        "DATE_FIN": "1991-02-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 janvier 1990 portant fixation du montant journalier de la    subvention attribuée pour la formation des conseillers prud'hommes",
+          "@c_titre_court": "Arrêté du 8 janvier 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000525086"
+        },
+        {
+          "#text": "Arrêté du 8 janvier 1990 portant fixation du montant journalier de la subvention attribuée pour la formation des conseillers prud'hommes",
+          "@c_titre_court": "Arrêté du 8 janvier 1990",
+          "@debut": "1990-01-13",
+          "@fin": "1991-02-06",
+          "@id_txt": "LEGITEXT000006075241"
+        }
+      ],
+      "@cid": "JORFTEXT000000525086",
+      "@date_publi": "1990-01-13",
+      "@date_signature": "1990-01-08",
+      "@ministere": "MINISTERE DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+      "@nature": "ARRETE",
+      "@nor": "TEFT9003021A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-13",
+          "@etat": "ABROGE",
+          "@fin": "1991-02-06",
+          "@id": "LEGIARTI000006669220",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 16 janvier 1989 portant fixation du montant journalier de la subvention attribuée pour la formation des conseillers prud'hommes est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1989-01-16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1991-01-24 art. 3 JORF 6 février 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. D514-3 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006644915",
+        "@naturetexte": "CODE",
+        "@num": "D514-3",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

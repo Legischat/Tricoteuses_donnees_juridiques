@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006668970",
+      "ANCIEN_ID": "SEIHVXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/89/LEGIARTI000006668970.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-05-10",
+        "DATE_FIN": "2009-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 mai 1988 RELATIF AU CONTROLE D'ETAT AUPRES DE L'AGENCE NATIONALE POUR L'EMPLOI (ANPE)",
+          "@c_titre_court": "Arrêté du 6 mai 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000479696"
+        },
+        {
+          "#text": "Arrêté du 6 mai 1988 relatif au contrôle d'Etat auprès de l'Agence nationale pour l'emploi",
+          "@c_titre_court": "Arrêté du 6 mai 1988",
+          "@debut": "1988-05-08",
+          "@fin": "2009-04-22",
+          "@id_txt": "LEGITEXT000006058343"
+        }
+      ],
+      "@cid": "JORFTEXT000000479696",
+      "@date_publi": "1988-05-08",
+      "@date_signature": "1988-05-06",
+      "@nature": "ARRETE",
+      "@nor": "BUDB8860006A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-05-08",
+          "@etat": "MODIFIE",
+          "@fin": "2005-05-10",
+          "@id": "LEGIARTI000006668969",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-05-10",
+          "@etat": "ABROGE",
+          "@fin": "2009-04-22",
+          "@id": "LEGIARTI000006668970",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'exécution de sa mission, le membre du corps du contrôle général économique et financier a tous pouvoirs d'investigation ou de vérification sur pièce et sur place pour l'ensemble des opérations de l'établissement. Il peut demander communication de tous documents ou titres détenus par les services.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005",
+        "@cidtexte": "JORFTEXT000000790119",
+        "@datesignatexte": "2005-05-09",
+        "@id": "LEGIARTI000006413347",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOX0400297D",
+        "@num": "19",
+        "@numtexte": "2005-436",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 9 avril 2009 - art. 9",
+        "@cidtexte": "JORFTEXT000020534206",
+        "@datesignatexte": "2009-04-09",
+        "@id": "LEGIARTI000020534696",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECEU0906389A",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

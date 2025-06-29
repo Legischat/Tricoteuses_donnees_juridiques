@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006437288",
+      "ANCIEN_ID": "PEHAPXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/72/LEGIARTI000006437288.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-01-24",
+        "DATE_FIN": "2006-05-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°87-32 du 23 janvier 1987 RELATIF AU DIPLOME NATIONAL DU BREVET",
+          "@c_titre_court": "Décret n°87-32 du 23 janvier 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000881950"
+        },
+        {
+          "#text": "Décret n°87-32 du 23 janvier 1987 relatif au diplôme national du brevet",
+          "@c_titre_court": "Décret n°87-32 du 23 janvier 1987",
+          "@debut": "1987-01-24",
+          "@fin": "2006-05-24",
+          "@id_txt": "LEGITEXT000006065945"
+        }
+      ],
+      "@cid": "JORFTEXT000000881950",
+      "@date_publi": "1987-01-24",
+      "@date_signature": "1987-01-23",
+      "@nature": "DECRET",
+      "@nor": "MENL8700013D",
+      "@num": "87-32"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-24",
+          "@etat": "ABROGE",
+          "@fin": "2006-05-24",
+          "@id": "LEGIARTI000006437288",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 85-945 du 6 septembre 1985 relatif au diplôme national du brevet des collèges est abrogé ; il est maintenu en vigueur en ce qui concerne les dispositions applicables aux établissements d'enseignement agricole.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-945 1985-09-06",
+        "@cidtexte": "JORFTEXT000000872025",
+        "@datesignatexte": "1985-09-06",
+        "@id": "JORFTEXT000000872025",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-945",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2006-583 2006-05-23 art. 7 32° JORF 24 mai 2006",
+        "@cidtexte": "JORFTEXT000000607176",
+        "@datesignatexte": "2006-05-23",
+        "@id": "JORFTEXT000000607176",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENJ0601284D",
+        "@numtexte": "2006-583",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283589",
+      "ANCIEN_ID": "ARAXXXXXXXX5X00433AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/35/LEGIARTI000006283589.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "433",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1971-07-17",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de commerce (ancien)",
+          "@c_titre_court": "Code de commerce",
+          "@debut": "1807-09-20",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Du commerce maritime",
+            "@debut": "1807-09-24",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083846"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre XIII : Des prescriptions.",
+              "@debut": "1807-09-25",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006114110"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069441",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-07-17",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006283589",
+          "@num": "433",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont prescrites toutes actions en paiement :<br/>\n<br/>   Pour nourriture fournie aux matelots par l'ordre du capitaine, un an après la livraison ;<br/>\n<br/>   Pour fournitures de matériaux et autres choses nécessaires aux constructions, équipement et avitaillement du navire, un an après ces fournitures faites ;<br/>\n<br/>   Pour ouvrages faits, un an après la réception des ouvrages.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1807-09-15 promulguée le 25 septembre 1807",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°71-586 du 16 juillet 1971 - art. 4 () JORF 17 juillet 1971",
+        "@cidtexte": "JORFTEXT000000875175",
+        "@datesignatexte": "1971-07-16",
+        "@id": "LEGIARTI000006658998",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@numtexte": "71-586",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 96-609 1996-07-05 art. 10 II *champ d'application du code étendu à la Nouvelle-Calédonie, à la Polynésie française*",
+        "@cidtexte": "JORFTEXT000000377215",
+        "@datesignatexte": "1996-07-05",
+        "@id": "JORFTEXT000000377215",
+        "@naturetexte": "LOI",
+        "@nortexte": "DOMX9400139L",
+        "@numtexte": "96-609",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L110-4 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006219128",
+        "@naturetexte": "CODE",
+        "@num": "L110-4",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

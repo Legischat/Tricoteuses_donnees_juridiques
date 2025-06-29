@@ -1,0 +1,146 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580575",
+      "ANCIEN_ID": "RAA0XXXXXXX0983AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/05/LEGIARTI000006580575.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "983",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1975-08-03",
+        "DATE_FIN": "1995-02-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : Régime du travail",
+              "@debut": "1955-04-19",
+              "@fin": "2000-06-22",
+              "@id": "LEGISCTA000006121385"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Procédure d'établissement des règlements du travail.",
+                "@debut": "1955-04-19",
+                "@fin": "1995-02-02",
+                "@id": "LEGISCTA000006138263"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-08-03",
+          "@etat": "MODIFIE",
+          "@fin": "1995-02-02",
+          "@id": "LEGIARTI000006580575",
+          "@num": "983",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-02-02",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006580576",
+          "@num": "983",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est institué dans chaque département, par arrêté préfectoral, une commission paritaire de travail en agriculture composée en nombre égal de représentants des employeurs et des salariés de l'agriculture.<br/>\n<br/>   Cette commission est composée de membres titulaires et de membres suppléants, désignés sur la proposition des organisations professionnelles les plus représentatives dans les conditions fixées par arrêté du ministre de l'agriculture.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L715-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Ordonnance n°45-1490 du 7 juillet 1945 - art. 1, v. init.",
+        "@cidtexte": "JORFTEXT000000339790",
+        "@datesignatexte": "1945-07-07",
+        "@id": "JORFARTI000002084094",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "1",
+        "@numtexte": "45-1490",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 75-694 1975-07-30 art. 1 JORF 3 août 1975",
+        "@cidtexte": "JORFTEXT000000863877",
+        "@datesignatexte": "1975-07-30",
+        "@id": "JORFTEXT000000863877",
+        "@naturetexte": "DECRET",
+        "@numtexte": "75-694",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code rural - art. L715-1 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006585134",
+        "@naturetexte": "CODE",
+        "@num": "L715-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006886720",
+      "ANCIEN_ID": "UTIAAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/67/LEGIARTI000006886720.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-10-18",
+        "DATE_FIN": "2011-01-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 octobre 1986 complétant l'arrêté du 15 avril 1986 modifiant l'arrêté du 27 décembre 1972 fixant les conditions d'application des dispositions de l'article R. 55 du code de la route",
+          "@c_titre_court": "Arrêté du 9 octobre 1986",
+          "@debut": "1986-10-18",
+          "@fin": "2011-01-19",
+          "@id_txt": "LEGITEXT000006074999"
+        }
+      ],
+      "@cid": "LEGITEXT000006074999",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-10-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-10-18",
+          "@etat": "ABROGE",
+          "@fin": "2011-01-19",
+          "@id": "LEGIARTI000006886720",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lors de l'exécution d'un transport combiné rail-route de marchandises ou d'un transport combiné route-voie navigable sur le territoire national ou avec un Etat membre de la Communauté économique européenne, les parcours routiers initiaux ou terminaux peuvent être réalisés avec un véhicule à moteur ayant un poids total roulant autorisé de quarante-quatre tonnes si [*conditions*] ce véhicule fait partie d'un ensemble comportant plus de quatre essieux et répondant aux dispositions de l'article 5-3 de l'arrêté du 15 avril 1986 modifiant l'arrêté du 27 décembre 1972 fixant les conditions d'application des dispositions de l'article R. 55 du code de la route relatives au poids total roulant autorisé des véhicules.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-04-14 art. 5-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 17 janvier 2011 - art. 5",
+        "@cidtexte": "JORFTEXT000023443001",
+        "@datesignatexte": "2011-01-17",
+        "@id": "LEGIARTI000023443489",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVT1003986A",
+        "@num": "5",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la route R55",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la route.",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

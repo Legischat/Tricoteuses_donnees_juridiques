@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006384880",
+      "ANCIEN_ID": "MTEADXXXXXX041AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/48/LEGIARTI000006384880.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "41",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-09-07",
+        "DATE_FIN": "1985-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-821 du 6 septembre 1984 PORTANT STATUT DU TERRITOIRE DE LA NOUVELLE-CALEDONIE ET DEPENDANCES",
+          "@c_titre_court": "Loi n°84-821 du 6 septembre 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878217"
+        },
+        {
+          "#text": "Loi n°84-821 du 6 septembre 1984 portant statut du territoire de la Nouvelle-Calédonie et dépendances.",
+          "@c_titre_court": "Loi n°84-821 du 6 septembre 1984",
+          "@debut": "1984-09-07",
+          "@fin": "1999-03-21",
+          "@id_txt": "LEGITEXT000006068865"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I - Des institutions du territoire.",
+            "@debut": "1984-09-07",
+            "@fin": "1988-01-26",
+            "@id": "LEGISCTA000006087687"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre I - Du gouvernement du territoire",
+              "@debut": "1984-09-07",
+              "@fin": "1988-01-26",
+              "@id": "LEGISCTA000006116454"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section III - Attributions du gouvernement du territoire et de ses membres.",
+                "@debut": "1984-09-07",
+                "@fin": "1988-01-26",
+                "@id": "LEGISCTA000006135406"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000878217",
+      "@date_publi": "1984-09-07",
+      "@date_signature": "1984-09-06",
+      "@nature": "LOI",
+      "@num": "84-821"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-09-07",
+          "@etat": "ABROGE",
+          "@fin": "1985-09-21",
+          "@id": "LEGIARTI000006384880",
+          "@num": "41",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Sous réserve des engagements internationaux et des dispositions législatives d'application, le président du gouvernement du territoire peut proposer au Gouvernement de la République l'ouverture de négociations tendant à la conclusion d'accords avec un ou plusieurs Etats ou territoires de la région du Pacifique dans les domaines économique, scientifique, technique et culturel intéressant le territoire. Un représentant du gouvernement du territoire participe à ces négociations.<br/>\n    Il peut également être autorisé à représenter conjointement avec le haut-commissaire le Gouvernement de la République au sein d'organismes régionaux du Pacifique Sud.<br/>\n    En matière de relations aériennes et maritimes internationales, le gouvernement du territoire participe à la négociation des accords intéressant la desserte de la Nouvelle-Calédonie et dépendances.<br/>\n    Dans le Pacifique Sud, les autorités de la République peuvent confier au gouvernement du territoire les pouvoirs lui permettant de négocier des accords traitant de matières ressortissant à la compétence du territoire dans les domaines économique, scientifique, technique et culturel, à l'exclusion des accords mentionnés à l'alinéa précédent. Les accords ainsi négociés par le territoire sont soumis à ratification ou approbation dans les conditions prévues aux articles 52 et 53 de la Constitution.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Constitution 1958-10-04 ART. 52 et ART. 53",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 84-821 1984-09-06 ART. 132",
+        "@cidtexte": "JORFTEXT000000878217",
+        "@datesignatexte": "1984-09-06",
+        "@id": "JORFTEXT000000878217",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-821",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°84-821 du 6 septembre 1984 - art. 5 (M)",
+        "@cidtexte": "JORFTEXT000000878217",
+        "@datesignatexte": "1984-09-06",
+        "@id": "LEGIARTI000006384829",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "84-821",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 85-992 1985-09-20 art. 98 JORF 21 septembre 1985",
+        "@cidtexte": "JORFTEXT000000521798",
+        "@datesignatexte": "1985-09-20",
+        "@id": "JORFTEXT000000521798",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "85-992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

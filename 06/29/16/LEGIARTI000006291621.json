@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006291621",
+      "ANCIEN_ID": "AAEAXXXXXXX019AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/16/LEGIARTI000006291621.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1971-01-01",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°70-1300 du 31 décembre 1970 FIXANT LE REGIME APPLICABLE AUX SOCIETES CIVILES AUTORISEES A FAIRE PUBLIQUEMENT APPEL A L'EPARGNE",
+          "@c_titre_court": "Loi n°70-1300 du 31 décembre 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000321400"
+        },
+        {
+          "#text": "Loi n° 70-1300 du 31 décembre 1970 fixant le régime applicable aux sociétés civiles autorisées à faire publiquement appel à l'épargne",
+          "@c_titre_court": "Loi n° 70-1300 du 31 décembre 1970",
+          "@debut": "1971-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068353"
+        }
+      ],
+      "@cid": "JORFTEXT000000321400",
+      "@date_publi": "1971-01-01",
+      "@date_signature": "1970-12-31",
+      "@nature": "LOI",
+      "@num": "70-1300"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006291621",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute personne qui, directement ou par personne interposée, exerce en fait la direction, l'administration ou la gestion sous le couvert ou au lieu et place des représentants légaux de la société est soumise aux mêmes obligations et éventuellement passible des mêmes sanctions que ces représentants eux-mêmes [*dirigeant de fait - responsabilité*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 70-1300 1970-12-31 art. 36 *date d'effet - mesures d'application*",
+        "@cidtexte": "JORFTEXT000000321400",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000321400",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1300",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L214-71 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650615",
+        "@naturetexte": "CODE",
+        "@num": "L214-71",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L214-71 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650615",
+        "@naturetexte": "CODE",
+        "@num": "L214-71",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

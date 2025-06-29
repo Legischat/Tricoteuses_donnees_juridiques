@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273760",
+      "ANCIEN_ID": "FAECCXXXXXX071AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/37/LEGIARTI000006273760.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "71",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1983-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-1126 du 29 décembre 1982 DE FINANCES POUR 1983",
+          "@c_titre_court": "Loi n°82-1126 du 29 décembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503959"
+        },
+        {
+          "#text": "Loi n° 82-1126 du 29 décembre 1982 de finances pour 1983",
+          "@c_titre_court": "Loi n° 82-1126 du 29 décembre 1982",
+          "@debut": "1983-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068728"
+        }
+      ],
+      "@cid": "JORFTEXT000000503959",
+      "@date_publi": "1982-12-30",
+      "@date_signature": "1982-12-29",
+      "@nature": "LOI",
+      "@num": "82-1126"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006273760",
+          "@num": "71",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001678558",
+          "@num": "71",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   1. Les entreprises qui créent ou acquièrent des biens d'équipement, entre le 1er janvier 1983 et le 31 décembre 1985, peuvent pratiquer un amortissement exceptionnel. Cet amortissement est calculé en appliquant à la première annuité d'amortissement dégressif de ces biens, déterminée avant la réduction prévue au 1° de l'article 23 de l'annexe II au code général des impôts, un taux égal à 40 p. 100 pour les biens d'une durée normale d'utilisation inférieure ou égale à neuf ans et à 42 p. 100 pour une durée normale d'utilisation égale à dix ans. Ce taux est ensuite majoré de quatre points par année de durée normale d'utilisation des biens au-delà de dix ans.<br/>\n<br/>   Cet amortissement exceptionnel est pratiqué à la clôture de l'exercice au cours duquel l'investissement a été réalisé, au prorata du temps écoulé entre la date de cette réalisation et la clôture de l'exercice. Le solde est déduit à la clôture de l'exercice suivant.<br/>\n<br/>   2. Les dispositions du 1 ci-dessus s'appliquent aux biens d'équipement visés à l'article 244 duodecies du code général des impôts à l'exclusion de toute autre immobilisation et aux entreprises mentionnées aux articles 74 A et 244 terdecies dudit code.<br/>\n<br/>\n<br/>   3. La déduction pour investissement, instituée par l'article 6 modifié de la loi de finances pour 1981 (n° 80-1094 du 30 décembre 1980), est supprimée pour les investissements réalisés à compter du 1er janvier 1983.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 244 duodecies, 74, 244 terdecies",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CGIAN2 23",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 80-1094 1980-12-30 art. 6 Finances pour 1981",
+        "@cidtexte": "JORFTEXT000000339460",
+        "@datesignatexte": "1980-12-30",
+        "@id": "JORFTEXT000000339460",
+        "@naturetexte": "LOI",
+        "@numtexte": "80-1094",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 82-1126 1982-12-29 Finances pour 1983 JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983",
+        "@cidtexte": "JORFTEXT000000503959",
+        "@datesignatexte": "1982-12-29",
+        "@id": "JORFTEXT000000503959",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1126",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006828905",
+      "ANCIEN_ID": "UCICWXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/89/LEGIARTI000006828905.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-03-15",
+        "DATE_FIN": "1988-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 janvier 1980 relatif aux dépassements des prix de référence des logements locatifs.",
+          "@c_titre_court": "Arrêté du 9 janvier 1980",
+          "@debut": "1980-01-15",
+          "@fin": "1988-01-01",
+          "@id_txt": "LEGITEXT000006074161"
+        }
+      ],
+      "@cid": "LEGITEXT000006074161",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1980-01-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-15",
+          "@etat": "ABROGE",
+          "@fin": "1988-01-01",
+          "@id": "LEGIARTI000006828905",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque le dépassement fait l'objet d'une demande de subvention au titre de l'article R. 331-26 du code de la construction et de l'habitation, la décision favorable est prise par délégation du ministre chargé du logement, par le préfet, sur rapport du directeur départemental de l'équipement et, le cas échéant, du service des domaines.<br/>\n<br/>\n<br/>   Si l'opération est située dans le périmètre d'intervention des établissements publics d'aménagement de villes nouvelles, dans les zones d'aménagement concerté, de rénovation urbaine, les secteurs sauvegardés et les périmètres de restauration immobilière définis par les articles L. 311 à L. 313 du code de l'urbanisme, ou dans les zones de résorption de l'habitat insalubre, elle ne peut bénéficier de la subvention prévue à l'article R. 331-26 du code de la construction et de l'habitation que si l'opération d'aménagement dans laquelle elle est située n'a pas bénéficié d'une subvention d'équilibre de l'Etat.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-01-04 art. 10 JORF 17 janvier 1988 en vigueur le 1er janvier 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 1988-01-04 art. 9",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code de l'urbanisme L311 à L313",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074075",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation. - art. R331-26 (M)",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006898551",
+        "@naturetexte": "CODE",
+        "@num": "R331-26",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

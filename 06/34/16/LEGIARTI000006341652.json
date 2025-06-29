@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006341652",
+      "ANCIEN_ID": "MCHBUXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/16/LEGIARTI000006341652.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-04-01",
+        "DATE_FIN": "1987-04-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°84-235 du 29 mars 1984 PRIS POUR L'APPLICATION DE L'ART. 10 DE LA LOI 831186 DU 29-12-1983 ET RELATIF A LA DOTATION PARTICULIERE DES COMMUNES CONNAISSANT UNE FORTE FREQUENTATION TOURISTIQUE JOURNALIERE",
+          "@c_titre_court": "Décret n°84-235 du 29 mars 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000336088"
+        },
+        {
+          "#text": "Décret n°84-235 du 29 mars 1984 relatif à la dotation particulière des communes connaissant une forte fréquentation touristique journalière.",
+          "@c_titre_court": "Décret n°84-235 du 29 mars 1984",
+          "@debut": "1984-04-01",
+          "@fin": "1987-04-03",
+          "@id_txt": "LEGITEXT000006064414"
+        }
+      ],
+      "@cid": "JORFTEXT000000336088",
+      "@date_publi": "1984-04-01",
+      "@date_signature": "1984-03-29",
+      "@nature": "DECRET",
+      "@num": "84-235"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-04-01",
+          "@etat": "ABROGE",
+          "@fin": "1987-04-03",
+          "@id": "LEGIARTI000006341652",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "La population touristique journalière d'une commune [*calcul*] est déterminée par le nombre des emplacements de stationnement publics aménagés et entretenus sur son territoire.<br/>\n    Pour l'application de l'alinéa qui précède :<br/>\n    1° - les emplacements de stationnement prévus et individualisés pour les voitures particulières sont affectés du coefficient 4 ;<br/>\n    2° - les emplacements de stationnement prévus et individualisés pour les autocars sont affectés du coefficient 50.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 83-1186 1983-12-29",
+        "@cidtexte": "JORFTEXT000000692007",
+        "@datesignatexte": "1983-12-29",
+        "@id": "JORFTEXT000000692007",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-1186",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°84-235 du 29 mars 1984 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000336088",
+        "@datesignatexte": "1984-03-29",
+        "@id": "LEGIARTI000006341651",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "84-235",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°87-228 du 27 mars 1987 - art. 4 (Ab) JORF 3 avril 1987",
+        "@cidtexte": "JORFTEXT000000700160",
+        "@datesignatexte": "1987-03-27",
+        "@id": "LEGIARTI000006342539",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTB8700085D",
+        "@num": "4",
+        "@numtexte": "87-228",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

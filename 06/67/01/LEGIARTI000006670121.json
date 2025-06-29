@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006670121",
+      "ANCIEN_ID": "SEIQHXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/01/LEGIARTI000006670121.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1978-03-19",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 juin 1969 COMMISSION CHARGEE DE L'APPLICATION DES TEXTES SUR LES TITRES-RESTAURANT",
+          "@c_titre_court": "Arrêté du 19 juin 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000273087"
+        },
+        {
+          "#text": "Arrêté du 19 juin 1969 portant application du décret n° 67-1165 du 22 décembre 1967 relatif aux \"titres-restaurant\".",
+          "@c_titre_court": "Arrêté du 19 juin 1969",
+          "@debut": "1969-07-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072279"
+        }
+      ],
+      "@cid": "JORFTEXT000000273087",
+      "@date_publi": "1969-07-08",
+      "@date_signature": "1969-06-19",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-07-08",
+          "@etat": "MODIFIE",
+          "@fin": "1978-03-19",
+          "@id": "LEGIARTI000006670120",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1978-03-19",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006670121",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lors de sa première réunion la commission procède à l'élection de son bureau comprenant un président, deux vice-présidents et un trésorier. La composition de ce bureau élu pour deux ans [*durée du mandat*] est communiquée au ministre de l'économie et des finances et au ministre du travail.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1978-03-03 art. 1 JONC 19 mars 1988",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 67-1165 1967-12-22 art. 15",
+        "@cidtexte": "JORFTEXT000000304268",
+        "@datesignatexte": "1967-12-22",
+        "@id": "JORFTEXT000000304268",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-1165",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

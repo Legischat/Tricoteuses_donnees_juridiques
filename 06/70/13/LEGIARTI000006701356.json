@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006701356",
+      "ANCIEN_ID": "SPHASXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/13/LEGIARTI000006701356.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-07-11",
+        "DATE_FIN": "1994-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°72-642 du 3 juillet 1972 PORTANT APPLICATION DE L'ART. L602 DU CODE DE LA SANTE PUBLIQUE",
+          "@c_titre_court": "Décret n°72-642 du 3 juillet 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000858492"
+        },
+        {
+          "#text": "Décret n°72-642 du 3 juillet 1972  PORTANT APPLICATION DE L'ARTICLE L. 602 DU CODE DE SANTE PUBLIQUE",
+          "@c_titre_court": "Décret n°72-642 du 3 juillet 1972",
+          "@debut": "1972-07-11",
+          "@fin": "1994-01-01",
+          "@id_txt": "LEGITEXT000006061968"
+        }
+      ],
+      "@cid": "JORFTEXT000000858492",
+      "@date_publi": "1972-07-11",
+      "@date_signature": "1972-07-03",
+      "@nature": "DECRET",
+      "@num": "72-642"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-07-11",
+          "@etat": "ABROGE",
+          "@fin": "1994-01-01",
+          "@id": "LEGIARTI000006701356",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret du 2 août 1960 portant modification du droit fixe du visa des spécialités pharmaceutiques est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1960-08-02 (ABROGE)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°93-1322 du 20 décembre 1993 - art. 2 (Ab) JORF 23 décembre 1993 en vigueur le 1er janvier 1994",
+        "@cidtexte": "JORFTEXT000000518210",
+        "@datesignatexte": "1993-12-20",
+        "@id": "LEGIARTI000006713572",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSM9302869D",
+        "@num": "2",
+        "@numtexte": "93-1322",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique L602 RELATIF AUX DIVERS MODES D'EXERCICE DE LA PHARMACIE",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

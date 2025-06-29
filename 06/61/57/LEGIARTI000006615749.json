@@ -1,0 +1,136 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006615749",
+      "ANCIEN_ID": "RDAXXXXXXXX4X240AAAAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/57/LEGIARTI000006615749.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "240",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1969-03-28",
+        "DATE_FIN": "1999-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code des douanes",
+          "@c_titre_court": "Code des douanes",
+          "@debut": "1949-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071570"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IX : Navigation",
+            "@debut": "1949-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006099270"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Régime administratif des navires",
+              "@debut": "1949-01-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006122114"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 5 : Passeports.",
+                "@debut": "1969-03-28",
+                "@fin": "2022-01-01",
+                "@id": "LEGISCTA000006138894"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071570",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-03-28",
+          "@etat": "MODIFIE",
+          "@fin": "1999-12-31",
+          "@id": "LEGIARTI000006615749",
+          "@num": "240",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2022-01-01",
+          "@id": "LEGIARTI000006615750",
+          "@num": "240",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions relatives au droit de passeport sont applicables dans les ports de la Corse, dans ceux des départements d'outre-mer, ainsi que dans les ports du Rhin et de la Moselle et dans les ports fluviaux ouverts au trafic par bâtiments de mer.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 48-1985 1948-12-08",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967",
+        "@cidtexte": "JORFTEXT000000880580",
+        "@datesignatexte": "1967-12-28",
+        "@id": "LEGIARTI000006848342",
+        "@naturetexte": "LOI",
+        "@num": "18",
+        "@numtexte": "67-1175",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code des douanes - art. 216 (M)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000044204460",
+        "@naturetexte": "CODE",
+        "@num": "216",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code général des collectivités territoriales - art. L4425-1 (VT)",
+        "@cidtexte": "LEGITEXT000006070633",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000021479472",
+        "@naturetexte": "CODE",
+        "@num": "L4425-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

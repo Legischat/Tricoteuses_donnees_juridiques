@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006890891",
+      "ANCIEN_ID": "UTISEXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/08/LEGIARTI000006890891.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-09-11",
+        "DATE_FIN": "2008-04-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 août 1992 portant application du décret no 92-753 du 3 août 1992    modifiant le code de la route et relatif à la sécurité des courses et    épreuves sportives sur les voies ouvertes à la circulation publique",
+          "@c_titre_court": "Arrêté du 26 août 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000543183"
+        },
+        {
+          "#text": "Arrêté du 26 août 1992 portant application du décret n° 92-753 du 3 août 1992 modifiant le code de la route et relatif à la sécurité des courses et épreuves sportives sur les voies ouvertes à la circulation publique",
+          "@c_titre_court": "Arrêté du 26 août 1992",
+          "@debut": "1992-09-11",
+          "@fin": "2008-04-30",
+          "@id_txt": "LEGITEXT000006079940"
+        }
+      ],
+      "@cid": "JORFTEXT000000543183",
+      "@date_publi": "1992-09-11",
+      "@date_signature": "1992-08-26",
+      "@ministere": "MINISTERE DE LA JUSTICE",
+      "@nature": "ARRETE",
+      "@nor": "INTD9200418A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-09-11",
+          "@etat": "ABROGE",
+          "@fin": "2008-04-30",
+          "@id": "LEGIARTI000006890891",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La signalisation utilisée est celle qui sert à régler manuellement la circulation, telle qu'elle est définie au livre Ier, 8e partie, de l'instruction interministérielle relative à la signalisation routière : piquet mobile à deux faces, modèle K 10 (un par signaleur).<br/>\n<br/>   Pourront en outre être utilisés les barrages modèle K 2, présignalés, signalant un obstacle de caractère temporaire et sur lesquels le mot \" Course \" sera inscrit.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 28 février 2008 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000018730866",
+        "@datesignatexte": "2008-02-28",
+        "@id": "LEGIARTI000018732063",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SJSV0805704A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la ROUTE R53",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

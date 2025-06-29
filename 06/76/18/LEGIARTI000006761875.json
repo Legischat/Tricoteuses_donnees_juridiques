@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006761875",
+      "ANCIEN_ID": "SSHACYXXXXX003AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/18/LEGIARTI000006761875.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-03-30",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°61-272 du 28 mars 1961 MAJORATION DU MONTANT DE CERTAINES PENSIONS D'INVALIDITE",
+          "@c_titre_court": "Décret n°61-272 du 28 mars 1961",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000849424"
+        },
+        {
+          "#text": "Décret n°61-272 du 28 mars 1961  MAJORANT LE MONTANT DE CERTAINES PENSIONS D'INVALIDITE.",
+          "@c_titre_court": "Décret n°61-272 du 28 mars 1961",
+          "@debut": "1961-03-30",
+          "@fin": "1985-12-21",
+          "@id_txt": "LEGITEXT000006061016"
+        }
+      ],
+      "@cid": "JORFTEXT000000849424",
+      "@date_publi": "1961-03-30",
+      "@date_signature": "1961-03-28",
+      "@nature": "DECRET",
+      "@num": "61-272"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-03-30",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006761875",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les invalides du deuxième groupe visés à l'article L. 310 du Code de la sécurité sociale, la pension [*d'invalidité*] est égale à 50 p. 100 du salaire défini à l'article 2 ci-dessus [*montant - modalités de calcul*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°61-272 du 28 mars 1961 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000849424",
+        "@datesignatexte": "1961-03-28",
+        "@id": "LEGIARTI000006761874",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "61-272",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-1353 1985-12-17 art. 6 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000866621",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000866621",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1353",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R341-5 (V)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006749311",
+        "@naturetexte": "CODE",
+        "@num": "R341-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale L310",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R341-5 (V)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006749311",
+        "@naturetexte": "CODE",
+        "@num": "R341-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

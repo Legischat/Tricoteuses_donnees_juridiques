@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006440514",
+      "ANCIEN_ID": "PEHGRXXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/05/LEGIARTI000006440514.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-03-26",
+        "DATE_FIN": "1993-09-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 93-460 du 24 mars 1993 portant règlement général du baccalauréat général",
+          "@c_titre_court": "Décret n°93-460 du 24 mars 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000347208"
+        },
+        {
+          "#text": "Décret n°93-460 du 24 mars 1993 portant règlement général du baccalauréat général",
+          "@c_titre_court": "Décret n°93-460 du 24 mars 1993",
+          "@debut": "1993-03-26",
+          "@fin": "1993-09-17",
+          "@id_txt": "LEGITEXT000006081603"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE III : DISPOSITIONS EXÉCUTOIRES.",
+            "@debut": "1993-03-26",
+            "@fin": "1993-09-17",
+            "@id": "LEGISCTA000006090992"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000347208",
+      "@date_publi": "1993-03-26",
+      "@date_signature": "1993-03-24",
+      "@nature": "DECRET",
+      "@nor": "MENL9304297D",
+      "@num": "93-460"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-26",
+          "@etat": "ABROGE",
+          "@fin": "1993-09-17",
+          "@id": "LEGIARTI000006440514",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<br/>   NOTA : Les dispositions du décret 93-1092 du 15 septembre 1993 entrent en application à compter de la session de 1995 et prennent effet pour les épreuves anticipées de cette session.<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent décret abroge le décret n° 62-1173 du 29 septembre 1962 portant réforme du baccalauréat de l'enseignement du second degré.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 62-1173 1962-09-29",
+        "@cidtexte": "JORFTEXT000000302014",
+        "@datesignatexte": "1962-09-29",
+        "@id": "JORFTEXT000000302014",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1173",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 93-460 1993-03-24 art. 20",
+        "@cidtexte": "JORFTEXT000000347208",
+        "@datesignatexte": "1993-03-24",
+        "@id": "JORFTEXT000000347208",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENL9304297D",
+        "@numtexte": "93-460",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°93-1092 du 15 septembre 1993 - art. 20 (Ab) JORF 17 septembre 1993",
+        "@cidtexte": "JORFTEXT000000572630",
+        "@datesignatexte": "1993-09-15",
+        "@id": "LEGIARTI000006440599",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENL9305643D",
+        "@num": "20",
+        "@numtexte": "93-1092",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

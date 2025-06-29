@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006620888",
+      "ANCIEN_ID": "RGAXXXXXXXX5X00135AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/08/LEGIARTI000006620888.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "135",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1936-12-24",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du vin",
+          "@c_titre_court": "Code du vin",
+          "@debut": "1936-12-24",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006071657"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre III : Sucrages",
+            "@debut": "1936-12-24",
+            "@fin": "2003-09-06",
+            "@id": "LEGISCTA000006099618"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section 1 : Chaptalisation",
+              "@debut": "1936-12-24",
+              "@fin": "2003-09-06",
+              "@id": "LEGISCTA000006122585"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Période de sucrage.",
+                "@debut": "1936-12-24",
+                "@fin": "2003-09-06",
+                "@id": "LEGISCTA000006139283"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071657",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1936-12-24",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006620888",
+          "@num": "135",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'emploi du sucre ne peut avoir lieu que durant la période des vendanges. Dans chaque département, un arrêté du préfet détermine ladite période, après avis du conseil général.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 421",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code des contributions indirectes 251",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 1936-12-01",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du vin - art. 202 (Ab)",
+        "@cidtexte": "LEGITEXT000006071657",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006620854",
+        "@naturetexte": "CODE",
+        "@num": "202",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

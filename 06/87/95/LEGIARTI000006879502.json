@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006879502",
+      "ANCIEN_ID": "UTFACXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/95/LEGIARTI000006879502.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-12-14",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°59-151 du 7 janvier 1959 relative à l'organisation des transports des voyageurs dans la région parisienne",
+          "@c_titre_court": "Ordonnance n°59-151 du 7 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705510"
+        },
+        {
+          "#text": "Ordonnance n° 59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile de france.",
+          "@c_titre_court": "Ordonnance n° 59-151 du 7 janvier 1959",
+          "@debut": "2000-12-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069251"
+        },
+        {
+          "#text": "Ordonnance n°59-151 du 7 janvier 1959 relative à l'organisation des transports de voyageurs en Ile de france.",
+          "@c_titre_court": "Ordonnance n°59-151 du 7 janvier 1959",
+          "@debut": "1959-01-10",
+          "@fin": "2000-12-14",
+          "@id_txt": "LEGITEXT000006069250"
+        }
+      ],
+      "@cid": "JORFTEXT000000705510",
+      "@date_publi": "1959-01-10",
+      "@date_signature": "1959-01-07",
+      "@nature": "ORDONNANCE",
+      "@num": "59-151"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-10",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006879501",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-12-14",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006879502",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'activité voyageurs de la Société nationale des chemins de fer français en Ile-de-France doit être identifiée dans les comptes d'exploitation lors de la rédaction des conventions avec le Syndicat des transports d'Ile-de-France.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°2000-1208 du 13 décembre 2000 - art. 121 () JORF 14 décembre 2000",
+        "@cidtexte": "JORFTEXT000000207538",
+        "@datesignatexte": "2000-12-13",
+        "@id": "LEGIARTI000006821108",
+        "@naturetexte": "LOI",
+        "@nortexte": "EQUX9900145L",
+        "@num": "121",
+        "@numtexte": "2000-1208",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des transports - art. L2141-11 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023084358",
+        "@naturetexte": "CODE",
+        "@num": "L2141-11",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

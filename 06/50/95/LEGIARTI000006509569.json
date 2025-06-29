@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006509569",
+      "ANCIEN_ID": "ADEBVXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/95/LEGIARTI000006509569.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1928-03-07",
+        "DATE_FIN": "2011-05-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 4 mars 1928 REPRESSION DES FRAUDES SUR LES SIROPS ET LIQUEURS DE CASSIS",
+          "@c_titre_court": "Loi du 4 mars 1928",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000523114"
+        },
+        {
+          "#text": "Loi du 4 mars 1928 tendant à la répression des fraudes sur les sirops et liqueurs de cassis",
+          "@c_titre_court": "Loi du 4 mars 1928",
+          "@debut": "1928-03-07",
+          "@fin": "2011-05-19",
+          "@id_txt": "LEGITEXT000006071128"
+        }
+      ],
+      "@cid": "JORFTEXT000000523114",
+      "@date_publi": "1928-03-07",
+      "@date_signature": "1928-03-04",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1928-03-07",
+          "@etat": "ABROGE",
+          "@fin": "2011-05-19",
+          "@id": "LEGIARTI000006509569",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La présente loi ne sera applicable aux produits entreposés chez les détaillants que trois mois après sa promulgation.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2011-525\n du 17 mai 2011 - art. 175 (V)",
+        "@cidtexte": "JORFTEXT000024021430",
+        "@datesignatexte": "2011-05-17",
+        "@id": "LEGIARTI000024023438",
+        "@naturetexte": "LOI",
+        "@nortexte": "BCRX0929142L",
+        "@num": "175",
+        "@numtexte": "2011-525",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1928-03-04 JORF 7 mars 1928 rectificatif JORF 10 mars 1928",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

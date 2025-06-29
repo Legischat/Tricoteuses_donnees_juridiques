@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721121",
+      "ANCIEN_ID": "SPIQVXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/11/LEGIARTI000006721121.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1956-01-25",
+        "DATE_FIN": "1971-06-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 janvier 1956 portant création d'un certificat d'aptitude aux fonctions d'aide soignant et d'aide soignante dans les hôpitaux et hospices publics ou privés.",
+          "@c_titre_court": "Arrêté du 23 janvier 1956",
+          "@debut": "1956-01-25",
+          "@fin": "1995-10-15",
+          "@id_txt": "LEGITEXT000006073055"
+        }
+      ],
+      "@cid": "LEGITEXT000006073055",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1956-01-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-01-25",
+          "@etat": "MODIFIE",
+          "@fin": "1971-06-11",
+          "@id": "LEGIARTI000006721121",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1971-06-11",
+          "@etat": "ABROGE",
+          "@fin": "1995-10-15",
+          "@id": "LEGIARTI000006721122",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les directeurs départementaux de la santé sont chargés d'organiser l'examen destiné à sanctionner les études définies à l'article 3.<br/>\n    Le jury comprend :<br/>\n    Le directeur départemental de la santé (ou son représentant), président ;<br/>\n    Un médecin d'hôpital public ;<br/>\n    Deux infirmières diplômées d'Etat en exercice ;<br/>\n    Une directrice ou monitrice d'une école d'infirmières agréée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1956-01-23 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique 477, 478",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

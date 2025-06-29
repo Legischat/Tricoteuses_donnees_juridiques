@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006529151",
+      "ANCIEN_ID": "PPEDIXXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/91/LEGIARTI000006529151.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-07-13",
+        "DATE_FIN": "2004-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 98-567 du 8 juillet 1998 instituant une Commission consultative du secret de la défense nationale (1)",
+          "@c_titre_court": "Loi n°98-567 du 8 juillet 1998",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000389843"
+        },
+        {
+          "#text": "Loi n°98-567 du 8 juillet 1998 instituant une Commission consultative du secret de la défense nationale",
+          "@c_titre_court": "Loi n°98-567 du 8 juillet 1998",
+          "@debut": "1998-07-09",
+          "@fin": "2004-12-20",
+          "@id_txt": "LEGITEXT000005626140"
+        }
+      ],
+      "@cid": "JORFTEXT000000389843",
+      "@date_publi": "1998-07-09",
+      "@date_signature": "1998-07-08",
+      "@nature": "LOI",
+      "@nor": "DEFX9700140L",
+      "@num": "98-567"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1998-07-09",
+          "@etat": "MODIFIE",
+          "@fin": "2001-07-13",
+          "@id": "LEGIARTI000006529150",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-07-13",
+          "@etat": "ABROGE",
+          "@fin": "2004-12-21",
+          "@id": "LEGIARTI000006529151",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La présente loi est applicable dans les territoires d'outre-mer et à Mayotte.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001",
+        "@cidtexte": "JORFTEXT000000407771",
+        "@datesignatexte": "2001-07-11",
+        "@id": "LEGIARTI000006386587",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX0000187L",
+        "@num": "75",
+        "@numtexte": "2001-616",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2004-1374 du 20 décembre 2004 - art. 5 (V) JORF 21 décembre 2004",
+        "@cidtexte": "JORFTEXT000000238564",
+        "@datesignatexte": "2004-12-20",
+        "@id": "LEGIARTI000006236766",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEFX0400190R",
+        "@num": "5",
+        "@numtexte": "2004-1374",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006363086",
+      "ANCIEN_ID": "MPE01XXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/30/LEGIARTI000006363086.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-12-30",
+        "DATE_FIN": "1996-02-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 75-1331 du 31 décembre 1975 portant réforme du régime administratif de la ville de Paris",
+          "@c_titre_court": "Loi n° 75-1331 du 31 décembre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000699208"
+        },
+        {
+          "#text": "Loi n° 75-1331 du 31 décembre 1975 portant réforme du régime administratif de la ville de Paris",
+          "@c_titre_court": "Loi n° 75-1331 du 31 décembre 1975",
+          "@debut": "1977-03-20",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068497"
+        }
+      ],
+      "@cid": "JORFTEXT000000699208",
+      "@date_publi": "1976-01-03",
+      "@date_signature": "1975-12-31",
+      "@nature": "LOI",
+      "@num": "75-1331"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-03-20",
+          "@etat": "MODIFIE",
+          "@fin": "1986-12-30",
+          "@id": "LEGIARTI000006363085",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-30",
+          "@etat": "ABROGE",
+          "@fin": "1996-02-24",
+          "@id": "LEGIARTI000006363086",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil de Paris établit son règlement intérieur en distinguant les règles applicables aux délibérations du conseil en formation de conseil municipal et en formation de conseil général.<br/>\n<br/>   Ce règlement détermine les conditions dans lesquelles les conseillers de Paris posent des questions orales au maire et au préfet de police.<br/>\n<br/>   Ce règlement définit également les conditions dans lesquelles sont gérés les crédits visés à l'article 23 ci-après.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 86-1308 1986-12-30 art. 4 JORF 30 décembre 1986",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°75-1331 du 31 décembre 1975 - art. 23 (M)",
+        "@cidtexte": "JORFTEXT000000699208",
+        "@datesignatexte": "1975-12-31",
+        "@id": "LEGIARTI000006363117",
+        "@naturetexte": "LOI",
+        "@num": "23",
+        "@numtexte": "75-1331",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°75-1331 du 31 décembre 1975 - art. 24 (V)",
+        "@cidtexte": "JORFTEXT000000699208",
+        "@datesignatexte": "1975-12-31",
+        "@id": "LEGIARTI000006363121",
+        "@naturetexte": "LOI",
+        "@num": "24",
+        "@numtexte": "75-1331",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996",
+        "@cidtexte": "JORFTEXT000000559120",
+        "@datesignatexte": "1996-02-21",
+        "@id": "LEGIARTI000006340192",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9400076L",
+        "@num": "12",
+        "@numtexte": "96-142",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code général des collectivités territoriales - art. L2512-5 (V)",
+        "@cidtexte": "LEGITEXT000006070633",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006391105",
+        "@naturetexte": "CODE",
+        "@num": "L2512-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code général des collectivités territoriales - art. L2512-5 (M)",
+        "@cidtexte": "LEGITEXT000006070633",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006391104",
+        "@naturetexte": "CODE",
+        "@num": "L2512-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

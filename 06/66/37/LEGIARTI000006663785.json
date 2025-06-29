@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006663785",
+      "ANCIEN_ID": "SEHHVXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/37/LEGIARTI000006663785.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1987-04-05",
+        "DATE_FIN": "1988-01-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°87-236 du 3 avril 1987 RELATIF AUX PROGRAMMES D'INSERTION LOCALE (PIL)",
+          "@c_titre_court": "Décret n°87-236 du 3 avril 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000334044"
+        },
+        {
+          "#text": "Décret n°87-236 du 3 avril 1987 relatif aux programmes d'insertion locale",
+          "@c_titre_court": "Décret n°87-236 du 3 avril 1987",
+          "@debut": "1987-04-05",
+          "@fin": "1990-05-01",
+          "@id_txt": "LEGITEXT000006065899"
+        }
+      ],
+      "@cid": "JORFTEXT000000334044",
+      "@date_publi": "1987-04-05",
+      "@date_signature": "1987-04-03",
+      "@nature": "DECRET",
+      "@nor": "ASEE8703260D",
+      "@num": "87-236"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-04-05",
+          "@etat": "MODIFIE",
+          "@fin": "1988-01-20",
+          "@id": "LEGIARTI000006663785",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-20",
+          "@etat": "ABROGE",
+          "@fin": "1990-05-01",
+          "@id": "LEGIARTI000006663786",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les programmes d'insertion locale ont pour objet de permettre à des demandeurs d'emploi âgés d'au moins vingt-cinq ans [*condition d'âge*], bénéficiaires de l'allocation [*de solidarité pour chômeurs de longue durée*] mentionnée à l'article L. 351-10 du code du travail, de se réadapter à la vie professionnelle ou se préparer à des emplois exigeant une qualification différente.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°87-236 du 3 avril 1987 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000334044",
+        "@datesignatexte": "1987-04-03",
+        "@id": "LEGIARTI000006663791",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ASEE8703260D",
+        "@num": "4",
+        "@numtexte": "87-236",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. L351-10 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006648912",
+        "@naturetexte": "CODE",
+        "@num": "L351-10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

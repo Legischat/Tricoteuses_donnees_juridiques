@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006846867",
+      "ANCIEN_ID": "UPEBBXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/68/LEGIARTI000006846867.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2004-07-02",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 22 juillet 1912 ASSAINISSEMENT DES VOIES PRIVEES",
+          "@c_titre_court": "Loi du 22 juillet 1912",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868665"
+        },
+        {
+          "#text": "Loi du 22 juillet 1912 relative à l'assainissement des voies privées",
+          "@c_titre_court": "Loi du 22 juillet 1912",
+          "@debut": "1912-07-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074245"
+        }
+      ],
+      "@cid": "JORFTEXT000000868665",
+      "@date_publi": "1912-07-24",
+      "@date_signature": "1912-07-22",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1912-07-24",
+          "@etat": "MODIFIE",
+          "@fin": "2004-07-02",
+          "@id": "LEGIARTI000006846866",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-07-02",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006846867",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le syndicat peut être constitué à la demande de la majorité des propriétaires telle qu'elle est définie à l'article 14 de l'ordonnance n° 2004-632 du 1er juillet 2004 relative aux associations syndicales de propriétaires.<br/>\n<br/>   Les décisions du syndicat obligent tous les propriétaires visés à l'article 2.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1912-07-22 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2004-632 2004-07-01 art. 14",
+        "@cidtexte": "JORFTEXT000000623191",
+        "@datesignatexte": "2004-07-01",
+        "@id": "JORFTEXT000000623191",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "INTX0400093R",
+        "@numtexte": "2004-632",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2004-632 du 1 juillet 2004 - art. 49 () JORF 2 juillet 2004",
+        "@cidtexte": "JORFTEXT000000623191",
+        "@datesignatexte": "2004-07-01",
+        "@id": "LEGIARTI000006479597",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "INTX0400093R",
+        "@num": "49",
+        "@numtexte": "2004-632",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

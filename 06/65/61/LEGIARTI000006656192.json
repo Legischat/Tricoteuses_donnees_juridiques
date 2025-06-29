@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006656192",
+      "ANCIEN_ID": "SEEAMXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/61/LEGIARTI000006656192.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1944-04-23",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 44-206 du 22 avril 1944 RELATIVE AU TRAVAIL DE NUIT DANS LA BOULANGERIE",
+          "@c_titre_court": "Loi n° 44-206 du 22 avril 1944",
+          "@debut": "1944-04-23",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006072055"
+        }
+      ],
+      "@cid": "LEGITEXT000006072055",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1944-04-22",
+      "@nature": "LOI",
+      "@num": "44-206"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1944-04-23",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006656192",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>A titre temporaire et jusqu'à une date qui sera fixée par arrêté du ministre secrétaire d'Etat au travail et à la solidarité nationale, des dérogations pourront, dans les conditions prévues à l'article suivant, être apportées aux dispositions de l'article 20 du livre II du Code du travail relatives à l'interdiction du travail de nuit dans la boulangerie.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code du travail - art. L213-11",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006647361",
+        "@naturetexte": "CODE",
+        "@num": "L213-11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006334740",
+      "ANCIEN_ID": "FCIENXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/47/LEGIARTI000006334740.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2001-01-23",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 janvier 2001 pris pour l'application de l'article 6 de la loi de finances pour 2001 (no 2000-1352 du 30 décembre 2000)",
+          "@c_titre_court": "Arrêté du 15 janvier 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000403742"
+        },
+        {
+          "#text": "Arrêté du 15 janvier 2001 pris pour l'application de l'article 6 de la loi de finances pour 2001 (n° 2000-1352 du 30 décembre 2000)",
+          "@c_titre_court": "Arrêté du 15 janvier 2001",
+          "@debut": "2001-01-23",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005630530"
+        }
+      ],
+      "@cid": "JORFTEXT000000403742",
+      "@date_publi": "2001-01-23",
+      "@date_signature": "2001-01-15",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOB0150003A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-01-23",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006334740",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les montants servant de base au calcul des avances de taxe différentielle sur les véhicules à moteur versées à chaque département en 2001 figurent dans le tableau joint en annexe (Tableau non reproduit, voir J.O. du 23 janvier 2001 pages 1167 et 1168).</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2001-01-15 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 2000-1352 2000-12-30 art. 6 Finances pour 2001",
+        "@cidtexte": "JORFTEXT000000220595",
+        "@datesignatexte": "2000-12-30",
+        "@id": "JORFTEXT000000220595",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX0000141L",
+        "@numtexte": "2000-1352",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

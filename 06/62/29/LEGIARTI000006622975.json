@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006622975",
+      "ANCIEN_ID": "ADIMKXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/29/LEGIARTI000006622975.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-01-01",
+        "DATE_FIN": "1994-11-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 décembre 1983 relatif aux prix des communications perçus par les abonnés qui mettent leur poste téléphonique ou leur poste à encaissement automatique à la disposition du public ou de leur clientèle",
+          "@c_titre_court": "Arrêté du 8 décembre 1983",
+          "@debut": "1984-01-01",
+          "@fin": "1994-11-03",
+          "@id_txt": "LEGITEXT000006071700"
+        }
+      ],
+      "@cid": "LEGITEXT000006071700",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-12-08",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1994-11-03",
+          "@id": "LEGIARTI000006622975",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les prix des communications visées aux articles 3 et 4 du présent arrêté sont arrondis au multiple de 5 centimes le plus proche.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-10-31 art. 1 JORF 3 novembre 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 73/A 1983-12-08 BOCC n° 23, 9 décembre 1983 en vigueur le 1er janvier 1984",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 73/A 1983-12-08 art. 3, art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

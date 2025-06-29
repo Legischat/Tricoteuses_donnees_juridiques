@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006490562",
+      "ANCIEN_ID": "PJAXXXXXXXX2X032R00AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/05/LEGIARTI000006490562.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R32",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-08-13",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code pénal (ancien)",
+          "@c_titre_court": "CODE PENAL",
+          "@debut": "1810-02-12",
+          "@fin": "1994-03-01",
+          "@id_txt": "LEGITEXT000006071029"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1810-02-12",
+            "@fin": "1994-03-01",
+            "@id": "LEGISCTA000006093904"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre IV : Contraventions de police et peines",
+              "@debut": "1810-03-02",
+              "@fin": "1994-03-01",
+              "@id": "LEGISCTA000006119342"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : Contraventions et peines",
+                "@debut": "1958-12-24",
+                "@fin": "1994-03-01",
+                "@id": "LEGISCTA000006136901"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section II : Deuxième classe.",
+                  "@debut": "1987-08-13",
+                  "@fin": "1994-03-01",
+                  "@id": "LEGISCTA000006150862"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071029",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-03-09",
+          "@etat": "MODIFIE",
+          "@fin": "1987-08-13",
+          "@id": "LEGIARTI000006490561",
+          "@num": "R32",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-08-13",
+          "@etat": "ABROGE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006490562",
+          "@num": "R32",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Seront saisis et confisqués [*confiscation*] :<br/>\n    1° Les tables, instruments, appareils des jeux ou des loteries établis dans les rues, chemins et voies publiques, ainsi que les enjeux, les fonds, denrées, objets ou lots proposés aux joueurs, dans le cas de l'article R. 30-5° ;<br/>\n    2° Les moyens de payement ayant pour objet de suppléer ou de remplacer les signes monétaires ayant cours légal.    Les billets de banque ou monnaies seront saisis entre les mains des personnes mentionnées au 13° de l'article R.30 et confisqués.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 58-1303 1958-12-23",
+        "@cidtexte": "JORFTEXT000000300725",
+        "@datesignatexte": "1958-12-23",
+        "@id": "JORFTEXT000000300725",
+        "@naturetexte": "DECRET",
+        "@numtexte": "58-1303",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 87-658 1987-08-11 art. 2 JORF 13 août 1987",
+        "@cidtexte": "JORFTEXT000000522310",
+        "@datesignatexte": "1987-08-11",
+        "@id": "JORFTEXT000000522310",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSD8730030D",
+        "@numtexte": "87-658",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000729725",
+        "@datesignatexte": "1993-03-29",
+        "@id": "JORFTEXT000000729725",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX9300012Z",
+        "@numtexte": "93-726",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code pénal R30 5° et 13°",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

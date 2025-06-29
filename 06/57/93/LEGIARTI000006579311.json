@@ -1,0 +1,143 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579311",
+      "ANCIEN_ID": "RAA0XXXXXXX0031AAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/93/LEGIARTI000006579311.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "31",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-03",
+        "DATE_FIN": "1992-11-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Régime du sol",
+            "@debut": "1955-04-19",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006098247"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : De l'aménagement foncier",
+              "@debut": "1955-04-19",
+              "@fin": "1992-12-12",
+              "@id": "LEGISCTA000006121347"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : Du remembrement rural.",
+                "@debut": "1955-09-28",
+                "@fin": "1992-11-12",
+                "@id": "LEGISCTA000006138177"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-09-28",
+          "@etat": "MODIFIE",
+          "@fin": "1986-01-03",
+          "@id": "LEGIARTI000006579310",
+          "@num": "31",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-03",
+          "@etat": "ABROGE",
+          "@fin": "1992-11-12",
+          "@id": "LEGIARTI000006579311",
+          "@num": "31",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les droits réels, autres que les servitudes, grevant les immeubles remembrés s'exercent sur les immeubles attribués par le remembrement.<br/>\n<br/>   Les effets de la publicité foncière légale faite avant le transfert de propriété visé à l'article 30 sont, en ce qui concerne les droits réels autres que les privilèges et les hypothèques, conservés à l'égard des immeubles attribués si cette publicité est renouvelée dans le délai et dans les conditions qui sont fixés par décret.<br/>\n<br/>   Les créances privilégiées et hypothécaires ne conservent leur rang antérieur sur les immeubles attribués par le remembrement que si la publicité est elle-même renouvelée dans les conditions et le délai fixés par un décret.<br/>\n<br/>   Les mesures d'exécution prises avant le transfert de propriété sont reportées sans frais sur les immeubles attribués dans les conditions qui sont fixées par le décret prévu à l'alinéa 2 du présent article.<br/>\n<br/>   Si le remembrement donne lieu au versement d'une soulte, les droits des titulaires de droits réels et des créanciers sont reportés, à due concurrence, sur le montant de celle-ci.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1941-03-09 art. 28",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°85-1496 du 31 décembre 1985 - art. 3 () JORF 3 janvier 1986",
+        "@cidtexte": "JORFTEXT000000521298",
+        "@datesignatexte": "1985-12-31",
+        "@id": "LEGIARTI000006274527",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "85-1496",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992",
+        "@cidtexte": "JORFTEXT000000542506",
+        "@datesignatexte": "1992-12-11",
+        "@id": "LEGIARTI000006600053",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9100211L",
+        "@num": "5",
+        "@numtexte": "92-1283",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

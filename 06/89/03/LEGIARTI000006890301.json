@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006890301",
+      "ANCIEN_ID": "UTIMFXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/03/LEGIARTI000006890301.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-09-01",
+        "DATE_FIN": "1992-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 juillet 1985 relatif aux visites techniques de certains véhicules automobiles de plus de cinq ans d'âge",
+          "@c_titre_court": "Arrêté du 4 juillet 1985",
+          "@debut": "1985-09-01",
+          "@fin": "1992-01-01",
+          "@id_txt": "LEGITEXT000006075100"
+        }
+      ],
+      "@cid": "LEGITEXT000006075100",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-07-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-09-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-01-01",
+          "@id": "LEGIARTI000006890301",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les frais de la visite [*technique*] prévue à l'article 2 sont à la charge du demandeur.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-07-04 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1985-07-04 art. 4",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1991-06-18 art. 32 JORF 18 juillet 1991 en vigueur le 1er janvier 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006762020",
+      "ANCIEN_ID": "SSHADKXXXXX003AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/20/LEGIARTI000006762020.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-12-30",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-1212 du 29 décembre 1973 MODIFIANT CERTAINES DISPOSITIONS RELATIVES A LA SECURITE SOCIALE",
+          "@c_titre_court": "Décret n°73-1212 du 29 décembre 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000875729"
+        },
+        {
+          "#text": "Décret n°73-1212 du 29 décembre 1973  MODIFIANT CERTAINES DISPOSITIONS RELATIVES A LA SECURITE SOCIALE.",
+          "@c_titre_court": "Décret n°73-1212 du 29 décembre 1973",
+          "@debut": "1973-12-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062036"
+        }
+      ],
+      "@cid": "JORFTEXT000000875729",
+      "@date_publi": "1973-12-30",
+      "@date_signature": "1973-12-29",
+      "@nature": "DECRET",
+      "@num": "73-1212"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-12-30",
+          "@etat": "MODIFIE",
+          "@fin": "1982-12-30",
+          "@id": "LEGIARTI000006762019",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-12-30",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006762020",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si le taux annuel de majoration ou de revalorisation visé à l'article 2 est inférieur ou supérieur au taux d'évolution du salaire moyen des assurés auquel se réfèrent les articles L. 313, L. 344 et L. 377 du code de la sécurité sociale, il est procédé à un ajustement au 1er janvier de l'année suivante [*date*].<br/>\n<br/>\n<br/>   Le taux de cet ajustement est égal au rapport entre le taux d'évolution du salaire moyen des assurés défini à l'alinéa précédent et le taux annuel de majoration ou de revalorisation défini au deuxième alinéa de l'article 2.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 82-1141 1982-12-29 ART. 2 JORF 30 DECEMBRE 1982",
+        "@cidtexte": "JORFTEXT000000701670",
+        "@datesignatexte": "1982-12-29",
+        "@id": "JORFTEXT000000701670",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-1141",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 82-1141 1982-12-29 ART. 3 : Les dispositions des articles 2 et 3 du décret susvisé du 29 décembre 1973, en tant qu'elles sont modifiées par le présent décret, sont respectivement applicables aux majorations et revalorisations prenant effet pos",
+        "@cidtexte": "JORFTEXT000000701670",
+        "@datesignatexte": "1982-12-29",
+        "@id": "JORFTEXT000000701670",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-1141",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 85-1353 1985-12-17 art. 6 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000866621",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000866621",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1353",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L377, L313, L344",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R481-11 (Ab)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006750496",
+        "@naturetexte": "CODE",
+        "@num": "R481-11",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

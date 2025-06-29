@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275185",
+      "ANCIEN_ID": "FAEDXXXXXXX102AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/51/LEGIARTI000006275185.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "102",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-12-31",
+        "DATE_FIN": "2017-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°87-1060 du 30 décembre 1987 de finances pour 1988",
+          "@c_titre_court": "Loi n°87-1060 du 30 décembre 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317543"
+        },
+        {
+          "#text": "Loi n° 87-1060 du 30 décembre 1987 de finances pour 1988 (1)",
+          "@c_titre_court": "Loi n° 87-1060 du 30 décembre 1987",
+          "@debut": "1987-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068983"
+        }
+      ],
+      "@cid": "JORFTEXT000000317543",
+      "@date_publi": "1987-12-31",
+      "@date_signature": "1987-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX8700122L",
+      "@num": "87-1060"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2017-01-01",
+          "@id": "LEGIARTI000006275185",
+          "@num": "102",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001102083",
+          "@num": "102",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sauf preuve contraire, est imputable l'amibiase intestinale présentant des signes cliniques confirmés par des résultats d'examens de laboratoire ou endoscopiques indiscutables et spécifiques de cette affection, et constatée dans le délai de dix ans suivant la fin du service effectué en Afrique du Nord entre le 1er janvier 1952 et le 2 juillet 1962.<br/>\n<br/>   Cette affection doit avoir été constatée dans ce délai par une commission de réforme, un établissement hospitalier militaire ou civil, un organisme de sécurité sociale, un service médical du travail ou un service médical agréé.<br/>\n<br/>   Les titulaires du titre de reconnaissance de la Nation sont ressortissants de l'Office national des anciens combattants et victimes de guerre.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 87-1060 1987-12-30 Finances pour 1988 JORF 31 décembre 1987",
+        "@cidtexte": "JORFTEXT000000317543",
+        "@datesignatexte": "1987-12-30",
+        "@id": "JORFTEXT000000317543",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700122L",
+        "@numtexte": "87-1060",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°2015-1781 du 28 décembre 2015 - art. 6 (V)",
+        "@cidtexte": "JORFTEXT000031702175",
+        "@datesignatexte": "2015-12-28",
+        "@id": "LEGIARTI000031707181",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEFX1524890R",
+        "@num": "6",
+        "@numtexte": "2015-1781",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des pensions militaires d'invalidité et de... - art. L122-3 (VD)",
+        "@cidtexte": "LEGITEXT000006074068",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000031711419",
+        "@naturetexte": "CODE",
+        "@num": "L122-3",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

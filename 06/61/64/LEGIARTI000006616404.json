@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616404",
+      "ANCIEN_ID": "RDFACXXXXXX044AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/64/LEGIARTI000006616404.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "44",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-12-31",
+        "DATE_FIN": "1982-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°58-1372 du 29 décembre 1958 RELATIVE A DIVERSES DISPOSITIONS D'ORDRE FISCAL ET DOUANIER",
+          "@c_titre_court": "Ordonnance n°58-1372 du 29 décembre 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705345"
+        },
+        {
+          "#text": "Ordonnance n°58-1372 du 29 décembre 1958 relative à diverses dispositions d'ordre fiscal et douanier",
+          "@c_titre_court": "Ordonnance n°58-1372 du 29 décembre 1958",
+          "@debut": "1958-12-31",
+          "@fin": "1982-01-01",
+          "@id_txt": "LEGITEXT000006069230"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Ajustement de l'assiette.",
+            "@debut": "1958-12-31",
+            "@fin": "1982-01-01",
+            "@id": "LEGISCTA000006099299"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000705345",
+      "@date_publi": "1958-12-31",
+      "@date_signature": "1958-12-29",
+      "@nature": "ORDONNANCE",
+      "@num": "58-1372"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-12-31",
+          "@etat": "ABROGE",
+          "@fin": "1982-01-01",
+          "@id": "LEGIARTI000006616404",
+          "@num": "44",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. - Sont enregistrées gratis, et exonérées des taxes sur le chiffre d'affaires les ventes d'immeubles consenties à la suite d'opérations d'équipement ou de mise en valeur par les sociétés d'Etat et par les sociétés d'économie mixte figurant sur une liste arrêtée par le ministre des finances et des affaires économiques.<br/>\n<br/>   II. - Les articles 132 et 133 de la loi n° 56-780 du 4 août 1956 et le décret n° 58-557 du 28 juin 1958 sont abrogés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 56-780 1956-08-04 art. 132, art. 133",
+        "@cidtexte": "JORFTEXT000000501059",
+        "@datesignatexte": "1956-08-04",
+        "@id": "JORFTEXT000000501059",
+        "@naturetexte": "LOI",
+        "@numtexte": "56-780",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°56-780 du 4 août 1956 - art. 133, v. init.",
+        "@cidtexte": "JORFTEXT000000501059",
+        "@datesignatexte": "1956-08-04",
+        "@id": "JORFARTI000001681164",
+        "@naturetexte": "LOI",
+        "@num": "133",
+        "@numtexte": "56-780",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 58-557 1958-06-28",
+        "@cidtexte": "JORFTEXT000000684981",
+        "@datesignatexte": "1958-06-28",
+        "@id": "JORFTEXT000000684981",
+        "@naturetexte": "DECRET",
+        "@numtexte": "58-557",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°81-859 du 15 septembre 1981 - art. 1 (V) JORF 18 septembre 1981 en vigueur le 1er janvier 1982",
+        "@cidtexte": "JORFTEXT000000701292",
+        "@datesignatexte": "1981-09-15",
+        "@id": "LEGIARTI000006272082",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "81-859",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

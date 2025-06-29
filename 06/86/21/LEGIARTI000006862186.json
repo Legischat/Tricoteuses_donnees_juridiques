@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862186",
+      "ANCIEN_ID": "UPIJKXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/21/LEGIARTI000006862186.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-06-24",
+        "DATE_FIN": "1996-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 juin 1969 relatif à l'isolation acoustique dans les bâtiments d'habitation.",
+          "@c_titre_court": "Arrêté du 14 juin 1969",
+          "@debut": "1969-06-24",
+          "@fin": "1996-01-01",
+          "@id_txt": "LEGITEXT000006074546"
+        }
+      ],
+      "@cid": "LEGITEXT000006074546",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1969-06-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-06-24",
+          "@etat": "ABROGE",
+          "@fin": "1996-01-01",
+          "@id": "LEGIARTI000006862186",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le niveau de pression acoustique du bruit engendré dans les pièces principales d'un logement par un équipement quelconque du bâtiment ne doit pas dépasser 35 dB (A) en général et 30 dB (A) s'il s'agit d'équipements collectifs tels qu'ascenseurs, chaufferies ou sous-stations de chauffage, transformateurs, surpresseurs d'eau, vide-ordures et installations de ventilation mécanique contrôlée, bouches d'extraction comprises.<br/>\n<br/>   Le niveau de pression acoustique du bruit engendré dans les cuisines par un équipement quelconque du bâtiment ne doit pas dépasser 38 dB (A) et 35 dB (A) pour les installations de ventilation mécanique, lorsque toutes les bouches de ventilation de l'immeuble d'habitation sont à leur débit minimum.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1975-12-22 ART. 2 JORF 7 JANVIER 1976",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1994-10-28 art. 12 JORF 25 novembre 1994 en vigueur le 1er janvier 1996",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 69-596 1969-06-14 ART. 4 (Code de la construction et de l'habitation R111-4)",
+        "@cidtexte": "JORFTEXT000000697837",
+        "@datesignatexte": "1969-06-14",
+        "@id": "JORFTEXT000000697837",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-596",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

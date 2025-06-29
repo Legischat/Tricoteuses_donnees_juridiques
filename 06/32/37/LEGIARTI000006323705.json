@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006323705",
+      "ANCIEN_ID": "FAHCPXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/37/LEGIARTI000006323705.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-02-10",
+        "DATE_FIN": "1988-10-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°81-120 du 6 février 1981 RELATIF AU FONDS DEPARTEMENTAL DE LA TAXE PROFESSIONNELLE",
+          "@c_titre_court": "Décret n°81-120 du 6 février 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000508538"
+        },
+        {
+          "#text": "Décret n°81-120 du 6 février 1981  N° 81-120 DU 6 FEVRIER 1981 RELATIF AU FONDS DEPARTEMENTAL DE TAXE PROFESSIONNELLE",
+          "@c_titre_court": "Décret n°81-120 du 6 février 1981",
+          "@debut": "1981-02-10",
+          "@fin": "1988-10-19",
+          "@id_txt": "LEGITEXT000006063417"
+        }
+      ],
+      "@cid": "JORFTEXT000000508538",
+      "@date_publi": "1981-02-10",
+      "@date_signature": "1981-02-06",
+      "@nature": "DECRET",
+      "@num": "81-120"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-02-10",
+          "@etat": "ABROGE",
+          "@fin": "1988-10-19",
+          "@id": "LEGIARTI000006323705",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de répartition interdépartementale, les opérations définies aux 1°, 2° et 4° de l'article 4-I ci-dessus sont effectuées par la commission interdépartementale de répartition.<br/>\n<br/>   Celle-ci procède en outre à la ventilation entre les départements concernés des sommes à répartir au titre du 1° du II de l'article 1648 A modifié du code général des impôts.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1648 A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-120 1981-02-06 Art. 4 I 1°, 2°, 4°",
+        "@cidtexte": "JORFTEXT000000508538",
+        "@datesignatexte": "1981-02-06",
+        "@id": "JORFTEXT000000508538",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-120",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°81-120 du 6 février 1981 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000508538",
+        "@datesignatexte": "1981-02-06",
+        "@id": "LEGIARTI000006323706",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "81-120",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-988 du 17 octobre 1988 - art. 8 (V) JORF 19 octobre 1988",
+        "@cidtexte": "JORFTEXT000000871861",
+        "@datesignatexte": "1988-10-17",
+        "@id": "LEGIARTI000006359475",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTA8800330D",
+        "@num": "8",
+        "@numtexte": "88-988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

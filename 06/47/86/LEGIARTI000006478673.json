@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006478673",
+      "ANCIEN_ID": "ACEDMXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/47/86/LEGIARTI000006478673.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1897-02-09",
+        "DATE_FIN": "1958-04-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 8 février 1897 PORTE MODIFICATION DE LA LOI DU 06-08-1791 SUR LES DOMAINES CONGEABLES, ABROGE TOUT CE QU'ELLE CONTIENT DE CONTRAIRE A LA PRESENTE LOI",
+          "@c_titre_court": "Loi du 8 février 1897",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000877595"
+        },
+        {
+          "#text": "Loi du 8 février 1897 portant modification de la loi du 6 août 1791 sur les domaines congéables.",
+          "@c_titre_court": "Loi du 8 février 1897",
+          "@debut": "1897-02-09",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071010"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : Dispositions diverses.",
+            "@debut": "1897-02-09",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006093225"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000877595",
+      "@date_publi": "1897-02-09",
+      "@date_signature": "1897-02-08",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1897-02-09",
+          "@etat": "MODIFIE",
+          "@fin": "1958-04-05",
+          "@id": "LEGIARTI000006478673",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1958-04-05",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000023994227",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1791-08-06",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi n°58-346 du 3 avril 1958 - art. 1 (V) JORF 5 avril 1958",
+        "@cidtexte": "JORFTEXT000000511672",
+        "@datesignatexte": "1958-04-03",
+        "@id": "LEGIARTI000006272659",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "58-346",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

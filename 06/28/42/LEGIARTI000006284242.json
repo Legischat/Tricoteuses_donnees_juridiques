@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006284242",
+      "ANCIEN_ID": "AREBCXXXXXX221AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/42/LEGIARTI000006284242.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "221",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1924-06-03",
+        "DATE_FIN": "2020-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+          "@c_titre_court": "Loi du 1 juin 1924",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869867"
+        },
+        {
+          "#text": "Loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+          "@c_titre_court": "Loi du 1er juin 1924",
+          "@debut": "1924-06-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069443"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VI : Procédure de partage et vente judiciaire d'immeubles",
+            "@debut": "1924-06-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006083862"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre I : De la procédure de partage.",
+              "@debut": "1924-06-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006114130"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000869867",
+      "@date_publi": "1924-06-03",
+      "@date_signature": "1924-06-01",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1924-06-03",
+          "@etat": "MODIFIE",
+          "@fin": "2020-01-01",
+          "@id": "LEGIARTI000006284242",
+          "@num": "221",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2020-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000041612270",
+          "@num": "221",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La procédure de partage est de la compétence des tribunaux d'instance.<br/>\n<br/>   Chaque partie intéressée est en droit de demander l'ouverture de la procédure. Les prescriptions des articles 465 et 817 du code civil s'appliquent au cas où des mineurs, majeurs en tutelle ou absents sont intéressés, sous réserve de l'application de l'article 1822 du code civil local aux mineurs dont la tutelle demeure soumise à ce code. Les mineurs étrangers sont tenus de justifier de l'autorité exigée par les lois de leur pays.<br/>\n<br/>   La demande doit indiquer clairement les parties intéressées et la masse à partager et contenir les propositions éventuelles sur le choix du notaire.<br/>\n<br/>   Si plusieurs tribunaux d'instance sont compétents, le demandeur a le droit de choisir entre eux. Si la demande en partage a été formée par plusieurs intéressés, celle qui est la première en date fixe la compétence du tribunal.<br/>\n<br/>   Le tribunal compétent pour le partage d'une succession est également compétent pour le partage des communautés de biens, successions et autres masses qui en dépendent. Sur la demande de l'une des parties intéressées, le juge peut néanmoins, s'il le trouve utile, prononcer la distraction de la procédure de l'une de ces masses.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de commerce - art. A444-179 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000041684752",
+        "@naturetexte": "CODE",
+        "@num": "A444-179",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code civil - art. 465 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006427783",
+        "@naturetexte": "CODE",
+        "@num": "465",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code civil - art. 817 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006432529",
+        "@naturetexte": "CODE",
+        "@num": "817",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code civil local 1822",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

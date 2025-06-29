@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006438843",
+      "ANCIEN_ID": "PEHDGXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/88/LEGIARTI000006438843.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-08-24",
+        "DATE_FIN": "2004-07-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 85-895 du 21 août 1985 relatif aux conseils de l'éducation nationale dans les départements et les académies",
+          "@c_titre_court": "Décret n° 85-895 du 21 août 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000688807"
+        },
+        {
+          "#text": "Décret n°85-895 du 21 août 1985 relatif aux conseils de l'éducation nationale dans les départements et les académies.",
+          "@c_titre_court": "Décret n°85-895 du 21 août 1985",
+          "@debut": "1985-08-24",
+          "@fin": "2004-07-17",
+          "@id_txt": "LEGITEXT000006065129"
+        }
+      ],
+      "@cid": "JORFTEXT000000688807",
+      "@date_publi": "1985-08-24",
+      "@date_signature": "1985-08-21",
+      "@nature": "DECRET",
+      "@num": "85-895"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-08-24",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-17",
+          "@id": "LEGIARTI000006438843",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est abrogée la disposition du dernier alinéa de l'article 25 de la loi du 30 octobre 1886 modifiée d'après laquelle \"les instituteurs communaux pourront exercer les fonctions de secrétaire de mairie avec l'autorisation du conseil départemental.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1886-10-30 art. 25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°1886-10-30 du 30 octobre 1886 - art. 25 (Ab)",
+        "@cidtexte": "JORFTEXT000000501737",
+        "@datesignatexte": "1886-10-30",
+        "@id": "LEGIARTI000006435568",
+        "@naturetexte": "LOI",
+        "@num": "25",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 83-663 1983-07-22 art. 12",
+        "@cidtexte": "JORFTEXT000000320195",
+        "@datesignatexte": "1983-07-22",
+        "@id": "JORFTEXT000000320195",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-663",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 2004-703 2004-07-13 art. 6 JORF 17 juillet 2004",
+        "@cidtexte": "JORFTEXT000000250594",
+        "@datesignatexte": "2004-07-13",
+        "@id": "JORFTEXT000000250594",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENG0401424D",
+        "@numtexte": "2004-703",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006350282",
+      "ANCIEN_ID": "MDAXXXXXXXX3X031D02AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/02/LEGIARTI000006350282.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "D31-2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-08-10",
+        "DATE_FIN": "1987-04-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du domaine de l'Etat",
+          "@c_titre_court": "Code du domaine de l'Etat",
+          "@debut": "1962-03-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070208"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire - Décrets simples",
+            "@debut": "1962-03-14",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085632"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre IV : Dispositions diverses",
+              "@debut": "1962-03-18",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006115402"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IV : Dispositions spéciales aux départements d'outre-mer",
+                "@debut": "1962-03-18",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006134720"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre III : Concessions domaniales en Guyane.",
+                  "@debut": "1962-03-18",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006148393"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070208",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-08-10",
+          "@etat": "ABROGE",
+          "@fin": "1987-04-16",
+          "@id": "LEGIARTI000006350282",
+          "@num": "D31-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les biens concédés aux communes se répartissent en deux catégories :<br/>\n<br/>   1° Immeubles bâtis ou non bâtis affectés à des services ou usages publics :<br/>\n<br/>   2° Terrains dont les Bonis et les tribus indiennes autochtones ont la jouissance en nature.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 62-300 1962-03-14",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 73-783 1973-08-04 art. 1 JORF 10 août 1973",
+        "@cidtexte": "JORFTEXT000000854677",
+        "@datesignatexte": "1973-08-04",
+        "@id": "JORFTEXT000000854677",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-783",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°87-267 du 14 avril 1987 - art. 3 (Ab) JORF 16 avril 1987",
+        "@cidtexte": "JORFTEXT000000700175",
+        "@datesignatexte": "1987-04-14",
+        "@id": "LEGIARTI000006857376",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "87-267",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du domaine de l'Etat - art. D31-1 (Ab)",
+        "@cidtexte": "LEGITEXT000006070208",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006350281",
+        "@naturetexte": "CODE",
+        "@num": "D31-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

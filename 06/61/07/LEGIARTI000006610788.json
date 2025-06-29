@@ -1,0 +1,142 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006610788",
+      "ANCIEN_ID": "RBAXXXXXXXX1X314L06AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/07/LEGIARTI000006610788.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L314-6",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-12-05",
+        "DATE_FIN": "1995-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099185"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre III : Conservation et police des bois et forêts en général.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121943"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre Ier : Défrichements.",
+                "@debut": "1979-02-07",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138687"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre IV : Taxe sur les défrichements.",
+                  "@debut": "1979-02-07",
+                  "@fin": "2001-01-01",
+                  "@id": "LEGISCTA000006152823"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "1985-12-05",
+          "@id": "LEGIARTI000006610787",
+          "@num": "L314-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-12-05",
+          "@etat": "MODIFIE",
+          "@fin": "1995-01-01",
+          "@id": "LEGIARTI000006610788",
+          "@num": "L314-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006610789",
+          "@num": "L314-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de la taxe est fixé à :<br/>\n<br/>   - 1 franc par mètre carré de surface à défricher lorsque le défrichement a pour objet des opérations de mise en culture ;<br/>\n<br/>   3 francs par mètre carré de surface à défricher dans les autres cas.<br/>\n<br/>   Toutefois, le montant de la taxe due par le redevable est au minimun de 5000 francs, quelle que soit la surface à défricher, lorsque le défrichement a pour objet de permettre la construction d'un bâtiment autre qu'à usage agricole.<br/>\n<br/>   Lorsque le terrain dont le défrichement a été taxé à 1 franc par mètre carré ou exempté de taxe change de destination dans un délai de dix ans à compter de l'autorisation, le complément de la taxe correspond à la nouvelle destination est immédiatement exigible.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-113 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°85-1273 du 4 décembre 1985 - art. 52 () JORF 5 décembre 1985",
+        "@cidtexte": "JORFTEXT000000320896",
+        "@datesignatexte": "1985-12-04",
+        "@id": "LEGIARTI000006613696",
+        "@naturetexte": "LOI",
+        "@num": "52",
+        "@numtexte": "85-1273",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580274",
+      "ANCIEN_ID": "RAA0XXXXXXX0453AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/02/LEGIARTI000006580274.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "453",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1955-04-19",
+        "DATE_FIN": "1985-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : La chasse et la pêche",
+            "@debut": "1955-04-19",
+            "@fin": "1994-01-01",
+            "@id": "LEGISCTA000006098250"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre III : De la police de la pêche",
+              "@debut": "1955-04-19",
+              "@fin": "1989-11-04",
+              "@id": "LEGISCTA000006121374"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : Des poursuites au nom de l'administration.",
+                "@debut": "1955-04-19",
+                "@fin": "1989-11-04",
+                "@id": "LEGISCTA000006138240"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "MODIFIE",
+          "@fin": "1985-07-01",
+          "@id": "LEGIARTI000006580274",
+          "@num": "453",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006580275",
+          "@num": "453",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Ils recherchent et constatent, par procès-verbaux, les délits dans l'arrondissement du tribunal près duquel ils sont assermentés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L237-11",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1829-04-15 art. 38",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

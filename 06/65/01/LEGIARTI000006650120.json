@@ -1,0 +1,166 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006650120",
+      "ANCIEN_ID": "SAAXXXXXXXX1X512L06AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/01/LEGIARTI000006650120.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L512-6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-01-19",
+        "DATE_FIN": "1982-05-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Conflits du travail",
+              "@debut": "1973-11-23",
+              "@fin": "2008-05-01",
+              "@id": "LEGISCTA000006123890"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre Ier : Conflits individuels",
+                "@debut": "1979-01-19",
+                "@fin": "2004-12-10",
+                "@id": "LEGISCTA000006139852"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Conseils de prud'hommes",
+                  "@debut": "1979-01-19",
+                  "@fin": "2004-12-10",
+                  "@id": "LEGISCTA000006154229"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Chapitre II : Organisation et fonctionnement des conseils de prud'hommes.",
+                    "@debut": "1979-01-19",
+                    "@fin": "2002-01-18",
+                    "@id": "LEGISCTA000006170339"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "MODIFIE",
+          "@fin": "1979-01-19",
+          "@id": "LEGIARTI000006650119",
+          "@num": "L512-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-01-19",
+          "@etat": "ABROGE",
+          "@fin": "1982-05-07",
+          "@id": "LEGIARTI000006650120",
+          "@num": "L512-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le renouvellement triennal doit porter sur la moitié des membres salariés ainsi que sur la moitié des membres employeurs élus dans chaque section. Le sort désigne ceux qui sont remplacés la première fois. Les conseillers prud'hommes sont rééligibles.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1047 1973-11-15",
+        "@cidtexte": "JORFTEXT000000514726",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000514726",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1047",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°82-372 du 6 mai 1982 - art. 35 () JORF 7 MAI 1982",
+        "@cidtexte": "JORFTEXT000000319743",
+        "@datesignatexte": "1982-05-06",
+        "@id": "LEGIARTI000006656086",
+        "@naturetexte": "LOI",
+        "@num": "35",
+        "@numtexte": "82-372",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. L51-11-1 (Ab)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650258",
+        "@naturetexte": "CODE",
+        "@num": "L51-11-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R512-2 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006804553",
+        "@naturetexte": "CODE",
+        "@num": "R512-2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 1958-12-22 ART. 14",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

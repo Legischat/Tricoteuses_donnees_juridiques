@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006708827",
+      "ANCIEN_ID": "AFEBYXXXXXX089AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/88/LEGIARTI000006708827.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "89",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-06-12",
+        "DATE_FIN": "2000-07-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 28 avril 1816 sur les finances",
+          "@c_titre_court": "Loi du 28 avril 1816",
+          "@debut": "1816-04-28",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072695"
+        }
+      ],
+      "@cid": "LEGITEXT000006072695",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1816-04-28",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-06-12",
+          "@etat": "ABROGE",
+          "@fin": "2000-07-11",
+          "@id": "LEGIARTI000006708827",
+          "@num": "89",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il pourra être établi, dans toutes les villes et lieux où le Président de la République le jugera convenable, des commissaires-priseurs dont les attributions seront les mêmes que celles des commissaires-priseurs établis à Paris par la loi du 27 ventôse an IX.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 75-461 1975-06-09 art. 13 JORF 12 juin 1975",
+        "@cidtexte": "JORFTEXT000000700645",
+        "@datesignatexte": "1975-06-09",
+        "@id": "JORFTEXT000000700645",
+        "@naturetexte": "DECRET",
+        "@numtexte": "75-461",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 1801-03-15",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1816-04-28 Bulletin des Lois 7èS., B. 81, n° 623",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°2000-642 du 10 juillet 2000 - art. 62 (VT) JORF 11 juillet 2000",
+        "@cidtexte": "JORFTEXT000000751735",
+        "@datesignatexte": "2000-07-10",
+        "@id": "LEGIARTI000006478156",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9800056L",
+        "@num": "62",
+        "@numtexte": "2000-642",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

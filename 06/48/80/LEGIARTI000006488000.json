@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006488000",
+      "ANCIEN_ID": "PIEBTXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/80/LEGIARTI000006488000.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1990-07-05",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 90-548 du 2 juillet 1990 autorisant la ratification de la convention relative aux droits de l'enfant  (1)",
+          "@c_titre_court": "Loi n° 90-548 du 2 juillet 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000534003"
+        },
+        {
+          "#text": "Loi n° 90-548 du 2 juillet 1990 autorisant la ratification de la convention relative aux droits de l'enfant (1)",
+          "@c_titre_court": "Loi n° 90-548 du 2 juillet 1990",
+          "@debut": "1990-07-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006076105"
+        }
+      ],
+      "@cid": "JORFTEXT000000534003",
+      "@date_publi": "1990-07-05",
+      "@date_signature": "1990-07-02",
+      "@nature": "LOI",
+      "@nor": "MAEX9000080L",
+      "@num": "90-548"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-07-05",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006488000",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est autorisée la ratification de la convention relative aux droits de l'enfant, faite à New York le 26 janvier 1990, dont le texte est annexé à la présente loi (2).<br/>\n<br/>   (2) Il sera publié ultérieurement au Journal officiel de la République française.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Convention 1990-01-26, faite à New York",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 90-548 1990-07-02 annexe",
+        "@cidtexte": "JORFTEXT000000534003",
+        "@datesignatexte": "1990-07-02",
+        "@id": "JORFTEXT000000534003",
+        "@naturetexte": "LOI",
+        "@nortexte": "MAEX9000080L",
+        "@numtexte": "90-548",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

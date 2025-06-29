@@ -1,0 +1,140 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006403302",
+      "ANCIEN_ID": "ABFAAXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/33/LEGIARTI000006403302.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-01-01",
+        "DATE_FIN": "1986-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°67-820 du 23 septembre 1967 TENDANT A FACILITER LE REDRESSEMENT ECONOMIQUE ET FINANCIER DE CERTAINES ENTREPRISES",
+          "@c_titre_court": "Ordonnance n°67-820 du 23 septembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339815"
+        },
+        {
+          "#text": "Ordonnance n°67-820 du 23 septembre 1967 tendant à faciliter le redressement économique et financier de certaines entreprises",
+          "@c_titre_court": "Ordonnance n°67-820 du 23 septembre 1967",
+          "@debut": "1968-01-01",
+          "@fin": "1986-01-01",
+          "@id_txt": "LEGITEXT000006069289"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Ouverture de la procédure",
+            "@debut": "1968-01-01",
+            "@fin": "1986-01-01",
+            "@id": "LEGISCTA000006088549"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Saisine du tribunal.",
+              "@debut": "1968-01-01",
+              "@fin": "1986-01-01",
+              "@id": "LEGISCTA000006116927"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Paragraphe 1 : Saisine par le débiteur.",
+                "@debut": "1968-01-01",
+                "@fin": "1986-01-01",
+                "@id": "LEGISCTA000006135705"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000339815",
+      "@date_publi": "1967-09-28",
+      "@date_signature": "1967-09-23",
+      "@nature": "ORDONNANCE",
+      "@num": "67-820"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006403302",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le président du tribunal, dans les huit jours du dépôt du rapport [*du juge commis par lui*], entend le débiteur en son cabinet et renvoie l'affaire devant le tribunal [*délai*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°67-820 du 23 septembre 1967 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000339815",
+        "@datesignatexte": "1967-09-23",
+        "@id": "LEGIARTI000006403304",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "7",
+        "@numtexte": "67-820",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°67-1255 du 31 décembre 1967 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000852195",
+        "@datesignatexte": "1967-12-31",
+        "@id": "LEGIARTI000006405317",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "67-1255",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 85-98 1985-01-25 art. 243 *date d'effet - décret d'application*",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000693911",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°85-98 du 25 janvier 1985 - art. 238 (Ab) JORF 26 janvier 1985 en vigueur le 1er janvier 1986",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "LEGIARTI000006401791",
+        "@naturetexte": "LOI",
+        "@num": "238",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

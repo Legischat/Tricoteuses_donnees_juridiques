@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006547270",
+      "ANCIEN_ID": "ADHDDXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/72/LEGIARTI000006547270.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-08-14",
+        "DATE_FIN": "2004-09-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-862 du 8 août 1985 PRIS POUR L'APPLICATION DE LA LOI 81766 DU 10-08-1981 MODIFIEE RELATIVE AU PRIX DU LIVRE EN CE QUI CONCERNE LES LIVRES SCOLAIRES",
+          "@c_titre_court": "Décret n°85-862 du 8 août 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000501935"
+        },
+        {
+          "#text": "Décret n°85-862 du 8 août 1985 pris pour l'application de la loi n° 81-766 du 10 août 1981 modifiée relative au prix du livre en ce qui concerne les livres scolaires",
+          "@c_titre_court": "Décret n°85-862 du 8 août 1985",
+          "@debut": "1985-08-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006065116"
+        }
+      ],
+      "@cid": "JORFTEXT000000501935",
+      "@date_publi": "1985-08-14",
+      "@date_signature": "1985-08-08",
+      "@nature": "DECRET",
+      "@num": "85-862"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-08-14",
+          "@etat": "MODIFIE",
+          "@fin": "2004-09-02",
+          "@id": "LEGIARTI000006547270",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-09-02",
+          "@etat": "ABROGE",
+          "@fin": "2006-05-24",
+          "@id": "LEGIARTI000006547271",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont considérés comme livres scolaires, au sens de l'alinéa 1 de l'article 3 de la loi du 10 août 1981 susvisée, les manuels, ainsi que les cahiers d'exercices et de travaux pratiques qui les complètent, régulièrement utilisés dans le cadre de l'enseignement de quelque niveau qu'il soit et conçus pour répondre à un programme préalablement défini ou agréé par le ministère de l'éducation nationale ou l'autorité exerçant la tutelle de l'enseignement.<br/>\n<br/>   La classe ou le niveau d'enseignement doit être imprimé sur la couverture ou la page de titre de l'ouvrage.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 81-766 1981-08-10",
+        "@cidtexte": "JORFTEXT000000517179",
+        "@datesignatexte": "1981-08-10",
+        "@id": "JORFTEXT000000517179",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-766",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°81-766 du 10 août 1981 - art. 3 (M)",
+        "@cidtexte": "JORFTEXT000000517179",
+        "@datesignatexte": "1981-08-10",
+        "@id": "LEGIARTI000006510840",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "81-766",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. D314-128 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006526696",
+        "@naturetexte": "CODE",
+        "@num": "D314-128",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

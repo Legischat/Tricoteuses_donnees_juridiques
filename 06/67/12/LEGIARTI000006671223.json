@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006671223",
+      "ANCIEN_ID": "SFEAGXXXXXX034AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/12/LEGIARTI000006671223.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "34",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-07-13",
+        "DATE_FIN": "1984-02-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°80-526 du 12 juillet 1980 RELATIVE AUX FORMATIONS PROFESSIONNELLES ALTERNEES ORGANISEES EN CONCERTATION AVEC LES MILIEUX PROFESSIONNELS",
+          "@c_titre_court": "Loi n°80-526 du 12 juillet 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705206"
+        },
+        {
+          "#text": "Loi n°80-526 du 12 juillet 1980  RELATIVE AUX FORMATIONS PROFESSIONNELLES ALTERNEES ORGANISEES EN CONCERTATION AVEC LES MILIEUX PROFESSIONNELS.",
+          "@c_titre_court": "Loi n°80-526 du 12 juillet 1980",
+          "@debut": "1980-07-13",
+          "@fin": "1984-02-25",
+          "@id_txt": "LEGITEXT000006068693"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "DISPOSITIONS FINANCIERES.",
+            "@debut": "1980-07-13",
+            "@fin": "1984-02-25",
+            "@id": "LEGISCTA000006102128"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000705206",
+      "@date_publi": "1980-07-13",
+      "@date_signature": "1980-07-12",
+      "@nature": "LOI",
+      "@num": "80-526"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-13",
+          "@etat": "ABROGE",
+          "@fin": "1984-02-25",
+          "@id": "LEGIARTI000006671223",
+          "@num": "34",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de la présente loi seront insérées dans le code du travail [*codification*] selon la procédure prévue à l'article 4 de la loi n° 73-4 du 2 janvier 1973 relative au code du travail à l'exception de celles des articles 26 et 28 qui seront insérées dans le code général des impôts.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 26, 28",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°73-4 du 2 janvier 1973 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000322331",
+        "@datesignatexte": "1973-01-02",
+        "@id": "LEGIARTI000006656035",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@numtexte": "73-4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 80-526 1980-07-12 ART. 31 : DATE D'APPLICATION",
+        "@cidtexte": "JORFTEXT000000705206",
+        "@datesignatexte": "1980-07-12",
+        "@id": "JORFTEXT000000705206",
+        "@naturetexte": "LOI",
+        "@numtexte": "80-526",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "LOI 84-130 1984-02-24 ART. 36 JORF 25 FEVRIER 1984",
+        "@cidtexte": "JORFTEXT000000320429",
+        "@datesignatexte": "1984-02-24",
+        "@id": "JORFTEXT000000320429",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-130",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

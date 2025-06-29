@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006407135",
+      "ANCIEN_ID": "PAHG2XXXXXX306AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/71/LEGIARTI000006407135.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "306",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-08-26",
+        "DATE_FIN": "2009-08-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 20 mai 1903 portant règlement sur l'organisation et le service de la gendarmerie.",
+          "@c_titre_court": "Décret du 20 mai 1903",
+          "@debut": "1903-07-19",
+          "@fin": "2009-08-07",
+          "@id_txt": "LEGITEXT000006070705"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE V : Devoirs généraux et droits de la gendarmerie dans l'exécution du service",
+            "@debut": "1903-07-19",
+            "@fin": "2009-08-07",
+            "@id": "LEGISCTA000006088853"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CHAPITRE unique.",
+              "@debut": "1903-07-19",
+              "@fin": "2009-08-07",
+              "@id": "LEGISCTA000006117107"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006070705",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1903-05-20",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-08-26",
+          "@etat": "ABROGE",
+          "@fin": "2009-08-07",
+          "@id": "LEGIARTI000006407135",
+          "@num": "306",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les cas de crime flagrant ou de délit flagrant, si ce délit est puni d'une peine d'emprisonnement, tout militaire de la gendarmerie a qualité pour en appréhender l'auteur.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 58-761 1958-08-22 art. 1 JORF 26 août 1958",
+        "@cidtexte": "JORFTEXT000000692778",
+        "@datesignatexte": "1958-08-22",
+        "@id": "JORFTEXT000000692778",
+        "@naturetexte": "DECRET",
+        "@numtexte": "58-761",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2009-971\n du 3 août 2009 - art. 25",
+        "@cidtexte": "JORFTEXT000020954146",
+        "@datesignatexte": "2009-08-03",
+        "@id": "LEGIARTI000020955382",
+        "@naturetexte": "LOI",
+        "@nortexte": "IOCX0814116L",
+        "@num": "25",
+        "@numtexte": "2009-971",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

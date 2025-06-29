@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006677159",
+      "ANCIEN_ID": "SHICNXXXXXXA22AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/71/LEGIARTI000006677159.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-08-28",
+        "DATE_FIN": "1985-08-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 juillet 1974 fixant, par voie de dispositions générales, des mesures de prévention relatives aux téléphériques de service susceptibles de transporter des personnes",
+          "@c_titre_court": "Arrêté du 24 juillet 1974",
+          "@debut": "1974-08-28",
+          "@fin": "1985-08-02",
+          "@id_txt": "LEGITEXT000006072451"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE 2 : CONDITIONS TECHNIQUES DE CONSTRUCTION",
+            "@debut": "1974-08-28",
+            "@fin": "1985-08-02",
+            "@id": "LEGISCTA000006102777"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Freinage des chariots",
+              "@debut": "1974-08-28",
+              "@fin": "1985-08-02",
+              "@id": "LEGISCTA000006124829"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072451",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-07-24",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-08-28",
+          "@etat": "ABROGE",
+          "@fin": "1985-08-02",
+          "@id": "LEGIARTI000006677159",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "les véhicules de téléphériques comportant moins de trois câbles tracteurs, prévus pour transporter simultanément plus de douze personnes, doivent être munis de freins de chariot ou de dispositifs équivalents d'agrippement sur les câbles freinés dans les stations.<br/>\n    lorsque la sécurité du tracteur, ou de l'ensemble des deux tracteurs est inférieure à 5, ces freins ou ces dispositifs d'agrippement doivent exister même quand le téléphérique n'est prévu que pour le transport simultané de moins de treize personnes.<br/>\n    Le déclenchement du freinage ou de l'agrippement doit être obtenu automatiquement par défaut de tension du câble tracteur lorsque celui-ci est unique.<br/>\n    Indépendamment de ce déclenchement automatique, ces freins doivent pouvoir être commandés par le convoyeur, lequel doit aussi pouvoir les débloquer après freinage.<br/>\n    Les freins de chariots doivent pouvoir fournir une fois les parties serrantes en position définitive de serrage et pendant toute la durée de celui-ci, un effort au moins égal à la plus grande des quantités ci-après :<br/>\n<br/>\n    1,4 fois la projection orthogonale, sur la tangente à la trajectoire du chariot, du poids du chariot, de la suspension et de la cabine en charge ;<br/>\n<br/>\n    0,3 fois la projection orthogonale, sur la même tangente, de la résultante du poids de l'ensemble \"chariot, suspension, cabine en charge\" et des tractions de câbles tracteurs ou lests qui s'exercent sur le chariot, en cas de rupture d'un câble tracteur au voisinage immédiat du chariot, aussitôt après cette rupture.<br/>\n<br/>\n    Les véhicules équipés de ces freins de chariot sont obligatoirement accompagnés par un convoyeur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-06-25 ART. 1 JORF 2 AOUT 1985",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 1985-06-25 ART. 2 : Les présentes dispositions demeurent applicables aux téléphériques existant, durant une période de deux ans à compter de la publication du présent arrêté",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

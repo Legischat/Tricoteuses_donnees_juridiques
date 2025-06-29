@@ -1,0 +1,138 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006584848",
+      "ANCIEN_ID": "ADHSQXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/48/LEGIARTI000006584848.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-01-01",
+        "DATE_FIN": "2007-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-314 du 14 mars 1973 CREATION D'UN SYSTEME NATIONAL D'IDENTIFICATION ET D'UN REPERTOIRE DES ENTREPRISES ET DE LEURS ETABLISSEMENTS",
+          "@c_titre_court": "Décret n°73-314 du 14 mars 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000306534"
+        },
+        {
+          "#text": "Décret n°73-314 du 14 mars 1973 portant création d'un système national d'identification et d'un répertoire des entreprises et de leurs établissements",
+          "@c_titre_court": "Décret n°73-314 du 14 mars 1973",
+          "@debut": "1975-01-01",
+          "@fin": "2007-03-27",
+          "@id_txt": "LEGITEXT000006062081"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Contenu du répertoire.",
+            "@debut": "1975-01-01",
+            "@fin": "2007-03-27",
+            "@id": "LEGISCTA000006098268"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000306534",
+      "@date_publi": "1973-03-21",
+      "@date_signature": "1973-03-14",
+      "@nature": "DECRET",
+      "@num": "73-314"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-03-27",
+          "@id": "LEGIARTI000006584848",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le numéro d'identité attribué à chaque personne inscrite est un numéro d'ordre composé de neuf chiffres *nombre*.<br/>\n<br/>   Le numéro d'identité attribué à chaque établissement est composé des neuf chiffres du numéro de la personne inscrite qui y exerce son activité, suivis d'un numéro complémentaire de deux à cinq chiffres propre à cet établissement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-11-06 art. 1 *le décret n° 73-314 du 14 mars 1973 portant création du système national d'identification et du répertoire des entreprises et établissements entrera en vigueur le 1er janvier 1975*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi 46-854 1946-04-27 art. 32, art. 33",
+        "@cidtexte": "JORFTEXT000000687377",
+        "@datesignatexte": "1946-04-27",
+        "@id": "JORFTEXT000000687377",
+        "@naturetexte": "LOI",
+        "@numtexte": "46-854",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°46-854 du 27 avril 1946 - art. 32, v. init.",
+        "@cidtexte": "JORFTEXT000000687377",
+        "@datesignatexte": "1946-04-27",
+        "@id": "JORFARTI000001680440",
+        "@naturetexte": "LOI",
+        "@num": "32",
+        "@numtexte": "46-854",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°67-237 du 23 mars 1967 - art. 7-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000510672",
+        "@datesignatexte": "1967-03-23",
+        "@id": "LEGIARTI000006539293",
+        "@naturetexte": "DECRET",
+        "@num": "7-1",
+        "@numtexte": "67-237",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°97-44 du 21 janvier 1997 - art. 14 (Ab)",
+        "@cidtexte": "JORFTEXT000000746759",
+        "@datesignatexte": "1997-01-21",
+        "@id": "LEGIARTI000006700705",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TASP9624363D",
+        "@num": "14",
+        "@numtexte": "97-44",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007",
+        "@cidtexte": "JORFTEXT000000820567",
+        "@datesignatexte": "2007-03-25",
+        "@id": "LEGIARTI000006261692",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX0600197D",
+        "@num": "3",
+        "@numtexte": "2007-431",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

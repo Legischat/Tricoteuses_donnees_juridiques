@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861846",
+      "ANCIEN_ID": "UPIIGXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/18/LEGIARTI000006861846.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1979-08-18",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 juillet 1979 GENERAL DE MESURE RELATIF AU BRUIT AERIEN EMIS PAR LES MATERIELS ET ENGINS DE CHANTIER",
+          "@c_titre_court": "Arrêté du 3 juillet 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000676022"
+        },
+        {
+          "#text": "Arrêté du 3 juillet 1979 fixant le code général de mesure relatif au bruit aérien émis par les matériels et engins de chantier.",
+          "@c_titre_court": "Arrêté du 3 juillet 1979",
+          "@debut": "1979-08-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074524"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1979-08-18",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006110146"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Annexe I",
+              "@debut": "1979-08-18",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000021064645"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000676022",
+      "@date_publi": "1979-08-18",
+      "@date_signature": "1979-07-03",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-08-18",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006861846",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p align=\"center\">\n<b>8. Exploitation des résultats</b>. </p>\n<p>8.1. Calcul des niveaux moyens.</p>\n<p>8.1.1. Niveau moyen en un point de mesure.</p>\n<p>Les valeurs résultant des mesures visées au point 7.2. sont des valeurs moyennes quadratiques temporelles.</p>\n<p>8.1.2. Niveau moyen sur la surface de mesure.</p>\n<p>A partir des valeurs établies selon la méthode décrite au point 8.1.1., on calculera le niveau correspondant à la moyenne quadratique spatiale des pressions acoustiques de l'ensemble des points de mesure.</p>\n<p>8.2. Calcul du niveau moyen des bruits étrangers.</p>\n<p>Le niveau moyen des bruits étrangers sur la surface de mesure s'obtient en appliquant la méthode décrite au point 8.1.2. aux niveaux des bruits étrangers déterminés aux différents points de mesure.</p>\n<p>Le niveau des bruits étrangers en un point de mesure est égal au niveau de la somme quadratique des pressions acoustiques dues respectivement au bruit de fond et aux bruits parasites en ce point.</p>\n<p>8.3. Calcul de l'aire S de la surface de mesure.</p>\n<p>Dans le cas d'un hémisphère, l'aire S exprimée en mètres carrés de la surface de mesure est égale à :</p>\n<p>S = 2 x pi de r2</p>\n<p>où :</p>\n<p>r = rayon de l'hémisphère de mesure en mètres.</p>\n<p>Dans le cas d'un parallélépipède, l'aire S exprimée en mètres carrés de la surface de mesure est égale à :</p>\n<p>S = 4 (ab + bc + ca)</p>\n<p>où :</p>\n<p>2 a = 2 d + l longueur de la surface de mesure en mètres ;</p>\n<p>2 b = 2 d + e longueur de la surface de mesure en mètres ;</p>\n<p>c = d + h hauteur de la surface de mesure en mètres ;</p>\n<p>d distance séparant la surface de mesure de la source sonore en mètres ;</p>\n<p>l longueur de la source sonore en mètres ;</p>\n<p>e largeur de la source sonore en mètres ;</p>\n<p>h hauteur de la source sonore en mètres.</p>\n<p>L'aire de la surface de mesure peut être calculée approximativement.</p>\n<p>Il convient de noter qu'une erreur de plus ou moins 20 p. 100 sur le calcul de cette aire conduit à un écart de plus ou moins 1 dB sur le terme :</p>\n<p>10 log puissance 10 de S/So (niveau surfacique).</p>\n<p>8.4. Calcul du niveau de pression acoustique surfacique LpAm.</p>\n<p>Le niveau de pression acoustique surfacique est celui qui est calculé conformément à la méthode décrite au point 8.1.2 et ensuite corrigé comme indiqué aux points 8.6.1, 8.6.3 et 8.6.4.</p>\n<p>8.5. Calcul du niveau de puissance acoustique LwA.</p>\n<p>Le niveau de puissance acoustique LwA de la source sonore est calculé à l'aide de la relation suivante :</p>\n<p>Lwa = Lpam + 10 log puissance 10 de S/So + K2</p>\n<p>où :</p>\n<p>LwA = niveau de puissance acoustique de la source testée exprimé en dB (voir point 3.4) ;</p>\n<p>LpAm = niveau de pression acoustique surfacique, exprimé en dB, tel que défini au point 3.3 ;</p>\n<p>S = aire de la surface de mesure en mètres carrés calculée selon la méthode décrite au point 8.3 ;</p>\n<p>So = aire de référence de 1 mètre carré ;</p>\n<p>K2 = terme correcteur relatif à l'aire d'essais, en dB.</p>\n<p>Il est égal à zéro à moins que, compte tenu des dispositions du point 8.6.2 en liaison des dispositions des directives particulières, il ne doive être égal à C.</p>\n<p>Remarque (voir point 6.4.1) :</p>\n<p>Pour r = 4 mètres 10 log puissance 10 de S/So = 20 dB ;</p>\n<p>Pour r = 10 mètres 10 log puissance 10 de S/So = 28 dB.</p>\n<p>8.6 Corrections à apporter aux mesures.</p>\n<p>8.6.1. Bruits étrangers.</p>\n<p>Le niveau moyen de pression acoustique sur la surface de mesure, calculé selon la méthode décrite au point 8.1, doit être éventuellement corrigé pour tenir compte des bruits étrangers déterminés selon la méthode décrite au point 8.2. La correction K1, en dB, à soustraire au niveau moyen de pression acoustique sur la surface de mesure, est indiquée au tableau II. </p>\n<br/>\n<br/>\n<table>\n<tbody>\n<tr>\n<td>\n<p align=\"center\">DIFFERENCE 5 (en db)</p>\n<p align=\"center\">entre  le niveau de pression </p>\n<p align=\"center\">acoustique calculé lorsque la source sonore fonctionne </p>\n<p align=\"center\">et le niveau de pression acoustique dû aux seuls bruits étrangers </p>\n<p align=\"center\"> </p>\n</td>\n<td>\n<p align=\"center\"> CORRECTION K1 EN dB</p>\n</td>\n</tr>\n<tr>\n<td>\n<p align=\"center\"> Inférieur à 6</p>\n</td>\n<td>\n<p align=\"center\"> Pas de mesure valable</p>\n</td>\n</tr>\n<tr>\n<td>\n<p align=\"center\"> 6</p>\n</td>\n<td>\n<p align=\"center\"> 1,0</p>\n</td>\n</tr>\n<tr>\n<td>\n<p align=\"center\"> 7</p>\n</td>\n<td>\n<p align=\"center\"> 1,0</p>\n</td>\n</tr>\n<tr>\n<td>\n<p align=\"center\"> 8</p>\n</td>\n<td>\n<p align=\"center\"> 1,0</p>\n</td>\n</tr>\n<tr>\n<td>\n<p align=\"center\"> 9</p>\n</td>\n<td>\n<p align=\"center\"> 0,5</p>\n</td>\n</tr>\n<tr>\n<td>\n<p align=\"center\"> 10</p>\n</td>\n<td>\n<p align=\"center\"> 0,5</p>\n</td>\n</tr>\n<tr>\n<td>\n<p align=\"center\"> supérieur à 10</p>\n</td>\n<td>\n<p align=\"center\"> Pas de correction</p>\n</td>\n</tr>\n</tbody>\n</table>\n<br/>\n<br/>\n<p>(Tableau non reproduit)</p>\n<p>8.6.2. Qualité acoustique de l'aire d'essais.</p>\n<p>La constante C donnant la qualité acoustique de l'aire d'essais est donnée par la relation :</p>\n<p>C = LwA1 - LwAo</p>\n<p>LwA1 : niveau de puissance acoustique nominal de la source de référence exprimé en dB ;</p>\n<p>LwAo : niveau de puissance acoustique de la source de référence, calculé à partir de mesures effectuées sur l'aire d'essais, en tenant compte du point 7.1 (a, b, c).</p>\n<p>Il n'y a pas lieu de déterminer une constante d'environnement C si le sol de l'aire d'essais est rigide, construit en béton ou en asphalte non poreux et si le site est exempt d'objets réfléchissants.</p>\n<p>Si le sol est partiellement réfléchissant, la valeur de C doit être comprise entre des valeurs limites fixées dans les directives particulières. La valeur effective de C décrivant la qualité acoustique du site utilisé est déterminée grâce à la formule ci-dessus.</p>\n<p>Cette valeur est utilisée comme K1, pour la fixation du niveau de puissance acoustique de la source, sauf spécification différente des directives particulières.</p>\n<p>Il convient, en outre, d'apporter d'autres corrections propres au fonctionnement de la source sonore (par exemple altitude du site de mesure).</p>\n<p>8.6.3. Grandeurs d'influence : température, humidité, altitude du site et autres.</p>\n<p>Appareillage de mesure :</p>\n<p>Il convient de se référer aux indications données par le constructeur du matériel de mesure afin de tenir compte des effets éventuels de toutes les grandeurs d'influence signalées par ce dernier et notamment température, pression barométrique, degré hygrométrique.</p>\n<p>Source sonore :</p>\n<p>Les directives particulières indiqueront éventuellement les grandeurs d'influence qui peuvent modifier les mesures et la manière de les prendre en compte.</p>\n<p>8.6.4. Influence du vent.</p>\n<p>La vitesse maximale admissible pour le vent est de 8 mètres à la seconde.</p>\n<p>A partir de la vitesse indiquée par le constructeur du microphone, il y a lieu de munir celui-ci d'un protecteur antivent. Les corrections éventuelles aux calculs mentionnés au point 8.4 sont données par le constructeur des protecteurs antivent.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-07-03 annexe (3), (7)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 69-380 1969-04-18",
+        "@cidtexte": "JORFTEXT000000500110",
+        "@datesignatexte": "1969-04-18",
+        "@id": "JORFTEXT000000500110",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-380",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

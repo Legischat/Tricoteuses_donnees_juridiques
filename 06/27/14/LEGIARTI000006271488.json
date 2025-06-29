@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006271488",
+      "ANCIEN_ID": "ANHAMXXXXXX011AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/14/LEGIARTI000006271488.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1990-01-24",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-166 du 31 janvier 1978 RELATIF AU CONTROLE METROLOGIQUE DE CERTAINS PREEMBALLAGES",
+          "@c_titre_court": "Décret n°78-166 du 31 janvier 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000519436"
+        },
+        {
+          "#text": "Décret n°78-166 du 31 janvier 1978 relatif au contrôle métrologique de certains préemballages",
+          "@c_titre_court": "Décret n°78-166 du 31 janvier 1978",
+          "@debut": "1978-02-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062807"
+        }
+      ],
+      "@cid": "JORFTEXT000000519436",
+      "@date_publi": "1978-02-16",
+      "@date_signature": "1978-01-31",
+      "@nature": "DECRET",
+      "@num": "78-166"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-02-16",
+          "@etat": "MODIFIE",
+          "@fin": "1990-01-24",
+          "@id": "LEGIARTI000006271487",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-24",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006271488",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'un lot n'est pas conforme aux prescriptions de l'article 4, le conditionneur ne peut le mettre en vente qu'à la condition de garantir à l'acheteur qu'il ne subit aucun préjudice, à savoir :<br/>\n<br/>   - par la mise en conformité du lot ;<br/>\n<br/>   - par la vente à un acheteur dûment informé pour sa consommation propre ;<br/>\n<br/>   - lorsqu'ils ne font pas l'objet d'un texte normalisant leur masse ou leur volume, par l'apposition sur les préemballages d'un étiquetage approprié indiquant de manière apparente le contenu effectif et le prix à l'unité de mesure.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 78-166 1978-01-31 art. 4",
+        "@cidtexte": "JORFTEXT000000519436",
+        "@datesignatexte": "1978-01-31",
+        "@id": "JORFTEXT000000519436",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-166",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 90-83 1990-01-17 art. 5 JORF 24 janvier 1990",
+        "@cidtexte": "JORFTEXT000000524120",
+        "@datesignatexte": "1990-01-17",
+        "@id": "JORFTEXT000000524120",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDD8900803D",
+        "@numtexte": "90-83",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

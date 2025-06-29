@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006402366",
+      "ANCIEN_ID": "ABEADXXXXXX034AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/23/LEGIARTI000006402366.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "34",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 85-99 du 25 janvier 1985 relative aux administrateurs judiciaires, mandataires-liquidateurs et experts en diagnostic d'entreprise",
+          "@c_titre_court": "Loi n°85-99 du 25 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000512201"
+        },
+        {
+          "#text": "Loi n° 85-99 du 25 janvier 1985 relative aux administrateurs judiciaires, aux mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise",
+          "@c_titre_court": "Loi n° 85-99 du 25 janvier 1985",
+          "@debut": "1986-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068924"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : Dispositions diverses.",
+            "@debut": "1986-01-01",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006088399"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000512201",
+      "@date_publi": "1985-01-26",
+      "@date_signature": "1985-01-25",
+      "@nature": "LOI",
+      "@num": "85-99"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006402366",
+          "@num": "34",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Une caisse de garantie dotée de la personnalité civile et gérée par les cotisants est spécialement affectée au remboursement des fonds, effets ou valeurs reçus ou gérés par chaque administrateur judiciaire inscrit sur la liste nationale et par chaque mandataire-liquidateur. Un magistrat du parquet est désigné pour exercer les fonctions de commissaire du gouvernement auprès de la caisse de garantie.<br/>\n<br/>   L'adhésion à cette caisse est obligatoire pour chaque administrateur judiciaire inscrit sur la liste nationale et pour chaque mandataire-liquidateur.<br/>\n<br/>   Les ressources de la caisse sont constituées par le produit d'une cotisation spéciale annuelle payée par chaque administrateur judiciaire inscrit sur cette liste et par chaque mandataire-liquidateur.<br/>\n<br/>   La garantie de la caisse joue sans que puisse être opposé aux créanciers le bénéfice de discussion prévu à l'article 2021 du code civil et sur la seule justification de l'exigibilité de la créance et de la non-représentation des fonds par l'administrateur judiciaire ou le mandataire-liquidateur.<br/>\n<br/>   La caisse est tenue de s'assurer contre les risques résultant pour elle de l'application de la présente loi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 85-99 1985-01-25 art. 50 *date d'effet*",
+        "@cidtexte": "JORFTEXT000000512201",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000512201",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-99",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L814-3 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006242251",
+        "@naturetexte": "CODE",
+        "@num": "L814-3",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code civil - art. 2021 (T)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006445428",
+        "@naturetexte": "CODE",
+        "@num": "2021",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

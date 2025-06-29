@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006272510",
+      "ANCIEN_ID": "ANHBTXXXXXX004AAXXXXXXBA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/25/LEGIARTI000006272510.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4 bis",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-10-19",
+        "DATE_FIN": "2010-04-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 18 janvier 1943 portant règlement sur les appareils à pression de gaz",
+          "@c_titre_court": "Décret du 18 janvier 1943",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000477165"
+        },
+        {
+          "#text": "Décret du 18 janvier 1943 portant règlement sur les appareils à pression de gaz.",
+          "@c_titre_court": "Décret n° 63 du 18 janvier 1943",
+          "@debut": "1943-01-23",
+          "@fin": "2016-07-19",
+          "@id_txt": "LEGITEXT000006067134"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Marquage des générateurs d'aérosol",
+            "@debut": "1977-10-19",
+            "@fin": "2016-07-19",
+            "@id": "LEGISCTA000006083349"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000477165",
+      "@date_publi": "1943-01-23",
+      "@date_signature": "1943-01-18",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-10-19",
+          "@etat": "ABROGE",
+          "@fin": "2010-04-29",
+          "@id": "LEGIARTI000006272510",
+          "@num": "4 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est interdit d'apposer sur un générateur des marques ou inscriptions susceptibles d'être confondues avec le symbole de conformité prévu par la directive du 20 mai 1975 susvisée. Les conditions auxquelles doit satisfaire tout générateur d'aérosol portant ce symbole de conformité sont fixées par arrêté du ministre chargé de l'industrie.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Directive 1975-05-20",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 77-1162 1977-10-13 art. 2 JORF 19 octobre 1977",
+        "@cidtexte": "JORFTEXT000000503416",
+        "@datesignatexte": "1977-10-13",
+        "@id": "JORFTEXT000000503416",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-1162",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°2010-323\n du 23 mars 2010 - art. 8",
+        "@cidtexte": "JORFTEXT000022013631",
+        "@datesignatexte": "2010-03-23",
+        "@id": "LEGIARTI000022014701",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECEC0922914D",
+        "@num": "8",
+        "@numtexte": "2010-323",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

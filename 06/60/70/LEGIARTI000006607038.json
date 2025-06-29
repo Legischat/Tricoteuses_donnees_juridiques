@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607038",
+      "ANCIEN_ID": "RAICRXXXXXX045AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/70/LEGIARTI000006607038.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "45",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-07-30",
+        "DATE_FIN": "1987-11-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 juillet 1963 fixant le règlement de comptabilité applicable aux chambres départementales d'agriculture",
+          "@c_titre_court": "Arrêté du 27 juillet 1963",
+          "@debut": "1963-07-30",
+          "@fin": "1987-11-15",
+          "@id_txt": "LEGITEXT000006071433"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Dispositions particulières aux établissements et services d'utilité agricole.",
+            "@debut": "1963-07-30",
+            "@fin": "1987-11-15",
+            "@id": "LEGISCTA000006098824"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071433",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1963-07-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-30",
+          "@etat": "ABROGE",
+          "@fin": "1987-11-15",
+          "@id": "LEGIARTI000006607038",
+          "@num": "45",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'ensemble des établissements et services dont il a la charge, l'agent comptable de la chambre d'agriculture tient des comptabilités distinctes par établissement ou service, mais articulées sur la comptabilité des services généraux suivant des modalités fixées par l'instruction prévue à l'article 47 ci-dessous.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1963-07-27 art. 47",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-10-27 art. 26 JORF 15 novembre 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 63-752 1963-07-27",
+        "@cidtexte": "JORFTEXT000000490858",
+        "@datesignatexte": "1963-07-27",
+        "@id": "JORFTEXT000000490858",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-752",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

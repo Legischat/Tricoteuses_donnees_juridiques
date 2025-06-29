@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006291117",
+      "ANCIEN_ID": "AAEAVXXXXXX050AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/11/LEGIARTI000006291117.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "50",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1867-07-24",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 24 juillet 1867 sur les sociétés",
+          "@c_titre_court": "Loi du 24 juillet 1867",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000515628"
+        },
+        {
+          "#text": "Loi du 24 juillet 1867 sur les sociétés commerciales",
+          "@c_titre_court": "Loi du 24 juillet 1867",
+          "@debut": "1867-07-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069563"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Sociétés à capital variable.",
+            "@debut": "1867-07-24",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006084117"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000515628",
+      "@date_publi": "1867-07-29",
+      "@date_signature": "1867-07-24",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1867-07-24",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006291117",
+          "@num": "50",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les actions ou coupons d'actions seront nominatifs, même après leur entière libération.<br/>\n<br/>   Ils ne seront négociables qu'après la constitution définitive de la société.<br/>\n<br/>   La négociation ne pourra avoir lieu que par voie de transfert sur les registres de la société, et les statuts pourront donner, soit au conseil d'administration, soit à l'assemblée générale, le droit de s'opposer au transfert.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 50-492 1950-05-05 *valeur nominale des actions ou coupures d'actions - montant minimum*",
+        "@cidtexte": "JORFTEXT000000492908",
+        "@datesignatexte": "1950-05-05",
+        "@id": "JORFTEXT000000492908",
+        "@naturetexte": "DECRET",
+        "@numtexte": "50-492",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code de commerce. - art. L231-4 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006228808",
+        "@naturetexte": "CODE",
+        "@num": "L231-4",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 1867-07-24 Bulletin des Lois 1867 n° 1513",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

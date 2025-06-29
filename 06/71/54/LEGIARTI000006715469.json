@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006715469",
+      "ANCIEN_ID": "SPI7CXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/54/LEGIARTI000006715469.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-01-03",
+        "DATE_FIN": "2010-04-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 décembre 1991 RELATIF A L'ORGANISATION DU CONCOURS D'INTERNAT EN PHARMACIE A TITRE ETRANGER",
+          "@c_titre_court": "Arrêté du 24 décembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317995"
+        },
+        {
+          "#text": "Arrêté du 24 décembre 1991 relatif à l'organisation du concours d'internat en pharmacie à titre étranger",
+          "@c_titre_court": "Arrêté du 24 décembre 1991",
+          "@debut": "1992-01-03",
+          "@fin": "2010-04-11",
+          "@id_txt": "LEGITEXT000006059881"
+        }
+      ],
+      "@cid": "JORFTEXT000000317995",
+      "@date_publi": "1992-01-03",
+      "@date_signature": "1991-12-24",
+      "@nature": "ARRETE",
+      "@nor": "SPSH9102869A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-03",
+          "@etat": "ABROGE",
+          "@fin": "2010-04-11",
+          "@id": "LEGIARTI000006715469",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le jury ne peut siéger valablement que si cinq membres au moins sont présents. Lorsque ce quorum n'est pas atteint avant le début des épreuves, celles-ci sont suspendues. Il est procédé dans les quinze jours qui suivent à un nouveau tirage au sort dans les conditions précitées. Les noms des praticiens qui ont été appelés à siéger la première fois sont remis dans l'urne.<br/>\n<br/>   Si un membre du jury cesse de siéger après le début des épreuves, il ne peut ni reprendre sa place, ni être remplacé.<br/>\n<br/>   Le jury continue de siéger valablement si au moins la moitié des membres plus un restent présents.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 91-305 1991-03-20 art. 4",
+        "@cidtexte": "JORFTEXT000000170540",
+        "@datesignatexte": "1991-03-20",
+        "@id": "JORFTEXT000000170540",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENZ9002299D",
+        "@numtexte": "91-305",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 15 mars 2010 - art. 6",
+        "@cidtexte": "JORFTEXT000022081747",
+        "@datesignatexte": "2010-03-15",
+        "@id": "LEGIARTI000022082839",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ESRS1005248A",
+        "@num": "6",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

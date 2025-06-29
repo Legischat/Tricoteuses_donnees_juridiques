@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006782765",
+      "ANCIEN_ID": "SSIAE1XXXXX006AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/27/LEGIARTI000006782765.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1950-03-05",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1 mars 1950  RELATIF AUX MODALITES D'APPLICATION DU DECRET N° 50-76 DU 16 JANVIER 1950 POUR L'APPLICATION DE LA LOI N° 49-1095 DU 2 AOUT 1949 ETENDANT LE BENEFICE DE L'ALLOCATION AUX VIEUX A CERTAINES CATEGORIES",
+          "@c_titre_court": "Arrêté du 1 mars 1950",
+          "@debut": "1950-03-05",
+          "@fin": "1985-12-21",
+          "@id_txt": "LEGITEXT000006073568"
+        }
+      ],
+      "@cid": "LEGITEXT000006073568",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1950-03-01",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-03-05",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006782765",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La notification attributive de l'allocation vaut titre pour la bénéficiaire.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-12-17 art. 1 JORF 21 décembre 1985",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "LOI 49-1095 1949-08-02",
+        "@cidtexte": "JORFTEXT000000309792",
+        "@datesignatexte": "1949-08-02",
+        "@id": "JORFTEXT000000309792",
+        "@naturetexte": "LOI",
+        "@numtexte": "49-1095",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 50-76 1950-01-16",
+        "@cidtexte": "JORFTEXT000000669660",
+        "@datesignatexte": "1950-01-16",
+        "@id": "JORFTEXT000000669660",
+        "@naturetexte": "DECRET",
+        "@numtexte": "50-76",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. D813-16 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006739543",
+        "@naturetexte": "CODE",
+        "@num": "D813-16",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

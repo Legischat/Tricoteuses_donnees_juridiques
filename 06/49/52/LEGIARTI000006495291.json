@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006495291",
+      "ANCIEN_ID": "PJFAPXXXXXX011BAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/52/LEGIARTI000006495291.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-01-01",
+        "DATE_FIN": "2021-09-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante",
+          "@c_titre_court": "Ordonnance n° 45-174 du 2 février 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517521"
+        },
+        {
+          "#text": "Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.",
+          "@c_titre_court": "Ordonnance n° 45-174 du 2 février 1945",
+          "@debut": "1958-12-23",
+          "@fin": "2021-09-30",
+          "@id_txt": "LEGITEXT000006069158"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : Procédure.",
+            "@debut": "1993-01-05",
+            "@fin": "2021-09-30",
+            "@id": "LEGISCTA000006094224"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000517521",
+      "@date_publi": "1945-02-04",
+      "@date_signature": "1945-02-02",
+      "@nature": "ORDONNANCE",
+      "@num": "45-174"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2021-09-30",
+          "@id": "LEGIARTI000006495291",
+          "@num": "11-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque la détention provisoire est ordonnée à la suite d'une révocation du contrôle judiciaire à l'encontre d'un mineur antérieurement placé en détention provisoire pour les mêmes faits, la durée cumulée des détentions ne peut excéder de plus d'un mois la durée maximale de la détention prévue à l'article 11.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 45-174 du 2 février 1945 - art. 11",
+        "@cidtexte": "JORFTEXT000000517521",
+        "@datesignatexte": "1945-02-02",
+        "@id": "LEGIARTI000006495287",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "11",
+        "@numtexte": "45-174",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°2000-516 du 15 juin 2000 - art. 63 () JORF 16 juin 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000765204",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006493373",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9800048L",
+        "@num": "63",
+        "@numtexte": "2000-516",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n° 2019-950 du 11 septembre 2019 - art. 7",
+        "@cidtexte": "JORFTEXT000039085102",
+        "@datesignatexte": "2019-09-11",
+        "@id": "LEGIARTI000039086609",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX1919677R",
+        "@num": "7",
+        "@numtexte": "2019-950",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la justice pénale des mineurs - art. L433-7 (VD)",
+        "@cidtexte": "LEGITEXT000039086952",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000039088315",
+        "@naturetexte": "CODE",
+        "@num": "L433-7",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

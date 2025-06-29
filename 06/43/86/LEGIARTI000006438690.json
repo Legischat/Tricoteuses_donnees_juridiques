@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006438690",
+      "ANCIEN_ID": "PEHCYXXXXXX026AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/86/LEGIARTI000006438690.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "26",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-04-24",
+        "DATE_FIN": "2006-05-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  n° 90-788 du 6 septembre 1990 relatif à l'organisation et au    fonctionnement des écoles maternelles et élémentaires",
+          "@c_titre_court": "Décret n° 90-788 du 6 septembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000352635"
+        },
+        {
+          "#text": "Décret n°90-788 du 6 septembre 1990 relatif à l'organisation et au fonctionnement des écoles maternelles et élémentaires",
+          "@c_titre_court": "Décret n°90-788 du 6 septembre 1990",
+          "@debut": "1992-02-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006076461"
+        }
+      ],
+      "@cid": "JORFTEXT000000352635",
+      "@date_publi": "1990-09-08",
+      "@date_signature": "1990-09-06",
+      "@ministere": "MINISTERE DE L'EDUCATION NATIONALE",
+      "@nature": "DECRET",
+      "@nor": "MENE9001978D",
+      "@num": "90-788"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-01",
+          "@etat": "MODIFIE_MORT_NE",
+          "@fin": "1991-04-24",
+          "@id": "LEGIARTI000006438689",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE_MORT_NE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-04-24",
+          "@etat": "ABROGE",
+          "@fin": "2006-05-24",
+          "@id": "LEGIARTI000006438690",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent décret prendront effet au 1er janvier 1992.<br/>\n<br/>   Ces dispositions entreront toutefois en application à compter du 1er janvier 1991 dans les écoles élémentaires et maternelles des départements dont la liste sera établie par arrêté du ministre chargé de l'éducation.<br/>\n<br/>   Par dérogation aux alinéas précédents, les dispositions des articles 10, 10-1 et 10-2 entreront en vigueur pour la rentrée scolaire 1991.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 90-788 1990-09-06 art. 10, art. 10-1, art. 10-2",
+        "@cidtexte": "JORFTEXT000000352635",
+        "@datesignatexte": "1990-09-06",
+        "@id": "JORFTEXT000000352635",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENE9001978D",
+        "@numtexte": "90-788",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2006-583 2006-05-23 art. 7 41° JORF 24 mai 2006",
+        "@cidtexte": "JORFTEXT000000607176",
+        "@datesignatexte": "2006-05-23",
+        "@id": "JORFTEXT000000607176",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENJ0601284D",
+        "@numtexte": "2006-583",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 91-383 1991-04-24 art. 5 JORF 24 avril 1991",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

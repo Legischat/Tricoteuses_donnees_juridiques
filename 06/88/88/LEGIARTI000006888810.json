@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888810",
+      "ANCIEN_ID": "UTIGRXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/88/LEGIARTI000006888810.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-08-08",
+        "DATE_FIN": "1990-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 juillet 1982 relatif à l'application de l'article R. 123-1 du code de la route et modalités de délivrance du permis de conduire sur le vu de diplômes professionnels de conducteurs routiers",
+          "@c_titre_court": "Arrêté du 22 juillet 1982",
+          "@debut": "1982-08-08",
+          "@fin": "1990-07-01",
+          "@id_txt": "LEGITEXT000006075058"
+        }
+      ],
+      "@cid": "LEGITEXT000006075058",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-07-22",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-08-08",
+          "@etat": "ABROGE",
+          "@fin": "1990-07-01",
+          "@id": "LEGIARTI000006888810",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La délivrance du permis de conduire ne peut être effectuée que si les conditions d'âge prévues par l'article R. 125 du code de la route sont satisfaites, soit :<br/>\n<br/>   Dix-huit ans pour les titulaires :<br/>\n<br/>   - du certificat d'aptitude professionnelle de conducteur routier, délivré sous l'autorité du ministre de l'éducation nationale, ou de l'attestation de réussite aux épreuves de ce C.A.P., délivrée par le commissaire de la République ou, par délégation, par l'inspecteur d'académie directeur des services départementaux de l'éducation nationale ;<br/>\n<br/>   - du certificat de formation profressionnelle (filière M 128), délivré sous l'autorité du ministre du travail ;<br/>\n<br/>   - du C.F.P. (filière M 148), délivré sous l'autorité du ministre du travail.<br/>\n<br/>   Ou vingt et un ans pour les titulaires :<br/>\n<br/>   - du certificat de formation professsionnelle (filière M 138) et du certificat de perfectionnement professionnel (filière M 348), délivrés sous l'autorité du ministre du travail.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-06-13 art. 7 JORF 28 juin 1990 en vigueur le 1er juillet 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R123-1",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la route R125",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

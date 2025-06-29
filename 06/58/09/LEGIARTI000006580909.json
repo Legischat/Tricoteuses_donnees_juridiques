@@ -1,0 +1,124 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580909",
+      "ANCIEN_ID": "RAA0XXXXXXX1100AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/09/LEGIARTI000006580909.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1100",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-04-19",
+        "DATE_FIN": "1959-12-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Mutualité sociale agricole",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121386"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : Prestations familiales",
+                "@debut": "1955-04-19",
+                "@fin": "2000-06-22",
+                "@id": "LEGISCTA000006138273"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 5 : Organisation administrative et financière.",
+                  "@debut": "1955-04-19",
+                  "@fin": "2000-06-22",
+                  "@id": "LEGISCTA000006152108"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "ABROGE",
+          "@fin": "1959-12-27",
+          "@id": "LEGIARTI000006580909",
+          "@num": "1100",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   (texte abrogé).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1949-07-16 art. 5",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 59-1454 1959-12-26 art. 58 JORF 27 décembre 1959",
+        "@cidtexte": "JORFTEXT000000874213",
+        "@datesignatexte": "1959-12-26",
+        "@id": "JORFTEXT000000874213",
+        "@naturetexte": "LOI",
+        "@numtexte": "59-1454",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

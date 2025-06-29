@@ -1,0 +1,147 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006646326",
+      "ANCIEN_ID": "SAAXXXXXXXX1X127L11AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/63/LEGIARTI000006646326.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L127-11",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2005-02-24",
+        "DATE_FIN": "2006-01-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Conventions relatives au travail",
+              "@debut": "1973-01-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123870"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Contrat de travail",
+                "@debut": "1973-11-23",
+                "@fin": "2008-05-01",
+                "@id": "LEGISCTA000006139774"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre VII bis : Dispositions spécifiques aux groupements d'employeurs composés d'adhérents de droit privé et de collectivités territoriales.",
+                  "@debut": "2005-02-24",
+                  "@fin": "2008-05-01",
+                  "@id": "LEGISCTA000006154009"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-02-24",
+          "@etat": "MODIFIE",
+          "@fin": "2006-01-06",
+          "@id": "LEGIARTI000006646326",
+          "@num": "L127-11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-01-06",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000006646327",
+          "@num": "L127-11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les tâches confiées aux salariés du groupement mis à disposition d'une collectivité territoriale s'exercent exclusivement dans le cadre d'un service public industriel et commercial. Elles ne peuvent constituer l'activité principale des salariés du groupement et le temps consacré par chaque salarié du groupement aux travaux pour le compte des collectivités territoriales adhérentes doit être inférieur à un mi-temps.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°2005-157 du 23 février 2005 - art. 59 () JORF 24 février 2005",
+        "@cidtexte": "JORFTEXT000000257340",
+        "@datesignatexte": "2005-02-23",
+        "@id": "LEGIARTI000006600996",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX0300111L",
+        "@num": "59",
+        "@numtexte": "2005-157",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code du travail - art. L1253-20 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006901355",
+        "@naturetexte": "CODE",
+        "@num": "L1253-20",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail - art. L1253-20 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006901355",
+        "@naturetexte": "CODE",
+        "@num": "L1253-20",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1046 1973-11-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

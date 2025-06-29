@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006503460",
+      "ANCIEN_ID": "ADEAPXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/34/LEGIARTI000006503460.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1994-03-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 18 mars 1918 ANT LA FABRICATION ET LA VENTE DES SCEAUX,TIMBRES ET CACHETS OFFICIELS",
+          "@c_titre_court": "Loi du 18 mars 1918",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000498448"
+        },
+        {
+          "#text": "Loi du 18 mars 1918 réglementant la fabrication et la vente des sceaux, timbres et cachets officiels",
+          "@c_titre_court": "Loi du 18 mars 1918",
+          "@debut": "1918-03-20",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071113"
+        }
+      ],
+      "@cid": "JORFTEXT000000498448",
+      "@date_publi": "1918-03-20",
+      "@date_signature": "1918-03-18",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1918-03-20",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006503459",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006503460",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Indépendamment des contrefaçons et usages frauduleux prévus et punis aux articles 444-1 à 444-9 du code pénal, sont également interdits la fabrication, la détention, la distribution, l'achat et la vente de timbres, sceaux, cachets et marques susceptibles d'être confondus avec les timbres, sceaux, cachets et marques de l'Etat ou d'une autorité quelconque.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°92-1336 du 16 décembre 1992 - art. 298 () JORF 23 décembre 1992 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491835",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "298",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code pénal 444-1 à 444-9",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n° 96-267 1996-03-28 art. 12 I *la loi n° 92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal entre en application dans les TOM et à Mayotte au 1er mai 1996*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

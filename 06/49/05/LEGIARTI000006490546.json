@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006490546",
+      "ANCIEN_ID": "PJAXXXXXXXX2X039R00AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/05/LEGIARTI000006490546.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R39",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-12-24",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code pénal (ancien)",
+          "@c_titre_court": "CODE PENAL",
+          "@debut": "1810-02-12",
+          "@fin": "1994-03-01",
+          "@id_txt": "LEGITEXT000006071029"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1810-02-12",
+            "@fin": "1994-03-01",
+            "@id": "LEGISCTA000006093904"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre IV : Contraventions de police et peines",
+              "@debut": "1810-03-02",
+              "@fin": "1994-03-01",
+              "@id": "LEGISCTA000006119342"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : Contraventions et peines",
+                "@debut": "1958-12-24",
+                "@fin": "1994-03-01",
+                "@id": "LEGISCTA000006136901"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section IV : Quatrième classe.",
+                  "@debut": "1958-12-24",
+                  "@fin": "1994-03-01",
+                  "@id": "LEGISCTA000006150853"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071029",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-12-24",
+          "@etat": "ABROGE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006490546",
+          "@num": "R39",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La peine d'emprisonnement pourra être portée à dix jours, en cas de récidive, contre les personnes et dans les cas mentionnés en l'article R. 38.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 58-1303 1958-12-23 JORF 24 DECEMBRE 1958",
+        "@cidtexte": "JORFTEXT000000300725",
+        "@datesignatexte": "1958-12-23",
+        "@id": "JORFTEXT000000300725",
+        "@naturetexte": "DECRET",
+        "@numtexte": "58-1303",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000729725",
+        "@datesignatexte": "1993-03-29",
+        "@id": "JORFTEXT000000729725",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX9300012Z",
+        "@numtexte": "93-726",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code pénal R38",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579972",
+      "ANCIEN_ID": "RAA0XXXXXXX0322AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/99/LEGIARTI000006579972.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "322",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-04-19",
+        "DATE_FIN": "1998-07-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121364"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "ABROGE",
+          "@fin": "1998-07-05",
+          "@id": "LEGIARTI000006579972",
+          "@num": "322",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Aucune peine ne peut être prononcée sans que la plainte ait été instruite par un rapport et que le vétérinaire ou docteur vétérinaire mis en cause ait été entendu ou appelé à comparaître dans le délai de huitaine.<br/>\n<br/>   Toute décision doit être motivée. Si la décision a été rendue sans que le praticien mis en cause ait comparu, se soit fait représenter ou ait produit une défense écrite, elle peut être attaquée par la voie de l'opposition dans le délai d'un mois à dater du jour de la notification.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 47-1564 1947-08-23",
+        "@cidtexte": "JORFTEXT000000874889",
+        "@datesignatexte": "1947-08-23",
+        "@id": "JORFTEXT000000874889",
+        "@naturetexte": "LOI",
+        "@numtexte": "47-1564",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°98-558 du 2 juillet 1998 - art. 32 () JORF 5 juillet 1998",
+        "@cidtexte": "JORFTEXT000000572211",
+        "@datesignatexte": "1998-07-02",
+        "@id": "LEGIARTI000006605019",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRG9800873D",
+        "@num": "32",
+        "@numtexte": "98-558",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

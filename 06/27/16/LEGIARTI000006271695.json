@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006271695",
+      "ANCIEN_ID": "MDHCTXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/16/LEGIARTI000006271695.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-01-01",
+        "DATE_FIN": "2000-04-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-172 du 21 février 1973 DETERMINANT LES SERVICES COMMUNS QUI DONNENT LIEU A UNE CONTRIBUTION DES DEPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE VERSEE A LA VILLE DE PARIS",
+          "@c_titre_court": "Décret n°73-172 du 21 février 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000875719"
+        },
+        {
+          "#text": "Décret n°73-172 du 21 février 1973 déterminant les services communs qui donnent lieu à une contribution des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne versée à la ville de Paris",
+          "@c_titre_court": "Décret n°73-172 du 21 février 1973",
+          "@debut": "1973-01-01",
+          "@fin": "2000-04-09",
+          "@id_txt": "LEGITEXT000006062049"
+        }
+      ],
+      "@cid": "JORFTEXT000000875719",
+      "@date_publi": "1973-02-23",
+      "@date_signature": "1973-02-21",
+      "@nature": "DECRET",
+      "@num": "73-172"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-04-09",
+          "@id": "LEGIARTI000006271695",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001108157",
+          "@num": "5",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 67-1250 du 22 décembre 1967 et l'article 3 du décret du 8 janvier 1970 susvisé sont abrogés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1970-01-08 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 67-1250 1967-12-22",
+        "@cidtexte": "JORFTEXT000000510654",
+        "@datesignatexte": "1967-12-22",
+        "@id": "JORFTEXT000000510654",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-1250",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 73-172 1973-02-21 jorf 23 février 1973 en vigueur le 1er janvier 1973",
+        "@cidtexte": "JORFTEXT000000875719",
+        "@datesignatexte": "1973-02-21",
+        "@id": "JORFTEXT000000875719",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-172",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°2000-318 du 7 avril 2000 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000399814",
+        "@datesignatexte": "2000-04-07",
+        "@id": "LEGIARTI000006344082",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTX0004021D",
+        "@num": "4",
+        "@numtexte": "2000-318",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

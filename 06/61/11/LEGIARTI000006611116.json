@@ -1,0 +1,140 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006611116",
+      "ANCIEN_ID": "RBAXXXXXXXX1X552L01AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/11/LEGIARTI000006611116.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L552-1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-02-07",
+        "DATE_FIN": "2001-07-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099185"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Inventaire et mise en valeur des ressources ligneuses - Reboisement.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121946"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre V : Commercialisation des matériels forestiers de reproduction.",
+                "@debut": "2001-07-11",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138710"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : Conditions de commercialisation et de garantie de qualité des matériels forestiers de reproduction et d'admission des matériels de base.",
+                  "@debut": "2001-07-11",
+                  "@fin": "2012-07-01",
+                  "@id": "LEGISCTA000006152871"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "2001-07-11",
+          "@id": "LEGIARTI000006611116",
+          "@num": "L552-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-07-11",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006611117",
+          "@num": "L552-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les matériels forestiers de reproduction ne peuvent être commercialisés que s'ils proviennent de matériels de base admis dans les conditions prévues à l'article L. 552-2 et que s'ils satisfont aux normes de qualité extérieure déterminées par le ministre chargé des forêts.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 71-383 1971-05-22 art. 2",
+        "@cidtexte": "JORFTEXT000000321631",
+        "@datesignatexte": "1971-05-22",
+        "@id": "JORFTEXT000000321631",
+        "@naturetexte": "LOI",
+        "@numtexte": "71-383",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 79-113 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code forestier - art. L552-2 (M)",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006611118",
+        "@naturetexte": "CODE",
+        "@num": "L552-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

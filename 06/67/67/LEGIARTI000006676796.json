@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006676796",
+      "ANCIEN_ID": "SHIBHXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/67/LEGIARTI000006676796.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-09-21",
+        "DATE_FIN": "1998-12-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 juillet 1974  RELATIF AUX MESURES DE SECURITE APPLICABLES AUX CHARIOTS AUTOMOTEURS DE MANUTENTION A CONDUCTEURS PORTES",
+          "@c_titre_court": "Arrêté du 30 juillet 1974",
+          "@debut": "1974-08-11",
+          "@fin": "1998-12-04",
+          "@id_txt": "LEGITEXT000006072410"
+        }
+      ],
+      "@cid": "LEGITEXT000006072410",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-07-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-08-11",
+          "@etat": "MODIFIE",
+          "@fin": "1989-09-21",
+          "@id": "LEGIARTI000006676795",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-09-21",
+          "@etat": "ABROGE",
+          "@fin": "1998-12-04",
+          "@id": "LEGIARTI000006676796",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les dispositions générales jointes au présent arrêté se substituent à celles annexées à l'arrêté susvisé du 26 juillet 1961. toutefois, les articles 3 et 10 desdites dispositions générales ne sont applicables qu'aux chariots automoteurs de manutention à conducteurs portés non soumis au décret n° 89-78 du 7 février 1989 définissant les conditions d'hygiène et de sécurité auxquelles doivent satisfaire les chariots de manutention automoteurs et leurs équipements.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1961-07-26",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1974-07-30 art. 3 et art. 10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1989-09-08 art. 1 JORF 21 septembre 1989",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1998-12-02 art. 5 JORF 4 décembre 1998",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 89-78 1989-02-07",
+        "@cidtexte": "JORFTEXT000000336182",
+        "@datesignatexte": "1989-02-07",
+        "@id": "JORFTEXT000000336182",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFT8903127D",
+        "@numtexte": "89-78",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

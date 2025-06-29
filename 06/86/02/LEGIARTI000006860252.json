@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860252",
+      "ANCIEN_ID": "UPICXXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/02/LEGIARTI000006860252.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-09-27",
+        "DATE_FIN": "1988-04-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 septembre 1979 relatif à la soumission à autorisation de l'importation d'ivoire brut",
+          "@c_titre_court": "Arrêté du 14 septembre 1979",
+          "@debut": "1979-09-27",
+          "@fin": "1988-04-26",
+          "@id_txt": "LEGITEXT000006074401"
+        }
+      ],
+      "@cid": "LEGITEXT000006074401",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-09-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-09-27",
+          "@etat": "ABROGE",
+          "@fin": "1988-04-26",
+          "@id": "LEGIARTI000006860252",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est soumise à autorisation dans les conditions déterminées par le décret du 25 novembre 1977 susvisé l'importation sous tous régimes douaniers de l'ivoire brut (ex n° 05-09 du tarif des douanes).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-03-29 art. 7 JORF 26 avril 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 77-1296 1977-11-25",
+        "@cidtexte": "JORFTEXT000000864124",
+        "@datesignatexte": "1977-11-25",
+        "@id": "JORFTEXT000000864124",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-1296",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 77-1296 1977-11-25",
+        "@cidtexte": "JORFTEXT000000864124",
+        "@datesignatexte": "1977-11-25",
+        "@id": "JORFTEXT000000864124",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-1296",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

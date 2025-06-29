@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006331648",
+      "ANCIEN_ID": "FBIALXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/16/LEGIARTI000006331648.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-02-18",
+        "DATE_FIN": "1994-12-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 janvier 1993 portant approbation du cahier des charges pour la transmission par voie informatique de la déclaration d'échanges de biens",
+          "@c_titre_court": "Arrêté du 26 janvier 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000727338"
+        },
+        {
+          "#text": "Arrêté du 26 janvier 1993 portant approbation du cahier des charges pour la transmission par voie informatique de la déclaration d'échanges de biens",
+          "@c_titre_court": "Arrêté du 26 janvier 1993",
+          "@debut": "1993-02-18",
+          "@fin": "1994-12-27",
+          "@id_txt": "LEGITEXT000006081179"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II FORMAT DES DONNÉES.",
+            "@debut": "1993-02-18",
+            "@fin": "1994-12-27",
+            "@id": "LEGISCTA000006085000"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000727338",
+      "@date_publi": "1993-02-18",
+      "@date_signature": "1993-01-26",
+      "@nature": "ARRETE",
+      "@nor": "BUDD9340002A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-02-18",
+          "@etat": "ABROGE",
+          "@fin": "1994-12-27",
+          "@id": "LEGIARTI000006331648",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour la transmission par voie informatique de la déclaration d'échanges de biens, le déclarant peut utiliser les formats de données suivants :<br/>\n<br/>   a) Fichiers structurés en enregistrements de longueur fixe. Il s'agit des structures suivantes :<br/>\n<br/>   - INTRACOM : structure d'enregistrement spécifique aux échanges avec les autres Etats membres ;<br/>\n<br/>   - SAISUNIC : structure d'enregistrement utilisée à la fois pour les échanges avec les autres Etats membres et pour les échanges avec les pays tiers.<br/>\n<br/>   Dans les deux cas, le premier enregistrement de chaque fichier contient les informations permettant d'identifier l'expéditeur et l'envoi.<br/>\n<br/>   La description des fichiers INTRACOM, SAISUNIC et du premier enregistrement est annexée au protocole technique, lui-même annexé à la convention prévue par l'article 1er du présent arrêté.<br/>\n<br/>   b) Messages aux normes UN/EDIFACT. Il s'agit du message INSTAT, sous-ensemble du message CUSDEC, version 91.1, mis au point dans le cadre du Western European Edifact Board.<br/>\n<br/>   Les conditions d'utilisation du message CUSDEC/INSTAT sont décrites dans le manuel de l'utilisateur du message élaboré par la Commission des communautés européennes et prévu par l'article 5 du règlement (C.E.E.) n° 3590-92 du 11 décembre 1992. Les consignes d'utilisation au plan national du message CUSDEC/INSTAT sont décrites dans un document annexé au manuel de l'utilisateur.<br/>\n<br/>   La partie \" en-tête d'interchange \" de l'envoi des messages CUSDEC/INSTAT remplit les mêmes fonctions que le premier enregistrement prévu dans le cas des fichiers structurés.<br/>\n<br/>   Le manuel de l'utilisateur ainsi que les consignes d'utilisation du message CUSDEC/INSTAT sont annexés au protocole technique, lui-même annexé à la convention prévue par l'article 1er du présent arrêté.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-01-26 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1994-12-19 art. 14 JORF 27 décembre 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "CEE Règlement 3590/92 1992-12-11 art. 5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

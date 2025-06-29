@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861884",
+      "ANCIEN_ID": "UPIIJXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/18/LEGIARTI000006861884.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-01-29",
+        "DATE_FIN": "1984-06-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 décembre 1980 relatif à l'interdiction d'utiliser les avions à réaction subsoniques de masse maximale au décollage supérieure à 20000 kg dépourvus de certificat de limitation de nuisances",
+          "@c_titre_court": "Arrêté du 23 décembre 1980",
+          "@debut": "1981-01-29",
+          "@fin": "1984-06-16",
+          "@id_txt": "LEGITEXT000006074528"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Conditions techniques",
+            "@debut": "1981-01-29",
+            "@fin": "1984-06-16",
+            "@id": "LEGISCTA000006110150"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074528",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1980-12-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-01-29",
+          "@etat": "ABROGE",
+          "@fin": "1984-06-16",
+          "@id": "LEGIARTI000006861884",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les conditions techniques de délivrance du certificat de limitation de nuisances de type sont celles définies dans l'arrêté du 6 juin 1979 relatif aux certificats de limitation de nuisances destinés aux avions à réaction subsoniques et seront au moins celles applicables aux avions de catégorie 2, telles que définies dans cet arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-06-06",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'aviation civile - art. R133-2 (V)",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006844511",
+        "@naturetexte": "CODE",
+        "@num": "R133-2",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

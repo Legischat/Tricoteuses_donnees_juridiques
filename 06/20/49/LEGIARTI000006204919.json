@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006204919",
+      "ANCIEN_ID": "AMHBHXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/49/LEGIARTI000006204919.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-10-01",
+        "DATE_FIN": "1986-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-404 du 3 avril 1985 RELATIF A LA COMPOSITION DU CAHIER DES CLAUSES TECHNIQUES GENERALES (CCTG) APPLICABLES AUX MARCHES PUBLICS DE TRAVAUX ET APPROUVANT OU MODIFIANT DIVERS FASCICULES",
+          "@c_titre_court": "Décret n°85-404 du 3 avril 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000885540"
+        },
+        {
+          "#text": "Décret n°85-404 du 3 avril 1985 relatif à la composition du cahier des clauses techniques générales applicables aux marchés publics de travaux et approuvant ou modifiant divers fascicules",
+          "@c_titre_court": "Décret n°85-404 du 3 avril 1985",
+          "@debut": "1985-10-01",
+          "@fin": "1986-09-01",
+          "@id_txt": "LEGITEXT000006064984"
+        }
+      ],
+      "@cid": "JORFTEXT000000885540",
+      "@date_publi": "1985-04-06",
+      "@date_signature": "1985-04-03",
+      "@nature": "DECRET",
+      "@num": "85-404"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-10-01",
+          "@etat": "ABROGE",
+          "@fin": "1986-09-01",
+          "@id": "LEGIARTI000006204919",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les fascicules applicables aux marchés publics de génie civil dans leur version à la date de publication du présent décret sont récapitulés à l'annexe I ; ceux relevant du cahier des clauses techniques générales sont indiqués par le sigle C.C.T.G. et ceux relevant du cahier des prescriptions communes applicables aux marchés de travaux publics passés au nom de l'Etat, maintenus en vigueur en vertu de l'article 33 du décret n° 76-88 du 20 janvier 1976, sont indiqués par le sigle C.P.C..<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 76-88 1976-01-20 art. 33",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-404 1985-04-03 annexe I",
+        "@cidtexte": "JORFTEXT000000885540",
+        "@datesignatexte": "1985-04-03",
+        "@id": "JORFTEXT000000885540",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-404",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-404 1985-04-03 art. 8 *modalités d'application*",
+        "@cidtexte": "JORFTEXT000000885540",
+        "@datesignatexte": "1985-04-03",
+        "@id": "JORFTEXT000000885540",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-404",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006709042",
+      "ANCIEN_ID": "SPHPFXXXXXX030AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/90/LEGIARTI000006709042.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-05-04",
+        "DATE_FIN": "1992-04-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°72-350 du 2 mai 1972 RELATIF AUX CONSEILS D'ADMINISTRATION DES ETABLISSEMENTS OU GROUPES D'ETABLISSEMENTS D'HOSPITALISATION PUBLICS",
+          "@c_titre_court": "Décret n°72-350 du 2 mai 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000329331"
+        },
+        {
+          "#text": "Décret n°72-350 du 2 mai 1972 relatif aux conseils d'administration des établissements ou groupes d'établissements d'hospitalisation publics.",
+          "@c_titre_court": "Décret n°72-350 du 2 mai 1972",
+          "@debut": "1972-05-04",
+          "@fin": "1992-04-03",
+          "@id_txt": "LEGITEXT000006061930"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : Fonctionnement des conseils d'administration",
+            "@debut": "1972-05-04",
+            "@fin": "1992-04-03",
+            "@id": "LEGISCTA000006104324"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000329331",
+      "@date_publi": "1972-05-04",
+      "@date_signature": "1972-05-02",
+      "@nature": "DECRET",
+      "@num": "72-350"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-05-04",
+          "@etat": "ABROGE",
+          "@fin": "1992-04-03",
+          "@id": "LEGIARTI000006709042",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les délibérations sont conservées dans un registre spécial confié à la garde du directeur de l'établissement. Ce registre est tenu à la disposition des administrateurs qui peuvent le consulter sur place.<br/>\n    Les administrateurs peuvent également obtenir des copies ou extraits des délibérations. Ces copies ou extraits ne peuvent toutefois être utilisés que sous réserve du respect des prescriptions de l'article 378 du Code pénal.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 70-1318 1970-12-31",
+        "@cidtexte": "JORFTEXT000000874228",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000874228",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1318",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 92-371 1992-04-01 art. 2 JORF 3 avril 1992",
+        "@cidtexte": "JORFTEXT000000331889",
+        "@datesignatexte": "1992-04-01",
+        "@id": "JORFTEXT000000331889",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANT9200725D",
+        "@numtexte": "92-371",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code pénal 378",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

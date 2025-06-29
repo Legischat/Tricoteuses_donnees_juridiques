@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006530270",
+      "ANCIEN_ID": "PPFAYXXXXXX000AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/02/LEGIARTI000006530270.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1945-08-11",
+        "DATE_FIN": "2008-05-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-1779 du 10 août 1945 portant organisation de l'ordre de la libération",
+          "@c_titre_court": "Ordonnance n°45-1779 du 10 août 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000516610"
+        },
+        {
+          "#text": "Ordonnance n° 45-1779 du 10 août 1945 portant organisation de l'Ordre de la libération.",
+          "@c_titre_court": "Ordonnance n° 45-1779 du 10 août 1945",
+          "@debut": "1945-08-11",
+          "@fin": "2012-11-16",
+          "@id_txt": "LEGITEXT000006069160"
+        }
+      ],
+      "@cid": "JORFTEXT000000516610",
+      "@date_publi": "1945-08-11",
+      "@date_signature": "1945-08-10",
+      "@nature": "ORDONNANCE",
+      "@num": "45-1779"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-08-11",
+          "@etat": "TRANSFERE",
+          "@fin": "2008-05-18",
+          "@id": "LEGIARTI000006530270",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2008-05-18",
+          "@etat": "ABROGE",
+          "@fin": "2012-11-16",
+          "@id": "LEGIARTI000018806129",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°45-1779 du 10 août 1945 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000516610",
+        "@datesignatexte": "1945-08-10",
+        "@id": "LEGIARTI000018806127",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "7",
+        "@numtexte": "45-1779",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret n°2008-459\n du 16 mai 2008 - art. 4",
+        "@cidtexte": "JORFTEXT000018801143",
+        "@datesignatexte": "2008-05-16",
+        "@id": "LEGIARTI000018802960",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC0804578D",
+        "@num": "4",
+        "@numtexte": "2008-459",
+        "@sens": "cible",
+        "@typelien": "TRANSFERE"
+      }
+    ]
+  }
+}

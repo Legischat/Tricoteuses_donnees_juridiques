@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006889700",
+      "ANCIEN_ID": "UTIIZXXXXXX004AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/97/LEGIARTI000006889700.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-08-06",
+        "DATE_FIN": "2006-01-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 juin 1990 portant application de l'article R. 123-1 du code de    la route et fixant les conditions et modalités d'obtention du permis de    conduire au vu de diplômes ou de certificats professionnels de conducteur    routier",
+          "@c_titre_court": "Arrêté du 13 juin 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000159219"
+        },
+        {
+          "#text": "Arrêté du 13 juin 1990 portant application de l'article R. 123-1 du code de la route et fixant les conditions et modalités d'obtention du permis de conduire au vu de diplômes ou de certificats professionnels de conducteur routier",
+          "@c_titre_court": "Arrêté du 13 juin 1990",
+          "@debut": "1990-07-01",
+          "@fin": "2006-01-10",
+          "@id_txt": "LEGITEXT000006076044"
+        }
+      ],
+      "@cid": "JORFTEXT000000159219",
+      "@date_publi": "1990-06-28",
+      "@date_signature": "1990-06-13",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "ARRETE",
+      "@nor": "EQUS9000875A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-07-01",
+          "@etat": "MODIFIE",
+          "@fin": "1991-05-08",
+          "@id": "LEGIARTI000006889698",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-05-08",
+          "@etat": "MODIFIE",
+          "@fin": "2002-08-06",
+          "@id": "LEGIARTI000006889699",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-08-06",
+          "@etat": "ABROGE",
+          "@fin": "2006-01-10",
+          "@id": "LEGIARTI000006889700",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le permis de conduire ne peut être obtenu que si les conditions d'âge prévues par l'article R. 124-1 du code de la route sont satisfaites, soit :<br/>\n<br/>   - dix-huit ans pour les titulaires :<br/>\n<br/>      - d'un dipl<CB>me professionnel visé à l'article 1er ci-dessus, délivré sous l'autorité du ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, ou de l'attestation de réussite aux épreuves de ce dipl<CB>me, délivrée par le préfet ou, par délégation, par l'inspecteur d'académie directeur des services départementaux de l'éducation nationale ;<br/>\n<br/>      - du titre professionnel de conducteur routier (filières M 128 ou M 148), délivré sous l'autorité du ministre du travail, de l'emploi et de la formation professionnelle ;<br/>\n<br/>   - ou vingt et un ans pour les titulaires du titre professionnel de conducteur routier (filière M 138) délivré sous l'autorité du ministre du travail, de l'emploi et de la formation professionnelle.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2004-03-25 art. 1er : Application à Mayotte",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 2005-12-27 art. 7 JORF 10 janvier 2006",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°2002-1029 du 2 août 2002 - art. 9 () JORF 6 août 2002",
+        "@cidtexte": "JORFTEXT000000227146",
+        "@datesignatexte": "2002-08-02",
+        "@id": "LEGIARTI000006661734",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SOCF0211131D",
+        "@num": "9",
+        "@numtexte": "2002-1029",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la route R123-1",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la route R124-1",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006865112",
+      "ANCIEN_ID": "UPIYLXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/51/LEGIARTI000006865112.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1994-07-21",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 août 1986 relatif à l'autorisation de rejet d'effluents radioactifs liquides par le centre de production nucléaire de Chinon (tranches A 2, A 3, B 1 à B 4 et atelier des matériaux irradiés)",
+          "@c_titre_court": "Arrêté du 7 août 1986",
+          "@debut": "1994-07-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074838"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Traitement des effluents, des eaux des circuits primaires et secondaires",
+            "@debut": "1986-08-28",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006110394"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074838",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-08-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-08-28",
+          "@etat": "MODIFIE",
+          "@fin": "1994-07-21",
+          "@id": "LEGIARTI000006865111",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-07-21",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006865112",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'exploitant dispose d'installations de traitement des effluents permettant de traiter les effluents produits sur le site en conformité avec le dernier alinéa de l'article 2.<br/>\n<br/>   Tous les effluents des tranches A 2, A 3 et de l'atelier des matériaux irradiés sont stockés et contrôlés en laboratoire avant rejet. Les réservoirs de stockage pour contrôle de ces effluents avant rejet ont une capacité totale minimale de 1 000 mètres cubes répartie en au moins quatre réservoirs de 250 mètres cubes.<br/>\n<br/>   Le recyclage des effluents primaires doit être effectué suivant les modalités définies par l'Office de protection contre les rayonnements ionisants.<br/>\n<br/>   Tous les effluents et eaux des circuits secondaires des tranches B 1 à B 4 : purges et échantillonnages des générateurs de vapeur, eaux des salles des machines (purges, échantillonnages et exhaures) doivent pouvoir être traités avant rejet. Ils ne peuvent être rejetés qu'après transfert dans les réservoirs définis à l'article 4 et contrôle préalable en laboratoire.<br/>\n<br/>   Avant d'être dirigés vers les réservoirs mentionnés aux premier et troisième alinéas de l'article 4, tous les effluents et eaux des circuits secondaires sont filtrés. La filtration doit permettre d'arrêter toutes les particules de diamètre supérieur à :<br/>\n<br/>   5 microns pour les effluents résiduaires et de servitude ;<br/>\n<br/>   25 microns pour les purges des générateurs de vapeur non recyclées et les eaux des salles des machines.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-08-07 art. 2 et art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 74-1181 1974-12-31",
+        "@cidtexte": "JORFTEXT000000335020",
+        "@datesignatexte": "1974-12-31",
+        "@id": "JORFTEXT000000335020",
+        "@naturetexte": "DECRET",
+        "@numtexte": "74-1181",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°94-604 du 19 juillet 1994 - art. 22 (Ab) JORF 21 juillet 1994",
+        "@cidtexte": "JORFTEXT000000347730",
+        "@datesignatexte": "1994-07-19",
+        "@id": "LEGIARTI000006698918",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSP9400782D",
+        "@num": "22",
+        "@numtexte": "94-604",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

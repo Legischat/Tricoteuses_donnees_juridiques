@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006779105",
+      "ANCIEN_ID": "AGHAAXXXXXX079AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/77/91/LEGIARTI000006779105.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "79",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1890-10-08",
+        "DATE_FIN": "1988-03-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 7 octobre 1890 pris pour l'exécution de l'article 90 du code de commerce et de la loi du 28 mars 1885 sur les marchés à terme",
+          "@c_titre_court": "Décret du 7 octobre 1890",
+          "@debut": "1890-10-08",
+          "@fin": "1988-03-18",
+          "@id_txt": "LEGITEXT000006073430"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : De la cote des cours.",
+            "@debut": "1890-10-08",
+            "@fin": "1988-03-18",
+            "@id": "LEGISCTA000006107475"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006073430",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1890-10-07",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1890-10-08",
+          "@etat": "ABROGE",
+          "@fin": "1988-03-18",
+          "@id": "LEGIARTI000006779105",
+          "@num": "79",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le bulletin de la cote indique au moins le premier et le dernier cours ainsi que le plus haut et le plus bas des cours auxquels des marchés ont été conclus.<br/>\n<br/>   Il mentionne en outre les autres indications propres à intéresser le public et fait connaître, en particulier, les valeurs qui ne sont livrables que nominatives et les époques de jouissance déterminées comme il est dit à l'article 50.<br/>\n<br/>   Il peut également mentionner le cours moyen des effets cotés au comptant. Ce cours moyen est établi en prenant la moyenne entre le cours le plus haut et le cours le plus bas.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1890-10-07 art. 50",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-254 du 17 mars 1988 - art. 13 (Ab) JORF 18 mars 1988",
+        "@cidtexte": "JORFTEXT000000872094",
+        "@datesignatexte": "1988-03-17",
+        "@id": "LEGIARTI000006779792",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOT8820057D",
+        "@num": "13",
+        "@numtexte": "88-254",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce 90",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000005634379",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1885-03-28",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006891112",
+      "ANCIEN_ID": "UTITJXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/11/LEGIARTI000006891112.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-12-01",
+        "DATE_FIN": "2006-01-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 novembre 1992 relatif à l'indication    des vitesses maximales sur les véhicules automobiles",
+          "@c_titre_court": "Arrêté du 23 novembre 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000163897"
+        },
+        {
+          "#text": "Arrêté du 23 novembre 1992 relatif à l'indication des vitesses maximales sur les véhicules automobiles",
+          "@c_titre_court": "Arrêté du 23 novembre 1992",
+          "@debut": "1992-12-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006080387"
+        }
+      ],
+      "@cid": "JORFTEXT000000163897",
+      "@date_publi": "1992-11-24",
+      "@date_signature": "1992-11-23",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "ARRETE",
+      "@nor": "EQUS9201560A",
+      "@num_parution_jo": "0273"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-12-01",
+          "@etat": "MODIFIE",
+          "@fin": "2006-01-31",
+          "@id": "LEGIARTI000006891112",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-01-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006891113",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'un véhicule ou ensemble de véhicules tels que désignés à l'article R. 55 (véhicule articulé, train routier, train double) est astreint à porter un ou plusieurs disques indicateurs de vitesse en raison de ses caractéristiques propres, chaque disque doit répondre aux conditions suivantes :<br/>\n<br/>   - le diamètre du disque est d'au moins 20 centimètres ;<br/>\n<br/>   - la vitesse (exprimée en kilomètres par heure) est écrite en chiffres noirs sur fond blanc ;<br/>\n<br/>   - les chiffres ont 15 centimètres de hauteur.<br/>\n<br/>   Le disque peut être rapporté par collage ou rivetage ou tout autre moyen de fixation ou peut être peint ou poché sur la carrosserie.<br/>\n<br/>   Le disque indiquant la vitesse la plus faible doit être placé de façon bien visible à l'arrière et sur la partie inférieure gauche de la carrosserie si celle-ci le permet.<br/>\n<br/>   Dans chaque cas où le véhicule ou ensemble de véhicules est astreint à porter plus d'un disque, les centres de ceux-ci doivent être situés dans un même plan horizontal ou, en cas d'impossibilité, dans un même plan longitudinal vertical. Le disque indiquant la vitesse la plus élevée doit être placé, selon les cas, à droite ou au-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1992-11-23 art. 3",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté du 27 juin 2024 - art. 9 (V)",
+        "@cidtexte": "JORFTEXT000049871465",
+        "@datesignatexte": "2024-06-27",
+        "@id": "LEGIARTI000049877014",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TRER2414594A",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route R. 10 à R. 10-5",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

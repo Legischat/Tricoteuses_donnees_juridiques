@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006276707",
+      "ANCIEN_ID": "ANIBKXXXXXX011AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/67/LEGIARTI000006276707.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-01-01",
+        "DATE_FIN": "2018-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 mars 1986 relatif à la certification C.E.E. ou C.E. des appareils à pression",
+          "@c_titre_court": "Arrêté du 10 mars 1986",
+          "@debut": "1986-03-21",
+          "@fin": "2018-01-01",
+          "@id_txt": "LEGITEXT000006069366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Marquage des appareils.",
+            "@debut": "1986-03-21",
+            "@fin": "2018-01-01",
+            "@id": "LEGISCTA000006083443"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006069366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-03-10",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-21",
+          "@etat": "MODIFIE",
+          "@fin": "1989-12-28",
+          "@id": "LEGIARTI000006276705",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-12-28",
+          "@etat": "MODIFIE",
+          "@fin": "1995-01-01",
+          "@id": "LEGIARTI000006276706",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2018-01-01",
+          "@id": "LEGIARTI000006276707",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est interdit d'apposer sur un appareil à pression des marques ou inscriptions propres à créer une confusion avec les marques C.E.E. ou le marquage C.E. qui sont définis par la directive du 27 juillet 1976 susvisée ou par une directive particulière et en particulier avec les signes \"epsilon\", epsilon inversé \"3\" et \"e\" ou avec le sigle C.E..<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-05-05 art. 1 III JORF 10 juin 1994 en vigueur le 1er janvier 1995",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1994-05-05 art. 2 *prorogation*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté du 20 novembre 2017 - art. 34 (VD)",
+        "@cidtexte": "JORFTEXT000036128632",
+        "@datesignatexte": "2017-11-20",
+        "@id": "LEGIARTI000036131109",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TREP1723392A",
+        "@num": "34",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Directive CEE 1976-07-27 Conseil",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

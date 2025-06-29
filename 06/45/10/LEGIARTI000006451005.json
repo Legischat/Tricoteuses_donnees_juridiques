@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006451005",
+      "ANCIEN_ID": "PFEAXXXXXXX034AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/10/LEGIARTI000006451005.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "34",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-07-14",
+        "DATE_FIN": "2005-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°72-662 du 13 juillet 1972 PORTANT STATUT GENERAL DES MILITAIRES",
+          "@c_titre_court": "Loi n°72-662 du 13 juillet 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509303"
+        },
+        {
+          "#text": "Loi n° 72-662 du 13 juillet 1972 portant statut général des militaires (1).",
+          "@c_titre_court": "Loi n° 72-662 du 13 juillet 1972",
+          "@debut": "1972-07-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068452"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions statutaires concernant les militaires de carrière officiers et sous-officiers",
+            "@debut": "1972-07-14",
+            "@fin": "2005-07-01",
+            "@id": "LEGISCTA000006091548"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Dispositions générales.",
+              "@debut": "1972-07-14",
+              "@fin": "2005-07-01",
+              "@id": "LEGISCTA000006118262"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000509303",
+      "@date_publi": "1972-07-14",
+      "@date_signature": "1972-07-13",
+      "@nature": "LOI",
+      "@num": "72-662"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2005-07-01",
+          "@id": "LEGIARTI000006451005",
+          "@num": "34",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les promotions ont lieu de façon continue de grade à grade, à l'exception de la nomination des sous-officiers ou des officiers mariniers dans les corps d'officiers.<br/>\n<br/>   Il n'est pas prononcé de nomination à titre honoraire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°72-662 du 13 juillet 1972 - art. 40 (Ab)",
+        "@cidtexte": "JORFTEXT000000509303",
+        "@datesignatexte": "1972-07-13",
+        "@id": "LEGIARTI000006451012",
+        "@naturetexte": "LOI",
+        "@num": "40",
+        "@numtexte": "72-662",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 2005-270 2005-03-24 art. 92 21° JORF 26 mars 2005 en vigueur au 1er juillet 2005",
+        "@cidtexte": "JORFTEXT000000808186",
+        "@datesignatexte": "2005-03-24",
+        "@id": "JORFTEXT000000808186",
+        "@naturetexte": "LOI",
+        "@nortexte": "DEFX0400144L",
+        "@numtexte": "2005-270",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

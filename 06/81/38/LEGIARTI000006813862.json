@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006813862",
+      "ANCIEN_ID": "UBAXXXXXXXX4X335A03AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/81/38/LEGIARTI000006813862.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "A335-3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-09-28",
+        "DATE_FIN": "1989-02-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de l'urbanisme",
+          "@c_titre_court": "Code de l'urbanisme",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074075"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire - Arrêtés",
+            "@debut": "1977-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107991"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre  III : Aménagement foncier",
+              "@debut": "1977-01-18",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128546"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre  III : Dispositions financières",
+                "@debut": "1977-01-18",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143245"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "CHAPITRE V : Aide à la création et à l'aménagement d'espaces verts.",
+                  "@debut": "1977-01-18",
+                  "@fin": "1989-02-04",
+                  "@id": "LEGISCTA000006158491"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074075",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-01-18",
+          "@etat": "MODIFIE",
+          "@fin": "1977-09-28",
+          "@id": "LEGIARTI000006813861",
+          "@num": "A335-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1977-09-28",
+          "@etat": "ABROGE",
+          "@fin": "1989-02-04",
+          "@id": "LEGIARTI000006813862",
+          "@num": "A335-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>       La décision attributive de subvention est établie par le préfet, conformément à la décision d'utilisation du préfet de région.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1989-01-06 art. 12 JORF 4 février 1989",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 77-38 1977-01-03 JORF 18 JANVIER 1977",
+        "@cidtexte": "JORFTEXT000000515331",
+        "@datesignatexte": "1977-01-03",
+        "@id": "JORFTEXT000000515331",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-38",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

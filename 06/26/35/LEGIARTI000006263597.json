@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006263597",
+      "ANCIEN_ID": "RJHHCXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/26/35/LEGIARTI000006263597.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-05-04",
+        "DATE_FIN": "2009-10-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 2 mai 2007  relatif à l'appellation d'origine contrôlée « Malepère »",
+          "@c_titre_court": "Décret du 2 mai 2007",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000274682"
+        },
+        {
+          "#text": "Décret du 2 mai 2007 relatif à l'appellation d'origine contrôlée \" Malepère \"",
+          "@c_titre_court": "Décret du 2 mai 2007",
+          "@debut": "2007-05-04",
+          "@fin": "2009-10-31",
+          "@id_txt": "LEGITEXT000006056094"
+        }
+      ],
+      "@cid": "JORFTEXT000000274682",
+      "@date_publi": "2007-05-04",
+      "@date_signature": "2007-05-02",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "DECRET",
+      "@nor": "AGRP0700665D"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2007-05-04",
+          "@etat": "ABROGE",
+          "@fin": "2009-10-31",
+          "@id": "LEGIARTI000006263597",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002077999",
+          "@num": "8",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les vins sont vinifiés conformément aux usages locaux.<br/>\n<br/>   Les vins proviennent de l'assemblage de raisins ou de vins issus de deux au moins des cépages prévus à l'article 4, dont le cépage principal qui doit représenter au moins 50 % de cet assemblage et l'un des cépages complémentaires.<br/>\n<br/>   Les vins ne peuvent présenter, après fermentation, une teneur en sucres fermentescibles supérieure à 3 grammes par litre.<br/>\n<br/>   La fermentation malo-lactique est achevée pour les vins rouges.<br/>\n<br/>   En application de l'article D. 641-91 du code rural et sauf dispositions contraires prises par un arrêté de campagne, les vins ne doivent pas dépasser un titre alcoométrique volumique total maximum de 14 %.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural D641-91",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2007-05-02 art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2009-1338 du 28 octobre 2009 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000021214105",
+        "@datesignatexte": "2009-10-28",
+        "@id": "LEGIARTI000021227881",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRT0919706D",
+        "@num": "2",
+        "@numtexte": "2009-1338",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

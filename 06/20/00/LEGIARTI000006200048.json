@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006200048",
+      "ANCIEN_ID": "AKHFIXXXXXX014AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/00/LEGIARTI000006200048.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1996-10-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 96-610 du 5 juillet 1996 modifiant le décret no 91-1197 du 27    novembre 1991 organisant la profession d'avocat",
+          "@c_titre_court": "Décret n°96-610 du 5 juillet 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000377537"
+        },
+        {
+          "#text": "Décret n°96-610 du 5 juillet 1996 modifiant le décret n° 91-1197 du 27 novembre 1991 organisant la profession d'avocat",
+          "@c_titre_court": "Décret n°96-610 du 5 juillet 1996",
+          "@debut": "1996-10-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005621325"
+        }
+      ],
+      "@cid": "JORFTEXT000000377537",
+      "@date_publi": "1996-07-09",
+      "@date_signature": "1996-07-05",
+      "@ministere": "MINISTERE DE LA JUSTICE",
+      "@nature": "DECRET",
+      "@nor": "JUSC9620465D",
+      "@num": "96-610"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-10-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006200048",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les articles 243 et 244 du décret du 27 novembre 1991 susvisé sont abrogés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 91-1197 1991-11-27 art. 243, art. 244",
+        "@cidtexte": "JORFTEXT000000356568",
+        "@datesignatexte": "1991-11-27",
+        "@id": "JORFTEXT000000356568",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX9110304D",
+        "@numtexte": "91-1197",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°91-1197 du 27 novembre 1991 - art. 243 (Ab)",
+        "@cidtexte": "JORFTEXT000000356568",
+        "@datesignatexte": "1991-11-27",
+        "@id": "LEGIARTI000006923038",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX9110304D",
+        "@num": "243",
+        "@numtexte": "91-1197",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°91-1197 du 27 novembre 1991 - art. 244 (Ab)",
+        "@cidtexte": "JORFTEXT000000356568",
+        "@datesignatexte": "1991-11-27",
+        "@id": "LEGIARTI000006923039",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX9110304D",
+        "@num": "244",
+        "@numtexte": "91-1197",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

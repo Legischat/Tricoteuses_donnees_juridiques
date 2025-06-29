@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006783992",
+      "ANCIEN_ID": "SSIAKZXXXXX006AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/39/LEGIARTI000006783992.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1991-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 décembre 1985 relatif à la tarification des risques d'accidents du travail et de maladies professionnelles applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.",
+          "@c_titre_court": "Arrêté du 16 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "1996-01-01",
+          "@id_txt": "LEGITEXT000006073792"
+        }
+      ],
+      "@cid": "LEGITEXT000006073792",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-12-16",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1991-01-01",
+          "@id": "LEGIARTI000006783992",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1996-01-01",
+          "@id": "LEGIARTI000006783993",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le nombre de salariés d'un établissement est égal [*calcul des effectifs*] à la moyenne des nombres de salariés présents au dernier jour de chaque trimestre civil de la dernière année connue.<br/>\n    Le nombre de salariés d'une entreprise qui exploite plusieurs établissements est égal à la somme des nombres de salariés de chaque établissement déterminés dans les conditions définies ci-dessus.<br/>\n    Toutefois, ne doivent pas être pris en compte pour déterminer les effectifs d'un établissement ou d'une entreprise, d'une part, les catégories de salariés suivantes : les élèves et étudiants visés par le décret n° 85-1045 du 27 septembre 1985 relatif à la couverture des accidents du travail des élèves et étudiants, les artistes du spectacle, membres des professions médicales, journalistes et assimilés, visés respectivement par les arrêtés des 24 janvier 1975 modifié, 3 février 1975 et 5 février 1975, d'autre part, les salariés des établissements ou entreprises dont les activités relèvent du bâtiment et des travaux publics.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1975-01-24",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1975-02-03",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1975-02-05",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-1045 1985-09-27",
+        "@cidtexte": "JORFTEXT000000336815",
+        "@datesignatexte": "1985-09-27",
+        "@id": "JORFTEXT000000336815",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1045",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

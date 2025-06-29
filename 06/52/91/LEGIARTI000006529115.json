@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006529115",
+      "ANCIEN_ID": "PPEDFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/91/LEGIARTI000006529115.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1999-03-21",
+        "DATE_FIN": "2003-07-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°83-499 du 17 juin 1983 REPRESENTATION AU SENAT DES FRANCAIS ETABLIS HORS DE FRANCE",
+          "@c_titre_court": "Loi n°83-499 du 17 juin 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880589"
+        },
+        {
+          "#text": "Loi organique n° 83-499 du 17 juin 1983 relative à la représentation au Sénat des Français établis hors de France.",
+          "@c_titre_court": "Loi organique  n° 83-499 du 17 juin 1983",
+          "@debut": "1983-06-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068793"
+        }
+      ],
+      "@cid": "JORFTEXT000000880589",
+      "@date_publi": "1983-06-18",
+      "@date_signature": "1983-06-17",
+      "@nature": "LOI",
+      "@num": "83-499"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-03-21",
+          "@etat": "MODIFIE",
+          "@fin": "2003-07-31",
+          "@id": "LEGIARTI000006529115",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-07-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006529116",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les Français établis hors de France sont représentés au Sénat par douze sénateurs.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°83-499 du 17 juin 1983 - art. 5 (V)",
+        "@cidtexte": "JORFTEXT000000880589",
+        "@datesignatexte": "1983-06-17",
+        "@id": "LEGIARTI000006529121",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "83-499",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°99-209 du 19 mars 1999 - art. 229 () JORF 21 mars 1999",
+        "@cidtexte": "JORFTEXT000000393606",
+        "@datesignatexte": "1999-03-19",
+        "@id": "LEGIARTI000006386103",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9800159L",
+        "@num": "229",
+        "@numtexte": "99-209",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006493836",
+      "ANCIEN_ID": "PJEEAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/38/LEGIARTI000006493836.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-05-31",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°72-439 du 30 mai 1972 RELATIVE AU CONTENTIEUX DES DOMMAGES DE GUERRE",
+          "@c_titre_court": "Loi n°72-439 du 30 mai 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509060"
+        },
+        {
+          "#text": "Loi n° 72-439 du 30 mai 1972 relative au contentieux des dommages de guerre (1).",
+          "@c_titre_court": "Loi n° 72-439 du 30 mai 1972",
+          "@debut": "1972-05-31",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068439"
+        }
+      ],
+      "@cid": "JORFTEXT000000509060",
+      "@date_publi": "1972-05-31",
+      "@date_signature": "1972-05-30",
+      "@nature": "LOI",
+      "@num": "72-439"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-05-31",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006493836",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les attributions d'appel conférées par les articles 54 et 55 de la loi n° 46-2389 du 28 octobre 1946 sur les dommages de guerre modifiée aux commissions régionales et à la commission nationale des dommages de guerre sont transférées au Conseil d'Etat. Les attributions en premier ressort conférées par l'article 55 de la même loi aux commissions régionales sont transférées aux commissions d'arrondissement ; les attributions de la commission spéciale de la batellerie instituée par l'article 55, alinéa 2, de la même loi sont transférées à la commission d'arrondissement de Paris.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n° 46-2389 du 28 octobre 1946",
+        "@cidtexte": "JORFTEXT000000315096",
+        "@datesignatexte": "1946-10-28",
+        "@id": "JORFTEXT000000315096",
+        "@naturetexte": "LOI",
+        "@numtexte": "46-2389",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n° 72-439 du 30 mai 1972 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000509060",
+        "@datesignatexte": "1972-05-30",
+        "@id": "LEGIARTI000006493837",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "72-439",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006490587",
+      "ANCIEN_ID": "PJAXXXXXXXX5X479000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/05/LEGIARTI000006490587.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "479",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1810-03-02",
+        "DATE_FIN": "1959-03-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code pénal (ancien)",
+          "@c_titre_court": "CODE PENAL",
+          "@debut": "1810-02-12",
+          "@fin": "1994-03-01",
+          "@id_txt": "LEGITEXT000006071029"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1810-02-12",
+            "@fin": "1994-03-01",
+            "@id": "LEGISCTA000006093904"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Dispositions générales.",
+              "@debut": "1810-03-02",
+              "@fin": "1994-03-01",
+              "@id": "LEGISCTA000006119344"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071029",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1810-03-02",
+          "@etat": "ABROGE",
+          "@fin": "1959-03-02",
+          "@id": "LEGIARTI000006490587",
+          "@num": "479",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Abrogé par l'article 8 de l'ordonnance n° 58-1297 du 23 décembre 1958.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de l'artisanat - art. 42 (Ab)",
+        "@cidtexte": "LEGITEXT000006075116",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023098426",
+        "@naturetexte": "CODE",
+        "@num": "42",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1810-02-20",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1810-02-20 promulguée le 2 mars 1810",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 54-1215 1954-12-06 art. 7 JORF 8 décembre 1954",
+        "@cidtexte": "JORFTEXT000000314182",
+        "@datesignatexte": "1954-12-06",
+        "@id": "JORFTEXT000000314182",
+        "@naturetexte": "LOI",
+        "@numtexte": "54-1215",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 45-2241 1945-10-04 art. 15 JORF 5 octobre 1945",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 58-1297 1958-12-23 art. 8 JORF 24 décembre 1958 en vigueur le 2 mars 1959",
+        "@cidtexte": "JORFTEXT000000516995",
+        "@datesignatexte": "1958-12-23",
+        "@id": "JORFTEXT000000516995",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1297",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance n°58-1297 du 23 décembre 1958 - art. 33, v. init.",
+        "@cidtexte": "JORFTEXT000000516995",
+        "@datesignatexte": "1958-12-23",
+        "@id": "JORFARTI000001697019",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "33",
+        "@numtexte": "58-1297",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

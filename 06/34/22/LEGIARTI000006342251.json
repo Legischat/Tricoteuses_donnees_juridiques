@@ -1,0 +1,124 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006342251",
+      "ANCIEN_ID": "MCHDEXXXXXX034AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/22/LEGIARTI000006342251.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "34",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-12-01",
+        "DATE_FIN": "1996-05-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-1265 du 29 novembre 1985 RELATIF A L'ORGANISATION ADMINISTRATIVE ET FINANCIERE DES ETABLISSEMENTS PUBLICS LOCAUX D'ENSEIGNEMENT ET DE FORMATION PROFESSIONNELLE AGRICOLES",
+          "@c_titre_court": "Décret n°85-1265 du 29 novembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000328393"
+        },
+        {
+          "#text": "Décret n°85-1265 du 29 novembre 1985 relatif à l'organisation administrative et financière des établissements publics locaux d'enseignement et de formation professionnelle agricoles.",
+          "@c_titre_court": "Décret n°85-1265 du 29 novembre 1985",
+          "@debut": "1985-12-01",
+          "@fin": "1996-05-15",
+          "@id_txt": "LEGITEXT000006064766"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : Organisation administrative des établissements publics locaux d'enseignement et de formation professionnelle agricoles",
+            "@debut": "1985-12-01",
+            "@fin": "1996-05-17",
+            "@id": "LEGISCTA000006085482"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "SECTION 3 : Les centres d'enseignement et de formation.",
+              "@debut": "1985-12-01",
+              "@fin": "1996-05-15",
+              "@id": "LEGISCTA000006115316"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000328393",
+      "@date_publi": "1985-12-01",
+      "@date_signature": "1985-11-29",
+      "@nature": "DECRET",
+      "@num": "85-1265"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-12-01",
+          "@etat": "ABROGE",
+          "@fin": "1996-05-15",
+          "@id": "LEGIARTI000006342251",
+          "@num": "34",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le conseil de discipline prend ses décisions dans les conditions prévues pour les délibérations du conseil d'administration. Le vote [*modalités*] a lieu à bulletin secret.<br/>\n    Les membres du conseil de discipline sont soumis à l'obligation du secret en ce qui concerne tous les faits et documents dont ils ont eu connaissance en cette qualité.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural R811-40",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 83-663 1983-07-22",
+        "@cidtexte": "JORFTEXT000000320195",
+        "@datesignatexte": "1983-07-22",
+        "@id": "JORFTEXT000000320195",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-663",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°96-405 du 26 avril 1996 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000193233",
+        "@datesignatexte": "1996-04-26",
+        "@id": "LEGIARTI000006605057",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD9600279D",
+        "@num": "3",
+        "@numtexte": "96-405",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. R*811-40 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006598643",
+        "@naturetexte": "CODE",
+        "@num": "R*811-40",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

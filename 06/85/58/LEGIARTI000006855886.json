@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855886",
+      "ANCIEN_ID": "UPHMCXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/58/LEGIARTI000006855886.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-12-12",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°75-1136 du 11 décembre 1975 CONSERVATOIRE DE L'ESPACE LITTORAL ET DES RIVAGES LACUSTRES",
+          "@c_titre_court": "Décret n°75-1136 du 11 décembre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000679523"
+        },
+        {
+          "#text": "Décret n°75-1136 du 11 décembre 1975 pris en application de la loi n° 75-602 du 10 juillet 1975 portant création du conservatoire de l'espace littoral et des rivages lacustres.",
+          "@c_titre_court": "Décret n°75-1136 du 11 décembre 1975",
+          "@debut": "1975-12-12",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006062263"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Conseil de rivage",
+            "@debut": "1975-12-12",
+            "@fin": "1989-11-04",
+            "@id": "LEGISCTA000006109600"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000679523",
+      "@date_publi": "1975-12-12",
+      "@date_signature": "1975-12-11",
+      "@nature": "DECRET",
+      "@num": "75-1136"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-12-12",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006855886",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les conseils de rivage sont au nombre de cinq :<br/>\n    Le conseil du rivage méditerranéen (régions Languedoc-Roussillon et Provence-Côte-d'Azur) ;<br/>\n    Le conseil de rivage de la Corse (région Corse) ;<br/>\n    Le conseil des rivages atlantiques (régions Aquitaine, Poitou-Charente, Pays de la Loire, Bretagne) ;<br/>\n    Le conseil des rivages de la Manche et de la mer du Nord (régions Basse-Normandie, Haute-Normandie, Picardie, Nord-Pas-de-Calais) ;<br/>\n    Le conseil des rivages des lacs.<br/>\n    Les lacs situés en totalité ou en partie dans les cantons côtiers sont rattachés aux conseils de rivage maritimes correspondants.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural R243-22",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "LOI 75-602 1975-07-10",
+        "@cidtexte": "JORFTEXT000000700418",
+        "@datesignatexte": "1975-07-10",
+        "@id": "JORFTEXT000000700418",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-602",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°89-805 du 27 octobre 1989 - art. 2 (V) JORF 4 novembre 1989",
+        "@cidtexte": "JORFTEXT000000336191",
+        "@datesignatexte": "1989-10-27",
+        "@id": "LEGIARTI000006605371",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRME8961350D",
+        "@num": "2",
+        "@numtexte": "89-805",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

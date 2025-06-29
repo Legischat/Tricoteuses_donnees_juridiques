@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006871798",
+      "ANCIEN_ID": "UQIECXXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/17/LEGIARTI000006871798.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-08-12",
+        "DATE_FIN": "2009-02-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 juillet 1989 RELATIF A LA MISE EN OEUVRE DU PLAN DE CHASSE",
+          "@c_titre_court": "Arrêté du 31 juillet 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000480040"
+        },
+        {
+          "#text": "Arrêté du 31 juillet 1989 relatif à la mise en oeuvre du plan de chasse et relatif au marquage du grand gibier",
+          "@c_titre_court": "Arrêté du 31 juillet 1989",
+          "@debut": "2006-08-12",
+          "@fin": "2009-02-08",
+          "@id_txt": "LEGITEXT000006059103"
+        },
+        {
+          "#text": "Arrêté du 31 juillet 1989 relatif à la mise en oeuvre du plan de chasse et relatif au marquage du grand gibier",
+          "@c_titre_court": "Arrêté du 31 juillet 1989",
+          "@debut": "1989-08-08",
+          "@fin": "2006-08-12",
+          "@id_txt": "LEGITEXT000006059102"
+        }
+      ],
+      "@cid": "JORFTEXT000000480040",
+      "@date_publi": "1989-08-08",
+      "@date_signature": "1989-07-31",
+      "@nature": "ARRETE",
+      "@nor": "PRME8961362A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-08-08",
+          "@etat": "MODIFIE",
+          "@fin": "2006-08-12",
+          "@id": "LEGIARTI000006871797",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-08-12",
+          "@etat": "ABROGE",
+          "@fin": "2009-02-08",
+          "@id": "LEGIARTI000006871798",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 20 décembre 1979 relatif à l'application du plan de chasse est abrogé. Toutefois pour la campagne de chasse 1989-1990, la demande individuelle de plan de chasse pourra être souscrite conformément au formulaire annexé à l'arrêté du 20 décembre 1979 et, par dérogation aux dispositions de l'article 5 du présent arrêté, les dispositifs de marquage pourront comporter les lettres prévues par l'arrêté du 20 décembre 1979.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-12-20",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1989-07-31 art. 5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2006-07-12 art. 1 JORF 12 août 2006",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 22 janvier 2009 - art. 10",
+        "@cidtexte": "JORFTEXT000020218992",
+        "@datesignatexte": "2009-01-22",
+        "@id": "LEGIARTI000020220384",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVN0815378A",
+        "@num": "10",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

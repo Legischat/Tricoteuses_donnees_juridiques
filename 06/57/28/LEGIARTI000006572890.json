@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006572890",
+      "ANCIEN_ID": "ADHNIXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/28/LEGIARTI000006572890.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-12-08",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 91-1234 du 6 décembre 1991 relatif aux abattoirs privés de type industriel",
+          "@c_titre_court": "Décret n° 91-1234 du 6 décembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000332837"
+        },
+        {
+          "#text": "Décret n°91-1234 du 6 décembre 1991 relatif aux abattoirs privés de type industriel",
+          "@c_titre_court": "Décret n°91-1234 du 6 décembre 1991",
+          "@debut": "1991-12-08",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006067539"
+        }
+      ],
+      "@cid": "JORFTEXT000000332837",
+      "@date_publi": "1991-12-08",
+      "@date_signature": "1991-12-06",
+      "@nature": "DECRET",
+      "@nor": "AGRG9100976D",
+      "@num": "91-1234"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-12-08",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006572890",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tout abattoir privé de type industriel doit, pour être autorisé :<br/>\n<br/>   1. Satisfaire aux prescriptions édictées par la loi du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement et à ses textes d'application ;<br/>\n<br/>   2. Avoir un équipement mécanique, des installations, un matériel et un mode de fonctionnement correspondant à des normes fixées par arrêté du ministre chargé de l'agriculture ;<br/>\n<br/>   3. Faire l'objet d'une inscription au plan d'équipement en abattoirs approuvé par le ministre chargé de l'économie, des finances et du budget, le ministre de l'intérieur et le ministre chargé du commerce et de l'artisanat.<br/>\n<br/>   L'autorisation d'ouverture est accordée par le préfet.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 76-663 1976-07-19",
+        "@cidtexte": "JORFTEXT000000684771",
+        "@datesignatexte": "1976-07-19",
+        "@id": "JORFTEXT000000684771",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-663",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 63° JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

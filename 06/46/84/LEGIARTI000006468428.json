@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006468428",
+      "ANCIEN_ID": "ACEBFXXXXXX018AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/84/LEGIARTI000006468428.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-01-01",
+        "DATE_FIN": "2005-05-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 29 juin 1935 RELATIVE AU REGLEMENT DU PRIX DE VENTE DES FONDS DE COMMERCE",
+          "@c_titre_court": "Loi du 29 juin 1935",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000325211"
+        },
+        {
+          "#text": "Loi du 29 juin 1935 relative au règlement du prix de vente des fonds de commerce",
+          "@c_titre_court": "Loi du 29 juin 1935",
+          "@debut": "1935-06-30",
+          "@fin": "2005-05-07",
+          "@id_txt": "LEGITEXT000006070991"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dispositions diverses.",
+            "@debut": "1935-06-30",
+            "@fin": "2005-05-07",
+            "@id": "LEGISCTA000006092515"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000325211",
+      "@date_publi": "1935-06-30",
+      "@date_signature": "1935-06-29",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1935-06-30",
+          "@etat": "MODIFIE",
+          "@fin": "2002-01-01",
+          "@id": "LEGIARTI000006468427",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-05-07",
+          "@id": "LEGIARTI000006468428",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Quiconque contreviendra à l'interdiction prononcée à l'article précédent sera puni d'un emprisonnement de trois mois et d'une amende qui ne pourra excéder 3000 euros ou de l'une de ces deux peines seulement [*sanctions pénales*].<br/>\n<br/>   En cas de récidive, les peines seront portées au double.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1935-06-29 art. 17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002",
+        "@cidtexte": "JORFTEXT000000219672",
+        "@datesignatexte": "2000-09-19",
+        "@id": "LEGIARTI000006716442",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000106R",
+        "@num": "3",
+        "@numtexte": "2000-916",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2005-428 du 6 mai 2005 - art. 3 () JORF 7 mai 2005",
+        "@cidtexte": "JORFTEXT000000789598",
+        "@datesignatexte": "2005-05-06",
+        "@id": "LEGIARTI000006917418",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0500020R",
+        "@num": "3",
+        "@numtexte": "2005-428",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

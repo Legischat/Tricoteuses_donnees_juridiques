@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607720",
+      "ANCIEN_ID": "RAIFEXXXXXX005AAXXXXXXCA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/77/LEGIARTI000006607720.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5 ter",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-09-26",
+        "DATE_FIN": "1995-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 juillet 1978 relatif aux modalités de l'identification permanente et généralisée du cheptel bovin",
+          "@c_titre_court": "Arrêté du 24 juillet 1978",
+          "@debut": "1978-08-13",
+          "@fin": "1995-07-01",
+          "@id_txt": "LEGITEXT000006071454"
+        }
+      ],
+      "@cid": "LEGITEXT000006071454",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1978-07-24",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-09-26",
+          "@etat": "ABROGE",
+          "@fin": "1995-07-01",
+          "@id": "LEGIARTI000006607720",
+          "@num": "5 ter",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La dépose, la dégradation volontaire, la modification ou la falsification du repère supportant le numéro d'identification nationale attribuée à un bovin vivant sont interdites.<br/>\n<br/>   Le repère doit être rendu inutilisable dès sa dépose dans un abattoir ou lors de l'équarrissage.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-08-31 art. 1 JORF 26 septembre 1987",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 1995-06-14 art. 14 JORF 24 juin 1995 en vigueur le 1er juillet 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 78-415 1978-03-23",
+        "@cidtexte": "JORFTEXT000000874630",
+        "@datesignatexte": "1978-03-23",
+        "@id": "JORFTEXT000000874630",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-415",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006451930",
+      "ANCIEN_ID": "PFFAAXXXXXX061AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/19/LEGIARTI000006451930.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "61",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-02-29",
+        "DATE_FIN": "1994-02-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature",
+          "@c_titre_court": "Ordonnance n° 58-1270 du 22 décembre 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339259"
+        },
+        {
+          "#text": "Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.",
+          "@c_titre_court": "Ordonnance n° 58-1270 du 22 décembre 1958",
+          "@debut": "1958-12-23",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069212"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre VII : Discipline",
+            "@debut": "1958-12-23",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006091604"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section III : Discipline des magistrats du parquet.",
+              "@debut": "1958-12-23",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118279"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000339259",
+      "@date_publi": "1958-12-23",
+      "@date_signature": "1958-12-22",
+      "@nature": "ORDONNANCE",
+      "@num": "58-1270"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-07-19",
+          "@etat": "MODIFIE",
+          "@fin": "1992-02-29",
+          "@id": "LEGIARTI000006451929",
+          "@num": "61",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-02-29",
+          "@etat": "ABROGE",
+          "@fin": "1994-02-08",
+          "@id": "LEGIARTI000006451930",
+          "@num": "61",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La durée du mandat des membres titulaires et suppléants de la commission de discipline est de quatre ans non renouvelable.<br/>\n<br/>   Lorsque le siège de l'un des membres visés au 1° ou au 2° de l'article 60 devient vacant par suite de décès, d'empêchement définitif, de démission ou en cas de perte de la qualité au titre de laquelle il a été élu, ce siège est pourvu par le suppléant qui achève le mandat du titulaire. Le suppléant peut remplacer le titulaire momentanément empêché. Ils ne peuvent siéger ensemble.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°58-1270 du 22 décembre 1958 - art. 60 (M)",
+        "@cidtexte": "JORFTEXT000000339259",
+        "@datesignatexte": "1958-12-22",
+        "@id": "LEGIARTI000006451927",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "60",
+        "@numtexte": "58-1270",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi organique 92-189 1992-02-25 art. 61 JORF 29 février 1992",
+        "@cidtexte": "JORFTEXT000000710866",
+        "@datesignatexte": "1992-02-25",
+        "@id": "JORFTEXT000000710866",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "JUSX9100065L",
+        "@numtexte": "92-189",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°94-101 du 5 février 1994 - art. 24 (V) JORF 8 février 1994",
+        "@cidtexte": "JORFTEXT000000546788",
+        "@datesignatexte": "1994-02-05",
+        "@id": "LEGIARTI000006450919",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "JUSX9300123L",
+        "@num": "24",
+        "@numtexte": "94-101",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

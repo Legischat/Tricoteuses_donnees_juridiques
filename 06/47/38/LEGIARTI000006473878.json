@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006473878",
+      "ANCIEN_ID": "ACECAXXXXXX055AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/47/38/LEGIARTI000006473878.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "55",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1803-03-16",
+        "DATE_FIN": "1964-01-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 16 mars 1803 contenant organisation du notariat",
+          "@c_titre_court": "Loi du 16 mars 1803",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000882738"
+        },
+        {
+          "#text": "Loi contenant organisation du notariat (loi 25 ventôse an XI)",
+          "@c_titre_court": "Loi du 16 mars 1803",
+          "@debut": "1803-03-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070994"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Régime du notariat",
+            "@debut": "1803-03-16",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006092887"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section IV : Garde, transmission, table des minutes et recouvrements.",
+              "@debut": "1803-03-16",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118875"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000882738",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1803-03-16",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1803-03-16",
+          "@etat": "ABROGE",
+          "@fin": "1964-01-15",
+          "@id": "LEGIARTI000006473878",
+          "@num": "55",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de suppression d'un office de notaire, les minutes et répertoires sont remis par le dernier titulaire ou par ses ayants-droit, dans le délai de deux mois à compter de la suppression, au notaire désigné par décret pris sur le rapport du garde des sceaux, ministre de la justice.<br/>\n<br/>   Ce notaire est l'un de ceux résidant dans le ressort du même tribunal d'instance ou des tribunaux d'instance limitrophes dépendant territorialement de la même cour d'appel.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 64-26 1964-01-09 art. 7 JORF 15 janvier 1964",
+        "@cidtexte": "JORFTEXT000000327699",
+        "@datesignatexte": "1964-01-09",
+        "@id": "JORFTEXT000000327699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "64-26",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°71-942 du 26 novembre 1971 - art. 30 (V)",
+        "@cidtexte": "JORFTEXT000000694554",
+        "@datesignatexte": "1971-11-26",
+        "@id": "LEGIARTI000006920373",
+        "@naturetexte": "DECRET",
+        "@num": "30",
+        "@numtexte": "71-942",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1803-03-16 Bulletin des Lois, 3è S, B. 258, n° 2440",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

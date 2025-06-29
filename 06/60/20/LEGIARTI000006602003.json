@@ -1,0 +1,139 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602003",
+      "ANCIEN_ID": "RAHBEXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/20/LEGIARTI000006602003.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-07-30",
+        "DATE_FIN": "1981-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°63-752 du 27 juillet 1963 PORTANT REFORME DU REGIME FINANCIER ET COMPTABLE DES CHAMBRES D'AGRICULTURE",
+          "@c_titre_court": "Décret n°63-752 du 27 juillet 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000490858"
+        },
+        {
+          "#text": "Décret n°63-752 du 27 juillet 1963 portant réforme du régime financier et comptable des chambres d'agriculture",
+          "@c_titre_court": "Décret n°63-752 du 27 juillet 1963",
+          "@debut": "1963-07-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061146"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Etablissements et services d'utilité agricole.",
+            "@debut": "1963-07-30",
+            "@fin": "1981-03-27",
+            "@id": "LEGISCTA000006098492"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000490858",
+      "@date_publi": "1963-07-30",
+      "@date_signature": "1963-07-27",
+      "@nature": "DECRET",
+      "@num": "63-752"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-30",
+          "@etat": "ABROGE",
+          "@fin": "1981-03-27",
+          "@id": "LEGIARTI000006602003",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les opérations financières et comptables des établissements et services d'utilité agricole, à l'exception de ceux visés à l'article 16, sont exécutées par le président de la chambre d'agriculture et par l'agent comptable de la chambre d'agriculture dans les conditions définies à l'article 507 du code rural.<br/>\n<br/>   L'agent comptable est personnellement et pécuniairement responsable du recouvrement des recettes prévues au budget, du paiement des dépenses dans la limite des crédits régulièrement ouverts ainsi que de la conservation des fonds et valeurs provenant de la gestion des établissements et services d'utilité agricole ou utilisés pour cette gestion. Il est en outre responsable de la sincérité des écritures.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°63-752 du 27 juillet 1963 - art. 16 (Ab)",
+        "@cidtexte": "JORFTEXT000000490858",
+        "@datesignatexte": "1963-07-27",
+        "@id": "LEGIARTI000006602007",
+        "@naturetexte": "DECRET",
+        "@num": "16",
+        "@numtexte": "63-752",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°63-752 du 27 juillet 1963 - art. 21 (Ab)",
+        "@cidtexte": "JORFTEXT000000490858",
+        "@datesignatexte": "1963-07-27",
+        "@id": "LEGIARTI000006602013",
+        "@naturetexte": "DECRET",
+        "@num": "21",
+        "@numtexte": "63-752",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-277 1981-03-18 art. 2 JORF 27 mars 1981",
+        "@cidtexte": "JORFTEXT000000685109",
+        "@datesignatexte": "1981-03-18",
+        "@id": "JORFTEXT000000685109",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-277",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté du 27 juillet 1963 - art. 41 (Ab)",
+        "@cidtexte": "LEGITEXT000006071433",
+        "@datesignatexte": "1963-07-27",
+        "@id": "LEGIARTI000006607034",
+        "@naturetexte": "ARRETE",
+        "@num": "41",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 27 juillet 1963 - art. 43 (Ab)",
+        "@cidtexte": "LEGITEXT000006071433",
+        "@datesignatexte": "1963-07-27",
+        "@id": "LEGIARTI000006607036",
+        "@naturetexte": "ARRETE",
+        "@num": "43",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural 507",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural nouveau livre V",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

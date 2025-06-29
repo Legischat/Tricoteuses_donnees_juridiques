@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006344682",
+      "ANCIEN_ID": "MCIBBXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/46/LEGIARTI000006344682.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-09-02",
+        "DATE_FIN": "1997-02-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 juillet 1987 RELATIF AU MODELE DE CERTIFICAT DE DECES",
+          "@c_titre_court": "Arrêté du 16 juillet 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000472426"
+        },
+        {
+          "#text": "Arrêté du 16 juillet 1987 relatif au modèle de certificat de décès",
+          "@c_titre_court": "Arrêté du 16 juillet 1987",
+          "@debut": "1987-09-02",
+          "@fin": "1997-02-05",
+          "@id_txt": "LEGITEXT000006057697"
+        }
+      ],
+      "@cid": "JORFTEXT000000472426",
+      "@date_publi": "1987-09-02",
+      "@date_signature": "1987-07-16",
+      "@nature": "ARRETE",
+      "@nor": "ASEP8701091A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-09-02",
+          "@etat": "ABROGE",
+          "@fin": "1997-02-05",
+          "@id": "LEGIARTI000006344682",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le certificat de décès sur lequel le médecin atteste de la réalité et de la constance de la mort doit être conforme au modèle figurant en annexe du présent arrêté (1).<br/>\n<br/>\n<br/>   (1) : ces certificats sont disponibles auprès des directions départementales des affaires sanitaires et sociales.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code civil - art. 78 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006421228",
+        "@naturetexte": "CODE",
+        "@num": "78",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "arrêté 1996-12-24 art. 6 jorf 5 février 1997",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

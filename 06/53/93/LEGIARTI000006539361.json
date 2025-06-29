@@ -1,0 +1,77 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006539361",
+      "ANCIEN_ID": "PPIYGXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/93/LEGIARTI000006539361.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-05-02",
+        "DATE_FIN": "1993-02-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 avril 1991 PORTANT REORGANISATION DES SERVICES CENTRAUX DE LA DIRECTION DU TRESOR",
+          "@c_titre_court": "Arrêté du 30 avril 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000684882"
+        },
+        {
+          "#text": "Arrêté du 30 avril 1991 portant réorganisation des services centraux de la direction du Trésor",
+          "@c_titre_court": "Arrêté du 30 avril 1991",
+          "@debut": "1991-05-02",
+          "@fin": "1993-02-12",
+          "@id_txt": "LEGITEXT000006059590"
+        }
+      ],
+      "@cid": "JORFTEXT000000684882",
+      "@date_publi": "1991-05-02",
+      "@date_signature": "1991-04-30",
+      "@nature": "ARRETE",
+      "@nor": "ECOX9110286A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-05-02",
+          "@etat": "ABROGE",
+          "@fin": "1993-02-12",
+          "@id": "LEGIARTI000006539361",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 15 juin 1987 relatif à l'organisation de la direction du Trésor est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-06-15",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1993-02-11 art. 5 JORF 12 février 1993",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

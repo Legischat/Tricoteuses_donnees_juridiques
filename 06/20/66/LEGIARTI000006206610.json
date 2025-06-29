@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006206610",
+      "ANCIEN_ID": "AMIBMXXXXXX127AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/66/LEGIARTI000006206610.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "127",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-07-29",
+        "DATE_FIN": "1995-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 avril 1984 SUR LES MARCHES DES ORGANISMES DE SECURITE SOCIALE DU REGIME GENERAL",
+          "@c_titre_court": "Arrêté du 4 avril 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000292842"
+        },
+        {
+          "#text": "Arrêté du 4 avril 1984 portant règlement sur les marchés des organismes de sécurité sociale du régime général",
+          "@c_titre_court": "Arrêté du 4 avril 1984",
+          "@debut": "1984-05-12",
+          "@fin": "1995-09-01",
+          "@id_txt": "LEGITEXT000005631340"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Règlement et financement des marchés.",
+            "@debut": "1984-05-12",
+            "@fin": "1995-09-01",
+            "@id": "LEGISCTA000006083231"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Mesures facilitant le financement bancaire des marchés",
+              "@debut": "1984-05-12",
+              "@fin": "1995-09-01",
+              "@id": "LEGISCTA000006113700"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Cession ou nantissement des créances résultant des marchés.",
+                "@debut": "1984-05-12",
+                "@fin": "1995-09-01",
+                "@id": "LEGISCTA000006133132"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000292842",
+      "@date_publi": "1984-05-12",
+      "@date_signature": "1984-04-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-07-29",
+          "@etat": "ABROGE",
+          "@fin": "1995-09-01",
+          "@id": "LEGIARTI000006206610",
+          "@num": "127",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le marché indique la nature et le montant des prestations que le titulaire envisage de confier à des sous-traitants bénéficiant du paiement direct. Ce montant est déduit du montant du marché pour déterminer le montant maximum de la créance que le titulaire est autorisé à céder ou à donner en nantissement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-07-29 art. 33, art. 34 JORF 29 juillet 1988",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1988-07-29 art. 44 *modalités d'application - date d'effet*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté du 9 mai 1995 - art., v. init.",
+        "@cidtexte": "JORFTEXT000000536790",
+        "@datesignatexte": "1995-05-09",
+        "@id": "JORFARTI000001940594",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SPSS9501561A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L64",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

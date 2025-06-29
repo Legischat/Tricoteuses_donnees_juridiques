@@ -1,0 +1,156 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006841386",
+      "ANCIEN_ID": "UFAXXXXXXXX2X221R015XXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/13/LEGIARTI000006841386.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R221-15",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2001-06-01",
+        "DATE_FIN": "2016-04-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la route",
+          "@c_titre_court": "Code de la route.",
+          "@debut": "2001-05-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074228"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "2001-05-27",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108688"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Le conducteur.",
+              "@debut": "2001-06-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006129090"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Permis de conduire.",
+                "@debut": "2001-06-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143852"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Délivrance et catégories.",
+                  "@debut": "2001-06-01",
+                  "@fin": "2016-04-29",
+                  "@id": "LEGISCTA000006159562"
+                },
+                {
+                  "#text": "Chapitre Ier : Vérification d'aptitude, délivrance et catégories",
+                  "@debut": "2016-04-29",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000032468260"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074228",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-06-01",
+          "@etat": "MODIFIE",
+          "@fin": "2016-04-29",
+          "@id": "LEGIARTI000006841386",
+          "@num": "R221-15",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2016-04-29",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000032468179",
+          "@num": "R221-15",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Ne sont pas soumis à l'obligation d'être titulaires du permis de conduire les conducteurs de véhicules à moteur électrique d'une puissance au plus égale à 1 kilowatt.<br/>\n<br/>   Un arrêté du ministre chargé des transports fixe le mode de détermination de la puissance pour l'application du présent article.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2001-251 2001-03-22 JORF 25 mars 2001",
+        "@cidtexte": "JORFTEXT000000578193",
+        "@datesignatexte": "2001-03-22",
+        "@id": "JORFTEXT000000578193",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS0100055D",
+        "@numtexte": "2001-251",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code de la route - art. R126 (Ab)",
+        "@cidtexte": "LEGITEXT000006074947",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006875713",
+        "@naturetexte": "CODE",
+        "@num": "R126",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code de la route R126 (al. 1)",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la route. - art. R221-21 (V)",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006841393",
+        "@naturetexte": "CODE",
+        "@num": "R221-21",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

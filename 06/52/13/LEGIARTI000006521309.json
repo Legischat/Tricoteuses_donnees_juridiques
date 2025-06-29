@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006521309",
+      "ANCIEN_ID": "PLHAGXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/13/LEGIARTI000006521309.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-12-01",
+        "DATE_FIN": "1993-09-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°87-161 du 5 mars 1987 FIXANT LES CONDITIONS GENERALES D'ATTRIBUTION ET DE RETRAIT DE LA QUALITE DE SPORTIF DE HAUT NIVEAU",
+          "@c_titre_court": "Décret n°87-161 du 5 mars 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687328"
+        },
+        {
+          "#text": "Décret n°87-161 du 5 mars 1987 fixant les conditions générales d'attribution et de retrait de la qualité de sportif de haut niveau",
+          "@c_titre_court": "Décret n°87-161 du 5 mars 1987",
+          "@debut": "1987-12-01",
+          "@fin": "1993-09-02",
+          "@id_txt": "LEGITEXT000006065850"
+        }
+      ],
+      "@cid": "JORFTEXT000000687328",
+      "@date_publi": "1987-03-12",
+      "@date_signature": "1987-03-05",
+      "@nature": "DECRET",
+      "@nor": "PRMJ8760005D",
+      "@num": "87-161"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-12-01",
+          "@etat": "ABROGE",
+          "@fin": "1993-09-02",
+          "@id": "LEGIARTI000006521309",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent décret entrera en vigueur le premier jour du neuvième mois suivant celui de sa publication au Journal officiel.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-610 1984-07-16 art. 26",
+        "@cidtexte": "JORFTEXT000000693187",
+        "@datesignatexte": "1984-07-16",
+        "@id": "JORFTEXT000000693187",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-610",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 87-161 1987-03-05 art. 8 entrée en vigueur",
+        "@cidtexte": "JORFTEXT000000687328",
+        "@datesignatexte": "1987-03-05",
+        "@id": "JORFTEXT000000687328",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMJ8760005D",
+        "@numtexte": "87-161",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 93-1034 1993-08-31 art. 24 JORF 2 septembre 1993",
+        "@cidtexte": "JORFTEXT000000713066",
+        "@datesignatexte": "1993-08-31",
+        "@id": "JORFTEXT000000713066",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MJSK9370153D",
+        "@numtexte": "93-1034",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

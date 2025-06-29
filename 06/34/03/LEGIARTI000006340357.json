@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006340357",
+      "ANCIEN_ID": "MCEBWXXXXXX026AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/03/LEGIARTI000006340357.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "26",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1905-12-11",
+        "DATE_FIN": "2021-08-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+          "@c_titre_court": "LOI du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000508749"
+        },
+        {
+          "#text": "Loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat.",
+          "@c_titre_court": "Loi du 9 décembre 1905",
+          "@debut": "1905-12-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070169"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Police des cultes.",
+            "@debut": "1905-12-11",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085400"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000508749",
+      "@date_publi": "1905-12-11",
+      "@date_signature": "1905-12-09",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1905-12-11",
+          "@etat": "TRANSFERE",
+          "@fin": "2021-08-26",
+          "@id": "LEGIARTI000006340357",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est interdit de tenir des réunions politiques dans les locaux servant habituellement à l'exercice d'un culte.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 9 décembre 1905 - art. 35-1 (V)",
+        "@cidtexte": "JORFTEXT000000508749",
+        "@datesignatexte": "1905-12-09",
+        "@id": "LEGIARTI000043972517",
+        "@naturetexte": "LOI",
+        "@num": "35-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "LOI n°2021-1109 du 24 août 2021 - art. 84",
+        "@cidtexte": "JORFTEXT000043964778",
+        "@datesignatexte": "2021-08-24",
+        "@id": "LEGIARTI000043968853",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX2030083L",
+        "@num": "84",
+        "@numtexte": "2021-1109",
+        "@sens": "cible",
+        "@typelien": "TRANSFERE"
+      }
+    ]
+  }
+}

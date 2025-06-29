@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652473",
+      "ANCIEN_ID": "SBAXXXXXXXX5X06500AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/24/LEGIARTI000006652473.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "65",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1926-12-15",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 4 : Des obligations de l'armateur envers le marin",
+            "@debut": "1926-12-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101380"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations",
+              "@debut": "1926-12-15",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123911"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 4 : Des paiements d'avances et acomptes - Des délégations sur salaires - De la restitution des avances et des délégations",
+                "@debut": "1926-12-15",
+                "@fin": "2010-12-01",
+                "@id": "LEGISCTA000006139987"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-12-15",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006652473",
+          "@num": "65",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il y a lieu à restitution des avances et acomptes perçus qui excèdent, au moment du décompte, le montant des salaires ou parts dus effectivement au marin.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307 du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des transports - art. L5544-54 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023079437",
+        "@naturetexte": "CODE",
+        "@num": "L5544-54",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

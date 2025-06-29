@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006629096",
+      "ANCIEN_ID": "RIHANXXXXXX059AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/90/LEGIARTI000006629096.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "59",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-01-07",
+        "DATE_FIN": "1995-05-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-364 du 12 mars 1973 RELATIF A L'APPLICATION DU DECRET DU 18-04-1939 FIXANT LE REGIME DES MATERIELS DE GUERRE,ARMES ET MUNITIONS",
+          "@c_titre_court": "Décret n°73-364 du 12 mars 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000495105"
+        },
+        {
+          "#text": "Décret n°73-364 du 12 mars 1973 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions",
+          "@c_titre_court": "Décret n°73-364 du 12 mars 1973",
+          "@debut": "1993-01-07",
+          "@fin": "1995-05-07",
+          "@id_txt": "LEGITEXT000006062093"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Acquisition et détention par des résidents d'un Etat membre et transferts entre les Etats membres de la Communauté de certaines armes et munitions",
+            "@debut": "1993-01-07",
+            "@fin": "1995-05-07",
+            "@id": "LEGISCTA000006100046"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Acquisition et détention par les résidents d'un autre Etat membre.",
+              "@debut": "1993-01-07",
+              "@fin": "1995-05-07",
+              "@id": "LEGISCTA000006122872"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000495105",
+      "@date_publi": "1973-03-30",
+      "@date_signature": "1973-03-12",
+      "@nature": "DECRET",
+      "@num": "73-364"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-01-07",
+          "@etat": "ABROGE",
+          "@fin": "1995-05-07",
+          "@id": "LEGIARTI000006629096",
+          "@num": "59",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un résident d'un autre Etat membre peut être autorisé à acquérir des armes ou des munitions de la première (§ 1 et 2) ou de la quatrième catégorie, dans les conditions générales fixées au titre III, à condition de justifier pour ces armes :<br/>\n<br/>   - de l'accord préalable à cette acquisition de son Etat membre de résidence ;<br/>\n<br/>   - du permis pour les transférer vers son Etat de résidence.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1939-04-18",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°73-364 du 12 mars 1973 - art. 61 (Ab)",
+        "@cidtexte": "JORFTEXT000000495105",
+        "@datesignatexte": "1973-03-12",
+        "@id": "LEGIARTI000006629099",
+        "@naturetexte": "DECRET",
+        "@num": "61",
+        "@numtexte": "73-364",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°93-17 du 6 janvier 1993 - art. 19 () JORF 7 janvier 1993",
+        "@cidtexte": "JORFTEXT000000543724",
+        "@datesignatexte": "1993-01-06",
+        "@id": "LEGIARTI000006925117",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFC9202298D",
+        "@num": "19",
+        "@numtexte": "93-17",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°95-589 du 6 mai 1995 - art. 124 (VT) JORF 7 mai 1995",
+        "@cidtexte": "JORFTEXT000000736335",
+        "@datesignatexte": "1995-05-06",
+        "@id": "LEGIARTI000006629563",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFC9501482D",
+        "@num": "124",
+        "@numtexte": "95-589",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

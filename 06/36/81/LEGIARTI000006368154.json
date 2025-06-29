@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006368154",
+      "ANCIEN_ID": "MSHAIXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/81/LEGIARTI000006368154.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-03-24",
+        "DATE_FIN": "1987-10-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-864 du 5 septembre 1973 PORTANT CREATION D'UN FONDS SOCIAL GERE PAR L'IRCANTEC",
+          "@c_titre_court": "Décret n°73-864 du 5 septembre 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000859898"
+        },
+        {
+          "#text": "Décret n°73-864 du 5 septembre 1973 portant création d'un fonds social géré par l'institution de retraite complémentaire des agents non titulaires de l'Etat et des collectivités publiques.",
+          "@c_titre_court": "Décret n°73-864 du 5 septembre 1973",
+          "@debut": "1978-09-08",
+          "@fin": "1987-10-02",
+          "@id_txt": "LEGITEXT000006062133"
+        }
+      ],
+      "@cid": "JORFTEXT000000859898",
+      "@date_publi": "1973-09-08",
+      "@date_signature": "1973-09-05",
+      "@nature": "DECRET",
+      "@num": "73-864"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-09-08",
+          "@etat": "MODIFIE",
+          "@fin": "1979-03-24",
+          "@id": "LEGIARTI000006368153",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-03-24",
+          "@etat": "ABROGE",
+          "@fin": "1987-10-02",
+          "@id": "LEGIARTI000006368154",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les services de la caisse nationale de prévoyance instruisent les dossiers dans les conditions définies par le conseil d'administration.<br/>\n<br/>   Le conseil d'administration peut, pour les actions visées à l'article 3, paragraphe A, donner délégation à une commission désignée par ses soins et composée en nombre égal de représentants de l'Etat et des personnels assujettis et, pour les secours individuels urgents, à son président ou à un de ses membres habilité à cet effet. Il est rendu compte au conseil d'administration des décisions prises en application de cette délégation.<br/>\n<br/>   Pour les actions visées à l'article 3, paragraphe B, le conseil d'administration statue sur les projets présentés. Il peut donner délégation à la commission désignée ci-dessus afin de procéder aux études préalables et de suivre, conformément à ses directives, la constitution des dossiers et la réalisation des opérations retenues.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-864 1973-09-05 ART. 3 PAR. A, PAR. B",
+        "@cidtexte": "JORFTEXT000000859898",
+        "@datesignatexte": "1973-09-05",
+        "@id": "JORFTEXT000000859898",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-864",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 79-234 1979-03-16 ART. 2 JORF 24 MARS 1979",
+        "@cidtexte": "JORFTEXT000000702507",
+        "@datesignatexte": "1979-03-16",
+        "@id": "JORFTEXT000000702507",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-234",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 87-805 1987-09-30 art. 8 jorf 2 octobre 1987",
+        "@cidtexte": "JORFTEXT000000522612",
+        "@datesignatexte": "1987-09-30",
+        "@id": "JORFTEXT000000522612",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ASES8700865D",
+        "@numtexte": "87-805",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

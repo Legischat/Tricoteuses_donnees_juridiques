@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006625786",
+      "ANCIEN_ID": "RHHDKXXXXXX019AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/57/LEGIARTI000006625786.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-02-27",
+        "DATE_FIN": "2010-05-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 9 janvier 1852 fixant les conditions générales d'exercice de la pêche maritime",
+          "@c_titre_court": "Décret du 9 janvier 1852",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000296130"
+        },
+        {
+          "#text": "Décret du 9 janvier 1852 sur l'exercice de la pêche maritime",
+          "@c_titre_court": "Décret du 9 janvier 1852",
+          "@debut": "1971-01-01",
+          "@fin": "2010-05-08",
+          "@id_txt": "LEGITEXT000006071755"
+        }
+      ],
+      "@cid": "JORFTEXT000000296130",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1852-01-09",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1996-02-27",
+          "@id": "LEGIARTI000006625785",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-02-27",
+          "@etat": "ABROGE",
+          "@fin": "2010-05-08",
+          "@id": "LEGIARTI000006625786",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les poursuites auront lieu à la diligence du ministère public, sans préjudice du droit de la partie civile ; elles pourront être intentées à la diligence des administrateurs des affaires maritimes officiers du corps technique et administratif des affaires maritimes et inspecteurs des affaires maritimes. Ces officiers et inspecteurs, en cas de poursuites par eux faites, ont droit d'exposer l'affaire devant le tribunal et d'être entendus à l'appui de leurs conclusions.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°96-151 du 26 février 1996 - art. 11 () JORF 27 février 1996",
+        "@cidtexte": "JORFTEXT000000558548",
+        "@datesignatexte": "1996-02-26",
+        "@id": "LEGIARTI000006878271",
+        "@naturetexte": "LOI",
+        "@nortexte": "EQUX9500055L",
+        "@num": "11",
+        "@numtexte": "96-151",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2010-462 du 6 mai 2010 - art. 4",
+        "@cidtexte": "JORFTEXT000022176680",
+        "@datesignatexte": "2010-05-06",
+        "@id": "LEGIARTI000022195076",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRS1007353R",
+        "@num": "4",
+        "@numtexte": "2010-462",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

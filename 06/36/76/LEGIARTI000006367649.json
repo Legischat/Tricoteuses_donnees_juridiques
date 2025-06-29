@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006367649",
+      "ANCIEN_ID": "MSEAWXXXXXX030AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/76/LEGIARTI000006367649.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1948-01-07",
+        "DATE_FIN": "2022-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°47-1497 du 13 août 1947 DE FINANCES",
+          "@c_titre_court": "Loi n°47-1497 du 13 août 1947",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874885"
+        },
+        {
+          "#text": "Loi n° 47-1497 du 13 août 1947 portant autorisation de percevoir les impôts, droits, produits et revenus publics, fixant l'évaluation des voies et moyens du budget général pour l'exercice 1947 et relative à diverses dispositions d'ordre financier.",
+          "@c_titre_court": "Loi n° 47-1497 du 13 août 1947",
+          "@debut": "1947-08-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068028"
+        }
+      ],
+      "@cid": "JORFTEXT000000874885",
+      "@date_publi": "1947-08-14",
+      "@date_signature": "1947-08-13",
+      "@nature": "LOI",
+      "@num": "47-1497"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1948-01-07",
+          "@etat": "ABROGE",
+          "@fin": "2022-03-01",
+          "@id": "LEGIARTI000006367649",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'attribution aux fonctionnaires titulaires, agents auxiliaires et contractuels de l'Etat, à quelque titre et sous quelque dénomination que ce soit d'indemnités soumises ou non à retenue pour pensions, allocations diverses, autres que celles prévues par les articles 31 à 37 de la loi du 19 octobre 1946, portant statut général des fonctionnaires, parts de fonds communs et rémunérations accessoires, ne peut être effectuée qu'en vertu d'une loi spéciale ou d'un article de loi de finances.<br/>\n<br/>   Les avantages énumérés au présent article et accordés en vertu de textes en vigueur à la date de la promulgation de la présente loi cesseront rétroactivement d'être servis à la date de la mise en application du reclassement général de fonctionnaires.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 46-2294 1946-10-19 art. 31 à art. 37",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 47-1497 1947-08-13 JORF 14 août 1947 rectificatif JORF 14 novembre 1947",
+        "@cidtexte": "JORFTEXT000000874885",
+        "@datesignatexte": "1947-08-13",
+        "@id": "JORFTEXT000000874885",
+        "@naturetexte": "LOI",
+        "@numtexte": "47-1497",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 48-24 1948-01-06 art. 4 JORF 7 janvier 1948 rectificatif JORF 9 janvier 1948",
+        "@cidtexte": "JORFTEXT000000879824",
+        "@datesignatexte": "1948-01-06",
+        "@id": "JORFTEXT000000879824",
+        "@naturetexte": "LOI",
+        "@numtexte": "48-24",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2021-1574 du 24 novembre 2021 - art. 3",
+        "@cidtexte": "JORFTEXT000044411525",
+        "@datesignatexte": "2021-11-24",
+        "@id": "LEGIARTI000044415246",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "TFPF2121004R",
+        "@num": "3",
+        "@numtexte": "2021-1574",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273812",
+      "ANCIEN_ID": "FAECDXXXXXX026AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/38/LEGIARTI000006273812.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "26",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-12-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-1152 du 30 décembre 1982 DE FINANCES RECTIFICATIVE POUR 1982",
+          "@c_titre_court": "Loi n°82-1152 du 30 décembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000704427"
+        },
+        {
+          "#text": "Loi n° 82-1152 du 30 décembre 1982 de finances rectificative pour 1982",
+          "@c_titre_court": "Loi n° 82-1152 du 30 décembre 1982",
+          "@debut": "1982-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068729"
+        }
+      ],
+      "@cid": "JORFTEXT000000704427",
+      "@date_publi": "1982-12-31",
+      "@date_signature": "1982-12-30",
+      "@nature": "LOI",
+      "@num": "82-1152"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006273812",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002072121",
+          "@num": "26",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En 1983, les ressources attribuées aux départements de la région d'Ile-de-France et à l'établissement public régional au titre des articles 34, 35 et 36 de la loi n° 64-707 du 10 juillet 1964 précitée sont réparties entre ces collectivités proportionnellement aux sommes qu'elles ont perçues l'année précédente dans la limite de 105 p. 100 des attributions reçues à ce titre.<br/>\n<br/>   L'excédent éventuel est réparti entre les collectivités concernées par le comité du fonds d'égalisation des charges départementales créé par l'article 36 de la loi du 10 juillet 1964 précitée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 64-707 1964-07-10 ART. 34, ART. 35, ART. 36",
+        "@cidtexte": "JORFTEXT000000319965",
+        "@datesignatexte": "1964-07-10",
+        "@id": "JORFTEXT000000319965",
+        "@naturetexte": "LOI",
+        "@numtexte": "64-707",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°64-707 du 10 juillet 1964 - art. 35 (Ab)",
+        "@cidtexte": "JORFTEXT000000319965",
+        "@datesignatexte": "1964-07-10",
+        "@id": "LEGIARTI000006363167",
+        "@naturetexte": "LOI",
+        "@num": "35",
+        "@numtexte": "64-707",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 82-1152 1982-12-30 Finances rectificative pour 1982 JORF 31 DECEMBRE 1982",
+        "@cidtexte": "JORFTEXT000000704427",
+        "@datesignatexte": "1982-12-30",
+        "@id": "JORFTEXT000000704427",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1152",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

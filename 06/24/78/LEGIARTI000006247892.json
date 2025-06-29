@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006247892",
+      "ANCIEN_ID": "SRIEFXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/24/78/LEGIARTI000006247892.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-05-01",
+        "DATE_FIN": "2013-08-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 novembre 2005 portant application de l'article L. 5232-1 du code de la santé publique relatif aux baladeurs musicaux",
+          "@c_titre_court": "Arrêté du 8 novembre 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000635948"
+        },
+        {
+          "#text": "Arrêté du 8 novembre 2005 portant application de l'article L. 5232-1 du code de la santé publique relatif aux baladeurs musicaux",
+          "@c_titre_court": "Arrêté du 8 novembre 2005",
+          "@debut": "2006-05-01",
+          "@fin": "2013-08-04",
+          "@id_txt": "LEGITEXT000006052970"
+        }
+      ],
+      "@cid": "JORFTEXT000000635948",
+      "@date_publi": "2005-12-28",
+      "@date_signature": "2005-11-08",
+      "@ministere": "MINISTERE DE LA SANTE ET DES SOLIDARITES",
+      "@nature": "ARRETE",
+      "@nor": "SANP0524596A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-05-01",
+          "@etat": "ABROGE",
+          "@fin": "2013-08-04",
+          "@id": "LEGIARTI000006247892",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002070011",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La puissance sonore maximale de sortie mentionnée à l'article L. 5232-1 du code de la santé publique s'applique à l'ensemble constitué par les éléments du baladeur ; elle s'applique aux assemblages d'éléments de baladeur.<br/>\n<br/>   Elle ne peut engendrer un niveau de pression acoustique supérieur à 100 décibels SPL mesuré dans les conditions prévues par les normes mentionnées à l'annexe I.<br/>\n<br/>   Pour tenir compte de l'association du lecteur avec des composants provenant de différents fabricants ou bien de conception différente vendus séparément, la tension de sortie maximale du lecteur doit être inférieure ou égale à 150 mV mesurée dans les conditions prévues par la norme mentionnée au 2° de l'annexe I.<br/>\n<br/>   Une déclaration de conformité aux exigences des alinéas précédents du présent article est présentée aux autorités chargées du contrôle. Elle est établie et signée par le fabricant ou l'importateur ou, à défaut, par la personne responsable de la mise sur le marché. Cette déclaration contient en particulier le nom et l'adresse du signataire, la marque commerciale et le type du baladeur et une description générale de celui-ci, complétée par des indications techniques précisant les moyens qui permettent le respect de ces exigences. Elle est complétée, le cas échéant, par une liste de modèles ou gammes d'écouteurs déclarés compatibles pour garantir le respect de la puissance sonore maximale fixée au présent article et qui répondent à cet effet à la norme citée au 2° de l'annexe I.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2005-11-08 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 25 juillet 2013 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000027799648",
+        "@datesignatexte": "2013-07-25",
+        "@id": "LEGIARTI000027803452",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AFSP1320001A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L5232-1",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006690337",
+        "@naturetexte": "CODE",
+        "@num": "L5232-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

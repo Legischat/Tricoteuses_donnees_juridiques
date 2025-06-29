@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006728573",
+      "ANCIEN_ID": "AFHEUXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/85/LEGIARTI000006728573.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1967-03-22",
+        "DATE_FIN": "1990-06-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-226 du 21 mars 1967 TAUX EFFECTIF MOYEN",
+          "@c_titre_court": "Décret n°67-226 du 21 mars 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000852428"
+        },
+        {
+          "#text": "Décret n°67-226 du 21 mars 1967 relatif à l'application de l'article 1er de la loi n° 66-1010 du 28 décembre 1966",
+          "@c_titre_court": "Décret n°67-226 du 21 mars 1967",
+          "@debut": "1967-03-22",
+          "@fin": "1990-06-26",
+          "@id_txt": "LEGITEXT000006061424"
+        }
+      ],
+      "@cid": "JORFTEXT000000852428",
+      "@date_publi": "1967-03-22",
+      "@date_signature": "1967-03-21",
+      "@nature": "DECRET",
+      "@num": "67-226"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-03-22",
+          "@etat": "ABROGE",
+          "@fin": "1990-06-26",
+          "@id": "LEGIARTI000006728573",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les taux maximum admis par le conseil national du crédit pour les opérations réglementées par cet organisme seront publiés au Journal officiel de la République française [*publication*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°66-1010 du 28 décembre 1966 - art. 1 (M)",
+        "@cidtexte": "JORFTEXT000000880208",
+        "@datesignatexte": "1966-12-28",
+        "@id": "LEGIARTI000006507929",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "66-1010",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 67-226 1967-03-21 JORF 22 mars 1967 rectificatif JORF 24 mars 1967",
+        "@cidtexte": "JORFTEXT000000852428",
+        "@datesignatexte": "1967-03-21",
+        "@id": "JORFTEXT000000852428",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-226",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°90-506 du 25 juin 1990 - art. 5 (Ab) JORF 26 juin 1990",
+        "@cidtexte": "JORFTEXT000000159821",
+        "@datesignatexte": "1990-06-25",
+        "@id": "LEGIARTI000006568654",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOT9013359D",
+        "@num": "5",
+        "@numtexte": "90-506",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

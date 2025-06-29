@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006708552",
+      "ANCIEN_ID": "SPHN6XXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/85/LEGIARTI000006708552.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-10-03",
+        "DATE_FIN": "1992-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-935 du 24 septembre 1973 RELATIF A LA CREATION, A LA TRANSFORMATION ET A LA SUPPRESSION DES ETABLISSEMENTS D'HOSPITALISATION PUBLICS",
+          "@c_titre_court": "Décret n°73-935 du 24 septembre 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000860584"
+        },
+        {
+          "#text": "Décret n°73-935 du 24 septembre 1973 relatif à la création, à la transformation et à la suppression des établissements d'hospitalisation publics.",
+          "@c_titre_court": "Décret n°73-935 du 24 septembre 1973",
+          "@debut": "1973-10-03",
+          "@fin": "1992-03-27",
+          "@id_txt": "LEGITEXT000006062146"
+        }
+      ],
+      "@cid": "JORFTEXT000000860584",
+      "@date_publi": "1973-10-03",
+      "@date_signature": "1973-09-24",
+      "@nature": "DECRET",
+      "@num": "73-935"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-10-03",
+          "@etat": "ABROGE",
+          "@fin": "1992-03-27",
+          "@id": "LEGIARTI000006708552",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les établissements d'hospitalisation publics sont transformés et supprimés dans les formes prévues à l'article 1er ci-dessus.<br/>\n    Lorsqu'un établissement est supprimé, les legs et donations qui ont une affectation déterminée sont reportés sur l'établissement de rattachement avec la même affectation.<br/>\n    L'acte de suppression prévoit la destination du surplus de l'actif.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 70-1318 1970-12-31",
+        "@cidtexte": "JORFTEXT000000874228",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000874228",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1318",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°73-935 du 24 septembre 1973 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000860584",
+        "@datesignatexte": "1973-09-24",
+        "@id": "LEGIARTI000006708551",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "73-935",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°92-272 du 26 mars 1992 - art. 3 (Ab) JORF 27 mars 1992",
+        "@cidtexte": "JORFTEXT000000527238",
+        "@datesignatexte": "1992-03-26",
+        "@id": "LEGIARTI000006711674",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANH9200333D",
+        "@num": "3",
+        "@numtexte": "92-272",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

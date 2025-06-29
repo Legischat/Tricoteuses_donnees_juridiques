@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006359301",
+      "ANCIEN_ID": "MFHAJXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/93/LEGIARTI000006359301.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-04-14",
+        "DATE_FIN": "1994-05-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-261 du 22 février 1985 RELATIF A LA REPARTITION DU PRODUIT DES AMENDES DE POLICE EN MATIERE DE CIRCULATION ROUTIERE",
+          "@c_titre_court": "Décret n°85-261 du 22 février 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000332486"
+        },
+        {
+          "#text": "Décret n°85-261 du 22 février 1985 relatif à la répartition du produit des amendes de police en matière de circulation routière",
+          "@c_titre_court": "Décret n°85-261 du 22 février 1985",
+          "@debut": "1985-02-24",
+          "@fin": "1994-05-12",
+          "@id_txt": "LEGITEXT000006064916"
+        }
+      ],
+      "@cid": "JORFTEXT000000332486",
+      "@date_publi": "1985-02-24",
+      "@date_signature": "1985-02-22",
+      "@nature": "DECRET",
+      "@num": "85-261"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-02-24",
+          "@etat": "MODIFIE",
+          "@fin": "1988-04-14",
+          "@id": "LEGIARTI000006359300",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-04-14",
+          "@etat": "ABROGE",
+          "@fin": "1994-05-12",
+          "@id": "LEGIARTI000006359301",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   \" Les sommes allouées en application des articles qui précèdent sont utilisées au financement des opérations suivantes :<br/>\n<br/>   \" 1° Pour les transports en commun :<br/>\n<br/>   \" a) Aménagements et équipements améliorant la sécurité des usagers, l'accueil du public, l'accès aux réseaux, les liaisons entre réseaux et avec les autres modes de transport ;<br/>\n<br/>   \" b) Aménagements de voirie, équipements destinés à une meilleure exploitation des réseaux ;<br/>\n<br/>   \" c) Equipements assurant l'information des usagers, l'évaluation du trafic et le contrôle des titres de transport.<br/>\n<br/>   \" 2° Pour la circulation routière :<br/>\n<br/>   \" a) Etude et mise en oeuvre de plans de circulation ;<br/>\n<br/>   \" b) Création de parcs de stationnement ;<br/>\n<br/>   \" c) Installation et développement de signaux lumineux et de la signalisation horizontale ;<br/>\n<br/>   \" d) Aménagement de carrefours ;<br/>\n<br/>   \" e) Différenciation du trafic ;<br/>\n<br/>   \" f) Travaux commandés par les exigences de la sécurité routière. \"<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°85-261 du 22 février 1985 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000332486",
+        "@datesignatexte": "1985-02-22",
+        "@id": "LEGIARTI000006359297",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "85-261",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 88-351 1988-04-12 art. 1 JORF 14 avril 1988",
+        "@cidtexte": "JORFTEXT000000315730",
+        "@datesignatexte": "1988-04-12",
+        "@id": "JORFTEXT000000315730",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TRST8800166D",
+        "@numtexte": "88-351",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°94-366 du 10 mai 1994 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000000730012",
+        "@datesignatexte": "1994-05-10",
+        "@id": "LEGIARTI000006343082",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTB9400125D",
+        "@num": "9",
+        "@numtexte": "94-366",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

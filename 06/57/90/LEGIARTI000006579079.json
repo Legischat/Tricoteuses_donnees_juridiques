@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579079",
+      "ANCIEN_ID": "ADHQTXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/90/LEGIARTI000006579079.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1994-01-01",
+        "DATE_FIN": "2006-06-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 93-1429 du 31 décembre 1993 relatif au dépôt légal",
+          "@c_titre_court": "Décret n°93-1429 du 31 décembre 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000545429"
+        },
+        {
+          "#text": "Décret n°93-1429 du 31 décembre 1993 relatif au dépôt légal",
+          "@c_titre_court": "Décret n°93-1429 du 31 décembre 1993",
+          "@debut": "1994-01-01",
+          "@fin": "2011-05-27",
+          "@id_txt": "LEGITEXT000006082758"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Dispositions générales.",
+            "@debut": "1994-01-01",
+            "@fin": "2011-05-27",
+            "@id": "LEGISCTA000006098239"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000545429",
+      "@date_publi": "1994-01-01",
+      "@date_signature": "1993-12-31",
+      "@ministere": "MINISTERE DE LA CULTURE ET DE LA FRANCOPHONIE",
+      "@nature": "DECRET",
+      "@nor": "MCCB9300385D",
+      "@num": "93-1429"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2006-06-15",
+          "@id": "LEGIARTI000006579079",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-06-15",
+          "@etat": "ABROGE",
+          "@fin": "2011-05-27",
+          "@id": "LEGIARTI000006579080",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les organismes dépositaires fixent les conditions de traitement documentaire après avis du conseil scientifique du dépôt légal.<br/>\n<br/>   Pour l'application du 3° de l'article 2 et de l'article 6 de la loi du 20 juin 1992 susvisée, ils définissent les modalités d'exercice de la consultation des documents par les chercheurs et passent les conventions nécessaires avec les titulaires de droits après avis du conseil scientifique du dépôt légal. Les projets de convention sont communiqués aux ministres chargés de la culture et de la communication.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 92-546 1992-06-20",
+        "@cidtexte": "JORFTEXT000000723108",
+        "@datesignatexte": "1992-06-20",
+        "@id": "JORFTEXT000000723108",
+        "@naturetexte": "LOI",
+        "@nortexte": "MENX9100198L",
+        "@numtexte": "92-546",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 92-546 1992-06-20 art. 6",
+        "@cidtexte": "JORFTEXT000000723108",
+        "@datesignatexte": "1992-06-20",
+        "@id": "JORFTEXT000000723108",
+        "@naturetexte": "LOI",
+        "@nortexte": "MENX9100198L",
+        "@numtexte": "92-546",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 93-1429 1993-12-31 art. 2",
+        "@cidtexte": "JORFTEXT000000545429",
+        "@datesignatexte": "1993-12-31",
+        "@id": "JORFTEXT000000545429",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCB9300385D",
+        "@numtexte": "93-1429",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

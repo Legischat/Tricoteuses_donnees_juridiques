@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006442846",
+      "ANCIEN_ID": "PEHOEXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/28/LEGIARTI000006442846.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-01-01",
+        "DATE_FIN": "2004-07-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 96-1147 du 26 décembre 1996 portant création des académies de la    Martinique, de la Guadeloupe et de la Guyane",
+          "@c_titre_court": "Décret n°96-1147 du 26 décembre 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000747082"
+        },
+        {
+          "#text": "Décret n°96-1147 du 26 décembre 1996 portant création des académies de la Martinique, de la Guadeloupe et de la Guyane",
+          "@c_titre_court": "Décret n°96-1147 du 26 décembre 1996",
+          "@debut": "1997-01-01",
+          "@fin": "2004-07-17",
+          "@id_txt": "LEGITEXT000005622405"
+        }
+      ],
+      "@cid": "JORFTEXT000000747082",
+      "@date_publi": "1996-12-28",
+      "@date_signature": "1996-12-26",
+      "@ministere": "MINISTERE DE L'EDUCATION NATIONALE, DE L'ENSEIGNEMENT SUPERIEUR, ET DE LA RECHERCHE",
+      "@nature": "DECRET",
+      "@nor": "MENG9603659D",
+      "@num": "96-1147"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-17",
+          "@id": "LEGIARTI000006442846",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les académies de la Martinique, de la Guadeloupe et de la Guyane, le recteur exerce les fonctions de directeur des services départementaux de l'éducation.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2004-703 2004-07-13 art. 6 JORF 17 juillet 2004",
+        "@cidtexte": "JORFTEXT000000250594",
+        "@datesignatexte": "2004-07-13",
+        "@id": "JORFTEXT000000250594",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENG0401424D",
+        "@numtexte": "2004-703",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. R222-10 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006525964",
+        "@naturetexte": "CODE",
+        "@num": "R222-10",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'éducation - art. R222-10 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006525964",
+        "@naturetexte": "CODE",
+        "@num": "R222-10",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

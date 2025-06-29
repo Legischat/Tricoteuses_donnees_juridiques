@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006206827",
+      "ANCIEN_ID": "AMICRXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/68/LEGIARTI000006206827.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1981-11-04",
+        "DATE_FIN": "1982-07-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 octobre 1981 TAUX D'INTERETS DES OBLIGATIONS CAUTIONNEES: IL EST PORTE DE 13,60% A 14,5% A COMPTER DU 04-11-1981",
+          "@c_titre_court": "Arrêté du 30 octobre 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000461933"
+        },
+        {
+          "#text": "Arrêté du 30 octobre 1981 relatif au taux d'intérêt des obligations cautionnées.",
+          "@c_titre_court": "Arrêté du 30 octobre 1981",
+          "@debut": "1981-11-04",
+          "@fin": "1982-07-18",
+          "@id_txt": "LEGITEXT000005631897"
+        }
+      ],
+      "@cid": "JORFTEXT000000461933",
+      "@date_publi": "1981-10-31",
+      "@date_signature": "1981-10-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-11-04",
+          "@etat": "PERIME",
+          "@fin": "1982-07-18",
+          "@id": "LEGIARTI000006206827",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le taux de l'intérêt de crédit des obligations cautionnées prévu par l'article 194 de l'annexe IV du code général des impôts et A. 117-3 du code du domaine de l'Etat est porté de 13, 60 % à 14, 5 % l'an à partir du 4 novembre 1981.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 16 juillet 1982 (P)",
+        "@cidtexte": "LEGITEXT000006069761",
+        "@datesignatexte": "1982-07-16",
+        "@id": "LEGITEXT000006069761",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "CGIAN4 194",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du domaine de l'Etat - art. A117-3 (Ab)",
+        "@cidtexte": "LEGITEXT000006070208",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006350214",
+        "@naturetexte": "CODE",
+        "@num": "A117-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

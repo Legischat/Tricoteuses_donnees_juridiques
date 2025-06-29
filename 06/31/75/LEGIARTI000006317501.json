@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006317501",
+      "ANCIEN_ID": "AAGAFXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/75/LEGIARTI000006317501.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1937-10-01",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 25 août 1937 réglementant les bons de caisse",
+          "@c_titre_court": "Décret-loi du 25 août 1937",
+          "@debut": "1937-08-28",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006069591"
+        }
+      ],
+      "@cid": "LEGITEXT000006069591",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1937-08-25",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1937-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006317501",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les titres remis aux prêteurs mentionnent [*contenu - forme*], outre le nom du tribunal de commerce où l'émetteur est immatriculé et le numéro de son immatriculation au registre de commerce, les nom, prénoms et adresse de l'émetteur, l'objet de son commerce [*objet commercial*], le lieu où il exploite et l'enseigne ou la raison de commerce [*raison commerciale*] de l'établissement, et s'il s'agit d'une société, la forme, la dénomination ou la raison sociale, le capital et le lieu du siège social de la société émettrice.<br/>\n<br/>   Les titres reproduisent, en outre, le dernier bilan de l'émetteur, certifié sincère par ce dernier.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code monétaire et financier - art. L223-2 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006651973",
+        "@naturetexte": "CODE",
+        "@num": "L223-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret-loi 1937-08-25 JORF 28 août 1937 rectificatif JORF 31 août 1937 en vigueur le 1er octobre 1937",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret-loi 1937-08-25 art. 3, art. 4",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

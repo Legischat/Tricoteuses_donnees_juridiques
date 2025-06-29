@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006497581",
+      "ANCIEN_ID": "PJHELXXXXXX072AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/75/LEGIARTI000006497581.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "72",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1928-04-21",
+        "DATE_FIN": "1989-09-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 7 avril 1928 relatif à l'organisation de l'administration de la justice en Nouvelle-Calédonie et dépendances.",
+          "@c_titre_court": "Décret du 7 avril 1928",
+          "@debut": "1928-04-21",
+          "@fin": "2005-10-21",
+          "@id_txt": "LEGITEXT000006071074"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : De la cour et des tribunaux",
+            "@debut": "1928-04-21",
+            "@fin": "2005-10-21",
+            "@id": "LEGISCTA000006094331"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre V : Du ministère public.",
+              "@debut": "1928-04-21",
+              "@fin": "1989-09-09",
+              "@id": "LEGISCTA000006119665"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071074",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1928-04-07",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1928-04-21",
+          "@etat": "ABROGE",
+          "@fin": "1989-09-09",
+          "@id": "LEGIARTI000006497581",
+          "@num": "72",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<br/>   [* L'article 72, est abrogé, en tant qu'il concerne la matière pénale, par l'article 79 de la loi n° 83-520 du 27 juin 1983. *]<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas d'absence ou d'empêchement, les défenseurs pourront être appelés à suppléer les magistrats du ministère public.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 83-520 1983-06-27 art. 79",
+        "@cidtexte": "JORFTEXT000000692485",
+        "@datesignatexte": "1983-06-27",
+        "@id": "JORFTEXT000000692485",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-520",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°89-636 du 8 septembre 1989 - art. 18 (Ab) JORF 9 septembre 1989",
+        "@cidtexte": "JORFTEXT000000700388",
+        "@datesignatexte": "1989-09-08",
+        "@id": "LEGIARTI000006496047",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSB8910269D",
+        "@num": "18",
+        "@numtexte": "89-636",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

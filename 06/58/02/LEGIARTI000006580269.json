@@ -1,0 +1,158 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580269",
+      "ANCIEN_ID": "RAA0XXXXXXX0450AAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/02/LEGIARTI000006580269.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "450",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-07-01",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : La chasse et la pêche",
+            "@debut": "1955-04-19",
+            "@fin": "1994-01-01",
+            "@id": "LEGISCTA000006098250"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : De la pêche et de la gestion des ressources piscicoles en eaux douces",
+              "@debut": "1985-07-01",
+              "@fin": "1989-11-04",
+              "@id": "LEGISCTA000006121373"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre V : De la police de la pêche",
+                "@debut": "1985-07-01",
+                "@fin": "1989-11-04",
+                "@id": "LEGISCTA000006138304"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 2 : De la recherche et de la constatation des infractions.",
+                  "@debut": "1985-07-01",
+                  "@fin": "1989-11-04",
+                  "@id": "LEGISCTA000006152136"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "MODIFIE",
+          "@fin": "1985-07-01",
+          "@id": "LEGIARTI000006580268",
+          "@num": "450",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006580269",
+          "@num": "450",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le poisson pêché, détenu, transporté ou commercialisé en infraction aux dispositions du présent chapitre ou des textes pris pour son application peut être recherché à toute époque de l'année et même de nuit par les fonctionnaires et agents désignés à l'article 445 dans les lieux ouverts au public où le poisson est commercialisé ou consommé, ainsi que, s'il s'agit de lieux non ouverts au public, dans les entrepôts, magasins frigorifiques et conserveries.<br/>\n<br/>   Lorsque ces recherches doivent être effectuées dans des locaux autres que ceux mentionnés à l'alinéa précédent, les dispositions du code de procédure pénale s'appliquent seules ; toutefois, les fonctionnaires et agents précités assistent, sur leur demande, les officiers de police judiciaire qui procèdent aux investigations.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 445",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural L237-6",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1829-04-15 art. 7",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985",
+        "@cidtexte": "JORFTEXT000000692732",
+        "@datesignatexte": "1984-06-29",
+        "@id": "LEGIARTI000006274362",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@numtexte": "84-512",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989",
+        "@cidtexte": "JORFTEXT000000336190",
+        "@datesignatexte": "1989-10-27",
+        "@id": "LEGIARTI000006605474",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRME8961361D",
+        "@num": "3",
+        "@numtexte": "89-804",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006886731",
+      "ANCIEN_ID": "UTIACXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/67/LEGIARTI000006886731.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-12-01",
+        "DATE_FIN": "1992-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 novembre 1986 relatif à l'indication des vitesses maximales sur les véhicules automobiles",
+          "@c_titre_court": "Arrêté du 12 novembre 1986",
+          "@debut": "1986-12-01",
+          "@fin": "1992-12-01",
+          "@id_txt": "LEGITEXT000006075001"
+        }
+      ],
+      "@cid": "LEGITEXT000006075001",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-11-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-12-01",
+          "@id": "LEGIARTI000006886731",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent arrêté sont applicables à partir du 1er décembre 1986. A compter de cette date, l'arrêté du 10 octobre 1957 relatif à l'indication des vitesses maxima sur les véhicules automobiles et l'arrêté du 27 juin 1979 fixant les vitesses maximales des véhicules automobiles dont le poids est supérieur à 10 tonnes sont abrogés. Les références à l'arrêté du 10 octobre 1957 précité dans les arrêtés et circulaires existants devront être alors comprises comme références à l'article 1er du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-11-12 art. 3",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1992-11-23 art. 4 JORF 24 novembre 1992 en vigueur le 1er décembre 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "code de la route R98",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

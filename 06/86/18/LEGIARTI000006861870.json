@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861870",
+      "ANCIEN_ID": "UPIIHXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/18/LEGIARTI000006861870.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-10-03",
+        "DATE_FIN": "1987-09-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 septembre 1979 relatif à la limitation de l'émission sonore des tondeuses à gazon.",
+          "@c_titre_court": "Arrêté du 7 septembre 1979",
+          "@debut": "1979-10-03",
+          "@fin": "1987-09-11",
+          "@id_txt": "LEGITEXT000006074525"
+        }
+      ],
+      "@cid": "LEGITEXT000006074525",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-09-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-10-03",
+          "@etat": "ABROGE",
+          "@fin": "1987-09-11",
+          "@id": "LEGIARTI000006861870",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lors de l'importation, il doit être joint à l'appui de la déclaration en douane de mise à la consommation une copie du procès-verbal [*mesures acoustiques*] visé à l'article 3 ou une déclaration de conformité signée de l'importateur.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-09-07 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-06-17 art. 10",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1987-06-17 art. 10 JORF 11 septembre 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 75-960 1975-10-17",
+        "@cidtexte": "JORFTEXT000000683436",
+        "@datesignatexte": "1975-10-17",
+        "@id": "JORFTEXT000000683436",
+        "@naturetexte": "DECRET",
+        "@numtexte": "75-960",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006816826",
+      "ANCIEN_ID": "UBAXXXXXXXX2X150R02AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/81/68/LEGIARTI000006816826.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R150-2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-11-13",
+        "DATE_FIN": "2013-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de l'urbanisme",
+          "@c_titre_court": "Code de l'urbanisme",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074075"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire - Décrets en Conseil d'Etat",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107993"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Règles générales d'aménagement et d'urbanisme",
+              "@debut": "1973-01-03",
+              "@fin": "2016-01-01",
+              "@id": "LEGISCTA000006128573"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre V : Départements d'outre-mer.",
+                "@debut": "1973-11-13",
+                "@fin": "2013-01-01",
+                "@id": "LEGISCTA000006143354"
+              },
+              {
+                "#text": "Titre V : Dispositions particulières à la Guadeloupe, la Guyane, la Martinique, La Réunion et Mayotte",
+                "@debut": "2013-01-01",
+                "@fin": "2016-01-01",
+                "@id": "LEGISCTA000026889993"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074075",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-13",
+          "@etat": "MODIFIE",
+          "@fin": "2013-01-01",
+          "@id": "LEGIARTI000006816826",
+          "@num": "R150-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2013-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2016-01-01",
+          "@id": "LEGIARTI000026890007",
+          "@num": "R150-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les départements d'outre-mer, en ce qui concerne les bâtiments situés sur un terrain appartenant au même propriétaire, la distance entre les façades en vis-à-vis doit être au moins égale à la hauteur de la façade la plus élevée, sans pouvoir être inférieur à 4 mètres.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 63-850 1963-08-13 art. 2",
+        "@cidtexte": "JORFTEXT000000676394",
+        "@datesignatexte": "1963-08-13",
+        "@id": "JORFTEXT000000676394",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-850",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'urbanisme - art. R111-52 (V)",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000031721183",
+        "@naturetexte": "CODE",
+        "@num": "R111-52",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'urbanisme - art. R150-1 (VT)",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000026889995",
+        "@naturetexte": "CODE",
+        "@num": "R150-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 73-1023 1973-11-08",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006422038",
+      "ANCIEN_ID": "ACAXXXXXXXX5X00152AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/20/LEGIARTI000006422038.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "152",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1803-03-27",
+        "DATE_FIN": "1927-07-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Des personnes",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089697"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre V : Du mariage",
+              "@debut": "1804-03-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117710"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Des qualités et conditions requises pour pouvoir contracter mariage",
+                "@debut": "1804-03-21",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006136117"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1803-03-27",
+          "@etat": "ABROGE",
+          "@fin": "1927-07-17",
+          "@id": "LEGIARTI000006422038",
+          "@num": "152",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   (article abrogé).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1803-03-14",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1803-03-17 promulguée le 27 mars 1803",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

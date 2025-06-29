@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006772848",
+      "ANCIEN_ID": "SSHBB5XXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/77/28/LEGIARTI000006772848.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-11-01",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-992 du 2 novembre 1976 GENERALES",
+          "@c_titre_court": "Décret n°76-992 du 2 novembre 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000307556"
+        },
+        {
+          "#text": "Décret n°76-992 du 2 novembre 1976 relatif à l'application de la législation sur les accidents du travail agricole aux élèves des établissements d'enseignement technique et de formation professionnelle agricoles du Haut-Rhin, du Bas-Rhin et de la Moselle.",
+          "@c_titre_court": "Décret n°76-992 du 2 novembre 1976",
+          "@debut": "1976-11-01",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006062550"
+        }
+      ],
+      "@cid": "JORFTEXT000000307556",
+      "@date_publi": "1976-11-03",
+      "@date_signature": "1976-11-02",
+      "@nature": "DECRET",
+      "@num": "76-992"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-11-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006772848",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Entrent par leur objet dans le champ d'application de l'article 1252-2 (1°) du code rural les catégories ci-dessous énumérées d'établissements ou filières de formation fonctionnant dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, pour les élèves et étudiants qui y reçoivent un enseignement préparant directement à l'exercice d'une profession, à l'exclusion des stagiaires de la formation professionnelle continue visés par les articles L. 900-1 et suivants du code du travail :<br/>\n    Etablissements d'enseignement technique supérieur agricole et vétérinaire publics et privés : écoles nationales et instituts ;<br/>\n    Etablissements d'enseignement technique et de formation professionnelle agricoles publics et privés : lycées agricoles, collèges agricoles, centres de formation professionnelle agricole, Ecoles spécialisées et établissements dispensant le même type de formation.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. D761-39 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006598296",
+        "@naturetexte": "CODE",
+        "@num": "D761-39",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail - art. L900-1 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006651091",
+        "@naturetexte": "CODE",
+        "@num": "L900-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural 1252-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural D761-39",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

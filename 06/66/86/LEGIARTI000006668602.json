@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006668602",
+      "ANCIEN_ID": "SEIFTXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/86/LEGIARTI000006668602.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-01-08",
+        "DATE_FIN": "1988-06-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 octobre 1986 fixant le taux de la redevance à verser à l'Office national d'immigration à l'occasion de l'examen médical subi par les étrangers demandant un titre de séjour",
+          "@c_titre_court": "Arrêté du 17 octobre 1986",
+          "@debut": "1986-10-28",
+          "@fin": "1988-06-25",
+          "@id_txt": "LEGITEXT000006072234"
+        }
+      ],
+      "@cid": "LEGITEXT000006072234",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-10-17",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-10-28",
+          "@etat": "MODIFIE",
+          "@fin": "1988-01-08",
+          "@id": "LEGIARTI000006668601",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-08",
+          "@etat": "ABROGE",
+          "@fin": "1988-06-25",
+          "@id": "LEGIARTI000006668602",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de la redevance forfaitaire à verser à l'Office des migrations internationales par les Algériens pour l'examen médical subi en vue de la première délivrance d'un certificat de résidence d'un an ou de dix ans est fixé à :<br/>\n<br/>   Etudiants : 250 F ;<br/>\n<br/>   Autres : 800 F.<br/>\n<br/>   Les dispositions du présent article ne s'appliquent pas aux Algériens auxquels est délivré un certificat de résidence d'un an portant la mention Salarié ou Membre de famille ni aux Algériens visés au quatrième alinéa a, b, d, e et f de l'article 7 bis de l'accord franco-algérien du 27 décembre 1968 [*éxonération*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Accord France Algérie 1968-12-27 art. 7 bis",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1988-06-20 art. 3 JORF 25 juin 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°88-24 du 7 janvier 1988 - art. 1 (V) JORF 8 janvier 1988",
+        "@cidtexte": "JORFTEXT000000684449",
+        "@datesignatexte": "1988-01-07",
+        "@id": "LEGIARTI000006664141",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ASED8703901D",
+        "@num": "1",
+        "@numtexte": "88-24",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

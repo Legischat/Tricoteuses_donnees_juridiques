@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006380556",
+      "ANCIEN_ID": "MSIAQXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/05/LEGIARTI000006380556.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-01-01",
+        "DATE_FIN": "1981-07-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 septembre 1973 relatif aux conditions d'accès à certains emplois des communes et des établissements publics communaux.",
+          "@c_titre_court": "Arrêté du 26 septembre 1973",
+          "@debut": "1974-01-01",
+          "@fin": "1981-07-31",
+          "@id_txt": "LEGITEXT000006070357"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Personnel administratif",
+            "@debut": "1974-01-01",
+            "@fin": "1981-07-31",
+            "@id": "LEGISCTA000006087425"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Sténodactylographe.",
+              "@debut": "1974-01-01",
+              "@fin": "1981-07-31",
+              "@id": "LEGISCTA000006116190"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006070357",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1973-09-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1981-07-31",
+          "@id": "LEGIARTI000006380556",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Indépendamment des dispositions législatives relatives aux emplois réservés aux victimes de guerre et aux travailleurs handicapés, nul ne peut être nommé en qualité de sténodactylographe de l'une des collectivités visées à l'article 477 du code de l'administration communale s'il ne remplit l'une des conditions ci-après :<br/>\n<br/>   a) Etre inscrit sur la liste d'aptitude à cet emploi ;<br/>\n<br/>   b) Etre titulaire d'un emploi de sténodactylographe dans une autre collectivité locale dont les personnels sont soumis au statut général du personnel communal.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "*Les dispositions du présent arrêté cesseront de s'appliquer lorsque la liste d'aptitude dressée en vertu de l'arrêté du 26 septembre 1973, dans le département où se trouve située la commune ou l'établissement public communal ou intercommunal où doit",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1981-07-16 ART. 4 :",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "CODE DES COMMUNES. - art. L412-11 (Ab)",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006346894",
+        "@naturetexte": "CODE",
+        "@num": "L412-11",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de l'administration communale 477",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des communes L411-5 et L411-6",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070162",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

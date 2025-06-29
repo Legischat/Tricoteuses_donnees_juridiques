@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006680752",
+      "ANCIEN_ID": "SKAXXXXXXXX5X005600AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/07/LEGIARTI000006680752.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "56",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-08-14",
+        "DATE_FIN": "2004-08-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de déontologie des sages-femmes",
+          "@c_titre_court": "Code de déontologie des sages-femmes",
+          "@debut": "1949-10-05",
+          "@fin": "2004-08-08",
+          "@id_txt": "LEGITEXT000006072635"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Devoirs de confraternité",
+            "@debut": "1949-10-05",
+            "@fin": "2004-08-08",
+            "@id": "LEGISCTA000006103069"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072635",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1991-08-14",
+          "@id": "LEGIARTI000006680751",
+          "@num": "56",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-08-14",
+          "@etat": "ABROGE",
+          "@fin": "2004-08-08",
+          "@id": "LEGIARTI000006680752",
+          "@num": "56",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'une sage-femme est appelée auprès d'une patiente suivie par une autre sage-femme, elle doit respecter les règles suivantes :<br/>\n<br/>   1° Si la patiente entend renoncer aux soins de la première sage-femme, elle s'assure de sa volonté expresse, lui donne les soins nécessaires ;<br/>\n<br/>   2° Si la patiente a simplement voulu demander un avis sans changer de sage-femme pour autant, elle lui propose une consultation en commun ; si la patiente refuse, elle lui donne son avis et, le cas échéant, lui apporte les soins d'urgence nécessaires ; en accord avec la patiente, elle en informe la sage-femme traitante ;<br/>\n<br/>   3° Si la patiente, en raison de l'absence de la sage-femme habituelle, a appelé une autre sage-femme, celle-ci doit assurer les examens et les soins pendant cette absence, les cesser dès le retour de la sage-femme habituelle et donner à cette dernière, en accord avec la patiente, toutes informations utiles à la poursuite des soins ;<br/>\n<br/>   4° Si la sage-femme a été envoyée auprès de la patiente par une autre sage-femme momentanément empêchée, elle ne peut en aucun cas considérer la patiente comme sa cliente.<br/>\n<br/>   Dans les cas prévus aux 2° et 3° ci-dessus, en cas de refus de la patiente, la sage-femme doit l'informer des conséquences que peut entraîner ce refus.<br/>\n<br/>   La sage-femme appelée doit s'abstenir de réflexions désobligeantes et de toute critique concernant les soins donnés précédemment.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 91-779 1991-08-08 JORF 14 août 1991",
+        "@cidtexte": "JORFTEXT000000571498",
+        "@datesignatexte": "1991-08-08",
+        "@id": "JORFTEXT000000571498",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9101297D",
+        "@numtexte": "91-779",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 2004-802 2004-07-29 art. 5 A JORF 8 août 2004",
+        "@cidtexte": "JORFTEXT000000787339",
+        "@datesignatexte": "2004-07-29",
+        "@id": "JORFTEXT000000787339",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0422530D",
+        "@numtexte": "2004-802",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. R4127-356 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006913167",
+        "@naturetexte": "CODE",
+        "@num": "R4127-356",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

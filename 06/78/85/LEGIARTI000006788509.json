@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006788509",
+      "ANCIEN_ID": "SSIBKVXXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/85/LEGIARTI000006788509.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1992-05-23",
+        "DATE_FIN": "1993-11-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 mai 1992 portant approbation d'un avenant à la convention nationale des médecins.",
+          "@c_titre_court": "Arrêté du 5 mai 1992",
+          "@debut": "1992-05-23",
+          "@fin": "1993-11-26",
+          "@id_txt": "LEGITEXT000006074050"
+        }
+      ],
+      "@cid": "LEGITEXT000006074050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1992-05-05",
+      "@nature": "ARRETE",
+      "@nor": "SPSS9201131A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-05-23",
+          "@etat": "PERIME",
+          "@fin": "1993-11-26",
+          "@id": "LEGIARTI000006788509",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est approuvé l'avenant n° 3 à la convention nationale des médecins ci-annexé conclu le 10 avril 1992 entre, d'une part, la Caisse nationale de l'assurance maladie des travailleurs salariés, la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et la Caisse centrale de secours mutuels agricoles et, d'autre part, la Confédération des syndicats médicaux français.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 25 novembre 1993 (P)",
+        "@cidtexte": "JORFTEXT000000843994",
+        "@datesignatexte": "1993-11-25",
+        "@id": "LEGITEXT000006060268",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SPSX9301043A",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "Avenant 3 1992-04-10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Convention nationale des médecins 1990-03-09",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

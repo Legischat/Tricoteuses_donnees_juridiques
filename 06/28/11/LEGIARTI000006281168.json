@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006281168",
+      "ANCIEN_ID": "APEAEXXXXXX066AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/11/LEGIARTI000006281168.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "66",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1990-11-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°68-1 du 2 janvier 1968 TENDANT A VALORISER L'ACTIVITE INVENTIVE ET A MODIFIER LE REGIME DES BREVETS D'INVENTION",
+          "@c_titre_court": "Loi n°68-1 du 2 janvier 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317285"
+        },
+        {
+          "#text": "Loi n°68-1 du 2 janvier 1968 sur les brevets d'invention",
+          "@c_titre_court": "Loi n°68-1 du 2 janvier 1968",
+          "@debut": "1979-07-01",
+          "@fin": "1992-07-03",
+          "@id_txt": "LEGITEXT000006068313"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VII : Du certificat d'addition.",
+            "@debut": "1969-01-01",
+            "@fin": "1990-11-28",
+            "@id": "LEGISCTA000006083689"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000317285",
+      "@date_publi": "1968-01-03",
+      "@date_signature": "1968-01-02",
+      "@nature": "LOI",
+      "@num": "68-1"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1990-11-28",
+          "@id": "LEGIARTI000006281168",
+          "@num": "66",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La nullité du brevet principal n'entraîne pas, de plein droit, la nullité des certificats d'addition s'y rattachant, ceux-ci demeurent en vigueur jusqu'au terme de la durée normale du brevet principal. Toutefois, si la nullité absolue du brevet principal a été prononcée en application de l'article 50, le maintien en vigueur des certificats d'addition est subordonné à la continuation du paiement des taxes annuelles qui auraient été dues si ledit brevet n'avait pas été annulé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°68-1 du 2 janvier 1968 - art. 50 (Ab)",
+        "@cidtexte": "JORFTEXT000000317285",
+        "@datesignatexte": "1968-01-02",
+        "@id": "LEGIARTI000006281137",
+        "@naturetexte": "LOI",
+        "@num": "50",
+        "@numtexte": "68-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°78-742 du 13 juillet 1978 - art. 47 (Ab) JORF 14 juillet 1978 en vigueur le 1er juillet 1979",
+        "@cidtexte": "JORFTEXT000000339240",
+        "@datesignatexte": "1978-07-13",
+        "@id": "LEGIARTI000006281239",
+        "@naturetexte": "LOI",
+        "@num": "47",
+        "@numtexte": "78-742",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°90-1052 du 26 novembre 1990 - art. 14 () JORF 28 novembre 1990",
+        "@cidtexte": "JORFTEXT000000353071",
+        "@datesignatexte": "1990-11-26",
+        "@id": "LEGIARTI000006281345",
+        "@naturetexte": "LOI",
+        "@nortexte": "INDX8900121L",
+        "@num": "14",
+        "@numtexte": "90-1052",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

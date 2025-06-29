@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006574176",
+      "ANCIEN_ID": "ADHNYXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/41/LEGIARTI000006574176.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-05-21",
+        "DATE_FIN": "2014-12-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 70-559 du 23 juin 1970 pris pour l'application en ce qui concerne les fromages préemballés de la loi du 1er août 1905 modifiée sur la répression des fraudes et des articles 258 et 262 du code rural",
+          "@c_titre_court": "Décret n° 70-559 du 23 juin 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000857211"
+        },
+        {
+          "#text": "Décret n° 70-559 du 23 juin 1970 pris pour l'application en ce qui concerne les fromages préemballés de la loi du 1er août 1905 modifiée sur la répression des fraudes et des articles 258 et 262 du code rural",
+          "@c_titre_court": "Décret n° 70-559 du 23 juin 1970",
+          "@debut": "1972-05-21",
+          "@fin": "2014-12-13",
+          "@id_txt": "LEGITEXT000006061751"
+        }
+      ],
+      "@cid": "JORFTEXT000000857211",
+      "@date_publi": "1970-06-30",
+      "@date_signature": "1970-06-23",
+      "@nature": "DECRET",
+      "@num": "70-559"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-05-21",
+          "@etat": "ABROGE",
+          "@fin": "2014-12-13",
+          "@id": "LEGIARTI000006574176",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les fromages importés qui, après leur entrée en France, sont découpés en tranches ou morceaux et préemballés, sont soumis à l'ensemble des dispositions du présent décret.<br/>\n<br/>   Les fromages importés déjà découpés et préemballés lors de leur entrée en France sont soumis aux dispositions de l'article 4 sauf en ce qui concerne le numéro d'immatriculation, ainsi qu'à celles relatives aux conditions de conservation et de transport jusqu'à la vente au détail.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 258, 262",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n° 70-559 du 23 juin 1970 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000857211",
+        "@datesignatexte": "1970-06-23",
+        "@id": "LEGIARTI000006574134",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "70-559",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "DÉCRET n°2014-1489 du 11 décembre 2014 - art. 6",
+        "@cidtexte": "JORFTEXT000029884889",
+        "@datesignatexte": "2014-12-11",
+        "@id": "LEGIARTI000029886409",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EINC1409102D",
+        "@num": "6",
+        "@numtexte": "2014-1489",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

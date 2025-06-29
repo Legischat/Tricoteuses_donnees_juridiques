@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006887442",
+      "ANCIEN_ID": "UTIBWXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/74/LEGIARTI000006887442.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-04-01",
+        "DATE_FIN": "1989-02-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 août 1987 RELATIF AU FREINAGE DES CYCLES",
+          "@c_titre_court": "Arrêté du 29 août 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000841815"
+        },
+        {
+          "#text": "Arrêté du 29 août 1987 relatif au freinage des cycles",
+          "@c_titre_court": "Arrêté du 29 août 1987",
+          "@debut": "1987-09-17",
+          "@fin": "1989-02-11",
+          "@id_txt": "LEGITEXT000006057725"
+        }
+      ],
+      "@cid": "JORFTEXT000000841815",
+      "@date_publi": "1987-09-17",
+      "@date_signature": "1987-08-29",
+      "@nature": "ARRETE",
+      "@nor": "EQUS8700863A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-09-17",
+          "@etat": "ABROGE",
+          "@fin": "1989-02-11",
+          "@id": "LEGIARTI000006887441",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-04-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-02-11",
+          "@id": "LEGIARTI000006887442",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les prescriptions du présent arrêté sont applicables aux cycles mis en vente à dater du 31 mars 1989 [*date d'entrée en vigueur*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-03-21 art. 1 JORF 1 avril 1988",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1989-01-30 art. 1 JORF 11 février 1989",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R194",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

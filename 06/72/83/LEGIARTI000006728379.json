@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006728379",
+      "ANCIEN_ID": "AFHELXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/83/LEGIARTI000006728379.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1966-08-05",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°66-586 du 3 août 1966 autorisant la démonétisation des pièces de 5 AF en alliage d'aluminium, de 50 AF en bronze d'aluminium et de 100 AF en cupro-nickel",
+          "@c_titre_court": "Décret n°66-586 du 3 août 1966",
+          "@debut": "1966-08-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073170"
+        }
+      ],
+      "@cid": "LEGITEXT000006073170",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1966-08-03",
+      "@nature": "DECRET",
+      "@num": "66-586"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-08-05",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006728379",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A partir d'une date qui sera fixée par arrêté du Ministre de l'Economie et des Finances, cesseront d'avoir cours légal les pièces de 50 AF en bronze d'aluminium dont les caractéristiques et le type ont été définis par arrêté du Ministre des Finances et des Affaires économiques du 7 juin 1950.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1950-06-07",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 27 décembre 1966 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000621397",
+        "@datesignatexte": "1966-12-27",
+        "@id": "LEGIARTI000006750818",
+        "@naturetexte": "ARRETE",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 27 décembre 1966 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000621397",
+        "@datesignatexte": "1966-12-27",
+        "@id": "LEGIARTI000006750851",
+        "@naturetexte": "ARRETE",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

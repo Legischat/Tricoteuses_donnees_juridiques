@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006714218",
+      "ANCIEN_ID": "SPI35XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/42/LEGIARTI000006714218.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-02-08",
+        "DATE_FIN": "2004-07-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 janvier 1991 RELATIF AUX PRIX DES SOINS ET DE L'HOSPITALISATION AFFERENTS A L'INTERRUPTION VOLONTAIRE DE GROSSESSE (IVG)",
+          "@c_titre_court": "Arrêté du 14 janvier 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000505971"
+        },
+        {
+          "#text": "Arrêté du 14 janvier 1991 relatif aux prix des soins et de l'hospitalisation afférents à l'interruption volontaire de grossesse",
+          "@c_titre_court": "Arrêté du 14 janvier 1991",
+          "@debut": "1991-02-08",
+          "@fin": "2004-07-29",
+          "@id_txt": "LEGITEXT000006059522"
+        }
+      ],
+      "@cid": "JORFTEXT000000505971",
+      "@date_publi": "1991-02-08",
+      "@date_signature": "1991-01-14",
+      "@nature": "ARRETE",
+      "@nor": "SPSS9100148A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-02-08",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-29",
+          "@id": "LEGIARTI000006714218",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les prix limites des soins et de l'hospitalisation afférents à l'interruption volontaire de grossesse instrumentale, pratiquée dans les établissements d'hospitalisation privés régis par les dispositions de l'article L. 162-22 du code de la sécurité sociale, sont les suivants :<br/>\n a) Interruption volontaire de grossesse : 372,00 F<br/>\n b) Anesthésie générale : 310,00 F<br/>\n c) Investigations biologiques préalables à l'intervention : 88,00 F<br/>\n d) Accueil et hébergement, y compris les frais de salle d'opération pour une durée :<br/>\n<br/>      - égale ou inférieure à douze heures : 442,16 F<br/>\n<br/>      - comprise entre douze et vingt-quatre heures : 627,37 F<br/>\n<br/>      - pour vingt-quatre heures supplémentaires : 185,18 F<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 23 juillet 2004 - art. 8 (VT)",
+        "@cidtexte": "JORFTEXT000000442131",
+        "@datesignatexte": "2004-07-23",
+        "@id": "LEGIARTI000018649636",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SANP0422519A",
+        "@num": "8",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. L162-22 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006741572",
+        "@naturetexte": "CODE",
+        "@num": "L162-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

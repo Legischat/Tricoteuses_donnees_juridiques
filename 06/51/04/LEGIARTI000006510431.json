@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006510431",
+      "ANCIEN_ID": "ADECLXXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/04/LEGIARTI000006510431.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1999-07-10",
+        "DATE_FIN": "2006-12-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 2 novembre 1943 ORGANISATION DU CONTROLE DES PRODUITS ANTIPARASITAIRES A USAGE AGRICOLE",
+          "@c_titre_court": "Loi du 2 novembre 1943",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000887183"
+        },
+        {
+          "#text": "Loi du 2 novembre 1943 relative à l'organisation du contrôle des produits antiparasitaires à usage agricole",
+          "@c_titre_court": "Loi du 2 novembre 1943",
+          "@debut": "1943-11-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071144"
+        }
+      ],
+      "@cid": "JORFTEXT000000887183",
+      "@date_publi": "1943-11-04",
+      "@date_signature": "1943-11-02",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-12-29",
+          "@etat": "MODIFIE",
+          "@fin": "1999-07-10",
+          "@id": "LEGIARTI000006510430",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-07-10",
+          "@etat": "ABROGE",
+          "@fin": "2006-12-27",
+          "@id": "LEGIARTI000006510431",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les frais de toute nature résultant du contrôle des produits soumis à l'autorisation de mise sur le marché sont couverts par des versements effectués par les demandeurs au profit des budgets du ministère de l'agriculture et du ministère de l'industrie et de la recherche.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°99-574 du 9 juillet 1999 - art. 93 () JORF 10 juillet 1999",
+        "@cidtexte": "JORFTEXT000000395813",
+        "@datesignatexte": "1999-07-09",
+        "@id": "LEGIARTI000006600435",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9800053L",
+        "@num": "93",
+        "@numtexte": "99-574",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°2006-1666 du 21 décembre 2006 - art. 49 () JORF 27 décembre 2006",
+        "@cidtexte": "JORFTEXT000000615000",
+        "@datesignatexte": "2006-12-21",
+        "@id": "LEGIARTI000006322786",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX0600160L",
+        "@num": "49",
+        "@numtexte": "2006-1666",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

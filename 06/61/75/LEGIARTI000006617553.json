@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006617553",
+      "ANCIEN_ID": "RDIAFXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/75/LEGIARTI000006617553.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1967-06-23",
+        "DATE_FIN": "1973-04-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 juin 1967 relatif à la prohibition de l'importation sur le territoire français de tous ruminants et porcins vivants ainsi que de divers produits",
+          "@c_titre_court": "Arrêté du 7 juin 1967",
+          "@debut": "1967-06-23",
+          "@fin": "1973-04-05",
+          "@id_txt": "LEGITEXT000006071608"
+        }
+      ],
+      "@cid": "LEGITEXT000006071608",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1967-06-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-06-23",
+          "@etat": "ABROGE",
+          "@fin": "1973-04-05",
+          "@id": "LEGIARTI000006617553",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les arrêtés des 18 novembre 1960 et 25 septembre 1964 sont abrogés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1960-11-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1964-04-08 art. 2",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté 1964-09-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1967-06-07 JORF 23 juin 1967 rectificatif JORF 20 juillet 1967",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 1973-03-27 art. 2 JORF 5 avril 1973",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

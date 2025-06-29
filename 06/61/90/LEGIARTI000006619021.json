@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006619021",
+      "ANCIEN_ID": "RDIFDXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/90/LEGIARTI000006619021.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-05-02",
+        "DATE_FIN": "2007-05-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 mars 1996 relatif à l'importation des eaux conditionnées",
+          "@c_titre_court": "Arrêté du 19 mars 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000559132"
+        },
+        {
+          "#text": "Arrêté du 19 mars 1996 relatif à l'importation des eaux conditionnées",
+          "@c_titre_court": "Arrêté du 19 mars 1996",
+          "@debut": "1996-05-02",
+          "@fin": "2007-05-19",
+          "@id_txt": "LEGITEXT000005620861"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section 1 : Dispositions relatives aux eaux minérales naturelles.",
+            "@debut": "1996-05-02",
+            "@fin": "2007-05-19",
+            "@id": "LEGISCTA000006099520"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000559132",
+      "@date_publi": "1996-05-02",
+      "@date_signature": "1996-03-19",
+      "@ministere": "MINISTERE DU TRAVAIL ET DES AFFAIRES SOCIALES",
+      "@nature": "ARRETE",
+      "@nor": "TASP9621039A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-05-02",
+          "@etat": "ABROGE",
+          "@fin": "2007-05-19",
+          "@id": "LEGIARTI000006619021",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le ministre chargé de la santé fait procéder par le laboratoire d'hydrologie à des prélèvements d'eau sur place à des fins d'analyses.<br/>\n<br/>   Les analyses du laboratoire d'hydrologie portent, d'une part, sur l'eau prélevée à l'émergence, le cas échéant à chaque émergence en cas de mélange, d'autre part, sur l'eau présentée dans le conditionnement sous lequel elle sera livrée en France.<br/>\n<br/>   Les analyses effectuées correspondent aux analyses B 3 + C 3 + C 4 au sens de l'annexe II du décret du 3 janvier 1989 susvisé, complétées par la recherche de la radioactivité, de Pseudomonas aeruginosa, de parasites ou de micro-organismes pathogènes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2007-05-04 art. 8 JORF 19 mai 2007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 89-3 1989-01-03 annexe II",
+        "@cidtexte": "JORFTEXT000000885079",
+        "@datesignatexte": "1989-01-03",
+        "@id": "JORFTEXT000000885079",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSP8801764D",
+        "@numtexte": "89-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 94-819 1994-09-16",
+        "@cidtexte": "JORFTEXT000000349109",
+        "@datesignatexte": "1994-09-16",
+        "@id": "JORFTEXT000000349109",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSP9400921D",
+        "@numtexte": "94-819",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

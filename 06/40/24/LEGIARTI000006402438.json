@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006402438",
+      "ANCIEN_ID": "ABEADXXXXXX041AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/24/LEGIARTI000006402438.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "41",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 85-99 du 25 janvier 1985 relative aux administrateurs judiciaires, mandataires-liquidateurs et experts en diagnostic d'entreprise",
+          "@c_titre_court": "Loi n°85-99 du 25 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000512201"
+        },
+        {
+          "#text": "Loi n° 85-99 du 25 janvier 1985 relative aux administrateurs judiciaires, aux mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise",
+          "@c_titre_court": "Loi n° 85-99 du 25 janvier 1985",
+          "@debut": "1986-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068924"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre V : Dispositions transitoires.",
+            "@debut": "1986-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006088401"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000512201",
+      "@date_publi": "1985-01-26",
+      "@date_signature": "1985-01-25",
+      "@nature": "LOI",
+      "@num": "85-99"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006402438",
+          "@num": "41",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les personnes remplissant au jour de l'entrée en vigueur de la présente loi les conditions pour être inscrites sur les listes de syndics et d'administrateurs judiciaires établies en application de l'article premier du décret n° 55-603 du 20 mai 1955 précité peuvent demander à être inscrites dans un délai d'un an à compter de l'entrée en vigueur de la présente loi soit sur la liste des administrateurs judiciaires, soit sur celles des mandataires-liquidateurs.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°55-603 du 20 mai 1955 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000330147",
+        "@datesignatexte": "1955-05-20",
+        "@id": "LEGIARTI000006920048",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "55-603",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 85-99 1985-01-25 art. 50 *date d'effet*",
+        "@cidtexte": "JORFTEXT000000512201",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000512201",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-99",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006285972",
+      "ANCIEN_ID": "ARHBHXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/59/LEGIARTI000006285972.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-10-20",
+        "DATE_FIN": "2017-03-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 60-1265 du 25 novembre 1960 relatif au mode de calcul du délai prévu à l'article 55 du code civil",
+          "@c_titre_court": "Décret n° 60-1265 du 25 novembre 1960",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000486554"
+        },
+        {
+          "#text": "Décret n°60-1265 du 25 novembre 1960 relatif au mode de calcul du délai prévu à l'article 55 du Code civil.",
+          "@c_titre_court": "Décret n°60-1265 du 25 novembre 1960",
+          "@debut": "1960-12-01",
+          "@fin": "2017-03-05",
+          "@id_txt": "LEGITEXT000006060944"
+        }
+      ],
+      "@cid": "JORFTEXT000000486554",
+      "@date_publi": "1960-12-01",
+      "@date_signature": "1960-11-25",
+      "@nature": "DECRET",
+      "@num": "60-1265"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-10-20",
+          "@etat": "ABROGE",
+          "@fin": "2017-03-05",
+          "@id": "LEGIARTI000006285972",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le jour de l'accouchement n'est pas compté dans le délai de trois jours fixé par l'article 55 du Code civil.<br/>\n<br/>   Lorsque le dernier jour dudit délai est un samedi, un dimanche, un jour férié ou chômé, ce délai est prorogé jusqu'au premier jour ouvrable suivant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 76-944 1976-10-15 JORF 20 octobre 1976 rectificatif JORF 28 octobre 1976",
+        "@cidtexte": "JORFTEXT000000689688",
+        "@datesignatexte": "1976-10-15",
+        "@id": "JORFTEXT000000689688",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-944",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2017-278 du 2 mars 2017 - art. 3",
+        "@cidtexte": "JORFTEXT000034133589",
+        "@datesignatexte": "2017-03-02",
+        "@id": "LEGIARTI000034135734",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC1636903D",
+        "@num": "3",
+        "@numtexte": "2017-278",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code civil - art. 55 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006420882",
+        "@naturetexte": "CODE",
+        "@num": "55",
+        "@sens": "cible",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code civil - art. 55 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006420882",
+        "@naturetexte": "CODE",
+        "@num": "55",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

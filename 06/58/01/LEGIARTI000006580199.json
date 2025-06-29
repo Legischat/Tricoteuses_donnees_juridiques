@@ -1,0 +1,143 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580199",
+      "ANCIEN_ID": "RAA0XXXXXXX0417AAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/01/LEGIARTI000006580199.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "417",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-07-01",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : La chasse et la pêche",
+            "@debut": "1955-04-19",
+            "@fin": "1994-01-01",
+            "@id": "LEGISCTA000006098250"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : De la pêche et de la gestion des ressources piscicoles en eaux douces",
+              "@debut": "1985-07-01",
+              "@fin": "1989-11-04",
+              "@id": "LEGISCTA000006121373"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : De l'organisation des pêcheurs.",
+                "@debut": "1985-07-01",
+                "@fin": "1989-11-04",
+                "@id": "LEGISCTA000006138303"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "MODIFIE",
+          "@fin": "1985-07-01",
+          "@id": "LEGIARTI000006580198",
+          "@num": "417",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006580199",
+          "@num": "417",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est créé dans chaque bassin hydrographique une commission comprenant, notamment, des responsables de la pêche, des personnes qualifiées, des représentants de riverains, des collectivités locales, des administrations concernées et des associations de protection de la nature, qui sera chargée de proposer les orientations de protection et de gestion des milieux aquatiques du bassin et de donner son avis sur toutes les questions y afférentes. Ces orientations sont arrêtées par le ministre chargé de la pêche en eau douce.<br/>\n<br/>   Un décret fixe la composition et les règles de fonctionnement de la commission de bassin.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L333-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1829-04-15 art. 17",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°84-512 du 29 juin 1984 - art. 4 () JORF 30 juin 1984 en vigueur le 1er juillet 1985",
+        "@cidtexte": "JORFTEXT000000692732",
+        "@datesignatexte": "1984-06-29",
+        "@id": "LEGIARTI000006274362",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@numtexte": "84-512",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°89-804 du 27 octobre 1989 - art. 3 (V) JORF 4 novembre 1989",
+        "@cidtexte": "JORFTEXT000000336190",
+        "@datesignatexte": "1989-10-27",
+        "@id": "LEGIARTI000006605474",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRME8961361D",
+        "@num": "3",
+        "@numtexte": "89-804",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

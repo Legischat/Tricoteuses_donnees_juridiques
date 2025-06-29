@@ -1,0 +1,134 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006603253",
+      "ANCIEN_ID": "RAHFSXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/32/LEGIARTI000006603253.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-03-26",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-729 du 29 août 1967 CONDITIONS D'HYGIENE, INSPECTION SANITAIRE ET QUALITATIVE",
+          "@c_titre_court": "Décret n°67-729 du 29 août 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000876811"
+        },
+        {
+          "#text": "Décret n°67-729 du 29 août 1967 pris pour l'application de l'article 12 de la loi n° 65-543 du 8 juillet 1965 relative aux conditions nécessaires à la modernisation du marché de la viande",
+          "@c_titre_court": "Décret n°67-729 du 29 août 1967",
+          "@debut": "1967-08-31",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006061467"
+        }
+      ],
+      "@cid": "JORFTEXT000000876811",
+      "@date_publi": "1967-08-31",
+      "@date_signature": "1967-08-29",
+      "@nature": "DECRET",
+      "@num": "67-729"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-08-31",
+          "@etat": "MODIFIE",
+          "@fin": "1993-03-26",
+          "@id": "LEGIARTI000006603252",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-26",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006603253",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'indemnité, évaluée selon les modalités prévues à l'article 2 du présent décret, est accordée aux communes et aux groupements de communes par arrêté du ministre chargé de l'agriculture, après avis du préfet de région, sur les crédits ouverts à cet effet au budget du ministère de l'agriculture.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°65-543 du 8 juillet 1965 - art. 12 (Ab)",
+        "@cidtexte": "JORFTEXT000000320403",
+        "@datesignatexte": "1965-07-08",
+        "@id": "LEGIARTI000006637897",
+        "@naturetexte": "LOI",
+        "@num": "12",
+        "@numtexte": "65-543",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°67-729 du 29 août 1967 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000876811",
+        "@datesignatexte": "1967-08-29",
+        "@id": "LEGIARTI000006603248",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "67-729",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°67-729 du 29 août 1967 - art. 2 (M)",
+        "@cidtexte": "JORFTEXT000000876811",
+        "@datesignatexte": "1967-08-29",
+        "@id": "LEGIARTI000006603249",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "67-729",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°93-475 du 25 mars 1993 - art. 1 () JORF 26 mars 1993",
+        "@cidtexte": "JORFTEXT000000528686",
+        "@datesignatexte": "1993-03-25",
+        "@id": "LEGIARTI000006929279",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRG9300414D",
+        "@num": "1",
+        "@numtexte": "93-475",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

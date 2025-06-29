@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006316792",
+      "ANCIEN_ID": "FAEABXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/67/LEGIARTI000006316792.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1973-12-28",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi de finances pour 1974 (n° 73-1150 du 27 décembre 1973‎)‎",
+          "@c_titre_court": "Loi n° 73-1150 du 27 décembre 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509756"
+        },
+        {
+          "#text": "Loi n° 73-1150 du 27 décembre 1973 DE FINANCES POUR 1974",
+          "@c_titre_court": "Loi n° 73-1150 du 27 décembre 1973",
+          "@debut": "1973-12-28",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068458"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "IMPOTS D' ETAT - IMPOT SUR LE REVENU - ASSIETTE ET LIQUIDATION - CALCUL DE L'IMPOT - PERSONNES A CHARGE",
+            "@debut": "1973-12-28",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084378"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000509756",
+      "@date_publi": "1973-12-28",
+      "@date_signature": "1973-12-27",
+      "@nature": "LOI",
+      "@num": "73-1150"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-12-28",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006316792",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. Tout contribuable peut considérer comme étant à sa charge, au sens de l'article 196 du code général des impôts, à la condition qu' ils vivent sous son toit, ses ascendants, ou ses frères et soeurs titulaires de la carte d'invalidité prévue à l'article 173 du code de la famille et de l'aide sociale, ainsi que ceux de son conjoint.<br/>\n<br/>   L'exercice de cette faculté est reservé aux contribuables dont le revenu annuel imposable, cumulé avec celui de la personne ainsi comptée à charge, n'excède pas 20 000 F, ce chiffre étant augmenté de 4 000 F par personne supplémentaire à charge.<br/>\n<br/>   II. Paragraphe modificateur.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 196",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 73-1150 1973-12-27 Finances pour 1974 JORF 28 DECEMBRE 1973",
+        "@cidtexte": "JORFTEXT000000509756",
+        "@datesignatexte": "1973-12-27",
+        "@id": "JORFTEXT000000509756",
+        "@naturetexte": "LOI",
+        "@numtexte": "73-1150",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code de la famille et de l'aide sociale. - art. 173 (M)",
+        "@cidtexte": "LEGITEXT000006072637",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006681376",
+        "@naturetexte": "CODE",
+        "@num": "173",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

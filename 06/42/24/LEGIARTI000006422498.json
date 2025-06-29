@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006422498",
+      "ANCIEN_ID": "ACAXXXXXXXX5X00187AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/24/LEGIARTI000006422498.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "187",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1804-03-21",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Des personnes",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089697"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre V : Du mariage",
+              "@debut": "1804-03-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117710"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre IV : Des demandes en nullité de mariage",
+                "@debut": "1804-03-21",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006136126"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1804-03-21",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006422498",
+          "@num": "187",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Dans tous les cas où, conformément à l'article 184, l'action en nullité peut être intentée par tous ceux qui y ont un intérêt, elle ne peut l'être par les parents collatéraux, ou par les enfants nés d'un autre mariage, du vivant des deux époux, mais seulement lorsqu'ils y ont un intérêt né et actuel.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code civil - art. 184 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006422465",
+        "@naturetexte": "CODE",
+        "@num": "184",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1803-03-14",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1803-03-17 promulguée le 27 mars 1803",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006701347",
+      "ANCIEN_ID": "SPHARXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/13/LEGIARTI000006701347.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1960-04-29",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°60-412 du 28 avril 1960 RELATIF AUX FRAIS MEDICAUX DE CURES THERMALES",
+          "@c_titre_court": "Décret n°60-412 du 28 avril 1960",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000877202"
+        },
+        {
+          "#text": "Décret n°60-412 du 28 avril 1960 relatif aux frais médicaux de cures thermales.",
+          "@c_titre_court": "Décret n°60-412 du 28 avril 1960",
+          "@debut": "1960-04-29",
+          "@fin": "1985-12-21",
+          "@id_txt": "LEGITEXT000006060962"
+        }
+      ],
+      "@cid": "JORFTEXT000000877202",
+      "@date_publi": "1960-04-29",
+      "@date_signature": "1960-04-28",
+      "@nature": "DECRET",
+      "@num": "60-412"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-04-29",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006701347",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les frais mentionnés à l'article L. 283 du Code de la sécurité sociale ne comprennent, en ce qui concerne les cures thermales, que les frais de surveillance médicale desdites cures et les frais de traitement dans les établissements thermaux.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-1353 1985-12-17 art. 6 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000866621",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000866621",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1353",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R322-14 (T)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006749264",
+        "@naturetexte": "CODE",
+        "@num": "R322-14",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale L283",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R322-14 (V)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006749264",
+        "@naturetexte": "CODE",
+        "@num": "R322-14",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

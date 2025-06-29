@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616652",
+      "ANCIEN_ID": "ADIJVXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/66/LEGIARTI000006616652.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-06-30",
+        "DATE_FIN": "1987-08-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 juin 1983 relatif aux marges de distribution des grossistes répartiteurs et des pharmaciens d'officine",
+          "@c_titre_court": "Arrêté du 29 juin 1983",
+          "@debut": "1983-06-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071592"
+        }
+      ],
+      "@cid": "LEGITEXT000006071592",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-06-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-06-30",
+          "@etat": "ABROGE",
+          "@fin": "1987-08-06",
+          "@id": "LEGIARTI000006616652",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les pharmaciens d'officine doivent, à partir du 1er juillet 1983, consentir un escompte de caisse de 1,5 p. 100 sur le prix de chaque médicament remboursable, jusqu'à ce que les produits mis en vente portent des étiquettes établies conformément aux dispositions du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-08-04 art. 5 JORF 6 août 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 35/A 1983-06-29 BOCC n° 11, 30 juin 1983",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006644374",
+      "ANCIEN_ID": "SAAXXXXXXXX3X241D12AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/43/LEGIARTI000006644374.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "D241-12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1980-04-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets simples",
+            "@debut": "1973-08-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101374"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Réglementation du travail",
+              "@debut": "1973-11-23",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123851"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IV : Médecine du travail",
+                "@debut": "1973-11-23",
+                "@fin": "1980-04-01",
+                "@id": "LEGISCTA000006139713"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 2 : Médecine du travail.",
+                  "@debut": "1973-11-23",
+                  "@fin": "1980-04-01",
+                  "@id": "LEGISCTA000006153882"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "ABROGE",
+          "@fin": "1980-04-01",
+          "@id": "LEGIARTI000006644374",
+          "@num": "D241-12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le médecin du travail doit exercer personnellement ses fonctions. Il doit se conformer aux dispositions de l'article 51 du code de déontologie médicale concernant l'exercice de la médecine préventive.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de déontologie des médecins 51",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret  1969-06-13 ART. 11",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006663510",
+      "ANCIEN_ID": "SEHGBXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/35/LEGIARTI000006663510.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-06-09",
+        "DATE_FIN": "1991-05-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-581 du 7 juin 1985 RELATIF AUX ENTREPRISES INTERMEDIAIRES",
+          "@c_titre_court": "Décret n°85-581 du 7 juin 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000881936"
+        },
+        {
+          "#text": "Décret n°85-581 du 7 juin 1985 relatif aux entreprises intermédiaires",
+          "@c_titre_court": "Décret n°85-581 du 7 juin 1985",
+          "@debut": "1985-06-09",
+          "@fin": "1991-05-11",
+          "@id_txt": "LEGITEXT000006065040"
+        }
+      ],
+      "@cid": "JORFTEXT000000881936",
+      "@date_publi": "1985-06-09",
+      "@date_signature": "1985-06-07",
+      "@nature": "DECRET",
+      "@num": "85-581"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-06-09",
+          "@etat": "ABROGE",
+          "@fin": "1991-05-11",
+          "@id": "LEGIARTI000006663510",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les contrats [*à durée déterminée*] visés à l'article 3 ne peuvent avoir une durée supérieure à dix-huit mois, y compris la durée du renouvellement mentionnée à l'article L. 122-3-2 du code du travail.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°85-581 du 7 juin 1985 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000881936",
+        "@datesignatexte": "1985-06-07",
+        "@id": "LEGIARTI000006663509",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "85-581",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°91-421 du 7 mai 1991 - art. 9 (Ab) JORF 11 mai 1991",
+        "@cidtexte": "JORFTEXT000000354688",
+        "@datesignatexte": "1991-05-07",
+        "@id": "LEGIARTI000006665344",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFE9103217D",
+        "@num": "9",
+        "@numtexte": "91-421",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. L122-3-2 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646715",
+        "@naturetexte": "CODE",
+        "@num": "L122-3-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

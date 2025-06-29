@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327855",
+      "ANCIEN_ID": "FAIPMXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/78/LEGIARTI000006327855.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-01-24",
+        "DATE_FIN": "1986-01-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 18 janvier 1985 fixant les limites des tranches du tarif de la retenue à la source applicable aux salaires, pensions et rentes viagères versés en 1985 à des personnes domiciliées hors de France",
+          "@c_titre_court": "Arrêté du 18 janvier 1985",
+          "@debut": "1985-01-24",
+          "@fin": "1986-01-17",
+          "@id_txt": "LEGITEXT000006069941"
+        }
+      ],
+      "@cid": "LEGITEXT000006069941",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-01-18",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-24",
+          "@etat": "PERIME",
+          "@fin": "1986-01-17",
+          "@id": "LEGIARTI000006327855",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En application du troisième alinéa du III de l'article 182 A du code général des impôts, les taux de 15 p. 100 et 25 p. 100 mentionnés ci-dessus sont ramenés à 10 p. 100 et 18 p. 100 dans les départements d'outre-mer.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-1208 1984-12-29 art. 2 I Finances pour 1985",
+        "@cidtexte": "JORFTEXT000000880778",
+        "@datesignatexte": "1984-12-29",
+        "@id": "JORFTEXT000000880778",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-1208",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 13 janvier 1986, v. init.",
+        "@cidtexte": "JORFTEXT000000473881",
+        "@datesignatexte": "1986-01-13",
+        "@id": "JORFTEXT000000473881",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "CGI 182 A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

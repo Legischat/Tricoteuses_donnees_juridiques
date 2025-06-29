@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006890901",
+      "ANCIEN_ID": "UTISGXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/09/LEGIARTI000006890901.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-08-02",
+        "DATE_FIN": "1995-11-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 juillet 1992 relatif à la délivrance du certificat de capacité    pour la conduite des bateaux de navigation intérieure",
+          "@c_titre_court": "Arrêté du 3 juillet 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000724403"
+        },
+        {
+          "#text": "Arrêté du 3 juillet 1992 relatif à la délivrance du certificat de capacité pour la conduite des bateaux de navigation intérieure",
+          "@c_titre_court": "Arrêté du 3 juillet 1992",
+          "@debut": "1992-08-02",
+          "@fin": "2004-01-01",
+          "@id_txt": "LEGITEXT000006079595"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE Ier : DISPOSITIONS RELATIVES AU CONDUCTEUR ET A L'ÉQUIPAGE.",
+            "@debut": "1992-08-02",
+            "@fin": "2004-01-01",
+            "@id": "LEGISCTA000006112381"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000724403",
+      "@date_publi": "1992-08-02",
+      "@date_signature": "1992-07-03",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "ARRETE",
+      "@nor": "EQUT9200952A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-08-02",
+          "@etat": "MODIFIE",
+          "@fin": "1995-11-25",
+          "@id": "LEGIARTI000006890901",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-11-25",
+          "@etat": "ABROGE",
+          "@fin": "2004-01-01",
+          "@id": "LEGIARTI000006890902",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conducteur d'un bateau motorisé autre que celui prévu à l'article 2 du présent arrêté, naviguant sur les voies et plans d'eau intérieurs, doit être muni d'un certificat de capacité tel que prévu aux articles 8, 9 et 10 du décret du 23 juillet 1991 susvisé ou d'une carte de plaisance prévue à l'article 15 dudit décret, délivré dans les conditions définies dans le présent arrêté, ou d'un document reconnu équivalent en application de l'article 13 dudit décret.<br/>\n<br/>   Toutefois un tel bateau peut être conduit par une personne âgée de plus de seize ans si elle est assistée d'une personne titulaire dudit certificat de capacité, d'une carte de plaisance ou d'un document équivalent, qui assume la responsabilité de la conduite.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1992-07-03 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 91-731 1991-07-23",
+        "@cidtexte": "JORFTEXT000000355863",
+        "@datesignatexte": "1991-07-23",
+        "@id": "JORFTEXT000000355863",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUT9100912D",
+        "@numtexte": "91-731",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 91-731 1991-07-23 art. 8, art. 9, art. 10, art. 15, art. 13",
+        "@cidtexte": "JORFTEXT000000355863",
+        "@datesignatexte": "1991-07-23",
+        "@id": "JORFTEXT000000355863",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUT9100912D",
+        "@numtexte": "91-731",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

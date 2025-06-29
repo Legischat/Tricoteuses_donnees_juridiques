@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273321",
+      "ANCIEN_ID": "ANIACXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/33/LEGIARTI000006273321.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-09-08",
+        "DATE_FIN": "2006-05-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 août 1987 RELATIF AUX CALCULATEURS ELECTRONIQUES INTEGRES DANS UN ENSEMBLE DE CORRECTION DE VOLUME DE GAZ DE TYPE 2",
+          "@c_titre_court": "Arrêté du 5 août 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000841071"
+        },
+        {
+          "#text": "Arrêté du 5 août 1987 relatif aux calculateurs électroniques intégrés dans un ensemble de correction de volume de gaz de type 2",
+          "@c_titre_court": "Arrêté du 5 août 1987",
+          "@debut": "1987-09-08",
+          "@fin": "2006-05-24",
+          "@id_txt": "LEGITEXT000006057711"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE III : APPROBATION DE MODELE.",
+            "@debut": "1987-09-08",
+            "@fin": "2006-05-24",
+            "@id": "LEGISCTA000006083376"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000841071",
+      "@date_publi": "1987-09-08",
+      "@date_signature": "1987-08-05",
+      "@nature": "ARRETE",
+      "@nor": "INDD8700473A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-09-08",
+          "@etat": "ABROGE",
+          "@fin": "2006-05-24",
+          "@id": "LEGIARTI000006273321",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<br/>   NOTA : L'abrogation a lieu sans préjudice de l'article 22 et, le cas échéant, du dernier alinéa de l'article 20 du décret n° 2006-447 du 12 avril 2006.<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les essais d'exactitude consistent à tracer les courbes donnant l'erreur relative sur le facteur de correction ou la grandeur principale résultante lorsque varie une des n grandeurs secondaires, les (n-1) autres grandeurs secondaires étant maintenues constantes.<br/>\n<br/>   Chaque courbe est tracée à partir de six valeurs de la grandeur secondaire variable, réparties sur toute la plage de cette grandeur. Les (n-1) autres grandeurs secondaires sont maintenues aux valeurs extrêmes de leurs plages respectives. Le débit est simulé.<br/>\n<br/>   Le calculateur doit être programmé de façon à ce que les plages des grandeurs secondaires représentatives de la température thermodynamique et de la pression du gaz soient équivalentes respectivement à des dynamiques de mesure de 1,5 et 5 de ces grandeurs caractéristiques.<br/>\n<br/>   Si l'affichage du facteur de correction est possible, les erreurs relatives sont calculées sur le facteur de correction. Cependant, l'erreur relative sur la grandeur principale résultante doit être évaluée pour au moins un des points d'essai.<br/>\n<br/>   Dans le cas contraire, les erreurs relatives sont calculées sur la grandeur principale résultante. Le volume sur lequel portent les essais doit alors être suffisant pour que l'incertitude de lecture soit inférieure au dixième de l'erreur maximale tolérée.<br/>\n<br/>   Les valeurs conventionnellement vraies du facteur de correction ou de la grandeur principale résultante doivent être calculées à partir des grandeurs caractéristiques déclarées constantes ou des formules de calcul figurant dans le calculateur lorsqu'il en existe.<br/>\n<br/>   Les points 12.1 à 12.3 ci-après définissent les conditions climatiques et la méthodologie des essais d'exactitude et fixent les erreurs maximales tolérées correspondantes :<br/>\n<br/>   12.1. Tracé des courbes d'erreurs, le calculateur étant exposé à une température stabilisée comprise entre 15 °C et 25 °C.<br/>\n<br/>   L'erreur maximale tolérée relative est de 7 0,2 p. 100.<br/>\n<br/>   12.2. Tracé des courbes d'erreurs, le calculateur étant exposé aux températures extrêmes définies par sa classe climatique d'appartenance.<br/>\n<br/>   L'erreur maximale tolérée relative est de 7 0,4 p. 100.<br/>\n<br/>   La méthodologie de cet essai est décrite dans la publication C.E.I. 68-2 et 1, quatrième édition, 1974.<br/>\n<br/>   12.3. Tracé des courbes d'erreurs après un essai cyclique de chaleur humide.<br/>\n<br/>   Seuls les calculateurs appartenant à la classe climatique B définie à l'article 7.2 du présent arrêté sont soumis à cet essai.<br/>\n<br/>   La température atteinte lors de cet essai est fixée à la température supérieure de la classe climatique d'appartenance.<br/>\n<br/>   L'erreur maximale tolérée relative est de 7 0,2 p. 100.<br/>\n<br/>   La méthodologie de cet essai est décrite dans la publication C.E.I. 68-2-30, deuxième édition, 1980.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-08-05 art. 7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2006-04-28 art. 17 JORF 24 mai 2006",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 72-866 1972-09-06",
+        "@cidtexte": "JORFTEXT000000497219",
+        "@datesignatexte": "1972-09-06",
+        "@id": "JORFTEXT000000497219",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-866",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

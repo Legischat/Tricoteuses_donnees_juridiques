@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006716168",
+      "ANCIEN_ID": "AFFAEXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/61/LEGIARTI000006716168.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-06-21",
+        "DATE_FIN": "1988-01-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-1355 du 20 juin 1945 RELATIVE A L'AMENAGEMENT DES LOIS DES 13-03-1917,24-07-1929 ET 13-08-1936",
+          "@c_titre_court": "Ordonnance n°45-1355 du 20 juin 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339688"
+        },
+        {
+          "#text": "Ordonnance n° 45-1355 du 20 juin 1945 relative aux sociétés de caution mutuelle, aux banques populaires et au crédit d'équipement des petites et moyennes entreprises",
+          "@c_titre_court": "Ordonnance n° 45-1355 du 20 juin 1945",
+          "@debut": "1945-06-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069149"
+        }
+      ],
+      "@cid": "JORFTEXT000000339688",
+      "@date_publi": "1945-06-21",
+      "@date_signature": "1945-06-20",
+      "@nature": "ORDONNANCE",
+      "@num": "45-1355"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-06-21",
+          "@etat": "ABROGE",
+          "@fin": "1988-01-06",
+          "@id": "LEGIARTI000006716168",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La chambre syndicale des banques populaires, créée en application de la loi du 24 juillet 1929, est chargée de représenter collectivement, pour faire valoir leurs droits et intérêts communs, les sociétés de caution mutuelle constituées sous le régime de la loi du 13 mars 1917, d'exercer un contrôle technique et financier sur leur organisation et leur gestion et de prendre ou proposer toutes mesures nécessaires à leur bon fonctionnement [*attributions*].<br/>\n<br/>   Toutes mesures utiles à l'application des dispositions ci-dessus seront déterminées en tant que de besoin, par décret rendu sur la proposition du ministre de l'économie et des finances.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-1355 1945-06-20 JORF 21 juin 1945 rectificatif JORF 26 juin 1945",
+        "@cidtexte": "JORFTEXT000000339688",
+        "@datesignatexte": "1945-06-20",
+        "@id": "JORFTEXT000000339688",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1355",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°88-15 du 5 janvier 1988 - art. 40 () JORF 6 janvier 1988",
+        "@cidtexte": "JORFTEXT000000684065",
+        "@datesignatexte": "1988-01-05",
+        "@id": "LEGIARTI000006314130",
+        "@naturetexte": "LOI",
+        "@nortexte": "COMX8700028L",
+        "@num": "40",
+        "@numtexte": "88-15",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. L527-3 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006584323",
+        "@naturetexte": "CODE",
+        "@num": "L527-3",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1917-03-13",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1929-07-24",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

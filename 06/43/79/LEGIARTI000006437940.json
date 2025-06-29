@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006437940",
+      "ANCIEN_ID": "PEHBZXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/79/LEGIARTI000006437940.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1989-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°88-690 du 9 mai 1988 MODIFIANT LE DECRET 79-500 DU 28-06-1979 CREANT LE DIPLOME D'ETAT RELATIF AUX FONCTIONS D'ANIMATION",
+          "@c_titre_court": "Décret n°88-690 du 9 mai 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000866923"
+        },
+        {
+          "#text": "Décret n°88-690 du 9 mai 1988 modifiant le décret n° 79-500 du 28 juin 1979 créant le diplôme d'Etat relatif aux fonctions d'animation",
+          "@c_titre_court": "Décret n°88-690 du 9 mai 1988",
+          "@debut": "1989-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006066753"
+        }
+      ],
+      "@cid": "JORFTEXT000000866923",
+      "@date_publi": "1988-05-10",
+      "@date_signature": "1988-05-09",
+      "@nature": "DECRET",
+      "@nor": "PRMJ8860045D",
+      "@num": "88-690"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006437940",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 86-309 du 18 février 1986 modifiant le décret n° 79-500 du 28 juin 1979 portant création du diplôme d'Etat relatif aux fonctions d'animation est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-500 1979-06-28",
+        "@cidtexte": "JORFTEXT000000306894",
+        "@datesignatexte": "1979-06-28",
+        "@id": "JORFTEXT000000306894",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-500",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 79-500 1979-06-28 Décret 86-309 1986-02-18",
+        "@cidtexte": "JORFTEXT000000306894",
+        "@datesignatexte": "1979-06-28",
+        "@id": "JORFTEXT000000306894",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-500",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

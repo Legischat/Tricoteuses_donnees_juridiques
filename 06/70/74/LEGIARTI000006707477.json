@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006707477",
+      "ANCIEN_ID": "AFEBWXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/74/LEGIARTI000006707477.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1987-06-18",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°87-416 du 17 juin 1987 SUR L'EPARGNE",
+          "@c_titre_court": "Loi n°87-416 du 17 juin 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000508808"
+        },
+        {
+          "#text": "Loi n° 87-416 du 17 juin 1987 sur l'épargne",
+          "@c_titre_court": "Loi n° 87-416 du 17 juin 1987",
+          "@debut": "1987-06-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068996"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Plans d'épargne en vue de la retraite.",
+            "@debut": "1987-06-18",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006104200"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000508808",
+      "@date_publi": "1987-06-18",
+      "@date_signature": "1987-06-17",
+      "@nature": "LOI",
+      "@num": "87-416"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-06-18",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006707477",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La donation de tout ou partie des titres acquis dans le cadre d'un plan d'épargne en vue de la retraite est considérée comme un retrait, au sens de l'article 5, et donne lieu à imposition sur la base de la valeur atteinte par ces titres à la date de la donation.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 87-416 1987-06-17 art. 5",
+        "@cidtexte": "JORFTEXT000000508808",
+        "@datesignatexte": "1987-06-17",
+        "@id": "JORFTEXT000000508808",
+        "@naturetexte": "LOI",
+        "@numtexte": "87-416",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 91 (Ab)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006307138",
+        "@naturetexte": "CODE",
+        "@num": "91",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

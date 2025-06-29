@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006554271",
+      "ANCIEN_ID": "PRIQPXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/42/LEGIARTI000006554271.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-01-01",
+        "DATE_FIN": "2015-09-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 février 1996 portant création du traitement automatisé    d'informations nominatives relatif à la gestion de la formation continue à la    délégation générale pour l'armement",
+          "@c_titre_court": "Arrêté du 27 février 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000376195"
+        },
+        {
+          "#text": "Arrêté du 27 février 1996 portant création du traitement automatisé d'informations nominatives relatif à la gestion de la formation continue à la    direction générale de l'armement",
+          "@c_titre_court": "Arrêté du 27 février 1996",
+          "@debut": "2009-10-07",
+          "@fin": "2015-09-10",
+          "@id_txt": "LEGITEXT000021122543"
+        },
+        {
+          "#text": "Arrêté du 27 février 1996 portant création du traitement automatisé d'informations nominatives relatif à la gestion de la formation continue à la délégation générale pour l'armement",
+          "@c_titre_court": "Arrêté du 27 février 1996",
+          "@debut": "1996-03-14",
+          "@fin": "2009-10-07",
+          "@id_txt": "LEGITEXT000005620521"
+        }
+      ],
+      "@cid": "JORFTEXT000000376195",
+      "@date_publi": "1996-03-14",
+      "@date_signature": "1996-02-27",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "ARRETE",
+      "@nor": "DEFA9601238A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-03-14",
+          "@etat": "MODIFIE",
+          "@fin": "2005-01-01",
+          "@id": "LEGIARTI000006554270",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2015-09-10",
+          "@id": "LEGIARTI000006554271",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les catégories d'informations enregistrées sont celles relatives :<br/>\n<br/>   - à l'identité (numéro matricule, nom de famille, nom d'usage, prénom, sexe, date de naissance) ;<br/>\n<br/>   - à la formation (formations demandées [suivies, non suivies ou refusées], nature, coût, durée, dates, priorités, degré des formations demandées) ;<br/>\n<br/>   - à la vie professionnelle (service d'affectation, date d'affectation, catégorie, corps, grade, niveau, échelon, mode de recrutement, fonctions et activités exercées, coût d'une journée de formation).<br/>\n<br/>   La durée de conservation des informations nominatives ainsi enregistrées est limitée à la durée de l'affectation dans un service de la D.G.A.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2004-1159 du 29 octobre 2004 - art. 19 (V) JORF 31 octobre 2004 en vigueur le 1er janvier 2005",
+        "@cidtexte": "JORFTEXT000000237596",
+        "@datesignatexte": "2004-10-29",
+        "@id": "LEGIARTI000006286409",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC0420812D",
+        "@num": "19",
+        "@numtexte": "2004-1159",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "ARRÊTÉ du 24 août 2015 - art. 1",
+        "@cidtexte": "JORFTEXT000031140151",
+        "@datesignatexte": "2015-08-24",
+        "@id": "LEGIARTI000031140570",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEFD1520658A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006634525",
+      "ANCIEN_ID": "ADIVVXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/45/LEGIARTI000006634525.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1995-04-08",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 mars 1995 relatif aux conditions de tarification s'appliquant à    la diffusion des données du système national d'identification et du    répertoire des entreprises et de leurs établissements",
+          "@c_titre_court": "Arrêté du 21 mars 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000735404"
+        },
+        {
+          "#text": "Arrêté du 21 mars 1995 relatif aux conditions de tarification s'appliquant à la diffusion des données du système national d'identification et du répertoire des entreprises et de leurs établissements",
+          "@c_titre_court": "Arrêté du 21 mars 1995",
+          "@debut": "1995-04-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005618249"
+        }
+      ],
+      "@cid": "JORFTEXT000000735404",
+      "@date_publi": "1995-04-08",
+      "@date_signature": "1995-03-21",
+      "@ministere": "MINISTERE DE L'ECONOMIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOS9570002A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-04-08",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006634525",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le tarif des prestations autres que celles figurant à l'article 4 et autorisées par l'article 1er du décret du 17 février 1995 susvisé comprend :<br/>\n<br/>   - un droit d'accès déterminé selon les tarifs figurant dans le tableau de l'article 10 ;<br/>\n<br/>   - des frais de mise à disposition ainsi calculés :<br/>\n<br/>      - coût correspondant au temps personne : gratuit si la durée de la prestation est inférieure à 1 heure, sinon 540 F la première demi-journée, 540 F la deuxième demi-journée, 1 080 F par demi-journée supplémentaire, toute demi-journée commencée étant facturée ;<br/>\n<br/>      - coût correspondant au temps machine : fonction du nombre de données figurant dans le fichier traité en entrée et la nature des opérations réalisées, selon le tableau ci-dessous :<br/>\n<br/>   Opération informatique, coût par million de données figurant dans le fichier traité en entrée (en francs).<br/>\n<br/>   Lecture : 4.<br/>\n<br/>   Extraction/Tri du fichier : 1.<br/>\n<br/>   Recodification : 10.<br/>\n<br/>   Tabulation : 1.<br/>\n<br/>   L'extraction est l'opération consistant à sélectionner dans un fichier détail ou dans un fichier tabulé un sous-ensemble de données préexistantes et constituant ce fichier.<br/>\n<br/>   La recodification est l'opération consistant à créer de nouvelles variables à partir de variables existant dans un fichier donné.<br/>\n<br/>   La tabulation est l'opération consistant à agréger des données ou à produire des tableaux à partir d'un fichier détail, ou encore à opérer des calculs sur des tableaux déjà produits ;<br/>\n<br/>      - frais de support, selon le tableau ci-dessous :<br/>\n<br/>   Papier : 2 F par page ou 2 F par tranche de 500 données tabulées (ou cases de tableau).<br/>\n<br/>   Disquette : 200 F par tranche indivisible de 100 000 données tabulées (ou cases de tableau) ou 500 000 données détail.<br/>\n<br/>   Bande ou cartouche : 500 F, quel que soit le nombre de bandes ou cartouches.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-03-21 art. 4, art. 10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°95-171 du 17 février 1995 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000735289",
+        "@datesignatexte": "1995-02-17",
+        "@id": "LEGIARTI000006541367",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOS9540007D",
+        "@num": "1",
+        "@numtexte": "95-171",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

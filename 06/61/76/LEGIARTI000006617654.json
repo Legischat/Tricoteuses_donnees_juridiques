@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006617654",
+      "ANCIEN_ID": "RDIAJXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/76/LEGIARTI000006617654.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-01-01",
+        "DATE_FIN": "2016-02-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 décembre 1978 LISTE DES CARBURANTS AUTORISES AU REGARD DES DISPOSITIONS DE L'ARTICLE 265 TER DU CODE DES DOUANES",
+          "@c_titre_court": "Arrêté du 22 décembre 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000455737"
+        },
+        {
+          "#text": "Arrêté du 22 décembre 1978 relatif à la liste des carburants autorisés au regard des dispositions de l'article 265 ter du code des douanes",
+          "@c_titre_court": "Arrêté du 22 décembre 1978",
+          "@debut": "1979-01-01",
+          "@fin": "2016-02-05",
+          "@id_txt": "LEGITEXT000006071612"
+        }
+      ],
+      "@cid": "JORFTEXT000000455737",
+      "@date_publi": "1978-12-28",
+      "@date_signature": "1978-12-22",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2016-02-05",
+          "@id": "LEGIARTI000006617654",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent arrêté sont appliquées sans préjudice des conditions qui peuvent être imposées par d'autres textes législatifs ou réglementaires en ce qui concerne la vente, l'emploi, les règles techniques d'utilisation et les caractéristiques des produits pétroliers.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2000-03-09 art. 1 JORF 18 mars 2000 en vigueur le 1er janvier 2000",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 19 janvier 2016 - art. 10",
+        "@cidtexte": "JORFTEXT000031974406",
+        "@datesignatexte": "2016-01-19",
+        "@id": "LEGIARTI000031975469",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVR1603132A",
+        "@num": "10",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des douanes - art. 265 ter (M)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615136",
+        "@naturetexte": "CODE",
+        "@num": "265 ter",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

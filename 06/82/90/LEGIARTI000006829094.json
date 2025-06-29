@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006829094",
+      "ANCIEN_ID": "UCIDTXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/90/LEGIARTI000006829094.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-05-26",
+        "DATE_FIN": "2018-03-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 25 avril 1985 relatif à la vérification et à l'entretien des installations collectives de ventilation mécanique contrôlée - gaz.",
+          "@c_titre_court": "Arrêté du 25 avril 1985",
+          "@debut": "1985-05-26",
+          "@fin": "2018-03-05",
+          "@id_txt": "LEGITEXT000006074174"
+        }
+      ],
+      "@cid": "LEGITEXT000006074174",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-04-25",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-05-26",
+          "@etat": "ABROGE",
+          "@fin": "2018-03-05",
+          "@id": "LEGIARTI000006829094",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Afin de faciliter les opérations de vérification et d'entretien visées à l'article 2.1, le propriétaire ou le syndic mettra à la disposition des professionnels concernés les documents techniques définissant les caractéristiques des installations et précisant les débits, les dépressions, les réglages des bouches, des volets de réglage et des ventilateurs.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-04-25 art. 2.1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 23 février 2018 - art. 32 (V)",
+        "@cidtexte": "JORFTEXT000036667631",
+        "@datesignatexte": "2018-02-23",
+        "@id": "LEGIARTI000036669990",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TREP1717398A",
+        "@num": "32",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Circulaire 1985-04-25",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

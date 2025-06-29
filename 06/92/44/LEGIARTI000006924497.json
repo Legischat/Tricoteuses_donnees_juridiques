@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006924497",
+      "ANCIEN_ID": "AKHDNXXXXXX081AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/44/LEGIARTI000006924497.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "81",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1994-12-01",
+        "DATE_FIN": "2004-09-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 94-490 du 15 juin 1994 pris en application de l'article 31 de la    loi no 92-645 du 13 juillet 1992 fixant les conditions d'exercice des    activités relatives à l'organisation et à la vente de voyages ou de séjours",
+          "@c_titre_court": "Décret n°94-490 du 15 juin 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000548526"
+        },
+        {
+          "#text": "Décret n°94-490 du 15 juin 1994 pris en application de la loi n° 92-645 du 13 juillet 1992 fixant les conditions d'exercice des activités relatives à l'organisation et à la vente de voyages ou de séjours",
+          "@c_titre_court": "Décret n°94-490 du 15 juin 1994",
+          "@debut": "2004-09-19",
+          "@fin": "2006-10-08",
+          "@id_txt": "LEGITEXT000005616019"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : De l'habilitation.",
+            "@debut": "1994-12-01",
+            "@fin": "2006-10-08",
+            "@id": "LEGISCTA000006113215"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre IV : Classement des autocars de tourisme.",
+              "@debut": "1994-12-01",
+              "@fin": "2006-10-08",
+              "@id": "LEGISCTA000006132666"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000548526",
+      "@date_publi": "1994-06-17",
+      "@date_signature": "1994-06-15",
+      "@ministere": "MINISTERE DE L'EQUIPEMENT,DES TRANSPORTS ET DU TOURISME",
+      "@nature": "DECRET",
+      "@nor": "EQUZ9400783D",
+      "@num": "94-490"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-12-01",
+          "@etat": "MODIFIE",
+          "@fin": "2004-09-19",
+          "@id": "LEGIARTI000006924497",
+          "@num": "81",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-09-19",
+          "@etat": "ABROGE",
+          "@fin": "2006-10-08",
+          "@id": "LEGIARTI000006924498",
+          "@num": "81",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Indépendamment des conditions techniques auxquelles il doit répondre, tout autocar utilisé pour les déplacements de tourisme lors d'excursions ou de voyages organisés doit avoir fait l'objet d'un classement sur avis d'un organisme agréé, selon des modalités fixées par arrêté du ministre chargé du tourisme.<br/>\n<br/>   Ce classement en plusieurs catégories est établi sur la base de critères généraux d'entretien du véhicule et sur des critères particuliers reposant principalement sur des notions de qualité et de confort.<br/>\n<br/>   L'arrêté du ministre chargé du tourisme détermine les modalités de l'examen auquel est soumis le véhicule. Les caractéristiques ainsi que les modalités de distribution et d'acquisition du panonceau qui doit être obligatoirement apposé sur l'autocar classé sont fixées par le même arrêté.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 92-645 1992-07-13 art. 31",
+        "@cidtexte": "JORFTEXT000000527137",
+        "@datesignatexte": "1992-07-13",
+        "@id": "JORFTEXT000000527137",
+        "@naturetexte": "LOI",
+        "@nortexte": "TOUX9100006L",
+        "@numtexte": "92-645",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°94-490 du 15 juin 1994 - art. 82 (Ab)",
+        "@cidtexte": "JORFTEXT000000548526",
+        "@datesignatexte": "1994-06-15",
+        "@id": "LEGIARTI000006924500",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUZ9400783D",
+        "@num": "82",
+        "@numtexte": "94-490",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

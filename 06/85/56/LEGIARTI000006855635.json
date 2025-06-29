@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855635",
+      "ANCIEN_ID": "AHIAFXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/56/LEGIARTI000006855635.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1985-10-09",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 septembre 1985 relatif à la codification de textes concernant les assurances",
+          "@c_titre_court": "Arrêté du 10 septembre 1985",
+          "@debut": "1985-10-09",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074308"
+        }
+      ],
+      "@cid": "LEGITEXT000006074308",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-09-10",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-10-09",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006855635",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les articles A. 241-1 et A. 241-3, introduits dans le code des assurances par les deux arrêtés susvisés du 17 novembre 1978, portent désormais les numéros A. 243-1 et A. 243-2.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1978-11-17 (deux arrêtés du même jour)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des assurances - art. A243-1 (V)",
+        "@cidtexte": "LEGITEXT000006073984",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006787147",
+        "@naturetexte": "CODE",
+        "@num": "A243-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des assurances - art. A243-2 (Ab)",
+        "@cidtexte": "LEGITEXT000006073984",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006787155",
+        "@naturetexte": "CODE",
+        "@num": "A243-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

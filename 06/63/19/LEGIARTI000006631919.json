@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006631919",
+      "ANCIEN_ID": "ADITLXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/19/LEGIARTI000006631919.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1987-12-01",
+        "DATE_FIN": "2008-10-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 octobre 1984 concernant les quantités nominales des produits d'entretien en préemballages",
+          "@c_titre_court": "Arrêté du 17 octobre 1984",
+          "@debut": "2008-10-11",
+          "@fin": "2009-04-11",
+          "@id_txt": "LEGITEXT000019599096"
+        },
+        {
+          "#text": "Arrêté du 17 octobre 1984 concernant les quantités nominales des produits d'entretien en préemballages",
+          "@c_titre_court": "Arrêté du 17 octobre 1984",
+          "@debut": "1987-12-01",
+          "@fin": "2008-10-11",
+          "@id_txt": "LEGITEXT000006071844"
+        }
+      ],
+      "@cid": "LEGITEXT000006071844",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-10-17",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-12-01",
+          "@etat": "MODIFIE",
+          "@fin": "2008-10-11",
+          "@id": "LEGIARTI000006631919",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2008-10-11",
+          "@etat": "ABROGE",
+          "@fin": "2009-04-11",
+          "@id": "LEGIARTI000019599088",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Lorsqu'un préemballage collectif est constitué de deux ou plusieurs préemballages individuels, la gamme de valeurs citées à l'article 1er s'applique soit aux préemballages individuels, soit au préemballage collectif.<br/>\n    Les préemballages individuels constituant un préemballage collectif ne peuvent être vendus individuellement que s'ils satisfont à la gamme de valeurs citées à l'article 1er.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-10-17 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 78-166 1978-01-31",
+        "@cidtexte": "JORFTEXT000000519436",
+        "@datesignatexte": "1978-01-31",
+        "@id": "JORFTEXT000000519436",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-166",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006685712",
+      "ANCIEN_ID": "SNAXXXXXXXX5X070000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/57/LEGIARTI000006685712.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "70",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-06-30",
+        "DATE_FIN": "1995-09-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de déontologie des médecins",
+          "@c_titre_court": "Code de déontologie des médecins",
+          "@debut": "1979-06-30",
+          "@fin": "1995-09-08",
+          "@id_txt": "LEGITEXT000006072664"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 4 : Règles particulières à certains modes d'exercice",
+            "@debut": "1979-06-30",
+            "@fin": "1995-09-08",
+            "@id": "LEGISCTA000006103416"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Exercice en clientèle privée",
+              "@debut": "1979-06-30",
+              "@fin": "1995-09-08",
+              "@id": "LEGISCTA000006125340"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072664",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-06-30",
+          "@etat": "ABROGE",
+          "@fin": "1995-09-08",
+          "@id": "LEGIARTI000006685712",
+          "@num": "70",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les honoraires du médecin doivent être déterminés avec tact et mesure, en tenant compte de la réglementation en vigueur, de la nature des soins donnés et des circonstances particulières.<br/>\n    Le versement des honoraires est effectué soit par le malade, soit par une administration ou un organisme habilité.<br/>\n    Un médecin n'est jamais en droit de refuser des explications sur sa note d'honoraires ou le coût d'un traitement. Aucun mode particulier de règlement ne peut être imposé aux malades.<br/>\n    Le forfait pour l'efficacité d'un traitement est interdit en toutes circonstances.<br/>\n    Lorsque plusieurs praticiens collaborent pour un examen ou un traitement, leurs notes d'honoraires doivent être personnelles et distinctes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-506 1979-06-28 JORF 30 juin 1979",
+        "@cidtexte": "JORFTEXT000000703112",
+        "@datesignatexte": "1979-06-28",
+        "@id": "JORFTEXT000000703112",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-506",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 95-1000 1995-09-06 art. 113 JORF 8 septembre 1995",
+        "@cidtexte": "JORFTEXT000000555170",
+        "@datesignatexte": "1995-09-06",
+        "@id": "JORFTEXT000000555170",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9502310D",
+        "@numtexte": "95-1000",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

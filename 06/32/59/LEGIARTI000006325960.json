@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006325960",
+      "ANCIEN_ID": "FAHUUXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/59/LEGIARTI000006325960.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1990-04-04",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 90-293 du 29 mars 1990 pris en application de l'article 30-I de la    loi de finances pour 1990 (no 89-935 du 29 décembre 1989)",
+          "@c_titre_court": "Décret n°90-293 du 29 mars 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000707803"
+        },
+        {
+          "#text": "Décret n°90-293 du 29 mars 1990 pris en application de l'article 30-I de la loi de finances pour 1990 (n° 89-935 du 29 décembre 1989)",
+          "@c_titre_court": "Décret n°90-293 du 29 mars 1990",
+          "@debut": "1990-04-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006075668"
+        }
+      ],
+      "@cid": "JORFTEXT000000707803",
+      "@date_publi": "1990-04-04",
+      "@date_signature": "1990-03-29",
+      "@ministere": "MINISTERE DE L'ECONOMIE, FINANCES ET BUDGET",
+      "@nature": "DECRET",
+      "@nor": "BUDR9004006D",
+      "@num": "90-293"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-04-04",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006325960",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour leur imputation sur l'impôt sur le revenu, les sommes versées au Trésor sont considérées comme des versements effectués au titre de l'article 1664 du code général des impôts.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1664",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 381 R (M)",
+        "@cidtexte": "LEGITEXT000006069574",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006300099",
+        "@naturetexte": "CODE",
+        "@num": "381 R",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Instruction 1990-02-28 5B-12-90",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi 89-935 1989-12-30 art. 30 I Finances pour 1990",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

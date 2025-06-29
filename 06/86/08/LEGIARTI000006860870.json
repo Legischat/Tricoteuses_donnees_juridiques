@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860870",
+      "ANCIEN_ID": "UPIDVXXXXXX023AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/08/LEGIARTI000006860870.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1978-08-24",
+        "DATE_FIN": "1993-12-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 août 1977 Règles techniques et de sécurité applicables aux installations de gaz combustible et d'hydrocarbures liquéfiés situées à l'intérieur des bâtiments d'habitation ou de leurs dépendances.",
+          "@c_titre_court": "Arrêté du 2 août 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000309497"
+        },
+        {
+          "#text": "Arrêté du 2 août 1977 relatif aux règles techniques et de sécurité applicables aux installations de gaz combustible et d'hydrocarbures liquéfiés situés à l'intérieur des bâtiments d'habitation ou de leurs dépendances",
+          "@c_titre_court": "Arrêté du 2 août 1977",
+          "@debut": "1978-08-24",
+          "@fin": "2020-01-01",
+          "@id_txt": "LEGITEXT000006074424"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Prescriptions particulières aux gaz de pétrole liquéfiés livrés en récipients mobiles ou distribués à partir de récipients fixes et aux emplacements et locaux où ces récipients seront entreposés",
+            "@debut": "1978-08-24",
+            "@fin": "1993-12-10",
+            "@id": "LEGISCTA000006110055"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Branchement des récipients",
+              "@debut": "1978-08-24",
+              "@fin": "1993-12-10",
+              "@id": "LEGISCTA000006129980"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000309497",
+      "@date_publi": "1977-08-24",
+      "@date_signature": "1977-08-02",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-08-24",
+          "@etat": "MODIFIE",
+          "@fin": "1993-12-10",
+          "@id": "LEGIARTI000006860870",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-12-10",
+          "@etat": "ABROGE",
+          "@fin": "2020-01-01",
+          "@id": "LEGIARTI000006860871",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le branchement et le débranchement des récipients d'hydrocarbures liquéfiés doivent se faire en l'absence de feu ou d'étincelles, après vérification de la fermeture des robinets de ces récipients et, s'il s'agit de propane commercial, après isolement des tuyauteries.<br/>\n<br/>   Avant le raccordement d'un récipient à l'installation, la présence et le bon état du joint d'étanchéité doivent être vérifiés.<br/>\n<br/>   Lors de la première prise en charge d'un récipient d'hydrocarbures liquéfiés, consigné ou vendu, une notice rappelant les règles de sécurité pour la mise en service et pour l'utilisation est remise à l'usager par la personne chargée de la vente. En outre, la même notice doit être à tout moment tenue à la disposition de l'usager.<br/>\n<br/>   Lorsqu'un récipient de propane commercial alimente des conduites situées dans un bâtiment collectif, l'installation doit comporter avant l'entrée dans le bâtiment et à l'aval du détendeur de première détente un limiteur de pression ou un second détendeur limitant la pression du gaz à 1,2 fois la pression de service, soit 2,1 bar maximum, même dans le cas de mauvais fonctionnement du détendeur de première détente.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-08-02 art. 33 : *application immédiate aux projets de construction ayant fait l'objet d'une demande de permis de construire ou d'autorisation préalable postérieure à sa publication*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 62-608 1962-05-23",
+        "@cidtexte": "JORFTEXT000000670587",
+        "@datesignatexte": "1962-05-23",
+        "@id": "JORFTEXT000000670587",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-608",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

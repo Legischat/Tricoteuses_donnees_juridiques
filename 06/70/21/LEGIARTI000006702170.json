@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006702170",
+      "ANCIEN_ID": "SPHBYXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/21/LEGIARTI000006702170.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-06-05",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°87-367 du 3 juin 1987 PORTANT CREATION DU COMITE NATIONAL POUR L'EVALUATION MEDICALE",
+          "@c_titre_court": "Décret n°87-367 du 3 juin 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000700551"
+        },
+        {
+          "#text": "Décret n°87-367 du 3 juin 1987 portant création du Comité national pour l'évaluation médicale",
+          "@c_titre_court": "Décret n°87-367 du 3 juin 1987",
+          "@debut": "1987-06-05",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006065976"
+        }
+      ],
+      "@cid": "JORFTEXT000000700551",
+      "@date_publi": "1987-06-05",
+      "@date_signature": "1987-06-03",
+      "@nature": "DECRET",
+      "@nor": "ASEP8700806D",
+      "@num": "87-367"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-06-05",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006702170",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le comité choisit parmi ses membres son président qui doit être agréé par le ministre chargé de la santé. Son mandat est de trois ans [*durée*] renouvelable.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 5 JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. D1414-51 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006910865",
+        "@naturetexte": "CODE",
+        "@num": "D1414-51",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. D1414-51 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006910865",
+        "@naturetexte": "CODE",
+        "@num": "D1414-51",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

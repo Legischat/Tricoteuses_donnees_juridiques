@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652477",
+      "ANCIEN_ID": "SBAXXXXXXXX5X07300AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/24/LEGIARTI000006652477.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "73",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1926-12-15",
+        "DATE_FIN": "2013-07-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 4 : Des obligations de l'armateur envers le marin",
+            "@debut": "1926-12-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101380"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 2 : De la nourriture et du couchage",
+              "@debut": "1926-12-15",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123912"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-12-15",
+          "@etat": "ABROGE",
+          "@fin": "2013-07-18",
+          "@id": "LEGIARTI000006652477",
+          "@num": "73",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sur tout bâtiment où les marins sont nourris par l'armateur, il doit y avoir un cuisinier apte à cet emploi, âgé de plus de dix-huit ans. Si l'équipage comprend plus de vingt hommes, le cuisinier ne peut être distrait de son emploi pour être affecté à un autre service du bord.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI du 13 décembre 1926",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "LOI n°2013-619\n du 16 juillet 2013 - art. 31",
+        "@cidtexte": "JORFTEXT000027713399",
+        "@datesignatexte": "2013-07-16",
+        "@id": "LEGIARTI000027715487",
+        "@naturetexte": "LOI",
+        "@nortexte": "DEVK1240259L",
+        "@num": "31",
+        "@numtexte": "2013-619",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

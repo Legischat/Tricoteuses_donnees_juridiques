@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006617614",
+      "ANCIEN_ID": "RDIAIXXXXXX026AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/76/LEGIARTI000006617614.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "26",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-11-28",
+        "DATE_FIN": "2004-07-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 janvier 1974 relatif à l'application de la franchise des droits et taxes instituée par l'article 190 du code des douanes pour les produits pétroliers destinés à l'avitaillement des navires",
+          "@c_titre_court": "Arrêté du 2 janvier 1974",
+          "@debut": "1990-11-28",
+          "@fin": "2004-07-28",
+          "@id_txt": "LEGITEXT000006071611"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Dépôts spéciaux d'avitaillement des bateaux.",
+            "@debut": "1974-02-01",
+            "@fin": "2004-07-28",
+            "@id": "LEGISCTA000006099388"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071611",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-01-02",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-02-01",
+          "@etat": "TRANSFERE",
+          "@fin": "1990-11-28",
+          "@id": "LEGIARTI000006617613",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-11-28",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-28",
+          "@id": "LEGIARTI000006617614",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   a) Les décisions constitutives des dépôts spéciaux d'avitaillement des bateaux peuvent être rapportées en cours de validité à la demande ou avec le consentement des titulaires par le directeur général des douanes et droits indirects.<br/>\n<br/>   b) Elles peuvent être rapportées d'office :<br/>\n<br/>   en cas de violation des prescriptions applicables au titulaire du dépôt spécial ou aux dépositaires de produits dans le dépôt spécial :<br/>\n<br/>   lorsque les opérations effectuées par le dépôt spécial ont entraîné des abus dûment constatés ;<br/>\n<br/>   lorsque, durant six mois consécutifs, l'activité du dépôt spécial s'est avérée nulle ou très insuffisante par rapport aux besoins des utilisateurs.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-01-02 art. 29",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Arrêté 1990-11-06 art. 14 JORF 28 novembre 1990",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      },
+      {
+        "#text": "Arrêté 2004-07-01 art. 31 JORF 28 juillet 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des douanes - art. 190 (V)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615585",
+        "@naturetexte": "CODE",
+        "@num": "190",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

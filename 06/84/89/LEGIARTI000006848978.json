@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006848978",
+      "ANCIEN_ID": "UPEHZXXXXXX022AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/89/LEGIARTI000006848978.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-04-25",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°67-545 du 7 juillet 1967 RELATIVE AUX EVENEMENTS DE MER",
+          "@c_titre_court": "Loi n°67-545 du 7 juillet 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000504707"
+        },
+        {
+          "#text": "Loi n°67-545 du 7 juillet 1967 relative aux événements de mer.",
+          "@c_titre_court": "Loi n°67-545 du 7 juillet 1967",
+          "@debut": "1968-04-25",
+          "@fin": "2010-12-01",
+          "@id_txt": "LEGITEXT000006068308"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "chapitre III : Des avaries.",
+            "@debut": "1968-04-25",
+            "@fin": "2010-12-01",
+            "@id": "LEGISCTA000006108930"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000504707",
+      "@date_publi": "1967-07-09",
+      "@date_signature": "1967-07-07",
+      "@nature": "LOI",
+      "@num": "67-545"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-04-25",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006848978",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les avaries sont communes ou particulières.<br/>\n<br/>   A défaut de stipulations contraires des parties intéressées, elles sont réglées conformément aux dispositions ci-après.<br/>\n<br/>   L'option que dans un connaissement le transporteur se réserverait entre ces dispositions et toutes autres dispositions est réputée non écrite.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°67-545 du 7 juillet 1967 - art. 45 (V)",
+        "@cidtexte": "JORFTEXT000000504707",
+        "@datesignatexte": "1967-07-07",
+        "@id": "LEGIARTI000006849003",
+        "@naturetexte": "LOI",
+        "@num": "45",
+        "@numtexte": "67-545",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307 du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des transports - art. L5133-1 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023081400",
+        "@naturetexte": "CODE",
+        "@num": "L5133-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

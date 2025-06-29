@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006389070",
+      "ANCIEN_ID": "AAIDUXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/90/LEGIARTI000006389070.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-04-27",
+        "DATE_FIN": "1985-06-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 25 avril 1979 APPLICATION DES ARTICLES 5 ET 10 DE LA LOI 7912 DU 03-01-1979 RELATIVE AUX SICAV :",
+          "@c_titre_court": "Arrêté du 25 avril 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000462587"
+        },
+        {
+          "#text": "Arrêté du 25 avril 1979 pris pour l'application de la loi n° 79-12 du 3 janvier 1979 relative aux sociétés d'investissement à capital variable",
+          "@c_titre_court": "Arrêté du 25 avril 1979",
+          "@debut": "1979-04-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070632"
+        }
+      ],
+      "@cid": "JORFTEXT000000462587",
+      "@date_publi": "1979-04-27",
+      "@date_signature": "1979-04-25",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-04-27",
+          "@etat": "ABROGE",
+          "@fin": "1985-06-29",
+          "@id": "LEGIARTI000006389070",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La tenue de la comptabilité doit permettre l'identification [*règles comptables applicables aux SICAV*] :<br/>\n<br/>   D'une part, des sommes distribuables visées à l'article 1er de la loi n° 79-12 du 3 janvier 1979 en distinguant :<br/>\n<br/>   Le report à nouveau tel qu'il résulte de la plus récente décision d'affectation des résultats ;<br/>\n<br/>   Les revenus nets de l'exercice clos, déduction faite, le cas échéant, des montants reportés à nouveau si l'émission ou le rachat [*achat par la société de ses propres actions*] intervient avant la mise en paiement du dividende correspondant ;<br/>\n<br/>   Les revenus nets de l'exercice en cours établis par différence entre les produits et les frais de gestion, tels qu'ils sont définis à l'article 9 de la loi n° 79-12 du 3 janvier 1979, pour la période courue entre le début de l'exercice et la date de l'émission ou du rachat ;<br/>\n<br/>   D'autre part, du capital, ce dernier pouvant toutefois n'être ajusté des variations d'évaluation qu'à l'occasion de l'arrêté des situations trimestrielles.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-04-03 art. 2 JORF 29 juin 1985",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 79-12 1979-01-03",
+        "@cidtexte": "JORFTEXT000000339250",
+        "@datesignatexte": "1979-01-03",
+        "@id": "JORFTEXT000000339250",
+        "@naturetexte": "LOI",
+        "@numtexte": "79-12",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 79-12 1979-01-03 art. 1 et art. 9",
+        "@cidtexte": "JORFTEXT000000339250",
+        "@datesignatexte": "1979-01-03",
+        "@id": "JORFTEXT000000339250",
+        "@naturetexte": "LOI",
+        "@numtexte": "79-12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 79-323 1979-04-24",
+        "@cidtexte": "JORFTEXT000000337917",
+        "@datesignatexte": "1979-04-24",
+        "@id": "JORFTEXT000000337917",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-323",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

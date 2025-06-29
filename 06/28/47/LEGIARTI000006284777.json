@@ -1,0 +1,75 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006284777",
+      "ANCIEN_ID": "ARECRXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/47/LEGIARTI000006284777.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1940-12-03",
+        "DATE_FIN": "2007-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 20 novembre 1940 confiant à l'administration de l'enregistrement la gestion des successions non réclamées et la curatelle des successions vacantes.",
+          "@c_titre_court": "Loi du 20 novembre 1940",
+          "@debut": "1940-12-03",
+          "@fin": "2007-01-01",
+          "@id_txt": "LEGITEXT000006069455"
+        }
+      ],
+      "@cid": "LEGITEXT000006069455",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1940-11-20",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1940-12-03",
+          "@etat": "ABROGE",
+          "@fin": "2007-01-01",
+          "@id": "LEGIARTI000006284777",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions ci-dessus ne seront applicables qu'aux successions ouvertes postérieurement à la publication de la présente loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 2006-728 2006-06-23 art. 39 1° JORF 24 juin 2006 en vigueur le 1er janvier 2007",
+        "@cidtexte": "JORFTEXT000000637158",
+        "@datesignatexte": "2006-06-23",
+        "@id": "JORFTEXT000000637158",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX0500024L",
+        "@numtexte": "2006-728",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 1944-11-27 art. 1 JORF 30 novembre 1944 (validation)",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

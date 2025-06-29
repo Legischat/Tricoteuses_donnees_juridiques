@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006389346",
+      "ANCIEN_ID": "AAIDVXXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/93/LEGIARTI000006389346.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-11-13",
+        "DATE_FIN": "1983-07-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 septembre 1979 pris pour l'application de la loi n° 79-594 du 13 juillet 1979 et le décret n° 79-835 du 27 septembre 1979 sur les fonds communs de placement",
+          "@c_titre_court": "Arrêté du 28 septembre 1979",
+          "@debut": "1979-09-30",
+          "@fin": "1983-07-06",
+          "@id_txt": "LEGITEXT000006070634"
+        }
+      ],
+      "@cid": "LEGITEXT000006070634",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-09-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-02-28",
+          "@etat": "MODIFIE",
+          "@fin": "1982-11-13",
+          "@id": "LEGIARTI000006389345",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-11-13",
+          "@etat": "ABROGE",
+          "@fin": "1983-07-06",
+          "@id": "LEGIARTI000006389346",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les fonds communs de placement peuvent employer plus de 10 p. 100 [*pourcentage*] de leurs actifs en valeurs d'Etat, en titres jouissant de sa garantie, en obligations émises par les collectivités locales ou leurs groupements, en obligations émises par Aéroport de Paris, la Caisse d'aide à l'équipement des collectivités locales (valeurs émises ou gérées), la Caisse nationale des autoroutes, la Caisse nationale de crédit agricole, la Caisse nationale de l'énergie, la Caisse nationale des télécommunications, Charbonnages de France, la Compagnie nationale Air France, la Compagnie nationale du Rhône, le Crédit foncier et communal d'Alsace et de Lorraine, le Crédit foncier de France, le Crédit national, Electricité de France, Euratom, Eurodif, Francetel, Gaz de France, la Régie autonome des transports parisiens, la Société anonyme de gestion de contrôle de participations (Sapar) et la Société nationale des chemins de fer français.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1983-06-30 art. 21 JORF 6 juillet 1983",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 79-594 1979-07-13",
+        "@cidtexte": "JORFTEXT000000886676",
+        "@datesignatexte": "1979-07-13",
+        "@id": "JORFTEXT000000886676",
+        "@naturetexte": "LOI",
+        "@numtexte": "79-594",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 79-835 1979-09-27",
+        "@cidtexte": "JORFTEXT000000335564",
+        "@datesignatexte": "1979-09-27",
+        "@id": "JORFTEXT000000335564",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-835",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

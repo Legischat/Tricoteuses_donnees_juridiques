@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006282944",
+      "ANCIEN_ID": "AAEAAXXXXXX496ABXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/29/LEGIARTI000006282944.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "496-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-01-08",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692245"
+        },
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "1964-04-01",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006068288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 3 : Dispositions diverses et transitoires.",
+            "@debut": "1967-01-06",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083822"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000692245",
+      "@date_publi": "1966-07-26",
+      "@date_signature": "1966-07-24",
+      "@nature": "LOI",
+      "@num": "66-537"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-01-08",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006282944",
+          "@num": "496-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du premier alinéa de l'article 228 ne sont applicables qu'aux comptes sociaux relatifs à des exercices ouverts postérieurement à la date à laquelle la présente loi est devenue applicable.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 228",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°69-12 du 6 janvier 1969 - art. 27 () JORF 8 janvier 1969",
+        "@cidtexte": "JORFTEXT000000317521",
+        "@datesignatexte": "1969-01-06",
+        "@id": "LEGIARTI000006272788",
+        "@naturetexte": "LOI",
+        "@num": "27",
+        "@numtexte": "69-12",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

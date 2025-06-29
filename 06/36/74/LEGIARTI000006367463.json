@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006367463",
+      "ANCIEN_ID": "MSEAPXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/74/LEGIARTI000006367463.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1990-01-16",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°79-563 du 6 juillet 1979 RELATIVE A L'INDEMNITE DES REPRESENTANTS FRANCAIS A L'ASSEMBLEE DES COMMUNAUTES EUROPEENNES",
+          "@c_titre_court": "Loi n°79-563 du 6 juillet 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339348"
+        },
+        {
+          "#text": "Loi n° 79-563 du 6 juillet 1979 relative à l'indemnité des représentants au Parlement européen.",
+          "@c_titre_court": "Loi n° 79-563 du 6 juillet 1979",
+          "@debut": "1990-01-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068673"
+        },
+        {
+          "#text": "Loi n°79-563 du 6 juillet 1979 relative à l'indemnité des représentants au Parlement européen.",
+          "@c_titre_court": "Loi n°79-563 du 6 juillet 1979",
+          "@debut": "1979-07-07",
+          "@fin": "1990-01-16",
+          "@id_txt": "LEGITEXT000006068672"
+        }
+      ],
+      "@cid": "JORFTEXT000000339348",
+      "@date_publi": "1979-07-07",
+      "@date_signature": "1979-07-06",
+      "@nature": "LOI",
+      "@num": "79-563"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-07",
+          "@etat": "MODIFIE",
+          "@fin": "1990-01-16",
+          "@id": "LEGIARTI000006367462",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-16",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006367463",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les indemnités mentionnées aux articles précédents sont versées par l'Assemblée nationale ou par le Sénat. Les représentants français au Parlement européen disposent d'un délai d'un mois pour faire connaître l'assemblée qui leur versera leur indemnité pendant la durée de leur mandat.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 69-662 1969-06-13",
+        "@cidtexte": "JORFTEXT000000877092",
+        "@datesignatexte": "1969-06-13",
+        "@id": "JORFTEXT000000877092",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-662",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 70-1318 1979-12-31 art. 20",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°79-563 du 6 juillet 1979 - art. 6 (V)",
+        "@cidtexte": "JORFTEXT000000339348",
+        "@datesignatexte": "1979-07-06",
+        "@id": "LEGIARTI000006273318",
+        "@naturetexte": "LOI",
+        "@num": "6",
+        "@numtexte": "79-563",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°90-55 du 15 janvier 1990 - art. 17 (V) JORF 16 janvier 1990",
+        "@cidtexte": "JORFTEXT000000341734",
+        "@datesignatexte": "1990-01-15",
+        "@id": "LEGIARTI000006355359",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX8900076L",
+        "@num": "17",
+        "@numtexte": "90-55",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

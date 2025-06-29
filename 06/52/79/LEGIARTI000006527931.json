@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006527931",
+      "ANCIEN_ID": "PPEAPXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/79/LEGIARTI000006527931.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-01-04",
+        "DATE_FIN": "1989-01-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°73-6 du 3 janvier 1973 INSTITUANT UN MEDIATEUR",
+          "@c_titre_court": "Loi n°73-6 du 3 janvier 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509998"
+        },
+        {
+          "#text": "Loi n°73-6 du 3 janvier 1973 instituant un médiateur",
+          "@c_titre_court": "Loi n°73-6 du 3 janvier 1973",
+          "@debut": "1973-01-04",
+          "@fin": "1989-01-15",
+          "@id_txt": "LEGITEXT000006068469"
+        },
+        {
+          "#text": "Loi n°73-6 du 3 janvier 1973 instituant un Médiateur de la République",
+          "@c_titre_court": "Loi n°73-6 du 3 janvier 1973",
+          "@debut": "1989-01-15",
+          "@fin": "2011-03-31",
+          "@id_txt": "LEGITEXT000022034354"
+        }
+      ],
+      "@cid": "JORFTEXT000000509998",
+      "@date_publi": "1973-01-04",
+      "@date_signature": "1973-01-03",
+      "@nature": "LOI",
+      "@num": "73-6"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-01-04",
+          "@etat": "MODIFIE",
+          "@fin": "1989-01-14",
+          "@id": "LEGIARTI000006527931",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-01-14",
+          "@etat": "ABROGE",
+          "@fin": "2011-03-31",
+          "@id": "LEGIARTI000006527932",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le Médiateur peut demander au Ministre responsable ou à l'autorité compétente de lui donner communication de tout document ou dossier concernant l'affaire à propos de laquelle il fait son enquête. Le caractère secret ou confidentiel des pièces dont il demande communication ne peut lui être opposé sauf en matière de secret concernant la défense nationale, de sûreté de l'Etat ou de politique extérieure.<br/>\n<br/>   En vue d'assurer le respect des dispositions relatives au secret professionnel, il veille à ce qu'aucune mention permettant l'identification des personnes dont le nom lui aurait été ainsi révélé ne soit faite dans les documents publiés sous son autorité.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 73-6 1973-01-03 JORF 4 JANVIER 1973 rectificatif JORF 6 JANVIER 1973",
+        "@cidtexte": "JORFTEXT000000509998",
+        "@datesignatexte": "1973-01-03",
+        "@id": "JORFTEXT000000509998",
+        "@naturetexte": "LOI",
+        "@numtexte": "73-6",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Livre des procédures fiscales - art. L115 (V)",
+        "@cidtexte": "LEGITEXT000006069583",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006315216",
+        "@naturetexte": "CODE",
+        "@num": "L115",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

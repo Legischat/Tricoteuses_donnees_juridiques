@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006863803",
+      "ANCIEN_ID": "UPISSXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/38/LEGIARTI000006863803.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-06-03",
+        "DATE_FIN": "1990-08-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 avril 1976 relatif à la commercialisation des spécialités antiparasitaires à usage agricole contenant des sels de plomb.",
+          "@c_titre_court": "Arrêté du 26 avril 1976",
+          "@debut": "1976-06-03",
+          "@fin": "1990-08-26",
+          "@id_txt": "LEGITEXT000006074697"
+        }
+      ],
+      "@cid": "LEGITEXT000006074697",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1976-04-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-06-03",
+          "@etat": "ABROGE",
+          "@fin": "1990-08-26",
+          "@id": "LEGIARTI000006863803",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les spécialités antiparasitaires à usage agricole et produits assimilés visés à l'article 1er de la loi du 22 décembre 1972 et contenant des composés du plomb inscrits aux tableaux A et C des substances vénéneuses devront être mélangés à de la pyridine à une dose minimale de 1 p. 100.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-07-03 art. 9 JORF 26 août 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "LOI 72-1139 1972-12-22 ART. 1",
+        "@cidtexte": "JORFTEXT000000321864",
+        "@datesignatexte": "1972-12-22",
+        "@id": "JORFTEXT000000321864",
+        "@naturetexte": "LOI",
+        "@numtexte": "72-1139",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

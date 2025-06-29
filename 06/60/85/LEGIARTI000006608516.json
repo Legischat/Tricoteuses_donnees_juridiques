@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006608516",
+      "ANCIEN_ID": "ADIDSXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/85/LEGIARTI000006608516.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-11-30",
+        "DATE_FIN": "1999-11-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 octobre 1975 relatif aux produits de nettoyage du matériel pouvant se trouver au contact des denrées alimentaires",
+          "@c_titre_court": "Arrêté du 27 octobre 1975",
+          "@debut": "1975-11-30",
+          "@fin": "1999-11-27",
+          "@id_txt": "LEGITEXT000006071481"
+        }
+      ],
+      "@cid": "LEGITEXT000006071481",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1975-10-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-11-30",
+          "@etat": "ABROGE",
+          "@fin": "1999-11-27",
+          "@id": "LEGIARTI000006608516",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Par exception à l'obligation précisée à l'article 2 de faire suivre les opérations de nettoyage d'un rinçage à l'eau pure, il est admis que, dans le cas spécial du lavage de la vaisselle, l'eau de rinçage puisse contenir les substances énumérées à l'annexe II du présent arrêté. Mais l'utilisation comme produits de rinçage de ces substances ne peut avoir lieu qu'aux conditions suivantes :<br/>\n<br/>   1° La dose maximum de matière active ne doit pas dépasser 200 mg par litre d'eau ;<br/>\n<br/>   2° La présentation de ces produits doit être effectuée dans des conditions évitant toute erreur de dosage de la part des utilisateurs.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1975-10-27 JORF 30 novembre 1975 rectificatif JONC 5 février 1976",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 1975-10-27 art. 2, annexe II",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1999-09-08 art. 3 JORF 27 novembre 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 73-138 1973-02-12",
+        "@cidtexte": "JORFTEXT000000696195",
+        "@datesignatexte": "1973-02-12",
+        "@id": "JORFTEXT000000696195",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-138",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

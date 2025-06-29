@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006832008",
+      "ANCIEN_ID": "UCIRBXXXXXX013AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/20/LEGIARTI000006832008.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-03-29",
+        "DATE_FIN": "2019-10-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 juillet 1978 RELATIF A L'AIDE PERSONNALISEE AU LOGEMENT",
+          "@c_titre_court": "Arrêté du 3 juillet 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000838203"
+        },
+        {
+          "#text": "Arrêté du 3 juillet 1978 modifiant un précédent relatif au calcul de l'aide personnalisée au logement",
+          "@c_titre_court": "Arrêté du 3 juillet 1978",
+          "@debut": "1978-07-23",
+          "@fin": "2019-10-01",
+          "@id_txt": "LEGITEXT000006074213"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "V - Prime de déménagement.",
+            "@debut": "1997-03-29",
+            "@fin": "2019-10-01",
+            "@id": "LEGISCTA000006108553"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000838203",
+      "@date_publi": "1978-07-23",
+      "@date_signature": "1978-07-03",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-07-23",
+          "@etat": "MODIFIE",
+          "@fin": "1997-03-29",
+          "@id": "LEGIARTI000006832007",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-03-29",
+          "@etat": "ABROGE",
+          "@fin": "2019-10-01",
+          "@id": "LEGIARTI000006832008",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 29 juillet 1977 modifié est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-07-29 (ABROGE)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1997-03-28 art. 5 JORF 29 mars 1997",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 27 septembre 2019 - art. 51",
+        "@cidtexte": "JORFTEXT000039160329",
+        "@datesignatexte": "2019-09-27",
+        "@id": "LEGIARTI000039160725",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "LOGL1925404A",
+        "@num": "51",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

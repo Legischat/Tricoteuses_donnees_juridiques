@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006627310",
+      "ANCIEN_ID": "RIAXXXXXXXX5X00098AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/73/LEGIARTI000006627310.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "98",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1977-06-18",
+        "DATE_FIN": "2010-07-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code minier",
+          "@c_titre_court": "Code minier",
+          "@debut": "1956-08-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071785"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Régime général",
+            "@debut": "1956-08-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006099941"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre V : Des gîtes géothermiques à basse température.",
+              "@debut": "1956-08-21",
+              "@fin": "2222-02-22",
+              "@id": "LEGISCTA000006122813"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071785",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-06-18",
+          "@etat": "MODIFIE",
+          "@fin": "2010-07-14",
+          "@id": "LEGIARTI000006627310",
+          "@num": "98",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2010-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2011-03-01",
+          "@id": "LEGIARTI000022483208",
+          "@num": "98",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Nul ne peut entreprendre un forage en vue de la recherche de gîtes géothermiques à basse température sans une autorisation de recherches accordée par arrêté préfectoral après enquête publique.<br/>\n<br/>   L'autorisation détermine soit l'emplacement du ou des forages à entreprendre, soit le tracé d'un périmètre à l'intérieur duquel ces forages peuvent être exécutés. Le titulaire de l'autorisation de recherches est seul habilité, dans le périmètre ainsi défini, à réaliser des forages pour la recherche de gîtes géothermiques. La validité de l'autorisation de recherches ne peut excéder trois ans.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 56-838 1956-08-16",
+        "@cidtexte": "JORFTEXT000000877398",
+        "@datesignatexte": "1956-08-16",
+        "@id": "JORFTEXT000000877398",
+        "@naturetexte": "DECRET",
+        "@numtexte": "56-838",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°77-620 du 16 juin 1977 - art. 23 () JORF 18 juin 1977",
+        "@cidtexte": "JORFTEXT000000886336",
+        "@datesignatexte": "1977-06-16",
+        "@id": "LEGIARTI000006273094",
+        "@naturetexte": "LOI",
+        "@num": "23",
+        "@numtexte": "77-620",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

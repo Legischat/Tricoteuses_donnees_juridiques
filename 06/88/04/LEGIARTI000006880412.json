@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006880412",
+      "ANCIEN_ID": "UTHAYXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/04/LEGIARTI000006880412.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-02-09",
+        "DATE_FIN": "2017-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 63-94 du 8 février 1963 relatif à la coopération dans les transports publics routiers de marchandises",
+          "@c_titre_court": "Décret n° 63-94 du 8 février 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000495314"
+        },
+        {
+          "#text": "Décret n°63-94 du 8 février 1963 relatif à la coopération dans les transports publics routiers de marchandises",
+          "@c_titre_court": "Décret n°63-94 du 8 février 1963",
+          "@debut": "1963-02-09",
+          "@fin": "2017-01-01",
+          "@id_txt": "LEGITEXT000006061164"
+        }
+      ],
+      "@cid": "JORFTEXT000000495314",
+      "@date_publi": "1963-02-09",
+      "@date_signature": "1963-02-08",
+      "@nature": "DECRET",
+      "@num": "63-94"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-02-09",
+          "@etat": "ABROGE",
+          "@fin": "2017-01-01",
+          "@id": "LEGIARTI000006880412",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sociétés coopératives d'entreprises de transport routier de marchandises ont la qualité de voiturier au sens de l'article 103 du Code de commerce.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 63-94 1963-02-08 JORF 9 février 1963 rectificatif JORF 19 février 1963",
+        "@cidtexte": "JORFTEXT000000495314",
+        "@datesignatexte": "1963-02-08",
+        "@id": "JORFTEXT000000495314",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-94",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°2016-1550 du 17 novembre 2016 - art. 4",
+        "@cidtexte": "JORFTEXT000033419103",
+        "@datesignatexte": "2016-11-17",
+        "@id": "LEGIARTI000033446671",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVK1527797D",
+        "@num": "4",
+        "@numtexte": "2016-1550",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de commerce",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000005634379",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

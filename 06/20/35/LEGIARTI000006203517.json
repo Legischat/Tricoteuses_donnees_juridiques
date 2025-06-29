@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006203517",
+      "ANCIEN_ID": "AKIAVXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/35/LEGIARTI000006203517.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-08-19",
+        "DATE_FIN": "1992-08-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 août 1972 relatif aux documents comptables des personnes inscrites sur la liste des conseils juridiques",
+          "@c_titre_court": "Arrêté du 4 août 1972",
+          "@debut": "1972-08-19",
+          "@fin": "1992-08-06",
+          "@id_txt": "LEGITEXT000005625577"
+        }
+      ],
+      "@cid": "LEGITEXT000005625577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-08-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-08-19",
+          "@etat": "ABROGE",
+          "@fin": "1992-08-06",
+          "@id": "LEGIARTI000006203517",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un relevé est établi au nom de chaque client pour toutes les entrées et sorties de valeurs et effets mentionnés à l'article 5 du décret susvisé n° 72-671 du 13 juillet 1972, auxquelles il est procédé pour son compte.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1992-07-22 art. 4 JORF 6 août 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 72-671 1972-07-13 art. 24, art. 25",
+        "@cidtexte": "JORFTEXT000000679983",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000679983",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-671",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 72-671 1972-07-13 art. 5",
+        "@cidtexte": "JORFTEXT000000679983",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000679983",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-671",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

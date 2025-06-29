@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006478901",
+      "ANCIEN_ID": "ACFACXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/47/89/LEGIARTI000006478901.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1959-01-06",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°59-24 du 3 janvier 1959 MODIFICATION DE LA LOI DU 01-09-1948",
+          "@c_titre_court": "Ordonnance n°59-24 du 3 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509076"
+        },
+        {
+          "#text": "Ordonnance n° 59-24 du 3 janvier 1959 instituant en matière de loyers diverses mesures de protection en faveur des fonctionnaires affectés ou détachés hors du territoire européen de la France en application de la loi n° 57-871 du 1er août 1957 et de certains militaires",
+          "@c_titre_court": "Ordonnance n° 59-24 du 3 janvier 1959",
+          "@debut": "1959-01-06",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069254"
+        }
+      ],
+      "@cid": "JORFTEXT000000509076",
+      "@date_publi": "1959-01-06",
+      "@date_signature": "1959-01-03",
+      "@nature": "ORDONNANCE",
+      "@num": "59-24"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-06",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006478901",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Par dérogation aux dispositions de l'article 78 de la loi du 1er septembre 1948 et nonobstant toute convention contraire, les personnes visées à l'article 1er ont la faculté de sous-louer leur logement pour la durée de leur éloignement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°48-1360 du 1 septembre 1948 - art. 78 (V)",
+        "@cidtexte": "JORFTEXT000000879802",
+        "@datesignatexte": "1948-09-01",
+        "@id": "LEGIARTI000006463766",
+        "@naturetexte": "LOI",
+        "@num": "78",
+        "@numtexte": "48-1360",
+        "@sens": "cible",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi n°48-1360 du 1 septembre 1948 - art. 78 (M)",
+        "@cidtexte": "JORFTEXT000000879802",
+        "@datesignatexte": "1948-09-01",
+        "@id": "LEGIARTI000006463765",
+        "@naturetexte": "LOI",
+        "@num": "78",
+        "@numtexte": "48-1360",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°59-24 du 3 janvier 1959 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000509076",
+        "@datesignatexte": "1959-01-03",
+        "@id": "LEGIARTI000006478882",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "1",
+        "@numtexte": "59-24",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 60-1371 1960-12-21 art. 1 (extension d'application)",
+        "@cidtexte": "JORFTEXT000000313947",
+        "@datesignatexte": "1960-12-21",
+        "@id": "JORFTEXT000000313947",
+        "@naturetexte": "LOI",
+        "@numtexte": "60-1371",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

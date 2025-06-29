@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006864286",
+      "ANCIEN_ID": "UPIVHXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/42/LEGIARTI000006864286.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-06-23",
+        "DATE_FIN": "2001-06-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 janvier 1985 relatif à l'équipement des véhicules automobiles utilisant comme source d'énergie les gaz de pétrole liquéfiés *carburants*.",
+          "@c_titre_court": "Arrêté du 15 janvier 1985",
+          "@debut": "1985-03-03",
+          "@fin": "2001-06-03",
+          "@id_txt": "LEGITEXT000006074758"
+        }
+      ],
+      "@cid": "LEGITEXT000006074758",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-01-15",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-03",
+          "@etat": "MODIFIE",
+          "@fin": "1994-06-23",
+          "@id": "LEGIARTI000006864285",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-06-23",
+          "@etat": "ABROGE",
+          "@fin": "2001-06-03",
+          "@id": "LEGIARTI000006864286",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les véhicules automobiles relevant du titre II du code de la route, dont les gaz de pétrole liquéfiés constituent une ou la source d'énergie, doivent être conformes soit aux prescriptions du présent arrêté, soit à des prescriptions équivalentes en vigueur dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord instituant l'Espace économique européen.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-05-27 art. 1 JORF 23 juin 1994",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2001-04-27 art. 10 JORF 3 juin 2001",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

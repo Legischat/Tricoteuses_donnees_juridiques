@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275833",
+      "ANCIEN_ID": "FAFAAXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/58/LEGIARTI000006275833.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1959-02-11",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°59-273 du 4 février 1959 RADIO-TELEVISION",
+          "@c_titre_court": "Ordonnance n°59-273 du 4 février 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687695"
+        },
+        {
+          "#text": "Ordonnance n° 59-273 du 4 février 1959  RELATIVE A LA RADIODIFFUSION-TELEVISION FRANCAISE",
+          "@c_titre_court": "Ordonnance n° 59-273 du 4 février 1959",
+          "@debut": "1959-02-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069260"
+        }
+      ],
+      "@cid": "JORFTEXT000000687695",
+      "@date_publi": "1959-02-11",
+      "@date_signature": "1959-02-04",
+      "@nature": "ORDONNANCE",
+      "@num": "59-273"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-02-11",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006275833",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002072972",
+          "@num": "3",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le détenteur d'un appareil récepteur /A/DECR. 201 1980-03-10 :<br/>\n de radiophonie ou// de télévision doit en faire la déclaration et acquitter une redevance pour droit d'usage, fixée conformément aux dispositions de l'article 10 de la présente ordonnance.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°59-273 du 4 février 1959 - art. 10 (V)",
+        "@cidtexte": "JORFTEXT000000687695",
+        "@datesignatexte": "1959-02-04",
+        "@id": "LEGIARTI000006323092",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "10",
+        "@numtexte": "59-273",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 80-201 1980-03-10 portant suppression de la redevance pour droit d'usage des appareils récepteurs de radiodiffusion JORF 15 MARS 1980",
+        "@cidtexte": "JORFTEXT000000878286",
+        "@datesignatexte": "1980-03-10",
+        "@id": "JORFTEXT000000878286",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-201",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

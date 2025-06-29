@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006230647",
+      "ANCIEN_ID": "PSI2SXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/23/06/LEGIARTI000006230647.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-05-15",
+        "DATE_FIN": "2005-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 mai 2004 portant organisation de la direction des affaires financières",
+          "@c_titre_court": "Arrêté du 10 mai 2004",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000803612"
+        },
+        {
+          "#text": "Arrêté du 10 mai 2004 portant organisation de la direction des affaires financières.",
+          "@c_titre_court": "Arrêté du 10 mai 2004",
+          "@debut": "2004-05-15",
+          "@fin": "2005-12-31",
+          "@id_txt": "LEGITEXT000005768959"
+        }
+      ],
+      "@cid": "JORFTEXT000000803612",
+      "@date_publi": "2004-05-15",
+      "@date_signature": "2004-05-10",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "ARRETE",
+      "@nor": "DEFD0400493A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-05-15",
+          "@etat": "ABROGE",
+          "@fin": "2005-12-31",
+          "@id": "LEGIARTI000006230647",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002054811",
+          "@num": "6",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La mission chargée de la réforme budgétaire assiste le directeur pour la mise en oeuvre de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances et coordonne avec les états-majors, directions et services les travaux nécessaires à son application.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2005-12-28 art. 9 JORF 31 décembre 2005",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 2001-692 2001-08-01",
+        "@cidtexte": "JORFTEXT000000394028",
+        "@datesignatexte": "2001-08-01",
+        "@id": "JORFTEXT000000394028",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "ECOX0104681L",
+        "@numtexte": "2001-692",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

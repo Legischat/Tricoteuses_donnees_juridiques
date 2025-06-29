@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006493892",
+      "ANCIEN_ID": "PJEEEXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/38/LEGIARTI000006493892.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1946-04-17",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°46-729 du 16 avril 1946 PORTANT AMNISTIE",
+          "@c_titre_court": "Loi n°46-729 du 16 avril 1946",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000315333"
+        },
+        {
+          "#text": "Loi n° 46-729 du 16 avril 1946 portant amnistie.",
+          "@c_titre_court": "Loi n° 46-729 du 16 avril 1946",
+          "@debut": "1946-04-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068021"
+        }
+      ],
+      "@cid": "JORFTEXT000000315333",
+      "@date_publi": "1946-04-17",
+      "@date_signature": "1946-04-16",
+      "@nature": "LOI",
+      "@num": "46-729"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1946-04-17",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006493892",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont amnistiés les délinquants primaires condamnés à un emprisonnement inférieur ou égal à six mois et à une peine d'amende inférieure ou égale de six mille francs (sans décime) ou cinq cents francs (décimes en plus) ou à l'une de ces deux peines seulement, prévus par l'acte dit loi du 14 septembre 1941 portant modification de la loi du 26 mars 1891, pour l'un des délits commis antérieurement au 8 mai 1945.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1891-03-26",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1941-09-14",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 46-729 1946-04-16 JORF 17 avril 1946 rectificatif JORF du 19 avril 1946",
+        "@cidtexte": "JORFTEXT000000315333",
+        "@datesignatexte": "1946-04-16",
+        "@id": "JORFTEXT000000315333",
+        "@naturetexte": "LOI",
+        "@numtexte": "46-729",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

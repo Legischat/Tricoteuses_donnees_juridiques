@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006534389",
+      "ANCIEN_ID": "ADHAIXXXXXX004AAXXXXXXCA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/43/LEGIARTI000006534389.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4-2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1964-11-25",
+        "DATE_FIN": "2008-02-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 11 mars 1908 pris pour l'exécution de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles en ce qui concerne les graisses et huiles comestibles",
+          "@c_titre_court": "Décret du 11 mars 1908",
+          "@debut": "1908-03-14",
+          "@fin": "2008-02-29",
+          "@id_txt": "LEGITEXT000006071231"
+        }
+      ],
+      "@cid": "LEGITEXT000006071231",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1908-03-11",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-11-25",
+          "@etat": "ABROGE",
+          "@fin": "2008-02-29",
+          "@id": "LEGIARTI000006534389",
+          "@num": "4-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'il est fait usage d'un solvant dans les opérations d'extraction ou de purification des huiles visées à l'article 4, l'élimination du solvant doit être complète avant mise en vente.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1908-03-11 art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 64-1166 1964-11-19 *champ d'application*",
+        "@cidtexte": "JORFTEXT000000876976",
+        "@datesignatexte": "1964-11-19",
+        "@id": "JORFTEXT000000876976",
+        "@naturetexte": "DECRET",
+        "@numtexte": "64-1166",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°2008-184\n du 26 février 2008 - art. 12 (V)",
+        "@cidtexte": "JORFTEXT000018188420",
+        "@datesignatexte": "2008-02-26",
+        "@id": "LEGIARTI000018191072",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECEC0766931D",
+        "@num": "12",
+        "@numtexte": "2008-184",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

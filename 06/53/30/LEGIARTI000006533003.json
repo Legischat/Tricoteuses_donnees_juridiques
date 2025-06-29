@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006533003",
+      "ANCIEN_ID": "PPHMPXXXXXX009AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/30/LEGIARTI000006533003.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-06-13",
+        "DATE_FIN": "1995-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°89-993 du 22 décembre 1989 PORTANT CREATION DE L'ETABLISSEMENT PUBLIC DU CENTRE DE CONFERENCES INTERNATIONALES DE PARIS",
+          "@c_titre_court": "Décret n°89-993 du 22 décembre 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000882688"
+        },
+        {
+          "#text": "Décret n°89-993 du 22 décembre 1989 portant création de l'Etablissement public du centre de conférences internationales de Paris",
+          "@c_titre_court": "Décret n°89-993 du 22 décembre 1989",
+          "@debut": "1989-12-31",
+          "@fin": "1995-06-01",
+          "@id_txt": "LEGITEXT000006067446"
+        }
+      ],
+      "@cid": "JORFTEXT000000882688",
+      "@date_publi": "1989-12-31",
+      "@date_signature": "1989-12-22",
+      "@nature": "DECRET",
+      "@nor": "MCCX8910402D",
+      "@num": "89-993"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-12-31",
+          "@etat": "MODIFIE",
+          "@fin": "1992-06-13",
+          "@id": "LEGIARTI000006533002",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-06-13",
+          "@etat": "ABROGE",
+          "@fin": "1995-06-01",
+          "@id": "LEGIARTI000006533003",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "---Le directeur général de l'établissement est nommé par arrêté conjoint du ministre des affaires étrangères et du ministre chargé des grands travaux sur proposition du président du conseil d'administration de l'établissement.<br/>\n<br/>   Il assure, sous l'autorité du président, la direction de l'ensemble de l'établissement, l'élaboration du budget, la préparation des délibérations du conseil d'administration et l'exécution des décisions de celui-ci.<br/>\n<br/>   Il peut déléguer sa signature aux chefs de service.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 92-511 1992-12-22 art. 3 JORF 13 juin 1992",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°89-993 du 22 décembre 1989 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000882688",
+        "@datesignatexte": "1989-12-22",
+        "@id": "LEGIARTI000006532999",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCX8910402D",
+        "@num": "7",
+        "@numtexte": "89-993",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°95-722 du 9 mai 1995 - art. 6 (V) JORF 12 mai 1995 en vigueur le 1er juin 1995",
+        "@cidtexte": "JORFTEXT000000554601",
+        "@datesignatexte": "1995-05-09",
+        "@id": "LEGIARTI000006541553",
+        "@naturetexte": "DECRET",
+        "@nortexte": "BUDB9530005D",
+        "@num": "6",
+        "@numtexte": "95-722",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

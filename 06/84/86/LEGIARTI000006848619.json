@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006848619",
+      "ANCIEN_ID": "UPEH5XXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/86/LEGIARTI000006848619.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-09-22",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°69-8 du 3 janvier 1969 RELATIVE A L'ARMEMENT ET AUX VENTES MARITIMES",
+          "@c_titre_court": "Loi n°69-8 du 3 janvier 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878390"
+        },
+        {
+          "#text": "Loi n°69-8 du 3 janvier 1969 relative à l'armement et aux ventes maritimes.",
+          "@c_titre_court": "Loi n°69-8 du 3 janvier 1969",
+          "@debut": "1969-09-22",
+          "@fin": "2010-12-01",
+          "@id_txt": "LEGITEXT000006068341"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : De l'armement",
+            "@debut": "1969-09-22",
+            "@fin": "2010-12-01",
+            "@id": "LEGISCTA000006108906"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Personnel d'exploitation",
+              "@debut": "1969-09-22",
+              "@fin": "2010-12-01",
+              "@id": "LEGISCTA000006129270"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section I : Des agents de l'armateur.",
+                "@debut": "1969-09-22",
+                "@fin": "2010-12-01",
+                "@id": "LEGISCTA000006144166"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000878390",
+      "@date_publi": "1969-01-05",
+      "@date_signature": "1969-01-03",
+      "@nature": "LOI",
+      "@num": "69-8"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-09-22",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006848619",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'armateur répond de ses préposés terrestres et maritimes dans les termes du droit commun, sauf la limitation de responsabilité définie par le chapitre VII de la loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 67-5 du 3 janvier 1967",
+        "@cidtexte": "JORFTEXT000000878026",
+        "@datesignatexte": "1967-01-03",
+        "@id": "JORFTEXT000000878026",
+        "@naturetexte": "LOI",
+        "@numtexte": "67-5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 69-8 1969-01-03 art. 44 : application aux TOM",
+        "@cidtexte": "JORFTEXT000000878390",
+        "@datesignatexte": "1969-01-03",
+        "@id": "JORFTEXT000000878390",
+        "@naturetexte": "LOI",
+        "@numtexte": "69-8",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

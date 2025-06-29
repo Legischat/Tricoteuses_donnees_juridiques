@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006871123",
+      "ANCIEN_ID": "UQIACXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/11/LEGIARTI000006871123.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-04-18",
+        "DATE_FIN": "1991-03-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 mars 1987 RELATIF A LA TAXE DUE PAR LES BENEFICIAIRES DU PLAN DE CHASSE A TITRE DE PARTICIPATION A LA REPARATION DES DEGATS DU GRAND GIBIER",
+          "@c_titre_court": "Arrêté du 4 mars 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000340105"
+        },
+        {
+          "#text": "Arrêté du 4 mars 1987 relatif à la taxe due par les bénéficiaires du plan de chasse à titre de participation à la réparation des dégâts du grand gibier",
+          "@c_titre_court": "Arrêté du 4 mars 1987",
+          "@debut": "1987-04-18",
+          "@fin": "1991-03-08",
+          "@id_txt": "LEGITEXT000006057423"
+        }
+      ],
+      "@cid": "JORFTEXT000000340105",
+      "@date_publi": "1987-04-18",
+      "@date_signature": "1987-03-04",
+      "@nature": "ARRETE",
+      "@nor": "ENVN8700057A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-04-18",
+          "@etat": "ABROGE",
+          "@fin": "1991-03-08",
+          "@id": "LEGIARTI000006871123",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En application des dispositions de l'article 17 de la loi du 29 décembre 1978 susvisée, la taxe [*montant*] que les bénéficiaires du plan de chasse sont tenus de verser à titre de participation à la réparation des dégâts du grand gibier est fixée, suivant l'espèce et par tête de grand gibier à prélever attribuée à chaque bénéficiaire par son plan de chasse individuel, à :<br/>\n Francs   Cerf    285<br/>\n<br/>   Daim    142<br/>\n<br/>   Mouflon     98<br/>\n<br/>   Chevreuil     50<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-03-04 art. 2",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1991-02-06 art. 3 JORF 8 mars 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 78-1240 1978-12-29 art. 17",
+        "@cidtexte": "JORFTEXT000000522721",
+        "@datesignatexte": "1978-12-29",
+        "@id": "JORFTEXT000000522721",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-1240",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 78-1240 1978-12-29 art. 17",
+        "@cidtexte": "JORFTEXT000000522721",
+        "@datesignatexte": "1978-12-29",
+        "@id": "JORFTEXT000000522721",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-1240",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

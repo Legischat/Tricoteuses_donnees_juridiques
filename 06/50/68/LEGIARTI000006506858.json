@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006506858",
+      "ANCIEN_ID": "ADEBEXXXXXX027AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/68/LEGIARTI000006506858.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "27",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1898-04-19",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 9 avril 1898 relative aux chambres de commerce et d'industrie",
+          "@c_titre_court": "Loi du 9 avril 1898",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000877599"
+        },
+        {
+          "#text": "Loi du 9 avril 1898 relative aux chambres de commerce et d'industrie",
+          "@c_titre_court": "Loi du 9 avril 1898",
+          "@debut": "1898-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071119"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Administration financière.",
+            "@debut": "1898-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006095029"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000877599",
+      "@date_publi": "1898-04-19",
+      "@date_signature": "1898-04-09",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1898-04-19",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006506858",
+          "@num": "27",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-02-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006506859",
+          "@num": "27",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont et demeurent abrogés le décret du 3 septembre 1851, ainsi que toutes les autres dispositions contraires à la présente loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1851-09-03",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 I 7° JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

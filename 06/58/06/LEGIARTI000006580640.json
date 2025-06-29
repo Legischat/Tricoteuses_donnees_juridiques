@@ -1,0 +1,160 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580640",
+      "ANCIEN_ID": "RAA0XXXXXXX1001AAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/06/LEGIARTI000006580640.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1001",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-02-11",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Mutualité sociale agricole",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121386"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-07-01",
+          "@etat": "MODIFIE",
+          "@fin": "1994-02-11",
+          "@id": "LEGIARTI000006580639",
+          "@num": "1001",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-02-11",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006580640",
+          "@num": "1001",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le politique sociale agricole relève du ministre de l'agriculture.<br/>\n<br/>   Elle est mise en oeuvre notamment par la caisse centrale de la mutualité sociale agricole et par les caisses départementales ou pluridépartementales.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. L721-1 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006585192",
+        "@naturetexte": "CODE",
+        "@num": "L721-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural L721-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 1938-05-31 art. 1 al. 1",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1941-04-05 art. 1",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°94-114 du 10 février 1994 - art. 23 () JORF 11 février 1994",
+        "@cidtexte": "JORFTEXT000000165175",
+        "@datesignatexte": "1994-02-10",
+        "@id": "LEGIARTI000006848379",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9300158L",
+        "@num": "23",
+        "@numtexte": "94-114",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Rapport - art. 6 (V) JORF 22 juin 2000",
+        "@cidtexte": "JORFTEXT000000583733",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006601338",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRX0000054R",
+        "@num": "6",
+        "@numtexte": "2000-550",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 2003-591 2003-07-02 art. 31",
+        "@cidtexte": "JORFTEXT000000422094",
+        "@datesignatexte": "2003-07-02",
+        "@id": "JORFTEXT000000422094",
+        "@naturetexte": "LOI",
+        "@nortexte": "FPPX0300014L",
+        "@numtexte": "2003-591",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

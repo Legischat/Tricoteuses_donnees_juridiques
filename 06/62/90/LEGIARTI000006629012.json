@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006629012",
+      "ANCIEN_ID": "RIHANXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/90/LEGIARTI000006629012.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-03-30",
+        "DATE_FIN": "1995-05-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-364 du 12 mars 1973 RELATIF A L'APPLICATION DU DECRET DU 18-04-1939 FIXANT LE REGIME DES MATERIELS DE GUERRE,ARMES ET MUNITIONS",
+          "@c_titre_court": "Décret n°73-364 du 12 mars 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000495105"
+        },
+        {
+          "#text": "Décret n°73-364 du 12 mars 1973 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions",
+          "@c_titre_court": "Décret n°73-364 du 12 mars 1973",
+          "@debut": "1993-01-07",
+          "@fin": "1995-05-07",
+          "@id_txt": "LEGITEXT000006062093"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Fabrication et commerce",
+            "@debut": "1973-03-30",
+            "@fin": "1995-05-07",
+            "@id": "LEGISCTA000006100042"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Autorisation de fabriquer ou de faire le commerce des matériels des quatre premières catégories.",
+              "@debut": "1973-03-30",
+              "@fin": "1995-05-07",
+              "@id": "LEGISCTA000006122866"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000495105",
+      "@date_publi": "1973-03-30",
+      "@date_signature": "1973-03-12",
+      "@nature": "DECRET",
+      "@num": "73-364"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-03-30",
+          "@etat": "ABROGE",
+          "@fin": "1995-05-07",
+          "@id": "LEGIARTI000006629012",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Doivent être portés à la connaissance du ministre chargé de la défense nationale :<br/>\n<br/>   1° Tout changement dans :<br/>\n<br/>   - la nature juridique de l'entreprise titulaire d'une autorisation ;<br/>\n<br/>   - la nature ou l'objet de ses activités ;<br/>\n<br/>   - le nombre ou la situation des établissements ;<br/>\n<br/>   - l'identité ou les qualités juridiques d'une ou plusieurs des personnes visées à l'article 7, notamment leur nationalité ;<br/>\n<br/>   2° Toutes cessions d'actions ou de parts sociales susceptibles de transférer à des ressortissants étrangers le contrôle de la société ;<br/>\n<br/>   3° La cessation totale ou partielle de l'activité autorisée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1939-04-18",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°73-364 du 12 mars 1973 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000495105",
+        "@datesignatexte": "1973-03-12",
+        "@id": "LEGIARTI000006629006",
+        "@naturetexte": "DECRET",
+        "@num": "7",
+        "@numtexte": "73-364",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°95-589 du 6 mai 1995 - art. 124 (VT) JORF 7 mai 1995",
+        "@cidtexte": "JORFTEXT000000736335",
+        "@datesignatexte": "1995-05-06",
+        "@id": "LEGIARTI000006629563",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFC9501482D",
+        "@num": "124",
+        "@numtexte": "95-589",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

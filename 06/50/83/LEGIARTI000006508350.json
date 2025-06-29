@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006508350",
+      "ANCIEN_ID": "ADEBNXXXXXX001AAXXXXXXBA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/83/LEGIARTI000006508350.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1 bis",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-06-27",
+        "DATE_FIN": "1996-07-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 30 décembre 1906 sur les ventes au déballage, complétant la loi du 25 juin 1841",
+          "@c_titre_court": "Loi du 30 décembre 1906",
+          "@debut": "1907-01-04",
+          "@fin": "1996-07-06",
+          "@id_txt": "LEGITEXT000006071122"
+        }
+      ],
+      "@cid": "LEGITEXT000006071122",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1906-12-30",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-06-27",
+          "@etat": "ABROGE",
+          "@fin": "1996-07-06",
+          "@id": "LEGIARTI000006508350",
+          "@num": "1 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans toute publicité, enseigne, dénomination sociale ou nom commercial, l'emploi du mot \"solde(s)\" ou de ses dérivés est interdit pour désigner toute activité, dénomination sociale ou nom commercial, enseigne ou qualité qui ne se rapporte pas à une opération de soldes telle que mentionnée dans la présente loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1841-06-25",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°91-593 du 25 juin 1991 - art. 18 () JORF 27 juin 1991",
+        "@cidtexte": "JORFTEXT000000172596",
+        "@datesignatexte": "1991-06-25",
+        "@id": "LEGIARTI000006906398",
+        "@naturetexte": "LOI",
+        "@nortexte": "COMX9000175L",
+        "@num": "18",
+        "@numtexte": "91-593",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°96-603 du 5 juillet 1996 - art. 33 (VT) JORF 6 juillet 1996",
+        "@cidtexte": "JORFTEXT000000193678",
+        "@datesignatexte": "1996-07-05",
+        "@id": "LEGIARTI000006513558",
+        "@naturetexte": "LOI",
+        "@nortexte": "COMX9600031L",
+        "@num": "33",
+        "@numtexte": "96-603",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

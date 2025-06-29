@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006605252",
+      "ANCIEN_ID": "RAHNGXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/52/LEGIARTI000006605252.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-06-17",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2000-523 du 15 juin 2000 relatif à la certification de l'ascendance et de la filiation des bovins",
+          "@c_titre_court": "Décret n° 2000-523 du 15 juin 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000752177"
+        },
+        {
+          "#text": "Décret n°2000-523 du 15 juin 2000 relatif à la certification de l'ascendance et de la filiation des bovins",
+          "@c_titre_court": "Décret n°2000-523 du 15 juin 2000",
+          "@debut": "2000-06-17",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000005629519"
+        }
+      ],
+      "@cid": "JORFTEXT000000752177",
+      "@date_publi": "2000-06-17",
+      "@date_signature": "2000-06-15",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "DECRET",
+      "@nor": "AGRP9901483D",
+      "@num": "2000-523"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-06-17",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006605252",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les normes de prélèvements et les méthodes d'analyses de comptabilité génétique sont définies par le ministre de l'agriculture. Les laboratoires assurant la réalisation de ces analyses sont tenus de respecter ces normes et ces méthodes.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2000-523 du 15 juin 2000 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000752177",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006605245",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRP9901483D",
+        "@num": "6",
+        "@numtexte": "2000-523",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 27 juin 2000 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000584404",
+        "@datesignatexte": "2000-06-27",
+        "@id": "LEGIARTI000006608454",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRP0001292A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

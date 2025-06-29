@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006271272",
+      "ANCIEN_ID": "ADHDBXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/12/LEGIARTI000006271272.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1953-10-01",
+        "DATE_FIN": "1968-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°53-979 du 30 septembre 1953 LAIT ET PRODUITS LAITIERS",
+          "@c_titre_court": "Décret n°53-979 du 30 septembre 1953",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000299710"
+        },
+        {
+          "#text": "Décret n°53-979 du 30 septembre 1953 relatif au lait et aux produits laitiers",
+          "@c_titre_court": "Décret n°53-979 du 30 septembre 1953",
+          "@debut": "1953-10-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060680"
+        }
+      ],
+      "@cid": "JORFTEXT000000299710",
+      "@date_publi": "1953-10-01",
+      "@date_signature": "1953-09-30",
+      "@nature": "DECRET",
+      "@num": "53-979"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1953-10-01",
+          "@etat": "ABROGE",
+          "@fin": "1968-01-01",
+          "@id": "LEGIARTI000006271272",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001491383",
+          "@num": "3",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 25 de la loi du 2 juillet 1935, tendant à l'organisation et à l'assainissement du marché du lait, est remis en vigueur. La composition et le fonctionnement du comité central du lait, qui constitue l'organe consultatif permanent du ministre, seront fixés par décret rendu sur la proposition du ministre de l'agriculture.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°1935-07-02 du 2 juillet 1935 - art. 25 (Ab)",
+        "@cidtexte": "JORFTEXT000000877373",
+        "@datesignatexte": "1935-07-02",
+        "@id": "LEGIARTI000006637807",
+        "@naturetexte": "LOI",
+        "@num": "25",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 69-211 1969-02-27 art. 1 JORF 7 mars 1969 en vigueur le 1er janvier 1968",
+        "@cidtexte": "JORFTEXT000000499398",
+        "@datesignatexte": "1969-02-27",
+        "@id": "JORFTEXT000000499398",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-211",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1935-07-02 art. 25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

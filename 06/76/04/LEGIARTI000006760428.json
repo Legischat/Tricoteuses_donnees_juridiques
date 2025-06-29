@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006760428",
+      "ANCIEN_ID": "SSHAA7XXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/04/LEGIARTI000006760428.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1950-01-10",
+        "DATE_FIN": "2008-12-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°50-28 du 6 janvier 1950 RELATIF AU REGIME D'ASSURANCE VIEILLESSE COMPLEMENTAIRE DES CHIRURGIENS-DENTISTES",
+          "@c_titre_court": "Décret n°50-28 du 6 janvier 1950",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000673145"
+        },
+        {
+          "#text": "Décret n°50-28 du 6 janvier 1950  relatif au régime d'assurance vieillesse complémentaire des chirurgiens-dentistes et des sages-femmes.",
+          "@c_titre_court": "Décret n°50-28 du 6 janvier 1950",
+          "@debut": "2009-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000020020198"
+        },
+        {
+          "#text": "Décret n°50-28 du 6 janvier 1950  RELATIF AU REGIME D'ASSURANCE VIEILLESSE COMPLEMENTAIRE DES CHIRURGIENS DENTISTES.",
+          "@c_titre_court": "Décret n°50-28 du 6 janvier 1950",
+          "@debut": "1950-01-10",
+          "@fin": "2009-01-01",
+          "@id_txt": "LEGITEXT000006060575"
+        }
+      ],
+      "@cid": "JORFTEXT000000673145",
+      "@date_publi": "1950-01-10",
+      "@date_signature": "1950-01-06",
+      "@nature": "DECRET",
+      "@num": "50-28"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-01-10",
+          "@etat": "MODIFIE",
+          "@fin": "2008-12-28",
+          "@id": "LEGIARTI000006760428",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2008-12-28",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000020020195",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est institué, en sus de la cotisation générale imposée à tous les chirurgiens-dentistes non salariés en exécution de la loi du 17 janvier 1948, une cotisation complémentaire destinée à financer un régime d'assurance vieillesse complémentaire fonctionnant à titre obligatoire.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 48-101 1948-01-17",
+        "@cidtexte": "JORFTEXT000000312716",
+        "@datesignatexte": "1948-01-17",
+        "@id": "JORFTEXT000000312716",
+        "@naturetexte": "LOI",
+        "@numtexte": "48-101",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 50-28 1950-01-06 JORF 10 janvier rectificatif JORF 20 janvier",
+        "@cidtexte": "JORFTEXT000000673145",
+        "@datesignatexte": "1950-01-06",
+        "@id": "JORFTEXT000000673145",
+        "@naturetexte": "DECRET",
+        "@numtexte": "50-28",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

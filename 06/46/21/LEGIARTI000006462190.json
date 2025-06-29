@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006462190",
+      "ANCIEN_ID": "PFI0YXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/21/LEGIARTI000006462190.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-09-09",
+        "DATE_FIN": "1989-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 août 1988 FIXANT LE MONTANT DE L'ALLOCATION FORFAITAIRE SPECIALE ATTRIBUEE AUX APPELES DU CONTINGENT SERVANT DANS LA POLICE NATIONALE",
+          "@c_titre_court": "Arrêté du 31 août 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000327837"
+        },
+        {
+          "#text": "Arrêté du 31 août 1988 fixant le montant de l'allocation forfaitaire spéciale attribuée aux appelés du contingent servant dans la police nationale",
+          "@c_titre_court": "Arrêté du 31 août 1988",
+          "@debut": "1988-09-09",
+          "@fin": "1989-03-01",
+          "@id_txt": "LEGITEXT000006058511"
+        }
+      ],
+      "@cid": "JORFTEXT000000327837",
+      "@date_publi": "1988-09-09",
+      "@date_signature": "1988-08-31",
+      "@nature": "ARRETE",
+      "@nor": "INTF8800343A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-09-09",
+          "@etat": "ABROGE",
+          "@fin": "1989-03-01",
+          "@id": "LEGIARTI000006462190",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 14 octobre 1986 fixant le taux de l'allocation forfaitaire spéciale allouée aux appelés servant dans la police nationale est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-10-14 abrogé",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1989-04-11 art. 2 JORF 26 avril 1989 en vigueur le 1er mars 1989",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 86-1109 1986-10-14",
+        "@cidtexte": "JORFTEXT000000504247",
+        "@datesignatexte": "1986-10-14",
+        "@id": "JORFTEXT000000504247",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-1109",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

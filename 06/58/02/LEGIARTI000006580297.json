@@ -1,0 +1,145 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580297",
+      "ANCIEN_ID": "RAA0XXXXXXX0464AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/02/LEGIARTI000006580297.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "464",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1972-01-05",
+        "DATE_FIN": "1985-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : La chasse et la pêche",
+            "@debut": "1955-04-19",
+            "@fin": "1994-01-01",
+            "@id": "LEGISCTA000006098250"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre III : De la police de la pêche",
+              "@debut": "1955-04-19",
+              "@fin": "1989-11-04",
+              "@id": "LEGISCTA000006121374"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : Des poursuites au nom de l'administration.",
+                "@debut": "1955-04-19",
+                "@fin": "1989-11-04",
+                "@id": "LEGISCTA000006138240"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-01-05",
+          "@etat": "MODIFIE",
+          "@fin": "1985-07-01",
+          "@id": "LEGIARTI000006580297",
+          "@num": "464",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006580298",
+          "@num": "464",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les infractions en matière de pêche fluviale sont, suivant les pénalités encourues, de la compétence des tribunaux correctionnels ou des tribunaux de police. Dans le cas où le tribunal de police est compétent, un avertissement préalable et sans frais est adressé aux personnes poursuivies ou civilement responsables.<br/>\n<br/>   Les jugements rendus par les tribunaux de police sont susceptibles d'appel quel que soit le montant des condamnations encourues. Cet appel est porté devant les cours d'appel. Il est interjeté et jugé dans les formes et conditions établies par les articles 546 et suivants du code de procédure pénale.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L238-8",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 57-362 1957-03-23 art. 7 JORF 24 mars 1957",
+        "@cidtexte": "JORFTEXT000000315391",
+        "@datesignatexte": "1957-03-23",
+        "@id": "JORFTEXT000000315391",
+        "@naturetexte": "LOI",
+        "@numtexte": "57-362",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 72-5 1972-01-03 art. 7 JORF 5 janvier 1972",
+        "@cidtexte": "JORFTEXT000000864610",
+        "@datesignatexte": "1972-01-03",
+        "@id": "JORFTEXT000000864610",
+        "@naturetexte": "LOI",
+        "@numtexte": "72-5",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CODE DE PROCEDURE PENALE - art. 546 (M)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006576918",
+        "@naturetexte": "CODE",
+        "@num": "546",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

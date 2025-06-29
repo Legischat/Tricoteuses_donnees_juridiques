@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006824044",
+      "ANCIEN_ID": "UBIBNXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/40/LEGIARTI000006824044.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1981-01-04",
+        "DATE_FIN": "2006-10-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 18 décembre 1980 APPLICATION DU DECRET 80694 DU 04-09-1980 RELATIF AU CAMPING,AU STATIONNEMENT DES CARAVANES ET A L'IMPLANTATION D'HABITATIONS LEGERES DE LOISIRS (ART. R444-3-B) DU CODE DE L'URBANISME",
+          "@c_titre_court": "Arrêté du 18 décembre 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000462641"
+        },
+        {
+          "#text": "Arrêté du 18 décembre 1980 pris en application du décret n° 80-694 du 4 septembre 1980 relatif au camping, au stationnement des caravanes et à l'implantation d'habitations légères de loisirs (Art R. 444-3 b du code de l'urbanisme)",
+          "@c_titre_court": "Arrêté du 18 décembre 1980",
+          "@debut": "1981-01-04",
+          "@fin": "2010-07-06",
+          "@id_txt": "LEGITEXT000006074095"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions particulières aux parcs résidentiels de loisirs exploités sous régime hôtelier",
+            "@debut": "1981-01-04",
+            "@fin": "2010-07-06",
+            "@id": "LEGISCTA000006108133"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000462641",
+      "@date_publi": "1981-01-04",
+      "@date_signature": "1980-12-18",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-01-04",
+          "@etat": "MODIFIE",
+          "@fin": "2006-10-07",
+          "@id": "LEGIARTI000006824044",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-10-07",
+          "@etat": "ABROGE",
+          "@fin": "2010-07-06",
+          "@id": "LEGIARTI000006824045",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les installations d'un parc résidentiel de loisirs exploité sous régime hôtelier sont destinées à la location à la nuitée, à la semaine ou au mois, pour une clientèle qui n'y élit pas domicile. Ce terrain peut être également aménagé pour l'accueil des caravanes de passage.<br/>\n    Les tableaux n° 1 et 2, figurant en annexe au présent arrêté, fixent les normes minima d'équipement et de fonctionnement des terrains et des installations.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1980-12-18 ANNEXE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 80-694 1980-09-04",
+        "@cidtexte": "JORFTEXT000000502533",
+        "@datesignatexte": "1980-09-04",
+        "@id": "JORFTEXT000000502533",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-694",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de l'urbanisme R444-3",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074075",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

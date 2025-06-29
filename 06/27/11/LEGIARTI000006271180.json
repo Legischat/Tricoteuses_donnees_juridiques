@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006271180",
+      "ANCIEN_ID": "ANFAAXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/11/LEGIARTI000006271180.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1945-10-19",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-2405 du 18 octobre 1945 MESURAGE DU VOLUME DES LIQUIDES DANS LE COMMERCE ET L'INDUSTRIE",
+          "@c_titre_court": "Ordonnance n°45-2405 du 18 octobre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000699037"
+        },
+        {
+          "#text": "Ordonnance n° 45-2405 du 18 octobre 1945 relative au mesurage du volume des liquides",
+          "@c_titre_court": "Ordonnance n° 45-2405 du 18 octobre 1945",
+          "@debut": "1945-10-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069168"
+        }
+      ],
+      "@cid": "JORFTEXT000000699037",
+      "@date_publi": "1945-10-19",
+      "@date_signature": "1945-10-18",
+      "@nature": "ORDONNANCE",
+      "@num": "45-2405"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-10-19",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006271180",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sous réserve de leur maintien en vigueur jusqu'à la publication des décrets pris en application des articles 2 et 4 de la présente ordonnance, sont abrogées :<br/>\n<br/>   Les dispositions de la deuxième partie du tableau annexé à la loi du 13 juin 1866 sur les usages commerciaux, concernant la contenance des pipes d'alcools, des futailles et des bouteilles ;<br/>\n<br/>   Et toutes dispositions contraires à la présente ordonnance.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1866-06-13 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-2405 1945-10-18 JORF 19 octobre 1945 rectificatif JORF 24 octobre 1945",
+        "@cidtexte": "JORFTEXT000000699037",
+        "@datesignatexte": "1945-10-18",
+        "@id": "JORFTEXT000000699037",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2405",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 45-2405 1945-10-18 art. 2, art. 4",
+        "@cidtexte": "JORFTEXT000000699037",
+        "@datesignatexte": "1945-10-18",
+        "@id": "JORFTEXT000000699037",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2405",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du vin - art. 254 (Ab)",
+        "@cidtexte": "LEGITEXT000006071657",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006620913",
+        "@naturetexte": "CODE",
+        "@num": "254",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

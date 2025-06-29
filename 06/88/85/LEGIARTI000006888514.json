@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888514",
+      "ANCIEN_ID": "UTIGHXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/85/LEGIARTI000006888514.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-05-05",
+        "DATE_FIN": "2004-05-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 août 1989 FIXANT LES CONDITIONS D'APPLICATION DE L'ART. R43-4 (AL. 5) DU CODE DE LA ROUTE",
+          "@c_titre_court": "Arrêté du 22 août 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000661546"
+        },
+        {
+          "#text": "Arrêté du 22 août 1989 fixant les conditions d'application de l'article R. 43-4 (5e alinéa) du code de la route",
+          "@c_titre_court": "Arrêté du 22 août 1989",
+          "@debut": "1990-01-01",
+          "@fin": "2004-05-21",
+          "@id_txt": "LEGITEXT000006059177"
+        }
+      ],
+      "@cid": "JORFTEXT000000661546",
+      "@date_publi": "1989-09-16",
+      "@date_signature": "1989-08-22",
+      "@nature": "ARRETE",
+      "@nor": "EQUS8900380A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1997-05-05",
+          "@id": "LEGIARTI000006888513",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-05-05",
+          "@etat": "ABROGE",
+          "@fin": "2004-05-21",
+          "@id": "LEGIARTI000006888514",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La circulation des convois exceptionnels sur autoroute n'est autorisée que sur la voie située le plus près du bord droit de la chaussée. En cas d'affectation des voies, ces transports devront emprunter la voie de droite du courant les concernant.<br/>\n<br/>   Les autres mesures réglementaires concernant la circulation, la signalisation, l'accompagnement et l'escorte des convois sont fixées par l'arrêté préfectoral d'autorisation de transport exceptionnel.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1997-01-31 art. 4 JORF 5 février 1997 en vigueur le 5 mai 1997",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2003-11-26 art. 21 JORF 21 mars 2004 en vigueur le 21 mai 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R43-4",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

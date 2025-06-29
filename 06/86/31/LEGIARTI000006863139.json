@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006863139",
+      "ANCIEN_ID": "UPINIXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/31/LEGIARTI000006863139.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-05-04",
+        "DATE_FIN": "1983-05-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 20 avril 1982 fixant la taxe due par les bénéficiaires du plan de chasse à titre de participation à la réparation des dégâts de grand gibier",
+          "@c_titre_court": "Arrêté du 20 avril 1982",
+          "@debut": "1982-05-04",
+          "@fin": "1983-05-16",
+          "@id_txt": "LEGITEXT000006074628"
+        }
+      ],
+      "@cid": "LEGITEXT000006074628",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-04-20",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-04",
+          "@etat": "ABROGE",
+          "@fin": "1983-05-21",
+          "@id": "LEGIARTI000006863139",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En application des dispositions de l'article 17 de la loi n° 78-1240 du 29 décembre 1978 susvisée, la taxe [*montant*] que les bénéficiaires du plan de chasse sont tenus de verser à titre de participation à la réparation des dégâts du grand gibier est fixée, suivant l'espèce et par tête de grand gibier à prélever attribuée à chaque bénéficiaire pour son plan de chasse individuel, à :<br/>\n<br/>   Cerf : 230 F ;<br/>\n<br/>   Daim : 115 F ;<br/>\n<br/>   Mouflon : 80 F ;<br/>\n<br/>   Chevreuil : 40 F.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-04-20 JORF 4 MAI 1982",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 1983-05-16 JORF 21 MAI 1983",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "LOI 78-1240 1978-12-29 ART. 17",
+        "@cidtexte": "JORFTEXT000000522721",
+        "@datesignatexte": "1978-12-29",
+        "@id": "JORFTEXT000000522721",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-1240",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 78-1240 1978-12-29 ART. 17",
+        "@cidtexte": "JORFTEXT000000522721",
+        "@datesignatexte": "1978-12-29",
+        "@id": "JORFTEXT000000522721",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-1240",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

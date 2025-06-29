@@ -1,0 +1,163 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006418377",
+      "ANCIEN_ID": "PCAXXXXXXXX1X412L06AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/41/83/LEGIARTI000006418377.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "412-6",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1994-03-01",
+        "DATE_FIN": "2002-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code pénal",
+          "@c_titre_court": "Code pénal",
+          "@debut": "1990-09-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070719"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1990-09-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089684"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre IV : Des crimes et délits contre la nation, l'Etat et la paix publique",
+              "@debut": "1990-09-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117602"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre Ier : Des atteintes aux intérêts fondamentaux de la nation",
+                "@debut": "1992-07-23",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006136044"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : Des autres atteintes aux institutions de la République ou à l'intégrité du territoire national",
+                  "@debut": "1992-07-23",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006149842"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 2 : Du mouvement insurrectionnel",
+                    "@debut": "1994-03-01",
+                    "@fin": "2999-01-01",
+                    "@id": "LEGISCTA000006165354"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070719",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "MODIFIE",
+          "@fin": "2002-01-01",
+          "@id": "LEGIARTI000006418377",
+          "@num": "412-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006418378",
+          "@num": "412-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le fait de diriger ou d'organiser un mouvement insurrectionnel est puni de la détention criminelle à perpétuité et de 5 000 000 F d'amende.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 92-686 1992-07-22",
+        "@cidtexte": "JORFTEXT000000722860",
+        "@datesignatexte": "1992-07-22",
+        "@id": "JORFTEXT000000722860",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9100041L",
+        "@numtexte": "92-686",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 92-686 1992-07-22 art. 1",
+        "@cidtexte": "JORFTEXT000000722860",
+        "@datesignatexte": "1992-07-22",
+        "@id": "JORFTEXT000000722860",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9100041L",
+        "@numtexte": "92-686",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi 92-1336 1992-12-16 art. 373",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "JORFTEXT000000177662",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code pénal - art. 414-4 (V)",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006418412",
+        "@naturetexte": "CODE",
+        "@num": "414-4",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

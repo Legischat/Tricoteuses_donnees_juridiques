@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006858611",
+      "ANCIEN_ID": "UPHWXXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/86/LEGIARTI000006858611.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-05-01",
+        "DATE_FIN": "2007-10-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 90-267 du 23 mars 1990 relatif à l'importation, à l'exportation et    au transit de déchets générateurs de nuisances.",
+          "@c_titre_court": "Décret n°90-267 du 23 mars 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000349606"
+        },
+        {
+          "#text": "Décret n°90-267 du 23 mars 1990 relatif à l'importation, à l'exportation et au transit de déchets générateurs de nuisances",
+          "@c_titre_court": "Décret n°90-267 du 23 mars 1990",
+          "@debut": "1990-05-01",
+          "@fin": "2007-10-16",
+          "@id_txt": "LEGITEXT000006075611"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE Ier : RÉGIME GÉNÉRAL",
+            "@debut": "1990-05-01",
+            "@fin": "2007-10-16",
+            "@id": "LEGISCTA000006109817"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CHAPITRE Ier : Importation.",
+              "@debut": "1990-05-01",
+              "@fin": "2007-10-16",
+              "@id": "LEGISCTA000006129643"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000349606",
+      "@date_publi": "1990-03-27",
+      "@date_signature": "1990-03-23",
+      "@nature": "DECRET",
+      "@nor": "PRME9061077D",
+      "@num": "90-267"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-05-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-10-16",
+          "@id": "LEGIARTI000006858611",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La demande d'autorisation est adressée au préfet du département sur le territoire duquel est située l'installation d'élimination du déchet par le destinataire ou par toute personne domiciliée en France chargée par le destinataire d'introduire, pour le compte de celui-ci, le déchet sur le territoire douanier.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-03-23",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi 75-633 1975-07-15",
+        "@cidtexte": "JORFTEXT000000888298",
+        "@datesignatexte": "1975-07-15",
+        "@id": "JORFTEXT000000888298",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-633",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 90-267 1990-03-23 art. 40",
+        "@cidtexte": "JORFTEXT000000349606",
+        "@datesignatexte": "1990-03-23",
+        "@id": "JORFTEXT000000349606",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRME9061077D",
+        "@numtexte": "90-267",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 2007-1467 2007-10-12 art. 4 JORF 16 octobre 2007",
+        "@cidtexte": "JORFTEXT000000825108",
+        "@datesignatexte": "2007-10-12",
+        "@id": "JORFTEXT000000825108",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVG0750611D",
+        "@numtexte": "2007-1467",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

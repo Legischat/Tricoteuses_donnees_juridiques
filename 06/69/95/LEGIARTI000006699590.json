@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006699590",
+      "ANCIEN_ID": "AFEAXXXXXXX020AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/95/LEGIARTI000006699590.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "20",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1932-04-22",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 21 avril 1932 créant des warrants pétroliers",
+          "@c_titre_court": "Loi du 21 avril 1932",
+          "@debut": "1932-04-22",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072679"
+        }
+      ],
+      "@cid": "LEGITEXT000006072679",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1932-04-21",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1932-04-22",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006699590",
+          "@num": "20",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La présente loi sera applicable dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, sous réserve des dispositions spéciales de la loi du 1er juin 1924 portant introduction des lois commerciales françaises dans ces trois départements.<br/>\n<br/>   Les greffes compétents pour l'établissement des warrants pétroliers seront ceux prévus à l'article 35 de ladite loi pour l'établissement des warrants hôteliers.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de commerce. - art. L524-21 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234719",
+        "@naturetexte": "CODE",
+        "@num": "L524-21",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 1924-06-01",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1932-04-21 art. 35",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

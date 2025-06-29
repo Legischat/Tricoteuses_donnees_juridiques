@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006622132",
+      "ANCIEN_ID": "RGHDPXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/21/LEGIARTI000006622132.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-12-09",
+        "DATE_FIN": "2009-10-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 22 novembre 1999 relatif à l'appellation  d'origine contrôlée «Anjou mousseux»",
+          "@c_titre_court": "Décret du 22 novembre 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000397482"
+        },
+        {
+          "#text": "Décret du 22 novembre 1999 relatif à l'appellation d'origine contrôlée \"Anjou mousseux\"",
+          "@c_titre_court": "Décret du 22 novembre 1999",
+          "@debut": "1999-11-24",
+          "@fin": "2009-10-15",
+          "@id_txt": "LEGITEXT000005628724"
+        }
+      ],
+      "@cid": "JORFTEXT000000397482",
+      "@date_publi": "1999-11-24",
+      "@date_signature": "1999-11-22",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "DECRET",
+      "@nor": "ECOC9900136D"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-11-24",
+          "@etat": "MODIFIE",
+          "@fin": "2001-12-09",
+          "@id": "LEGIARTI000006622131",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-12-09",
+          "@etat": "ABROGE",
+          "@fin": "2009-10-15",
+          "@id": "LEGIARTI000006622132",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les vins pour lesquels est revendiquée l'appellation d'origine contrôlée \"Anjou mousseux\" sont soumis aux dispositions du décret n° 2001-1163 du 7 décembre 2001.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2001-1163 du 7 décembre 2001",
+        "@cidtexte": "JORFTEXT000000223474",
+        "@datesignatexte": "2001-12-07",
+        "@id": "JORFTEXT000000223474",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRP0102008D",
+        "@numtexte": "2001-1163",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2001-1163 du 7 décembre 2001 - art. 6 (V) JORF 9 décembre 2001",
+        "@cidtexte": "JORFTEXT000000223474",
+        "@datesignatexte": "2001-12-07",
+        "@id": "LEGIARTI000006622889",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRP0102008D",
+        "@num": "6",
+        "@numtexte": "2001-1163",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2009-1227 du 12 octobre 2009 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000021148190",
+        "@datesignatexte": "2009-10-12",
+        "@id": "LEGIARTI000021148739",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRT0916823D",
+        "@num": "2",
+        "@numtexte": "2009-1227",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

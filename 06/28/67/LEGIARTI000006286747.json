@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006286747",
+      "ANCIEN_ID": "ARIAAXXXXXX002ABXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/67/LEGIARTI000006286747.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-07-10",
+        "DATE_FIN": "2006-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 mai 1974 fixant les modèles de livret de famille",
+          "@c_titre_court": "Arrêté du 16 mai 1974",
+          "@debut": "1974-05-28",
+          "@fin": "2006-07-01",
+          "@id_txt": "LEGITEXT000006069468"
+        }
+      ],
+      "@cid": "LEGITEXT000006069468",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-05-16",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-07-10",
+          "@etat": "ABROGE",
+          "@fin": "2006-07-01",
+          "@id": "LEGIARTI000006286747",
+          "@num": "2-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le livret de famille délivré aux réfugiés et apatrides par le directeur de l'Office français de protection des réfugiés et apatrides est établi conformément aux modèles décrits aux annexes V, VI et VII.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-05-16 annexe V, annexe VI, annexe VII",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1991-05-28 art. 1 JORF 10 juillet 1991",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 2006-06-01 art. 5 JORF 2 juin 2006 en vigueur le 1er juillet 2006",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 74-449 1974-05-15",
+        "@cidtexte": "JORFTEXT000000328986",
+        "@datesignatexte": "1974-05-15",
+        "@id": "JORFTEXT000000328986",
+        "@naturetexte": "DECRET",
+        "@numtexte": "74-449",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

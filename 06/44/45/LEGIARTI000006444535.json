@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006444535",
+      "ANCIEN_ID": "PEHYMXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/45/LEGIARTI000006444535.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-10-21",
+        "DATE_FIN": "2013-08-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 84-932 du 17 octobre 1984 relatif aux diplômes nationaux de l'enseignement supérieur",
+          "@c_titre_court": "Décret n° 84-932 du 17 octobre 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886414"
+        },
+        {
+          "#text": "Décret n°84-932 du 17 octobre 1984 relatif aux diplômes nationaux de l'enseignement supérieur.",
+          "@c_titre_court": "Décret n°84-932 du 17 octobre 1984",
+          "@debut": "1984-10-21",
+          "@fin": "2013-08-21",
+          "@id_txt": "LEGITEXT000006064635"
+        }
+      ],
+      "@cid": "JORFTEXT000000886414",
+      "@date_publi": "1984-10-21",
+      "@date_signature": "1984-10-17",
+      "@nature": "DECRET",
+      "@num": "84-932"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-10-21",
+          "@etat": "ABROGE",
+          "@fin": "2013-08-21",
+          "@id": "LEGIARTI000006444535",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 73-227 du 27 février 1973 modifié relatif aux diplômes nationaux de l'enseignement supérieur est abrogé. Le ministre chargé de l'éducation nationale et le ministre chargé de la santé fixent les dispositions transitoires concernant les diplômes nationaux mentionnés au décret précité et ne figurant pas à l'article 1er ci-dessus.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "1",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°73-227 du 27 février 1973",
+        "@cidtexte": "JORFTEXT000000494381",
+        "@datesignatexte": "1973-02-27",
+        "@id": "JORFTEXT000000494381",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-227",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n° 84-932 du 17 octobre 1984 - art. 1",
+        "@cidtexte": "JORFTEXT000000886414",
+        "@datesignatexte": "1984-10-17",
+        "@id": "LEGIARTI000006444532",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "84-932",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2013-756\n du 19 août 2013 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000027854364",
+        "@datesignatexte": "2013-08-19",
+        "@id": "LEGIARTI000027857616",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ESRJ1235816D",
+        "@num": "4",
+        "@numtexte": "2013-756",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888516",
+      "ANCIEN_ID": "UTIGHXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/85/LEGIARTI000006888516.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-01-01",
+        "DATE_FIN": "2004-05-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 août 1989 FIXANT LES CONDITIONS D'APPLICATION DE L'ART. R43-4 (AL. 5) DU CODE DE LA ROUTE",
+          "@c_titre_court": "Arrêté du 22 août 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000661546"
+        },
+        {
+          "#text": "Arrêté du 22 août 1989 fixant les conditions d'application de l'article R. 43-4 (5e alinéa) du code de la route",
+          "@c_titre_court": "Arrêté du 22 août 1989",
+          "@debut": "1990-01-01",
+          "@fin": "2004-05-21",
+          "@id_txt": "LEGITEXT000006059177"
+        }
+      ],
+      "@cid": "JORFTEXT000000661546",
+      "@date_publi": "1989-09-16",
+      "@date_signature": "1989-08-22",
+      "@nature": "ARRETE",
+      "@nor": "EQUS8900380A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2004-05-21",
+          "@id": "LEGIARTI000006888516",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 7 août 1981, modifié par l'arrêté du 19 janvier 1984, est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1981-08-07",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1984-01-19",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2003-11-26 art. 21 JORF 21 mars 2004 en vigueur le 21 mai 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R43-4",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

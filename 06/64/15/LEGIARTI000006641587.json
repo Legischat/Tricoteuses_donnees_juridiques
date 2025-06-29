@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006641587",
+      "ANCIEN_ID": "RLIGHXXXXXX007AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/15/LEGIARTI000006641587.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-09-21",
+        "DATE_FIN": "2005-05-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 octobre 1994 relatif aux conditions de police sanitaire    régissant les échanges intracommunautaires de certains carnivores",
+          "@c_titre_court": "Arrêté du 12 octobre 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000732634"
+        },
+        {
+          "#text": "Arrêté du 12 octobre 1994 relatif aux conditions de police sanitaire régissant les échanges intracommunautaires de certains carnivores",
+          "@c_titre_court": "Arrêté du 12 octobre 1994",
+          "@debut": "1994-11-08",
+          "@fin": "2005-05-29",
+          "@id_txt": "LEGITEXT000005616932"
+        }
+      ],
+      "@cid": "JORFTEXT000000732634",
+      "@date_publi": "1994-11-08",
+      "@date_signature": "1994-10-12",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "ARRETE",
+      "@nor": "AGRG9401984A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-11-08",
+          "@etat": "MODIFIE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006641586",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-09-21",
+          "@etat": "ABROGE",
+          "@fin": "2005-05-29",
+          "@id": "LEGIARTI000006641587",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les introductions en France de chiens et chats à destination des départements déclarés infectés de rage sont également soumises aux dispositions des articles L. 214-5 et L. 223-15 du code rural.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L214-5, L223-15",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000401865",
+        "@datesignatexte": "2000-09-18",
+        "@id": "LEGIARTI000006849361",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ATEX0000087R",
+        "@num": "11",
+        "@numtexte": "2000-914",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 20 mai 2005 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000000446635",
+        "@datesignatexte": "2005-05-20",
+        "@id": "LEGIARTI000022516379",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0501211A",
+        "@num": "11",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006698817",
+      "ANCIEN_ID": "AFEATXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/88/LEGIARTI000006698817.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-09-21",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 8 août 1913 relative au warrant hôtelier.",
+          "@c_titre_court": "Loi du 8 août 1913",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518746"
+        },
+        {
+          "#text": "Loi du 8 août 1913 relative au warrant hôtelier",
+          "@c_titre_court": "Loi du 8 août 1913",
+          "@debut": "1913-08-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072675"
+        }
+      ],
+      "@cid": "JORFTEXT000000518746",
+      "@date_publi": "1913-08-10",
+      "@date_signature": "1913-08-08",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1913-08-10",
+          "@etat": "MODIFIE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006698816",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-09-21",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006698817",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est tenu, dans chaque greffe de tribunal de commerce, un registre à souche coté et paraphé, dont le volant et la souche portent chacun, d'après les déclarations de l'emprunteur, les indications suivantes :<br/>\n<br/>   1° Les noms, professions et domiciles des parties ;<br/>\n<br/>   2° La nature des objets mis en gage, les indications propres à établir leur identité et à déterminer leur valeur, ainsi que le lieu de leur situation ;<br/>\n<br/>   3° L'inexistence d'aucun privilège de vendeur, de nantissement ou de gage sur lesdits objets ;<br/>\n<br/>   4° Le nom de la compagnie à laquelle ils sont assurés, ainsi que l'immeuble, pendant toute la durée du prêt, contre l'incendie ;<br/>\n<br/>   5° Le montant de la créance garantie et la date de son échéance, ainsi que toutes les clauses et conditions particulières arrêtées entre les parties ;<br/>\n<br/>   6° La date de la notification de l'acte extrajudiciaire adressé au propriétaire, à l'usufruitier ou à leur mandataire légal, et celle de leur réponse ;<br/>\n<br/>   7° Le montant du loyer annuel de l'hôtel et la justification que les loyers énumérés à l'article 2 ont été acquittés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de commerce. - art. L523-3 (VT)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234292",
+        "@naturetexte": "CODE",
+        "@num": "L523-3",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 1913-08-08 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 I 10° JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

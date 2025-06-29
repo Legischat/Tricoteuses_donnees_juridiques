@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006733895",
+      "ANCIEN_ID": "SRID2XXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/73/38/LEGIARTI000006733895.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-05-31",
+        "DATE_FIN": "2012-05-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 mai 2005 relatif aux autorisations d'ouverture et aux modifications des autorisations d'ouverture des établissements pharmaceutiques vétérinaires",
+          "@c_titre_court": "Arrêté du 19 mai 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000810854"
+        },
+        {
+          "#text": "Arrêté du 19 mai 2005 relatif aux autorisations d'ouverture et aux modifications des autorisations d'ouverture des établissements pharmaceutiques vétérinaires",
+          "@c_titre_court": "Arrêté du 19 mai 2005",
+          "@debut": "2005-05-31",
+          "@fin": "2012-05-05",
+          "@id_txt": "LEGITEXT000006051828"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre III : Changement de propriété et mise en location-gérance.",
+            "@debut": "2005-05-31",
+            "@fin": "2012-05-05",
+            "@id": "LEGISCTA000006105877"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000810854",
+      "@date_publi": "2005-05-31",
+      "@date_signature": "2005-05-19",
+      "@ministere": "MINISTERE DES SOLIDARITES, DE LA SANTE ET DE LA FAMILLE",
+      "@nature": "ARRETE",
+      "@nor": "SANP0521868A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-05-31",
+          "@etat": "ABROGE",
+          "@fin": "2012-05-05",
+          "@id": "LEGIARTI000006733895",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 9 mai 1995 relatif à l'autorisation administrative prévue à l'article L. 616 du code de la santé publique pour l'ouverture des établissements de fabrication et de distribution des médicaments vétérinaires est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-05-09",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 avril 2012 - art. 21",
+        "@cidtexte": "JORFTEXT000025794925",
+        "@datesignatexte": "2012-04-20",
+        "@id": "LEGIARTI000025797218",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ETSP1221356A",
+        "@num": "21",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L616",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006693800",
+        "@naturetexte": "CODE",
+        "@num": "L616",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

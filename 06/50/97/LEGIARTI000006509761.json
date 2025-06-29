@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006509761",
+      "ANCIEN_ID": "PKHNHXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/97/LEGIARTI000006509761.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 99-44 du 20 janvier 1999 modifiant le décret no 64-260 du 14 mars 1964 modifié portant statut des sous-préfets",
+          "@c_titre_court": "Décret n°99-44 du 20 janvier 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000209526"
+        },
+        {
+          "#text": "Décret n°99-44 du 20 janvier 1999 modifiant le décret n° 64-260 du 14 mars 1964 modifié portant statut des sous-préfets.",
+          "@c_titre_court": "Décret n°99-44 du 20 janvier 1999",
+          "@debut": "1999-01-23",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005627406"
+        }
+      ],
+      "@cid": "JORFTEXT000000209526",
+      "@date_publi": "1999-01-23",
+      "@date_signature": "1999-01-20",
+      "@ministere": "MINISTERE DE L'INTERIEUR",
+      "@nature": "DECRET",
+      "@nor": "INTA9800327D",
+      "@num": "99-44"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006509761",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°64-260 du 14 mars 1964 - art. 4 (M)",
+        "@cidtexte": "JORFTEXT000000327700",
+        "@datesignatexte": "1964-03-14",
+        "@id": "LEGIARTI000006570212",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "64-260",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 64-260 1964-03-14",
+        "@cidtexte": "JORFTEXT000000327700",
+        "@datesignatexte": "1964-03-14",
+        "@id": "JORFTEXT000000327700",
+        "@naturetexte": "DECRET",
+        "@numtexte": "64-260",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

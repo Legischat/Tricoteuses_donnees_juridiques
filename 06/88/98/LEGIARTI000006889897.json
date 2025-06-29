@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006889897",
+      "ANCIEN_ID": "UTIKAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/98/LEGIARTI000006889897.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-11-22",
+        "DATE_FIN": "1997-11-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 octobre 1990    relatif à la commission des téléphériques",
+          "@c_titre_court": "Arrêté du 23 octobre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000351617"
+        },
+        {
+          "#text": "Arrêté du 23 octobre 1990 relatif à la commission des téléphériques",
+          "@c_titre_court": "Arrêté du 23 octobre 1990",
+          "@debut": "1990-11-22",
+          "@fin": "1997-11-15",
+          "@id_txt": "LEGITEXT000006076786"
+        }
+      ],
+      "@cid": "JORFTEXT000000351617",
+      "@date_publi": "1990-11-22",
+      "@date_signature": "1990-10-23",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "ARRETE",
+      "@nor": "EQUT9001456A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-11-22",
+          "@etat": "ABROGE",
+          "@fin": "1997-11-15",
+          "@id": "LEGIARTI000006889897",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La commission des téléphériques, instituée par l'arrêté du 13 mai 1936 susvisé, donne son avis sur les problèmes qui lui sont soumis par le ministre chargé des transports relatifs à l'établissement et à l'exploitation des remontées mécaniques telles qu'elles sont définies par l'article 43 de la loi du 9 janvier 1985 susvisée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1936-05-13",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté 1936-05-13",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1997-11-05 art. 7 JORF 15 novembre 1997",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 85-30 1985-01-09 art. 43",
+        "@cidtexte": "JORFTEXT000000317293",
+        "@datesignatexte": "1985-01-09",
+        "@id": "JORFTEXT000000317293",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 85-30 1985-01-09 art. 43",
+        "@cidtexte": "JORFTEXT000000317293",
+        "@datesignatexte": "1985-01-09",
+        "@id": "JORFTEXT000000317293",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-30",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

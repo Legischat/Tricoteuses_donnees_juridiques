@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006806380",
+      "ANCIEN_ID": "TXXXXXXXXXX0223R0010XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/63/LEGIARTI000006806380.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R223-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "2008-05-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Réglementation du travail",
+              "@debut": "1973-11-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128493"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Repos et congés",
+                "@debut": "1973-11-23",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143008"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre III : Congés annuels.",
+                  "@debut": "1973-11-23",
+                  "@fin": "2008-05-01",
+                  "@id": "LEGISCTA000018513643"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000006806380",
+          "@num": "R223-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le point de départ de la période prise en considération pour l'application du droit au congé est fixé au 1er juin de chaque année.<br/>\n<br/>   Toutefois, dans les professions où en application de l'article L. 223-16 les employeurs sont tenus de s'affilier à une caisse de congé, le point de départ de l'année de référence est fixé au 1er avril.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2008-244\r\n du 7 mars 2008 - art. 9 (V)",
+        "@cidtexte": "JORFTEXT000018254394",
+        "@datesignatexte": "2008-03-07",
+        "@id": "LEGIARTI000018255681",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MTST0804938D",
+        "@num": "9",
+        "@numtexte": "2008-244",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. R225-7 (VT)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018513514",
+        "@naturetexte": "CODE",
+        "@num": "R225-7",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R3141-3 (VT)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018534309",
+        "@naturetexte": "CODE",
+        "@num": "R3141-3",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail 54 g al. 7 et 8",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006274409",
+      "ANCIEN_ID": "MTEADXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/44/LEGIARTI000006274409.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-09-07",
+        "DATE_FIN": "1985-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-821 du 6 septembre 1984 PORTANT STATUT DU TERRITOIRE DE LA NOUVELLE-CALEDONIE ET DEPENDANCES",
+          "@c_titre_court": "Loi n°84-821 du 6 septembre 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878217"
+        },
+        {
+          "#text": "Loi n°84-821 du 6 septembre 1984 portant statut du territoire de la Nouvelle-Calédonie et dépendances.",
+          "@c_titre_court": "Loi n°84-821 du 6 septembre 1984",
+          "@debut": "1984-09-07",
+          "@fin": "1999-03-21",
+          "@id_txt": "LEGITEXT000006068865"
+        }
+      ],
+      "@cid": "JORFTEXT000000878217",
+      "@date_publi": "1984-09-07",
+      "@date_signature": "1984-09-06",
+      "@nature": "LOI",
+      "@num": "84-821"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-09-07",
+          "@etat": "ABROGE",
+          "@fin": "1985-09-21",
+          "@id": "LEGIARTI000006274409",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001295746",
+          "@num": "3",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le territoire de la Nouvelle-Calédonie et dépendances comporte six circonscriptions [*composition - nombre*] dénommées pays dont la délimitation tient compte des aires coutumières et de leurs liens économiques, sociaux et culturels.<br/>\n    Ces pays sont :<br/>\n    1° Le pays hoot Waap qui recouvre le territoire des communes de Belep, Poum, Ouegoa, Kaala-Gomen, Voh, Koumac, Pouebo et Hienghène ;<br/>\n    2° Le pays Paci Camuki qui recouvre le territoire des communes de Ponerihouen, Poindimié, Touho, Koné et Pouembout ;<br/>\n    3° Le pays Ajié Aro qui recouvre le territoire des communes de Houaïlou, Moindou, Bourail et Poya ;<br/>\n    4° Le pays Téi Araju qui recouvre le territoire des communes de Farino, Sarraméa, La Foa, Bouloupari, Thio et Canala ;<br/>\n    5° Le pays Dumbéa qui recouvre le territoire des communes de l'île des Pins, Yaté, Mont-Dore, Dumbéa, Païta et Nouméa ;<br/>\n    6° Le pays des Loyauté qui recouvre le territoire des communes de Maré, Lifou et Ouvéa.<br/>\n    Le décret en Conseil d'Etat portant création d'une ou plusieurs nouvelles communes fixe également la nouvelle délimitation des pays résultant de cette ou de ces créations.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 84-821 1984-09-06 ART. 132",
+        "@cidtexte": "JORFTEXT000000878217",
+        "@datesignatexte": "1984-09-06",
+        "@id": "JORFTEXT000000878217",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-821",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 85-992 1985-09-20 art. 98 JORF 21 septembre 1985",
+        "@cidtexte": "JORFTEXT000000521798",
+        "@datesignatexte": "1985-09-20",
+        "@id": "JORFTEXT000000521798",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "85-992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

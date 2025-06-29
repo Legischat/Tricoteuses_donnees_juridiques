@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006868737",
+      "ANCIEN_ID": "AIIEWXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/87/LEGIARTI000006868737.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-03-11",
+        "DATE_FIN": "1987-08-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 mars 1986 relatif aux tarifs des transports effectués par des véhicules sanitaires terrestres privés agréés",
+          "@c_titre_court": "Arrêté du 7 mars 1986",
+          "@debut": "1986-03-11",
+          "@fin": "1987-08-06",
+          "@id_txt": "LEGITEXT000006074890"
+        }
+      ],
+      "@cid": "LEGITEXT000006074890",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-03-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-11",
+          "@etat": "ABROGE",
+          "@fin": "1987-08-06",
+          "@id": "LEGIARTI000006868737",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Délégation de compétence est donnée aux commissaires de la République de ces départements pour fixer les tarifs des transports effectués par des véhicules sanitaires terrestres privés agréés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-08-04 art. 9",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1987-08-04 art. 9 JORF 6 août 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 86-15/A 1986-03-07 BOCC n° 4, 11 mars 1986",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

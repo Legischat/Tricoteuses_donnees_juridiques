@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006868840",
+      "ANCIEN_ID": "AIIEXXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/88/LEGIARTI000006868840.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-03-11",
+        "DATE_FIN": "1987-08-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 mars 1986 relatif aux tarifs des transports effectués en ambulances automobiles par les entreprises privées non agréées",
+          "@c_titre_court": "Arrêté du 7 mars 1986",
+          "@debut": "1986-03-11",
+          "@fin": "1987-08-06",
+          "@id_txt": "LEGITEXT000006074891"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Champ d'application.",
+            "@debut": "1986-03-11",
+            "@fin": "1987-08-06",
+            "@id": "LEGISCTA000006110775"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074891",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-03-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-11",
+          "@etat": "ABROGE",
+          "@fin": "1987-08-06",
+          "@id": "LEGIARTI000006868840",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent arrêté fixe les tarifs limites, toutes taxes comprises, applicables aux transports de malades ou blessés effectués en ambulance aménagée par les entreprises privées n'ayant pas obtenu l'agrément institué par l'article L. 51-1 du code de la santé publique.<br/>\n<br/>   L'application de ces prix limites est exclusive de toute majoration ou de tout supplément qui n'est pas prévu par l'arrêté.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-08-04 art. 4",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1987-08-04 art. 4 JORF 6 août 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 86-16/A 1986-03-07 BOCC n° 4, 11 mars 1986",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L51-1 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692263",
+        "@naturetexte": "CODE",
+        "@num": "L51-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

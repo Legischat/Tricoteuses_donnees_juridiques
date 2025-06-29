@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006438656",
+      "ANCIEN_ID": "PEHCYXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/86/LEGIARTI000006438656.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-01-01",
+        "DATE_FIN": "2005-09-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  n° 90-788 du 6 septembre 1990 relatif à l'organisation et au    fonctionnement des écoles maternelles et élémentaires",
+          "@c_titre_court": "Décret n° 90-788 du 6 septembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000352635"
+        },
+        {
+          "#text": "Décret n°90-788 du 6 septembre 1990 relatif à l'organisation et au fonctionnement des écoles maternelles et élémentaires",
+          "@c_titre_court": "Décret n°90-788 du 6 septembre 1990",
+          "@debut": "1992-02-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006076461"
+        }
+      ],
+      "@cid": "JORFTEXT000000352635",
+      "@date_publi": "1990-09-08",
+      "@date_signature": "1990-09-06",
+      "@ministere": "MINISTERE DE L'EDUCATION NATIONALE",
+      "@nature": "DECRET",
+      "@nor": "MENE9001978D",
+      "@num": "90-788"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2005-09-02",
+          "@id": "LEGIARTI000006438656",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-09-02",
+          "@etat": "ABROGE",
+          "@fin": "2006-05-24",
+          "@id": "LEGIARTI000006438657",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un livret scolaire est constitué pour chaque élève.<br/>\n<br/>   Il comporte :<br/>\n<br/>   - les résultats des évaluations périodiques établies par l'enseignant ou les enseignants du cycle réunis en conseil des maîtres ;<br/>\n<br/>   - des indications précises sur les acquis de l'élève ;<br/>\n<br/>   - les propositions faites par le maître et le conseil des maîtres de cycle sur la durée à effectuer par l'élève dans le cycle, les décisions de passage de cycle et, le cas échéant, la décision prise après recours de la famille conformément à l'article 4.<br/>\n<br/>   Il est régulièrement communiqué aux parents qui le signent.<br/>\n<br/>   Il sert d'instrument de liaison entre les maîtres, ainsi qu'entre le maître et les parents.<br/>\n<br/>   Il suit l'élève en cas de changement d'école.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 90-788 1990-09-06 art. 26",
+        "@cidtexte": "JORFTEXT000000352635",
+        "@datesignatexte": "1990-09-06",
+        "@id": "JORFTEXT000000352635",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENE9001978D",
+        "@numtexte": "90-788",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 90-788 1990-09-06 art. 4",
+        "@cidtexte": "JORFTEXT000000352635",
+        "@datesignatexte": "1990-09-06",
+        "@id": "JORFTEXT000000352635",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENE9001978D",
+        "@numtexte": "90-788",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

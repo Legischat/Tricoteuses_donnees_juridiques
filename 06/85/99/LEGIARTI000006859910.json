@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006859910",
+      "ANCIEN_ID": "UPIBPXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/99/LEGIARTI000006859910.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-01-18",
+        "DATE_FIN": "1987-12-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 décembre 1977 relatif aux modalités de mesure de la biodégradabilité des agents de surface non ioniques.",
+          "@c_titre_court": "Arrêté du 28 décembre 1977",
+          "@debut": "1978-01-18",
+          "@fin": "1987-12-30",
+          "@id_txt": "LEGITEXT000006074370"
+        }
+      ],
+      "@cid": "LEGITEXT000006074370",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-12-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-01-18",
+          "@etat": "ABROGE",
+          "@fin": "1987-12-30",
+          "@id": "LEGIARTI000006859910",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si les conditions de validité définies aux articles 4 et 5 sont remplies, on peut calculer la biodégradabilité D des agents de surface non ioniques contenus dans l'échantillon soumis à l'essai :<br/>\n<br/>   D = (Dea + Deb) / 2 x Dz,0 / Dz<br/>\n<br/>   Compte tenu du degré de précision des méthodes de contrôle et de mesure actuellement utilisées, la non-conformité ne sera constatée que si le taux minimum de biodégradabilité des agents de surface non ioniques, c'est-à-dire la valeur de D ainsi obtenue, est inférieur à 80 p. 100, la mesure étant effectuée par une seule analyse.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-12-28 art. 4, art. 5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-12-24 art. 3 JORF 30 décembre 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°77-1554 du 28 décembre 1977 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000331299",
+        "@datesignatexte": "1977-12-28",
+        "@id": "LEGIARTI000006852755",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "77-1554",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

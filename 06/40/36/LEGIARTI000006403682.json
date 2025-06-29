@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006403682",
+      "ANCIEN_ID": "MVIBTXXXXXX007AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/36/LEGIARTI000006403682.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-12-20",
+        "DATE_FIN": "2018-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 décembre 1996  relatif aux deux modèles du certificat de décès",
+          "@c_titre_court": "Arrêté du 24 décembre 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000563747"
+        },
+        {
+          "#text": "Arrêté du 24 décembre 1996 relatif aux deux modèles du certificat de décès",
+          "@c_titre_court": "Arrêté du 24 décembre 1996",
+          "@debut": "1997-02-05",
+          "@fin": "2018-01-01",
+          "@id_txt": "LEGITEXT000005622759"
+        }
+      ],
+      "@cid": "JORFTEXT000000563747",
+      "@date_publi": "1997-02-05",
+      "@date_signature": "1996-12-24",
+      "@ministere": "MINISTERE DU TRAVAIL ET DES AFFAIRES SOCIALES",
+      "@nature": "ARRETE",
+      "@nor": "TASP9720101A",
+      "@num_parution_jo": "0030"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-02-05",
+          "@etat": "ABROGE",
+          "@fin": "2006-12-20",
+          "@id": "LEGIARTI000006403681",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-12-20",
+          "@etat": "ABROGE",
+          "@fin": "2018-01-01",
+          "@id": "LEGIARTI000006403682",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le médecin constatant le décès peut, conformément à l'article R. 2213-1-2 du code général des collectivités territoriales, établir le certificat de décès sur support électronique. Dans ce cas, après s'être authentifié au moyen d'une carte de professionnel de santé ou d'un système équivalent, il accède aux formulaires de certificats de décès par le réseau internet à l'adresse suivante :<br/>\n http://sic.certdc.inserm.fr.<br/>\n<br/>   Le volet administratif du certificat est imprimé en trois exemplaires à l'usage des destinataires visés à l'article 3.<br/>\n<br/>   Le volet médical est transmis par voie électronique et ne fait l'objet d'aucune édition papier.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1996-12-24 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2006-11-24 art. 2 JORF 20 décembre 2006",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 17 juillet 2017 - art. 7",
+        "@cidtexte": "JORFTEXT000035388290",
+        "@datesignatexte": "2017-07-17",
+        "@id": "LEGIARTI000035492576",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "PRMX1720890A",
+        "@num": "7",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code général des collectivités territoriales - art. R2213-1-2",
+        "@cidtexte": "LEGITEXT000006070633",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006395866",
+        "@naturetexte": "CODE",
+        "@num": "R2213-1-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

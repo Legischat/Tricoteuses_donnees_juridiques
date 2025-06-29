@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006701265",
+      "ANCIEN_ID": "SPHAGXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/12/LEGIARTI000006701265.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1965-03-23",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°65-213 du 19 mars 1965 PORTANT APPLICATION DE LA LOI DU 1 JUILLET 1964 (64-643) RELATIVE A LA VACCINATION ANTIPOLIOMYELITIQUE OBLIGATOIRE ET A LA REPRESSION DES INFRACTIONS A CERTAINES DISPOSITIONS DU CODE DE LA SANTE PUBLIQUE",
+          "@c_titre_court": "Décret n°65-213 du 19 mars 1965",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000675188"
+        },
+        {
+          "#text": "Décret n°65-213 du 19 mars 1965  PORTANT APPLICATION DE LA LOI DU 1ER JUILLET 1964 RELATIVE A LA VACCINATION ANTIPOLIOMYELITIQUE OBLIGATOIRE ET A LA REPRESSION DES INFRACTIONS A CERTAINES DISPOSITIONS DU CODE DE LA SANTE PUBLIQUE.",
+          "@c_titre_court": "Décret n°65-213 du 19 mars 1965",
+          "@debut": "1965-03-23",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006061261"
+        }
+      ],
+      "@cid": "JORFTEXT000000675188",
+      "@date_publi": "1965-03-23",
+      "@date_signature": "1965-03-19",
+      "@nature": "DECRET",
+      "@num": "65-213"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-03-23",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006701265",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<br/>   Nota : Décret 2003-462 2003-05-21 art. 5 : décret abrogé sauf en tant qu'il s'applique à Mayotte.<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La vaccination antipoliomyélitique est en outre obligatoire pour tous les sujets âgés de moins de trente ans à la date d'entrée en vigueur du présent décret. La première vaccination et les rappels de vaccination doivent être pratiqués avant l'expiration d'un délai de cinq ans à compter de la même date.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 19 mars 1965 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000441414",
+        "@datesignatexte": "1965-03-19",
+        "@id": "LEGIARTI000006716231",
+        "@naturetexte": "ARRETE",
+        "@num": "4",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°65-213 du 19 mars 1965 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000675188",
+        "@datesignatexte": "1965-03-19",
+        "@id": "LEGIARTI000006701268",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "65-213",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 5 JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique R3111-7",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

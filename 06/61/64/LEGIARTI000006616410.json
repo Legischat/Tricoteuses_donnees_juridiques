@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616410",
+      "ANCIEN_ID": "RDFACXXXXXX053AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/64/LEGIARTI000006616410.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "53",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-12-31",
+        "DATE_FIN": "1982-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°58-1372 du 29 décembre 1958 RELATIVE A DIVERSES DISPOSITIONS D'ORDRE FISCAL ET DOUANIER",
+          "@c_titre_court": "Ordonnance n°58-1372 du 29 décembre 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705345"
+        },
+        {
+          "#text": "Ordonnance n°58-1372 du 29 décembre 1958 relative à diverses dispositions d'ordre fiscal et douanier",
+          "@c_titre_court": "Ordonnance n°58-1372 du 29 décembre 1958",
+          "@debut": "1958-12-31",
+          "@fin": "1982-01-01",
+          "@id_txt": "LEGITEXT000006069230"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Lutte contre la fraude.",
+            "@debut": "1958-12-31",
+            "@fin": "1982-01-01",
+            "@id": "LEGISCTA000006099300"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000705345",
+      "@date_publi": "1958-12-31",
+      "@date_signature": "1958-12-29",
+      "@nature": "ORDONNANCE",
+      "@num": "58-1372"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-12-31",
+          "@etat": "ABROGE",
+          "@fin": "1982-01-01",
+          "@id": "LEGIARTI000006616410",
+          "@num": "53",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. - Les propriétaires, utilisateurs ou conducteurs de véhicules ou ensemble de véhicules automobiles servant au transport de marchandises doivent, à la demande des agents des contributions indirectes et des agents habilités à constater les infractions en matière de police de la circulation et du roulage, conduire ces véhicules ou ensemble de véhicules à la bascule publique la plus proche en vue de leur pesée.<br/>\n<br/>   II. - Les personnes assujetties aux formalités prévues pour l'assiette, le recouvrement et le contrôle de la taxe de circulation sur les viandes instituée par les articles 15 à 21 de la loi n° 51-598 du 24 mai 1951 doivent fournir aux agents des contributions indirectes et autres agents habilités à constater les infractions en la matière la main-d'oeuvre et les instruments nécessaires pour le pesage des viandes ou produits assimilés et conduire, à la demande de ces agents, leurs chargements à la bascule publique la plus proche en vue de leur pesée.<br/>\n<br/>   III. - Les infractions aux dispositions des deux alinéas ci-dessus sont passibles des pénalités édictées aux articles 1769 et 1771 du code général des impôts.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1769, 1771",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 51-598 1951-05-24 art. 15 à 21",
+        "@cidtexte": "JORFTEXT000000705617",
+        "@datesignatexte": "1951-05-24",
+        "@id": "JORFTEXT000000705617",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-598",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°81-859 du 15 septembre 1981 - art. 1 (V) JORF 18 septembre 1981 en vigueur le 1er janvier 1982",
+        "@cidtexte": "JORFTEXT000000701292",
+        "@datesignatexte": "1981-09-15",
+        "@id": "LEGIARTI000006272082",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "81-859",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

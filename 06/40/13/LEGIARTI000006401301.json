@@ -1,0 +1,182 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006401301",
+      "ANCIEN_ID": "ABEACXXXXXX161AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/13/LEGIARTI000006401301.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "161",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-10-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°85-98 du 25 janvier 1985 RELATIVE AU REDRESSEMENT ET A LA LIQUIDATION JUDICIAIRE DES ENTREPRISES",
+          "@c_titre_court": "Loi n°85-98 du 25 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693911"
+        },
+        {
+          "#text": "Loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises",
+          "@c_titre_court": "Loi n° 85-98 du 25 janvier 1985",
+          "@debut": "1985-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068923"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : La liquidation judiciaire",
+            "@debut": "1986-01-01",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006088209"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre III : L'apurement du passif",
+              "@debut": "1986-01-01",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006116831"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section I : Le réglement des créanciers.",
+                "@debut": "1986-01-01",
+                "@fin": "2000-09-21",
+                "@id": "LEGISCTA000006135697"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Sous-section I : Droit de poursuite individuelle.",
+                  "@debut": "1986-01-01",
+                  "@fin": "2000-09-21",
+                  "@id": "LEGISCTA000006149570"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000693911",
+      "@date_publi": "1985-01-26",
+      "@date_signature": "1985-01-25",
+      "@nature": "LOI",
+      "@num": "85-98"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1994-10-01",
+          "@id": "LEGIARTI000006401300",
+          "@num": "161",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006401301",
+          "@num": "161",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les créanciers titulaires d'un privilège spécial, d'un nantissement ou d'une hypothèque et le Trésor public pour ses créances privilégiées peuvent, dès lors qu'ils ont déclaré leurs créances même s'ils ne sont pas encore admis, exercer leur droit de poursuite individuelle si le liquidateur n'a pas entrepris la liquidation des biens grevés dans le délai de trois mois à compter du jugement qui ouvre ou prononce la liquidation judiciaire.<br/>\n<br/>   En cas de vente d'immeubles, les dispositions des premier, troisième et cinquième alinéas de l'article 154 sont applicables. Lorsqu'une procédure de saisie immobilière a été engagée avant le jugement d'ouverture, le créancier titulaire d'une hypothèque est dispensé, lors de la reprise des poursuites individuelles, des actes et formalités effectués avant ce jugement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 85-98 1985-01-25 art. 154",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000693911",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°85-1388 du 27 décembre 1985 - art. 125 (M)",
+        "@cidtexte": "JORFTEXT000000688577",
+        "@datesignatexte": "1985-12-27",
+        "@id": "LEGIARTI000006408727",
+        "@naturetexte": "DECRET",
+        "@num": "125",
+        "@numtexte": "85-1388",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°94-475 du 10 juin 1994 - art. 73 () JORF 11 juin 1994 en vigueur au plus tard le 1er octobre 1994",
+        "@cidtexte": "JORFTEXT000000731608",
+        "@datesignatexte": "1994-06-10",
+        "@id": "LEGIARTI000006403022",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9400223L",
+        "@num": "73",
+        "@numtexte": "94-475",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L622-23 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006236720",
+        "@naturetexte": "CODE",
+        "@num": "L622-23",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de commerce. - art. L622-23 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006236720",
+        "@naturetexte": "CODE",
+        "@num": "L622-23",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

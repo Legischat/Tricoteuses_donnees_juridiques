@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273950",
+      "ANCIEN_ID": "FAECAXXXXXX030AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/39/LEGIARTI000006273950.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-06-29",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-540 du 28 juin 1982 DE FINANCES RECTIFICATIVE POUR 1982",
+          "@c_titre_court": "Loi n°82-540 du 28 juin 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000691740"
+        },
+        {
+          "#text": "Loi n° 82-540 du 28 juin 1982 de finances rectificative pour 1982 (1)",
+          "@c_titre_court": "Loi n° 82-540 du 28 juin 1982",
+          "@debut": "1982-06-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068749"
+        }
+      ],
+      "@cid": "JORFTEXT000000691740",
+      "@date_publi": "1982-06-29",
+      "@date_signature": "1982-06-28",
+      "@nature": "LOI",
+      "@num": "82-540"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-06-29",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006273950",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001099879",
+          "@num": "30",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est institué un fonds de compensation des risques de l'assurance de la construction chargé de contribuer, dans le cadre de conventions qui pourront être conclues à cet effet avec les entreprises d'assurance concernées, à l'indemnisation de sinistres affectant des bâtiments dont les chantiers ont été ouverts avant une date fixée par décret en Conseil d'Etat, à partir de laquelle les primes correspondantes ne seront plus perçues.<br/>\n<br/>   Le fonds pourra conclure des conventions avec les entreprises d'assurance afin de compenser les incidences financières de l'évolution des coûts de construction sur leurs garanties d'assurance décennale.<br/>\n<br/>   Le fonds contribue au financement d'actions de prévention des désordres et de promotion de la qualité dans la construction.<br/>\n<br/>   La gestion du fonds est confiée à la caisse centrale de réassurance.<br/>\n<br/>   Le fonds est alimenté par une contribution à la charge des entreprises d'assurance. Son assiette est constituée par les primes ou cotisations d'assurance correspondant aux garanties d'assurance obligatoire des dommages à la construction, ainsi qu'aux garanties d'assurance décennales souscrites par toute personne, qu'elle soit ou non liée au maître de l'ouvrage par un contrat de louage d'ouvrage, pour couvrir sa responsabilité dans des travaux de bâtiment.<br/>\n<br/>   Le taux de la contribution est de 5 p. 100 en ce qui concerne les primes ou cotisations d'assurance des entreprises artisanales et de 15 p. 100 pour les autres primes ou cotisations d'assurance.<br/>\n<br/>   Cette contribution est recouvrée suivant les mêmes règles, sous les mêmes garanties et les mêmes sanctions que la taxe sur les conventions d'assurance prévue aux articles 991 et suivants du code général des impôts.<br/>\n<br/>   Un décret en Conseil d'Etat fixe les conditions d'application du présent article.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1983-10-03",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "CGI 991",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 82-540 1982-06-28 Finances rectificative pour 1982 JORF 29 JUIN 1982",
+        "@cidtexte": "JORFTEXT000000691740",
+        "@datesignatexte": "1982-06-28",
+        "@id": "JORFTEXT000000691740",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-540",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1635 bis AB (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006312478",
+        "@naturetexte": "CODE",
+        "@num": "1635 bis AB",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

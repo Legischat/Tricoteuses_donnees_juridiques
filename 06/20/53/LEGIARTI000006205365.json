@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006205365",
+      "ANCIEN_ID": "AMHCGXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/53/LEGIARTI000006205365.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-10-16",
+        "DATE_FIN": "2009-11-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°80-809 du 14 octobre 1980 S AU JO. NC DU 14-10-1980.P.9141",
+          "@c_titre_court": "Décret n°80-809 du 14 octobre 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503234"
+        },
+        {
+          "#text": "Décret n°80-809 du 14 octobre 1980 approuvant le cahier des clauses administratives générales applicables aux marchés publics industriels",
+          "@c_titre_court": "Décret n°80-809 du 14 octobre 1980",
+          "@debut": "1980-10-16",
+          "@fin": "2009-11-17",
+          "@id_txt": "LEGITEXT000006063329"
+        }
+      ],
+      "@cid": "JORFTEXT000000503234",
+      "@date_publi": "1980-10-16",
+      "@date_signature": "1980-10-14",
+      "@nature": "DECRET",
+      "@num": "80-809"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-10-16",
+          "@etat": "ABROGE",
+          "@fin": "2009-11-17",
+          "@id": "LEGIARTI000006205365",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont abrogés le décret n° 65-611 du 5 juillet 1965 approuvant le cahier des clauses administratives générales applicables aux marchés industriels passés au nom de l'Etat, ainsi que l'article 3 du décret susvisé du 26 décembre 1978.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°65-611 du 5 juillet 1965",
+        "@cidtexte": "JORFTEXT000000303994",
+        "@datesignatexte": "1965-07-05",
+        "@id": "JORFTEXT000000303994",
+        "@naturetexte": "DECRET",
+        "@numtexte": "65-611",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°78-1306 du 26 décembre 1978",
+        "@cidtexte": "JORFTEXT000000883689",
+        "@datesignatexte": "1978-12-26",
+        "@id": "JORFTEXT000000883689",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-1306",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 16 septembre 2009 - art. 3",
+        "@cidtexte": "JORFTEXT000021158256",
+        "@datesignatexte": "2009-09-16",
+        "@id": "LEGIARTI000021159310",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECEM0908897A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des marchés publics 113, 318 bis",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

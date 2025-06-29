@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006217881",
+      "ANCIEN_ID": "URIDCXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/21/78/LEGIARTI000006217881.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-03-19",
+        "DATE_FIN": "2019-10-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 mars 2003 relatif aux compétences des organismes procédant à l'identification d'amiante dans les matériaux et produits",
+          "@c_titre_court": "Arrêté du 6 mars 2003",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000594575"
+        },
+        {
+          "#text": "Arrêté du 6 mars 2003 relatif aux compétences des organismes procédant à l'identification d'amiante dans les matériaux et produits.",
+          "@c_titre_court": "Arrêté du 6 mars 2003",
+          "@debut": "2003-03-19",
+          "@fin": "2019-10-21",
+          "@id_txt": "LEGITEXT000005634109"
+        }
+      ],
+      "@cid": "JORFTEXT000000594575",
+      "@date_publi": "2003-03-19",
+      "@date_signature": "2003-03-06",
+      "@ministere": "MINISTERE DE LA SANTE, DE LA FAMILLE ET DES PERSONNES HANDICAPEES",
+      "@nature": "ARRETE",
+      "@nor": "SANP0320890A",
+      "@num_parution_jo": "0066"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-03-19",
+          "@etat": "ABROGE",
+          "@fin": "2019-10-21",
+          "@id": "LEGIARTI000006217881",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001630660",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les méthodes permettant de vérifier la présence ou l'absence d'amiante dans les matériaux et produits à repérer en application du décret susvisé sont décrites en annexe du présent arrêté. La procédure analytique à suivre, dénommée \"essai\", est fonction de la nature du matériau ou du produit à analyser.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2003-03-06 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°96-97 du 7 février 1996",
+        "@cidtexte": "JORFTEXT000000547538",
+        "@datesignatexte": "1996-02-07",
+        "@id": "JORFTEXT000000547538",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TASP9620056D",
+        "@numtexte": "96-97",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 1er octobre 2019 - art. 15",
+        "@cidtexte": "JORFTEXT000039242655",
+        "@datesignatexte": "2019-10-01",
+        "@id": "LEGIARTI000039243143",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "MTRT1831138A",
+        "@num": "15",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

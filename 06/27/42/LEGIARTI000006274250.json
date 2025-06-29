@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006274250",
+      "ANCIEN_ID": "FAECWXXXXXX026AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/42/LEGIARTI000006274250.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "26",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-1208 DE FINANCES POUR 1985",
+          "@c_titre_court": "Loi n°84-1208 DE FINANCES POUR 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880778"
+        },
+        {
+          "#text": "Loi n° 84-1208 du 29 décembre 1984 de finances pour 1985",
+          "@c_titre_court": "Loi n° 84-1208 du 29 décembre 1984",
+          "@debut": "1985-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068824"
+        }
+      ],
+      "@cid": "JORFTEXT000000880778",
+      "@date_publi": "1984-12-30",
+      "@date_signature": "1984-12-29",
+      "@nature": "LOI",
+      "@num": "84-1208"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006274250",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001867483",
+          "@num": "26",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I - La somme de 3.400.000 F prévue au 3 du paragraphe VI de l'article 19 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983) est portée à 3.500.000 F. <br/>\n<br/>   Le tarif de l'impôt est fixé à :<br/>\n<br/>   (Tableau non reproduit).<br/>\n<br/>   II - La majoration conjoncturelle de 8 p. 100 instituée par l'article 2 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983) au titre de l'impôt sur les grandes fortunes est reconduite en 1985.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 83-1179 1983-12-29 art. 2, art. 19 VI 3 Finances pour 1984",
+        "@cidtexte": "JORFTEXT000000319977",
+        "@datesignatexte": "1983-12-29",
+        "@id": "JORFTEXT000000319977",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-1179",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-1208 1984-12-29 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985",
+        "@cidtexte": "JORFTEXT000000880778",
+        "@datesignatexte": "1984-12-29",
+        "@id": "JORFTEXT000000880778",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-1208",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 885 A (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006310868",
+        "@naturetexte": "CODE",
+        "@num": "885 A",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 885 U (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006310955",
+        "@naturetexte": "CODE",
+        "@num": "885 U",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

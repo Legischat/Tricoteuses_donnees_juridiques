@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579952",
+      "ANCIEN_ID": "RAA0XXXXXXX0309IAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/99/LEGIARTI000006579952.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "309-8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1971-06-17",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121364"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-06-17",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006579952",
+          "@num": "309-8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un décret en Conseil d'Etat définira les conditions d'application des articles 309-1 à 309-7.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 309-1 à 309-7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 71-450 1971-06-16 art. 1 JORF 17 juin 1971",
+        "@cidtexte": "JORFTEXT000000874939",
+        "@datesignatexte": "1971-06-16",
+        "@id": "JORFTEXT000000874939",
+        "@naturetexte": "LOI",
+        "@numtexte": "71-450",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583733",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006601339",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRX0000054R",
+        "@num": "7",
+        "@numtexte": "2000-550",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 2003-591 2003-07-02 art. 31",
+        "@cidtexte": "JORFTEXT000000422094",
+        "@datesignatexte": "2003-07-02",
+        "@id": "JORFTEXT000000422094",
+        "@naturetexte": "LOI",
+        "@nortexte": "FPPX0300014L",
+        "@numtexte": "2003-591",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652495",
+      "ANCIEN_ID": "SBAXXXXXXXX5X09000AAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/24/LEGIARTI000006652495.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "90",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-01-06",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 4 : Des obligations de l'armateur envers le marin",
+            "@debut": "1926-12-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101380"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 4 : Du rapatriement et de la conduite",
+              "@debut": "1926-12-15",
+              "@fin": "2010-12-01",
+              "@id": "LEGISCTA000006123914"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-12-15",
+          "@etat": "MODIFIE",
+          "@fin": "2006-01-06",
+          "@id": "LEGIARTI000006652494",
+          "@num": "90",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-01-06",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006652495",
+          "@num": "90",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La prise en charge des frais de rapatriement du marin débarqué en cours de voyage après résiliation du contrat par volonté commune des parties est réglée par convention de celles-ci.<br/>\n<br/>   Les frais de rapatriement du marin débarqué pour faute grave ou à la suite d'une blessure ou d'une maladie contractée dans les conditions prévues à l'article 86 sont à sa charge, l'armateur devant toutefois en faire l'avance.<br/>\n<br/>   Les frais de rapatriement du marin débarqué à la demande de l'autorité judiciaire ou de l'autorité administrative sont à la charge de l'Etat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 2006-10 2006-01-05 art. 50 1° JORF 6 janvier 2006",
+        "@cidtexte": "JORFTEXT000000456019",
+        "@datesignatexte": "2006-01-05",
+        "@id": "JORFTEXT000000456019",
+        "@naturetexte": "LOI",
+        "@nortexte": "EQUX0500211L",
+        "@numtexte": "2006-10",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307 du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des transports - art. L5542-33 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023079728",
+        "@naturetexte": "CODE",
+        "@num": "L5542-33",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail maritime - art. 86 (V)",
+        "@cidtexte": "LEGITEXT000006072051",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006652485",
+        "@naturetexte": "CODE",
+        "@num": "86",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail maritime - art. 89 (V)",
+        "@cidtexte": "LEGITEXT000006072051",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006652493",
+        "@naturetexte": "CODE",
+        "@num": "89",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

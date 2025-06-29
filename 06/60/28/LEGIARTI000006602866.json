@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602866",
+      "ANCIEN_ID": "ADIADXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/28/LEGIARTI000006602866.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-10-01",
+        "DATE_FIN": "2009-01-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 septembre 1977 relatif à la publicité des prix à l'égard du consommateur",
+          "@c_titre_court": "Arrêté du 2 septembre 1977",
+          "@debut": "1977-10-01",
+          "@fin": "2009-01-14",
+          "@id_txt": "LEGITEXT000006071371"
+        }
+      ],
+      "@cid": "LEGITEXT000006071371",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-09-02",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2009-01-14",
+          "@id": "LEGIARTI000006602866",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent arrêté s'appliquent à toute forme de publicité à l'égard du consommateur, quels qu'en soient les auteurs et quels que soient les procédés de publicité utilisés ou les termes employés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 105/P 1977-09-02 BOSP 6 septembre 1977 en vigueur le 1er octobre 1977",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 87-02/C 1987-03-27 art. 7 BOCC n° 6, 28 mars 1987 *champ d'application*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n°45-1483 du 30 juin 1945 - art. 33 (Ab)",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "LEGIARTI000006524962",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "33",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 31 décembre 2008 - art. 8",
+        "@cidtexte": "JORFTEXT000020080467",
+        "@datesignatexte": "2008-12-31",
+        "@id": "LEGIARTI000020096873",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECEC0831181A",
+        "@num": "8",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

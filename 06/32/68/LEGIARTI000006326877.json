@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006326877",
+      "ANCIEN_ID": "FAIDUXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/68/LEGIARTI000006326877.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1981-12-31",
+        "DATE_FIN": "1982-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 décembre 1981 TAXE PARAFISCALE APPLICABLE A LA BETTERAVE POUR LA CAMPAGNE 1981-1982 AU BENEFICE DU FONDS NATIONAL DE DEVELOPPEMENT AGRICOLE",
+          "@c_titre_court": "Arrêté du 28 décembre 1981",
+          "@debut": "1981-12-31",
+          "@fin": "1982-12-31",
+          "@id_txt": "LEGITEXT000006069700"
+        }
+      ],
+      "@cid": "LEGITEXT000006069700",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1981-12-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-12-31",
+          "@etat": "PERIME",
+          "@fin": "1982-12-31",
+          "@id": "LEGIARTI000006326877",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Pour la campagne 1981-1982, le taux de la taxe perçue au profit du fonds national de développement agricole est fixé à 0,51 p. 100 du prix minimal de la betterave sur le tonnage de betteraves défini à l'article 1er du décret n° 69-186 du 26 février 1969 susvisé, modifié par le décret n° 76-552 du 24 juin 1976.</p>\n<br/>\n<p>Le montant de cette taxe, soit 1,09 F par tonne, est versé à l'organisme bénéficiaire avant le 31 décembre 1981 dans les conditions prévues à l'article 5 dudit décret.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 69-186 1969-02-26 ART. 1, ART. 5",
+        "@cidtexte": "JORFTEXT000000694265",
+        "@datesignatexte": "1969-02-26",
+        "@id": "JORFTEXT000000694265",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-186",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 76-552 1976-06-24",
+        "@cidtexte": "JORFTEXT000000856063",
+        "@datesignatexte": "1976-06-24",
+        "@id": "JORFTEXT000000856063",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-552",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

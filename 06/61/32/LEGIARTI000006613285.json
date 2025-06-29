@@ -1,0 +1,144 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006613285",
+      "ANCIEN_ID": "RBAXXXXXXXX2X521R11AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/32/LEGIARTI000006613285.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R521-11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-07-14",
+        "DATE_FIN": "2012-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099186"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Inventaire forestier et recherche sur la forêt et le bois",
+              "@debut": "2006-07-14",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121962"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Inventaire forestier.",
+                "@debut": "2006-07-14",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138754"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 2 : Organisation et administration.",
+                  "@debut": "2006-07-14",
+                  "@fin": "2012-01-01",
+                  "@id": "LEGISCTA000006152982"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2006-07-14",
+          "@id": "LEGIARTI000006613284",
+          "@num": "R521-11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2012-01-01",
+          "@id": "LEGIARTI000006613285",
+          "@num": "R521-11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'Inventaire forestier national peut avoir des personnels titulaires ou contractuels.<br/>\n<br/>   Les fonctionnaires du ministère chargé des forêts peuvent y être affectés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-114 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880704",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880704",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-114",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2006-871 du 12 juillet 2006 - art. 10 () JORF 14 juillet 2006",
+        "@cidtexte": "JORFTEXT000000609862",
+        "@datesignatexte": "2006-07-12",
+        "@id": "LEGIARTI000006253080",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRF0601025D",
+        "@num": "10",
+        "@numtexte": "2006-871",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2011-1371 du 27 octobre 2011 - art. 32",
+        "@cidtexte": "JORFTEXT000024720351",
+        "@datesignatexte": "2011-10-27",
+        "@id": "LEGIARTI000024721264",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVD1112972D",
+        "@num": "32",
+        "@numtexte": "2011-1371",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

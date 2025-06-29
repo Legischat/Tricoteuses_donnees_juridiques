@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006492955",
+      "ANCIEN_ID": "PJED2XXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/29/LEGIARTI000006492955.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1960-01-03",
+        "DATE_FIN": "2020-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 27 décembre 1923 SUPPLEANCE DES HUISSIERS BLESSES ET CREATION DE CLERCS ASSERMENTES",
+          "@c_titre_court": "Loi du 27 décembre 1923",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000522684"
+        },
+        {
+          "#text": "Loi du 27 décembre 1923 relative à la suppléance des huissiers blessés et à la création des clercs assermentés.",
+          "@c_titre_court": "Loi du 27 décembre 1923",
+          "@debut": "1923-12-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071036"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE III.",
+            "@debut": "1923-12-29",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006094062"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000522684",
+      "@date_publi": "1923-12-29",
+      "@date_signature": "1923-12-27",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-01-03",
+          "@etat": "MODIFIE",
+          "@fin": "2020-01-01",
+          "@id": "LEGIARTI000006492955",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2020-01-01",
+          "@etat": "ABROGE_DIFF",
+          "@fin": "2025-01-01",
+          "@id": "LEGIARTI000039280440",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE_DIFF"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2025-01-01",
+          "@etat": "VIGUEUR_DIFF",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000050659081",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR_DIFF"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les clercs assermentés prêteront serment, sans frais, devant le juge d'instance dans le ressort duquel réside le titulaire de l'étude à laquelle ils sont attachés.<br/>\n<br/>   L'article 146 du Code pénal (Nouveau C. pén., art. 441-4) sera applicable aux clercs assermentés sans qu'ils soient pour cela assimilés à des officiers publics, comme aussi aux huissiers suppléants.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 58-1456 1958-12-27 art. 1 JORF 4 janvier 1959",
+        "@cidtexte": "JORFTEXT000000675592",
+        "@datesignatexte": "1958-12-27",
+        "@id": "JORFTEXT000000675592",
+        "@naturetexte": "DECRET",
+        "@numtexte": "58-1456",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 59-1560 1959-12-28 art. 2 JORF 3 janvier 1960",
+        "@cidtexte": "JORFTEXT000000670742",
+        "@datesignatexte": "1959-12-28",
+        "@id": "JORFTEXT000000670742",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-1560",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code pénal 146",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Nouveau code pénal 441-4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

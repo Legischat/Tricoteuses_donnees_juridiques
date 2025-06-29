@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006878986",
+      "ANCIEN_ID": "UTEBEXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/89/LEGIARTI000006878986.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-10-26",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°68-917 du 24 octobre 1968 relative au port autonome de Paris",
+          "@c_titre_court": "Loi n°68-917 du 24 octobre 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878369"
+        },
+        {
+          "#text": "Loi n° 68-917 du 24 octobre 1968 relative au port autonome de Paris",
+          "@c_titre_court": "Loi n° 68-917 du 24 octobre 1968",
+          "@debut": "1968-10-26",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068325"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "ADMINISTRATION DU PORT",
+            "@debut": "1968-10-26",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006111615"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000878369",
+      "@date_publi": "1968-10-26",
+      "@date_signature": "1968-10-24",
+      "@nature": "LOI",
+      "@num": "68-917"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-10-26",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006878986",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'administration du port est assurée par un conseil d'administration assisté d'un directeur nommé par décret en conseil des ministres, sur la proposition du ministre de l'équipement et du logement, après avis du conseil d'administration.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 68-917 1968-10-24 ART. 14 (date d'entrée en vigueur)",
+        "@cidtexte": "JORFTEXT000000878369",
+        "@datesignatexte": "1968-10-24",
+        "@id": "JORFTEXT000000878369",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-917",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des transports - art. L4322-4 (VT)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023082960",
+        "@naturetexte": "CODE",
+        "@num": "L4322-4",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code des transports - art. L4322-8 (VT)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023082935",
+        "@naturetexte": "CODE",
+        "@num": "L4322-8",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

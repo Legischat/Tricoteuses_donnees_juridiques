@@ -1,0 +1,144 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006628024",
+      "ANCIEN_ID": "RIEAXXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/80/LEGIARTI000006628024.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2000-02-11",
+        "DATE_FIN": "2003-01-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°46-628 du 8 avril 1946 SUR LA NATIONALISATION DE L'ELECTRICITE ET DU GAZ",
+          "@c_titre_court": "Loi n°46-628 du 8 avril 1946",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868448"
+        },
+        {
+          "#text": "Loi n° 46-628 du 8 avril 1946 sur la nationalisation de l'électricité et du gaz",
+          "@c_titre_court": "Loi n° 46-628 du 8 avril 1946",
+          "@debut": "1946-04-09",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068019"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : De la nationalisation des entreprises d'électricité et de gaz.",
+            "@debut": "1946-04-09",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006099972"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000868448",
+      "@date_publi": "1946-04-09",
+      "@date_signature": "1946-04-08",
+      "@nature": "LOI",
+      "@num": "46-628"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1946-04-09",
+          "@etat": "MODIFIE",
+          "@fin": "2000-02-11",
+          "@id": "LEGIARTI000006628023",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-02-11",
+          "@etat": "MODIFIE",
+          "@fin": "2003-01-04",
+          "@id": "LEGIARTI000006628024",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-01-04",
+          "@etat": "ABROGE",
+          "@fin": "2011-06-01",
+          "@id": "LEGIARTI000006628025",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A partir de la promulgation de la présente loi, sont nationalisés :<br/>\n<br/>   1° La production, le transport, la distribution, l'importation et l'exportation d'électricité ;<br/>\n<br/>   2° La production, le transport, la distribution, l'importation et l'exportation de gaz combustible.<br/>\n<br/>   Toutefois, à compter de la date d'entrée en vigueur de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité, les activités de production, d'importation et d'exportation d'électricité, ainsi que les activités de fourniture aux clients éligibles sont exercées dans les conditions déterminées par cette même loi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°46-628 du 8 avril 1946 - art. 15 (Ab)",
+        "@cidtexte": "JORFTEXT000000868448",
+        "@datesignatexte": "1946-04-08",
+        "@id": "LEGIARTI000006628058",
+        "@naturetexte": "LOI",
+        "@num": "15",
+        "@numtexte": "46-628",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°46-628 du 8 avril 1946 - art. 46 (Ab)",
+        "@cidtexte": "JORFTEXT000000868448",
+        "@datesignatexte": "1946-04-08",
+        "@id": "LEGIARTI000006628110",
+        "@naturetexte": "LOI",
+        "@num": "46",
+        "@numtexte": "46-628",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 2000-108 2000-02-10",
+        "@cidtexte": "JORFTEXT000000750321",
+        "@datesignatexte": "2000-02-10",
+        "@id": "JORFTEXT000000750321",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9800166L",
+        "@numtexte": "2000-108",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°2000-108 du 10 février 2000 - art. 53 (VT) JORF 11 février 2000",
+        "@cidtexte": "JORFTEXT000000750321",
+        "@datesignatexte": "2000-02-10",
+        "@id": "LEGIARTI000006628295",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9800166L",
+        "@num": "53",
+        "@numtexte": "2000-108",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

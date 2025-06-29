@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006247891",
+      "ANCIEN_ID": "SRIEFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/24/78/LEGIARTI000006247891.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-05-01",
+        "DATE_FIN": "2013-08-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 novembre 2005 portant application de l'article L. 5232-1 du code de la santé publique relatif aux baladeurs musicaux",
+          "@c_titre_court": "Arrêté du 8 novembre 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000635948"
+        },
+        {
+          "#text": "Arrêté du 8 novembre 2005 portant application de l'article L. 5232-1 du code de la santé publique relatif aux baladeurs musicaux",
+          "@c_titre_court": "Arrêté du 8 novembre 2005",
+          "@debut": "2006-05-01",
+          "@fin": "2013-08-04",
+          "@id_txt": "LEGITEXT000006052970"
+        }
+      ],
+      "@cid": "JORFTEXT000000635948",
+      "@date_publi": "2005-12-28",
+      "@date_signature": "2005-11-08",
+      "@ministere": "MINISTERE DE LA SANTE ET DES SOLIDARITES",
+      "@nature": "ARRETE",
+      "@nor": "SANP0524596A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-05-01",
+          "@etat": "ABROGE",
+          "@fin": "2013-08-04",
+          "@id": "LEGIARTI000006247891",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001524821",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'application de l'article L. 5232-1 du code de la santé publique, constitue un baladeur musical tout appareil portatif permettant la reproduction sonore ou la réception radiophonique, ou les deux, au moyen d'un casque ou d'écouteurs diffusant le son aux oreilles de l'utilisateur et que celui-ci peut utiliser en se déplaçant.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 25 juillet 2013 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000027799648",
+        "@datesignatexte": "2013-07-25",
+        "@id": "LEGIARTI000027803452",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AFSP1320001A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L5232-1",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006690337",
+        "@naturetexte": "CODE",
+        "@num": "L5232-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

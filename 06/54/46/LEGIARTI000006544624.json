@@ -1,0 +1,136 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006544624",
+      "ANCIEN_ID": "ADHCIXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/46/LEGIARTI000006544624.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1970-08-07",
+        "DATE_FIN": "1985-10-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 70-708 du 31 juillet 1970 portant application du titre I et de certaines dispositions du titre II de la loi n° 69-3 du 3 janvier 1969 relative à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence fixe",
+          "@c_titre_court": "Décret n° 70-708 du 31 juillet 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000698470"
+        },
+        {
+          "#text": "Décret n° 70-708 du 31 juillet 1970 portant application du titre Ier et de certaines dispositions du titre II de la loi n° 69-3 du 3 janvier 1969 relative à l'exercice des activités ambulantes et au régime applicable aux personnes circulant en France sans domicile ni résidence fixe",
+          "@c_titre_court": "Décret n° 70-708 du 31 juillet 1970",
+          "@debut": "1970-08-07",
+          "@fin": "2017-11-05",
+          "@id_txt": "LEGITEXT000006061760"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Exercice des activités ambulantes et délivrance des titres de circulation.",
+            "@debut": "1970-08-07",
+            "@fin": "2009-02-21",
+            "@id": "LEGISCTA000006096585"
+          },
+          {
+            "#text": "Chapitre Ier : Délivrance des titres de circulation.",
+            "@debut": "2009-02-21",
+            "@fin": "2017-11-05",
+            "@id": "LEGISCTA000020287109"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Délivrance des titres de circulation.",
+              "@debut": "1970-08-07",
+              "@fin": "2009-02-21",
+              "@id": "LEGISCTA000006120703"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000698470",
+      "@date_publi": "1970-08-07",
+      "@date_signature": "1970-07-31",
+      "@nature": "DECRET",
+      "@num": "70-708"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-08-07",
+          "@etat": "MODIFIE",
+          "@fin": "1985-10-31",
+          "@id": "LEGIARTI000006544624",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-10-31",
+          "@etat": "TRANSFERE",
+          "@fin": "2010-03-11",
+          "@id": "LEGIARTI000006544625",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2010-03-11",
+          "@etat": "ABROGE",
+          "@fin": "2017-11-05",
+          "@id": "LEGIARTI000020287122",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le livret spécial de circulation n'est soumis à aucun visa.<br/>\n<br/>   Le livret de circulation doit être présenté au visa par les intéressés au moins tous les six mois.<br/>\n<br/>   Le carnet de circulation doit être présenté au visa par les intéressés au moins tous les mois.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 69-3 1969-01-03",
+        "@cidtexte": "JORFTEXT000000317526",
+        "@datesignatexte": "1969-01-03",
+        "@id": "JORFTEXT000000317526",
+        "@naturetexte": "LOI",
+        "@numtexte": "69-3",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°70-708 du 31 juillet 1970 - art. 20 (V)",
+        "@cidtexte": "JORFTEXT000000698470",
+        "@datesignatexte": "1970-07-31",
+        "@id": "LEGIARTI000006544629",
+        "@naturetexte": "DECRET",
+        "@num": "20",
+        "@numtexte": "70-708",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

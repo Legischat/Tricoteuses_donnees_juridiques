@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006615545",
+      "ANCIEN_ID": "RDAXXXXXXXX4X130AAAAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/55/LEGIARTI000006615545.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "130",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1984-12-30",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code des douanes",
+          "@c_titre_court": "Code des douanes",
+          "@debut": "1949-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071570"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux",
+            "@debut": "1977-06-08",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006099263"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Transit.",
+              "@debut": "1977-06-08",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006122084"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071570",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-06-08",
+          "@etat": "MODIFIE",
+          "@fin": "1984-12-30",
+          "@id": "LEGIARTI000006615544",
+          "@num": "130",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-12-30",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006615545",
+          "@num": "130",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Lorsqu'elles sont déclarées pour la consommation au bureau de destination, les marchandises transportées en transit sont soumises aux droits et taxes qui leur sont applicables d'après les taux en vigueur à la date d'enregistrement de la déclaration en détail pour la consommation, sauf application des dispositions du 2 de l'article 108 ci-dessus.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-1209 1984-12-29 art. 18 Finances rectificative pour 1984 JORF 30 décembre 1984",
+        "@cidtexte": "JORFTEXT000000320425",
+        "@datesignatexte": "1984-12-29",
+        "@id": "JORFTEXT000000320425",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-1209",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2016-935 du 7 juillet 2016 - art. 2",
+        "@cidtexte": "JORFTEXT000032861481",
+        "@datesignatexte": "2016-07-07",
+        "@id": "LEGIARTI000032863478",
+        "@naturetexte": "DECRET",
+        "@nortexte": "FCPD1608639D",
+        "@num": "2",
+        "@numtexte": "2016-935",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des douanes - art. 108 (V)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615637",
+        "@naturetexte": "CODE",
+        "@num": "108",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 48-1985 1948-12-08",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

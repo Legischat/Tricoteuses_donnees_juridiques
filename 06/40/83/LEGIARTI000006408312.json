@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006408312",
+      "ANCIEN_ID": "PAHIWXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/83/LEGIARTI000006408312.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1965-01-07",
+        "DATE_FIN": "1993-03-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°64-1374 du 31 décembre 1964 RELATIF A LA PRIME DE QUALIFICATION DE CERTAINS OFFICIERS",
+          "@c_titre_court": "Décret n°64-1374 du 31 décembre 1964",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000330530"
+        },
+        {
+          "#text": "Décret n°64-1374 du 31 décembre 1964 relatif à la prime de qualification de certains officiers.",
+          "@c_titre_court": "Décret n°64-1374 du 31 décembre 1964",
+          "@debut": "1965-01-07",
+          "@fin": "2023-10-01",
+          "@id_txt": "LEGITEXT000006061185"
+        }
+      ],
+      "@cid": "JORFTEXT000000330530",
+      "@date_publi": "1965-01-07",
+      "@date_signature": "1964-12-31",
+      "@nature": "DECRET",
+      "@num": "64-1374"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-01-07",
+          "@etat": "ABROGE",
+          "@fin": "1993-03-16",
+          "@id": "LEGIARTI000006408312",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 64-1374 1964-12-31 JORF 7 janvier 1965 rectificatif JORF 23 janvier 1965",
+        "@cidtexte": "JORFTEXT000000330530",
+        "@datesignatexte": "1964-12-31",
+        "@id": "JORFTEXT000000330530",
+        "@naturetexte": "DECRET",
+        "@numtexte": "64-1374",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°93-341 du 15 mars 1993 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000361870",
+        "@datesignatexte": "1993-03-15",
+        "@id": "LEGIARTI000006928127",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFP9301235D",
+        "@num": "3",
+        "@numtexte": "93-341",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°93-341 du 15 mars 1993 - art. 3 (V) JORF 16 mars 1993",
+        "@cidtexte": "JORFTEXT000000361870",
+        "@datesignatexte": "1993-03-15",
+        "@id": "LEGIARTI000006928127",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFP9301235D",
+        "@num": "3",
+        "@numtexte": "93-341",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

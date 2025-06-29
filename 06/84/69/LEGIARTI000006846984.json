@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006846984",
+      "ANCIEN_ID": "UPEBNXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/69/LEGIARTI000006846984.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-07-16",
+        "DATE_FIN": "2011-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°80-531 du 15 juillet 1980 RELATIVE AUX ECONOMIES D'ENERGIE ET A L'UTILISATION DE LA CHALEUR",
+          "@c_titre_court": "Loi n°80-531 du 15 juillet 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886864"
+        },
+        {
+          "#text": "Loi n° 80-531 du 15 juillet 1980 relative aux économies d'énergie et à l'utilisation de la chaleur (1)",
+          "@c_titre_court": "Loi n° 80-531 du 15 juillet 1980",
+          "@debut": "1980-07-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068694"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Du passage des canalisations de transport et de distribution de chaleur",
+            "@debut": "1980-07-16",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108789"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000886864",
+      "@date_publi": "1980-07-16",
+      "@date_signature": "1980-07-15",
+      "@nature": "LOI",
+      "@num": "80-531"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-16",
+          "@etat": "ABROGE",
+          "@fin": "2011-06-01",
+          "@id": "LEGIARTI000006846984",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le transporteur ou le distributeur ne peut exercer les prérogatives attachées aux servitudes prévues au présent titre qu'après avoir payé ou fourni caution de payer les indemnités prévues à l'article 18.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°80-531 du 15 juillet 1980 - art. 18",
+        "@cidtexte": "JORFTEXT000000886864",
+        "@datesignatexte": "1980-07-15",
+        "@id": "LEGIARTI000006846985",
+        "@naturetexte": "LOI",
+        "@num": "18",
+        "@numtexte": "80-531",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2011-504\n du 9 mai 2011 - art. 4",
+        "@cidtexte": "JORFTEXT000023974937",
+        "@datesignatexte": "2011-05-09",
+        "@id": "LEGIARTI000023977696",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "INDR1111324R",
+        "@num": "4",
+        "@numtexte": "2011-504",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de l'énergie - art. L721-9 (V)",
+        "@cidtexte": "LEGITEXT000023983208",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023987444",
+        "@naturetexte": "CODE",
+        "@num": "L721-9",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

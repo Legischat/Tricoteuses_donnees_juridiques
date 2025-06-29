@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006290550",
+      "ANCIEN_ID": "AAEATXXXXXX022AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/05/LEGIARTI000006290550.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1966-11-30",
+        "DATE_FIN": "1991-01-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles",
+          "@c_titre_court": "LOI n° 66-879 du 29 novembre 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692471"
+        },
+        {
+          "#text": "Loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles",
+          "@c_titre_court": "Loi n° 66-879 du 29 novembre 1966",
+          "@debut": "1966-11-30",
+          "@fin": "2024-09-01",
+          "@id_txt": "LEGITEXT000006068290"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre III : Fonctionnement de la société.",
+            "@debut": "1966-11-30",
+            "@fin": "2024-09-01",
+            "@id": "LEGISCTA000006084088"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000692471",
+      "@date_publi": "1966-11-30",
+      "@date_signature": "1966-11-29",
+      "@nature": "LOI",
+      "@num": "66-879"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-11-30",
+          "@etat": "ABROGE",
+          "@fin": "1991-01-05",
+          "@id": "LEGIARTI000006290550",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La cession des parts sociales doit être constatée par écrit. Elle est rendue opposable à la société dans les formes prévues à l'article 1690 du code civil.<br/>\n<br/>   Elle n'est opposable aux tiers qu'après accomplissement de ces formalités et, en outre, après publicité dont les modalités sont fixées par le décret particulier à chaque profession.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 66-879 du 29 novembre 1966 - art. 24 (VT)",
+        "@cidtexte": "JORFTEXT000000692471",
+        "@datesignatexte": "1966-11-29",
+        "@id": "LEGIARTI000006290552",
+        "@naturetexte": "LOI",
+        "@num": "24",
+        "@numtexte": "66-879",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°90-1258 du 31 décembre 1990 - art. 30 () JORF 5 janvier 1991",
+        "@cidtexte": "JORFTEXT000000718101",
+        "@datesignatexte": "1990-12-31",
+        "@id": "LEGIARTI000006907556",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9000026L",
+        "@num": "30",
+        "@numtexte": "90-1258",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code civil - art. 1690 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006442487",
+        "@naturetexte": "CODE",
+        "@num": "1690",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

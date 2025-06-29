@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579486",
+      "ANCIEN_ID": "RAA0XXXXXXX0123AAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/94/LEGIARTI000006579486.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "123",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-01-10",
+        "DATE_FIN": "1992-11-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Régime du sol",
+            "@debut": "1955-04-19",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006098247"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre IV : Des eaux utiles",
+              "@debut": "1955-04-19",
+              "@fin": "1992-11-12",
+              "@id": "LEGISCTA000006121350"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : De la servitude de passage des eaux utiles.",
+                "@debut": "1955-04-19",
+                "@fin": "1992-11-12",
+                "@id": "LEGISCTA000006138191"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-12-18",
+          "@etat": "MODIFIE",
+          "@fin": "1985-01-10",
+          "@id": "LEGIARTI000006579485",
+          "@num": "123",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-10",
+          "@etat": "ABROGE",
+          "@fin": "1992-11-12",
+          "@id": "LEGIARTI000006579486",
+          "@num": "123",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute personne physique ou morale qui veut user pour l'alimentation en eau potable, pour l'irrigation ou, plus généralement, pour les besoins de son exploitation, des eaux dont elle a le droit de disposer, peut obtenir le passage par conduite souterraine de ces eaux sur les fonds intermédiaires, dans les conditions les plus rationnelles et les moins dommageables à l'exploitation présente et future de ces fonds, à charge d'une juste et préalable indemnité.<br/>\n<br/>   Les maisons sont en tout cas exceptées de cette servitude.<br/>\n<br/>   En sont également exceptés les cours et jardins attenant aux habitations.<br/>\n<br/>   Cette servitude s'applique également en zone de montagne pour obtenir le passage des eaux destinées à l'irrigation par aqueduc ou à ciel ouvert dans les mêmes conditions que celles prévues au premier alinéa.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°85-30 du 9 janvier 1985 - art. 38 () JORF 10 janvier 1985",
+        "@cidtexte": "JORFTEXT000000317293",
+        "@datesignatexte": "1985-01-09",
+        "@id": "LEGIARTI000006274573",
+        "@naturetexte": "LOI",
+        "@num": "38",
+        "@numtexte": "85-30",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992",
+        "@cidtexte": "JORFTEXT000000542506",
+        "@datesignatexte": "1992-12-11",
+        "@id": "LEGIARTI000006600053",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9100211L",
+        "@num": "5",
+        "@numtexte": "92-1283",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

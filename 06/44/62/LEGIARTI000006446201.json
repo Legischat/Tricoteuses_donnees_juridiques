@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006446201",
+      "ANCIEN_ID": "PEICHXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/62/LEGIARTI000006446201.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-09-07",
+        "DATE_FIN": "2009-09-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 juillet 1986 relatif à l'agrément et au fonctionnement des écoles de sages-femmes",
+          "@c_titre_court": "Arrêté du 15 juillet 1986",
+          "@debut": "1986-09-07",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070914"
+        }
+      ],
+      "@cid": "LEGITEXT000006070914",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-07-15",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-09-07",
+          "@etat": "ABROGE",
+          "@fin": "2009-09-19",
+          "@id": "LEGIARTI000006446201",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La direction de l'école est placée sous la responsabilité d'un professeur des universités spécialiste en gynécologie-obstétrique ou, à défaut, d'un médecin spécialiste qualifié en gynécologie-obstétrique.<br/>\n<br/>   Celui-ci est chargé de cette fonction par arrêté conjoint du ministre chargé de la santé et du ministre chargé des universités et porte le titre de médecin directeur technique et d'enseignement.<br/>\n<br/>   Le médecin directeur technique et d'enseignement, assisté de la sage-femme directrice, détermine, dans le cadre du programme prévu à l'article 3 du décret du 27 septembre 1985 susvisé, le contenu des enseignements dispensés aux élèves. Sous réserve des attributions propres au conseil technique, il a autorité pour prendre toutes mesures en ce qui concerne le fonctionnement technique de l'école.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°85-1046 du 27 septembre 1985 - art. 3",
+        "@cidtexte": "JORFTEXT000000502386",
+        "@datesignatexte": "1985-09-27",
+        "@id": "LEGIARTI000006722916",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "85-1046",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 11 septembre 2009 - art. 14",
+        "@cidtexte": "JORFTEXT000021044860",
+        "@datesignatexte": "2009-09-11",
+        "@id": "LEGIARTI000021048329",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SASH0921222A",
+        "@num": "14",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006713002",
+      "ANCIEN_ID": "SPHYPXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/30/LEGIARTI000006713002.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-03-28",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 93-703 du 27 mars 1993 relatif à l'Ecole nationale de la santé publique",
+          "@c_titre_court": "Décret n°93-703 du 27 mars 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000362842"
+        },
+        {
+          "#text": "Décret n°93-703 du 27 mars 1993 relatif à l'Ecole nationale de la santé publique",
+          "@c_titre_court": "Décret n°93-703 du 27 mars 1993",
+          "@debut": "1993-03-28",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006081933"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Dispositions générales.",
+            "@debut": "1993-03-28",
+            "@fin": "2003-05-27",
+            "@id": "LEGISCTA000006104565"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000362842",
+      "@date_publi": "1993-03-28",
+      "@date_signature": "1993-03-27",
+      "@nature": "DECRET",
+      "@nor": "SANG9300860D",
+      "@num": "93-703"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-28",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006713002",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'école délivre des diplômes définis par arrêté des ministres intéressés et sanctionnant les formations qu'elle dispense conformément à l'article 2, ou concourt à la délivrance de tels diplômes.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 93-703 1993-03-27 art. 2",
+        "@cidtexte": "JORFTEXT000000362842",
+        "@datesignatexte": "1993-03-27",
+        "@id": "JORFTEXT000000362842",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANG9300860D",
+        "@numtexte": "93-703",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 5 JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. R1415-3 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006910930",
+        "@naturetexte": "CODE",
+        "@num": "R1415-3",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

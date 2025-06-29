@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006830981",
+      "ANCIEN_ID": "UCIMBXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/09/LEGIARTI000006830981.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-01-01",
+        "DATE_FIN": "1999-07-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 octobre 1994 relatif aux caractéristiques    acoustiques des bâtiments d'habitation",
+          "@c_titre_court": "Arrêté du 28 octobre 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000348466"
+        },
+        {
+          "#text": "Arrêté du 28 octobre 1994 relatif aux caractéristiques acoustiques des bâtiments d'habitation",
+          "@c_titre_court": "Arrêté du 28 octobre 1994",
+          "@debut": "1996-01-01",
+          "@fin": "1999-07-17",
+          "@id_txt": "LEGITEXT000005617037"
+        }
+      ],
+      "@cid": "JORFTEXT000000348466",
+      "@date_publi": "1994-11-25",
+      "@date_signature": "1994-10-28",
+      "@ministere": "MINISTERE DU LOGEMENT",
+      "@nature": "ARRETE",
+      "@nor": "LOGC9400069A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1999-07-17",
+          "@id": "LEGIARTI000006830981",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé de la santé précise quelles sont les normes définissant le bruit rose mentionné à l'article 2, l'indice d'évaluation de l'absorption mentionné à l'article 3, la machine à chocs mentionnée à l'article 4, le bruit routier mentionné à l'article 7 et définit les modalités selon lesquelles sont effectuées les mesures pour la vérification de la qualité acoustique des logements.<br/>\n<br/>   Cet arrêté fixe également la valeur en décibels (A) de l'incertitude appelée I à prendre en compte lors de la vérification de la qualité acoustique des logements.<br/>\n<br/>   Le logement est considéré comme conforme aux exigences minimales requises en matière d'isolation acoustique lorsque :<br/>\n<br/>   - le résultat de mesure des isolements acoustiques normalisés, DnAT, atteint au moins les limites énoncées respectivement dans les articles 2 et 7 du présent arrêté diminuées de la valeur de l'incertitude I ;<br/>\n<br/>   - le résultat de mesure des niveaux de pression acoustique, LnAT, atteint au plus les limites énoncées respectivement dans les articles 4 à 6 du présent arrêté augmentées de la valeur de l'incertitude I.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-10-28 art. 11",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1994-10-28 art. 2, art. 3, art. 4, art. 7, art. 4 à 6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1999-06-30 art. 12 JORF 17 juillet 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation L.111-4, L.111-11, R.111-1 et R.111-4",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

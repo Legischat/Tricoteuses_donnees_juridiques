@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006856990",
+      "ANCIEN_ID": "UPHPNXXXXXX051AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/69/LEGIARTI000006856990.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "51",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1987-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-1385 du 23 décembre 1985 PRIS POUR L'APPLICATION DE L'ART. 437 DU CODE RURAL ET REGLEMENTANT LA PECHE EN EAU DOUCE",
+          "@c_titre_court": "Décret n°85-1385 du 23 décembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000866860"
+        },
+        {
+          "#text": "Décret n°85-1385 du 23 décembre 1985 pris pour l'application de l'article 437 du code rural et réglementant la pêche en eau douce",
+          "@c_titre_court": "Décret n°85-1385 du 23 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006064818"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section VII : Dispositions pénales",
+            "@debut": "1986-01-01",
+            "@fin": "1989-11-04",
+            "@id": "LEGISCTA000006109669"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000866860",
+      "@date_publi": "1985-12-28",
+      "@date_signature": "1985-12-23",
+      "@nature": "DECRET",
+      "@num": "85-1385"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1987-01-01",
+          "@id": "LEGIARTI000006856990",
+          "@num": "51",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006856991",
+          "@num": "51",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Sera puni de l'amende prévue pour les contraventions de la 3e classe, quiconque [*infraction, sanction*] :<br/>\n    1° Pêche ou transporte des poissons qui proviennent des eaux soumises aux dispositions du présent décret et dont le nombre excède celui qui est permis en application des articles 22 et 23 du même décret, ou ne respecte pas les conditions de capture fixées en application de l'article 22 du même décret ;<br/>\n    2° Est trouvé la nuit porteur ou muni, hors de son domicile, d'instruments, filets ou engins de pêche prohibés destinés à être utilisés dans les eaux soumises aux dispositions du présent décret ;<br/>\n    3° Organise un concours de pêche dans les cours d'eau de la 1re catégorie.<br/>\n    En cas de récidive l'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe. Cette amende sera également encourue pour les infractions au 1° du présent article qui ont été commises de nuit.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 437",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°85-1385 du 23 décembre 1985 - art. 22 (Ab)",
+        "@cidtexte": "JORFTEXT000000866860",
+        "@datesignatexte": "1985-12-23",
+        "@id": "LEGIARTI000006856947",
+        "@naturetexte": "DECRET",
+        "@num": "22",
+        "@numtexte": "85-1385",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°85-1385 du 23 décembre 1985 - art. 23 (Ab)",
+        "@cidtexte": "JORFTEXT000000866860",
+        "@datesignatexte": "1985-12-23",
+        "@id": "LEGIARTI000006856948",
+        "@naturetexte": "DECRET",
+        "@num": "23",
+        "@numtexte": "85-1385",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural - art. R*236-56 (Ab)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006590319",
+        "@naturetexte": "CODE",
+        "@num": "R*236-56",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006201596",
+      "ANCIEN_ID": "AKHFWXXXXXX079AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/15/LEGIARTI000006201596.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "79",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-09-03",
+        "DATE_FIN": "2004-08-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-906 du 24 août 1978 SOCIETES CIVILES PROFESSIONNELLES DE CHIRURGIEN-DENTISTE",
+          "@c_titre_court": "Décret n°78-906 du 24 août 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000335547"
+        },
+        {
+          "#text": "Décret n°78-906 du 24 août 1978 pris pour l'application aux chirurgiens-dentistes de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles",
+          "@c_titre_court": "Décret n°78-906 du 24 août 1978",
+          "@debut": "1978-09-03",
+          "@fin": "2004-08-08",
+          "@id_txt": "LEGITEXT000006062935"
+        }
+      ],
+      "@cid": "JORFTEXT000000335547",
+      "@date_publi": "1978-09-03",
+      "@date_signature": "1978-08-24",
+      "@nature": "DECRET",
+      "@num": "78-906"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-09-03",
+          "@etat": "ABROGE",
+          "@fin": "2004-08-08",
+          "@id": "LEGIARTI000006201596",
+          "@num": "79",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       En cas de fusion ou de scission de société civile professionnelle dans les conditions de l'article 2-1 de la loi susvisée du 29 novembre 1966, la nouvelle société créée ou les sociétés scissionnaires doivent accomplir les formalités d'inscription et de publicité prévues aux articles 3 et 14 ci-dessus.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-879 1966-11-29",
+        "@cidtexte": "JORFTEXT000000692471",
+        "@datesignatexte": "1966-11-29",
+        "@id": "JORFTEXT000000692471",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-879",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°66-879 du 29 novembre 1966 - art. 2-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000692471",
+        "@datesignatexte": "1966-11-29",
+        "@id": "LEGIARTI000006290482",
+        "@naturetexte": "LOI",
+        "@num": "2-1",
+        "@numtexte": "66-879",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 78-906 1978-08-24 art. 3, art. 14",
+        "@cidtexte": "JORFTEXT000000335547",
+        "@datesignatexte": "1978-08-24",
+        "@id": "JORFTEXT000000335547",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-906",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2004-802 2004-07-29 art. 5 A JORF 8 août 2004",
+        "@cidtexte": "JORFTEXT000000787339",
+        "@datesignatexte": "2004-07-29",
+        "@id": "JORFTEXT000000787339",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0422530D",
+        "@numtexte": "2004-802",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

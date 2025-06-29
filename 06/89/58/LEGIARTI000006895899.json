@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006895899",
+      "ANCIEN_ID": "UXXXXXXXXXX111R015AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/58/LEGIARTI000006895899.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R*111-15",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1978-06-08",
+        "DATE_FIN": "2019-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la construction et de l'habitation",
+          "@c_titre_court": "Code de la construction et de l'habitation.",
+          "@debut": "1977-03-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074096"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1977-03-10",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006112857"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Dispositions générales.",
+              "@debut": "1978-06-08",
+              "@fin": "2021-07-01",
+              "@id": "LEGISCTA000006132252"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre Ier : Construction des bâtiments.",
+                "@debut": "1978-06-08",
+                "@fin": "2021-07-01",
+                "@id": "LEGISCTA000006145268"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Règles générales.",
+                  "@debut": "1978-06-08",
+                  "@fin": "2021-07-01",
+                  "@id": "LEGISCTA000006160482"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 2 : Dispositions générales applicables aux bâtiments d'habitation.",
+                    "@debut": "1978-06-08",
+                    "@fin": "2021-07-01",
+                    "@id": "LEGISCTA000006177428"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074096",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-06-08",
+          "@etat": "MODIFIE",
+          "@fin": "2019-09-01",
+          "@id": "LEGIARTI000006895899",
+          "@num": "R*111-15",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2019-09-01",
+          "@etat": "ABROGE",
+          "@fin": "2021-07-01",
+          "@id": "LEGIARTI000039041391",
+          "@num": "R111-15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Aux étages autres que le rez-de-chaussée :<br/>\n<br/>   a) Les fenêtres autres que celles ouvrant sur des balcons, terrasses ou galeries et dont les parties basses se trouvent à moins de 0,90 mètre du plancher doivent, si elles sont au-dessus du rez-de-chaussée, être pourvues d'une barre d'appui et d'un élément de protection s'élevant au moins jusqu'à un mètre du plancher ;<br/>\n<br/>   b) Les garde-corps des balcons, terrasses, galeries, loggias, doivent avoir une hauteur d'au moins un mètre ; toutefois, cette hauteur peut être abaissée jusqu'à 0,80 mètre au cas où le garde-corps a plus de cinquante centimètres d'épaisseur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 69-596 1969-06-14 art. 14",
+        "@cidtexte": "JORFTEXT000000697837",
+        "@datesignatexte": "1969-06-14",
+        "@id": "JORFTEXT000000697837",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-596",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 78-622 1978-05-31 JORF 8 juin 1978",
+        "@cidtexte": "JORFTEXT000000702963",
+        "@datesignatexte": "1978-05-31",
+        "@id": "JORFTEXT000000702963",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-622",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation. - art. R631-20 (VD)",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000039043600",
+        "@naturetexte": "CODE",
+        "@num": "R631-20",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

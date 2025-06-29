@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006272594",
+      "ANCIEN_ID": "PEEAIXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/25/LEGIARTI000006272594.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-01-13",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°51-46 du 11 janvier 1951 DITE DEIXONNE RELATIVE A L'ENSEIGNEMENT DES LANGUES ET DIALECTES LOCAUX",
+          "@c_titre_court": "Loi n°51-46 du 11 janvier 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886638"
+        },
+        {
+          "#text": "Loi n°51-46 du 11 janvier 1951 relative à l'enseignement des langues et dialectes locaux *Loi Dexonne*.",
+          "@c_titre_court": "Loi n°51-46 du 11 janvier 1951",
+          "@debut": "1951-01-13",
+          "@fin": "2000-06-22",
+          "@id_txt": "LEGITEXT000006068094"
+        }
+      ],
+      "@cid": "JORFTEXT000000886638",
+      "@date_publi": "1951-01-13",
+      "@date_signature": "1951-01-11",
+      "@nature": "LOI",
+      "@num": "51-46"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-13",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006272594",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001691721",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil supérieur de l'éducation nationale sera chargé, dans le cadre et dès la promulgation de la présente loi, de rechercher les meilleurs moyens de favoriser l'étude des langues et dialectes locaux dans les régions où ils sont en usage.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 2000-549 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583540",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006435990",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "MENX0000033R",
+        "@num": "7",
+        "@numtexte": "2000-549",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. L312-10 (M)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006524764",
+        "@naturetexte": "CODE",
+        "@num": "L312-10",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

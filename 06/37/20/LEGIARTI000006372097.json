@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006372097",
+      "ANCIEN_ID": "MSHGRXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/37/20/LEGIARTI000006372097.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1989-04-18",
+        "DATE_FIN": "1990-08-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°89-230 du 17 avril 1989 FIXANT LA REPARTITION DES FONCTIONNAIRES TERRITORIAUX EN GROUPES HIERARCHIQUES EN APPLICATION DE L'ART. 90 DE LA LOI DU 26-01-1984 MODIFIEE PORTANT DISPOSITIONS STATUTAIRES RELATIVES A LA FONCTION PUBLIQUE TERRITORIALE",
+          "@c_titre_court": "Décret n°89-230 du 17 avril 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705157"
+        },
+        {
+          "#text": "Décret n°89-230 du 17 avril 1989 fixant la répartition des fonctionnaires territoriaux en groupes hiérarchiques en application de l'article 90 de la loi du 26 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique territoriale",
+          "@c_titre_court": "Décret n°89-230 du 17 avril 1989",
+          "@debut": "1989-04-18",
+          "@fin": "1995-09-15",
+          "@id_txt": "LEGITEXT000006067032"
+        }
+      ],
+      "@cid": "JORFTEXT000000705157",
+      "@date_publi": "1989-04-18",
+      "@date_signature": "1989-04-17",
+      "@nature": "DECRET",
+      "@nor": "INTB8900123D",
+      "@num": "89-230"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-04-18",
+          "@etat": "MODIFIE",
+          "@fin": "1990-08-01",
+          "@id": "LEGIARTI000006372097",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-08-01",
+          "@etat": "ABROGE",
+          "@fin": "1995-09-15",
+          "@id": "LEGIARTI000006372098",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Font partie du groupe hiérarchique 7 dénommé groupe hiérarchique supérieur de la catégorie A :<br/>\n<br/>   1° Les administrateurs, les ingénieurs en chef des communes de plus de 150 000 habitants et les directeurs généraux des services techniques des communes de plus de 80 000 habitants ;<br/>\n<br/>   2° Les fonctionnaires titulaires d'un grade ou d'un emploi définis par référence à l'un des emplois mentionnés au 1° ci-dessus ou par référence à un emploi de l'Etat équivalent ;<br/>\n<br/>   3° Les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice terminal est au moins égal à l'indice brut 985.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-53 1984-01-26 art. 90",
+        "@cidtexte": "JORFTEXT000000320434",
+        "@datesignatexte": "1984-01-26",
+        "@id": "JORFTEXT000000320434",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-53",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°89-230 du 17 avril 1989 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000705157",
+        "@datesignatexte": "1989-04-17",
+        "@id": "LEGIARTI000006372087",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTB8900123D",
+        "@num": "1",
+        "@numtexte": "89-230",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

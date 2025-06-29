@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006637826",
+      "ANCIEN_ID": "RLEABXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/78/LEGIARTI000006637826.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-07-27",
+        "DATE_FIN": "1996-04-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°69-10 du 3 janvier 1969 ETABLISSEMENT DU PAIEMENT DU LAIT EN FONCTION DE SA COMPOSITION ET DE SA QUALITE, LAITS DE VACHE, DE CHEVRE ET DE BREBIS",
+          "@c_titre_court": "Loi n°69-10 du 3 janvier 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693411"
+        },
+        {
+          "#text": "Loi n°69-10 du 3 janvier 1969 relative à l'institution du paiement du lait en fonction de sa composition et de sa qualité",
+          "@c_titre_court": "Loi n°69-10 du 3 janvier 1969",
+          "@debut": "1969-01-05",
+          "@fin": "1998-07-09",
+          "@id_txt": "LEGITEXT000006068330"
+        }
+      ],
+      "@cid": "JORFTEXT000000693411",
+      "@date_publi": "1969-01-05",
+      "@date_signature": "1969-01-03",
+      "@nature": "LOI",
+      "@num": "69-10"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-01-05",
+          "@etat": "MODIFIE",
+          "@fin": "1993-07-27",
+          "@id": "LEGIARTI000006637825",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-07-27",
+          "@etat": "ABROGE",
+          "@fin": "1996-04-13",
+          "@id": "LEGIARTI000006637826",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les infractions aux décrets prévus à l'article 2 de la présente loi seront punies comme infraction à l'article L. 213-1 du code de la consommation.<br/>\n<br/>   En cas de bonne foi, il sera fait application des peines prévues à l'article L. 214-2 dudit code.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°69-10 du 3 janvier 1969 - art. 2 (M)",
+        "@cidtexte": "JORFTEXT000000693411",
+        "@datesignatexte": "1969-01-03",
+        "@id": "LEGIARTI000006637821",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "69-10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°93-949 du 26 juillet 1993 - art. 2 (V) JORF 27 juillet 1993",
+        "@cidtexte": "JORFTEXT000000529228",
+        "@datesignatexte": "1993-07-26",
+        "@id": "LEGIARTI000006932790",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9300016L",
+        "@num": "2",
+        "@numtexte": "93-949",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°96-314 du 12 avril 1996 - art. 60 () JORF 13 avril 1996",
+        "@cidtexte": "JORFTEXT000000193354",
+        "@datesignatexte": "1996-04-12",
+        "@id": "LEGIARTI000006319579",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9600004L",
+        "@num": "60",
+        "@numtexte": "96-314",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la consommation - art. L213-1 (M)",
+        "@cidtexte": "LEGITEXT000006069565",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006292226",
+        "@naturetexte": "CODE",
+        "@num": "L213-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la consommation - art. L214-2 (M)",
+        "@cidtexte": "LEGITEXT000006069565",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006292246",
+        "@naturetexte": "CODE",
+        "@num": "L214-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

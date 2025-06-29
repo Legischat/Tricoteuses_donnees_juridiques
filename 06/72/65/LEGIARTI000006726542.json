@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006726542",
+      "ANCIEN_ID": "AFHCSXXXXXX040AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/65/LEGIARTI000006726542.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "40",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1999-01-27",
+        "DATE_FIN": "2005-08-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°93-1278 du 3 décembre 1993 SUR LA BANQUE DE FRANCE",
+          "@c_titre_court": "Décret n°93-1278 du 3 décembre 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000882226"
+        },
+        {
+          "#text": "Décret n°93-1278 du 3 décembre 1993 sur la Banque de France",
+          "@c_titre_court": "Décret n°93-1278 du 3 décembre 1993",
+          "@debut": "1993-12-04",
+          "@fin": "2005-08-25",
+          "@id_txt": "LEGITEXT000006067898"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Dispositions diverses et d'abrogation.",
+            "@debut": "1993-12-04",
+            "@fin": "2005-08-25",
+            "@id": "LEGISCTA000006105503"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000882226",
+      "@date_publi": "1993-12-04",
+      "@date_signature": "1993-12-03",
+      "@nature": "DECRET",
+      "@nor": "ECOT9310197D",
+      "@num": "93-1278"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-12-04",
+          "@etat": "MODIFIE",
+          "@fin": "1999-01-27",
+          "@id": "LEGIARTI000006726541",
+          "@num": "40",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-01-27",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006726542",
+          "@num": "40",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des actes du Conseil de la politique monétaire ou du Conseil général peuvent être publiés au Journal officiel de la République française sur proposition de ces conseils.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°99-51 du 25 janvier 1999 - art. 7 () JORF 27 janvier 1999",
+        "@cidtexte": "JORFTEXT000000208526",
+        "@datesignatexte": "1999-01-25",
+        "@id": "LEGIARTI000006739948",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOT9810354D",
+        "@num": "7",
+        "@numtexte": "99-51",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005",
+        "@cidtexte": "JORFTEXT000000451781",
+        "@datesignatexte": "2005-08-02",
+        "@id": "LEGIARTI000006244165",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOX0500001D",
+        "@num": "5",
+        "@numtexte": "2005-1007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier R143-14",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072026",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

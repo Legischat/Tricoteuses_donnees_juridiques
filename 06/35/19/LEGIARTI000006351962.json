@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351962",
+      "ANCIEN_ID": "AAHJGXXXXXX045AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/19/LEGIARTI000006351962.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "45",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1972-07-08",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°52-1326 du 15 décembre 1952 SOCIETES DE CREDIT DIFFERE",
+          "@c_titre_court": "Décret n°52-1326 du 15 décembre 1952",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687210"
+        },
+        {
+          "#text": "Décret n°52-1326 du 15 décembre 1952 pris pour l'application de la loi n° 52-332 du 24 mars 1952 et relatif aux contrats de crédit différé",
+          "@c_titre_court": "Décret n°52-1326 du 15 décembre 1952",
+          "@debut": "1952-12-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060627"
+        }
+      ],
+      "@cid": "JORFTEXT000000687210",
+      "@date_publi": "1952-12-16",
+      "@date_signature": "1952-12-15",
+      "@nature": "DECRET",
+      "@num": "52-1326"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-07-08",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006351962",
+          "@num": "45",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Un compte arrêté au 31 décembre de chaque exercice sera adressé à l'adhérent gratuitement sur sa demande, dans le premier trimestre de l'exercice suivant pour lui faire connaître le montant des sommes versées par lui affecté au fonds de répartition.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 52-332 1952-03-24",
+        "@cidtexte": "JORFTEXT000000888671",
+        "@datesignatexte": "1952-03-24",
+        "@id": "JORFTEXT000000888671",
+        "@naturetexte": "LOI",
+        "@numtexte": "52-332",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°52-1326 du 15 décembre 1952 - art. 32 (T)",
+        "@cidtexte": "JORFTEXT000000687210",
+        "@datesignatexte": "1952-12-15",
+        "@id": "LEGIARTI000006351916",
+        "@naturetexte": "DECRET",
+        "@num": "32",
+        "@numtexte": "52-1326",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret n°52-1326 du 15 décembre 1952 - art. 32 (T)",
+        "@cidtexte": "JORFTEXT000000687210",
+        "@datesignatexte": "1952-12-15",
+        "@id": "LEGIARTI000006351916",
+        "@naturetexte": "DECRET",
+        "@num": "32",
+        "@numtexte": "52-1326",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

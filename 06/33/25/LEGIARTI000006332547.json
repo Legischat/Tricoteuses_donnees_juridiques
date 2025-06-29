@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006332547",
+      "ANCIEN_ID": "FBIMUXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/25/LEGIARTI000006332547.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1994-12-27",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 décembre 1994 portant approbation du cahier des charges pour la    transmission par voie informatique de la déclaration d'échanges de biens    entre Etats membres de la Communauté européenne",
+          "@c_titre_court": "Arrêté du 19 décembre 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000186002"
+        },
+        {
+          "#text": "Arrêté du 19 décembre 1994 portant approbation du cahier des charges pour la transmission par voie informatique de la déclaration d'échanges de biens entre Etats membres de la Communauté européenne",
+          "@c_titre_court": "Arrêté du 19 décembre 1994",
+          "@debut": "1994-12-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005617256"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE V : IDENTIFICATION DES DÉCLARANTS.",
+            "@debut": "1994-12-27",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085029"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000186002",
+      "@date_publi": "1994-12-27",
+      "@date_signature": "1994-12-19",
+      "@ministere": "MINISTERE DU BUDGET",
+      "@nature": "ARRETE",
+      "@nor": "BUDD9440002A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-12-27",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006332547",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les émetteurs des déclarations d'échanges de biens transmises par voie informatique doivent être identifiées à chaque transmission. L'identification est la fonction permettant de s'assurer que l'information reçue a effectivement été transmise par un déclarant reconnu par le centre de collecte comme titulaire de l'autorisation prévue par l'article 1er du présent arrêté.<br/>\n<br/>   L'identification est différente suivant les méthodes utilisées.<br/>\n<br/>   a) Transmission directe de données mises en forme par le système informatique propre au déclarant :<br/>\n<br/>   Le numéro SIREN et le numéro de l'autorisation prévue à l'article 10 du présent arrêté sont contenus dans le premier enregistrement des fichiers Saisunic ou Intracom pour les fichiers structurés en enregistrements de longueur fixe, et dans le segment U.N.B. de l'interchange pour les messages aux normes Un/Edifact.<br/>\n<br/>   De plus :<br/>\n<br/>   - pour les supports magnétiques, le nom, l'adresse et le numéro d'autorisation prévu par l'article 10 du présent arrêté doivent figurer de façon externe sur le support ;<br/>\n<br/>   - pour la messagerie électronique, le titulaire de l'autorisation est identifié par son adresse électronique X 400 ;<br/>\n<br/>   - pour le transfert de fichiers point à point, le site émetteur est identifié par la vérification des paramètres transmis, nécessaires à l'établissement de la connexion.<br/>\n<br/>   b) Serveurs de l'administration :<br/>\n<br/>   - pour le Minitel, le titulaire de l'autorisation est identifié par son numéro SIREN ;<br/>\n<br/>   - pour le SOFI, le titulaire de l'autorisation est identifié par son code déclarant SOFI.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-12-19 art. 1, art. 10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006782222",
+      "ANCIEN_ID": "SSIAAYXXXXX002AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/22/LEGIARTI000006782222.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-12-23",
+        "DATE_FIN": "2020-10-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 juin 1968  relatif aux conditions d'attribution des prestations des assurances maladie, maternité, invalidité et décès et mode de calcul des indemnités journalières dues à certaines catégories d'assurés",
+          "@c_titre_court": "Arrêté du 21 juin 1968",
+          "@debut": "1968-07-15",
+          "@fin": "2020-10-31",
+          "@id_txt": "LEGITEXT000006073475"
+        }
+      ],
+      "@cid": "LEGITEXT000006073475",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1968-06-21",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-07-15",
+          "@etat": "MODIFIE",
+          "@fin": "2000-12-23",
+          "@id": "LEGIARTI000006782221",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-12-23",
+          "@etat": "ABROGE",
+          "@fin": "2020-10-31",
+          "@id": "LEGIARTI000006782222",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les assurés nouvellement immatriculés âgés de moins de vingt-cinq ans qui appartiennent aux catégories énumérées ci-dessus sont considérés comme remplissant les conditions de salariat requises pour l'ouverture du droit aux prestations en nature de l'assurance maladie s'ils justifient, au cours du trimestre civil précédant la date des soins dont le remboursement est demandé :<br/>\n<br/>   Pour les écrivains non salariés, les concierges, les nourrices et gardiennes d'enfants, les personnes assistées travaillant à l'intérieur et pour le compte des centres d'hébergement agréés tels que visés à l'article L. 345-1 du code de l'action sociale et des familles et les personnes infirmes ou travailleurs handicapés employés dans et par les centres d'aide par le travail agréés ou dans et par les ateliers protégés agréés ou dans un poste de travail protégé autres que ceux placés en rééducation professionnelle dans la section d'observation et d'adaptation au travail, d'un versement de cotisations calculées sur une rémunération égale au trente-troisième du montant minimum des avantages de vieillesse et d'invalidité accordés aux assurés sociaux ;<br/>\n<br/>   Pour les journalistes rémunérés à la pige, d'un versement de cotisations calculées sur un gain égal à huit fois le gain journalier maximum entrant en compte pour le calcul des cotisations dues pour un assuré dont le salaire est réglé journellement ;<br/>\n<br/>   Pour les assurés cotisant sur vignettes, d'un nombre de vignettes correspondant à soixante heures de travail ;<br/>\n<br/>   Pour les voyageurs, représentants de commerce, placiers, courtiers, inspecteurs et autres agents non patentés, ainsi que pour les travailleurs à domicile, d'un versement de cotisations sur un salaire égal à soixante fois le salaire horaire national minimum interprofessionnel garanti.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 68-400 1968-04-30 (ABROGE)",
+        "@cidtexte": "JORFTEXT000000868347",
+        "@datesignatexte": "1968-04-30",
+        "@id": "JORFTEXT000000868347",
+        "@naturetexte": "DECRET",
+        "@numtexte": "68-400",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 19 octobre 2020 - art. 2",
+        "@cidtexte": "JORFTEXT000042475357",
+        "@datesignatexte": "2020-10-19",
+        "@id": "LEGIARTI000042478402",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SSAS2028033A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de l'action sociale et des familles - art. L345-1",
+        "@cidtexte": "LEGITEXT000006074069",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006797708",
+        "@naturetexte": "CODE",
+        "@num": "L345-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

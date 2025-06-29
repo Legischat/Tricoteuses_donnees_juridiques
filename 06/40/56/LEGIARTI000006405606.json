@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006405606",
+      "ANCIEN_ID": "PAHAZXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/56/LEGIARTI000006405606.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1991-09-01",
+        "DATE_FIN": "1999-07-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 91-670 du 14 juillet 1991 portant organisation    générale de l'armée de terre",
+          "@c_titre_court": "Décret n°91-670 du 14 juillet 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000536341"
+        },
+        {
+          "#text": "Décret n°91-670 du 14 juillet 1991 portant organisation générale de l'armée de terre",
+          "@c_titre_court": "Décret n°91-670 du 14 juillet 1991",
+          "@debut": "1991-09-01",
+          "@fin": "2000-07-01",
+          "@id_txt": "LEGITEXT000006077810"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : Dispositions particulières aux commandements militaires de défense.",
+            "@debut": "1991-09-01",
+            "@fin": "2000-07-01",
+            "@id": "LEGISCTA000006088764"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000536341",
+      "@date_publi": "1991-07-19",
+      "@date_signature": "1991-07-14",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "DECRET",
+      "@nor": "DEFX9100110D",
+      "@num": "91-670"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-09-01",
+          "@etat": "MODIFIE",
+          "@fin": "1999-07-02",
+          "@id": "LEGIARTI000006405606",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-07-02",
+          "@etat": "ABROGE",
+          "@fin": "2000-07-01",
+          "@id": "LEGIARTI000006405607",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le commandant de circonscription militaire de défense est responsable dans les domaines suivants :<br/>\n<br/>   1° Relations avec les autorités civiles en application des dispositions de l'ordonnance du 7 janvier 1959 susvisée ;<br/>\n<br/>   2° Défense militaire terrestre ;<br/>\n<br/>   3° Préparation et mise en oeuvre de la mobilisation conformément aux principes définis à l'article 14 ci-après ;<br/>\n<br/>   4° Participation de l'armée de terre à des activités ne relevant pas de ses missions spécifiques ;<br/>\n<br/>   5° Discipline générale, sous réserve des compétences des commandements organiques et des directions de service ;<br/>\n<br/>   6° Service de garnison ;<br/>\n<br/>   7° Infrastructure, sous réserve des compétences des commandements organiques et des directions de service ;<br/>\n<br/>   8° Hygiène, sécurité, prévention et conditions de travail, sous réserve des responsabilités des commandements organiques et des directions de service ;<br/>\n<br/>   9° Logement ;<br/>\n<br/>   10° Action sociale ;<br/>\n<br/>   11° Gestion et administration du personnel civil extérieur dans les limites des pouvoirs fixés par des textes particuliers ;<br/>\n<br/>   12° Répartition des militaires du rang appelés entre les formations stationnées dans les limites de la circonscription ;<br/>\n<br/>   13° Information en vue du recrutement et actions en faveur de la reconversion professionnelle ;<br/>\n<br/>   14° Gestion et instruction des réservistes affectés ainsi que préparation militaire ;<br/>\n<br/>   15° Contentieux des dommages et affaires pénales militaires, y compris, le cas échéant, au profit d'autres circonscriptions.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 59-147 1959-01-07",
+        "@cidtexte": "JORFTEXT000000705509",
+        "@datesignatexte": "1959-01-07",
+        "@id": "JORFTEXT000000705509",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "59-147",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 91-670 1991-07-14 art. 14",
+        "@cidtexte": "JORFTEXT000000536341",
+        "@datesignatexte": "1991-07-14",
+        "@id": "JORFTEXT000000536341",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFX9100110D",
+        "@numtexte": "91-670",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

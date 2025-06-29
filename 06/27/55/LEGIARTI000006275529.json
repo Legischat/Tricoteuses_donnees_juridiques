@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275529",
+      "ANCIEN_ID": "FAEEEXXXXXX050AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/55/LEGIARTI000006275529.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "50",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1988-12-30",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°88-1193 du 29 décembre 1988 DE FINANCES RECTIFICATIVE POUR 1988",
+          "@c_titre_court": "Loi n°88-1193 du 29 décembre 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509064"
+        },
+        {
+          "#text": "Loi n° 88-1193 du 29 décembre 1988 de Finances rectificative pour 1988",
+          "@c_titre_court": "Loi n° 88-1193 du 29 décembre 1988",
+          "@debut": "1988-12-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069029"
+        }
+      ],
+      "@cid": "JORFTEXT000000509064",
+      "@date_publi": "1988-12-30",
+      "@date_signature": "1988-12-29",
+      "@nature": "LOI",
+      "@nor": "ECOX8800157L",
+      "@num": "88-1193"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-12-30",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006275529",
+          "@num": "50",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001103352",
+          "@num": "50",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La redevance d'exploitation annuelle versée par la Caisse centrale de crédit coopératif en application de l'article 15 de la loi portant règlement du budget de 1975 (n° 77-1397 du 21 décembre 1977) est supprimée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°77-1397 du 21 décembre 1977 - art. 15, v. init.",
+        "@cidtexte": "JORFTEXT000000334604",
+        "@datesignatexte": "1977-12-21",
+        "@id": "JORFARTI000002293563",
+        "@naturetexte": "LOI",
+        "@num": "15",
+        "@numtexte": "77-1397",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 88-1193 1988-12-29 Finances rectificative pour 1988 JORF 30 décembre 1988",
+        "@cidtexte": "JORFTEXT000000509064",
+        "@datesignatexte": "1988-12-29",
+        "@id": "JORFTEXT000000509064",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8800157L",
+        "@numtexte": "88-1193",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

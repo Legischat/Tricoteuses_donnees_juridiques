@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006776296",
+      "ANCIEN_ID": "AGEABXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/77/62/LEGIARTI000006776296.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1988-01-23",
+        "DATE_FIN": "1996-02-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°88-70 du 22 janvier 1988 SUR LES BOURSES DE VALEURS",
+          "@c_titre_court": "Loi n°88-70 du 22 janvier 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000684072"
+        },
+        {
+          "#text": "Loi n°88-70 du 22 janvier 1988 sur les bourses de valeurs",
+          "@c_titre_court": "Loi n°88-70 du 22 janvier 1988",
+          "@debut": "1988-01-23",
+          "@fin": "1996-07-04",
+          "@id_txt": "LEGITEXT000006069066"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Des sociétés de bourse.",
+            "@debut": "1988-01-23",
+            "@fin": "1996-07-04",
+            "@id": "LEGISCTA000006107349"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000684072",
+      "@date_publi": "1988-01-23",
+      "@date_signature": "1988-01-22",
+      "@nature": "LOI",
+      "@nor": "ECOX8700048L",
+      "@num": "88-70"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-23",
+          "@etat": "MODIFIE",
+          "@fin": "1996-02-15",
+          "@id": "LEGIARTI000006776296",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-02-15",
+          "@etat": "ABROGE",
+          "@fin": "1996-07-04",
+          "@id": "LEGIARTI000006776297",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sociétés de bourse sont seules chargées de la négociation des valeurs mobilières admises aux négociations par le conseil des bourses de valeurs mentionné à l'article 5.<br/>\n<br/>   Les sociétés de bourse peuvent se porter contrepartie, négocier des contrats à terme et des options portant sur les valeurs mobilières et gérer des portefeuilles. Elles peuvent aussi exercer les activités prévues à l'article 99 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit dans les conditions définies par celle-ci.<br/>\n<br/>   Les sociétés de bourse sont seules chargées des cessions directes ou indirectes de valeurs mobilières à l'exception des cessions effectuées entre deux personnes physiques, de celles effectuées entre deux sociétés lorsque l'une d'elles possède au moins 20 p. 100 du capital de l'autre, de celles qui, incluses dans une convention autre qu'une vente pure et simple, en constituent un élément nécessaire, de celles effectuées entre une personne morale autre qu'une société et une société lorsque la personne morale possède au moins 20 p. 100 du capital de la société, de celles effectuées entre sociétés d'assurances appartenant au même groupe et de celles effectuées entre personnes morales et organismes de retraite ou de prévoyance dont elles assurent la gestion.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 99",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 88-70 1988-01-22 art. 2 *sanctions civiles, pénales et fiscales*",
+        "@cidtexte": "JORFTEXT000000684072",
+        "@datesignatexte": "1988-01-22",
+        "@id": "JORFTEXT000000684072",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700048L",
+        "@numtexte": "88-70",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi 88-70 1988-01-22 art. 5",
+        "@cidtexte": "JORFTEXT000000684072",
+        "@datesignatexte": "1988-01-22",
+        "@id": "JORFTEXT000000684072",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700048L",
+        "@numtexte": "88-70",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

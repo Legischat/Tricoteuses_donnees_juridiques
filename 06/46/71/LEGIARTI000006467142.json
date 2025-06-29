@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006467142",
+      "ANCIEN_ID": "ACEASXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/71/LEGIARTI000006467142.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1976-01-03",
+        "DATE_FIN": "2001-12-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 75-1334 du 31 décembre 1975 relative à la sous-traitance",
+          "@c_titre_court": "LOI n° 75-1334 du 31 décembre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000889241"
+        },
+        {
+          "#text": "Loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance",
+          "@c_titre_court": "Loi n° 75-1334 du 31 décembre 1975",
+          "@debut": "1976-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068498"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Du paiement direct.",
+            "@debut": "1976-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006092437"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000889241",
+      "@date_publi": "1976-01-03",
+      "@date_signature": "1975-12-31",
+      "@nature": "LOI",
+      "@num": "75-1334"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-03",
+          "@etat": "MODIFIE",
+          "@fin": "2001-12-12",
+          "@id": "LEGIARTI000006467142",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-12-12",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006467143",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sans préjudice de l'acceptation prévue à l'article 3, l'entrepreneur principal doit, lors de la soumission, indiquer au maître de l'ouvrage la nature et le montant de chacune des prestations qu'il envisage de sous-traiter.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°75-1334 du 31 décembre 1975 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000889241",
+        "@datesignatexte": "1975-12-31",
+        "@id": "LEGIARTI000006467140",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "75-1334",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 94-638 1994-07-25 art. 33 *date et spécificités d'application concernant les DOM, Saint-Pierre-et-Miquelon et Mayotte*",
+        "@cidtexte": "JORFTEXT000000548628",
+        "@datesignatexte": "1994-07-25",
+        "@id": "JORFTEXT000000548628",
+        "@naturetexte": "LOI",
+        "@nortexte": "DOMX9400047L",
+        "@numtexte": "94-638",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code de la commande publique - art. L2193-5 (VD)",
+        "@cidtexte": "LEGITEXT000037701019",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000037703809",
+        "@naturetexte": "CODE",
+        "@num": "L2193-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la sécurité intérieure - art. R631-23 (V)",
+        "@cidtexte": "LEGITEXT000025503132",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000045196153",
+        "@naturetexte": "CODE",
+        "@num": "R631-23",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

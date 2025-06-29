@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006757522",
+      "ANCIEN_ID": "SSEADIXXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/75/LEGIARTI000006757522.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-01-04",
+        "DATE_FIN": "1995-02-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 91-1407 du 31 décembre 1991 modifiant et complétant les dispositions    du code rural et de la loi no 90-85 du 23 janvier 1990 relatives aux    cotisations sociales agricoles et créant un régime de préretraite agricole    (1)",
+          "@c_titre_court": "Loi n°91-1407 du 31 décembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000537781"
+        },
+        {
+          "#text": "Loi n° 91-1407 du 31 décembre 1991 modifiant et complétant les dispositions du code rural et de la loi n° 90-85 du 23 janvier 1990 relatives aux cotisations sociales agricoles et créant un régime de préretraite agricole.",
+          "@c_titre_court": "Loi n° 91-1407 du 31 décembre 1991",
+          "@debut": "1992-01-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006078512"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "I. - Prestations familiales.",
+            "@debut": "1992-01-04",
+            "@fin": "1995-02-02",
+            "@id": "LEGISCTA000006106245"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000537781",
+      "@date_publi": "1992-01-04",
+      "@date_signature": "1991-12-31",
+      "@nature": "LOI",
+      "@nor": "AGRX9100106L",
+      "@num": "91-1407"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-04",
+          "@etat": "ABROGE",
+          "@fin": "1995-02-02",
+          "@id": "LEGIARTI000006757522",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. - Modificateur.<br/>\n<br/>   II. - A compter du 1er janvier 1994, les cotisations, versées au titre des prestations familiales, mentionnées à l'article 1062 du code rural, à charge des chefs d'exploitation ou d'entreprise agricoles et des artisans ruraux sont constituées de deux éléments.<br/>\n<br/>   Le premier est calculé selon les modalités prévues à l'article 1063.<br/>\n<br/>   Le second est calculé, pour la cotisation versée par l'exploitant pour lui-même, en pourcentage des revenus professionnels ou de l'assiette forfaitaire, dans les conditions définies à l'article 1003-12 du même code et selon un taux défini par décret et, pour la cotisation versée pour les salariés que, le cas échéant, il emploie, en pourcentage de leurs rémunérations brutes, selon des modalités fixées par décret.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1062, 1003-12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 90-85 1990-01-23",
+        "@cidtexte": "JORFTEXT000000525219",
+        "@datesignatexte": "1990-01-23",
+        "@id": "JORFTEXT000000525219",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX8900045L",
+        "@numtexte": "90-85",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi 91-1407 1991-12-31 art. 1063",
+        "@cidtexte": "JORFTEXT000000537781",
+        "@datesignatexte": "1991-12-31",
+        "@id": "JORFTEXT000000537781",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9100106L",
+        "@numtexte": "91-1407",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°95-95 du 1 février 1995 - art. 67 () JORF 2 février 1995",
+        "@cidtexte": "JORFTEXT000000734238",
+        "@datesignatexte": "1995-02-01",
+        "@id": "LEGIARTI000006600652",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9400137L",
+        "@num": "67",
+        "@numtexte": "95-95",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural ancien - art. 1062 (M)",
+        "@cidtexte": "LEGITEXT000006071366",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006580845",
+        "@naturetexte": "CODE",
+        "@num": "1062",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

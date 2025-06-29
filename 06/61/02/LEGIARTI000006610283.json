@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006610283",
+      "ANCIEN_ID": "RBAXXXXXXXX1X121L07AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/02/LEGIARTI000006610283.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L121-7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-02-07",
+        "DATE_FIN": "2012-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099185"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Régime forestier.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121939"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Office national des forêts.",
+                "@debut": "1979-02-07",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138668"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Dispositions générales.",
+                  "@debut": "1979-02-07",
+                  "@fin": "2012-07-01",
+                  "@id": "LEGISCTA000006152773"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006610283",
+          "@num": "L121-7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans la limite des attributions et compétences transférées à l'Office national des forêts, cet établissement est subrogé à l'Etat pour l'application des contrats passés avec des tiers antérieurement au 1er janvier 1966.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 64-1278 1964-12-23 art. 1 I al. 6",
+        "@cidtexte": "JORFTEXT000000684760",
+        "@datesignatexte": "1964-12-23",
+        "@id": "JORFTEXT000000684760",
+        "@naturetexte": "LOI",
+        "@numtexte": "64-1278",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 79-113 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2012-92\n du 26 janvier 2012 - art. 5",
+        "@cidtexte": "JORFTEXT000025213462",
+        "@datesignatexte": "2012-01-26",
+        "@id": "LEGIARTI000025243152",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRX1121770R",
+        "@num": "5",
+        "@numtexte": "2012-92",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

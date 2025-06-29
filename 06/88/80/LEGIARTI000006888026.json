@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888026",
+      "ANCIEN_ID": "UTIERXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/80/LEGIARTI000006888026.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-03-16",
+        "DATE_FIN": "1991-04-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 février 1973 relatif à l'équipement des passages à niveau",
+          "@c_titre_court": "Arrêté du 8 février 1973",
+          "@debut": "1973-03-16",
+          "@fin": "1991-04-14",
+          "@id_txt": "LEGITEXT000006075039"
+        }
+      ],
+      "@cid": "LEGITEXT000006075039",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1973-02-08",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-03-16",
+          "@etat": "ABROGE",
+          "@fin": "1991-04-14",
+          "@id": "LEGIARTI000006888026",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 11 décembre 1967 est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1967-12-11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1991-03-18 art. 25 JORF 14 avril 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1845-07-15",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

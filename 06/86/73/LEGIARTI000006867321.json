@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006867321",
+      "ANCIEN_ID": "UQHHWXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/73/LEGIARTI000006867321.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-07-07",
+        "DATE_FIN": "2007-10-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 2001-594 du 5 juillet 2001  relatif au Conseil national des déchets",
+          "@c_titre_court": "Décret n°2001-594 du 5 juillet 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000589511"
+        },
+        {
+          "#text": "Décret n°2001-594 du 5 juillet 2001 relatif au Conseil national des déchets.",
+          "@c_titre_court": "Décret n°2001-594 du 5 juillet 2001",
+          "@debut": "2001-07-07",
+          "@fin": "2007-10-16",
+          "@id_txt": "LEGITEXT000005631171"
+        }
+      ],
+      "@cid": "JORFTEXT000000589511",
+      "@date_publi": "2001-07-07",
+      "@date_signature": "2001-07-05",
+      "@ministere": "MINISTERE DE L'AMENAGEMENT DU TERRITOIRE ET DE L'ENVIRONNEMENT",
+      "@nature": "DECRET",
+      "@nor": "ATEP0190033D",
+      "@num": "2001-594",
+      "@num_parution_jo": "0156"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-07-07",
+          "@etat": "ABROGE",
+          "@fin": "2007-10-16",
+          "@id": "LEGIARTI000006867321",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le Conseil national des déchets arrête son règlement intérieur. Il peut constituer des groupes de travail auxquels peuvent être associées des personnalités autres que celles figurant à l'article 2. Les présidents des groupes de travail sont désignés par le président du Conseil national des déchets au sein de ce conseil.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2001-594 du 5 juillet 2001 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000589511",
+        "@datesignatexte": "2001-07-05",
+        "@id": "LEGIARTI000006867318",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ATEP0190033D",
+        "@num": "2",
+        "@numtexte": "2001-594",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2007-1467 2007-10-12 art. 4 JORF 16 octobre 2007",
+        "@cidtexte": "JORFTEXT000000825108",
+        "@datesignatexte": "2007-10-12",
+        "@id": "JORFTEXT000000825108",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVG0750611D",
+        "@numtexte": "2007-1467",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'environnement - art. D541-5 (M)",
+        "@cidtexte": "LEGITEXT000006074220",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006839081",
+        "@naturetexte": "CODE",
+        "@num": "D541-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

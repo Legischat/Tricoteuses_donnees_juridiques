@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579652",
+      "ANCIEN_ID": "RAA0XXXXXXX0212AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/96/LEGIARTI000006579652.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "212",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1955-04-19",
+        "DATE_FIN": "1999-01-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : De la garde des animaux domestiques",
+              "@debut": "1955-04-19",
+              "@fin": "1999-01-07",
+              "@id": "LEGISCTA000006121356"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : Des animaux dangereux et errants.",
+                "@debut": "1955-04-19",
+                "@fin": "1999-01-07",
+                "@id": "LEGISCTA000006138203"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "MODIFIE",
+          "@fin": "1999-01-07",
+          "@id": "LEGIARTI000006579652",
+          "@num": "212",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-01-07",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006579653",
+          "@num": "212",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque des animaux errants sans gardien, ou dont le gardien refuse de se faire connaître, sont trouvés pacageant sur des terrains appartenant à autrui, sur les accotements ou dépendances des routes, canaux, chemins ou sur des terrains communaux, le propriétaire lésé, ou son représentant, a le droit de les conduire ou de les faire conduire immédiatement au lieu de dépôt désigné par l'autorité municipale.<br/>\n<br/>   Le maire, s'il connaît le propriétaire responsable du dommage, lui en donne avis. Dans le cas contraire, il est procédé à la vente des animaux, conformément aux dispositions de l'article 200.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 200",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1898-06-21 art. 15 al. 1, al. 2",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

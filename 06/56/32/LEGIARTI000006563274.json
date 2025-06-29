@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006563274",
+      "ANCIEN_ID": "ADHJMXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/32/LEGIARTI000006563274.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-01-01",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-818 du 23 septembre 1967 DBO,GIM",
+          "@c_titre_court": "Décret n°67-818 du 23 septembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000513508"
+        },
+        {
+          "#text": "Décret n°67-818 du 23 septembre 1967 relatif aux transferts de débits de boissons dans la zone d'aménagement touristique du littoral Languedoc-Roussillon",
+          "@c_titre_court": "Décret n°67-818 du 23 septembre 1967",
+          "@debut": "1967-09-28",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006061481"
+        }
+      ],
+      "@cid": "JORFTEXT000000513508",
+      "@date_publi": "1967-09-28",
+      "@date_signature": "1967-09-23",
+      "@nature": "DECRET",
+      "@num": "67-818"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "MODIFIE",
+          "@fin": "2002-01-01",
+          "@id": "LEGIARTI000006563273",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006563274",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les infractions aux dispositions du présent décret sont punies d'une amende de 3750 euros et d'un emprisonnement d' un mois ou de l'une de ces deux peines seulement [*sanctions pénales*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-819 1967-09-23",
+        "@cidtexte": "JORFTEXT000000877288",
+        "@datesignatexte": "1967-09-23",
+        "@id": "JORFTEXT000000877288",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-819",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2001-373 du 27 avril 2001 - art. 1 (V) JORF 29 avril 2001 en vigueur le 1er janvier 2002",
+        "@cidtexte": "JORFTEXT000000391043",
+        "@datesignatexte": "2001-04-27",
+        "@id": "LEGIARTI000006499765",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC0120168D",
+        "@num": "1",
+        "@numtexte": "2001-373",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 6 15° JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

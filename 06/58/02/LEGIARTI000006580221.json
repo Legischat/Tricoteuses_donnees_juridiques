@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580221",
+      "ANCIEN_ID": "RAA0XXXXXXX0428AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/02/LEGIARTI000006580221.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "428",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1957-03-24",
+        "DATE_FIN": "1985-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : La chasse et la pêche",
+            "@debut": "1955-04-19",
+            "@fin": "1994-01-01",
+            "@id": "LEGISCTA000006098250"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre III : De la police de la pêche",
+              "@debut": "1955-04-19",
+              "@fin": "1989-11-04",
+              "@id": "LEGISCTA000006121374"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Dispositions générales et pénales.",
+                "@debut": "1955-04-19",
+                "@fin": "1989-11-04",
+                "@id": "LEGISCTA000006138239"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1957-03-24",
+          "@etat": "MODIFIE",
+          "@fin": "1985-07-01",
+          "@id": "LEGIARTI000006580221",
+          "@num": "428",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006580222",
+          "@num": "428",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des décrets rendus en Conseil d'Etat, après avis des conseils généraux, déterminent :<br/>\n<br/>   1° Les parties de fleuves, rivières, canaux et cours d'eau réservées pour la reproduction, et dans lesquelles la pêche des diverses espèces de poissons est absolument interdite pendant l'année entière ;<br/>\n<br/>   2° Les parties des fleuves, rivières, canaux et cours d'eau dans les barrages desquelles il peut être établi, après enquête, un passage appelé échelle, destiné à assurer la libre circulation du poisson, ainsi que, le cas échéant, des grilles, dans les canaux de fuite, en vue d'éviter la pénétration du poisson dans ces canaux.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L235-7",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1865-05-31 art. 1",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 57-362 1957-03-23 art. 3 JORF 24 mars 1957",
+        "@cidtexte": "JORFTEXT000000315391",
+        "@datesignatexte": "1957-03-23",
+        "@id": "JORFTEXT000000315391",
+        "@naturetexte": "LOI",
+        "@numtexte": "57-362",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

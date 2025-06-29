@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006620891",
+      "ANCIEN_ID": "RGAXXXXXXXX5X00157AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/08/LEGIARTI000006620891.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "157",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1936-12-24",
+        "DATE_FIN": "1977-05-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du vin",
+          "@c_titre_court": "Code du vin",
+          "@debut": "1936-12-24",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006071657"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : Vins mousseux",
+            "@debut": "1936-12-24",
+            "@fin": "1994-03-01",
+            "@id": "LEGISCTA000006099619"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section 1 : Vins de champagne",
+              "@debut": "1936-12-24",
+              "@fin": "1990-06-08",
+              "@id": "LEGISCTA000006122586"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Interdiction de fabriquer en \"Champagne\" des vins mousseux ordinaires.",
+                "@debut": "1936-12-24",
+                "@fin": "1977-05-24",
+                "@id": "LEGISCTA000006139285"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071657",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1936-12-24",
+          "@etat": "MODIFIE",
+          "@fin": "1977-05-24",
+          "@id": "LEGIARTI000006620891",
+          "@num": "157",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1977-05-24",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006620892",
+          "@num": "157",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute fabrication de vins mousseux autres que les vins récoltés à l'intérieur de la Champagne viticole délimitée est formellement interdite sur tous les territoires et communes prévus à l'article 39.<br/>\n<br/>   Est également interdite la vente de vins mousseux accompagnés d'un nom de commune comprise dans la Champagne viticole délimitée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du vin - art. 39 (Ab)",
+        "@cidtexte": "LEGITEXT000006071657",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006620675",
+        "@naturetexte": "CODE",
+        "@num": "39",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 1936-12-01",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1934-03-20 art. 1, art. 3",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

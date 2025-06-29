@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006431027",
+      "ANCIEN_ID": "PCIRYXXXXXXA00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/10/LEGIARTI000006431027.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1992-12-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 décembre 1992 pris en application de l'article R. 9-1 du code    des postes et télécommunications déterminant les conditions générales de    fourniture des services-supports",
+          "@c_titre_court": "Arrêté du 30 décembre 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000179254"
+        },
+        {
+          "#text": "Arrêté du 30 décembre 1992 pris en application de l'article R. 9-1 du code des postes et télécommunications déterminant les conditions générales de fourniture des services-supports",
+          "@c_titre_court": "Arrêté du 30 décembre 1992",
+          "@debut": "1992-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006080699"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1992-12-31",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006090294"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000179254",
+      "@date_publi": "1992-12-31",
+      "@date_signature": "1992-12-30",
+      "@ministere": "MINISTERE DU COMMERCE EXTERIEUR",
+      "@nature": "ARRETE",
+      "@nor": "PTTR9200691A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006431027",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "INDICATEURS DE PERMANENCE, DE DISPONIBILITÉ<br/>\n ET DE QUALITÉ DES SERVICES-SUPPORTS<br/>\n<br/>      Les indicateurs de référence pertinents visés au paragraphe 2.1 de l'article 1er du présent arrêté en matière de permanence, de disponibilité et de qualité de service sont les suivants :<br/>\n<br/>   Le délai type de raccordement, c'est-à-dire le délai maximum, exprimé en jours calendaires, qui, dans 80 p. 100 des cas, s'écoule entre une demande de raccordement et sa mise en service.<br/>\n Dr = Max [(D1-Dc)]<br/>\n<br/>      Dr = Délai de raccordement.<br/>\n<br/>   D1 = Date de \" livraison \" ou date à partir de laquelle la disponibilité peut être mesurée.<br/>\n<br/>   Dc = Date de commande par le client.<br/>\n<br/>   Cet indicateur est calculé sur la base de l'intégralité des demandes de raccordement satisfaites.<br/>\n<br/>   La disponibilité de l'accès au service, c'est-à-dire le pourcentage du temps pendant lequel le service est disponible, pour l'utilisateur.<br/>\n Ds = 1-(Tf/Tr)<br/>\n<br/>      Ds = Disponibilité de l'accès au service.<br/>\n<br/>   Tf = Temps d'indisponibilité dû au fournisseur pendant la durée de référence.<br/>\n<br/>   Tr = Durée de référence pendant laquelle l'indicateur est calculé.<br/>\n<br/>   Cet indicateur est calculé sur la base de l'ensemble des accès au réseau.<br/>\n<br/>   La durée type d'interruption, c'est-à-dire le délai maximum exprimé en heures, dans lequel 80 p. 100 des interruptions signalées par un client sont rétablies.<br/>\n Dmi = Max [(Drf-Ddi)]<br/>\n<br/>      Dmi = Durée moyenne d'interruption.<br/>\n<br/>   Drf = Date et heure de remise en fonction.<br/>\n<br/>   Ddi = Date et heure de début d'indisponibilité.<br/>\n<br/>   Cet indicateur est calculé sur la base de l'ensemble des interruptions.<br/>\n<br/>   L'espérance de vie d'une communication, c'est-à-dire le temps pendant lequel une communication est maintenue sans faire l'objet d'une coupure due au fournisseur.<br/>\n Ev = S(DC)/nr<br/>\n<br/>      Le résultat est exprimé en heures.<br/>\n<br/>   Ce paramètre ne s'applique qu'aux services en mode connecté.<br/>\n<br/>   Ev = Espérance de vie d'une communication.<br/>\n<br/>   S(DC) = Somme des durées de communication effectuées par le client pendant la période de référence donnée.<br/>\n<br/>   nr = Nombre de coupures de communications dues au fournisseur pendant la période de référence donnée.<br/>\n<br/>   Cet indicateur est calculé sur la base de l'ensemble des communications.<br/>\n<br/>   Les indicateurs décrits ci-dessus sont mesurés sur une base trimestrielle et sont rendus disponibles au début de chaque trimestre suivant cette mesure. Ils restent accessibles à toute personne qui en fait la demande pendant une période de quatre trimestres.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1992-12-30 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

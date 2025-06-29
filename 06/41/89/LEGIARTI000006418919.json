@@ -1,0 +1,142 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006418919",
+      "ANCIEN_ID": "PCAXXXXXXXX1X511L18BXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/41/89/LEGIARTI000006418919.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "511-18-1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2004-08-07",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code pénal",
+          "@c_titre_court": "Code pénal",
+          "@debut": "1990-09-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070719"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1990-09-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089684"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Des autres crimes et délits",
+              "@debut": "1994-03-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117604"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre Ier : Des infractions en matière de santé publique",
+                "@debut": "1994-07-30",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006136050"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Des infractions en matière d'éthique biomédicale",
+                  "@debut": "1994-07-30",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006149859"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 3 : De la protection de l'embryon humain",
+                    "@debut": "1994-07-30",
+                    "@fin": "2999-01-01",
+                    "@id": "LEGISCTA000006165391"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070719",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-08-07",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006418919",
+          "@num": "511-18-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le fait de procéder à la constitution par clonage d'embryons humains à des fins thérapeutiques est puni de sept ans d'emprisonnement et de 100 000 euros d'amende. </p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 92-1336 1992-12-16",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "JORFTEXT000000177662",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°2004-800 du 6 août 2004 - art. 28 () JORF 7 août 2004",
+        "@cidtexte": "JORFTEXT000000441469",
+        "@datesignatexte": "2004-08-06",
+        "@id": "LEGIARTI000006697598",
+        "@naturetexte": "LOI",
+        "@nortexte": "SANX0100053L",
+        "@num": "28",
+        "@numtexte": "2004-800",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L2163-5 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006687511",
+        "@naturetexte": "CODE",
+        "@num": "L2163-5",
+        "@sens": "cible",
+        "@typelien": "PILOTE_SUIVEUR"
+      }
+    ]
+  }
+}

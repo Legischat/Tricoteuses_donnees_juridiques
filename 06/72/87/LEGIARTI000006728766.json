@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006728766",
+      "ANCIEN_ID": "SQIERXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/87/LEGIARTI000006728766.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-08-24",
+        "DATE_FIN": "2006-10-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 septembre 1985 fixant le régime des années-recherche durant l'internat de médecine et l'internat de pharmacie.",
+          "@c_titre_court": "Arrêté du 27 septembre 1985",
+          "@debut": "1985-09-28",
+          "@fin": "2006-10-25",
+          "@id_txt": "LEGITEXT000006073173"
+        }
+      ],
+      "@cid": "LEGITEXT000006073173",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-09-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-09-28",
+          "@etat": "MODIFIE",
+          "@fin": "1989-08-24",
+          "@id": "LEGIARTI000006728765",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-08-24",
+          "@etat": "ABROGE",
+          "@fin": "2006-10-25",
+          "@id": "LEGIARTI000006728766",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour obtenir un diplôme d'études approfondies [*D.E.A.*], les internes en médecine soumis aux dispositions des décrets du 9 juillet 1984 ou du 7 avril 1988 susvisés et les internes en pharmacie soumis aux dispositions des décrets du 12 octobre 1984 ou du 19 octobre 1988 susvisés effectuent, dans le cadre de l'année-recherche, les stages dans les laboratoires agréés définis à l'article 2 ci-dessous.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-09-27 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1989-08-17 art. 1 JORF 24 août 1989",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2006-10-04 art. 8 JORF 25 octobre 2006",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 1988-10-19",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 84-586 1984-07-09",
+        "@cidtexte": "JORFTEXT000000332477",
+        "@datesignatexte": "1984-07-09",
+        "@id": "JORFTEXT000000332477",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-586",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 84-913 1984-10-12",
+        "@cidtexte": "JORFTEXT000000507682",
+        "@datesignatexte": "1984-10-12",
+        "@id": "JORFTEXT000000507682",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-913",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

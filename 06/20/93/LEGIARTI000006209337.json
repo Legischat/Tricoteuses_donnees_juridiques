@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006209337",
+      "ANCIEN_ID": "RAIGVXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/93/LEGIARTI000006209337.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-03-21",
+        "DATE_FIN": "2019-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 mars 2002 relatif au projet d'amélioration des pratiques agronomiques",
+          "@c_titre_court": "Arrêté du 7 mars 2002",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000770916"
+        },
+        {
+          "#text": "Arrêté du 7 mars 2002 relatif au projet d'amélioration des pratiques agronomiques",
+          "@c_titre_court": "Arrêté du 7 mars 2002",
+          "@debut": "2002-03-21",
+          "@fin": "2019-07-01",
+          "@id_txt": "LEGITEXT000005632472"
+        }
+      ],
+      "@cid": "JORFTEXT000000770916",
+      "@date_publi": "2002-03-21",
+      "@date_signature": "2002-03-07",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "ARRETE",
+      "@nor": "AGRR0200521D",
+      "@num_parution_jo": "0068"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-03-21",
+          "@etat": "ABROGE",
+          "@fin": "2019-07-01",
+          "@id": "LEGIARTI000006209337",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001432036",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent arrêté définit le contenu du projet d'amélioration des pratiques agronomiques, dénommé ci-après \"projet agronomique\" visé à l'article 2 du décret du 4 janvier 2002 susvisé. Sa fourniture conditionne le versement du solde de la subvention pour les travaux dans les conditions prévues à l'article 15 de l'arrêté du 26 février 2002 relatif aux aides pour la maîtrise des pollutions liées aux effluents d'élevage.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2002-02-26 art. 15",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2002-26 du 4 janvier 2002 - art. 2",
+        "@cidtexte": "JORFTEXT000000409611",
+        "@datesignatexte": "2002-01-04",
+        "@id": "JORFARTI000002112089",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRR0102306D",
+        "@num": "2",
+        "@numtexte": "2002-26",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 21 août 2018 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000037335774",
+        "@datesignatexte": "2018-08-21",
+        "@id": "LEGIARTI000037339948",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "CPAB1819920A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

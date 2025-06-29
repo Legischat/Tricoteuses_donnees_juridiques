@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861301",
+      "ANCIEN_ID": "UPIFRXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/13/LEGIARTI000006861301.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE II",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-06-16",
+        "DATE_FIN": "1984-10-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 18 mai 1979 relatif à l'équipement des véhicules automobiles utilisant comme source d'énergie les gaz des pétroles liquéfiés *carburant*",
+          "@c_titre_court": "Arrêté du 18 mai 1979",
+          "@debut": "1979-06-16",
+          "@fin": "1982-10-01",
+          "@id_txt": "LEGITEXT000006074465"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1979-06-16",
+            "@fin": "1984-10-01",
+            "@id": "LEGISCTA000006110101"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Certificat de montage *modèle*",
+              "@debut": "1979-06-16",
+              "@fin": "1984-10-01",
+              "@id": "LEGISCTA000006130066"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074465",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-05-18",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-06-16",
+          "@etat": "ABROGE",
+          "@fin": "1984-10-01",
+          "@id": "LEGIARTI000006861301",
+          "@num": "ANNEXE II",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Nous, soussignés ... certifions que l'installation réalisée par nos services sur le véhicule ci-après, est conforme aux dispositions de l'arrêté du ... relatif à l'équipement des véhicules automobiles utilisant comme source d'énergie les gaz de pétrole liquéfiés.<br/>\n<br/>   Description du véhicule.<br/>\n<br/>   Marque : ...<br/>\n<br/>   Type : ...<br/>\n<br/>   Numéro de série : ...<br/>\n<br/>   Numéro d'immatriculation : ...<br/>\n<br/>   Description de l'installation de gaz de pétrole liquéfiés (schéma joint).<br/>\n<br/>   Nature du carburant : ...<br/>\n<br/>   Réservoir (procès-verbal d'essais conformément au point 1.2.3., annexe I joint) : ...<br/>\n<br/>   Marque : ...<br/>\n<br/>   Numéro : ...<br/>\n<br/>   Contenance : ...<br/>\n<br/>   Date d'épreuve (procès-verbal d'essai joint) : ...<br/>\n<br/>   Date de visite : ...<br/>\n<br/>   Canalisation (nature et longueurs) : ...<br/>\n<br/>   Installateur :<br/>\n<br/>   Nom : ...<br/>\n<br/>   Adresse : ...<br/>\n<br/>   Fait à ..., le ...<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-01-07 art. 10 JONC 18 mars 1982  en vigueur le 1er octobre 1984",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 1982-01-07 art. 9 :",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code de la route R69, R105, R106",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Les dispositions de l'arrêté du 18 mai 1979 relatif à l'équipement des véhicules automobiles utilisant comme source d'énergie les gaz de pétrole liquéfiés demeurent valables pour les véhicules réceptionnés avant le 1er octobre 1982 et pour les véhicu",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

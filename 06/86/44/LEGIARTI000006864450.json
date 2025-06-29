@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006864450",
+      "ANCIEN_ID": "UPIWDXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/44/LEGIARTI000006864450.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-11-08",
+        "DATE_FIN": "1998-03-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 septembre 1985 relatif aux rejets de cadmium dans les eaux en provenance des ateliers de fabrication de batteries",
+          "@c_titre_court": "Arrêté du 26 septembre 1985",
+          "@debut": "1985-11-16",
+          "@fin": "1998-03-03",
+          "@id_txt": "LEGITEXT000006074777"
+        }
+      ],
+      "@cid": "LEGITEXT000006074777",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-09-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-11-16",
+          "@etat": "MODIFIE",
+          "@fin": "1990-11-08",
+          "@id": "LEGIARTI000006864449",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-11-08",
+          "@etat": "ABROGE",
+          "@fin": "1998-03-03",
+          "@id": "LEGIARTI000006864450",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les arrêtés préfectoraux d'autorisation ou des arrêtés complémentaires fixent, si nécessaire, les modalités détaillées d'application du présent arrêté.</p>\n<br/>\n<br/>\n<p>En particulier, ces arrêtés fixent pour chacun des points de rejet de l'établissement des normes en concentration inférieures ou égales aux normes prévues à l'article 1er en tenant compte d'une éventuelle dilution par des effluents non pollués de l'établissement.</p>\n<br/>\n<p>Ils peuvent, si nécessaire, instaurer une autosurveillance simplifiée pour les établissements rejetant moins de 10 kg de cadmium ou moins de 7,5 kg de mercure par an.</p>\n<br/>\n<p>\" Les conditions techniques de rejet sont réexaminées au moins tous les quatre ans \".</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-09-26 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1990-08-16 art. 1 JORF 8 novembre 1990",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 2 février 1998 - art. 75 (V)",
+        "@cidtexte": "JORFTEXT000000204891",
+        "@datesignatexte": "1998-02-02",
+        "@id": "LEGIARTI000006862415",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ATEP9870017A",
+        "@num": "75",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

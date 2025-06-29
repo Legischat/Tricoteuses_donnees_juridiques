@@ -1,0 +1,165 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006650111",
+      "ANCIEN_ID": "SAAXXXXXXXX1X512L03AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/01/LEGIARTI000006650111.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L512-3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-01-19",
+        "DATE_FIN": "1986-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CONFLITS DU TRAVAIL",
+              "@debut": "1973-11-23",
+              "@fin": "1987-07-16",
+              "@id": "LEGISCTA000006123889"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES",
+                "@debut": "1973-11-23",
+                "@fin": "1986-12-31",
+                "@id": "LEGISCTA000006139847"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "ORGANISATION ET FONCTIONNEMENT DES CONSEILS DE PRUD'HOMMES.",
+                  "@debut": "1979-01-19",
+                  "@fin": "1986-12-31",
+                  "@id": "LEGISCTA000006154205"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "MODIFIE",
+          "@fin": "1979-01-19",
+          "@id": "LEGIARTI000006650110",
+          "@num": "L512-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-01-19",
+          "@etat": "MODIFIE",
+          "@fin": "1986-12-31",
+          "@id": "LEGIARTI000006650111",
+          "@num": "L512-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000006650112",
+          "@num": "L512-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Plusieurs chambres peuvent être constituées au sein d'une même section de conseil de prud'hommes. Chaque chambre comprend au moins quatre conseillers employeurs et quatre conseillers salariés.<br/>\n<br/>   La constitution des chambres est décidée par le premier président de la cour d'appel, sur proposition de l'assemblée générale du conseil de prud'hommes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1047 1973-11-15",
+        "@cidtexte": "JORFTEXT000000514726",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000514726",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1047",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail - art. R512-1 (P)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006804550",
+        "@naturetexte": "CODE",
+        "@num": "R512-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R512-3 (VT)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018507941",
+        "@naturetexte": "CODE",
+        "@num": "R512-3",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail R1423-5, R1423-6, R1423-7",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 1958-12-22 ART. 7",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

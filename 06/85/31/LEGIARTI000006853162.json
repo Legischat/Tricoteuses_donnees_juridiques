@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006853162",
+      "ANCIEN_ID": "UPHDJXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/31/LEGIARTI000006853162.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-12-21",
+        "DATE_FIN": "1989-07-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-1101 du 20 décembre 1979 MISE EN OEUVRE DU PLAN DE CHASSE DU GRAND GIBIER",
+          "@c_titre_court": "Décret n°79-1101 du 20 décembre 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000697295"
+        },
+        {
+          "#text": "Décret n°79-1101 du 20 décembre 1979 relatif à la mise en oeuvre du plan de chasse du grand gibier",
+          "@c_titre_court": "Décret n°79-1101 du 20 décembre 1979",
+          "@debut": "1979-12-21",
+          "@fin": "1989-07-21",
+          "@id_txt": "LEGITEXT000006062965"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Plans de chasse individuels",
+            "@debut": "1979-12-21",
+            "@fin": "1989-07-21",
+            "@id": "LEGISCTA000006109261"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000697295",
+      "@date_publi": "1979-12-21",
+      "@date_signature": "1979-12-20",
+      "@nature": "DECRET",
+      "@num": "79-1101"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-12-21",
+          "@etat": "ABROGE",
+          "@fin": "1989-07-21",
+          "@id": "LEGIARTI000006853162",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Au vu des propositions de la commission [*pour l'indemnisation des dégâts de gibier*], le préfet arrête l'ensemble des plans de chasse individuels. Il notifie à chaque demandeur le plan de chasse individuel qui le concerne, sous forme d'un arrêté individuel établi conformément à un modèle déterminé par arrêté du ministre chargé de la chasse. L'arrêté préfectoral précise à chaque bénéficiaire le montant de la taxe qu'il doit en application de l'article 17 de la loi susvisée du 29 décembre 1978.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 78-1240 1978-12-29 ART. 17",
+        "@cidtexte": "JORFTEXT000000522721",
+        "@datesignatexte": "1978-12-29",
+        "@id": "JORFTEXT000000522721",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-1240",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°79-1101 du 20 décembre 1979 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000000697295",
+        "@datesignatexte": "1979-12-20",
+        "@id": "LEGIARTI000006853163",
+        "@naturetexte": "DECRET",
+        "@num": "9",
+        "@numtexte": "79-1101",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°89-505 du 19 juillet 1989 - art. 1 (Ab) JORF 21 juillet 1989",
+        "@cidtexte": "JORFTEXT000000885797",
+        "@datesignatexte": "1989-07-19",
+        "@id": "LEGIARTI000006858501",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRME8961349D",
+        "@num": "1",
+        "@numtexte": "89-505",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

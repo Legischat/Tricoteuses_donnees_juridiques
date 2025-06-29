@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327848",
+      "ANCIEN_ID": "FAIPKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/78/LEGIARTI000006327848.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1986-01-11",
+        "DATE_FIN": "1986-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 décembre 1985 fixant le taux de la taxe parafiscale instituée au profit de l'Institut des corps gras",
+          "@c_titre_court": "Arrêté du 31 décembre 1985",
+          "@debut": "1986-01-11",
+          "@fin": "1986-12-31",
+          "@id_txt": "LEGITEXT000006069939"
+        }
+      ],
+      "@cid": "LEGITEXT000006069939",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-12-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-11",
+          "@etat": "PERIME",
+          "@fin": "1986-12-31",
+          "@id": "LEGIARTI000006327848",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La taxe parafiscale instituée par l'article 1er du décret n° 83-207 du 17 mars 1983 est perçue au taux de 0,70 p. 1000 pour l'année 1986.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°83-207 du 17 mars 1983 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000877480",
+        "@datesignatexte": "1983-03-17",
+        "@id": "LEGIARTI000006324213",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "83-207",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°83-207 du 17 mars 1983 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000877480",
+        "@datesignatexte": "1983-03-17",
+        "@id": "LEGIARTI000006324217",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "83-207",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

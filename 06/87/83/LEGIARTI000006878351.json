@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006878351",
+      "ANCIEN_ID": "UTEABXXXXXX042AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/83/LEGIARTI000006878351.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "42",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-02-04",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Loi n° 67-5 du 3 janvier 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878026"
+        },
+        {
+          "#text": "Loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Loi n° 67-5 du 3 janvier 1967",
+          "@debut": "1968-02-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068306"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre V : Privilèges sur les navires",
+            "@debut": "1968-02-04",
+            "@fin": "2010-12-01",
+            "@id": "LEGISCTA000006111566"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000878026",
+      "@date_publi": "1967-01-04",
+      "@date_signature": "1967-01-03",
+      "@nature": "LOI",
+      "@num": "67-5"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-02-04",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006878351",
+          "@num": "42",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions des articles 31 à 41 s'appliquent aux navires exploités, soit par le propriétaire, soit par un armateur non propriétaire, soit par un affréteur principal, sauf lorsque le propriétaire s'est trouvé dessaisi par un acte illicite et que, en outre, le créancier n'est pas de bonne foi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 67-5 du 3 janvier 1967",
+        "@cidtexte": "JORFTEXT000000878026",
+        "@datesignatexte": "1967-01-03",
+        "@id": "JORFTEXT000000878026",
+        "@naturetexte": "LOI",
+        "@numtexte": "67-5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°67-5 du 3 janvier 1967 - art. 73 (V)",
+        "@cidtexte": "JORFTEXT000000878026",
+        "@datesignatexte": "1967-01-03",
+        "@id": "LEGIARTI000006878388",
+        "@naturetexte": "LOI",
+        "@num": "73",
+        "@numtexte": "67-5",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 67-967 1967-10-27",
+        "@cidtexte": "JORFTEXT000000702914",
+        "@datesignatexte": "1967-10-27",
+        "@id": "JORFTEXT000000702914",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-967",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des transports - art. L5114-7 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023081834",
+        "@naturetexte": "CODE",
+        "@num": "L5114-7",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

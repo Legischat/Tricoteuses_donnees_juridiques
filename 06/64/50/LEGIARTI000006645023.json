@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006645023",
+      "ANCIEN_ID": "SAAXXXXXXXX3X732D09AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/50/LEGIARTI000006645023.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "D732-9",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1994-07-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets simples",
+            "@debut": "1973-08-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101374"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre VII : Dispositions particulières à certaines professions",
+              "@debut": "1973-11-23",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123863"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre III : Bâtiment et travaux publics",
+                "@debut": "1973-11-23",
+                "@fin": "2008-05-01",
+                "@id": "LEGISCTA000018518852"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : Congés payés des professions du bâtiment et des travaux publics.",
+                  "@debut": "1973-11-23",
+                  "@fin": "2008-05-01",
+                  "@id": "LEGISCTA000018518850"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "TRANSFERE",
+          "@fin": "1994-07-12",
+          "@id": "LEGIARTI000006645023",
+          "@num": "D732-9",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-07-12",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018518824",
+          "@num": "D732-9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est institué auprès de chaque caisse une commission composée, en nombre égal, de membres patrons et salariés désignés par le directeur départemental du travail et de la main-d'oeuvre et choisis parmi les organisations patronales et ouvrières les plus représentatives de la région considérée pour les professions assujetties.<br/>\n<br/>   Cette commission statue sur toutes les attributions qui pourraient s'élever au sujet du droit aux congés des travailleurs déclarés à la caisse.<br/>\n<br/>   Les caisses sont soumises pour l'application des lois et règlements relatifs aux congés payés, au contrôle permanent du service chargé de l'inspection du travail dans les professions intéressées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 49-629 1949-04-30 ART. 9",
+        "@cidtexte": "JORFTEXT000000484231",
+        "@datesignatexte": "1949-04-30",
+        "@id": "JORFTEXT000000484231",
+        "@naturetexte": "DECRET",
+        "@numtexte": "49-629",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail - art. D732-10 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006645025",
+        "@naturetexte": "CODE",
+        "@num": "D732-10",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail - art. D732-10 (V)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018518822",
+        "@naturetexte": "CODE",
+        "@num": "D732-10",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

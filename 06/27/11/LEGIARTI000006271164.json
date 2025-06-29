@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006271164",
+      "ANCIEN_ID": "ANEAEXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/11/LEGIARTI000006271164.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1960-02-28",
+        "DATE_FIN": "2013-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 571 du 28 octobre 1943 relative aux appareils à pression de vapeur employés à terre et aux appareils à pression de gaz employés à terre ou à bord des bateaux de navigation maritime",
+          "@c_titre_court": "Loi n° 571 du 28 octobre 1943",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517650"
+        },
+        {
+          "#text": "Loi du 28 octobre 1943 relative aux appareils à pression de vapeur employés à terre et aux appareils à pression de gaz employés à terre ou à bord des bateaux de navigation maritime.",
+          "@c_titre_court": "Loi n° 571 du 28 octobre 1943",
+          "@debut": "1943-10-29",
+          "@fin": "2013-07-01",
+          "@id_txt": "LEGITEXT000006060431"
+        }
+      ],
+      "@cid": "JORFTEXT000000517650",
+      "@date_publi": "1943-10-29",
+      "@date_signature": "1943-10-28",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-02-28",
+          "@etat": "ABROGE",
+          "@fin": "2013-07-01",
+          "@id": "LEGIARTI000006271164",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des décrets en Conseil d'Etat pourront fixer, en vue de garantir la sécurité du public et du personnel, les conditions de construction, de mise en service, d'installation, d'entretien et d'emploi des appareils à pression de vapeur ou de gaz visés à l'article 1er (paragraphe 1) ci-dessus.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 60-178 1960-02-23 art. 1 JORF 28 février 1960",
+        "@cidtexte": "JORFTEXT000000507797",
+        "@datesignatexte": "1960-02-23",
+        "@id": "JORFTEXT000000507797",
+        "@naturetexte": "DECRET",
+        "@numtexte": "60-178",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2013-619\n du 16 juillet 2013 - art. 46 (V)",
+        "@cidtexte": "JORFTEXT000027713399",
+        "@datesignatexte": "2013-07-16",
+        "@id": "LEGIARTI000027715457",
+        "@naturetexte": "LOI",
+        "@nortexte": "DEVK1240259L",
+        "@num": "46",
+        "@numtexte": "2013-619",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1943-10-28 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

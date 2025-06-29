@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006442548",
+      "ANCIEN_ID": "PEHMNXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/25/LEGIARTI000006442548.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-02-08",
+        "DATE_FIN": "2014-07-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 95-729 du 10 mai 1995 relatif à l'Ecole spéciale militaire de Saint-Cyr",
+          "@c_titre_court": "Décret n° 95-729 du 10 mai 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000536205"
+        },
+        {
+          "#text": "Décret n°95-729 du 10 mai 1995 relatif à l'Ecole spéciale militaire de Saint-Cyr",
+          "@c_titre_court": "Décret n°95-729 du 10 mai 1995",
+          "@debut": "1995-05-13",
+          "@fin": "2014-07-21",
+          "@id_txt": "LEGITEXT000005618888"
+        }
+      ],
+      "@cid": "JORFTEXT000000536205",
+      "@date_publi": "1995-05-13",
+      "@date_signature": "1995-05-10",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "DECRET",
+      "@nor": "DEFP9501562D",
+      "@num": "95-729"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-05-13",
+          "@etat": "MODIFIE",
+          "@fin": "2003-02-08",
+          "@id": "LEGIARTI000006442547",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-02-08",
+          "@etat": "ABROGE",
+          "@fin": "2014-07-21",
+          "@id": "LEGIARTI000006442548",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le diplôme de l'Ecole spéciale de Saint-Cyr sanctionne les études des élèves qui ont suivi avec succès le cursus de formation de cette école, prévu aux articles 12 et 14 du décret du 22 décembre 1975 précité.<br/>\n<br/>   Ce diplôme est attribué par le ministre de la défense, sur proposition d'un jury de diplôme.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°75-1206 du 22 décembre 1975 - art. 12",
+        "@cidtexte": "JORFTEXT000000688961",
+        "@datesignatexte": "1975-12-22",
+        "@id": "LEGIARTI000006479258",
+        "@naturetexte": "DECRET",
+        "@num": "12",
+        "@numtexte": "75-1206",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2003-99 du 6 février 2003 - art. 1 () JORF 8 février 2003",
+        "@cidtexte": "JORFTEXT000000235871",
+        "@datesignatexte": "2003-02-06",
+        "@id": "LEGIARTI000006217063",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFP0301085D",
+        "@num": "1",
+        "@numtexte": "2003-99",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "DÉCRET n°2014-823 du 18 juillet 2014 - art. 7",
+        "@cidtexte": "JORFTEXT000029263892",
+        "@datesignatexte": "2014-07-18",
+        "@id": "LEGIARTI000029265197",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFH1400639D",
+        "@num": "7",
+        "@numtexte": "2014-823",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

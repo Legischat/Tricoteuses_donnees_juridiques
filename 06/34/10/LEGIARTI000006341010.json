@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006341010",
+      "ANCIEN_ID": "MCF01XXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/10/LEGIARTI000006341010.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-06",
+        "DATE_FIN": "1977-02-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°59-30 du 5 janvier 1959 TENDANT A INSTITUER DES DISTRICTS URBAINS DANS LES GRANDES AGGLOMERATIONS",
+          "@c_titre_court": "Ordonnance n°59-30 du 5 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687698"
+        },
+        {
+          "#text": "Ordonnance n°59-30 du 5 janvier 1959 tendant à instituer des districts *ancien intitulé modifié par la loi du 31 décembre 1970 : ordonnance tendant à instituer des districts urbains dans les grandes agglomérations*.",
+          "@c_titre_court": "Ordonnance n°59-30 du 5 janvier 1959",
+          "@debut": "1959-01-06",
+          "@fin": "2007-09-01",
+          "@id_txt": "LEGITEXT000006069262"
+        }
+      ],
+      "@cid": "JORFTEXT000000687698",
+      "@date_publi": "1959-01-06",
+      "@date_signature": "1959-01-05",
+      "@nature": "ORDONNANCE",
+      "@num": "59-30"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-06",
+          "@etat": "MODIFIE",
+          "@fin": "1971-01-01",
+          "@id": "LEGIARTI000006341009",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-06",
+          "@etat": "ABROGE",
+          "@fin": "1977-02-03",
+          "@id": "LEGIARTI000006341010",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le conseil du district prévu à l'article suivant délibère,<br/>\n à la majorité des deux tiers au moins de ses membres représentant plus de la moitié de la population ou à la majorité de ses membres représentant plus des deux tiers de la population *proportion*, sur la modification des conditions initiales de fonctionnement ou de durée du district ainsi que sur l'extension de ses attributions. Les conseils municipaux sont obligatoirement consultés. <br/>\n    La décision est prise par le ou les préfets intéressés.<br/>\n Il ne peut toutefois être passé outre à l'opposition de plus d'un tiers des conseils municipaux.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°59-30 du 5 janvier 1959 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000687698",
+        "@datesignatexte": "1959-01-05",
+        "@id": "LEGIARTI000006341011",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "5",
+        "@numtexte": "59-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 77-91 1977-01-27 : *abrogation partielle du présent article en ses dispositions de caractère réglementaire reprises sous l'article R164-5 du Code des Communes",
+        "@cidtexte": "JORFTEXT000000335057",
+        "@datesignatexte": "1977-01-27",
+        "@id": "JORFTEXT000000335057",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-91",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "CODE DES COMMUNES. - art. L164-7 (M)",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006345611",
+        "@naturetexte": "CODE",
+        "@num": "L164-7",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code des communes R164-5",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070162",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Les dispositions législatives demeurent en vigueur en l'absence de loi de validation*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

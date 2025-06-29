@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602205",
+      "ANCIEN_ID": "RAHBVXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/22/LEGIARTI000006602205.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-02-06",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°81-113 du 4 février 1981 LE FONDS DE PROMOTION DES PRODUITS AGRICOLES ET ALIMENTAIRES EST GERE PAR UNE ASSOCIATION DE LA LOI DU 01-07-1901",
+          "@c_titre_court": "Décret n°81-113 du 4 février 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000308856"
+        },
+        {
+          "#text": "Décret n°81-113 du 4 février 1981 relatif au fonds de promotion des produits agricoles et alimentaires",
+          "@c_titre_court": "Décret n°81-113 du 4 février 1981",
+          "@debut": "1981-02-06",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006063406"
+        }
+      ],
+      "@cid": "JORFTEXT000000308856",
+      "@date_publi": "1981-02-06",
+      "@date_signature": "1981-02-04",
+      "@nature": "DECRET",
+      "@num": "81-113"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-02-06",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006602205",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La gestion du fonds de promotion des produits agricoles et alimentaires est assurée par une association de la loi du 1er juillet 1901 dont les statuts sont approuvés par décret en Conseil d'Etat.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°81-113 du 4 février 1981 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000308856",
+        "@datesignatexte": "1981-02-04",
+        "@id": "LEGIARTI000006602203",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "81-113",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1901-07-01",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

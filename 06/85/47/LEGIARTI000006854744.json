@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006854744",
+      "ANCIEN_ID": "UPHIZXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/47/LEGIARTI000006854744.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-04-06",
+        "DATE_FIN": "1982-11-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°58-368 du 2 avril 1958 ATION DE LA PECHE DANS LES EAUX FRANCAISES DU LAC LEMAN",
+          "@c_titre_court": "Décret n°58-368 du 2 avril 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000684339"
+        },
+        {
+          "#text": "Décret n°58-368 du 2 avril 1958 relatif à la réglementation de la pêche dans les eaux françaises du Lac Léman",
+          "@c_titre_court": "Décret n°58-368 du 2 avril 1958",
+          "@debut": "1958-04-06",
+          "@fin": "1982-11-20",
+          "@id_txt": "LEGITEXT000006060830"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Périodes et heures d'interdiction",
+            "@debut": "1958-04-06",
+            "@fin": "1982-11-20",
+            "@id": "LEGISCTA000006109490"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000684339",
+      "@date_publi": "1958-04-06",
+      "@date_signature": "1958-04-02",
+      "@nature": "DECRET",
+      "@num": "58-368"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-04-06",
+          "@etat": "ABROGE",
+          "@fin": "1982-11-20",
+          "@id": "LEGIARTI000006854744",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les filets ou engins ne peuvent être placés, manoeuvrés ou relevés que pendant les heures où la pêche est permise ; leur séjour dans l'eau est autorisé à toute heure.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 58-368 1958-04-02 JORF 6 AVRIL 1958 Rectificatif JORF 19 OCTOBRE 1960",
+        "@cidtexte": "JORFTEXT000000684339",
+        "@datesignatexte": "1958-04-02",
+        "@id": "JORFTEXT000000684339",
+        "@naturetexte": "DECRET",
+        "@numtexte": "58-368",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°82-978 du 17 novembre 1982 - art. 23 (Ab) JORF 20 NOVEMBRE 1982",
+        "@cidtexte": "JORFTEXT000000880460",
+        "@datesignatexte": "1982-11-17",
+        "@id": "LEGIARTI000006855702",
+        "@naturetexte": "DECRET",
+        "@num": "23",
+        "@numtexte": "82-978",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

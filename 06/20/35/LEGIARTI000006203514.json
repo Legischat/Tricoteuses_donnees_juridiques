@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006203514",
+      "ANCIEN_ID": "AKIAVXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/35/LEGIARTI000006203514.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-11-29",
+        "DATE_FIN": "1992-08-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 août 1972 relatif aux documents comptables des personnes inscrites sur la liste des conseils juridiques",
+          "@c_titre_court": "Arrêté du 4 août 1972",
+          "@debut": "1972-08-19",
+          "@fin": "1992-08-06",
+          "@id_txt": "LEGITEXT000005625577"
+        }
+      ],
+      "@cid": "LEGITEXT000005625577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-08-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-11-29",
+          "@etat": "ABROGE",
+          "@fin": "1992-08-06",
+          "@id": "LEGIARTI000006203514",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute personne physique inscrite sur la liste des conseils juridiques et exerçant sa profession à titre individuel et toute société de conseils juridiques ou groupement mentionné à l'article 64 de la loi susvisée n° 71-1130 du 31 décembre 1971, doivent tenir une comptabilité comportant au moins les documents suivants [*documents obligatoires - liste*] :<br/>\n<br/>   Un livre journal ;<br/>\n<br/>   Une comptabilité-clients des fonds reçus ;<br/>\n<br/>   Une comptabilité-clients des valeurs et effets reçus ;<br/>\n<br/>   Des reçus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-11-17 art. 1 JORF 29 novembre 1986",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1992-07-22 art. 4 JORF 6 août 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°71-1130 du 31 décembre 1971 - art. 64 (M)",
+        "@cidtexte": "JORFTEXT000000508793",
+        "@datesignatexte": "1971-12-31",
+        "@id": "LEGIARTI000006903452",
+        "@naturetexte": "LOI",
+        "@num": "64",
+        "@numtexte": "71-1130",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 72-671 1972-07-13 art. 24, art. 25",
+        "@cidtexte": "JORFTEXT000000679983",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000679983",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-671",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

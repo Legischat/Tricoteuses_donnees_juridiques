@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006847358",
+      "ANCIEN_ID": "UPECMXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/73/LEGIARTI000006847358.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1949-12-02",
+        "DATE_FIN": "1955-05-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 1er décembre 1949 relative à l'interdiction de l'emploi des gaz toxiques dans la désinsectisation, la dératisation ou la désinfection des locaux",
+          "@c_titre_court": "Loi du 1er décembre 1949",
+          "@debut": "1949-12-02",
+          "@fin": "1955-05-12",
+          "@id_txt": "LEGITEXT000006074256"
+        }
+      ],
+      "@cid": "LEGITEXT000006074256",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1949-12-01",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1949-12-02",
+          "@etat": "ABROGE",
+          "@fin": "1955-05-12",
+          "@id": "LEGIARTI000006847358",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute infraction aux dispositions de l'article précédent sera punie [*sanction*] d'une amende de 2000 à 20000 F et pourra l'être, en outre, de l'emprisonnement de 10 jours ou plus.<br/>\n<br/>   En cas de récidive, dans le délai de 5 ans, la peine sera d'un emprisonnement de 11 jours à 3 mois et d'une amende de 20000 à<br/>\n 200000 F [*NOTA : le taux des amendes résulte de la loi 1468 du 30 décembre 1977*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 77-1468 1977-12-30",
+        "@cidtexte": "JORFTEXT000000333072",
+        "@datesignatexte": "1977-12-30",
+        "@id": "JORFTEXT000000333072",
+        "@naturetexte": "LOI",
+        "@numtexte": "77-1468",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L45 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692250",
+        "@naturetexte": "CODE",
+        "@num": "L45",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 1949-12-01 ART. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006849428",
+      "ANCIEN_ID": "UPGAAXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/94/LEGIARTI000006849428.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1935-08-11",
+        "DATE_FIN": "1992-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 8 août 1935 sur la protection des eaux souterraines",
+          "@c_titre_court": "Décret-loi du 8 août 1935",
+          "@debut": "1935-08-11",
+          "@fin": "1992-01-01",
+          "@id_txt": "LEGITEXT000006074274"
+        }
+      ],
+      "@cid": "LEGITEXT000006074274",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1935-08-08",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1935-08-11",
+          "@etat": "ABROGE",
+          "@fin": "1992-01-01",
+          "@id": "LEGIARTI000006849428",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent décret sera soumis à la ratification des Chambres, conformément à la loi du 8 juin 1935.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 1935-06-08",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 92-3 1992-01-03 art. 46 I JORF 4 janvier 1992",
+        "@cidtexte": "JORFTEXT000000173995",
+        "@datesignatexte": "1992-01-03",
+        "@id": "JORFTEXT000000173995",
+        "@naturetexte": "LOI",
+        "@nortexte": "ENVX9100061L",
+        "@numtexte": "92-3",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 92-3 1992-01-03 art. 46 IV",
+        "@cidtexte": "JORFTEXT000000173995",
+        "@datesignatexte": "1992-01-03",
+        "@id": "JORFTEXT000000173995",
+        "@naturetexte": "LOI",
+        "@nortexte": "ENVX9100061L",
+        "@numtexte": "92-3",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

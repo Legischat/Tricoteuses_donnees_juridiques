@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888407",
+      "ANCIEN_ID": "UTIFVXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/84/LEGIARTI000006888407.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1970-10-02",
+        "DATE_FIN": "1994-12-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 11 septembre 1970 relatif à l'application du décret 68-450 du 16 mai 1968 relatif aux mesures de surveillance et d'alerte destinées à faciliter la protection des populations en aval de certains aménagements hydrauliques.",
+          "@c_titre_court": "Arrêté du 11 septembre 1970",
+          "@debut": "1970-10-02",
+          "@fin": "1994-12-11",
+          "@id_txt": "LEGITEXT000006075048"
+        }
+      ],
+      "@cid": "LEGITEXT000006075048",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1970-09-11",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-10-02",
+          "@etat": "ABROGE",
+          "@fin": "1994-12-11",
+          "@id": "LEGIARTI000006888407",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les superficies susceptibles d'être inondées en cas d'incident visées à l'article 2 du présent arrêté, se subdivisent elles-mêmes en trois zones :<br/>\n    a) Une première où la population doit, dès l'alerte, effectuer instantanément son déplacement de sauvegarde ;<br/>\n    b) Une seconde où la population court le même danger, mais dispose d'un temps supérieur au quart d'heure pour effectuer son déplacement de sauvegarde ;<br/>\n    c) Eventuellement, une troisième, située au-delà de la précédente, où la hauteur du flot et sa vitesse résiduelle sont estimées insuffisantes pour constituer un danger pour la vie des personnes adultes, mais où il pourrait être indiqué de prendre des dispositions particulières à l'égard des enfants et des impotents.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1970-09-11 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1994-12-01 art. 11 JORF 11 décembre 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 68-450 1968-05-16",
+        "@cidtexte": "JORFTEXT000000513699",
+        "@datesignatexte": "1968-05-16",
+        "@id": "JORFTEXT000000513699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "68-450",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006729752",
+      "ANCIEN_ID": "AFHFLXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/97/LEGIARTI000006729752.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-11-07",
+        "DATE_FIN": "1984-12-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-1011 du 19 octobre 1976 RELATIF AU CREDIT MARITIME MUTUEL",
+          "@c_titre_court": "Décret n°76-1011 du 19 octobre 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000507252"
+        },
+        {
+          "#text": "Décret n°76-1011 du 19 octobre 1976 relatif au crédit maritime mutuel",
+          "@c_titre_court": "Décret n°76-1011 du 19 octobre 1976",
+          "@debut": "1976-11-07",
+          "@fin": "2005-08-25",
+          "@id_txt": "LEGITEXT000006062409"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Organisation et fonctionnement administratif des organismes de crédit maritime mutuel.",
+            "@debut": "1976-11-07",
+            "@fin": "2005-08-25",
+            "@id": "LEGISCTA000006105688"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000507252",
+      "@date_publi": "1976-11-07",
+      "@date_signature": "1976-10-19",
+      "@nature": "DECRET",
+      "@num": "76-1011"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-11-07",
+          "@etat": "ABROGE",
+          "@fin": "1984-12-15",
+          "@id": "LEGIARTI000006729752",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le capital de fondation ne peut être inférieur à 500 000 F pour une caisse régionale et à 100 000 F pour une union.<br/>\n<br/>   Il est représenté par des parts nominatives d'une valeur nominale minimum de 50 F.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 75-628 1975-07-11",
+        "@cidtexte": "JORFTEXT000000888297",
+        "@datesignatexte": "1975-07-11",
+        "@id": "JORFTEXT000000888297",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-628",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°76-1011 du 19 octobre 1976 - art. 25 (Ab)",
+        "@cidtexte": "JORFTEXT000000507252",
+        "@datesignatexte": "1976-10-19",
+        "@id": "LEGIARTI000006729674",
+        "@naturetexte": "DECRET",
+        "@num": "25",
+        "@numtexte": "76-1011",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 84-1114 1984-12-14 art. 14 JORF 15 décembre 1984",
+        "@cidtexte": "JORFTEXT000000700808",
+        "@datesignatexte": "1984-12-14",
+        "@id": "JORFTEXT000000700808",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-1114",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

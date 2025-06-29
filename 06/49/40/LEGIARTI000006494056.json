@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006494056",
+      "ANCIEN_ID": "PJEEUXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/40/LEGIARTI000006494056.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1969-07-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°69-700 du 30 juin 1969 PORTANT AMNISTIE",
+          "@c_titre_court": "Loi n°69-700 du 30 juin 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000321177"
+        },
+        {
+          "#text": "Loi n° 69-700 du 30 juin 1969 portant amnistie (1).",
+          "@c_titre_court": "Loi n° 69-700 du 30 juin 1969",
+          "@debut": "1969-07-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068339"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE Ier : Amnistie de droit.",
+            "@debut": "1969-07-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006094151"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000321177",
+      "@date_publi": "1969-07-01",
+      "@date_signature": "1969-06-30",
+      "@nature": "LOI",
+      "@num": "69-700"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-07-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006494056",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont amnistiées les infractions suivantes, lorsqu'elles ont été commises antérieurement au 20 juin 1969 :<br/>\n<br/>   1° Délits commis à l'occasion de réunions, de manifestations sur la voie publique, dans les lieux publics et les établissements universitaires ou scolaires, de conflits relatifs aux problèmes de l'enseignement, de conflits du travail et d'élections de toutes sortes à l'exception, en ce qui concerne ces dernières infractions, des délits de fraude et de corruption électorale et des délits en matière de vote par correspondance et de vote par procuration ;<br/>\n<br/>   2° Délits prévus et réprimés par la loi du 10 janvier 1936 sur les groupes de combat et les milices privées ;<br/>\n<br/>   3° Infractions prévues par les articles 265 à 267 et 434 à 442 du Code pénal commises en relation avec les événements politiques et sociaux survenus en 1968, à la condition que ces infractions n'aient pas entraîné la mort ou des blessures ou infirmités de l'espèce définie au troisième alinéa de l'article 309 du même code ;<br/>\n<br/>   4° Délits commis à l'occasion de manifestations nées de conflits relatifs à des problèmes agricoles, ruraux, commerciaux ou artisanaux.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1936-01-10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 69-700 1969-06-30 art. 25 : champ d'application",
+        "@cidtexte": "JORFTEXT000000321177",
+        "@datesignatexte": "1969-06-30",
+        "@id": "JORFTEXT000000321177",
+        "@naturetexte": "LOI",
+        "@numtexte": "69-700",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°69-700 du 30 juin 1969 - art. 16 (V)",
+        "@cidtexte": "JORFTEXT000000321177",
+        "@datesignatexte": "1969-06-30",
+        "@id": "LEGIARTI000006494071",
+        "@naturetexte": "LOI",
+        "@num": "16",
+        "@numtexte": "69-700",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°69-700 du 30 juin 1969 - art. 24 (V)",
+        "@cidtexte": "JORFTEXT000000321177",
+        "@datesignatexte": "1969-06-30",
+        "@id": "LEGIARTI000006494081",
+        "@naturetexte": "LOI",
+        "@num": "24",
+        "@numtexte": "69-700",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code pénal 265 à 267, 434 à 442, 309",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006203733",
+      "ANCIEN_ID": "AKICDXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/37/LEGIARTI000006203733.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-09-01",
+        "DATE_FIN": "2015-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 avril 1990 fixant le programme et les modalités de l'examen en    vue du diplôme d'aptitude aux fonctions de notaire",
+          "@c_titre_court": "Arrêté du 13 avril 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000715158"
+        },
+        {
+          "#text": "Arrêté du 13 avril 1990 fixant le programme et les modalités de l'examen en vue du diplôme d'aptitude aux fonctions de notaire",
+          "@c_titre_court": "Arrêté du 13 avril 1990",
+          "@debut": "1990-09-01",
+          "@fin": "2015-01-01",
+          "@id_txt": "LEGITEXT000006075752"
+        }
+      ],
+      "@cid": "JORFTEXT000000715158",
+      "@date_publi": "1990-04-21",
+      "@date_signature": "1990-04-13",
+      "@ministere": "MINISTERE DE LA JUSTICE",
+      "@nature": "ARRETE",
+      "@nor": "JUSC9020281A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-09-01",
+          "@etat": "ABROGE",
+          "@fin": "2015-01-01",
+          "@id": "LEGIARTI000006203733",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent arrêté entrera en vigueur le 1er septembre 1990.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°73-609 du 5 juillet 1973 - art. 11 (M)",
+        "@cidtexte": "JORFTEXT000000681478",
+        "@datesignatexte": "1973-07-05",
+        "@id": "LEGIARTI000006920616",
+        "@naturetexte": "DECRET",
+        "@num": "11",
+        "@numtexte": "73-609",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 8 août 2013 - art. 13",
+        "@cidtexte": "JORFTEXT000027876127",
+        "@datesignatexte": "2013-08-08",
+        "@id": "LEGIARTI000027876656",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSC1317919A",
+        "@num": "13",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

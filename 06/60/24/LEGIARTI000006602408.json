@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602408",
+      "ANCIEN_ID": "RAHCKXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/24/LEGIARTI000006602408.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1965-01-19",
+        "DATE_FIN": "1983-06-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°65-45 du 13 janvier 1965 RELATIF AUX LABELS AGRICOLES ET A LEUR HOMOLOGATION",
+          "@c_titre_court": "Décret n°65-45 du 13 janvier 1965",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000676150"
+        },
+        {
+          "#text": "Décret n°65-45 du 13 janvier 1965 relatif aux labels agricoles et à leurs conditions d'homologation",
+          "@c_titre_court": "Décret n°65-45 du 13 janvier 1965",
+          "@debut": "1965-01-19",
+          "@fin": "1983-06-19",
+          "@id_txt": "LEGITEXT000006061276"
+        }
+      ],
+      "@cid": "JORFTEXT000000676150",
+      "@date_publi": "1965-01-19",
+      "@date_signature": "1965-01-13",
+      "@nature": "DECRET",
+      "@num": "65-45"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-01-19",
+          "@etat": "ABROGE",
+          "@fin": "1983-06-19",
+          "@id": "LEGIARTI000006602408",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'application du présent décret, on entend par produits agricoles, ou d'origine agricole, d'une part les produits transformés ou non destinés à l'alimentation de l'homme et des animaux et, d'autre part, tous les produits non transformés qui proviennent d'exploitation agricole.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°65-45 du 13 janvier 1965 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000676150",
+        "@datesignatexte": "1965-01-13",
+        "@id": "LEGIARTI000006602410",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "65-45",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 83-507 1983-06-17 art. 24 JORF 19 juin 1983",
+        "@cidtexte": "JORFTEXT000000503288",
+        "@datesignatexte": "1983-06-17",
+        "@id": "JORFTEXT000000503288",
+        "@naturetexte": "DECRET",
+        "@numtexte": "83-507",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

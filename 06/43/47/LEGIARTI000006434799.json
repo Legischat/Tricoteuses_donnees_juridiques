@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006434799",
+      "ANCIEN_ID": "PEEA7XXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/47/LEGIARTI000006434799.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1970-07-16",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°70-631 du 15 juillet 1970 RELATIVE A L'ECOLE POLYTECHNIQUE",
+          "@c_titre_court": "Loi n°70-631 du 15 juillet 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874472"
+        },
+        {
+          "#text": "Loi n° 70-631 du 15 juillet 1970 relative à l'école polytechnique (1).",
+          "@c_titre_court": "Loi n° 70-631 du 15 juillet 1970",
+          "@debut": "1970-07-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068382"
+        }
+      ],
+      "@cid": "JORFTEXT000000874472",
+      "@date_publi": "1970-07-16",
+      "@date_signature": "1970-07-15",
+      "@nature": "LOI",
+      "@num": "70-631"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-07-16",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006434799",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'école polytechnique constitue un établissement public doté de la personnalité civile et de l'autonomie financière, placé sous la tutelle du ministre chargé de la défense nationale.<br/>\n<br/>   L'administration de l'école est assurée par un conseil d'administration et un directeur général.<br/>\n<br/>   Un décret rendu en Conseil d'Etat précise la répartition des pouvoirs et des responsabilités entre le conseil d'administration et le directeur général.<br/>\n<br/>   Le directeur général est un officier général qui assure en outre le commandement militaire de l'école.<br/>\n<br/>   Un décret en Conseil d'Etat fixe les règles relatives à l'organisation et au régime administratif et financier de l'école qui est soumis, sauf dérogation prévue par ledit décret, aux règlements pris pour fixer les règles générales d'administration et les contrôles financiers édictés pour les établissements publics de caractère administratif dotés de l'autonomie financière.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 2000-549 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583540",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006435990",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "MENX0000033R",
+        "@num": "7",
+        "@numtexte": "2000-549",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Rapport - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583540",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006435990",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "MENX0000033R",
+        "@num": "7",
+        "@numtexte": "2000-549",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. L755-1 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006525480",
+        "@naturetexte": "CODE",
+        "@num": "L755-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

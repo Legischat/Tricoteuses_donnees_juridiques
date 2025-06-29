@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006634768",
+      "ANCIEN_ID": "ADIWAXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/47/LEGIARTI000006634768.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-03-30",
+        "DATE_FIN": "1985-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 mars 1985 relatif aux prix de certains services",
+          "@c_titre_court": "Arrêté du 29 mars 1985",
+          "@debut": "1985-03-30",
+          "@fin": "1985-12-31",
+          "@id_txt": "LEGITEXT000006071916"
+        }
+      ],
+      "@cid": "LEGITEXT000006071916",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-03-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-30",
+          "@etat": "PERIME",
+          "@fin": "1985-12-31",
+          "@id": "LEGIARTI000006634768",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les prix hors taxes des produits fournis au client ne peuvent être supérieurs aux prix d'achat hors taxes auxquels est appliqué le coefficient multiplicateur de 1,5.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 27/A 1985-03-29 BOCC n° 5, 30 mars 1985",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 85-81/A 1985-12-30 art. 2",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

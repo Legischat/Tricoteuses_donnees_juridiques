@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006683044",
+      "ANCIEN_ID": "SMHARXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/30/LEGIARTI000006683044.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-09-05",
+        "DATE_FIN": "1988-05-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-938 du 23 août 1985 RELATIF A L'AGREMENT DES PERSONNES QUI SOUHAITENT ADOPTER UN PUPILLE DE L'ETAT",
+          "@c_titre_court": "Décret n°85-938 du 23 août 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000323796"
+        },
+        {
+          "#text": "Décret n°85-938 du 23 août 1985 relatif à l'agrément des personnes qui souhaitent adopter un pupille de l'Etat",
+          "@c_titre_court": "Décret n°85-938 du 23 août 1985",
+          "@debut": "1985-09-05",
+          "@fin": "1998-09-04",
+          "@id_txt": "LEGITEXT000006065147"
+        }
+      ],
+      "@cid": "JORFTEXT000000323796",
+      "@date_publi": "1985-09-05",
+      "@date_signature": "1985-08-23",
+      "@nature": "DECRET",
+      "@num": "85-938"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-09-05",
+          "@etat": "MODIFIE",
+          "@fin": "1988-05-10",
+          "@id": "LEGIARTI000006683044",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-05-10",
+          "@etat": "ABROGE",
+          "@fin": "1998-09-04",
+          "@id": "LEGIARTI000006683045",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "L'agrément peut préciser les possibilités d'accueil que le demandeur est susceptible d'offrir à des pupilles de l'Etat, notamment quant à leur nombre, leur âge, ou toute autre caractéristique. Ces éléments doivent être motivés. <br/>\n    La décision mentionne les délais dans lesquels les notifications prévues à l'article 13 ci-après doivent être effectuées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-938 1985-08-23 art. 12 : L'article 10 ci-dessus est applicable à l'examen des demandes et aux décisions prises par le responsable du service de l'aide sociale à l'enfance en application du présent article",
+        "@cidtexte": "JORFTEXT000000323796",
+        "@datesignatexte": "1985-08-23",
+        "@id": "JORFTEXT000000323796",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-938",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°85-938 du 23 août 1985 - art. 12 (Ab)",
+        "@cidtexte": "JORFTEXT000000323796",
+        "@datesignatexte": "1985-08-23",
+        "@id": "LEGIARTI000006683049",
+        "@naturetexte": "DECRET",
+        "@num": "12",
+        "@numtexte": "85-938",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°85-938 du 23 août 1985 - art. 13 (Ab)",
+        "@cidtexte": "JORFTEXT000000323796",
+        "@datesignatexte": "1985-08-23",
+        "@id": "LEGIARTI000006683050",
+        "@naturetexte": "DECRET",
+        "@num": "13",
+        "@numtexte": "85-938",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

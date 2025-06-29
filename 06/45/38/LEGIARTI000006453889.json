@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006453889",
+      "ANCIEN_ID": "PFHAKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/38/LEGIARTI000006453889.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1976-01-01",
+        "DATE_FIN": "2001-01-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°75-1209 du 22 décembre 1975 PORTANT STATUT PARTICULIER DU CORPS DES OFFICIERS DE GENDARMERIE",
+          "@c_titre_court": "Décret n°75-1209 du 22 décembre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000861548"
+        },
+        {
+          "#text": "Décret n°75-1209 du 22 décembre 1975 portant statut particulier du corps des officiers de gendarmerie.",
+          "@c_titre_court": "Décret n°75-1209 du 22 décembre 1975",
+          "@debut": "1976-01-01",
+          "@fin": "2009-01-01",
+          "@id_txt": "LEGITEXT000006062277"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Dispositions générales.",
+            "@debut": "1976-01-01",
+            "@fin": "2009-01-01",
+            "@id": "LEGISCTA000006091858"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000861548",
+      "@date_publi": "1975-12-24",
+      "@date_signature": "1975-12-22",
+      "@nature": "DECRET",
+      "@num": "75-1209"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2001-01-23",
+          "@id": "LEGIARTI000006453889",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-01-23",
+          "@etat": "ABROGE",
+          "@fin": "2009-01-01",
+          "@id": "LEGIARTI000006453890",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les officiers de gendarmerie commandent les formations de gendarmerie.<br/>\n<br/>   Ils exercent en outre les attributions et assument les responsabilités que les lois et règlements leur confèrent en matière de police judiciaire et de police administrative. Ils prêtent serment lors de leur admission dans le corps devant la juridiction judiciaire du lieu de leur affectation dans les conditions fixées par décret.<br/>\n<br/>   Ils participent à la constitution, à l'encadrement et au fonctionnement de l'ensemble des formations et organismes de la gendarmerie.<br/>\n<br/>   Ils peuvent être appelés à faire partie des formations inter-armées ou relevant de l'une des trois armées ou rattachées au ministère chargé des armées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 72-662 1972-07-13 art. 3 et art. 5",
+        "@cidtexte": "JORFTEXT000000509303",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000509303",
+        "@naturetexte": "LOI",
+        "@numtexte": "72-662",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°75-1209 du 22 décembre 1975 - art. 33 (V)",
+        "@cidtexte": "JORFTEXT000000861548",
+        "@datesignatexte": "1975-12-22",
+        "@id": "LEGIARTI000006453888",
+        "@naturetexte": "DECRET",
+        "@num": "33",
+        "@numtexte": "75-1209",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

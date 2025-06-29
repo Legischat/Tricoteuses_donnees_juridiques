@@ -1,0 +1,139 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006338202",
+      "ANCIEN_ID": "MCE04XXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/82/LEGIARTI000006338202.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1970-07-12",
+        "DATE_FIN": "1996-02-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°70-610 du 10 juillet 1970 BOSCHER",
+          "@c_titre_court": "Loi n°70-610 du 10 juillet 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000512446"
+        },
+        {
+          "#text": "Loi n° 70-610 du 10 juillet 1970 tendant à faciliter la création d'agglomérations nouvelles.",
+          "@c_titre_court": "Loi n° 70-610 du 10 juillet 1970",
+          "@debut": "1970-07-12",
+          "@fin": "2017-01-01",
+          "@id_txt": "LEGITEXT000006068379"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : De la création d'agglomérations nouvelles.",
+            "@debut": "1970-07-12",
+            "@fin": "2017-01-01",
+            "@id": "LEGISCTA000006085270"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000512446",
+      "@date_publi": "1970-07-12",
+      "@date_signature": "1970-07-10",
+      "@nature": "LOI",
+      "@num": "70-610"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-07-12",
+          "@etat": "MODIFIE",
+          "@fin": "1996-02-24",
+          "@id": "LEGIARTI000006338202",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-02-24",
+          "@etat": "ABROGE",
+          "@fin": "2017-01-01",
+          "@id": "LEGIARTI000006338203",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Le syndicat communautaire d'aménagement est créé lorsque les conseils municipaux des deux tiers [*proportion*] au moins des communes intéressées représentant plus de la moitié de la population totale de celles-ci, ou lorsque les conseils municipaux de la moitié au moins des communes intéressées représentant plus des deux tiers de la population totale ont fait connaître leur volonté d'associer la totalité des communes intéressées en vue de l'aménagement d'une agglomération nouvelle [*définition de la majorité*.<br/>\n<br/>       L'autorisation de créer le syndicat communautaire d'aménagement est donnée par arrêté du ministre de l'intérieur *]compétence*.<br/>\n<br/>       L'ensemble urbain est créé lorsque les conseils municipaux de chacune des communes intéressées en ont fait la demande.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°70-610 du 10 juillet 1970 - art. 18 (Ab)",
+        "@cidtexte": "JORFTEXT000000512446",
+        "@datesignatexte": "1970-07-10",
+        "@id": "LEGIARTI000006338219",
+        "@naturetexte": "LOI",
+        "@num": "18",
+        "@numtexte": "70-610",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°70-610 du 10 juillet 1970 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000000512446",
+        "@datesignatexte": "1970-07-10",
+        "@id": "LEGIARTI000006338207",
+        "@naturetexte": "LOI",
+        "@num": "9",
+        "@numtexte": "70-610",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 77-91 1977-01-27 : *l'alinéa 2 de l'article 5 est abrogé en ce qu'il concerne la forme de la décision et la désignation de la personne du ministre*",
+        "@cidtexte": "JORFTEXT000000335057",
+        "@datesignatexte": "1977-01-27",
+        "@id": "JORFTEXT000000335057",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-91",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 77-90 1977-01-27 : Les dispositions du présent article ont été codifiées sous les articles L171-6 et L171-8 du Code des communes, mais demeurent en vigueur en l'absence de loi de validation",
+        "@cidtexte": "JORFTEXT000000701049",
+        "@datesignatexte": "1977-01-27",
+        "@id": "JORFTEXT000000701049",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-90",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code des communes R171-4 *Alinéa 2 de la loi du 10 juillet 1970*",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070162",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

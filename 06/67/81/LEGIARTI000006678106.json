@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006678106",
+      "ANCIEN_ID": "SHIGFXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/81/LEGIARTI000006678106.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-01-01",
+        "DATE_FIN": "1985-06-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 octobre 1950 concernant les conditions d'étiquetage des récipients ou sacs contenant des composés arsenicaux ou des produits à usage industriel qui en renferment.",
+          "@c_titre_court": "Arrêté du 12 octobre 1950",
+          "@debut": "1951-01-01",
+          "@fin": "1985-06-19",
+          "@id_txt": "LEGITEXT000006072565"
+        }
+      ],
+      "@cid": "LEGITEXT000006072565",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1950-10-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1985-06-19",
+          "@id": "LEGIARTI000006678106",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Cette étiquette ou inscription portera en son milieu la mention :<br/>\n    \"Attention, toxique.\"<br/>\n    La hauteur des caractères de cette mention ne pourra être inférieure à un centimètre pour les étiquettes ou inscriptions de surface égale ou supérieure à 100 cm2 et à un demi-centimètre pour les étiquettes ou inscriptions dont la surface est comprise entre 50 et 100 cm2.<br/>\n    Sous cette mention sera ajouté, en caractères apparents :<br/>\n    \"Renferme des composés arsenicaux toxiques par ingestion et susceptibles de provoquer des affections cutanées.\"<br/>\n   La partie inférieure de l'étiquette ou de l'inscription comportera les mentions suivantes :<br/>\n    \"Prescriptions à observer :<br/>\n    Se conformer au décret du 16 novembre 1949 et aux arrêtés des 17 et 18 novembre 1949.<br/>\n    Déclaration d'emploi obligatoire à faire à l'Inspection du Travail et à la Sécurité Sociale (art. 72 de la loi du 30 octobre 1946).\"<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1949-11-17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1949-11-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1985-06-05 art. 3 JORF 19 juin 1985",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 1949-11-16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 46-2426 1946-10-30 art. 72",
+        "@cidtexte": "JORFTEXT000000315097",
+        "@datesignatexte": "1946-10-30",
+        "@id": "JORFTEXT000000315097",
+        "@naturetexte": "LOI",
+        "@numtexte": "46-2426",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

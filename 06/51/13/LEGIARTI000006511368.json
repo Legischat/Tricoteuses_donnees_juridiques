@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006511368",
+      "ANCIEN_ID": "ADECVXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/13/LEGIARTI000006511368.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1943-07-01",
+        "DATE_FIN": "1992-06-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°43-341 du 21 juin 1943 modifiant le régime du dépôt légal",
+          "@c_titre_court": "Loi n°43-341 du 21 juin 1943",
+          "@debut": "1943-07-01",
+          "@fin": "1992-06-23",
+          "@id_txt": "LEGITEXT000006071152"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Sanctions.",
+            "@debut": "1943-07-01",
+            "@fin": "1992-06-23",
+            "@id": "LEGISCTA000006095371"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071152",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1943-06-21",
+      "@nature": "LOI",
+      "@num": "43-341"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1943-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-06-23",
+          "@id": "LEGIARTI000006511368",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Au cas d'inexécution totale ou partielle des dépôts prescrits par la présente loi et un mois après l'envoi par lettre recommandée d'une mise en demeure demeurée infructueuse [*délai*], la régie du dépôt légal pourra faire procéder à l'achat dans le commerce de l'oeuvre non déposée ou des exemplaires manquants, et ce aux frais de la personne physique ou [*personne*] morale soumise à l'obligation du dépôt légal.<br/>\n<br/>   Le remboursement des frais d'achat pourra être poursuivi soit par la voie civile, soit, le cas échéant, par voie de constitution de partie civile lors des poursuites exercées conformément à l'article 13 ci-après et sauf éventuellement le recours du condamné contre le civilement responsable.<br/>\n<br/>   L'action de la régie se prescrit par dix années à compter de la publication de l'oeuvre soumise au dépôt [*délai de prescription*]. Cette prescription peut être interrompue par l'envoi d'une lettre recommandée avec accusé de réception par l'agent général de la régie du dépôt légal.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°92-546 du 20 juin 1992 - art. 11 (Ab) JORF 23 juin 1992",
+        "@cidtexte": "JORFTEXT000000723108",
+        "@datesignatexte": "1992-06-20",
+        "@id": "LEGIARTI000006503945",
+        "@naturetexte": "LOI",
+        "@nortexte": "MENX9100198L",
+        "@num": "11",
+        "@numtexte": "92-546",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°43-341 du 21 juin 1943 - art. 13 (Ab)",
+        "@cidtexte": "LEGITEXT000006071152",
+        "@datesignatexte": "1943-06-21",
+        "@id": "LEGIARTI000006511378",
+        "@naturetexte": "LOI",
+        "@num": "13",
+        "@numtexte": "43-341",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

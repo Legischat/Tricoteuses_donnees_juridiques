@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006525299",
+      "ANCIEN_ID": "ADFADXXXXXX056AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/52/LEGIARTI000006525299.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "56",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-07-08",
+        "DATE_FIN": "1967-09-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-1483 du 30 juin 1945 relative aux prix",
+          "@c_titre_court": "Ordonnance n°45-1483 du 30 juin 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000516237"
+        },
+        {
+          "#text": "Ordonnance n°45-1483 du 30 juin 1945 relative aux prix",
+          "@c_titre_court": "Ordonnance n°45-1483 du 30 juin 1945",
+          "@debut": "1945-07-08",
+          "@fin": "1987-01-01",
+          "@id_txt": "LEGITEXT000006069152"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : Des dispositions annexes à la réglementation des prix",
+            "@debut": "1945-07-08",
+            "@fin": "1987-01-01",
+            "@id": "LEGISCTA000006095798"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section III : Maintien de la libre concurrence.",
+              "@debut": "1945-07-08",
+              "@fin": "1987-01-01",
+              "@id": "LEGISCTA000006120392"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000516237",
+      "@date_publi": "1945-07-08",
+      "@date_signature": "1945-06-30",
+      "@nature": "ORDONNANCE",
+      "@num": "45-1483"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-07-08",
+          "@etat": "ABROGE",
+          "@fin": "1967-09-29",
+          "@id": "LEGIARTI000006525299",
+          "@num": "56",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1977-07-20",
+          "@etat": "ABROGE",
+          "@fin": "1987-01-01",
+          "@id": "LEGIARTI000006525300",
+          "@num": "56",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Lorsque la vente porte sur une denrée dont la cession n'est autorisée que moyennant la remise par le cessionnaire d'un bon, ticket ou coupon, en exécution de la réglementation relative au rationnement des denrées ou à l'organisation professionnelle, les bons, tickets ou coupons sont remis à la personne pour le compte de laquelle la vente a lieu ou, si cette personne n'est ni présente ni représentée, à l'officier public ou ministériel, au courtier, au mandataire, ou à toute autre personne qui procède à la vente.<br/>\n<br/>       Toutefois, lorsque la vente a lieu par cessation de commerce, liquidation judiciaire ou faillite, les titres d'achats énumérés à l'alinéa précédent sont remis, s'il y a lieu, à l'acquéreur du droit à l'achalandage.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30 JORF 8 juillet 1945 rectificatif JORF 21 juillet, 8 septembre 1945",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 86-1243 1986-12-01 art. 61",
+        "@cidtexte": "JORFTEXT000000333548",
+        "@datesignatexte": "1986-12-01",
+        "@id": "JORFTEXT000000333548",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "86-1243",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n°86-1243 du 1 décembre 1986 - art. 59 (Ab)",
+        "@cidtexte": "JORFTEXT000000333548",
+        "@datesignatexte": "1986-12-01",
+        "@id": "LEGIARTI000006528054",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "59",
+        "@numtexte": "86-1243",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

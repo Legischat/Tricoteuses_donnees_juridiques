@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006624323",
+      "ANCIEN_ID": "RHEAGXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/43/LEGIARTI000006624323.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1967-12-16",
+        "DATE_FIN": "1983-07-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 1 mars 1888 AYANT POUR OBJET D'INTERDIRE LA PECHE AUX ETRANGERS DANS LES EAUX TERRITORIALES DE FRANCE ET D'ALGERIE",
+          "@c_titre_court": "Loi du 1 mars 1888",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000314386"
+        },
+        {
+          "#text": "Loi du 1er mars 1888 relative à l'exercice de la pêche dans les eaux sous souveraineté ou juridiction française s'étendant au large des côtes des territoires d'outre-mer",
+          "@c_titre_court": "Loi du 1er mars 1888",
+          "@debut": "1996-07-09",
+          "@fin": "2010-05-08",
+          "@id_txt": "LEGITEXT000006071741"
+        }
+      ],
+      "@cid": "JORFTEXT000000314386",
+      "@date_publi": "1888-03-02",
+      "@date_signature": "1888-03-01",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-12-16",
+          "@etat": "ABROGE",
+          "@fin": "1983-07-06",
+          "@id": "LEGIARTI000006624323",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-09",
+          "@etat": "ABROGE",
+          "@fin": "2010-05-08",
+          "@id": "LEGIARTI000006624324",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'officier ou agent qui a conduit ou fait conduire le bateau dans un port français, le consigne entre les mains du service de l'inscription maritime, qui saisit les engins de pêche et les produits de la pêche trouvés à bord, quel qu'en soit le propriétaire. Les produits de la pêche sont vendus, sans délai, dans le port où le bateau a été conduit a été conduit, et dans les formes prescrites par l'article 42 de la loi du 15 avril 1829. Le prix en est consigné à la caisse des gens de mer jusqu'à l'issue du jugement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1829-04-15 art. 42",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 67-1086 1967-12-15 art. 2 JORF 16 décembre 1967",
+        "@cidtexte": "JORFTEXT000000504459",
+        "@datesignatexte": "1967-12-15",
+        "@id": "JORFTEXT000000504459",
+        "@naturetexte": "LOI",
+        "@numtexte": "67-1086",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°83-582 du 5 juillet 1983 - art. 11 () JORF 6 juillet 1983",
+        "@cidtexte": "JORFTEXT000000880593",
+        "@datesignatexte": "1983-07-05",
+        "@id": "LEGIARTI000006624248",
+        "@naturetexte": "LOI",
+        "@num": "11",
+        "@numtexte": "83-582",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006628834",
+      "ANCIEN_ID": "RIHAEXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/88/LEGIARTI000006628834.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1984-02-01",
+        "DATE_FIN": "1991-03-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 84-74 du 26 janvier 1984 fixant le statut de la normalisation",
+          "@c_titre_court": "Décret n° 84-74 du 26 janvier 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000327650"
+        },
+        {
+          "#text": "Décret n°84-74 du 26 janvier 1984 fixant le statut de la normalisation",
+          "@c_titre_court": "Décret n°84-74 du 26 janvier 1984",
+          "@debut": "1984-02-01",
+          "@fin": "2009-06-18",
+          "@id_txt": "LEGITEXT000006064597"
+        }
+      ],
+      "@cid": "JORFTEXT000000327650",
+      "@date_publi": "1984-02-01",
+      "@date_signature": "1984-01-26",
+      "@nature": "DECRET",
+      "@num": "84-74"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-02-01",
+          "@etat": "MODIFIE",
+          "@fin": "1991-03-20",
+          "@id": "LEGIARTI000006628834",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-03-20",
+          "@etat": "ABROGE",
+          "@fin": "2009-06-18",
+          "@id": "LEGIARTI000006628835",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si des raisons d'ordre public, de sécurité publique, de protection de la santé et de la vie des personnes et des animaux ou de préservation des végétaux, de protection des trésors nationaux ayant une valeur artistique, historique ou archéologique, ou des exigences impératives tenant à l'efficacité des contrôles fiscaux, à la loyauté des transactions commerciales et à la défense du consommateur rendent une telle mesure nécessaire, l'application d'une norme homologuée peut être rendue obligatoire par arrêté du ministre chargé de l'industrie et, le cas échéant, des autres ministres intéressés, sous réserve des dérogations particulières accordées dans les conditions précisées à l'article 18 ci-après.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°84-74 du 26 janvier 1984 - art. 18 (Ab)",
+        "@cidtexte": "JORFTEXT000000327650",
+        "@datesignatexte": "1984-01-26",
+        "@id": "LEGIARTI000006628853",
+        "@naturetexte": "DECRET",
+        "@num": "18",
+        "@numtexte": "84-74",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des postes et des communications électronique - art. R20-3 (Ab)",
+        "@cidtexte": "LEGITEXT000006070987",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006466679",
+        "@naturetexte": "CODE",
+        "@num": "R20-3",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1941-05-24",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

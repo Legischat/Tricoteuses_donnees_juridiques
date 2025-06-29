@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006879816",
+      "ANCIEN_ID": "UTHAFXXXXXX010BAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/98/LEGIARTI000006879816.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10 bis",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-02-10",
+        "DATE_FIN": "1989-06-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°59-1091 du 23 septembre 1959 PORTANT STATUT DE LA RATP",
+          "@c_titre_court": "Décret n°59-1091 du 23 septembre 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000493219"
+        },
+        {
+          "#text": "Décret n°59-1091 du 23 septembre 1959 portant statut de la Régie autonome des transports parisiens.",
+          "@c_titre_court": "Décret n°59-1091 du 23 septembre 1959",
+          "@debut": "1959-09-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060854"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "PRESIDENT DU CONSEIL D'ADMINISTRATION ET DIRECTEUR GENERAL",
+            "@debut": "1973-02-10",
+            "@fin": "1989-06-23",
+            "@id": "LEGISCTA000006111703"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000493219",
+      "@date_publi": "1959-09-24",
+      "@date_signature": "1959-09-23",
+      "@nature": "DECRET",
+      "@num": "59-1091"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-02-10",
+          "@etat": "ABROGE",
+          "@fin": "1989-06-23",
+          "@id": "LEGIARTI000006879816",
+          "@num": "10 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La limite d'âge pour l'exercice des fonctions de président du conseil d'administration et de directeur général est fixée à soixante-cinq ans.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-125 1973-02-08 ART. 2 JORF 10 février 1973 Rectificatif JORF 10 mars 1973",
+        "@cidtexte": "JORFTEXT000000331075",
+        "@datesignatexte": "1973-02-08",
+        "@id": "JORFTEXT000000331075",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-125",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 89-410 1989-06-20 art. 2 VI JORF 23 juin 1989",
+        "@cidtexte": "JORFTEXT000000517287",
+        "@datesignatexte": "1989-06-20",
+        "@id": "JORFTEXT000000517287",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUT8900659D",
+        "@numtexte": "89-410",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283208",
+      "ANCIEN_ID": "ARAXXXXXXXX5X00014AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/32/LEGIARTI000006283208.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1807-09-20",
+        "DATE_FIN": "1983-05-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de commerce (ancien)",
+          "@c_titre_court": "Code de commerce",
+          "@debut": "1807-09-20",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre I : Du commerce en général",
+            "@debut": "1807-09-20",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083845"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Des livres de commerce.",
+              "@debut": "1807-09-20",
+              "@fin": "1983-05-03",
+              "@id": "LEGISCTA000006114094"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069441",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1807-09-20",
+          "@etat": "MODIFIE",
+          "@fin": "1983-05-03",
+          "@id": "LEGIARTI000006283208",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-02-13",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006283209",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La communication des livres et inventaires ne peut être ordonnée en justice que dans les affaires de succession, communauté, partage de société, et en cas de faillite.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1807-09-10 promulguée le 20 septembre 1807",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 83-353 1983-04-30 *mise en harmonie des obligations comptables des commerçants*, art. 18 *mesures d'application - date*",
+        "@cidtexte": "JORFTEXT000000504454",
+        "@datesignatexte": "1983-04-30",
+        "@id": "JORFTEXT000000504454",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-353",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code de commerce 15 *représentation des livres de commerce*",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000005634379",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

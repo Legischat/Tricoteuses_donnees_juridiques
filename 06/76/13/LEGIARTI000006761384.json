@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006761384",
+      "ANCIEN_ID": "SSHABMXXXXX159AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/13/LEGIARTI000006761384.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "159",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1954-12-04",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°46-1378 du 8 juin 1946 ORGANISATION DE LA SECURITE SOCIALE",
+          "@c_titre_court": "Décret n°46-1378 du 8 juin 1946",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000326051"
+        },
+        {
+          "#text": "Décret n°46-1378 du 8 juin 1946  PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE POUR L'APPLICATION DE L'ORDONNANCE DU 4 OCTOBRE 1945 PORTANT ORGANISATION DE LA SECURITE SOCIALE.",
+          "@c_titre_court": "Décret n°46-1378 du 8 juin 1946",
+          "@debut": "1946-06-09",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "RESSOURCES",
+            "@debut": "1946-06-09",
+            "@fin": "1985-12-21",
+            "@id": "LEGISCTA000006106503"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000326051",
+      "@date_publi": "1946-06-09",
+      "@date_signature": "1946-06-08",
+      "@nature": "DECRET",
+      "@num": "46-1378"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1954-12-04",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006761384",
+          "@num": "159",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Par. 1er - Les cotisations de sécurité sociale afférentes aux assurés qui travaillent pour le compte de plusieurs employeurs ou pour le compte d'un même employeur, une seule fois par intermittence, sont versées dans les conditions fixées par les articles 154 et suivants du présent décret.</p>\n<br/>\n<br/>\n<p>Par. 2 - Les assurés relevant d'un employeur dont l'entreprise ne comporte pas d'établissement dans la métropole sont responsables de l'exécution des obligations incombant à leur employeur et, notamment, du versement des cotisations de sécurité sociale et d'allocations familiales.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 46-1378 1946-06-08 ART. 154 ET SUIVANTS",
+        "@cidtexte": "JORFTEXT000000326051",
+        "@datesignatexte": "1946-06-08",
+        "@id": "JORFTEXT000000326051",
+        "@naturetexte": "DECRET",
+        "@numtexte": "46-1378",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-1353 1985-12-17 art. 6 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000866621",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000866621",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1353",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R243-4 (V)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006748785",
+        "@naturetexte": "CODE",
+        "@num": "R243-4",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R243-4 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006748784",
+        "@naturetexte": "CODE",
+        "@num": "R243-4",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

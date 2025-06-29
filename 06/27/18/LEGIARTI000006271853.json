@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006271853",
+      "ANCIEN_ID": "ANHBAXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/18/LEGIARTI000006271853.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1928-08-05",
+        "DATE_FIN": "2016-07-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 2 avril 1926 portant règlement sur les appareils à pression de vapeur autres que ceux placés à bord des bateaux",
+          "@c_titre_court": "Décret du 2 avril 1926",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000300042"
+        },
+        {
+          "#text": "Décret du 2 avril 1926 portant règlement sur les appareils à vapeur autres que ceux placés à bord des bateaux",
+          "@c_titre_court": "Décret du 2 avril 1926",
+          "@debut": "1926-04-22",
+          "@fin": "2016-07-19",
+          "@id_txt": "LEGITEXT000006062479"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Mesures de sûreté relatives aux générateurs placés à demeure.",
+            "@debut": "1926-04-22",
+            "@fin": "2016-07-19",
+            "@id": "LEGISCTA000006083322"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000300042",
+      "@date_publi": "1926-04-22",
+      "@date_signature": "1926-04-02",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-04-22",
+          "@etat": "MODIFIE",
+          "@fin": "1928-08-05",
+          "@id": "LEGIARTI000047500965",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1928-08-05",
+          "@etat": "ABROGE",
+          "@fin": "2016-07-19",
+          "@id": "LEGIARTI000006271853",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Toute chaudière est munie d'un manomètre en bon état placé en vue du chauffeur et gradué de manière à indiquer en hectopièzes ou provisoirement en kilogrammes par centimètre carré la pression effective de la vapeur dans la chaudière.</p>\n<p>Une marque très apparente indique sur l'échelle du manomètre la limite que la pression effective ne doit pas dépasser.</p>\n<p>La chaudière est munie d’un ajutage disposé pour recevoir le manomètre vérificateur ; lorsque le timbre est égal ou inférieur à 30 hectopièzes, cet ajutage se termine par une bride de 4 centimètres de diamètre et 5 millimètres d’épaisseur, pour les timbres supérieurs, il se termine par un dispositif de fixation dont les caractéristiques sont déterminées par arrêté ministériel.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret du 2 avril 1926 - art. 1-2 (Ab)",
+        "@cidtexte": "JORFTEXT000000300042",
+        "@datesignatexte": "1926-04-02",
+        "@id": "LEGIARTI000006271834",
+        "@naturetexte": "DECRET",
+        "@num": "1-2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret du 4 août 1928, v. init. - Art. 1",
+        "@cidtexte": "JORFTEXT000000301567",
+        "@datesignatexte": "1928-08-04",
+        "@id": "JORFTEXT000000301567",
+        "@naturetexte": "DECRET",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "DÉCRET n°2015-799 du 1er juillet 2015 - art. 5",
+        "@cidtexte": "JORFTEXT000030829769",
+        "@datesignatexte": "2015-07-01",
+        "@id": "LEGIARTI000030831128",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVP1422804D",
+        "@num": "5",
+        "@numtexte": "2015-799",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

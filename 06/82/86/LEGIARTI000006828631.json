@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006828631",
+      "ANCIEN_ID": "UCICAXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/86/LEGIARTI000006828631.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe VI",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1987-03-07",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 mars 1985 modifiant l'arrêté du 29 juillet 1977 relatif aux caractéristiques techniques et aux prix des logements neufs en accession à la propriété financés au moyen des prêts aidés par l'Etat.",
+          "@c_titre_court": "Arrêté du 26 mars 1985",
+          "@debut": "1985-04-26",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074149"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1985-04-26",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108289"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Coefficient de surfaces.",
+              "@debut": "1987-03-07",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128827"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074149",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-03-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-03-07",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006828631",
+          "@num": "Annexe VI",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le coefficient c est donné par la relation :<br/>\n c = c1 + c2.<br/>\n dans laquelle :<br/>\n VI-1 c1 dépend de la surface habitable Sh des logements constituant l'opération ; de la surface minimale totale Sm des logements constituant l'opération et de la surface Sa des annexes privatives des logements.<br/>\n La surface habitable d'un logement est la surface de plancher construite, après déduction des surfaces occupées par les murs, cloisons, marches et cages d'escaliers, gaines ébrasements de portes et de fenêtres.<br/>\n Peuvent être prises en compte comme annexes dans Sa :<br/>\n - en habitat collectif les loggias, balcons, terrasses accessibles privatives, serres, séchoirs extérieurs au logement, caves d'une surface d'au moins deux mètres carrés. Les terrasses privatives aménagées sur ouvrage enterré ou semi-enterré sont prises en compte pour le tiers de leur surface. Cette prise en compte est limitée à trois mètres carrés par logement bénéficiant de ces terrasses.<br/>\n - en individuel, à cette liste d'annexes sont rajoutés les garages individuels et les combles accessibles.<br/>\n En habitat collectif et individuel, les terrasses réalisées sur le sol ou sur terre-plein sont exclues de cette liste.<br/>\nc1 est donné par la formule :<br/>\n c1 = 0,65 ((Sh-Sm) / Sm) + 0,55 (Sa/Sm).<br/>\nc1 a pour limite supérieure 0,50.<br/>\n Dans cette relation, les surfaces pour lesquelles la hauteur libre sous-plafond x est supérieure à 3 mètres sont affectées du coefficient :<br/>\n (x / 3 + 1) / 2.<br/>\nVI-2 c2 dépend de la surface S1 des locaux collectifs résidentiels.<br/>\n c2 = 1,1 (Sl/Sm).<br/>\nSi le local est intégré à l'immeuble d'habitation.<br/>\n c2 = 1,6 (Sl/Sm). Si le local est séparé de l'immeuble d'habitation.<br/>\n Sm est la surface minimale totale des logements constituant l'opération ;<br/>\n S1 a pour limite supérieure 0,75 N (mètres carrés), N étant le nombre de logements.<br/>\n Les locaux collectifs résidentiels doivent comporter au minimum les branchements nécessaires à la mise en place d'équipements ultérieurs afin de donner à ces locaux souplesse d'utilisation et adaptabilité dans le temps.<br/>\n Les locaux collectifs résidentiels peuvent être réalisés communs à plusieurs opérations. Dans ce cas N peut être égal au nombre total de logements aidés par l'Etat. Si plusieurs maîtres d'ouvrage sont concernés, la convention à passer en vue de la réalisation de ces travaux devra préciser le (ou les) maîtres d'ouvrage chargé(s) de la construction et de la gestion de ces locaux et devra définir les modalités de répartition des frais de remboursement des prêts et des frais de fonctionnement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-02-13 art. 4 JORF 7 mars 1987",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1987-02-13 art. 6",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

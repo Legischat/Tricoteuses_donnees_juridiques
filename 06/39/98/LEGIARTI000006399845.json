@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006399845",
+      "ANCIEN_ID": "MVEAYXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/39/98/LEGIARTI000006399845.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-02-04",
+        "DATE_FIN": "1996-02-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°73-640 du 11 juillet 1973 AUTORISANT CERTAINES COMMUNES ET ETABLISSEMENTS PUBLICS A INSTITUER UN VERSEMENT DESTINE AUX TRANSPORTS EN COMMUN. CONDITIONS; SOURCE; AFFECTATION",
+          "@c_titre_court": "Loi n°73-640 du 11 juillet 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000334814"
+        },
+        {
+          "#text": "Loi n° 73-640 du 11 juillet 1973 autorisant certaines communes et établissements publics à instituer un versement destiné aux transports en commun (1).",
+          "@c_titre_court": "Loi n° 73-640 du 11 juillet 1973",
+          "@debut": "1973-07-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068471"
+        }
+      ],
+      "@cid": "JORFTEXT000000334814",
+      "@date_publi": "1973-07-12",
+      "@date_signature": "1973-07-11",
+      "@nature": "LOI",
+      "@num": "73-640"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-07-13",
+          "@etat": "MODIFIE",
+          "@fin": "1977-02-04",
+          "@id": "LEGIARTI000027043121",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1977-02-04",
+          "@etat": "ABROGE",
+          "@fin": "1996-02-25",
+          "@id": "LEGIARTI000006399845",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Son taux est dans les mêmes formes fixé ou modifié dans la limite de 1 % des salaires définis à l'article 2.</p>\n<br/>\n<p>Toutefois, si la commune ou l'établissement public ont décidé de réaliser une infrastructure de transport collectif et obtenu une subvention de l'Etat pour l'investissement correspondant, cette limite peut être portée à 1,50 %.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°73-640 du 11 juillet 1973 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000334814",
+        "@datesignatexte": "1973-07-11",
+        "@id": "LEGIARTI000006399844",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "73-640",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°73-640 du 11 juillet 1973 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000334814",
+        "@datesignatexte": "1973-07-11",
+        "@id": "LEGIARTI000006399847",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "73-640",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996",
+        "@cidtexte": "JORFTEXT000000559120",
+        "@datesignatexte": "1996-02-21",
+        "@id": "LEGIARTI000006340192",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9400076L",
+        "@num": "12",
+        "@numtexte": "96-142",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°96-142 du 21 février 1996, v. init.",
+        "@cidtexte": "JORFTEXT000000559120",
+        "@datesignatexte": "1996-02-21",
+        "@id": "JORFTEXT000000559120",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9400076L",
+        "@numtexte": "96-142",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

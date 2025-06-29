@@ -1,0 +1,167 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006647452",
+      "ANCIEN_ID": "SAAXXXXXXXX1X225L17AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/74/LEGIARTI000006647452.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L225-17",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1999-06-10",
+        "DATE_FIN": "2003-08-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Réglementation du travail",
+              "@debut": "1973-01-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123874"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Repos et congés",
+                "@debut": "1973-11-23",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006139790"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre V : Congés non rémunérés",
+                  "@debut": "1973-11-23",
+                  "@fin": "2008-05-01",
+                  "@id": "LEGISCTA000006154069"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 6 : Congé d'accompagnement d'une personne en fin de vie",
+                    "@debut": "1999-06-10",
+                    "@fin": "2003-08-22",
+                    "@id": "LEGISCTA000006170088"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-06-10",
+          "@etat": "MODIFIE",
+          "@fin": "2003-08-22",
+          "@id": "LEGIARTI000006647452",
+          "@num": "L225-17",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-08-22",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000006647453",
+          "@num": "L225-17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A l'issue du congé d'accompagnement d'une personne en fin de vie ou de sa période d'activité à temps partiel, le salarié retrouve son emploi ou un emploi similaire assorti d'une rémunération au moins équivalente.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°99-477 du 9 juin 1999 - art. 11 () JORF 10 juin 1999",
+        "@cidtexte": "JORFTEXT000000212121",
+        "@datesignatexte": "1999-06-09",
+        "@id": "LEGIARTI000006696372",
+        "@naturetexte": "LOI",
+        "@nortexte": "MESX9903552L",
+        "@num": "11",
+        "@numtexte": "99-477",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code du travail - art. L225-19 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006647457",
+        "@naturetexte": "CODE",
+        "@num": "L225-19",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. L3142-19 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006902687",
+        "@naturetexte": "CODE",
+        "@num": "L3142-19",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail - art. L3142-19 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006902687",
+        "@naturetexte": "CODE",
+        "@num": "L3142-19",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1046 1973-11-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

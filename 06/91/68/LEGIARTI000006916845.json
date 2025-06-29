@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006916845",
+      "ANCIEN_ID": "AKFAIXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/68/LEGIARTI000006916845.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-11-03",
+        "DATE_FIN": "1967-03-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-2591 du 2 novembre 1945 relative au statut des avoués",
+          "@c_titre_court": "Ordonnance n°45-2591 du 2 novembre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000334192"
+        },
+        {
+          "#text": "Ordonnance n° 45-2591 du 2 novembre 1945 relative au statut des avoués",
+          "@c_titre_court": "Ordonnance n° 45-2591 du 2 novembre 1945",
+          "@debut": "1945-11-03",
+          "@fin": "2012-01-01",
+          "@id_txt": "LEGITEXT000006069176"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Des conditions d'aptitude aux fonctions d'avoués.",
+            "@debut": "1945-11-03",
+            "@fin": "1967-03-31",
+            "@id": "LEGISCTA000006112970"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000334192",
+      "@date_publi": "1945-11-03",
+      "@date_signature": "1945-11-02",
+      "@nature": "ORDONNANCE",
+      "@num": "45-2591"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-11-03",
+          "@etat": "ABROGE",
+          "@fin": "1967-03-31",
+          "@id": "LEGIARTI000006916845",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Article abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-2591 1945-11-02 JORF 3 novembre 1945 rectificatif JORF 8 novembre 1945",
+        "@cidtexte": "JORFTEXT000000334192",
+        "@datesignatexte": "1945-11-02",
+        "@id": "JORFTEXT000000334192",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2591",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°45-118 du 19 décembre 1945 - art. 50 (Ab)",
+        "@cidtexte": "JORFTEXT000000317814",
+        "@datesignatexte": "1945-12-19",
+        "@id": "LEGIARTI000006929530",
+        "@naturetexte": "DECRET",
+        "@num": "50",
+        "@numtexte": "45-0118",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

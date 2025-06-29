@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006627327",
+      "ANCIEN_ID": "RIAXXXXXXXX5X00104AEXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/73/LEGIARTI000006627327.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "104-4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-01-04",
+        "DATE_FIN": "2011-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code minier",
+          "@c_titre_court": "Code minier",
+          "@debut": "1956-08-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071785"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Régime général",
+            "@debut": "1956-08-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006099941"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre V bis : Du stockage souterrain.",
+              "@debut": "2003-01-04",
+              "@fin": "2222-02-22",
+              "@id": "LEGISCTA000006122814"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071785",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-01-04",
+          "@etat": "ABROGE",
+          "@fin": "2011-03-01",
+          "@id": "LEGIARTI000006627327",
+          "@num": "104-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les titulaires des concessions de stockage sont assujettis au versement d'une redevance annuelle à l'Etat.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 56-838 1956-08-16",
+        "@cidtexte": "JORFTEXT000000877398",
+        "@datesignatexte": "1956-08-16",
+        "@id": "JORFTEXT000000877398",
+        "@naturetexte": "DECRET",
+        "@numtexte": "56-838",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003",
+        "@cidtexte": "JORFTEXT000000776748",
+        "@datesignatexte": "2003-01-03",
+        "@id": "LEGIARTI000006276142",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX0200139L",
+        "@num": "28",
+        "@numtexte": "2003-8",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°2011-91\n du 20 janvier 2011 - art. 17 (VD)",
+        "@cidtexte": "JORFTEXT000023478661",
+        "@datesignatexte": "2011-01-20",
+        "@id": "LEGIARTI000023481397",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "INDI1009820R",
+        "@num": "17",
+        "@numtexte": "2011-91",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code minier (nouveau) - art. L231-9 (Ab)",
+        "@cidtexte": "LEGITEXT000023501962",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023505438",
+        "@naturetexte": "CODE",
+        "@num": "L231-9",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

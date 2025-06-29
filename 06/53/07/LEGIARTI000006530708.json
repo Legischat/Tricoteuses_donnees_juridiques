@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006530708",
+      "ANCIEN_ID": "PPHCQXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/07/LEGIARTI000006530708.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-03-10",
+        "DATE_FIN": "2011-07-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-253 du 9 mars 1973 PRIS POUR L'APPLICATION DE L'ART. 2 DE LA LOI 73-6 DU 03-01-1973",
+          "@c_titre_court": "Décret n°73-253 du 9 mars 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000857717"
+        },
+        {
+          "#text": "Décret n°73-253 du 9 mars 1973 pris pour l'application de l'article 2 de la loi n° 73-6 du 3 janvier 1973 instituant un médiateur",
+          "@c_titre_court": "Décret n°73-253 du 9 mars 1973",
+          "@debut": "1973-03-10",
+          "@fin": "2011-07-31",
+          "@id_txt": "LEGITEXT000006062070"
+        }
+      ],
+      "@cid": "JORFTEXT000000857717",
+      "@date_publi": "1973-03-10",
+      "@date_signature": "1973-03-09",
+      "@nature": "DECRET",
+      "@num": "73-253"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-03-10",
+          "@etat": "ABROGE",
+          "@fin": "2011-07-31",
+          "@id": "LEGIARTI000006530708",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le collège prévu à l'article 1er ci-dessus est saisi par le Président de la République.<br/>\n<br/>   Il procède à toutes consultations et vérifications utiles à l'exécution de sa mission.<br/>\n<br/>   La décision constatant l'empêchement du médiateur est prise à l'unanimité des membres du collège.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°73-6 du 3 janvier 1973 - art. 2 (M)",
+        "@cidtexte": "JORFTEXT000000509998",
+        "@datesignatexte": "1973-01-03",
+        "@id": "LEGIARTI000006527904",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "73-6",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°73-253 du 9 mars 1973 - art. 1",
+        "@cidtexte": "JORFTEXT000000857717",
+        "@datesignatexte": "1973-03-09",
+        "@id": "LEGIARTI000006530707",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "73-253",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2011-905\n du 29 juillet 2011 - art. 24",
+        "@cidtexte": "JORFTEXT000024414634",
+        "@datesignatexte": "2011-07-29",
+        "@id": "LEGIARTI000024415684",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC1113868D",
+        "@num": "24",
+        "@numtexte": "2011-905",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

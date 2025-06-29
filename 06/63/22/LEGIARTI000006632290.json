@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006632290",
+      "ANCIEN_ID": "RIHIAXXXXXXA00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/22/LEGIARTI000006632290.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe 1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-01-17",
+        "DATE_FIN": "2016-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2004-66 du 14 janvier 2004 relatif au fonds de péréquation de l'électricité",
+          "@c_titre_court": "Décret n° 2004-66 du 14 janvier 2004",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000797557"
+        },
+        {
+          "#text": "Décret n°2004-66 du 14 janvier 2004 relatif au fonds de péréquation de l'électricité",
+          "@c_titre_court": "Décret n°2004-66 du 14 janvier 2004",
+          "@debut": "2004-01-17",
+          "@fin": "2016-01-01",
+          "@id_txt": "LEGITEXT000005765198"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "2004-01-17",
+            "@fin": "2016-01-01",
+            "@id": "LEGISCTA000006100255"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000797557",
+      "@date_publi": "2004-01-17",
+      "@date_signature": "2004-01-14",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE INDUSTRIE",
+      "@nature": "DECRET",
+      "@nor": "INDI0302207D",
+      "@num": "2004-66"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-01-17",
+          "@etat": "ABROGE",
+          "@fin": "2016-01-01",
+          "@id": "LEGIARTI000006632290",
+          "@num": "Annexe 1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'évaluation des charges C supportées par le gestionnaire de réseau public de distribution d'électricité, visée à l'article 11, est effectuée conformément à la formule suivante :<br/>\n<br/>   C = a1 x L (BT aérien) + a2 x L (BT souterrain) + a3 x L (HTA aérien) + a4 x L (HTA souterrain) + a5 x L (HTB et THT) + a6 x Nb (postes HTA/BT) + a7 x Nb (postes HTB/HTA) + a8 x Nb (postes THT/HTB) + a9 x Nb (abonnements),<br/>\n dans laquelle, les longueurs étant exprimées en km :<br/>\n<br/>   L (BT aérien) est la longueur des canalisations aériennes en basse tension ;<br/>\n<br/>   L (BT souterrain) est la longueur des canalisations souterraines en basse tension ;<br/>\n<br/>   L (HTA aérien) est la longueur des canalisations aériennes en haute tension A ;<br/>\n<br/>   L (HTA souterrain) est la longueur des canalisations souterraines en haute tension A ;<br/>\n<br/>   L (HTB et THT) est la longueur des canalisations en haute tension B et en très haute tension ;<br/>\n<br/>   Nb (postes HTA/BT) est le nombre de postes de transformation de haute tension A en basse tension ;<br/>\n<br/>   Nb (postes HTB/HTA) est le nombre de postes de transformation de haute tension B en haute tension A ;<br/>\n<br/>   Nb (postes THT/HTB) est le nombre de postes de transformation de très haute tension en haute tension B ;<br/>\n<br/>   Nb (abonnements) est le nombre des abonnements du gestionnaire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n° 2004-66 du 14 janvier 2004 - art. 11",
+        "@cidtexte": "JORFTEXT000000797557",
+        "@datesignatexte": "2004-01-14",
+        "@id": "JORFARTI000001725047",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDI0302207D",
+        "@num": "11",
+        "@numtexte": "2004-66",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2015-1823 du 30 décembre 2015 - art. 6 (V)",
+        "@cidtexte": "JORFTEXT000031738398",
+        "@datesignatexte": "2015-12-30",
+        "@id": "LEGIARTI000031743213",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVR1510508D",
+        "@num": "6",
+        "@numtexte": "2015-1823",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

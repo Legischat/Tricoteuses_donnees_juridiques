@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275517",
+      "ANCIEN_ID": "FAEEEXXXXXX041AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/55/LEGIARTI000006275517.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "41",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1988-12-30",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°88-1193 du 29 décembre 1988 DE FINANCES RECTIFICATIVE POUR 1988",
+          "@c_titre_court": "Loi n°88-1193 du 29 décembre 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509064"
+        },
+        {
+          "#text": "Loi n° 88-1193 du 29 décembre 1988 de Finances rectificative pour 1988",
+          "@c_titre_court": "Loi n° 88-1193 du 29 décembre 1988",
+          "@debut": "1988-12-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069029"
+        }
+      ],
+      "@cid": "JORFTEXT000000509064",
+      "@date_publi": "1988-12-30",
+      "@date_signature": "1988-12-29",
+      "@nature": "LOI",
+      "@nor": "ECOX8800157L",
+      "@num": "88-1193"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-12-30",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006275517",
+          "@num": "41",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002069474",
+          "@num": "41",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du décret n° 88-684 du 7 mai 1988 établissant une taxe parafiscale sur les produits de fonderie sont applicables à compter du 1er janvier 1988.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 88-684 1988-05-07",
+        "@cidtexte": "JORFTEXT000000692878",
+        "@datesignatexte": "1988-05-06",
+        "@id": "JORFTEXT000000692878",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDB8800224D",
+        "@numtexte": "88-684",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 88-1193 1988-12-29 Finances rectificative pour 1988 JORF 30 décembre 1988",
+        "@cidtexte": "JORFTEXT000000509064",
+        "@datesignatexte": "1988-12-29",
+        "@id": "JORFTEXT000000509064",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8800157L",
+        "@numtexte": "88-1193",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

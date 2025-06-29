@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862198",
+      "ANCIEN_ID": "UPIJLXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/21/LEGIARTI000006862198.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1972-02-17",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 février 1972 ATTRIBUTION AUX BATIMENTS D'HABITATION D'UN \"LABEL CONFORT ACOUSTIQUE\"",
+          "@c_titre_court": "Arrêté du 10 février 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000455105"
+        },
+        {
+          "#text": "Arrêté du 10 février 1972 relatif à l'attribution aux bâtiments d'habitation d'un \"Label Confort acoustique\"",
+          "@c_titre_court": "Arrêté du 10 février 1972",
+          "@debut": "1972-02-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074547"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Bâtiments d'habitation collectifs",
+            "@debut": "1972-02-17",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006110188"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000455105",
+      "@date_publi": "1972-02-17",
+      "@date_signature": "1972-02-10",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-02-17",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006862198",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le niveau de pression acoustique du bruit transmis entre pièces de logements différents d'un même bâtiment collectif, lorsque le niveau de pression acoustique du bruit régnant à l'intérieur des autres locaux du bâtiment pris séparément est celui défini à l'article 1er de l'arrêté du 14 juin 1969, ne doit pas dépasser les niveaux fixés par le tableau ci-dessous :<br/>\n Bruits aériens émis dans un local extérieur au logement considéré.<br/>\n<br/>\n<table>\n<tr>\n<td> :===============================================================:</td>\n</tr>\n<tr>\n<td> :                      :               :     NIVEAU MAXIMAL     :</td>\n</tr>\n<tr>\n<td> :   PIECE OU LOCAL     :    NIVEAU     : de pression acoustique :</td>\n</tr>\n<tr>\n<td> :                      :  de pression  :   reçu dans le local   :</td>\n</tr>\n<tr>\n<td> :     d'émission       :  acoustique   :   suivant du logement  :</td>\n</tr>\n<tr>\n<td> :                      :  d'émission   :    considéré, dB (A)   :</td>\n</tr>\n<tr>\n<td> :                      : dB par octave :------------------------:</td>\n</tr>\n<tr>\n<td> :                      :               :   Chambre  :  Séjour   :</td>\n</tr>\n<tr>\n<td> :======================:===============:============:===========:</td>\n</tr>\n<tr>\n<td> : Chambre              :      80       :     32     :    29     :</td>\n</tr>\n<tr>\n<td> :                      :               :            :           :</td>\n</tr>\n<tr>\n<td> : Séjour               :      80       :     29     :    32     :</td>\n</tr>\n<tr>\n<td> :                      :               :            :           :</td>\n</tr>\n<tr>\n<td> : Pièce humide (1)     :      80       :     27     :    29     :</td>\n</tr>\n<tr>\n<td> :                      :               :            :           :</td>\n</tr>\n<tr>\n<td> : Circulation commune  :      70       :     29     :    32     :</td>\n</tr>\n<tr>\n<td> :                      :               :            :           :</td>\n</tr>\n<tr>\n<td> : Local d'activité (2) :      85       :     32     :    32     :</td>\n</tr>\n<tr>\n<td> :===============================================================:</td>\n</tr>\n</table>\n<br/>\n (1) Pièce humide : cuisine, salle de bains ou douches, cabinet de     toilette, cabinet d'aisance. (2) Locaux commerciaux ou industriels auquels sont assimilés les     garages et locaux collectifs résidentiels."
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1969-06-14 ART. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1972-02-10 ART. 21",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

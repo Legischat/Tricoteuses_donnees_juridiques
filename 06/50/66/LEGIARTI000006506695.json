@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006506695",
+      "ANCIEN_ID": "ADEBEXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/66/LEGIARTI000006506695.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1898-04-19",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 9 avril 1898 relative aux chambres de commerce et d'industrie",
+          "@c_titre_court": "Loi du 9 avril 1898",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000877599"
+        },
+        {
+          "#text": "Loi du 9 avril 1898 relative aux chambres de commerce et d'industrie",
+          "@c_titre_court": "Loi du 9 avril 1898",
+          "@debut": "1898-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071119"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Attributions des chambres de commerce et d'industrie.",
+            "@debut": "1898-04-19",
+            "@fin": "2007-03-27",
+            "@id": "LEGISCTA000006095025"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000877599",
+      "@date_publi": "1898-04-19",
+      "@date_signature": "1898-04-09",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1898-04-19",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006506695",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les chambres de commerce ont pour attributions :<br/>\n<br/>   1° De donner au Gouvernement les avis et les renseignements qui leur sont demandés sur les questions industrielles et commerciales ;<br/>\n<br/>   2° De présenter leurs vues sur les moyens d'accroître la prospérité de l'industrie et du commerce ;<br/>\n<br/>   3° D'assurer, sous réserve des autorisations prévues aux articles 14 et 15, l'exécution des travaux et l'administration des services nécessaires aux intérêts dont elles ont la garde.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1898-04-09 art. 14, art. 15",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 I 7° JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L711-2 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006239779",
+        "@naturetexte": "CODE",
+        "@num": "L711-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

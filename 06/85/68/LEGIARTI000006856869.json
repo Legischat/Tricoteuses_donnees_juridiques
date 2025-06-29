@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006856869",
+      "ANCIEN_ID": "UPHPJXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/68/LEGIARTI000006856869.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-1316 du 11 décembre 1985 RELATIF A LA PECHE EN EAU DOUCE PRATIQUEE PAR DES PROFESSIONNELS",
+          "@c_titre_court": "Décret n°85-1316 du 11 décembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000682303"
+        },
+        {
+          "#text": "Décret n°85-1316 du 11 décembre 1985 relatif à la pêche en eau douce pratiquée par des professionnels",
+          "@c_titre_court": "Décret n°85-1316 du 11 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006064787"
+        }
+      ],
+      "@cid": "JORFTEXT000000682303",
+      "@date_publi": "1985-12-13",
+      "@date_signature": "1985-12-11",
+      "@nature": "DECRET",
+      "@num": "85-1316"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006856869",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La qualité de pêcheur professionnel en eau douce est reconnue à toute personne qui exerce la pêche à temps plein ou partiel dans les eaux mentionnées à l'article 402 du code rural selon les conditions fixées aux articles suivants.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 402",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural R234-35",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 85-1316 1985-12-11 JORF 13 décembre 1985 en vigueur le 1er janvier 1986) A(Décret 89-805 1989-10-27 art. 2 JORF 4 novembre 1989",
+        "@cidtexte": "JORFTEXT000000682303",
+        "@datesignatexte": "1985-12-11",
+        "@id": "JORFTEXT000000682303",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1316",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code rural - art. R*234-35 (Ab)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006590097",
+        "@naturetexte": "CODE",
+        "@num": "R*234-35",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

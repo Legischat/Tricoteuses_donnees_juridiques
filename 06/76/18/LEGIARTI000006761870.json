@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006761870",
+      "ANCIEN_ID": "SSHACXXXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/18/LEGIARTI000006761870.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-11-26",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°60-993 du 12 septembre 1960 MODIFIANT LES ART. 288,304 ET 361 DU CODE DE LA SECURITE SOCIALE",
+          "@c_titre_court": "Décret n°60-993 du 12 septembre 1960",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693988"
+        },
+        {
+          "#text": "Décret n°60-993 du 12 septembre 1960  MODIFIANT LES ARTICLES L. 288, L. 304 ET L. 361 DU CODE DE LA SECURITE SOCIALE.",
+          "@c_titre_court": "Décret n°60-993 du 12 septembre 1960",
+          "@debut": "1960-09-16",
+          "@fin": "1985-12-21",
+          "@id_txt": "LEGITEXT000006060991"
+        }
+      ],
+      "@cid": "JORFTEXT000000693988",
+      "@date_publi": "1960-09-16",
+      "@date_signature": "1960-09-12",
+      "@nature": "DECRET",
+      "@num": "60-993"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-11-26",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006761870",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans l'assurance maladie, la part garantie par les caisses de sécurité sociale est remboursée à l'assuré. Toutefois, elle peut être versée directement à l'établissement dans lequel les soins sont donnés [*tiers payant*]. En aucun cas elle ne peut excéder le montant des frais exposés [*maximum*].<br/>\n<br/>\n<br/>   En cas de soins dispensés à un enfant d'assuré, la part garantie par les caisses est remboursée au tuteur aux allocations familiales lorsque celui-ci a fait l'avance des frais et à la condition qu'il justifie, d'une part, des dépenses engagées par lui, d'autre part, du fait que l'assuré remplit les conditions d'ouverture du droit aux prestations. Lorsque l'enfant a été confié par décision judiciaire à un établissement, un service ou une personne, ceux-ci ont droit, dans les mêmes conditions, au remboursement des frais engagés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 61-1266 1961-11-20 ART. 1 JORF 26 novembre 1961",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 85-1353 1985-12-17 art. 6 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000866621",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000866621",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1353",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale R313-15 pour l'alinéa 2",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

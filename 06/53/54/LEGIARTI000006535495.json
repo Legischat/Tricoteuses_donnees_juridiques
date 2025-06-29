@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006535495",
+      "ANCIEN_ID": "PPIABXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/54/LEGIARTI000006535495.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1976-03-04",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 février 1976 fixant la liste des établissements privés de soins ou d'assistances visés au 7° du I de l'article L. 71 du code électoral",
+          "@c_titre_court": "Arrêté du 27 février 1976",
+          "@debut": "1976-03-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071236"
+        }
+      ],
+      "@cid": "LEGITEXT000006071236",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1976-02-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-03-04",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006535495",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "La liste des établissements visés au 7° de l'article 71 (nouveau) du code électoral est arrêtée comme suit :<br/>\n    1° Etablissements d'hospitalisation privés ;<br/>\n    2° Etablissements d'hébergement privés visés à l'article 3 de la loi n° 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°75-535 du 30 juin 1975 - art. 3 (M)",
+        "@cidtexte": "JORFTEXT000000699217",
+        "@datesignatexte": "1975-06-30",
+        "@id": "LEGIARTI000006681743",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "75-535",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code électoral L71 I 7°",
+        "@cidtexte": "LEGITEXT000006070239",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070239",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code électoral L71 I 7°",
+        "@cidtexte": "LEGITEXT000006070239",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070239",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006429092",
+      "ANCIEN_ID": "PCIGLXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/90/LEGIARTI000006429092.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-08-01",
+        "DATE_FIN": "1988-08-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 juillet 1987 PORTANT MODIFICATIONS DE DIVERSES TAXES POSTALES ACCESSOIRES",
+          "@c_titre_court": "Arrêté du 30 juillet 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000297437"
+        },
+        {
+          "#text": "Arrêté du 30 juillet 1987 portant modification de diverses taxes postales accessoires",
+          "@c_titre_court": "Arrêté du 30 juillet 1987",
+          "@debut": "1987-08-01",
+          "@fin": "1988-08-16",
+          "@id_txt": "LEGITEXT000006057605"
+        }
+      ],
+      "@cid": "JORFTEXT000000297437",
+      "@date_publi": "1987-07-31",
+      "@date_signature": "1987-07-30",
+      "@nature": "ARRETE",
+      "@nor": "PTTP8700539A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-08-01",
+          "@etat": "ABROGE",
+          "@fin": "1988-08-16",
+          "@id": "LEGIARTI000006429092",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le prix de vente des cartes postales est fixé à 0,40 F [*francs*] en sus de la taxe d'affranchissement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-07-30 art. 5 date d'application",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1988-08-10 art. 4 JORF 13 août 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 87-596 1987-07-30",
+        "@cidtexte": "JORFTEXT000000705540",
+        "@datesignatexte": "1987-07-30",
+        "@id": "JORFTEXT000000705540",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PTTP8700536D",
+        "@numtexte": "87-596",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

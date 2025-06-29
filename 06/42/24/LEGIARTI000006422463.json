@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006422463",
+      "ANCIEN_ID": "PCHDBXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/24/LEGIARTI000006422463.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1983-01-12",
+        "DATE_FIN": "1999-09-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-13 du 10 janvier 1983 PORTANT APPLICATION DES DISPOSITIONS DE L'ART. 90 DE LA LOI DU 29-07-1982 SUR LA COMMUNICATION AUDIOVISUELLE ET RELATIF AUX GROUPEMENTS ET ENTENTES DE PROGRAMMATION.",
+          "@c_titre_court": "Décret n°83-13 du 10 janvier 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000876998"
+        },
+        {
+          "#text": "Décret n°83-13 du 10 janvier 1983 portant application des dispositions de l'article 90 de la loi du 29 juillet 1982 sur la communication audiovisuelle et relatif à la programmation des oeuvres cinématographiques en salle.",
+          "@c_titre_court": "Décret n°83-13 du 10 janvier 1983",
+          "@debut": "1999-09-11",
+          "@fin": "2010-07-11",
+          "@id_txt": "LEGITEXT000006064036"
+        }
+      ],
+      "@cid": "JORFTEXT000000876998",
+      "@date_publi": "1983-01-12",
+      "@date_signature": "1983-01-10",
+      "@nature": "DECRET",
+      "@num": "83-13"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-12",
+          "@etat": "MODIFIE",
+          "@fin": "1999-09-11",
+          "@id": "LEGIARTI000006422463",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-09-11",
+          "@etat": "ABROGE",
+          "@fin": "2010-07-11",
+          "@id": "LEGIARTI000006422464",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "L'agrément ne peut être accordé aux groupements ou ententes de programmation qu'à la condition qu'ils n'aient contracté entre eux, ni directement ni indirectement, aucun accord de nature à lier leur programmation à tout autre groupement ou entente [*conditions*].<br/>\n    L'agrément est accordé, en ce qui concerne les groupements, à la personne morale que constitue le groupement considéré. En ce qui concerne les ententes, il est accordé à l'entreprise pilote de l'entente.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°82-652 du 29 juillet 1982 - art. 90 (M)",
+        "@cidtexte": "JORFTEXT000000880222",
+        "@datesignatexte": "1982-07-29",
+        "@id": "LEGIARTI000006420077",
+        "@naturetexte": "LOI",
+        "@num": "90",
+        "@numtexte": "82-652",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°83-13 du 10 janvier 1983 - art. 16 (Ab)",
+        "@cidtexte": "JORFTEXT000000876998",
+        "@datesignatexte": "1983-01-10",
+        "@id": "LEGIARTI000006422489",
+        "@naturetexte": "DECRET",
+        "@num": "16",
+        "@numtexte": "83-13",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

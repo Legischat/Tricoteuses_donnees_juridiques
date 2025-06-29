@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006364425",
+      "ANCIEN_ID": "MREACXXXXXX024AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/44/LEGIARTI000006364425.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-01-01",
+        "DATE_FIN": "1991-05-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-659 du 30 juillet 1982 PORTANT STATUT PARTICULIER DE LA REGION DE CORSE: COMPETENCES",
+          "@c_titre_court": "Loi n°82-659 du 30 juillet 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880223"
+        },
+        {
+          "#text": "Loi n°82-659 du 30 juillet 1982 portant statut particulier de la région de Corse : compétences.",
+          "@c_titre_court": "Loi n°82-659 du 30 juillet 1982",
+          "@debut": "1982-07-31",
+          "@fin": "1991-05-14",
+          "@id_txt": "LEGITEXT000006068761"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Des ressources de la région de Corse.",
+            "@debut": "1982-07-31",
+            "@fin": "1991-05-14",
+            "@id": "LEGISCTA000006086179"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000880223",
+      "@date_publi": "1982-07-31",
+      "@date_signature": "1982-07-30",
+      "@nature": "LOI",
+      "@num": "82-659"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-07-31",
+          "@etat": "MODIFIE",
+          "@fin": "1984-01-01",
+          "@id": "LEGIARTI000006364424",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1991-05-14",
+          "@id": "LEGIARTI000006364425",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le compte spécial du Trésor : \"Fonds d'expansion économique de la Corse\" est clos le 31 décembre 1982.<br/>\n<br/>   Les droits et obligations afférents à des opérations en cours à la date de clôture du compte sont transférés à la région de Corse.<br/>\n<br/>   Les  taxes sur les véhicules à moteur [*carte grise*] immatriculés en Corse, prévues aux articles 1007 à 1009 B du code général des impôts, sont transférées à la région de Corse. Celle-ci recoit par ailleurs les trois quarts [*montant, proportion*] du produit de consommation institué par l'article 20-V de la loi de finances pour 1968 (n° 67-1114 du 21 décembre 1967). Elle l'affecte au financement de travaux d'équipement de son choix.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1007, 1009 B",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 67-1114 1967-12-21 ART. 20 V",
+        "@cidtexte": "JORFTEXT000000320878",
+        "@datesignatexte": "1967-12-21",
+        "@id": "JORFTEXT000000320878",
+        "@naturetexte": "LOI",
+        "@numtexte": "67-1114",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 83-1176 1983-12-29 ART. 124 JORF 30 DECEMBRE 1983 date d'entrée en vigueur 1 JANVIER 1984",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 91-428 1991-05-13 art. 87: La loi n° 82-659 est abrogée à compter de la date de la première réunion de l'assemblée de Corse suivant son prochain renouvellement",
+        "@cidtexte": "JORFTEXT000000536085",
+        "@datesignatexte": "1991-05-13",
+        "@id": "JORFTEXT000000536085",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9000167L",
+        "@numtexte": "91-428",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°91-428 du 13 mai 1991 - art. 87 (V)",
+        "@cidtexte": "JORFTEXT000000536085",
+        "@datesignatexte": "1991-05-13",
+        "@id": "LEGIARTI000006385806",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9000167L",
+        "@num": "87",
+        "@numtexte": "91-428",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

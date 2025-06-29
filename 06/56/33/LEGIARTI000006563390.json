@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006563390",
+      "ANCIEN_ID": "ADHJPXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/33/LEGIARTI000006563390.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-01-06",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-15 du 3 janvier 1978 DBO,GIM",
+          "@c_titre_court": "Décret n°78-15 du 3 janvier 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000329327"
+        },
+        {
+          "#text": "Décret n°78-15 du 3 janvier 1978 relatif au transfert d'un certain nombre de débits de boissons dans la zone d'aménagement concerté de rénovation urbaine du secteur des Halles de Paris",
+          "@c_titre_court": "Décret n°78-15 du 3 janvier 1978",
+          "@debut": "1978-01-06",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006062805"
+        }
+      ],
+      "@cid": "JORFTEXT000000329327",
+      "@date_publi": "1978-01-06",
+      "@date_signature": "1978-01-03",
+      "@nature": "DECRET",
+      "@num": "78-15"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-01-06",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006563390",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les débits transférés en application de l'article 1er du présent décret ne peuvent faire l'objet d'un nouveau transfert hors de la zone précitée (ZAC) pendant un délai de dix ans.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 78-15 1978-01-03 art. 2 *sanctions pénales*",
+        "@cidtexte": "JORFTEXT000000329327",
+        "@datesignatexte": "1978-01-03",
+        "@id": "JORFTEXT000000329327",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-15",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°78-15 du 3 janvier 1978 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000329327",
+        "@datesignatexte": "1978-01-03",
+        "@id": "LEGIARTI000006563381",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "78-15",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°78-15 du 3 janvier 1978 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000329327",
+        "@datesignatexte": "1978-01-03",
+        "@id": "LEGIARTI000006563398",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "78-15",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 6 22° JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

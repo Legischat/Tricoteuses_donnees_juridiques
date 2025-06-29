@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273727",
+      "ANCIEN_ID": "FAECCXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/37/LEGIARTI000006273727.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1983-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-1126 du 29 décembre 1982 DE FINANCES POUR 1983",
+          "@c_titre_court": "Loi n°82-1126 du 29 décembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503959"
+        },
+        {
+          "#text": "Loi n° 82-1126 du 29 décembre 1982 de finances pour 1983",
+          "@c_titre_court": "Loi n° 82-1126 du 29 décembre 1982",
+          "@debut": "1983-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068728"
+        }
+      ],
+      "@cid": "JORFTEXT000000503959",
+      "@date_publi": "1982-12-30",
+      "@date_signature": "1982-12-29",
+      "@nature": "LOI",
+      "@num": "82-1126"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006273727",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002472236",
+          "@num": "15",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I Paragraphe modificateur<br/>\n<br/>   II - Lorsqu'ils ne sont pas déductibles des résultats imposables d'une société créancière, les abandons de créances consentis par celle-ci à une autre société dans laquelle elle détient une participation au sens de l'article 145 du code général des impôts ne sont pas pris en compte pour la détermination des résultats imposables de la société débitrice.<br/>\n<br/>   Pour bénéficier de cette disposition, la société débitrice doit s'engager à augmenter son capital au profit de la société créancière, d'une somme au moins égale aux abandons de créances visés ci-dessus. L'engagement doit être joint à la déclaration de résultats de l'exercice au cours duquel les abandons sont intervenus ; l'augmentation de capital doit être effectuée, en numéraire ou par conversion de créance, avant la clôture du second exercice suivant.<br/>\n<br/>   En cas de manquement à l'engagement pris, la société débitrice doit rapporter le montant des abandons accordés aux résultats imposables de l'exercice au cours duquel ceux-ci sont intervenus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 145",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 82-1126 1982-12-29 Finances pour 1983 JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983",
+        "@cidtexte": "JORFTEXT000000503959",
+        "@datesignatexte": "1982-12-29",
+        "@id": "JORFTEXT000000503959",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1126",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 145 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006307348",
+        "@naturetexte": "CODE",
+        "@num": "145",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 216 A (V)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006303505",
+        "@naturetexte": "CODE",
+        "@num": "216 A",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351387",
+      "ANCIEN_ID": "MDFAAXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/13/LEGIARTI000006351387.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-04-30",
+        "DATE_FIN": "2001-07-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°77-449 du 29 avril 1977 PORTANT EXTENSION ET ADAPTATION A LA COLLECTIVITE DE MAYOTTE DE LA LOI DU 10 août 1871 RELATIVE AUX CONSEILS GENERAUX",
+          "@c_titre_court": "Ordonnance n°77-449 du 29 avril 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000700124"
+        },
+        {
+          "#text": "Ordonnance n° 77-449 du 29 avril 1977 portant extension et adaptation à la collectivité territoriale de Mayotte de la loi du 10 août 1871 relative aux conseils généraux.",
+          "@c_titre_court": "Ordonnance n° 77-449 du 29 avril 1977",
+          "@debut": "1977-04-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069308"
+        }
+      ],
+      "@cid": "JORFTEXT000000700124",
+      "@date_publi": "1977-04-30",
+      "@date_signature": "1977-04-29",
+      "@nature": "ORDONNANCE",
+      "@num": "77-449"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-04-30",
+          "@etat": "ABROGE",
+          "@fin": "2001-07-13",
+          "@id": "LEGIARTI000006351387",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont annulables les délibérations auxquelles auraient pris part les membres du conseil général intéressés, soit en leur nom personnel, soit comme mandataire, à l'affaire qui en fait l'objet.<br/>\n<br/>   L'annulation est prononcée dans les conditions prévues à l'article 47 de la loi du 10 août 1871, complétée par l'article 5 de la présente ordonnance.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 1871-08-10",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "LOI 1871-08-10 ART. 47",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°77-449 du 29 avril 1977 - art. 5 ()",
+        "@cidtexte": "JORFTEXT000000700124",
+        "@datesignatexte": "1977-04-29",
+        "@id": "LEGIARTI000006351385",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "5",
+        "@numtexte": "77-449",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°2001-616 du 11 juillet 2001 - art. 77 (V)",
+        "@cidtexte": "JORFTEXT000000407771",
+        "@datesignatexte": "2001-07-11",
+        "@id": "LEGIARTI000006386589",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX0000187L",
+        "@num": "77",
+        "@numtexte": "2001-616",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

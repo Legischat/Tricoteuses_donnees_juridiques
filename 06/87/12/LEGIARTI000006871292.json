@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006871292",
+      "ANCIEN_ID": "AIIGEXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/12/LEGIARTI000006871292.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-02-22",
+        "DATE_FIN": "2001-02-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 janvier 1980 fixant la réglementation des conditions d'hygiène relatives à la préparation, à l'entreposage à la disposition et à la vente des crèmes destinées à la consommation humaine",
+          "@c_titre_court": "Arrêté du 14 janvier 1980",
+          "@debut": "1981-02-22",
+          "@fin": "2001-02-01",
+          "@id_txt": "LEGITEXT000006074905"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre III : Conditions sanitaires.",
+            "@debut": "1981-02-22",
+            "@fin": "2001-02-01",
+            "@id": "LEGISCTA000006110990"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074905",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1980-01-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-02-22",
+          "@etat": "ABROGE",
+          "@fin": "2001-02-01",
+          "@id": "LEGIARTI000006871292",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Cette conformité est attestée par l'apposition d'une marque de salubrité au lieu de conditionnement des crèmes.<br/>\n<br/>   Le modèle de la marque de salubrité et les modalités concernant son attribution, son utilisation et son retrait figurent en annexe du présent arrêté.<br/>\n<br/>   La marque de salubrité ne peut être accordée pour les crèmes conditionnées sur les lieux de vente au détail.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1980-01-14 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2000-12-20 art. 2 JORF 1er février 2001",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 71-636 1971-07-21",
+        "@cidtexte": "JORFTEXT000000335914",
+        "@datesignatexte": "1971-07-21",
+        "@id": "JORFTEXT000000335914",
+        "@naturetexte": "DECRET",
+        "@numtexte": "71-636",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006435602",
+      "ANCIEN_ID": "PEEASXXXXXX014AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/56/LEGIARTI000006435602.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1882-03-29",
+        "DATE_FIN": "1966-02-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi  du 28 mars 1882 portant sur l'organisation de l'enseignement primaire.",
+          "@c_titre_court": "Loi du 28 mars 1882",
+          "@debut": "1882-03-29",
+          "@fin": "2000-06-22",
+          "@id_txt": "LEGITEXT000006070887"
+        }
+      ],
+      "@cid": "LEGITEXT000006070887",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1882-03-28",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1882-03-29",
+          "@etat": "ABROGE",
+          "@fin": "1966-02-23",
+          "@id": "LEGIARTI000006435602",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Article abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 66-104 1966-02-18 art. 1 JORF 23 février 1966",
+        "@cidtexte": "JORFTEXT000000510612",
+        "@datesignatexte": "1966-02-18",
+        "@id": "JORFTEXT000000510612",
+        "@naturetexte": "DECRET",
+        "@numtexte": "66-104",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1882-03-28 Bull. 29 mars 1882",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

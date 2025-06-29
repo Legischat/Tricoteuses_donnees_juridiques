@@ -1,0 +1,161 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006620777",
+      "ANCIEN_ID": "RGAXXXXXXXX5X00125AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/07/LEGIARTI000006620777.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "125",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-05-22",
+        "DATE_FIN": "1959-01-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du vin",
+          "@c_titre_court": "Code du vin",
+          "@debut": "1936-12-24",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006071657"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Production",
+            "@debut": "1936-12-24",
+            "@fin": "2003-09-06",
+            "@id": "LEGISCTA000006099617"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Mesures destinées à régulariser la production et le marché du vin",
+              "@debut": "1936-12-24",
+              "@fin": "2003-09-06",
+              "@id": "LEGISCTA000006122578"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 8 : Pénalités.",
+                "@debut": "1955-05-22",
+                "@fin": "1959-01-09",
+                "@id": "LEGISCTA000006139238"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071657",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-05-22",
+          "@etat": "ABROGE",
+          "@fin": "1959-01-09",
+          "@id": "LEGIARTI000006620777",
+          "@num": "125",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   (article abrogé).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du vin - art. 20 (Ab)",
+        "@cidtexte": "LEGITEXT000006071657",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006620655",
+        "@naturetexte": "CODE",
+        "@num": "20",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du vin - art. 325 (Ab)",
+        "@cidtexte": "LEGITEXT000006071657",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006620996",
+        "@naturetexte": "CODE",
+        "@num": "325",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 1936-12-01",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 1941-02-03 art. 8 JORF 11 février 1941",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 55-671 1955-05-20 art. 1 JORF 22 mai 1955",
+        "@cidtexte": "JORFTEXT000000508231",
+        "@datesignatexte": "1955-05-20",
+        "@id": "JORFTEXT000000508231",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-671",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret-loi 1938-05-31 art. 17 JORF 1er juin 1938",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 1931-07-04 art. 14",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Ordonnance n°59-125 du 7 janvier 1959 - art. 3 (V) JORF 9 janvier 1959",
+        "@cidtexte": "JORFTEXT000000517364",
+        "@datesignatexte": "1959-01-07",
+        "@id": "LEGIARTI000006621130",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "3",
+        "@numtexte": "59-125",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance n°59-125 du 7 janvier 1959 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000517364",
+        "@datesignatexte": "1959-01-07",
+        "@id": "LEGIARTI000006621130",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "3",
+        "@numtexte": "59-125",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

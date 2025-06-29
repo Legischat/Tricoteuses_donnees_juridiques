@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283624",
+      "ANCIEN_ID": "ARAXXXXXXXX5X00641AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/36/LEGIARTI000006283624.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "641",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-03-18",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de commerce (ancien)",
+          "@c_titre_court": "Code de commerce",
+          "@debut": "1807-09-20",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre IV : De la juridiction commerciale",
+            "@debut": "1807-09-20",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083848"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : De la compétence des tribunaux de commerce.",
+              "@debut": "1807-09-24",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006114115"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069441",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-03-18",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006283624",
+          "@num": "641",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'instruction, dans le cas prévu à l'article L. 311-3 du code de l'organisation judiciaire, aura lieu dans la même forme que devant les tribunaux de commerce, et les jugements produiront les mêmes effets.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 78-329 1978-03-16 art. 3 JORF 18 mars 1978",
+        "@cidtexte": "JORFTEXT000000337659",
+        "@datesignatexte": "1978-03-16",
+        "@id": "JORFTEXT000000337659",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-329",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 1807-09-14 promulguée le 24 septembre 1807",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'organisation judiciaire L311-3",
+        "@cidtexte": "LEGITEXT000006071164",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071164",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

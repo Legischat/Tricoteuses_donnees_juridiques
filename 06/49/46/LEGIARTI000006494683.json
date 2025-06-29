@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006494683",
+      "ANCIEN_ID": "PJFABXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/46/LEGIARTI000006494683.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-03",
+        "DATE_FIN": "2014-11-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 59-1 du 2 janvier 1959 portant loi organique sur la Haute Cour de justice.",
+          "@c_titre_court": "Ordonnance n° 59-1 du 2 janvier 1959",
+          "@debut": "1959-01-03",
+          "@fin": "2014-11-26",
+          "@id_txt": "LEGITEXT000006071058"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Composition et fonctionnement.",
+            "@debut": "1959-01-03",
+            "@fin": "2014-11-26",
+            "@id": "LEGISCTA000006094194"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071058",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1959-01-02",
+      "@nature": "ORDONNANCE",
+      "@num": "59-1"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-03",
+          "@etat": "ABROGE",
+          "@fin": "2014-11-26",
+          "@id": "LEGIARTI000006494683",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Tout juge qui sait cause de récusation en sa personne même en dehors des cas prévus à l'article 6 est tenu   de le déclarer à la Haute Cour qui décide s'il doit s'abstenir.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2014-1392 du 24 novembre 2014 - art. 8",
+        "@cidtexte": "JORFTEXT000029796562",
+        "@datesignatexte": "2014-11-24",
+        "@id": "LEGIARTI000029797072",
+        "@naturetexte": "LOI",
+        "@nortexte": "PRMX1029143L",
+        "@num": "8",
+        "@numtexte": "2014-1392",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Ordonnance n° 59-1 du 2 janvier 1959 - art. 6 (Ab)",
+        "@cidtexte": "LEGITEXT000006071058",
+        "@datesignatexte": "1959-01-02",
+        "@id": "LEGIARTI000006494681",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "6",
+        "@numtexte": "59-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

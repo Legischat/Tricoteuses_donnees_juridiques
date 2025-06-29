@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006274345",
+      "ANCIEN_ID": "SEEAPXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/43/LEGIARTI000006274345.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-01-04",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-4 du 3 janvier 1984 INSTITUANT POUR LES SALARIES UN CONGE POUR LA CREATION D'ENTREPRISE ET UN CONGE SABBATIQUE",
+          "@c_titre_court": "Loi n°84-4 du 3 janvier 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000504721"
+        },
+        {
+          "#text": "Loi n°84-4 du 3 janvier 1984  INSTITUANT POUR LES SALARIES UN CONGE POUR LA CREATION D'ENTREPRISES ET UN CONGE SABBATIQUE",
+          "@c_titre_court": "Loi n°84-4 du 3 janvier 1984",
+          "@debut": "1984-01-04",
+          "@fin": "2010-12-01",
+          "@id_txt": "LEGITEXT000006068835"
+        }
+      ],
+      "@cid": "JORFTEXT000000504721",
+      "@date_publi": "1984-01-04",
+      "@date_signature": "1984-01-03",
+      "@nature": "LOI",
+      "@num": "84-4"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-01-04",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006274345",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001492059",
+          "@num": "3",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les dispositions de la présente loi sont applicables au personnel navigant des entreprises d'armement maritime dans les conditions fixées, compte tenu des adaptations nécessaires, par décret en Conseil d'Etat.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des transports - art. L5544-25 (M)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023079533",
+        "@naturetexte": "CODE",
+        "@num": "L5544-25",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

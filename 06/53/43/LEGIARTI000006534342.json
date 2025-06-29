@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006534342",
+      "ANCIEN_ID": "ADHAIXXXXXX003AAXXXXXXBA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/43/LEGIARTI000006534342.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-02-15",
+        "DATE_FIN": "2008-02-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 11 mars 1908 pris pour l'exécution de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles en ce qui concerne les graisses et huiles comestibles",
+          "@c_titre_court": "Décret du 11 mars 1908",
+          "@debut": "1908-03-14",
+          "@fin": "2008-02-29",
+          "@id_txt": "LEGITEXT000006071231"
+        }
+      ],
+      "@cid": "LEGITEXT000006071231",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1908-03-11",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-02-15",
+          "@etat": "ABROGE",
+          "@fin": "2008-02-29",
+          "@id": "LEGIARTI000006534342",
+          "@num": "3-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les huiles dont le chauffage est à déconseiller dans certaines conditions sont soumises à des règles particulières d'étiquetage par arrêtés pris conjointement par le ministre de l'agriculture et du développement rural, le ministre de l'économie et des finances, le ministre du développement industriel et scientifique, le ministre de la santé publique et le ministre du commerce et de l'artisanat.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-139 1973-02-12 JORF 15 février 1973 rectificatif JORF 15 avril 1973",
+        "@cidtexte": "JORFTEXT000000875382",
+        "@datesignatexte": "1973-02-12",
+        "@id": "JORFTEXT000000875382",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-139",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°2008-184\n du 26 février 2008 - art. 12 (V)",
+        "@cidtexte": "JORFTEXT000018188420",
+        "@datesignatexte": "2008-02-26",
+        "@id": "LEGIARTI000018191072",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECEC0766931D",
+        "@num": "12",
+        "@numtexte": "2008-184",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

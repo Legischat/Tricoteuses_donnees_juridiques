@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006606332",
+      "ANCIEN_ID": "ADICDXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/63/LEGIARTI000006606332.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1961-11-22",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 octobre 1961 COMMERCE DES POMMES DE TERRE (POMMES DE TERRE DE PRIMEUR ET DE CONSOMMATION)",
+          "@c_titre_court": "Arrêté du 31 octobre 1961",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000436591"
+        },
+        {
+          "#text": "Arrêté du 31 octobre 1961 relatif au commerce des pommes de terre (pommes de terre de primeur et de conservation)",
+          "@c_titre_court": "Arrêté du 31 octobre 1961",
+          "@debut": "1961-11-22",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071410"
+        }
+      ],
+      "@cid": "JORFTEXT000000436591",
+      "@date_publi": "1961-11-22",
+      "@date_signature": "1961-10-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-11-22",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006606332",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 2 avril 1958 modifié est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1958-04-02",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1961-10-31 JORF 22 novembre 1961 rectificatif JORF 5 décembre 1961",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 55-1126 1955-08-19",
+        "@cidtexte": "JORFTEXT000000300717",
+        "@datesignatexte": "1955-08-19",
+        "@id": "JORFTEXT000000300717",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-1126",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

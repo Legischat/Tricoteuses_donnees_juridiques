@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006863643",
+      "ANCIEN_ID": "UPIRPXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/36/LEGIARTI000006863643.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-08-26",
+        "DATE_FIN": "2003-05-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 septembre 1949 fixant la liste des produits industriels simples non soumis à l'homologation prévue par la loi du 2 novembre 1943.",
+          "@c_titre_court": "Arrêté du 7 septembre 1949",
+          "@debut": "1959-09-24",
+          "@fin": "2003-05-10",
+          "@id_txt": "LEGITEXT000006074672"
+        }
+      ],
+      "@cid": "LEGITEXT000006074672",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1949-09-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1949-09-15",
+          "@etat": "MODIFIE",
+          "@fin": "1990-08-26",
+          "@id": "LEGIARTI000006863642",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-08-26",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-10",
+          "@id": "LEGIARTI000006863643",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans le cas de substances ou préparations vénéneuses ou dangereuses, les emballages et l'étiquetage doivent être conformes au code de la santé publique et au décret n° 88-1231 du 29 décembre 1988 relatif à certaines substances et préparations dangereuses.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-07-03 art. 1 JORF 26 août 1990",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2003-04-07 art. 1 JORF 10 mai 2003",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 88-1231 1988-12-29",
+        "@cidtexte": "JORFTEXT000000868141",
+        "@datesignatexte": "1988-12-29",
+        "@id": "JORFTEXT000000868141",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSM8801465D",
+        "@numtexte": "88-1231",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

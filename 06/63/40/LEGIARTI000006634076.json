@@ -1,0 +1,75 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006634076",
+      "ANCIEN_ID": "ADIVNXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/40/LEGIARTI000006634076.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1994-12-28",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 décembre 1994 relatif à l'automatisation d'un traitement d'informations nominatives dont l'objet est la gestion du parc matériel et des logiciels informatiques de la D.G.C.C.R.F.",
+          "@c_titre_court": "Arrêté du 6 décembre 1994",
+          "@debut": "1994-12-28",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071881"
+        }
+      ],
+      "@cid": "LEGITEXT000006071881",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1994-12-06",
+      "@nature": "ARRETE",
+      "@nor": "ECOC9410261R"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-12-28",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006634076",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les catégories d'informations enregistrées sont les suivantes :<br/>\n<br/>   - l'unité centrale : code du poste, date de l'observation, site, entité, emplacement, nom utilisateur, modèle, marque et numéro de série du matériel, processeur, écran, mémoires, disques durs, lecteurs, sorties, fichiers autoexec.bat et config.sys ;<br/>\n<br/>   - le disque dur : code du poste, date de l'observation, lettre disque, disque local ou réseau, type, nom volume, taille totale disponible et libre, répertoires (fichiers, taille) ;<br/>\n<br/>   - les périphériques : code du poste, date de l'observation, code, marque et modèle du périphérique, numéro de série, caractéristiques ;<br/>\n<br/>   - les logiciels : code du poste, date de l'observation, lettre du disque, nom, numéro de série, numéro de version du logiciel installé, taille fichiers programme, taille fichiers données.<br/>\n<br/>   Les informations enregistrées sont conservées pendant la durée de vie des matériels.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-12-06 BOCC n° 24 28 décembre 1994",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 82-890 1982-10-19",
+        "@cidtexte": "JORFTEXT000000880395",
+        "@datesignatexte": "1982-10-19",
+        "@id": "JORFTEXT000000880395",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-890",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

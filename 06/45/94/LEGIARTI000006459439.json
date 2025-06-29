@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006459439",
+      "ANCIEN_ID": "PFHSAXXXXXX027AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/94/LEGIARTI000006459439.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "27",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1990-08-01",
+        "DATE_FIN": "1997-04-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 90-714 du 1er août 1990 relatif aux dispositions statutaires    communes applicables aux corps d'ouvriers professionnels des administrations    de l'Etat et aux corps de maîtres ouvriers des administrations de l'Etat",
+          "@c_titre_court": "Décret n°90-714 du 1 août 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000350787"
+        },
+        {
+          "#text": "Décret n°90-714 du 1 août 1990 relatif aux dispositions statutaires communes applicables aux corps d'ouvriers professionnels des administrations de l'Etat et aux corps de maîtres ouvriers des administrations de l'Etat",
+          "@c_titre_court": "Décret n°90-714 du 1 août 1990",
+          "@debut": "1990-08-01",
+          "@fin": "2008-01-01",
+          "@id_txt": "LEGITEXT000006076328"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE IV : Dispositions transitoires et finales.",
+            "@debut": "1990-08-01",
+            "@fin": "2005-10-01",
+            "@id": "LEGISCTA000006092225"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000350787",
+      "@date_publi": "1990-08-11",
+      "@date_signature": "1990-08-01",
+      "@nature": "DECRET",
+      "@nor": "FPPA9000067D",
+      "@num": "90-714"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-08-01",
+          "@etat": "TRANSFERE",
+          "@fin": "1997-04-27",
+          "@id": "LEGIARTI000006459439",
+          "@num": "27",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-04-27",
+          "@etat": "ABROGE",
+          "@fin": "2005-10-01",
+          "@id": "LEGIARTI000006459440",
+          "@num": "27",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il n'est plus procédé à des recrutements dans les corps d'ouvriers professionnels de 1re catégorie et de 3e catégorie régis par le décret n° 75-887 du 23 septembre 1975 susmentionné.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 75-887 1975-09-23",
+        "@cidtexte": "JORFTEXT000000500784",
+        "@datesignatexte": "1975-09-23",
+        "@id": "JORFTEXT000000500784",
+        "@naturetexte": "DECRET",
+        "@numtexte": "75-887",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 90-714 1990-08-01 art. 32",
+        "@cidtexte": "JORFTEXT000000350787",
+        "@datesignatexte": "1990-08-01",
+        "@id": "JORFTEXT000000350787",
+        "@naturetexte": "DECRET",
+        "@nortexte": "FPPA9000067D",
+        "@numtexte": "90-714",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

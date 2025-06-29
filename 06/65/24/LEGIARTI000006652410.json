@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652410",
+      "ANCIEN_ID": "SBAXXXXXXXX5X02100AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/24/LEGIARTI000006652410.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE_DIFF",
+        "DATE_DEBUT": "1926-12-15",
+        "DATE_FIN": "2222-02-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires",
+            "@debut": "1926-12-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101378"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-12-15",
+          "@etat": "ABROGE_DIFF",
+          "@fin": "2222-02-22",
+          "@id": "LEGIARTI000006652410",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE_DIFF"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<p>Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne l'article 21 (Fin de vigueur : date indéterminée).</p>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le marin est tenu d'accomplir, en dehors des heures de service, le travail de mise en état de propreté de son poste d'équipage, des annexes de ce poste, de ses objets de couchage et des ustensiles de plat, sans que ce travail puisse donner lieu à allocation supplémentaire.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307 du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

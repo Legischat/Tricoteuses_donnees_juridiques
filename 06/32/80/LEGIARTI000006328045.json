@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006328045",
+      "ANCIEN_ID": "FAIRAXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/80/LEGIARTI000006328045.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-03-18",
+        "DATE_FIN": "1989-12-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 mars 1986 portant création d'un comité de gestion de la taxe parafiscale sur les huiles de base.",
+          "@c_titre_court": "Arrêté du 14 mars 1986",
+          "@debut": "1986-03-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069976"
+        }
+      ],
+      "@cid": "LEGITEXT000006069976",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-03-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-18",
+          "@etat": "MODIFIE",
+          "@fin": "1989-12-05",
+          "@id": "LEGIARTI000006328045",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le comité de gestion institué par le présent arrêté se substitue au comité institué par l'arrêté du 30 juin 1979.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-06-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1986-03-14 art. 9",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 86-549 1986-03-14",
+        "@cidtexte": "JORFTEXT000000332717",
+        "@datesignatexte": "1986-03-14",
+        "@id": "JORFTEXT000000332717",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-549",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

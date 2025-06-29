@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006678203",
+      "ANCIEN_ID": "SHIGYXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/82/LEGIARTI000006678203.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-08-23",
+        "DATE_FIN": "2013-07-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 août 1982 relatif aux couleurs et signaux de sécurité",
+          "@c_titre_court": "Arrêté du 4 août 1982",
+          "@debut": "1982-08-12",
+          "@fin": "2013-07-07",
+          "@id_txt": "LEGITEXT000006072583"
+        }
+      ],
+      "@cid": "LEGITEXT000006072583",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-08-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-08-12",
+          "@etat": "MODIFIE",
+          "@fin": "2006-08-23",
+          "@id": "LEGIARTI000006678202",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-08-23",
+          "@etat": "ABROGE",
+          "@fin": "2013-07-07",
+          "@id": "LEGIARTI000006678203",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le commissaire à la normalisation, le directeur des affaires sociales au ministère de l'agriculture et le directeur général du travail au ministère du travail sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2006-1033 du 22 août 2006 - art. 5 (V) JORF 23 août 2006",
+        "@cidtexte": "JORFTEXT000000457187",
+        "@datesignatexte": "2006-08-22",
+        "@id": "LEGIARTI000006254160",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SOCT0611444D",
+        "@num": "5",
+        "@numtexte": "2006-1033",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 3 juillet 2013 - art. 1",
+        "@cidtexte": "JORFTEXT000027665190",
+        "@datesignatexte": "2013-07-03",
+        "@id": "LEGIARTI000027677801",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "PROI1243069A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006540566",
+      "ANCIEN_ID": "PQHBYXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/05/LEGIARTI000006540566.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-10-19",
+        "DATE_FIN": "2016-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 93-1175 du 12 octobre 1993  portant délégation de compétence",
+          "@c_titre_court": "Décret n° 93-1175 du 12 octobre 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000885946"
+        },
+        {
+          "#text": "Décret n°93-1175 du 12 octobre 1993 portant délégation de compétence",
+          "@c_titre_court": "Décret n°93-1175 du 12 octobre 1993",
+          "@debut": "1993-10-19",
+          "@fin": "2016-09-01",
+          "@id_txt": "LEGITEXT000006067818"
+        }
+      ],
+      "@cid": "JORFTEXT000000885946",
+      "@date_publi": "1993-10-19",
+      "@date_signature": "1993-10-12",
+      "@nature": "DECRET",
+      "@nor": "BUDF9310027D",
+      "@num": "93-1175"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-10-19",
+          "@etat": "ABROGE",
+          "@fin": "2016-09-01",
+          "@id": "LEGIARTI000006540566",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 87-1050 du 24 décembre 1987 portant délégation de compétence est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°87-1050 du 24 décembre 1987",
+        "@cidtexte": "JORFTEXT000000695671",
+        "@datesignatexte": "1987-12-24",
+        "@id": "JORFTEXT000000695671",
+        "@naturetexte": "DECRET",
+        "@nortexte": "BUDL8700169D",
+        "@numtexte": "87-1050",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2016-1099 du 11 août 2016 - art. 4",
+        "@cidtexte": "JORFTEXT000033026108",
+        "@datesignatexte": "2016-08-11",
+        "@id": "LEGIARTI000033033148",
+        "@naturetexte": "DECRET",
+        "@nortexte": "FCPE1604885D",
+        "@num": "4",
+        "@numtexte": "2016-1099",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

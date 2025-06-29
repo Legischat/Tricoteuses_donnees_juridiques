@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006762128",
+      "ANCIEN_ID": "SSHAE1XXXXX003AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/21/LEGIARTI000006762128.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-11-04",
+        "DATE_FIN": "1985-05-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-1429 du 2 novembre 1955  FIXANT LES CONDITIONS D'APPLICATION DE L'ARTICLE 2 INSTITUANT UNE ALLOCATION DITE \"DE LA MERE AU FOYER\", DE LA LOI 55-1045 DU 6 AOUT 1955 PORTANT FIXATION DU BUDGET ANNEXE DES PRESTATIONS FAMILIALES AGRICOLES POUR LES EXERCICES 1955 ET 1956.",
+          "@c_titre_court": "Décret n°55-1429 du 2 novembre 1955",
+          "@debut": "1955-11-04",
+          "@fin": "1985-05-04",
+          "@id_txt": "LEGITEXT000006073384"
+        }
+      ],
+      "@cid": "LEGITEXT000006073384",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1955-11-02",
+      "@nature": "DECRET",
+      "@num": "55-1429"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-11-04",
+          "@etat": "ABROGE",
+          "@fin": "1985-05-04",
+          "@id": "LEGIARTI000006762128",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   N'est pas considérée comme la source d'un revenu professionnel distinct l'activité de l'épouse consacrée à la participation coutumière aux travaux de l'exploitation [*définition*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Circulaire 1955-11-02 AGRICULTURE",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi n°55-1045 du 6 août 1955 - art. 2, v. init.",
+        "@cidtexte": "JORFTEXT000000879813",
+        "@datesignatexte": "1955-08-06",
+        "@id": "JORFARTI000001295209",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "55-1045",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 77-1255 1977-11-16 ART. 2 : Ces dispositions cessent d'être applicables à compter du 1er janvier 1978 aux personnes autres que celles qui sont mentionnées aux art. 11, 12, 13 de la loi 765 du 12 juillet 1977 (Maintien des droits acquis aux fam",
+        "@cidtexte": "JORFTEXT000000335052",
+        "@datesignatexte": "1977-11-16",
+        "@id": "JORFTEXT000000335052",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-1255",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 85-475 1985-04-26 art. 15 JORF 4 mai 1985",
+        "@cidtexte": "JORFTEXT000000700300",
+        "@datesignatexte": "1985-04-26",
+        "@id": "JORFTEXT000000700300",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-475",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

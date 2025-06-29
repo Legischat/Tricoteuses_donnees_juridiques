@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006900740",
+      "ANCIEN_ID": "AKEAGXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/07/LEGIARTI000006900740.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1941-07-06",
+        "DATE_FIN": "1984-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°41-2532 du 13 juin 1941 relative à la réglementation et à l'organisation de la profession bancaire",
+          "@c_titre_court": "Loi n°41-2532 du 13 juin 1941",
+          "@debut": "1941-07-06",
+          "@fin": "1984-07-25",
+          "@id_txt": "LEGITEXT000006075122"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : De la réglementation de la profession bancaire",
+            "@debut": "1941-07-06",
+            "@fin": "1984-07-27",
+            "@id": "LEGISCTA000006112872"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Définition des banques - Interdictions.",
+              "@debut": "1941-07-06",
+              "@fin": "1984-07-27",
+              "@id": "LEGISCTA000006132308"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006075122",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1941-06-13",
+      "@nature": "LOI",
+      "@num": "41-2532"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1941-07-06",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006900740",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est interdit aux entreprises autres que les banques [*monopole des banquiers*] de recevoir du public des dépôts de fonds à vue ou à moins de deux ans [*court terme*].<br/>\n<br/>   Sont assimilés aux dépôts reçus du public pour l'application de l'alinéa précédent les dépôts qu'une entreprise reçoit de son personnel salarié, à moins que le montant de ces dépôts reste inférieur à 10 % [*pourcentage*] du capital dont l'entreprise peut justifier.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 I JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 41-2532 1941-06-13 JORF 6 juillet 1941 rectificatif JORF 11 septembre 1941",
+        "@cidtexte": "LEGITEXT000006075122",
+        "@datesignatexte": "1941-06-13",
+        "@id": "LEGITEXT000006075122",
+        "@naturetexte": "LOI",
+        "@numtexte": "41-2532",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 41-2532 1941-06-13 art. 21 *sanctions*",
+        "@cidtexte": "LEGITEXT000006075122",
+        "@datesignatexte": "1941-06-13",
+        "@id": "LEGITEXT000006075122",
+        "@naturetexte": "LOI",
+        "@numtexte": "41-2532",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi n°41-2532 du 13 juin 1941 - art. 21 (Ab)",
+        "@cidtexte": "LEGITEXT000006075122",
+        "@datesignatexte": "1941-06-13",
+        "@id": "LEGIARTI000006900758",
+        "@naturetexte": "LOI",
+        "@num": "21",
+        "@numtexte": "41-2532",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°41-2532 du 13 juin 1941 - art. 5 (Ab)",
+        "@cidtexte": "LEGITEXT000006075122",
+        "@datesignatexte": "1941-06-13",
+        "@id": "LEGIARTI000006900742",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "41-2532",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

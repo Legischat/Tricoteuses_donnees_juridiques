@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006519452",
+      "ANCIEN_ID": "PLAXXXXXXXX2XA00R02AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/94/LEGIARTI000006519452.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe Tableau II",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-03-18",
+        "DATE_FIN": "2008-06-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de l'organisation judiciaire",
+          "@c_titre_court": "Code de l'organisation judiciaire",
+          "@debut": "1978-03-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071164"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1978-03-18",
+            "@fin": "2008-06-05",
+            "@id": "LEGISCTA000006095564"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071164",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-03-18",
+          "@etat": "ABROGE",
+          "@fin": "2008-06-05",
+          "@id": "LEGIARTI000006519452",
+          "@num": "Annexe Tableau II",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p align=\"center\">\n<strong>Siège et ressort des tribunaux d'instance<br/>ayant compétence exclusive en matière pénale<br/>\n<br/>\n<br/>\n<br/>\n</strong>\n</p>\n<table>\n<tbody>\n<tr>\n<td>\n<p align=\"center\">SIÈGE </p>\n</td>\n<td>\n<p align=\"center\">RESSORT </p>\n</td>\n</tr>\n<tr>\n<td>Paris</td>\n<td>Les vingt arrondissements de Paris</td>\n</tr>\n<tr>\n<td>Lyon</td>\n<td>La circonscription du Tribunal d'instance de Lyon</td>\n</tr>\n<tr>\n<td>\n<p>Marseille</p>\n</td>\n<td>La circonscription du Tribunal d'instance de Marseille</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 78-330 1978-03-16",
+        "@cidtexte": "JORFTEXT000000874394",
+        "@datesignatexte": "1978-03-16",
+        "@id": "JORFTEXT000000874394",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-330",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2008-522\n du 2 juin 2008 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000018897680",
+        "@datesignatexte": "2008-06-02",
+        "@id": "LEGIARTI000018898553",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSB0769949D",
+        "@num": "1",
+        "@numtexte": "2008-522",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de l'organisation judiciaire R623-1",
+        "@cidtexte": "LEGITEXT000006071164",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071164",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

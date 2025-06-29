@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006240461",
+      "ANCIEN_ID": "UQHMOXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/24/04/LEGIARTI000006240461.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-04-23",
+        "DATE_FIN": "2007-10-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2005-378 du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses",
+          "@c_titre_court": "Décret n°2005-378 du 20 avril 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000259598"
+        },
+        {
+          "#text": "Décret n°2005-378 du 20 avril 2005 relatif au programme national d'action contre la pollution des milieux aquatiques par certaines substances dangereuses.",
+          "@c_titre_court": "Décret n°2005-378 du 20 avril 2005",
+          "@debut": "2005-04-23",
+          "@fin": "2007-10-16",
+          "@id_txt": "LEGITEXT000006051568"
+        }
+      ],
+      "@cid": "JORFTEXT000000259598",
+      "@date_publi": "2005-04-23",
+      "@date_signature": "2005-04-20",
+      "@ministere": "MINISTERE DE L'ECOLOGIE ET DU DEVELOPPEMENT DURABLE",
+      "@nature": "DECRET",
+      "@nor": "DEVO0530000D",
+      "@num": "2005-378"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-04-23",
+          "@etat": "ABROGE",
+          "@fin": "2007-10-16",
+          "@id": "LEGIARTI000006240461",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001677596",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour chaque substance inscrite sur la liste mentionnée à l'article précédent, le ministre fixe par arrêté des normes de qualité dont le respect doit permettre que les milieux aquatiques ne soient pas affectés de façon perceptible.<br/>\n<br/>   Les normes sont fixées en tenant compte des connaissances disponibles relatives à la toxicité tant aiguë que chronique de chaque substance pour les algues ou les macrophytes, les invertébrés et les poissons. Elles peuvent être différentes selon qu'elles s'appliquent aux eaux de surface, aux eaux de transition ou aux eaux marines intérieures et territoriales.<br/>\n<br/>   Les normes de qualité sont respectées lorsque, pour chaque substance, les concentrations dans les milieux aquatiques calculées en moyenne annuelle à partir des réseaux de mesures mis en place pour la surveillance de la qualité des eaux ne dépassent pas la valeur fixée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2005-378 du 20 avril 2005 - art. 2, v. init.",
+        "@cidtexte": "JORFTEXT000000259598",
+        "@datesignatexte": "2005-04-20",
+        "@id": "JORFARTI000001677596",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVO0530000D",
+        "@num": "2",
+        "@numtexte": "2005-378",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2007-1467 2007-10-12 art. 10 V JORF 16 octobre 2007",
+        "@cidtexte": "JORFTEXT000000825108",
+        "@datesignatexte": "2007-10-12",
+        "@id": "JORFTEXT000000825108",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVG0750611D",
+        "@numtexte": "2007-1467",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

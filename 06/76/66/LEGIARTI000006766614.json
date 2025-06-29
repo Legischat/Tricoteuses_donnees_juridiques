@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006766614",
+      "ANCIEN_ID": "SSHAKVXXXXX062AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/66/LEGIARTI000006766614.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "62",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1999-07-01",
+        "DATE_FIN": "2001-08-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 17 juin 1938 relatif à la réorganisation et à l'unification du régime d'assurance ‎des marins",
+          "@c_titre_court": "Décret-loi du 17 juin 1938",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000850809"
+        },
+        {
+          "#text": "Décret du 17 juin 1938  RELATIF A LA REORGANISATION ET A L'UNIFICATION DU REGIME D'ASSURANCE DES MARINS",
+          "@c_titre_court": "Décret du 17 juin 1938",
+          "@debut": "1938-06-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073400"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE 6 : DISPOSITIONS TRANSITOIRES",
+            "@debut": "1938-06-29",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006106892"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000850809",
+      "@date_publi": "1938-06-29",
+      "@date_signature": "1938-06-17",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1938-06-29",
+          "@etat": "MODIFIE",
+          "@fin": "1999-07-01",
+          "@id": "LEGIARTI000006766613",
+          "@num": "62",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-07-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-08-30",
+          "@id": "LEGIARTI000006766614",
+          "@num": "62",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-08-30",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006766615",
+          "@num": "62",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent décret seront applicables en ce qui concerne les accidents survenus et les maladies constatées médicalement pour la première fois à partir du 1er janvier 1939 [*date, point de départ*].<br/>\n<br/>\n<br/>   Si, à la date de l'accident ou de la première constatation médicale de la maladie, le marin ne compte pas 360 jours de services maritimes ayant donné lieu à versement au profit de la caisse générale de prévoyance [*condition d'ancienneté*], son salaire annuel sera calculé en prenant pour base les sommes taxées pendant la période de référence prévue à l'article 7, soit au profit de ladite caisse, soit au profit de la caisse de prévoyance des marins français.<br/>\n<br/>\n<br/>   Pour l'application des articles 29, 37 et 45, les journées de cotisation à la caisse de prévoyance ou à la caisse nationale de répartition pour le service des assurances sociales antérieures au 1er janvier 1939 [*date, point de départ*] et les journées de maladie indemnisées par l'une ou l'autre de ces caisses entreront en compte dans le calcul du nombre de journées de cotisations nécessaires pour ouvrir droit à l'assurance.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1938-06-17 art. 7, art. 29, art. 37, art. 45",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°99-542 du 28 juin 1999 - art. 5 () JORF 29 juin 1999 en vigueur le 1er juillet 1999",
+        "@cidtexte": "JORFTEXT000000577998",
+        "@datesignatexte": "1999-06-28",
+        "@id": "LEGIARTI000006780360",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUB9900460D",
+        "@num": "5",
+        "@numtexte": "99-542",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2001-765 du 28 août 2001 - art. 2 () JORF 30 août 2001",
+        "@cidtexte": "JORFTEXT000000224032",
+        "@datesignatexte": "2001-08-28",
+        "@id": "LEGIARTI000006780084",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUB0100909D",
+        "@num": "2",
+        "@numtexte": "2001-765",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006809580",
+      "ANCIEN_ID": "TXXXXXXXXXX0330R0030XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/95/LEGIARTI000006809580.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R330-3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1980-01-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "PLACEMENT ET EMPLOI",
+              "@debut": "1973-11-23",
+              "@fin": "1985-04-04",
+              "@id": "LEGISCTA000006128500"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "AGENCE NATIONALE POUR L'EMPLOI *ANPE* .",
+                "@debut": "1973-11-23",
+                "@fin": "1980-01-25",
+                "@id": "LEGISCTA000006143038"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "MODIFIE",
+          "@fin": "1980-01-25",
+          "@id": "LEGIARTI000006809580",
+          "@num": "R330-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-02-26",
+          "@etat": "ABROGE",
+          "@fin": "1987-06-25",
+          "@id": "LEGIARTI000006809581",
+          "@num": "R330-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La commission permanente du comité supérieur de l'emploi prévue à l'article L. 322-2 est le comité consultatif de l'Agence.<br/>\n<br/>   Le comité de gestion est saisi des avis et propositions du comité consultatif.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-1014 1967-11-21 ART. 3",
+        "@cidtexte": "JORFTEXT000000852646",
+        "@datesignatexte": "1967-11-21",
+        "@id": "JORFTEXT000000852646",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-1014",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail - art. L322-2 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006648105",
+        "@naturetexte": "CODE",
+        "@num": "L322-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

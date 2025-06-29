@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006341361",
+      "ANCIEN_ID": "MCHBEXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/13/LEGIARTI000006341361.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-09-23",
+        "DATE_FIN": "2004-07-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°60-977 du 12 septembre 1960 RELATIF AUX CAISSES DES ECOLES",
+          "@c_titre_court": "Décret n°60-977 du 12 septembre 1960",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869472"
+        },
+        {
+          "#text": "Décret n°60-977 du 12 septembre 1960 relatif aux caisses des écoles",
+          "@c_titre_court": "Décret n°60-977 du 12 septembre 1960",
+          "@debut": "1960-09-14",
+          "@fin": "2004-07-17",
+          "@id_txt": "LEGITEXT000006060990"
+        }
+      ],
+      "@cid": "JORFTEXT000000869472",
+      "@date_publi": "1960-09-14",
+      "@date_signature": "1960-09-12",
+      "@nature": "DECRET",
+      "@num": "60-977"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-03-25",
+          "@etat": "MODIFIE",
+          "@fin": "1983-09-14",
+          "@id": "LEGIARTI000006341360",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-09-23",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-17",
+          "@id": "LEGIARTI000006341361",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les arrondissements de Paris, le président du comité de la caisse des écoles de l'arrondissement peut déléguer sa signature au chef des services économiques de la caisse des écoles de l'arrondissement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2004-703 2004-07-13 art. 6 9° JORF 17 juillet 2004",
+        "@cidtexte": "JORFTEXT000000250594",
+        "@datesignatexte": "2004-07-13",
+        "@id": "JORFTEXT000000250594",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENG0401424D",
+        "@numtexte": "2004-703",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. R212-30 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006525883",
+        "@naturetexte": "CODE",
+        "@num": "R212-30",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'éducation - art. R212-30 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006525883",
+        "@naturetexte": "CODE",
+        "@num": "R212-30",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

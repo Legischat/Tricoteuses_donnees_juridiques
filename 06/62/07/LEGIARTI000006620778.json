@@ -1,0 +1,135 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006620778",
+      "ANCIEN_ID": "RGAXXXXXXXX5X00126AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/07/LEGIARTI000006620778.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "126",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1936-12-24",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du vin",
+          "@c_titre_court": "Code du vin",
+          "@debut": "1936-12-24",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006071657"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Production",
+            "@debut": "1936-12-24",
+            "@fin": "2003-09-06",
+            "@id": "LEGISCTA000006099617"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre III : Sucrages",
+              "@debut": "1936-12-24",
+              "@fin": "2003-09-06",
+              "@id": "LEGISCTA000006122579"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 1 : Chaptalisation",
+                "@debut": "1936-12-24",
+                "@fin": "2003-09-06",
+                "@id": "LEGISCTA000006139239"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Piquettes et vins de sucre.",
+                  "@debut": "1936-12-24",
+                  "@fin": "2003-09-06",
+                  "@id": "LEGISCTA000006153418"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071657",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1936-12-24",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006620778",
+          "@num": "126",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont interdites la fabrication de piquettes et celle des vins de sucre obtenus par la fermentation des marcs de raisins frais avec de l'eau et du sucre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1936-12-01",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 64-902 1964-08-31 JORF 1er septembre 1964 rectificatif JORF 18 septembre 1964",
+        "@cidtexte": "JORFTEXT000000303052",
+        "@datesignatexte": "1964-08-31",
+        "@id": "JORFTEXT000000303052",
+        "@naturetexte": "DECRET",
+        "@numtexte": "64-902",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du vin - art. 146 (Ab)",
+        "@cidtexte": "LEGITEXT000006071657",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006620799",
+        "@naturetexte": "CODE",
+        "@num": "146",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

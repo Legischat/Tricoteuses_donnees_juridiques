@@ -1,0 +1,135 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006776326",
+      "ANCIEN_ID": "AGEABXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/77/63/LEGIARTI000006776326.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-02-15",
+        "DATE_FIN": "1996-07-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°88-70 du 22 janvier 1988 SUR LES BOURSES DE VALEURS",
+          "@c_titre_court": "Loi n°88-70 du 22 janvier 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000684072"
+        },
+        {
+          "#text": "Loi n°88-70 du 22 janvier 1988 sur les bourses de valeurs",
+          "@c_titre_court": "Loi n°88-70 du 22 janvier 1988",
+          "@debut": "1988-01-23",
+          "@fin": "1996-07-04",
+          "@id_txt": "LEGITEXT000006069066"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Des sociétés de bourse.",
+            "@debut": "1988-01-23",
+            "@fin": "1996-07-04",
+            "@id": "LEGISCTA000006107349"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000684072",
+      "@date_publi": "1988-01-23",
+      "@date_signature": "1988-01-22",
+      "@nature": "LOI",
+      "@nor": "ECOX8700048L",
+      "@num": "88-70"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-23",
+          "@etat": "MODIFIE",
+          "@fin": "1996-02-15",
+          "@id": "LEGIARTI000006776325",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-02-15",
+          "@etat": "ABROGE",
+          "@fin": "1996-07-04",
+          "@id": "LEGIARTI000006776326",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sociétés de bourse sont agréées par le conseil des bourses de valeurs dans les conditions fixées par le règlement mentionné à l'article 6.<br/>\n<br/>   Les établissements de crédit agréés en application de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit peuvent demander au Conseil des bourses de valeurs à être habilités pour négocier des valeurs mobilières.<br/>\n<br/>   Elles doivent présenter des garanties suffisantes notamment en ce qui concerne la composition et le montant de leur capital, leur organisation, leurs moyens techniques et financiers, l'honorabilité et l'expérience de leurs dirigeants, ainsi que les dispositions propres à assurer la sécurité des opérations de la clientèle.<br/>\n<br/>   En cas de refus, la décision du conseil des bourses de valeurs est motivée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-46 1984-01-24",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°88-70 du 22 janvier 1988 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000684072",
+        "@datesignatexte": "1988-01-22",
+        "@id": "LEGIARTI000006776357",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700048L",
+        "@num": "6",
+        "@numtexte": "88-70",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°96-109 du 14 février 1996 - art. 2 () JORF 15 février 1996",
+        "@cidtexte": "JORFTEXT000000376141",
+        "@datesignatexte": "1996-02-14",
+        "@id": "LEGIARTI000006637269",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9500155L",
+        "@num": "2",
+        "@numtexte": "96-109",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°96-597 du 2 juillet 1996 - art. 94 (V) JORF 4 juillet 1996",
+        "@cidtexte": "JORFTEXT000000193847",
+        "@datesignatexte": "1996-07-02",
+        "@id": "LEGIARTI000006710384",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9500164L",
+        "@num": "94",
+        "@numtexte": "96-597",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

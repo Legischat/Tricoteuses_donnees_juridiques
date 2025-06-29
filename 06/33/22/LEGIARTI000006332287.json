@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006332287",
+      "ANCIEN_ID": "FBIIYXXXXXXA00AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/22/LEGIARTI000006332287.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2007-10-07",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 mars 1993 relatif aux conditions d'utilisation de systèmes informatisés de billetterie par les exploitants de salles de spectacles visés à l'article 290 quater du code général des impôts ou par les organisateurs de réunions sportives et les exploitants d'établissements de spectacles visés à l'article 1559 du code précité",
+          "@c_titre_court": "Arrêté du 8 mars 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000711316"
+        },
+        {
+          "#text": "Arrêté du 8 mars 1993 relatif aux conditions d'utilisation de systèmes informatisés de billetterie par les exploitants de salles de spectacles visés à l'article 290 quater du code général des impôts ou par les organisateurs de réunions sportives et les exploitants d'établissements de spectacles visés à l'article 1559 du code précité",
+          "@c_titre_court": "Arrêté du 8 mars 1993",
+          "@debut": "1993-03-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006081548"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1993-03-24",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085015"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CAHIER DES CHARGES DES SYSTÈMES DE BILLETTERIE INFORMATISÉS À USAGE DES EXPLOITANTS DE SPECTACLES VISÉS AU I DE L'ARTICLE 290 QUATER DU CODE GÉNÉRAL DES IMPÔTS ET À USAGE DES ORGANISATEURS DE RÉUNIONS SPORTIVES ET DES EXPLOITANTS D'ÉTABLISSEMENTS DE SPECTACLES VISÉS À L'ARTICLE 1559 DU CODE GÉNÉRAL DES IMPÔTS",
+              "@debut": "2007-10-07",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006115027"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000711316",
+      "@date_publi": "1993-03-24",
+      "@date_signature": "1993-03-08",
+      "@nature": "ARRETE",
+      "@nor": "BUDF9300014A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-24",
+          "@etat": "MODIFIE",
+          "@fin": "2007-10-07",
+          "@id": "LEGIARTI000006332286",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-10-07",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006332287",
+          "@num": "Annexe",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent cahier des charges définit les conditions auxquelles doivent répondre les systèmes informatisés de billetterie utilisés par les exploitants de spectacles mentionnés au I de l'article 290 quater du code général des impôts, les organisateurs de réunions sportives et autres utilisateurs de systèmes de billetteries informatisées mentionnés aux articles 1559 et suivants du code général des impôts.<br/>\n<br/>   Il ne concerne pas les caisses enregistreuses automatisées ou les systèmes informatisés dont les conditions d'utilisation par les exploitants de spectacles cinématographiques sont fixées par arrêtés spécifiques.<br/>\n<br/>   I. - Fonctions assurées par le système informatisé<br/>\n<br/>   1. Suivi des émissions de billets :<br/>\n<br/>   Le système doit assurer l'enregistrement de l'entrée dans le lieu de spectacle et de chacune des opérations liées à la billetterie pour en conserver la trace.<br/>\n<br/>   Chaque billet émis doit être identifié par un numéro qui correspond à celui de l'opération conservée en mémoire par le système.<br/>\n<br/>   2. Enregistrement des opérations :<br/>\n<br/>   Toutes les opérations de billetterie (impression des billets et des coupons de gestion en cas d'annulation par exemple) ainsi que les recettes résultant du paiement d'un prix d'entrée doivent être conservées en mémoire.<br/>\n<br/>   Ces opérations sont enregistrées et clairement identifiées par un numéro d'opération qui est celui de l'événement générateur (vente, annulation ...) de l'enregistrement conservé dans le fichier. Cet enregistrement servira de base au calcul des recettes et à l'édition de l'état correspondant.<br/>\n<br/>   Elles sont ventilées par lieu de spectacle, spectacle, séance et catégorie de places.<br/>\n<br/>   3. Etablissement d'un relevé de recettes :<br/>\n<br/>   Le système doit éditer à la fin de chaque journée ou représentation un état précisant le nombre de billets émis, le prix unitaire par catégorie de places, et les recettes correspondantes. Pour les systèmes imprimant des billets, l'état doit en outre préciser l'emploi des billets ou coupons de gestion correspondants.<br/>\n<br/>   Chaque état doit en outre comporter les éléments d'identification suivants : date, et heure s'il y a lieu, de la journée ou de la représentation, date et heure d'édition de l'état.<br/>\n<br/>   4. Dispositions en vue de l'exercice du contrôle :<br/>\n<br/>   Tous les documents susceptibles de justifier les informations ci-dessus devront être tenus à la disposition des agents de l'administration et accessibles immédiatement.<br/>\n<br/>   Le système doit comporter des fonctions d'interrogation en temps réel afin de permettre à ces agents de visualiser et/ou éditer à tout moment les informations nécessaires à la vérification de la cohérence entre les trois éléments suivants :<br/>\n<br/>   1° Les fichiers informatiques se rapportant au traitement mis en oeuvre pour l'application de la réglementation de la billetterie ;<br/>\n<br/>   2° Les éditions ;<br/>\n<br/>   3° L'utilisation des billets.<br/>\n<br/>   Si les billets comportent des mentions codées, le système doit permettre de restituer les informations en clair.<br/>\n<br/>   II. - Sécurités<br/>\n<br/>   1. Toutes les opérations gérées par le système automatisé de billetterie doivent être assorties de procédures permettant d'en garantir l'authenticité.<br/>\n<br/>   2. Des protections sont mises en place de façon que seuls les utilisateurs dûment habilités aient accès au système. Divers degrés d'habilitation seront définis en tant que de besoin en fonction de la qualité de l'utilisateur.<br/>\n<br/>   En toute hypothèse, lors d'un contrôle, les agents de l'administration disposent des fonctions correspondant à leur niveau d'habilitation maximal.<br/>\n<br/>   3. Une opération ne peut être modifiée sans qu'il en soit conservé trace dans le système.<br/>\n<br/>   4. Le système doit comporter des procédures de sauvegarde et de reprise afin de préserver les informations en cas d'incident, de panne, de dysfonctionnement d'un élément du système ou de rupture de l'alimentation électrique.<br/>\n<br/>   III. - Dispositions particulières concernant le suivi de l'émission du billet<br/>\n<br/>   1. Généralités :<br/>\n<br/>   Pour les systèmes imprimant des billets :<br/>\n<br/>   Tout billet ou coupon de gestion devra retracer une transaction ou la non-réalisation de celle-ci.<br/>\n<br/>   2. Informations obligatoires :<br/>\n<br/>   Chaque billet doit comporter les mentions suivantes de façon apparente ou sous forme d'informations codées :<br/>\n<br/>   1° L'identification de l'exploitant ;<br/>\n<br/>   2° Le nom du spectacle et, le cas échéant, le numéro de la séance à laquelle il donne droit ;<br/>\n<br/>   3° La catégorie de places à laquelle il donne droit ;<br/>\n<br/>   4° Le prix global payé par le spectateur ou la mention de gratuité ;<br/>\n<br/>   5° Le numéro d'opération attribué par le système de billetterie ;<br/>\n<br/>   6° En cas de prévente, l'identification de la séance pour laquelle il est valable ainsi que celle de la date et du lieu de vente.<br/>\n<br/>   Les systèmes doivent enregistrer ces différentes informations en précisant si l'opération a donné lieu ou non à l'édition de billets. Si le contrôle est établi sur support informatique, les informations doivent être conservées sous cette forme conformément aux dispositions de l'article L. 102 B du livre des procédures fiscales.<br/>\n<br/>   Le système doit comporter des fonctions d'interrogation en temps réel afin de permettre aux agents de l'administration de visualiser et/ou éditer les informations ci-dessus.<br/>\n<br/>   Coupons de gestion :<br/>\n<br/>   Ce sont les fonds de billets qui ne matérialisent pas un droit d'entrée dans un lieu de spectacle mais retracent une opération de gestion (annulation d'une réservation, édition d'états récapitulatifs divers ...).<br/>\n<br/>   En tout état de cause, ils doivent être aisément distingués des billets d'entrée et être le reflet d'une transaction déterminée gérée par le système de billetterie.<br/>\n<br/>   IV. - Conservation et archivage des informations<br/>\n<br/>   Toutes les informations ayant concouru, directement ou indirectement, à l'établissement des relevés de recettes visé au 3 du I ci-dessus sont conservées dans leur contenu originel et dans l'ordre chronologique de leur émission selon les conditions et délais fixés par l'article L. 102 B du livre des procédures fiscales.<br/>\n<br/>   En cas de changement d'un élément matériel ou logiciel du système informatique, toutes les mesures utiles doivent être prises pour permettre la conservation et la restitution des informations.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2007-10-05 art. 9 JORF 7 octobre 2007",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CGI 290 quater, 1559",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Livre des procédures fiscales - art. L102 B (M)",
+        "@cidtexte": "LEGITEXT000006069583",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006315183",
+        "@naturetexte": "CODE",
+        "@num": "L102 B",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

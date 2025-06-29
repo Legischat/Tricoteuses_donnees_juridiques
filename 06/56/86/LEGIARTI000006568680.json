@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006568680",
+      "ANCIEN_ID": "PUHLGXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/86/LEGIARTI000006568680.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1970-01-01",
+        "DATE_FIN": "2005-10-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°70-79 du 27 janvier 1970 ORGANISATION DES CARRIERES DES FONCTIONNAIRES DE CATEGORIE C ET D",
+          "@c_titre_court": "Décret n°70-79 du 27 janvier 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518664"
+        },
+        {
+          "#text": "Décret n°70-79 du 27 janvier 1970 relatif à l'organisation des carrières des fonctionnaires des catégories C et D.",
+          "@c_titre_court": "Décret n°70-79 du 27 janvier 1970",
+          "@debut": "1970-01-01",
+          "@fin": "2005-10-01",
+          "@id_txt": "LEGITEXT000006061768"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions transitoires",
+            "@debut": "1970-01-01",
+            "@fin": "2005-10-01",
+            "@id": "LEGISCTA000006097783"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000518664",
+      "@date_publi": "1970-01-29",
+      "@date_signature": "1970-01-27",
+      "@nature": "DECRET",
+      "@num": "70-79"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-10-01",
+          "@id": "LEGIARTI000006568680",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les fonctionnaires appartenant à un grade classé dans l'échelle F 2 instituée par le décret n° 62-594 du 26 mai 1962 sont reclassés dans le groupe I conformément aux indications du tableau suivant :<br/>\n<br/>   SITUATION dans l'échelle E 2.<br/>\n<br/>   SITUATION DANS LE GROUPE I<br/>\n<br/>   Ancienneté dans l'échelon<br/>\n<br/>   1er échelon : 2e échelon ; Ancienneté acquise<br/>\n<br/>   2° échelon : 3e échelon ; moitié de l'ancienneté acquise<br/>\n<br/>   3° échelon : 3e échelon ; moitié de l'ancienneté acquise majorée de 1 an et 6 mois<br/>\n<br/>   4° échelon : 4e échelon ; moitié de l'ancienneté acquise majorée de 1 an et 6 mois<br/>\n<br/>   5e échelon : 5e échelon ; Ancienneté acquise.<br/>\n<br/>   6e échelon : 6e échelon ; Ancienneté acquise.<br/>\n<br/>   7e échelon : 7e échelon ; Ancienneté acquise.<br/>\n<br/>   8e échelon : 8e échelon ; Ancienneté acquise.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 62-594 1962-06-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°70-79 du 27 janvier 1970 - art. 14 (Ab)",
+        "@cidtexte": "JORFTEXT000000518664",
+        "@datesignatexte": "1970-01-27",
+        "@id": "LEGIARTI000006568683",
+        "@naturetexte": "DECRET",
+        "@num": "14",
+        "@numtexte": "70-79",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2005-1228 du 29 septembre 2005 - art. 14 (VT) JORF 30 septembre 2005 en vigueur le 1er octobre 2005",
+        "@cidtexte": "JORFTEXT000000632849",
+        "@datesignatexte": "2005-09-29",
+        "@id": "LEGIARTI000006413835",
+        "@naturetexte": "DECRET",
+        "@nortexte": "FPPA0500091D",
+        "@num": "14",
+        "@numtexte": "2005-1228",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

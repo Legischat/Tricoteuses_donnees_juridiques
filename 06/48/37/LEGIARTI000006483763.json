@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006483763",
+      "ANCIEN_ID": "PHHTAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/37/LEGIARTI000006483763.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-01-30",
+        "DATE_FIN": "1998-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 97-73 du 29 janvier 1997 relatif aux conditions de cessation de    fonctions des personnels du Centre français du commerce extérieur",
+          "@c_titre_court": "Décret n°97-73 du 29 janvier 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000747033"
+        },
+        {
+          "#text": "Décret n°97-73 du 29 janvier 1997 relatif aux conditions de cessation de fonctions des personnels du Centre français du commerce extérieur",
+          "@c_titre_court": "Décret n°97-73 du 29 janvier 1997",
+          "@debut": "1997-01-30",
+          "@fin": "1998-12-31",
+          "@id_txt": "LEGITEXT000005622717"
+        }
+      ],
+      "@cid": "JORFTEXT000000747033",
+      "@date_publi": "1997-01-30",
+      "@date_signature": "1997-01-29",
+      "@ministere": "MINISTERE DE L'ECONOMIE ET DES FINANCES",
+      "@nature": "DECRET",
+      "@nor": "FCEE9700005D",
+      "@num": "97-73"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-01-30",
+          "@etat": "ABROGE",
+          "@fin": "1998-12-31",
+          "@id": "LEGIARTI000006483763",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de licenciement pour suppression d'emploi, l'indemnité prévue à l'article 39 du décret n° 60-425 du 4 mai 1960 susvisé est calculée à raison de 120 % de la rémunération afférente au dernier mois d'activité, multipliée par le nombre d'années de service, toute fraction de service supérieure à six mois étant comptée pour un an, sans que le montant total puisse excéder vingt-quatre fois la même rémunération.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 60-425 1960-05-04",
+        "@cidtexte": "JORFTEXT000000521462",
+        "@datesignatexte": "1960-05-04",
+        "@id": "JORFTEXT000000521462",
+        "@naturetexte": "DECRET",
+        "@numtexte": "60-425",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°60-425 du 4 mai 1960 - art. 39 (V)",
+        "@cidtexte": "JORFTEXT000000521462",
+        "@datesignatexte": "1960-05-04",
+        "@id": "LEGIARTI000006504566",
+        "@naturetexte": "DECRET",
+        "@num": "39",
+        "@numtexte": "60-425",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°97-73 du 29 janvier 1997 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000747033",
+        "@datesignatexte": "1997-01-29",
+        "@id": "LEGIARTI000006483766",
+        "@naturetexte": "DECRET",
+        "@nortexte": "FCEE9700005D",
+        "@num": "4",
+        "@numtexte": "97-73",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

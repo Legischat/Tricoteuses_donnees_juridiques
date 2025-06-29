@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006382965",
+      "ANCIEN_ID": "MSIPAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/29/LEGIARTI000006382965.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-09-17",
+        "DATE_FIN": "1999-08-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 août 1981 relatif au brevet national de cadet de sapeurs-pompiers",
+          "@c_titre_court": "Arrêté du 12 août 1981",
+          "@debut": "1981-09-17",
+          "@fin": "1999-08-17",
+          "@id_txt": "LEGITEXT000006070613"
+        }
+      ],
+      "@cid": "LEGITEXT000006070613",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1981-08-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-09-17",
+          "@etat": "ABROGE",
+          "@fin": "1999-08-17",
+          "@id": "LEGIARTI000006382965",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent arrêté fixe, par application des dispositions du titre II du décret du 23 avril 1981 susvisé, les conditions de préparation et d'obtention du brevet national de cadet de sapeurs-pompiers.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1999-08-03 art. 8 jorf 17 août 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 81-392 1981-04-23",
+        "@cidtexte": "JORFTEXT000000685819",
+        "@datesignatexte": "1981-04-23",
+        "@id": "JORFTEXT000000685819",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-392",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

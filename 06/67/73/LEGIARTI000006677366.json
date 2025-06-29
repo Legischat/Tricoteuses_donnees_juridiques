@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006677366",
+      "ANCIEN_ID": "SHID5XXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/73/LEGIARTI000006677366.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1969-04-02",
+        "DATE_FIN": "1989-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 février 1969 DEROGATION AUX DISPOSITIONS DU PARAGR. 3 DE L'ART. 42 DU DECRET 62-1454 DU 14 NOVEMBRE 1962 CONCERNANT LA PROTECTION DES TRAVAILLEURS DANS LES ETABLISSEMENTS QUI METTENT EN OEUVRE DES COURANTS ELECTRIQUES",
+          "@c_titre_court": "Arrêté du 28 février 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000662978"
+        },
+        {
+          "#text": "Arrêté du 28 février 1969 portant dérogation à certaines dispositions du décret du 14 novembre 1962 relatives au matériel contenant un diélectrique combustible liquide.",
+          "@c_titre_court": "Arrêté du 28 février 1969",
+          "@debut": "1969-04-02",
+          "@fin": "1989-03-01",
+          "@id_txt": "LEGITEXT000006072466"
+        }
+      ],
+      "@cid": "JORFTEXT000000662978",
+      "@date_publi": "1969-04-02",
+      "@date_signature": "1969-02-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-04-02",
+          "@etat": "PERIME",
+          "@fin": "1989-03-01",
+          "@id": "LEGIARTI000006677366",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le directeur général du Travail et de l'Emploi est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1981-04-07 art. 1 : application aux établissements agricoles",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1984-02-24 : proroge ces dispositions jusqu'au 1er mars 1989",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 62-1454 1962-11-14",
+        "@cidtexte": "JORFTEXT000000852836",
+        "@datesignatexte": "1962-11-14",
+        "@id": "JORFTEXT000000852836",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1454",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

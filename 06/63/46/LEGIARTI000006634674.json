@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006634674",
+      "ANCIEN_ID": "ADIVZXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/46/LEGIARTI000006634674.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-03-30",
+        "DATE_FIN": "1990-06-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 mars 1985 relatif à la publicité des prix de certains services",
+          "@c_titre_court": "Arrêté du 29 mars 1985",
+          "@debut": "1985-03-30",
+          "@fin": "1990-06-10",
+          "@id_txt": "LEGITEXT000006071911"
+        }
+      ],
+      "@cid": "LEGITEXT000006071911",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-03-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-30",
+          "@etat": "ABROGE",
+          "@fin": "1990-06-10",
+          "@id": "LEGIARTI000006634674",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>   Lorsqu'un devis est établi préalablement à l'exécution d'une opération, celui-ci doit comporter les mentions suivantes :</p>\n<p>     - la date de rédaction ;</p>\n<p>     - le nom et l'adresse de l'entreprise ;</p>\n<p>     - le nom du client et le lieu d'exécution de l'opération ;</p>\n<p>     - le décompte détaillé, en quantité et en prix, de chaque prestation et produit nécessaire à l'opération prévue :</p>\n<p>  dénomination, prix unitaire et désignation de l'unité à laquelle il s'applique (taux horaire de main-d'oeuvre, le mètre linéaire ou le mètre carré, etc.) et la quantité prévue ;</p>\n<p>     - la somme globale à payer hors taxes et toutes taxes comprises en précisant le taux de TVA ;</p>\n<p>     - la durée de validité de l'offre.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 26/A 1985-03-29 BOCC n° 5, 30 mars 1985",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 85-81/A 1985-12-30 art. 2",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 2 mars 1990, v. init.",
+        "@cidtexte": "JORFTEXT000000158562",
+        "@datesignatexte": "1990-03-02",
+        "@id": "JORFTEXT000000158562",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC9000034A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

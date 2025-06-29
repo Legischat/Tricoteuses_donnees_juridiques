@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006422598",
+      "ANCIEN_ID": "PCHDIXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/25/LEGIARTI000006422598.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-03-24",
+        "DATE_FIN": "1997-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°84-940 du 24 octobre 1984 RELATIF AU SERVICE PUBLIC DES BASES ET BANQUES DE DONNEES JURIDIQUES",
+          "@c_titre_court": "Décret n°84-940 du 24 octobre 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886417"
+        },
+        {
+          "#text": "Décret n°84-940 du 24 octobre 1984 relatif au service public des bases et banques de données juridiques.",
+          "@c_titre_court": "Décret n°84-940 du 24 octobre 1984",
+          "@debut": "1984-10-25",
+          "@fin": "1997-01-01",
+          "@id_txt": "LEGITEXT000006064639"
+        }
+      ],
+      "@cid": "JORFTEXT000000886417",
+      "@date_publi": "1984-10-25",
+      "@date_signature": "1984-10-24",
+      "@nature": "DECRET",
+      "@num": "84-940"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-10-25",
+          "@etat": "MODIFIE",
+          "@fin": "1993-03-24",
+          "@id": "LEGIARTI000006422597",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-24",
+          "@etat": "ABROGE",
+          "@fin": "1997-01-01",
+          "@id": "LEGIARTI000006422598",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tout projet de constitution de bases ou banques de données juridiques dont le corpus est composé de tout ou partie des catégories de textes mentionnées à l'article 1er est soumis par les administrations, juridictions et autres organismes relevant de l'Etat à l'avis de la commission de coordination de la documentation administrative, qui se prononce dans un délai de deux mois.<br/>\n<br/>   Cet avis est obligatoirement joint aux propositions d'engagement des dépenses correspondantes.<br/>\n<br/>   Les dispositions des deux alinéas précédents s'appliquent également lorsque des administrations, juridictions et autres organismes relevant de l'Etat ont le projet de diffuser à l'extérieur de leurs services des bases ou banques de données initialement constituées pour leur propre usage.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 84-940 1984-10-24 art. 1",
+        "@cidtexte": "JORFTEXT000000886417",
+        "@datesignatexte": "1984-10-24",
+        "@id": "JORFTEXT000000886417",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-940",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°84-940 du 24 octobre 1984 - art. 8 (Ab)",
+        "@cidtexte": "JORFTEXT000000886417",
+        "@datesignatexte": "1984-10-24",
+        "@id": "LEGIARTI000006422605",
+        "@naturetexte": "DECRET",
+        "@num": "8",
+        "@numtexte": "84-940",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°93-415 du 22 mars 1993 - art. 1 () JORF 24 mars 1993",
+        "@cidtexte": "JORFTEXT000000361694",
+        "@datesignatexte": "1993-03-22",
+        "@id": "LEGIARTI000006928771",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX9300126D",
+        "@num": "1",
+        "@numtexte": "93-415",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°96-481 du 31 mai 1996 - art. 12 (Ab) JORF 4 juin 1996 en vigueur le 1er janvier 1997",
+        "@cidtexte": "JORFTEXT000000560581",
+        "@datesignatexte": "1996-05-31",
+        "@id": "LEGIARTI000006542334",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX9601531D",
+        "@num": "12",
+        "@numtexte": "96-481",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

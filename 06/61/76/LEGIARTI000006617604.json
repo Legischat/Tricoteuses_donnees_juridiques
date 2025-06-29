@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006617604",
+      "ANCIEN_ID": "RDIAIXXXXXX021AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/76/LEGIARTI000006617604.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-11-28",
+        "DATE_FIN": "2004-07-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 janvier 1974 relatif à l'application de la franchise des droits et taxes instituée par l'article 190 du code des douanes pour les produits pétroliers destinés à l'avitaillement des navires",
+          "@c_titre_court": "Arrêté du 2 janvier 1974",
+          "@debut": "1990-11-28",
+          "@fin": "2004-07-28",
+          "@id_txt": "LEGITEXT000006071611"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Dépôts spéciaux d'avitaillement des bateaux.",
+            "@debut": "1974-02-01",
+            "@fin": "2004-07-28",
+            "@id": "LEGISCTA000006099388"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071611",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-01-02",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-02-01",
+          "@etat": "TRANSFERE",
+          "@fin": "1990-11-28",
+          "@id": "LEGIARTI000006617603",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-11-28",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-28",
+          "@id": "LEGIARTI000006617604",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   a) Les titulaires des dépôts spéciaux d'avitaillement des bateaux sont tenus d'informer préalablement des jours et heures de fonctionnement de leurs dépôts les receveurs des bureaux de douanes auxquels leurs établissements sont rattachés. Les livraisons de produits à la sortie des dépôts spéciaux doivent avoir lieu durant cet horaire.<br/>\n<br/>   b) Le directeur général des douanes et droits indirects peut, lorsque les circonstances locales le comportent ou que les besoins du contrôle le justifient, limiter à certains jours et certaines heures l'autorisation de livrer les produits pétroliers à la sortie de dépôts spéciaux d'avitaillement des bateaux.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-01-02 art. 24",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Arrêté 1990-11-06 art. 14 JORF 28 novembre 1990",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      },
+      {
+        "#text": "Arrêté 2004-07-01 art. 31 JORF 28 juillet 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des douanes - art. 190 (V)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615585",
+        "@naturetexte": "CODE",
+        "@num": "190",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

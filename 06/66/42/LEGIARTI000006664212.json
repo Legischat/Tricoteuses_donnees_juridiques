@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006664212",
+      "ANCIEN_ID": "SEHIZXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/42/LEGIARTI000006664212.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1977-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-1292 du 30 décembre 1976 COMMISSION D'INFORMATION ET D'AIDE AU LOGEMENT DES SALARIES",
+          "@c_titre_court": "Décret n°76-1292 du 30 décembre 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000853585"
+        },
+        {
+          "#text": "Décret n°76-1292 du 30 décembre 1976 fixant les conditions d'application de la loi n° 76-463 du 31 mai 1976 tendant à faciliter l'accession des salariés à la propriété et à la location des locaux d'habitation destinés à leur usage personnel",
+          "@c_titre_court": "Décret n°76-1292 du 30 décembre 1976",
+          "@debut": "1977-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062442"
+        }
+      ],
+      "@cid": "JORFTEXT000000853585",
+      "@date_publi": "1977-01-01",
+      "@date_signature": "1976-12-30",
+      "@nature": "DECRET",
+      "@num": "76-1292"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006664212",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans le cas prévu à l'article 4 de la loi susvisée du 31 mai 1976, l'employeur est tenu à l'égard du salarié aux mêmes conditions que celles que définit l'article R. 442-26 du code du travail.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1976-05-31 art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 76-463 1976-05-31",
+        "@cidtexte": "JORFTEXT000000331463",
+        "@datesignatexte": "1976-05-31",
+        "@id": "JORFTEXT000000331463",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-463",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code du travail R. 442-26",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

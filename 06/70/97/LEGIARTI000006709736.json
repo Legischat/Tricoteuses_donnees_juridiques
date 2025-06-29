@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006709736",
+      "ANCIEN_ID": "SPHQCXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/97/LEGIARTI000006709736.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-01-13",
+        "DATE_FIN": "1992-01-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-54 du 11 janvier 1973 relatif à la carte sanitaire et aux commissions nationale et régionales de l'équipement sanitaire.",
+          "@c_titre_court": "Décret n°73-54 du 11 janvier 1973",
+          "@debut": "1973-01-13",
+          "@fin": "1992-01-04",
+          "@id_txt": "LEGITEXT000006072705"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : De la carte sanitaire",
+            "@debut": "1973-01-13",
+            "@fin": "1992-01-04",
+            "@id": "LEGISCTA000006104366"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072705",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1973-01-11",
+      "@nature": "DECRET",
+      "@num": "73-54"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-01-13",
+          "@etat": "ABROGE",
+          "@fin": "1992-01-04",
+          "@id": "LEGIARTI000006709736",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le ministre de la santé publique fixe par arrêté la carte sanitaire qui peut être établie par région ou par type d'installation ou d'équipement ; cet arrêté est publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 70-1318 1970-12-31",
+        "@cidtexte": "JORFTEXT000000874228",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000874228",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1318",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°91-1410 du 31 décembre 1991 - art. 3 (Ab) JORF 4 janvier 1992",
+        "@cidtexte": "JORFTEXT000000538424",
+        "@datesignatexte": "1991-12-31",
+        "@id": "LEGIARTI000006711396",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSX9110351D",
+        "@num": "3",
+        "@numtexte": "91-1410",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°73-54 du 11 janvier 1973 - art. 11 (Ab)",
+        "@cidtexte": "LEGITEXT000006072705",
+        "@datesignatexte": "1973-01-11",
+        "@id": "LEGIARTI000006709737",
+        "@naturetexte": "DECRET",
+        "@num": "11",
+        "@numtexte": "73-54",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

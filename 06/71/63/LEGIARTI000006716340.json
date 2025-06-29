@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006716340",
+      "ANCIEN_ID": "SPIAYXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/63/LEGIARTI000006716340.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1986-03-14",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 mars 1986 relatif au chiffre de la population à prendre en considération dans certaines communes pour la création d'officines de pharmacie par application des dispositions des articles L. 571 et L. 572 du code de la santé publique",
+          "@c_titre_court": "Arrêté du 5 mars 1986",
+          "@debut": "1986-03-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072779"
+        }
+      ],
+      "@cid": "LEGITEXT000006072779",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-03-05",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-14",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006716340",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les chiffres de la population municipale totale des communes énumérées au tableau annexé à l'arrêté du 10 janvier 1986 susvisé serviront de base pour déterminer le nombre des officines de pharmacie pouvant être ouvertes dans ces communes.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-01-10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L571 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006693616",
+        "@naturetexte": "CODE",
+        "@num": "L571",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L572 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006693623",
+        "@naturetexte": "CODE",
+        "@num": "L572",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

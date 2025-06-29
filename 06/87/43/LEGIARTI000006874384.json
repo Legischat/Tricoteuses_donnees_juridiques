@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006874384",
+      "ANCIEN_ID": "UQIVBXXXXXXD00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/43/LEGIARTI000006874384.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe D",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-05-25",
+        "DATE_FIN": "2001-06-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 janvier 1994 relatif à l'industrie papetière",
+          "@c_titre_court": "Arrêté du 6 janvier 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000730748"
+        },
+        {
+          "#text": "Arrêté du 6 janvier 1994 relatif à l'industrie papetière",
+          "@c_titre_court": "Arrêté du 6 janvier 1994",
+          "@debut": "1994-05-25",
+          "@fin": "2001-06-17",
+          "@id_txt": "LEGITEXT000005615862"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1994-05-25",
+            "@fin": "2001-06-17",
+            "@id": "LEGISCTA000006111233"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "EXEMPLE DE CALCUL DES FLUX EN CAS DE PRODUCTION : De produits différents.",
+              "@debut": "1994-05-25",
+              "@fin": "2001-06-17",
+              "@id": "LEGISCTA000006130944"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000730748",
+      "@date_publi": "1994-05-25",
+      "@date_signature": "1994-01-06",
+      "@ministere": "MINISTERE DE L'ENVIRONNEMENT",
+      "@nature": "ARRETE",
+      "@nor": "ENVP9430035A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-05-25",
+          "@etat": "ABROGE",
+          "@fin": "2001-06-17",
+          "@id": "LEGIARTI000006874384",
+          "@num": "Annexe D",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>      Une installation existante a une capacité maximale simultanée de :<br/>\n<br/>   - 20 t/j de produits de classe 1 (machine 1) ;<br/>\n<br/>   - 40 t/j de produits de classe 2 (machine 2) ;<br/>\n soit 60 t/j de produits toutes classes confondues.<br/>\n<br/>   Les normes applicables pour ces produits seront :<br/>\n<br/>   [*tableau non reproduit*] <br/>\n Le flux journalier maxima devra être fixé à :<br/>\n MEST r 60  3 r 180 kg/j ;<br/>\n DBO 5 r (20  2) p (40  3) r 160 kg/j ;<br/>\n DCO r (20  8) p (40  12) r 640 kg/j.<br/>\n<br/>   La moyenne mensuelle des flux moyens journaliers devra être dans tous les cas inférieure à :<br/>\n MEST r 90 kg/j ;<br/>\n DBO 5 r 80 kg/j ;<br/>\n DCO r 320 kg/j.<br/>\n<br/>   Les flux spécifiques pondérés sont obtenus selon la formule générale : somme des valeurs limites journalières en kilogramme par tonne produite par classe multipliée par la production maximale journalière de la classe, divisée par la production journalière toutes classes confondues :<br/>\n MEST r 3 kg/t ;<br/>\n DBO 5 r [(2  20)/60] p [(3  40)/60] r 2,6 kg/t ;<br/>\n DCO r [(8  20)/60] p [(12  40)/60] r 10,6 kg/t.<br/>\n<br/>   Les flux spécifiques moyens mensuels sont obtenus de la même manière que précédemment en utilisant les valeurs limites mensuelles, ce qui donne dans le cas présent les valeurs suivantes :<br/>\n MEST r 1,5 kg/t ;<br/>\n DBO 5 r 1,3 kg/t ;<br/>\n DCO r 5,3 kg/t.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2000-04-03 art. 17 JORF 17 juin 2000 en vigueur le 17 juin 2001",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

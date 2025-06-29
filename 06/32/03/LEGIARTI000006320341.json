@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006320341",
+      "ANCIEN_ID": "FAEJEXXXXXX053AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/03/LEGIARTI000006320341.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "53",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1998-12-31",
+        "DATE_FIN": "2007-02-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI de finances pour 1999 (n° 98-1266 du 30 décembre 1998) (1)",
+          "@c_titre_court": "Loi",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000209044"
+        },
+        {
+          "#text": "Loi n° 98-1266 du 30 décembre 1998 de finances pour 1999 (1)",
+          "@c_titre_court": "Loi n° 98-1266 du 30 décembre 1998",
+          "@debut": "1998-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005627311"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Première partie : Conditions générales de l'équilibre financier",
+            "@debut": "1998-12-31",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084609"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : Dispositions relatives aux ressources",
+              "@debut": "1998-12-31",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006114757"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "I : Impôts et revenus autorisés",
+                "@debut": "1998-12-31",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006134138"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "C : Mesures diverses",
+                  "@debut": "1998-12-31",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006147523"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000209044",
+      "@date_publi": "1998-12-31",
+      "@date_signature": "1998-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX9800125L",
+      "@num": "98-1266"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1998-12-31",
+          "@etat": "MODIFIE",
+          "@fin": "2007-02-22",
+          "@id": "LEGIARTI000006320341",
+          "@num": "53",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-02-22",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006320342",
+          "@num": "53",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. Paragraphe modificateur<br/>\n<br/>   II. - Les règles relatives à l'assiette, au taux et aux modalités de recouvrement de la redevance spécifique prévue à l'article 31-1 du code minier sont fixées par le conseil général de la collectivité territoriale de Saint-Pierre-et-Miquelon, conformément aux compétences fiscales qui lui sont reconnues par l'article 21 de la loi n° 85-595 du 11 juin 1985 relative au statut de l'archipel de Saint-Pierre-et-Miquelon.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 85-595 1985-06-11 art. 21",
+        "@cidtexte": "JORFTEXT000000693671",
+        "@datesignatexte": "1985-06-11",
+        "@id": "JORFTEXT000000693671",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-595",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 98-1266 1998-12-30 Finances pour 1999, JORF 31 décembre 1998",
+        "@cidtexte": "JORFTEXT000000209044",
+        "@datesignatexte": "1998-12-30",
+        "@id": "JORFTEXT000000209044",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9800125L",
+        "@numtexte": "98-1266",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code minier - art. 31-1 (V)",
+        "@cidtexte": "LEGITEXT000006071785",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006627164",
+        "@naturetexte": "CODE",
+        "@num": "31-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

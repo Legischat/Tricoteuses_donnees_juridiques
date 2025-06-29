@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006782018",
+      "ANCIEN_ID": "SSIAAMXXXXX003AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/20/LEGIARTI000006782018.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-07-02",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 11 juillet 1980 COTISATION A L'ASSURANCE PERSONNELLE DES ASSURES DE MOINS DE 22 ANS",
+          "@c_titre_court": "Arrêté du 11 juillet 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000492132"
+        },
+        {
+          "#text": "Arrêté du 11 juillet 1980  RELATIF A LA COTISATION A L'ASSURANCE PERSONNELLE DES ASSURES DE MOINS DE VINGT-SEPT ANS.",
+          "@c_titre_court": "Arrêté du 11 juillet 1980",
+          "@debut": "1982-07-02",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073463"
+        }
+      ],
+      "@cid": "JORFTEXT000000492132",
+      "@date_publi": "1980-07-18",
+      "@date_signature": "1980-07-11",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-18",
+          "@etat": "MODIFIE",
+          "@fin": "1982-07-02",
+          "@id": "LEGIARTI000006782017",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-07-02",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006782018",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>La cotisation cesse d'être due à compter du premier jour du mois suivant celui au cours duquel l'assuré soit atteint l'âge de vingt-sept ans, soit vient à remplir avant cet âge les conditions prévues par l'article 32 du décret susvisé du 11 juillet 1980.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-06-29 ART. 3 JORF 2 JUILLET 1982",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 80-549 1980-07-11 ART. 32",
+        "@cidtexte": "JORFTEXT000000883385",
+        "@datesignatexte": "1980-07-11",
+        "@id": "JORFTEXT000000883385",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-549",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

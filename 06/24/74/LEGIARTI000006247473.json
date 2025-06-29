@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006247473",
+      "ANCIEN_ID": "AKIGFXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/24/74/LEGIARTI000006247473.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-01-01",
+        "DATE_FIN": "2010-06-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 novembre 2005 fixant les modalités des contrôles devant être effectués lors des inspections annuelles des offices de notaires",
+          "@c_titre_court": "Arrêté du 17 novembre 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000815769"
+        },
+        {
+          "#text": "Arrêté du 17 novembre 2005 fixant les modalités des contrôles devant être effectués lors des inspections annuelles des offices de notaires.",
+          "@c_titre_court": "Arrêté du 17 novembre 2005",
+          "@debut": "2006-01-01",
+          "@fin": "2010-06-11",
+          "@id_txt": "LEGITEXT000006052889"
+        }
+      ],
+      "@cid": "JORFTEXT000000815769",
+      "@date_publi": "2005-12-20",
+      "@date_signature": "2005-11-17",
+      "@ministere": "MINISTERE DE LA JUSTICE",
+      "@nature": "ARRETE",
+      "@nor": "JUSC0520845A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2010-06-11",
+          "@id": "LEGIARTI000006247473",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002070690",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 3 août 1994 fixant les modalités des contrôles qui doivent être effectués dans des inspections annuelles des études de notaires est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-08-03",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 7 mai 2010 - art. 2",
+        "@cidtexte": "JORFTEXT000022324119",
+        "@datesignatexte": "2010-05-07",
+        "@id": "LEGIARTI000022325205",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSC1011407A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

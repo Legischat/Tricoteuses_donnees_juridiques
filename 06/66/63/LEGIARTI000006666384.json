@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006666384",
+      "ANCIEN_ID": "SEHU4XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/63/LEGIARTI000006666384.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1994-07-01",
+        "DATE_FIN": "1995-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 94-546 du 30 juin 1994 portant relèvement du salaire minimum de croissance",
+          "@c_titre_court": "Décret n° 94-546 du 30 juin 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000366108"
+        },
+        {
+          "#text": "Décret n°94-546 du 30 juin 1994 portant relèvement du salaire minimum de croissance",
+          "@c_titre_court": "Décret n°94-546 du 30 juin 1994",
+          "@debut": "1994-07-01",
+          "@fin": "1995-07-01",
+          "@id_txt": "LEGITEXT000005616116"
+        }
+      ],
+      "@cid": "JORFTEXT000000366108",
+      "@date_publi": "1994-07-01",
+      "@date_signature": "1994-06-30",
+      "@ministere": "MINISTERE DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+      "@nature": "DECRET",
+      "@nor": "TEFX9400079D",
+      "@num": "94-546"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-07-01",
+          "@etat": "PERIME",
+          "@fin": "1995-07-01",
+          "@id": "LEGIARTI000006666384",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er juillet 1994, pour les catégories de travailleurs intéressées par l'article L. 131-2 du code du travail, le salaire minimum de croissance sera relevé dans les conditions ci-après :<br/>\n<br/>   En métropole et dans la collectivité territoriale de Saint-Pierre-et-Miquelon, son montant est porté à 35,56 F de l'heure.<br/>\n<br/>   Dans les départements d'outre-mer, son montant est fixé à 31,78 F de l'heure.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°94-546 du 30 juin 1994 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000366108",
+        "@datesignatexte": "1994-06-30",
+        "@id": "LEGIARTI000006666387",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFX9400079D",
+        "@num": "4",
+        "@numtexte": "94-546",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°95-824 du 28 juin 1995, v. init.",
+        "@cidtexte": "JORFTEXT000000735880",
+        "@datesignatexte": "1995-06-28",
+        "@id": "JORFTEXT000000735880",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFX9500106D",
+        "@numtexte": "95-824",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "Code du travail - art. L131-2 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646983",
+        "@naturetexte": "CODE",
+        "@num": "L131-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607951",
+      "ANCIEN_ID": "RAIGEXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/79/LEGIARTI000006607951.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-10-24",
+        "DATE_FIN": "1999-05-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 février 1982 relatif à l'emploi de la strychnine et de ses sels en agriculture",
+          "@c_titre_court": "Arrêté du 24 février 1982",
+          "@debut": "1982-03-10",
+          "@fin": "1999-05-28",
+          "@id_txt": "LEGITEXT000006071462"
+        }
+      ],
+      "@cid": "LEGITEXT000006071462",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-02-24",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-03-10",
+          "@etat": "MODIFIE",
+          "@fin": "1984-10-24",
+          "@id": "LEGIARTI000006607950",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-10-24",
+          "@etat": "ABROGE",
+          "@fin": "1999-05-28",
+          "@id": "LEGIARTI000006607951",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les préparations à 10 p. 100 visées à l'article 2 ne doivent pas être utilisées à plus de trente grammes par kilogramme de vers de terre pour la confection des appâts. Ceux-ci doivent être introduits dans les galeries des taupes de telle façon qu'ils ne risquent normalement pas d'être refoulés à la surface du sol. Les appâts inutilisés à la fin de la campagne de lutte doivent être immédiatement incinérés ou enfouis dans le sol à une profondeur d'au moins 30 centimètres.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-02-24 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1984-10-09 art. 2 JONC 24 octobre 1984",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1999-04-15 art. 6 JORF 28 mai 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1943-11-02",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

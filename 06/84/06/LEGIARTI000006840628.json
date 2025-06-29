@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006840628",
+      "ANCIEN_ID": "UEHAGXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/06/LEGIARTI000006840628.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1968-05-02",
+        "DATE_FIN": "1981-03-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°68-386 du 26 avril 1968 PORTANT APPLICATION DE L'ART. 10 DE LA LOI 62933 DU 08-08-1962",
+          "@c_titre_court": "Décret n°68-386 du 26 avril 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868343"
+        },
+        {
+          "#text": "Décret n°68-386 du 26 avril 1968 portant application de l'article 10 de la loi n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation agricole en ce qui concerne l'exécution de travaux de remembrement autres que ceux nécessités par la création d'autoroutes",
+          "@c_titre_court": "Décret n°68-386 du 26 avril 1968",
+          "@debut": "1968-05-02",
+          "@fin": "1992-12-12",
+          "@id_txt": "LEGITEXT000006061548"
+        }
+      ],
+      "@cid": "JORFTEXT000000868343",
+      "@date_publi": "1968-05-02",
+      "@date_signature": "1968-04-26",
+      "@nature": "DECRET",
+      "@num": "68-386"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-05-02",
+          "@etat": "MODIFIE",
+          "@fin": "1981-03-11",
+          "@id": "LEGIARTI000006840628",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-03-11",
+          "@etat": "ABROGE",
+          "@fin": "1992-12-12",
+          "@id": "LEGIARTI000006840629",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'un acte déclaratif d'utilité publique prévoit l'application du présent décret, le préfet constitue d'office, dans chacune des communes intéressées, la commission de réorganisation foncière et de remembrement prévue à l'article 1er bis du code rural.<br/>\n<br/>   Il peut instituer des commissions intercommunales lorsqu'il y a lieu, pour plusieurs communes limitrophes, de poursuivre en commun des opérations de remembrement.<br/>\n<br/>   Un représentant du maître de l'ouvrage ou du concessionnaire est désigné par le préfet pour siéger, à titre consultatif, au sein de chaque commission communale ou intercommunale.<br/>\n<br/>   La commission [*attribution*] se prononce dans le délai qui lui est fixé par le préfet et qui ne peut excéder deux mois, à compter de sa constitution sur l'opportunité de procéder ou non à des opérations de remembrement, conformément aux dispositions du chapitre III du titre Ier du livre Ier du code rural.<br/>\n<br/>   Si la commission ne s'est pas prononcée dans le délai qui lui est imparti, elle est regardée comme ayant refusé [*implicitement*] les opérations de remembrement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. R*123-41 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006587114",
+        "@naturetexte": "CODE",
+        "@num": "R*123-41",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural 1 bis",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 62-933 1962-08-08 ART. 10 (Code de l'expropriation L23-1 citation)",
+        "@cidtexte": "JORFTEXT000000313972",
+        "@datesignatexte": "1962-08-08",
+        "@id": "JORFTEXT000000313972",
+        "@naturetexte": "LOI",
+        "@numtexte": "62-933",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°68-386 du 26 avril 1968 - art. 1 (M)",
+        "@cidtexte": "JORFTEXT000000868343",
+        "@datesignatexte": "1968-04-26",
+        "@id": "LEGIARTI000006840624",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "68-386",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

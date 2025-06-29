@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006493730",
+      "ANCIEN_ID": "PJEDYXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/37/LEGIARTI000006493730.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1854-05-31",
+        "DATE_FIN": "2019-12-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 31 mai 1854 portant abolition de la mort civile",
+          "@c_titre_court": "Loi du 31 mai 1854",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000882637"
+        },
+        {
+          "#text": "Loi du 31 mai 1854 portant abolition de la mort civile.",
+          "@c_titre_court": "Loi du 31 mai 1854",
+          "@debut": "1854-05-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071043"
+        }
+      ],
+      "@cid": "JORFTEXT000000882637",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1854-05-31",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1854-05-31",
+          "@etat": "ABROGE",
+          "@fin": "2019-12-13",
+          "@id": "LEGIARTI000006493730",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les effets de la mort civile cessent, pour l'avenir, à l'égard des condamnés actuellement morts civilement, sauf les droits acquis aux tiers.<br/>\n<br/>   L'état de ces condamnés est régi par les dispositions qui précèdent.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2019-1332 du 11 décembre 2019 - art. 1",
+        "@cidtexte": "JORFTEXT000039480074",
+        "@datesignatexte": "2019-12-11",
+        "@id": "LEGIARTI000039482898",
+        "@naturetexte": "LOI",
+        "@nortexte": "CPAX1907946L",
+        "@num": "1",
+        "@numtexte": "2019-1332",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1854-05-31 Bulletin des lois 11e S., B. 180, n° 1534",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

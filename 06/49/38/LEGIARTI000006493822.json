@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006493822",
+      "ANCIEN_ID": "PJEE9XXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/38/LEGIARTI000006493822.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1951-01-06",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°51-18 du 5 janvier 1951 NOUVEAU REGIME D'AMNISTIE",
+          "@c_titre_court": "Loi n°51-18 du 5 janvier 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705473"
+        },
+        {
+          "#text": "Loi n° 51-18 du 5 janvier 1951 portant amnistie, instituant un régime de libération anticipée, limitant les effets de la dégradation nationale et réprimant les activités antinationales.",
+          "@c_titre_court": "Loi n° 51-18 du 5 janvier 1951",
+          "@debut": "1951-01-06",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068088"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Amnistie de certaines infractions",
+            "@debut": "1951-01-06",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006094131"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre IV : Libération anticipée de certains détenus.",
+              "@debut": "1951-01-06",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006119569"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000705473",
+      "@date_publi": "1951-01-06",
+      "@date_signature": "1951-01-05",
+      "@nature": "LOI",
+      "@num": "51-18"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-06",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006493822",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La libération anticipée est accordée dans les mêmes formes et conditions que la libération conditionnelle prévue par la loi du 14 août 1885 sous réserve des dispositions de l'article précédent sur la nature de la peine et sa durée restant à courir.<br/>\n<br/>   La libération anticipée emporte les effets de la libération conditionnelle.<br/>\n<br/>   La libération anticipée pourra être révoquée dans les mêmes conditions que la libération conditionnelle. Néanmoins, la révocation devra intervenir en cas d'une condamnation quelconque pour les faits prévus aux articles 27 et 29 de la présente loi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1885-08-14",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 51-18 1951-01-05 art. 27, art. 29",
+        "@cidtexte": "JORFTEXT000000705473",
+        "@datesignatexte": "1951-01-05",
+        "@id": "JORFTEXT000000705473",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°51-18 du 5 janvier 1951 - art. 29, v. init.",
+        "@cidtexte": "JORFTEXT000000705473",
+        "@datesignatexte": "1951-01-05",
+        "@id": "JORFARTI000001691720",
+        "@naturetexte": "LOI",
+        "@num": "29",
+        "@numtexte": "51-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

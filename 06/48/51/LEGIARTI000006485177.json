@@ -1,0 +1,152 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006485177",
+      "ANCIEN_ID": "PHHX5XXXXXX031AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/51/LEGIARTI000006485177.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "31",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-07-19",
+        "DATE_FIN": "1988-02-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 84-431 du 6 juin 1984 relatif au statut des enseignants chercheurs de l'enseignement supérieur",
+          "@c_titre_court": "Décret n° 84-431 du 6 juin 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000520453"
+        },
+        {
+          "#text": "Décret n°84-431 du 6 juin 1984 fixant les dispositions statutaires communes applicables aux enseignants-chercheurs et portant statut particulier du corps des professeurs des universités et du corps des maîtres de conférences.",
+          "@c_titre_court": "Décret n°84-431 du 6 juin 1984",
+          "@debut": "1992-01-22",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006064492"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions relatives aux maîtres de conférences.",
+            "@debut": "1984-10-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006093674"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Recrutement.",
+              "@debut": "1984-10-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006119199"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000520453",
+      "@date_publi": "1984-06-08",
+      "@date_signature": "1984-06-06",
+      "@nature": "DECRET",
+      "@num": "84-431"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-07-19",
+          "@etat": "ABROGE",
+          "@fin": "1988-02-15",
+          "@id": "LEGIARTI000006485177",
+          "@num": "31",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-22",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006485178",
+          "@num": "31",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque plusieurs commissions de spécialité et d'établissement sont compétentes pour un même emploi, ces commissions délibèrent dans les conditions prévues à l'article 10 du décret susvisé du 18 mai 1983.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 83-399 1983-05-18 art. 10",
+        "@cidtexte": "JORFTEXT000000316084",
+        "@datesignatexte": "1983-05-18",
+        "@id": "JORFTEXT000000316084",
+        "@naturetexte": "DECRET",
+        "@numtexte": "83-399",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°84-431 du 6 juin 1984 - art. 39 (M)",
+        "@cidtexte": "JORFTEXT000000520453",
+        "@datesignatexte": "1984-06-06",
+        "@id": "LEGIARTI000006485190",
+        "@naturetexte": "DECRET",
+        "@num": "39",
+        "@numtexte": "84-431",
+        "@sens": "cible",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 87-555 1987-07-17 art. 1 JORF 19 juillet 1987",
+        "@cidtexte": "JORFTEXT000000705384",
+        "@datesignatexte": "1987-07-17",
+        "@id": "JORFTEXT000000705384",
+        "@naturetexte": "DECRET",
+        "@nortexte": "RESX8700041D",
+        "@numtexte": "87-555",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 88-147 1988-02-15 art. 7 JORF 15 février 1988",
+        "@cidtexte": "JORFTEXT000000512540",
+        "@datesignatexte": "1988-02-15",
+        "@id": "JORFTEXT000000512540",
+        "@naturetexte": "DECRET",
+        "@nortexte": "RESX8800005D",
+        "@numtexte": "88-147",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 88-147 1988-02-15 art. 8",
+        "@cidtexte": "JORFTEXT000000512540",
+        "@datesignatexte": "1988-02-15",
+        "@id": "JORFTEXT000000512540",
+        "@naturetexte": "DECRET",
+        "@nortexte": "RESX8800005D",
+        "@numtexte": "88-147",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

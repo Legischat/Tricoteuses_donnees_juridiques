@@ -1,0 +1,171 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006813102",
+      "ANCIEN_ID": "UAAXXXXXXXX1X312L001XXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/81/31/LEGIARTI000006813102.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L312-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-01-01",
+        "DATE_FIN": "2009-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du tourisme",
+          "@c_titre_court": "Code du tourisme.",
+          "@debut": "2005-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074073"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "2005-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000017631888"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LIVRE III : ÉQUIPEMENTS ET AMÉNAGEMENTS",
+              "@debut": "2005-01-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006107989"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "TITRE Ier : HÔTELS, RESTAURANTS, CAFÉS ET DÉBITS DE BOISSONS",
+                "@debut": "2005-01-01",
+                "@fin": "2020-01-01",
+                "@id": "LEGISCTA000006128530"
+              },
+              {
+                "#text": "TITRE Ier : HÔTELS, AUBERGES COLLECTIVES, CAFÉS ET DÉBITS DE BOISSONS",
+                "@debut": "2020-01-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000041470668"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre 2 : Restaurants.",
+                  "@debut": "2005-01-01",
+                  "@fin": "2009-07-25",
+                  "@id": "LEGISCTA000006143180"
+                },
+                {
+                  "#text": "Chapitre 2 : Auberges collectives",
+                  "@debut": "2020-01-01",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000041470666"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 1 : Classement.",
+                    "@debut": "2005-01-01",
+                    "@fin": "2009-07-25",
+                    "@id": "LEGISCTA000006158389"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074073",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2009-07-25",
+          "@id": "LEGIARTI000006813102",
+          "@num": "L312-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2020-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000041470663",
+          "@num": "L312-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'Etat détermine et met en oeuvre les procédures de classement des restaurants, selon des modalités fixées par décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "2, ecqc le classement des restaurants",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 92-1341 1992-12-23 art. 2, al",
+        "@cidtexte": "JORFTEXT000000361723",
+        "@datesignatexte": "1992-12-23",
+        "@id": "JORFTEXT000000361723",
+        "@naturetexte": "LOI",
+        "@nortexte": "TOUX9210573L",
+        "@numtexte": "92-1341",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Ordonnance 2004-1391 2004-12-20 JORF 24 décembre 2004",
+        "@cidtexte": "JORFTEXT000000419170",
+        "@datesignatexte": "2004-12-20",
+        "@id": "JORFTEXT000000419170",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "EQUX0400134R",
+        "@numtexte": "2004-1391",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "LOI n°2009-888\n du 22 juillet 2009 - art. 21",
+        "@cidtexte": "JORFTEXT000020893055",
+        "@datesignatexte": "2009-07-22",
+        "@id": "LEGIARTI000020894302",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECEX0828955L",
+        "@num": "21",
+        "@numtexte": "2009-888",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

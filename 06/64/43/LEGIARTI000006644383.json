@@ -1,0 +1,144 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006644383",
+      "ANCIEN_ID": "SAAXXXXXXXX3X241D19AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/43/LEGIARTI000006644383.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "D241-19",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1980-04-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets simples",
+            "@debut": "1973-08-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101374"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Réglementation du travail",
+              "@debut": "1973-11-23",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123851"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IV : Médecine du travail",
+                "@debut": "1973-11-23",
+                "@fin": "1980-04-01",
+                "@id": "LEGISCTA000006139713"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 3 : Examens médicaux",
+                  "@debut": "1973-11-23",
+                  "@fin": "1980-04-01",
+                  "@id": "LEGISCTA000006153883"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Temps passé aux examens et frais de transport",
+                    "@debut": "1973-11-23",
+                    "@fin": "1980-04-01",
+                    "@id": "LEGISCTA000006169887"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "ABROGE",
+          "@fin": "1980-04-01",
+          "@id": "LEGIARTI000006644383",
+          "@num": "D241-19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le temps nécessité par les examens médicaux, y compris les examens complémentaires prévus à l'article D. 241-18, est soit pris sur les heures de travail des salariés sans qu'il puisse pour cela être effectué une retenue de salaire, soit rémunéré comme temps de travail normal. <br/>\n<br/>   Certains frais de transport nécessités par ces examens sont pris en charge par les employeurs.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail - art. D241-18 (Ab)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006644382",
+        "@naturetexte": "CODE",
+        "@num": "D241-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. D241-18 (Ab)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006644382",
+        "@naturetexte": "CODE",
+        "@num": "D241-18",
+        "@sens": "cible",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret  1969-06-13 ART. 18",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

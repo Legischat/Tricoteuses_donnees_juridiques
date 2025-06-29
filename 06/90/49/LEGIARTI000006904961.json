@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006904961",
+      "ANCIEN_ID": "AKEARXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/49/LEGIARTI000006904961.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-12-22",
+        "DATE_FIN": "1989-08-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°72-1128 du 21 décembre 1972 RELATIVE AUX REMISIERS ET GERANTS DE PORTEFEUILLE",
+          "@c_titre_court": "Loi n°72-1128 du 21 décembre 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687675"
+        },
+        {
+          "#text": "Loi n°72-1128 du 21 décembre 1972 relative aux remisiers et gérants de portefeuille",
+          "@c_titre_court": "Loi n°72-1128 du 21 décembre 1972",
+          "@debut": "1972-12-22",
+          "@fin": "1989-08-04",
+          "@id_txt": "LEGITEXT000006068424"
+        }
+      ],
+      "@cid": "JORFTEXT000000687675",
+      "@date_publi": "1972-12-22",
+      "@date_signature": "1972-12-21",
+      "@nature": "LOI",
+      "@num": "72-1128"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-12-22",
+          "@etat": "ABROGE",
+          "@fin": "1989-08-04",
+          "@id": "LEGIARTI000006904961",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du titre III bis de la loi du 14 février 1942 relatif aux auxiliaires des professions boursières sont abrogées.<br/>\n<br/>   Dans tous les textes où il est fait référence aux articles 19 bis et 19 ter de la loi du 14 février 1942 tendant à l'organisation et au fonctionnement des bourses de valeurs, cette référence est remplacée par une référence à la présente loi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1942-02-14 art. 19 bis, art. 19 ter",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°42-290 du 14 février 1942 - art. 19 bis (Ab)",
+        "@cidtexte": "JORFTEXT000000869405",
+        "@datesignatexte": "1942-02-14",
+        "@id": "LEGIARTI000006776962",
+        "@naturetexte": "LOI",
+        "@num": "19 bis",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°42-290 du 14 février 1942 - art. 19 ter (Ab)",
+        "@cidtexte": "JORFTEXT000000869405",
+        "@datesignatexte": "1942-02-14",
+        "@id": "LEGIARTI000006776963",
+        "@naturetexte": "LOI",
+        "@num": "19 ter",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 89-531 1989-08-02 art. 26 *prorogation*",
+        "@cidtexte": "JORFTEXT000000322093",
+        "@datesignatexte": "1989-08-02",
+        "@id": "JORFTEXT000000322093",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8900024L",
+        "@numtexte": "89-531",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°89-531 du 2 août 1989 - art. 26 (V) JORF 4 août 1989",
+        "@cidtexte": "JORFTEXT000000322093",
+        "@datesignatexte": "1989-08-02",
+        "@id": "LEGIARTI000006776803",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8900024L",
+        "@num": "26",
+        "@numtexte": "89-531",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861821",
+      "ANCIEN_ID": "UPIIFXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/18/LEGIARTI000006861821.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1977-12-18",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 novembre 1977 fixant les conditions d'environnement pour l'exécution des mesures du niveau sonore des bruits aériens émis par les engins de chantier.",
+          "@c_titre_court": "Arrêté du 7 novembre 1977",
+          "@debut": "1977-11-07",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074523"
+        }
+      ],
+      "@cid": "LEGITEXT000006074523",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-11-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-12-18",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006861821",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si les mesures acoustiques, préalables à l'homologation, sont effectuées à l'air libre, la qualité acoustique du site de mesure devra répondre aux conditions ci-après :<br/>\n<br/>   La constante C donnant la qualité acoustique du site de mesure est donnée par la relation :<br/>\n<br/>   C = LWA - LWrA<br/>\n<br/>   ou<br/>\n<br/>   LWA = niveau de puissance acoustique nominal de la source de référence exprimé en dB pondéré A ;<br/>\n<br/>   LWrA = niveau de puissance sonore de la source de référence en tenant compte des conditions spécifiques d'environnement.<br/>\n<br/>   Aucune constante d'environnement C n'a besoin d'être déterminée si le sol du site d'essai est rigide, construit en béton lisse ou en asphalte non poreux et si le site est exempt d'objet réfléchissant.<br/>\n<br/>   En cas d'un sol partiellement réfléchissant, la valeur de C doit être comprise entre des valeurs limites fixées dans les arrêtés spécifiques. La valeur effective de C décrivant la qualité acoustique du site utilisé, est déterminée en fonction de l'équation ci-dessus.<br/>\n<br/>   Cette valeur, sauf indications contraires des arrêtés spécifiques, est utilisée comme constante de correction du site de mesure pour la fixation du niveau de puissance acoustique de la source.<br/>\n<br/>   Avant l'exécution de toute mesure acoustique, préalable à l'homologation, un site de mesure situé à l'air libre devra avoir fait l'objet d'une réception par l'un des laboratoires agréés à cet effet par le ministre chargé de l'environnement.<br/>\n<br/>   Cette réception est effectuée comme prévu à l'annexe I ci-jointe.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-11-07 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 69-380 1969-04-18",
+        "@cidtexte": "JORFTEXT000000500110",
+        "@datesignatexte": "1969-04-18",
+        "@id": "JORFTEXT000000500110",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-380",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006600399",
+      "ANCIEN_ID": "RAEAMXXXXXX061AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/03/LEGIARTI000006600399.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "61",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1999-07-10",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 99-574 du 9 juillet 1999  d'orientation agricole",
+          "@c_titre_court": "Loi n° 99-574 du 9 juillet 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000395813"
+        },
+        {
+          "#text": "Loi n° 99-574 du 9 juillet 1999 d'orientation agricole",
+          "@c_titre_court": "Loi n° 99-574 du 9 juillet 1999",
+          "@debut": "1999-07-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005628181"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Organisation économique",
+            "@debut": "1999-07-10",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098378"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Coopération agricole et organisation de la production.",
+              "@debut": "1999-07-10",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121542"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000395813",
+      "@date_publi": "1999-07-10",
+      "@date_signature": "1999-07-09",
+      "@nature": "LOI",
+      "@nor": "AGRX9800053L",
+      "@num": "99-574"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-07-10",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006600399",
+          "@num": "61",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. - (paragraphe modificateur).<br/>\n<br/>   II. - La perte de recettes éventuelle résultant de l'application du I est compensée par le relèvement, à due concurrence, des droits prévus aux articles 575 et 575 A du code général des impôts.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 575, 575 A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 72 D (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006308117",
+        "@naturetexte": "CODE",
+        "@num": "72 D",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Instruction 2001-03-30 5E-6-01",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

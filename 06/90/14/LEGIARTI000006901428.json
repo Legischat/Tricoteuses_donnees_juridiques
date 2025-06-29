@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006901428",
+      "ANCIEN_ID": "AKEAIXXXXXX028AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/14/LEGIARTI000006901428.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "28",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1946-05-08",
+        "DATE_FIN": "1987-12-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 46-942 du 7 mai 1946 instituant l'Ordre des géomètres-esperts",
+          "@c_titre_court": "Loi n° 46-942 du 7 mai 1946",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874428"
+        },
+        {
+          "#text": "Loi n° 46-942 du 7 mai 1946 instituant l'Ordre des géomètres experts",
+          "@c_titre_court": "Loi n° 46-942 du 7 mai 1946",
+          "@debut": "1946-05-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068025"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dispositions transitoires et diverses.",
+            "@debut": "1946-05-08",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006112878"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000874428",
+      "@date_publi": "1946-05-08",
+      "@date_signature": "1946-05-07",
+      "@nature": "LOI",
+      "@num": "46-942"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1946-05-08",
+          "@etat": "MODIFIE",
+          "@fin": "1987-12-16",
+          "@id": "LEGIARTI000006901428",
+          "@num": "28",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-12-16",
+          "@etat": "ABROGE",
+          "@fin": "2014-03-27",
+          "@id": "LEGIARTI000006901429",
+          "@num": "28",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sous la réserve indiquée ci-dessus, les géomètres établis qui n'auraient pas obtenu leur inscription au tableau devront achever dans le délai d'un an les opérations dont ils sont chargés.<br/>\n<br/>   Ledit délai court du jour de la notification du rejet de la demande d'inscription ou, à défaut de la demande, de la date de publication de la présente loi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 46-942 1946-05-07 JORF 8 mai 1946 rectificatif JORF 12 juillet 1946",
+        "@cidtexte": "JORFTEXT000000874428",
+        "@datesignatexte": "1946-05-07",
+        "@id": "JORFTEXT000000874428",
+        "@naturetexte": "LOI",
+        "@numtexte": "46-942",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n° 46-942 du 7 mai 1946 - art. 29 (Ab)",
+        "@cidtexte": "JORFTEXT000000874428",
+        "@datesignatexte": "1946-05-07",
+        "@id": "LEGIARTI000006901438",
+        "@naturetexte": "LOI",
+        "@num": "29",
+        "@numtexte": "46-942",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

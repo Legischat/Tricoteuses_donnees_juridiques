@@ -1,0 +1,136 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769321",
+      "ANCIEN_ID": "SSHAU1XXXXX037AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/93/LEGIARTI000006769321.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 35",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-08-21",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "35° Affections provoquées par les goudrons de houille, huiles de houille, brais de houille et suies de combustion du charbon",
+                "@debut": "1993-08-21",
+                "@fin": "2005-04-22",
+                "@id": "LEGISCTA000006142323"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-15",
+          "@etat": "MODIFIE",
+          "@fin": "1993-08-21",
+          "@id": "LEGIARTI000006769320",
+          "@num": "Tableau 35",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-08-21",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769321",
+          "@num": "Tableau 35",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "DÉSIGNATION DES MALADIES<br/>\n Lésions eczématiformes (cf. tableau 44°).<br/>\n DÉLAI de prise en charge<br/>\n Cf. tableau 44°<br/>\n LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies<br/>\n Emploi, manipulation des goudrons de houille, huiles de houille, brais de houille et suies de combustion du charbon, notamment dans les entreprises paysagistes et les entreprises de travaux agricoles.<br/>\n<br/>\n DÉSIGNATION DES MALADIES<br/>\n Dermites photo-toxiques.<br/>\n DÉLAI de prise en charge<br/>\n 7 jours<br/>\n<br/>\n DÉSIGNATION DES MALADIES<br/>\n Conjonctivites photo-toxiques.<br/>\n DÉLAI de prise en charge<br/>\n 7 jours<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°93-1010 du 19 août 1993 - art. 1 () JORF 21 août 1993",
+        "@cidtexte": "JORFTEXT000000530120",
+        "@datesignatexte": "1993-08-19",
+        "@id": "LEGIARTI000006933386",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS9301188D",
+        "@num": "1",
+        "@numtexte": "93-1010",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

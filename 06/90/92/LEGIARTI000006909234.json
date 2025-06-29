@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006909234",
+      "ANCIEN_ID": "AKEBPXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/92/LEGIARTI000006909234.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-07-09",
+        "DATE_FIN": "2016-02-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 29 mars 1944 RELATIVE AU TARIF DES EMOLUMENTS ALLOUES AUX OFFICIERS PUBLICS OU MINISTERIELS",
+          "@c_titre_court": "Loi du 29 mars 1944",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000887382"
+        },
+        {
+          "#text": "Loi du 29 mars 1944 relative aux tarifs des émoluments alloués aux officiers publics ou ministériels.",
+          "@c_titre_court": "Loi du 29 mars 1944",
+          "@debut": "1944-03-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006075130"
+        }
+      ],
+      "@cid": "JORFTEXT000000887382",
+      "@date_publi": "1944-03-31",
+      "@date_signature": "1944-03-29",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-09-09",
+          "@etat": "MODIFIE",
+          "@fin": "1980-07-09",
+          "@id": "LEGIARTI000006909233",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-09",
+          "@etat": "ABROGE",
+          "@fin": "2016-02-29",
+          "@id": "LEGIARTI000006909234",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<p>Conformément au IV de l'article 50 de la loi n° 2015-990 du 6 août 2015, ces dispositions sont abrogées à une date fixée par décret, et au plus tard à l'expiration du sixième mois suivant la promulgation de ladite loi. Les arrêtés prévus à l'article L. 444-3 du code de commerce peuvent être adoptés avant cette date. </p>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tous droits ou émoluments au profit des officiers publics ou ministériels peuvent être créés par décret en Conseil d'Etat ; ils peuvent être, dans la même forme, modifiés ou supprimés, même s'ils ont fait l'objet de dispositions législatives.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2015-990 du 6 août 2015 - art. 50 (V)",
+        "@cidtexte": "JORFTEXT000030978561",
+        "@datesignatexte": "2015-08-06",
+        "@id": "LEGIARTI000030982264",
+        "@naturetexte": "LOI",
+        "@nortexte": "EINX1426821L",
+        "@num": "50",
+        "@numtexte": "2015-990",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Ordonnance 45-2048 1945-09-08 art. 1 (validation)",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

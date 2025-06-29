@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006313014",
+      "ANCIEN_ID": "FAAACGIXXXX1755ABXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/30/LEGIARTI000006313014.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1755 bis",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1986-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "RECOUVREMENT DE L'IMPOT",
+            "@debut": "1972-08-30",
+            "@fin": "2006-01-01",
+            "@id": "LEGISCTA000006084262"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "PENALITES",
+              "@debut": "1972-08-30",
+              "@fin": "2006-01-01",
+              "@id": "LEGISCTA000006114510"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "DISPOSITIONS COMMUNES.",
+                "@debut": "1976-12-30",
+                "@fin": "1988-12-28",
+                "@id": "LEGISCTA000006133909"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-12-19",
+          "@etat": "MODIFIE",
+          "@fin": "1979-07-01",
+          "@id": "LEGIARTI000049422580",
+          "@num": "1755 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006313014",
+          "@num": "1755 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>      Le défaut de production des justifications prévues à l'article 1649 quater entraîne la saisie ou le séquestre aux frais de l'intéressé, des marchandises par lui mises en vente et des instruments servant à l'exercice de sa profession à moins qu'il ne donne caution suffisante jusqu'à la production des justifications exigibles.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1649 quater",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "EDITION 1979-07-01",
+        "@sens": "source",
+        "@typelien": "HISTO"
+      },
+      {
+        "#text": "Loi n°85-1403 du 30 décembre 1985 - art. 65 ()",
+        "@cidtexte": "JORFTEXT000000878230",
+        "@datesignatexte": "1985-12-30",
+        "@id": "LEGIARTI000006274481",
+        "@naturetexte": "LOI",
+        "@num": "65",
+        "@numtexte": "85-1403",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

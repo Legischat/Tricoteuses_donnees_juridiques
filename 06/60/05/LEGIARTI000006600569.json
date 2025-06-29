@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006600569",
+      "ANCIEN_ID": "RAEASXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/05/LEGIARTI000006600569.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1964-07-12",
+        "DATE_FIN": "1993-07-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°64-706 du 10 juillet 1964 ORGANISANT UN REGIME DE GARANTIE CONTRE LES CALAMITES AGRICOLES",
+          "@c_titre_court": "Loi n°64-706 du 10 juillet 1964",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000691714"
+        },
+        {
+          "#text": "Loi n°64-706 du 10 juillet 1964 organisant un régime de garantie contre les calamités agricoles",
+          "@c_titre_court": "Loi n°64-706 du 10 juillet 1964",
+          "@debut": "1964-07-12",
+          "@fin": "1993-07-23",
+          "@id_txt": "LEGITEXT000006068248"
+        }
+      ],
+      "@cid": "JORFTEXT000000691714",
+      "@date_publi": "1964-07-12",
+      "@date_signature": "1964-07-10",
+      "@nature": "LOI",
+      "@num": "64-706"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-07-12",
+          "@etat": "ABROGE",
+          "@fin": "1993-07-23",
+          "@id": "LEGIARTI000006600569",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de calamités, les dommages sont évalués :<br/>\n<br/>   Pour les bâtiments, d'après les conditions fixées par la police d'assurance ;<br/>\n<br/>   Pour le cheptel mort ou vif, d'après sa valeur au jour du sinistre ;<br/>\n<br/>   Pour les sols, d'après les frais nécessaires à la remise en état de culture ;<br/>\n<br/>   Pour les récoltes ou cultures, d'après les frais nécessaires pour la remise en culture si celle-ci peut être de nouveau réalisée dans des conditions normales de production et de commercialisation et, dans le cas contraire, d'après la valeur marchande qu'auraient eue les produits détruits parvenus à maturité en tenant compte du nombre de récoltes qui ne pourront avoir lieu, l'expertise se faisant au niveau de l'exploitation.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. L361-10 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006583641",
+        "@naturetexte": "CODE",
+        "@num": "L361-10",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 93-934 1993-07-23 art. 4 JORF 23 juillet 1993",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°64-706 du 10 juillet 1964 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000691714",
+        "@datesignatexte": "1964-07-10",
+        "@id": "LEGIARTI000006600572",
+        "@naturetexte": "LOI",
+        "@num": "10",
+        "@numtexte": "64-706",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

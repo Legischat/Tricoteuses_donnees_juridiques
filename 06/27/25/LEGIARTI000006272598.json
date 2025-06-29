@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006272598",
+      "ANCIEN_ID": "AAEAZXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/25/LEGIARTI000006272598.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1952-03-25",
+        "DATE_FIN": "1984-01-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°52-332 du 24 mars 1952 SOCIETES DE CREDIT DIFFERE",
+          "@c_titre_court": "Loi n°52-332 du 24 mars 1952",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000888671"
+        },
+        {
+          "#text": "Loi n° 52-332 du 24 mars 1952 relative aux entreprises de crédit différé",
+          "@c_titre_court": "Loi n° 52-332 du 24 mars 1952",
+          "@debut": "1952-03-25",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068108"
+        }
+      ],
+      "@cid": "JORFTEXT000000888671",
+      "@date_publi": "1952-03-25",
+      "@date_signature": "1952-03-24",
+      "@nature": "LOI",
+      "@num": "52-332"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1952-03-25",
+          "@etat": "ABROGE",
+          "@fin": "1984-01-25",
+          "@id": "LEGIARTI000006272598",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002077430",
+          "@num": "11",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>La constitution de toute nouvelle entreprise de crédit différé est subordonnée à une autorisation consentie par le ministre des finances et des affaires économiques.</p>\n<br/>\n<p>Cette autorisation sera accordée sur avis d'une commission composée du directeur du Trésor, président, du directeur des assurances, du gouverneur du Crédit foncier de France, du directeur général de la Caisse des dépôts et consignations, du président de la commission supérieure des caisses d'épargne et d'un membre du Conseil économique.</p>\n<br/>\n<p>Les entreprises actuellement existantes devront également solliciter cette autorisation dans le délai prévu à l'article 9 ci-dessus, à peine de mise en liquidation d'office. Elles pourront néanmoins continuer leurs opérations jusqu'à l'intervention de la décision du ministre.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°52-332 du 24 mars 1952 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000000888671",
+        "@datesignatexte": "1952-03-24",
+        "@id": "LEGIARTI000006292549",
+        "@naturetexte": "LOI",
+        "@num": "9",
+        "@numtexte": "52-332",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 XIV 6° JORF 25 janvier 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

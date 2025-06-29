@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006317539",
+      "ANCIEN_ID": "FAEDLXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/75/LEGIARTI000006317539.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1987-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°86-1317 du 30 décembre 1986 DE FINANCES POUR 1987",
+          "@c_titre_court": "Loi n°86-1317 du 30 décembre 1986",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317305"
+        },
+        {
+          "#text": "Loi n° 86-1317 du 30 décembre 1986 de finances pour 1987",
+          "@c_titre_court": "Loi n° 86-1317 du 30 décembre 1986",
+          "@debut": "1987-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068953"
+        }
+      ],
+      "@cid": "JORFTEXT000000317305",
+      "@date_publi": "1986-12-31",
+      "@date_signature": "1986-12-30",
+      "@nature": "LOI",
+      "@num": "86-1317"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006317539",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de l'article 10 s'appliquent également aux entreprises françaises dont l'établissement ou la filiale a pour seule activité la commercialisation des biens produits par des entreprises ou établissements dont les résultats sont soumis à l'impôt sur les sociétés ; dans ce cas, cette activité doit porter à titre principal sur des biens produits par l'entreprise qui constitue la provision mentionnée audit article.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 86-1317 1986-12-30 Finances pour 1987 JORF 31 décembre 1986 en vigueur le 1er janvier 1987",
+        "@cidtexte": "JORFTEXT000000317305",
+        "@datesignatexte": "1986-12-30",
+        "@id": "JORFTEXT000000317305",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-1317",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 86-1317 1986-12-30 art. 10 Finances pour 1987",
+        "@cidtexte": "JORFTEXT000000317305",
+        "@datesignatexte": "1986-12-30",
+        "@id": "JORFTEXT000000317305",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-1317",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 39 octies A (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006307664",
+        "@naturetexte": "CODE",
+        "@num": "39 octies A",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

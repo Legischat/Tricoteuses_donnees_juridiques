@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006319143",
+      "ANCIEN_ID": "FAEGTXXXXXX061AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/91/LEGIARTI000006319143.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "61",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1995-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi de finances pour 1995 (n° 94-1162 du 29 décembre 1994 (1)",
+          "@c_titre_court": "Loi n°94-1162 du 29 décembre 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000367398"
+        },
+        {
+          "#text": "Loi n° 94-1162 du 29 décembre 1994 de finances pour 1995",
+          "@c_titre_court": "Loi n° 94-1162 du 29 décembre 1994",
+          "@debut": "1995-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005617312"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "1. Mesures de soutien de l'activité et de l'emploi.",
+            "@debut": "1995-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084572"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000367398",
+      "@date_publi": "1994-12-30",
+      "@date_signature": "1994-12-29",
+      "@nature": "LOI",
+      "@nor": "BUDX9400125L",
+      "@num": "94-1162"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006319143",
+          "@num": "61",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. Paragraphe modificateur<br/>\n<br/>   II. - Les dispositions du I s'appliquent pour la détermination des résultats des exercices ouverts à compter du 1er janvier 1995.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 42 septies",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 94-1162 1994-12-29 Finances pour 1995 JORF 30 décembre 1994 en vigueur le 1er janvier 1995",
+        "@cidtexte": "JORFTEXT000000367398",
+        "@datesignatexte": "1994-12-29",
+        "@id": "JORFTEXT000000367398",
+        "@naturetexte": "LOI",
+        "@nortexte": "BUDX9400125L",
+        "@numtexte": "94-1162",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 42 septies (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006302387",
+        "@naturetexte": "CODE",
+        "@num": "42 septies",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Instruction 1995-04-25 4A-4-95",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

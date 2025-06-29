@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351203",
+      "ANCIEN_ID": "MDE01XXXXXX057AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/12/LEGIARTI000006351203.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "57",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-06",
+        "DATE_FIN": "1982-03-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 10 août 1871 relative aux conseils généraux",
+          "@c_titre_court": "Loi du 10 août 1871",
+          "@debut": "1871-08-10",
+          "@fin": "1996-02-24",
+          "@id_txt": "LEGITEXT000006070209"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "BUDGET ET COMPTES DU DEPARTEMENT.",
+            "@debut": "1871-08-29",
+            "@fin": "1996-02-24",
+            "@id": "LEGISCTA000006085643"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006070209",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1871-08-10",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-11-07",
+          "@etat": "MODIFIE",
+          "@fin": "1959-01-06",
+          "@id": "LEGIARTI000006351202",
+          "@num": "57",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-06",
+          "@etat": "ABROGE",
+          "@fin": "1982-03-24",
+          "@id": "LEGIARTI000006351203",
+          "@num": "57",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Le projet de budget du département est préparé et présenté par le préfet, qui est tenu de le communiquer à la commission départementale, avec les pièces [*documents*] à l'appui, dix jours au moins avant l'ouverture de la session d'août.<br/>\n<br/>       Le budget est voté par le conseil général, et sa délibération est exécutoire dans les conditions prévues par l'article 47 de la présente loi.<br/>\n<br/>       Il se divise en budget ordinaire et budget extraordinaire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 77-449 1977-04-29 ART. 1 : Les dispositions de nature législative de la loi du 10 août 1871 sont applicables à la collectivité territoriale de Mayotte en tant qu'elles ne sont pas contraires aux dispositions de la présente ordonnance",
+        "@cidtexte": "JORFTEXT000000700124",
+        "@datesignatexte": "1977-04-29",
+        "@id": "JORFTEXT000000700124",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "77-449",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 78-1027 1978-10-19 ART. 1 : Les dispositions de nature réglementaire de la loi du 10 août 1871 relative aux conseils généraux sont applicables à la collectivité territoriale de Mayotte en tant qu'elles ne sont pas contraires aux dispositions d",
+        "@cidtexte": "JORFTEXT000000519285",
+        "@datesignatexte": "1978-10-19",
+        "@id": "JORFTEXT000000519285",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-1027",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "LOI   1871-08-10 art. 47",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006469302",
+      "ANCIEN_ID": "ACEBIXXXXXX032AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/93/LEGIARTI000006469302.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "32",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-12-24",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-420 du 18 juin 1966 SUR LES CONTRATS D'AFFRETEMENT ET DE TRANSPORT MARITIME",
+          "@c_titre_court": "Loi n°66-420 du 18 juin 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692464"
+        },
+        {
+          "#text": "Loi n° 66-420 du 18 juin 1966 sur les contrats d'affrètement et de transport maritimes",
+          "@c_titre_court": "Loi n° 66-420 du 18 juin 1966",
+          "@debut": "1967-04-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068280"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Transport de marchandises",
+            "@debut": "1967-04-11",
+            "@fin": "2010-12-01",
+            "@id": "LEGISCTA000006092543"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre IV : Responsabilité du transporteur.",
+              "@debut": "1967-04-11",
+              "@fin": "2010-12-01",
+              "@id": "LEGISCTA000006118708"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000692464",
+      "@date_publi": "1966-06-24",
+      "@date_signature": "1966-06-18",
+      "@nature": "LOI",
+      "@num": "66-420"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-11",
+          "@etat": "MODIFIE",
+          "@fin": "1986-12-24",
+          "@id": "LEGIARTI000006469301",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-24",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006469302",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'action contre le transporteur à raison de pertes ou dommages se prescrit par un an. Ce délai peut être prolongé par un accord conclu entre les parties postérieurement à l'événement qui a donné lieu à l'action.<br/>\n<br/>   Les actions récursoires peuvent être intentées, même après les délais prévus à l'alinéa précédent, pendant trois mois à compter du jour de l'exercice de l'action contre le garanti ou du jour où celui-ci aura à l'amiable réglé la réclamation.<br/>\n<br/>   Quel que soit son fondement, l'action en responsabilité contre le transporteur à raison de pertes ou dommages ne peut être exercée que dans les conditions et limites fixées au présent chapitre.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°66-420 du 18 juin 1966 - art. 56 (VT)",
+        "@cidtexte": "JORFTEXT000000692464",
+        "@datesignatexte": "1966-06-18",
+        "@id": "LEGIARTI000006469600",
+        "@naturetexte": "LOI",
+        "@num": "56",
+        "@numtexte": "66-420",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°86-1292 du 23 décembre 1986 - art. 3 () JORF 24 décembre 1986",
+        "@cidtexte": "JORFTEXT000000693914",
+        "@datesignatexte": "1986-12-23",
+        "@id": "LEGIARTI000006474388",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "86-1292",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

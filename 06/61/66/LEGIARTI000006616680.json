@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616680",
+      "ANCIEN_ID": "ADIJXXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/66/LEGIARTI000006616680.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-06-30",
+        "DATE_FIN": "1984-05-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 juin 1983 relatif aux prix de vente au détail des poissons frais de mer et d'eau douce dans la région Corse",
+          "@c_titre_court": "Arrêté du 29 juin 1983",
+          "@debut": "1983-06-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071593"
+        }
+      ],
+      "@cid": "LEGITEXT000006071593",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-06-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-06-30",
+          "@etat": "ABROGE",
+          "@fin": "1984-05-24",
+          "@id": "LEGIARTI000006616680",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les départements de la Haute-Corse et de la Corse-du-Sud, afin de tenir compte de la réfaction de la base imposable applicable pour le calcul de la T.V.A., les marges et coefficients licites toutes taxes comprises fixés par l'arrêté n° 83-22/A du 31 mars 1983 sont modifiés comme suit :<br/>\n<br/>   a) Marge visée à l'article 3 : 7,75 F freinte incluse ;<br/>\n<br/>   b) Coefficient multiplicateur visé au premier alinéa de l'article 4 : 1,31 ;<br/>\n<br/>   c) Coefficients multiplicateurs figurant à l'annexe : 1,46, 1,99, 1,70.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 22/A 1983-03-31 art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 38/A 1983-06-29 BOCC n° 11, 30 juin 1983",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 51/A 1984-05-23 art. 8 BOCC n° 9, 24 mai 1984",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

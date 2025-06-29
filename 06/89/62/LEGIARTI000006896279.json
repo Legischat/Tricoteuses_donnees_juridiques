@@ -1,0 +1,163 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006896279",
+      "ANCIEN_ID": "UXXXXXXXXXX134R004AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/62/LEGIARTI000006896279.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R134-4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2006-09-15",
+        "DATE_FIN": "2010-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la construction et de l'habitation",
+          "@c_titre_court": "Code de la construction et de l'habitation.",
+          "@debut": "1977-03-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074096"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1977-03-10",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006112857"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Dispositions générales.",
+              "@debut": "1978-06-08",
+              "@fin": "2021-07-01",
+              "@id": "LEGISCTA000006132252"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre III : Chauffage et ravalement des immeubles - Lutte contre les termites.",
+                "@debut": "2000-07-05",
+                "@fin": "2021-07-01",
+                "@id": "LEGISCTA000006145272"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre IV : Diagnostics techniques.",
+                  "@debut": "2006-09-15",
+                  "@fin": "2021-07-01",
+                  "@id": "LEGISCTA000006160498"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 1 : Diagnostic de performance énergétique.",
+                    "@debut": "2006-09-15",
+                    "@fin": "2021-07-01",
+                    "@id": "LEGISCTA000006177460"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074096",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2010-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2021-07-01",
+          "@id": "LEGIARTI000023355479",
+          "@num": "R134-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-09-15",
+          "@etat": "MODIFIE",
+          "@fin": "2010-12-31",
+          "@id": "LEGIARTI000006896279",
+          "@num": "R134-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Pour réaliser le diagnostic de performance énergétique, il est fait appel à une personne répondant aux conditions de l'article L. 271-6 et de ses textes d'application.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 78-622 1978-05-31 JORF 8 JUIN 1978",
+        "@cidtexte": "JORFTEXT000000702963",
+        "@datesignatexte": "1978-05-31",
+        "@id": "JORFTEXT000000702963",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-622",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2006-1147 du 14 septembre 2006 - art. 1 () JORF 15 septembre 2006",
+        "@cidtexte": "JORFTEXT000000269759",
+        "@datesignatexte": "2006-09-14",
+        "@id": "LEGIARTI000006255052",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SOCU0611708D",
+        "@num": "1",
+        "@numtexte": "2006-1147",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté du 16 octobre 2006 - art. 2 (VT)",
+        "@cidtexte": "JORFTEXT000000823413",
+        "@datesignatexte": "2006-10-16",
+        "@id": "LEGIARTI000025027127",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SOCU0611888A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation. - art. L271-6 (V)",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006824651",
+        "@naturetexte": "CODE",
+        "@num": "L271-6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

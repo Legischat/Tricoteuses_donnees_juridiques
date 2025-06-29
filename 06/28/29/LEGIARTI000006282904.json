@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006282904",
+      "ANCIEN_ID": "APIAPXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/29/LEGIARTI000006282904.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1987-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 décembre 1985 relatif aux taxes perçues par l'Institut national de la propriété industrielle",
+          "@c_titre_court": "Arrêté du 17 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "1987-01-01",
+          "@id_txt": "LEGITEXT000006069435"
+        }
+      ],
+      "@cid": "LEGITEXT000006069435",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-12-17",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1987-01-01",
+          "@id": "LEGIARTI000006282904",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<br/>   [*Nota - voir l'arrêté du 19 décembre 1986, article 6 : dérogation à l'abrogation en cas d'avertissements ou de notifications*].<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dates auxquelles les taxes prévues par le décret n° 81-599 du 15 mai 1981 sont considérées comme régulièrement acquittées sont déterminées ainsi qu'il suit :<br/>\n<br/>   Mode de versement et date d'effet :<br/>\n<br/>   Mandat-lettre, chèque postal et chèque bancaire : envoyé directement à l'I.N.P.I. par voie postale.<br/>\n<br/>   - date d'envoi de l'effet (le cachet de la poste faisant foi).<br/>\n<br/>   Mandat-lettre, chèque postal et chèque bancaire : remis directement à l'I.N.P.I..<br/>\n<br/>   - date de remise de l'effet.<br/>\n<br/>   Numéraire : date du paiement.<br/>\n<br/>   Virement direct bancaire ou postal : date de crédit du compte de l'I.N.P.I..<br/>\n<br/>   Mandat-carte : date d'émission du mandat (le cachet de la poste faisant foi).<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-12-19 art. 6",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1986-12-19 art. 6 JORF 1 janvier 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 81-599 1981-05-15",
+        "@cidtexte": "JORFTEXT000000884258",
+        "@datesignatexte": "1981-05-15",
+        "@id": "JORFTEXT000000884258",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-599",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

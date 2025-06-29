@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006900596",
+      "ANCIEN_ID": "AKAXXXXXXXX5X00004AAXXBA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/05/LEGIARTI000006900596.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4 bis",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-05-22",
+        "DATE_FIN": "2023-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de l'artisanat",
+          "@c_titre_court": "Code de l'artisanat",
+          "@debut": "1952-07-20",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006075116"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : De l'artisan, du maître artisan et du compagnon.",
+            "@debut": "1952-07-20",
+            "@fin": "2023-07-01",
+            "@id": "LEGISCTA000006112861"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006075116",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-05-22",
+          "@etat": "ABROGE",
+          "@fin": "2023-07-01",
+          "@id": "LEGIARTI000006900596",
+          "@num": "4 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le compagnon est l'ouvrier qualifié travaillant dans une entreprise artisanale et possédant une qualification professionnelle attestée soit par le certificat de compagnon, soit par un apprentissage préalable ou un exercice prolongé du métier.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 52-849 1952-07-16",
+        "@cidtexte": "JORFTEXT000000503097",
+        "@datesignatexte": "1952-07-16",
+        "@id": "JORFTEXT000000503097",
+        "@naturetexte": "DECRET",
+        "@numtexte": "52-849",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 55-656 1955-05-20 art. 5 JORF 22 mai 1955",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°77-892 du 4 août 1977 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000701048",
+        "@datesignatexte": "1977-08-04",
+        "@id": "LEGIARTI000006730330",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "77-892",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2023-208 du 28 mars 2023 - art. 5",
+        "@cidtexte": "JORFTEXT000047358025",
+        "@datesignatexte": "2023-03-28",
+        "@id": "LEGIARTI000047361634",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOI2234224R",
+        "@num": "5",
+        "@numtexte": "2023-208",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de l'artisanat - art. L214-1 (V)",
+        "@cidtexte": "LEGITEXT000006075116",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000047362432",
+        "@naturetexte": "CODE",
+        "@num": "L214-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

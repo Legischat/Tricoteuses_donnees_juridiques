@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006490601",
+      "ANCIEN_ID": "PJAXXXXXXXX5X012000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/06/LEGIARTI000006490601.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1810-02-22",
+        "DATE_FIN": "1981-10-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code pénal (ancien)",
+          "@c_titre_court": "CODE PENAL",
+          "@debut": "1810-02-12",
+          "@fin": "1994-03-01",
+          "@id_txt": "LEGITEXT000006071029"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1810-02-12",
+            "@fin": "1994-03-01",
+            "@id": "LEGISCTA000006093904"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LIVRE I",
+              "@debut": "1810-02-12",
+              "@fin": "1987-07-23",
+              "@id": "LEGISCTA000006119346"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "DES PEINES EN MATIERE CRIMINELLE ET CORRECTIONNELLE, ET DE LEURS EFFETS",
+                "@debut": "1810-02-12",
+                "@fin": "1987-07-23",
+                "@id": "LEGISCTA000006136903"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "CHAPITRE I",
+                  "@debut": "1810-02-22",
+                  "@fin": "1981-10-10",
+                  "@id": "LEGISCTA000006150857"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Des peines en matière criminelle",
+                    "@debut": "1810-02-22",
+                    "@fin": "1981-10-10",
+                    "@id": "LEGISCTA000006166104"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071029",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1810-02-22",
+          "@etat": "ABROGE",
+          "@fin": "1981-10-10",
+          "@id": "LEGIARTI000006490601",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Abrogé par l'article 4 de la loi n° 81-908 du 9 octobre 1981.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1810-02-12",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1810-02-12 promulguée le 22 février 1810",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°81-908 du 9 octobre 1981 - art. 4 (V) JORF 10 octobre 1981",
+        "@cidtexte": "JORFTEXT000000319513",
+        "@datesignatexte": "1981-10-09",
+        "@id": "LEGIARTI000006494087",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@numtexte": "81-908",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

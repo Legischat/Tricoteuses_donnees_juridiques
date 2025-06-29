@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006762223",
+      "ANCIEN_ID": "AFILZXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/22/LEGIARTI000006762223.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-05-31",
+        "DATE_FIN": "2011-04-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 mai 1992 pris pour l'application du décret no 92-456 du 22 mai    1992 relatif au refus de paiement de chèques et à l'interdiction d'émettre    des chèques",
+          "@c_titre_court": "Arrêté du 29 mai 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000175785"
+        },
+        {
+          "#text": "Arrêté du 29 mai 1992 pris pour l'application du décret n° 92-456 du 22 mai 1992 relatif au refus de paiement de chèques et à l'interdiction d'émettre des chèques",
+          "@c_titre_court": "Arrêté du 29 mai 1992",
+          "@debut": "1992-05-31",
+          "@fin": "2011-04-30",
+          "@id_txt": "LEGITEXT000006079185"
+        }
+      ],
+      "@cid": "JORFTEXT000000175785",
+      "@date_publi": "1992-05-31",
+      "@date_signature": "1992-05-29",
+      "@ministere": "MINISTERE DES AFFAIRES ETRANGERES",
+      "@nature": "ARRETE",
+      "@nor": "ECOT9213556A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-05-31",
+          "@etat": "ABROGE",
+          "@fin": "2011-04-30",
+          "@id": "LEGIARTI000006762223",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La lettre d'information adressée, en application de l'article R. 131-15 du code monétaire et financier, au mandataire du titulaire d'un compte interdit d'émettre des chèques doit comporter les mentions figurant sur le modèle présenté à l'annexe II.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1992-05-29 annexe II",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 92-456 1992-05-22",
+        "@cidtexte": "JORFTEXT000000175236",
+        "@datesignatexte": "1992-05-22",
+        "@id": "JORFTEXT000000175236",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSD9230011D",
+        "@numtexte": "92-456",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 20 avril 2011 - art. 6",
+        "@cidtexte": "JORFTEXT000023915710",
+        "@datesignatexte": "2011-04-20",
+        "@id": "LEGIARTI000023926741",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "EFIT1108213A",
+        "@num": "6",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code monétaire et financier - art. R131-15",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006678842",
+        "@naturetexte": "CODE",
+        "@num": "R131-15",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

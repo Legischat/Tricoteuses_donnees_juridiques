@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006282888",
+      "ANCIEN_ID": "AAEAAXXXXXX491AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/28/LEGIARTI000006282888.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "491",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1967-04-01",
+        "DATE_FIN": "1986-08-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692245"
+        },
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "1964-04-01",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006068288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 3 : Dispositions diverses et transitoires.",
+            "@debut": "1967-01-06",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083822"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000692245",
+      "@date_publi": "1966-07-26",
+      "@date_signature": "1966-07-24",
+      "@nature": "LOI",
+      "@num": "66-537"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1986-08-02",
+          "@id": "LEGIARTI000006282888",
+          "@num": "491",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-08-02",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006282889",
+          "@num": "491",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Par dérogation à l'alinéa 1er de l'article 55 le gérant d'une société à responsabilité limitée exploitant une entreprise de presse au sens de l'article 2 de l'ordonnance du 26 août 1944 sur l'organisation de la pressse française, n'est révocable que par une décision des associés représentant au moins les trois quarts du capital social [*proportion*].<br/>\n<br/>   Par dérogation à l'article 35, alinéa 1er, le capital de la société visée à l'alinéa précédent est de 2.000 F au moins, lorsqu'elles sont constituées sous la forme de société anonyme.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-537 1966-07-24 JORF 26 juillet 1966 rectificatif JORF 19 octobre 1966 en vigueur le 1er avril 1967",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 35, art. 55",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 1944-08-26 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

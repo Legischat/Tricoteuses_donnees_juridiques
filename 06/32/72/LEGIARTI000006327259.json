@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327259",
+      "ANCIEN_ID": "FAIISXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/72/LEGIARTI000006327259.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-05-21",
+        "DATE_FIN": "1984-05-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 mai 1983 Taxe due par les bénéficiaires du plan de chasse à titre de participation à la réparation des dégâts de grand gibier.",
+          "@c_titre_court": "Arrêté du 16 mai 1983",
+          "@debut": "1983-05-21",
+          "@fin": "1984-05-10",
+          "@id_txt": "LEGITEXT000006069810"
+        }
+      ],
+      "@cid": "LEGITEXT000006069810",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-05-16",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-21",
+          "@etat": "ABROGE",
+          "@fin": "1984-05-10",
+          "@id": "LEGIARTI000006327259",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 20 avril 1982 relatif à la taxe due par les bénéficiaires du plan de chasse à titre de participation à la réparation des dégâts de grand gibier est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-04-20",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 79-1101 1979-12-20",
+        "@cidtexte": "JORFTEXT000000697295",
+        "@datesignatexte": "1979-12-20",
+        "@id": "JORFTEXT000000697295",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-1101",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 79-1100 1979-12-20",
+        "@cidtexte": "JORFTEXT000000880515",
+        "@datesignatexte": "1979-12-20",
+        "@id": "JORFTEXT000000880515",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-1100",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

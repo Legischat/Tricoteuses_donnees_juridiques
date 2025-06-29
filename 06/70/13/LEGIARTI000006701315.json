@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006701315",
+      "ANCIEN_ID": "SPHALXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/13/LEGIARTI000006701315.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-08-04",
+        "DATE_FIN": "1996-07-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°74-683 du 1 août 1974 RELATIF A LA PROPHYLAXIE DE LA RAGE",
+          "@c_titre_court": "Décret n°74-683 du 1 août 1974",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000679617"
+        },
+        {
+          "#text": "Décret n°74-683 du 1 août 1974  RELATIF A LA PROPHYLAXIE DE LA RAGE.",
+          "@c_titre_court": "Décret n°74-683 du 1 août 1974",
+          "@debut": "1974-08-04",
+          "@fin": "1996-07-03",
+          "@id_txt": "LEGITEXT000006062224"
+        }
+      ],
+      "@cid": "JORFTEXT000000679617",
+      "@date_publi": "1974-08-04",
+      "@date_signature": "1974-08-01",
+      "@nature": "DECRET",
+      "@num": "74-683"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-08-04",
+          "@etat": "ABROGE",
+          "@fin": "1996-07-03",
+          "@id": "LEGIARTI000006701315",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Entrent dans le cadre de la prophylaxie de la rage les mesures visées dans l'arrêté interministériel pris en application de l'article 1er-II du décret n° 74-504 du 17 mai 1974 susvisé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-10-23",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 74-504 1974-05-17 ART. 1",
+        "@cidtexte": "JORFTEXT000000512107",
+        "@datesignatexte": "1974-05-17",
+        "@id": "JORFTEXT000000512107",
+        "@naturetexte": "DECRET",
+        "@numtexte": "74-504",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°96-596 du 27 juin 1996 - art. 19 (Ab) JORF 3 juillet 1996",
+        "@cidtexte": "JORFTEXT000000194190",
+        "@datesignatexte": "1996-06-27",
+        "@id": "LEGIARTI000006602400",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRG9600512D",
+        "@num": "19",
+        "@numtexte": "96-596",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

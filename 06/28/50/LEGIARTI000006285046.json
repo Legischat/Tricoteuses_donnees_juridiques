@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006285046",
+      "ANCIEN_ID": "ARFAJXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/50/LEGIARTI000006285046.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1823-11-26",
+        "DATE_FIN": "1960-08-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance du Roi du 26 novembre 1823 portant règlement sur la vérification des registres de l'état civil",
+          "@c_titre_court": "Ordonnance du Roi du 26 novembre 1823",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000021821006"
+        },
+        {
+          "#text": "Ordonnance du 26 novembre 1823 portant règlement sur la vérification des registres de l'état civil.",
+          "@c_titre_court": "Ordonnance du 26 novembre 1823",
+          "@debut": "1823-11-26",
+          "@fin": "2017-11-01",
+          "@id_txt": "LEGITEXT000006069458"
+        }
+      ],
+      "@cid": "JORFTEXT000021821006",
+      "@date_publi": "1823-12-08",
+      "@date_signature": "1823-11-26",
+      "@nature": "ORDONNANCE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1823-11-26",
+          "@etat": "ABROGE",
+          "@fin": "1960-08-11",
+          "@id": "LEGIARTI000006285046",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 60-833 1960-08-06 art. 3 JORF 11 août 1960",
+        "@cidtexte": "JORFTEXT000000681516",
+        "@datesignatexte": "1960-08-06",
+        "@id": "JORFTEXT000000681516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "60-833",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 1823-11-26 Bulletin des lois 7e S, B. 640 n° 15963",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

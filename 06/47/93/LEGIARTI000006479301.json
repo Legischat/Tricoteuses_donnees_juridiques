@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006479301",
+      "ANCIEN_ID": "PHHGWXXXXXX031AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/47/93/LEGIARTI000006479301.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "31",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-01-01",
+        "DATE_FIN": "2001-12-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°75-1206 du 22 décembre 1975 PORTANT STATUT PARTICULIER DU CORPS DES OFFICIERS DES ARMES DE L'ARMEE DE TERRE",
+          "@c_titre_court": "Décret n°75-1206 du 22 décembre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000688961"
+        },
+        {
+          "#text": "Décret n°75-1206 du 22 décembre 1975 portant statut particulier du corps des officiers des armes de l'armée de terre.",
+          "@c_titre_court": "Décret n°75-1206 du 22 décembre 1975",
+          "@debut": "1976-01-01",
+          "@fin": "2009-01-01",
+          "@id_txt": "LEGITEXT000006062274"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : Dispositions diverses ou transitoires.",
+            "@debut": "1976-01-01",
+            "@fin": "2009-01-01",
+            "@id": "LEGISCTA000006093272"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000688961",
+      "@date_publi": "1975-12-24",
+      "@date_signature": "1975-12-22",
+      "@nature": "DECRET",
+      "@num": "75-1206"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-12-27",
+          "@id": "LEGIARTI000006479301",
+          "@num": "31",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les intéressés sont inscrits sur la liste unique d'ancienneté de leur grade en fonction de leur ancienneté déterminée dans les conditions prévues à l'article 39 de la loi du 13 juillet 1972 susvisée, et, à égalité d'ancienneté, compte tenu successivement :<br/>\n<br/>   De leur classement dans les listes d'ancienneté en vigueur au 31 décembre 1975 ;<br/>\n<br/>   Des anciennetés respectives dans le ou les grades précédents d'officiers de carrière et, le cas échéant, dans les autres grades de la hiérarchie ;<br/>\n<br/>   De l'ordre des catégories de recrutement en vigueur au 31 décembre 1975 ;<br/>\n<br/>   Du classement de sortie des écoles militaires d'élèves officiers ;<br/>\n<br/>   De l'ordre décroissant des âges.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°72-662 du 13 juillet 1972 - art. 39 (Ab)",
+        "@cidtexte": "JORFTEXT000000509303",
+        "@datesignatexte": "1972-07-13",
+        "@id": "LEGIARTI000006451011",
+        "@naturetexte": "LOI",
+        "@num": "39",
+        "@numtexte": "72-662",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°75-1206 du 22 décembre 1975 - art. 32-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000688961",
+        "@datesignatexte": "1975-12-22",
+        "@id": "LEGIARTI000006479303",
+        "@naturetexte": "DECRET",
+        "@num": "32-1",
+        "@numtexte": "75-1206",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2001-1252 du 21 décembre 2001 - art. 19 () JORF 27 décembre 2001",
+        "@cidtexte": "JORFTEXT000000774393",
+        "@datesignatexte": "2001-12-21",
+        "@id": "LEGIARTI000006569767",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFP0102328D",
+        "@num": "19",
+        "@numtexte": "2001-1252",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

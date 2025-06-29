@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006685700",
+      "ANCIEN_ID": "SNAXXXXXXXX5X059000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/57/LEGIARTI000006685700.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "59",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-06-30",
+        "DATE_FIN": "1995-09-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de déontologie des médecins",
+          "@c_titre_court": "Code de déontologie des médecins",
+          "@debut": "1979-06-30",
+          "@fin": "1995-09-08",
+          "@id_txt": "LEGITEXT000006072664"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 3 : Rapport des médecins entre eux et avec les membres des autres professions de santé",
+            "@debut": "1979-06-30",
+            "@fin": "1995-09-08",
+            "@id": "LEGISCTA000006103415"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072664",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-06-30",
+          "@etat": "ABROGE",
+          "@fin": "1995-09-08",
+          "@id": "LEGIARTI000006685700",
+          "@num": "59",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Lorsque plusieurs médecins collaborent pour l'examen ou le traitement d'un même malade, chacun des praticiens assume ses responsabilités personnelles.<br/>\n    Il en est ainsi, par exemple, dans l'équipe que forment le chirurgien et les praticiens auxquels il est fait appel.<br/>\n    En revanche, le ou les aides-opératoires choisis par le chirurgien travaillent sous son contrôle ; leur rémunération peut être incluse dans les honoraires demandés par le chirurgien, en particulier pour l'application de la réglementation de l'assurance maladie.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-506 1979-06-28 JORF 30 juin 1979",
+        "@cidtexte": "JORFTEXT000000703112",
+        "@datesignatexte": "1979-06-28",
+        "@id": "JORFTEXT000000703112",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-506",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 95-1000 1995-09-06 art. 113 JORF 8 septembre 1995",
+        "@cidtexte": "JORFTEXT000000555170",
+        "@datesignatexte": "1995-09-06",
+        "@id": "JORFTEXT000000555170",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9502310D",
+        "@numtexte": "95-1000",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

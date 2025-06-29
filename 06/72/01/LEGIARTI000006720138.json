@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006720138",
+      "ANCIEN_ID": "AFGAAXXXXXX076AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/01/LEGIARTI000006720138.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "76",
+        "ETAT": "MODIFIE_MORT_NE",
+        "DATE_DEBUT": "1992-01-01",
+        "DATE_FIN": "1976-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "1992-01-01",
+          "@fin": "2006-04-01",
+          "@id_txt": "LEGITEXT000006072897"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre XI : Dispositions générales et pénales.",
+            "@debut": "1935-10-31",
+            "@fin": "2006-04-01",
+            "@id": "LEGISCTA000006105014"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072897",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1935-10-30",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-01",
+          "@etat": "MODIFIE_MORT_NE",
+          "@fin": "1976-01-01",
+          "@id": "LEGIARTI000006720138",
+          "@num": "76",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE_MORT_NE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Nonobstant les dispositions de l'article 522 du code de procédure pénale, le tribunal de police de la résidence du prévenu est également compétent pour connaître des contraventions en matière de chèques.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 75-4 1975-01-03 art. 5 JORF 4 janvier 1975 rectificatif JORF 16 novembre 1975 en vigueur le 1er janvier 1976",
+        "@cidtexte": "JORFTEXT000000333973",
+        "@datesignatexte": "1975-01-03",
+        "@id": "JORFTEXT000000333973",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "CODE DE PROCEDURE PENALE - art. 522 (M)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006576800",
+        "@naturetexte": "CODE",
+        "@num": "522",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351591",
+      "ANCIEN_ID": "MDH02XXXXXX007AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/15/LEGIARTI000006351591.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-05-10",
+        "DATE_FIN": "2004-04-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°50-722 du 24 juin 1950 RELATIF A LA DELEGATION DES POUVOIRS PROPRES AUX PREFETS, SOUS-PREFETS ET SECRETAIRES GENERAUX DE PREFECTURE",
+          "@c_titre_court": "Décret n°50-722 du 24 juin 1950",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000302641"
+        },
+        {
+          "#text": "Décret n°50-722 du 24 juin 1950 relatif à la délégation des pouvoirs propres aux préfets, sous-préfets et secrétaires généraux de préfecture.",
+          "@c_titre_court": "Décret n°50-722 du 24 juin 1950",
+          "@debut": "1950-06-25",
+          "@fin": "2004-04-30",
+          "@id_txt": "LEGITEXT000006060587"
+        }
+      ],
+      "@cid": "JORFTEXT000000302641",
+      "@date_publi": "1950-06-25",
+      "@date_signature": "1950-06-24",
+      "@nature": "DECRET",
+      "@num": "50-722"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-06-25",
+          "@etat": "TRANSFERE",
+          "@fin": "1972-05-10",
+          "@id": "LEGIARTI000006351590",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1972-05-10",
+          "@etat": "ABROGE",
+          "@fin": "2004-04-30",
+          "@id": "LEGIARTI000006351591",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sous-préfets peuvent, par arrêté, déléguer partie de leur signature au secrétaire en chef de la sous-préfecture.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 50-722 1950-06-24 art. 8 (1ère version)",
+        "@cidtexte": "JORFTEXT000000302641",
+        "@datesignatexte": "1950-06-24",
+        "@id": "JORFTEXT000000302641",
+        "@naturetexte": "DECRET",
+        "@numtexte": "50-722",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret n°2004-374 du 29 avril 2004 - art. 87 (V) JORF 30 avril 2004",
+        "@cidtexte": "JORFTEXT000000249712",
+        "@datesignatexte": "2004-04-29",
+        "@id": "LEGIARTI000006401444",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTX0400040D",
+        "@num": "87",
+        "@numtexte": "2004-374",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

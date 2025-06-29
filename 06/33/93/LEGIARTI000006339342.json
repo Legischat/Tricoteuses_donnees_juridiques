@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006339342",
+      "ANCIEN_ID": "AAHHSXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/93/LEGIARTI000006339342.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1959-09-11",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°59-1053 du 7 septembre 1959 SIMPLIFICATION DE LA GESTION DES TITRES NOMINATIFS",
+          "@c_titre_court": "Décret n°59-1053 du 7 septembre 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000492987"
+        },
+        {
+          "#text": "Décret n°59-1053 du 7 septembre 1959 portant simplification de la gestion des titres nominatifs d'emprunts",
+          "@c_titre_court": "Décret n°59-1053 du 7 septembre 1959",
+          "@debut": "1959-09-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060848"
+        }
+      ],
+      "@cid": "JORFTEXT000000492987",
+      "@date_publi": "1959-09-11",
+      "@date_signature": "1959-09-07",
+      "@nature": "DECRET",
+      "@num": "59-1053"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-09-11",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006339342",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Lors du dépôt pour conversion au nominatif d'un titre appartenant à un emprunt de la catégorie prévue à l'article 1er la personne morale émettrice est tenue de vérifier que ce titre ne fait l'objet d'aucune opposition encore valable. Au cas où elle aurait accepté ou livré un titre frappé d'opposition, elle serait responsable dans les conditions du droit commun.</p>\n<br/>\n<p>Toute publication d'opposition postérieure au dépôt d'un titre est sans effet et l'opposant qui en a été antérieurement dépossédé ne pourra exercer aucune action en revendication.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°59-1053 du 7 septembre 1959 - art. 1 (M)",
+        "@cidtexte": "JORFTEXT000000492987",
+        "@datesignatexte": "1959-09-07",
+        "@id": "LEGIARTI000006339312",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "59-1053",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°59-1053 du 7 septembre 1959 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000492987",
+        "@datesignatexte": "1959-09-07",
+        "@id": "LEGIARTI000006339313",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "59-1053",
+        "@sens": "cible",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006208688",
+      "ANCIEN_ID": "ADEDAXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/86/LEGIARTI000006208688.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-03-01",
+        "DATE_FIN": "2011-05-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 2002-282 du 28 février 2002 portant création d'une Fondation pour les études comparatives (1)",
+          "@c_titre_court": "Loi n° 2002-282 du 28 février 2002",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000776204"
+        },
+        {
+          "#text": "Loi n°2002-282 du 28 février 2002 portant création d'une Fondation pour les études comparatives (1)",
+          "@c_titre_court": "Loi n°2002-282 du 28 février 2002",
+          "@debut": "2002-03-01",
+          "@fin": "2011-05-19",
+          "@id_txt": "LEGITEXT000005632363"
+        }
+      ],
+      "@cid": "JORFTEXT000000776204",
+      "@date_publi": "2002-03-01",
+      "@date_signature": "2002-02-28",
+      "@nature": "LOI",
+      "@nor": "RECX0104883L",
+      "@num": "2002-282"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2011-05-19",
+          "@id": "LEGIARTI000006208688",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001332685",
+          "@num": "5",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les ressources de la \"Fondation pour les études comparatives\" sont constituées par les produits du placement de ses fonds, les subventions de l'Etat et de toutes collectivités publiques, les dons et legs et, généralement, toutes recettes provenant de son activité.<br/>\n<br/>   L'Etat et les collectivités publiques peuvent également mettre à disposition les personnels et les biens nécessaires à l'accomplissement de son objet. Les services accomplis par les fonctionnaires de l'Etat mis à la disposition de la Fondation pour les études comparatives sont pris en compte pour la constitution de leur droit à pension dans les conditions prévues à l'article L. 5 du code des pensions civiles et militaires de retraite.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2011-525\n du 17 mai 2011 - art. 144",
+        "@cidtexte": "JORFTEXT000024021430",
+        "@datesignatexte": "2011-05-17",
+        "@id": "LEGIARTI000024023376",
+        "@naturetexte": "LOI",
+        "@nortexte": "BCRX0929142L",
+        "@num": "144",
+        "@numtexte": "2011-525",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des pensions civiles et militaires de retraite - art. L5",
+        "@cidtexte": "LEGITEXT000006070302",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006362668",
+        "@naturetexte": "CODE",
+        "@num": "L5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

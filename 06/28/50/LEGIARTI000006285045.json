@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006285045",
+      "ANCIEN_ID": "ARFAJXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/50/LEGIARTI000006285045.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1823-11-26",
+        "DATE_FIN": "2017-11-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance du Roi du 26 novembre 1823 portant règlement sur la vérification des registres de l'état civil",
+          "@c_titre_court": "Ordonnance du Roi du 26 novembre 1823",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000021821006"
+        },
+        {
+          "#text": "Ordonnance du 26 novembre 1823 portant règlement sur la vérification des registres de l'état civil.",
+          "@c_titre_court": "Ordonnance du 26 novembre 1823",
+          "@debut": "1823-11-26",
+          "@fin": "2017-11-01",
+          "@id_txt": "LEGITEXT000006069458"
+        }
+      ],
+      "@cid": "JORFTEXT000021821006",
+      "@date_publi": "1823-12-08",
+      "@date_signature": "1823-11-26",
+      "@nature": "ORDONNANCE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1823-11-26",
+          "@etat": "ABROGE",
+          "@fin": "2017-11-01",
+          "@id": "LEGIARTI000006285045",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La vérification des registres de l'état civil, prescrite par l'article 53 du code, sera faite par nos (les) procureurs près les tribunaux de grande instance, dans les quatre premiers mois de chaque année.<br/>\n<br/>   Ce procès-verbal destiné à constater cette vérification sera rédigé conformément au modèle annexé à la présente ordonnance (modèle non reproduit).<br/>\n<br/>   Ce procès-verbal sera divisé par cantons et subdivise par communes et par nature de registres.<br/>\n<br/>   Il désignera les actes défectueux par le numéro correspondant du registre dont ils feront partie et indiquera les contraventions en énonçant les articles du Code civil dont les dispositions auront été violées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2017-890 du 6 mai 2017 - art. 59 (VD)",
+        "@cidtexte": "JORFTEXT000034635327",
+        "@datesignatexte": "2017-05-06",
+        "@id": "LEGIARTI000034708070",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC1703743D",
+        "@num": "59",
+        "@numtexte": "2017-890",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code civil - art. 53",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006420833",
+        "@naturetexte": "CODE",
+        "@num": "53",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 1823-11-26 Bulletin des lois 7e S, B. 640 n° 15963",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

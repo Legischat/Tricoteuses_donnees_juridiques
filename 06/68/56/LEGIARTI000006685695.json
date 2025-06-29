@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006685695",
+      "ANCIEN_ID": "SNAXXXXXXXX5X055000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/56/LEGIARTI000006685695.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "55",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-06-30",
+        "DATE_FIN": "1995-09-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de déontologie des médecins",
+          "@c_titre_court": "Code de déontologie des médecins",
+          "@debut": "1979-06-30",
+          "@fin": "1995-09-08",
+          "@id_txt": "LEGITEXT000006072664"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 3 : Rapport des médecins entre eux et avec les membres des autres professions de santé",
+            "@debut": "1979-06-30",
+            "@fin": "1995-09-08",
+            "@id": "LEGISCTA000006103415"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072664",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-06-30",
+          "@etat": "ABROGE",
+          "@fin": "1995-09-08",
+          "@id": "LEGIARTI000006685695",
+          "@num": "55",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le médecin doit proposer une consultation avec un confrère dès que les circonstances l'exigent. Il doit accepter une consultation demandée par le malade ou son entourage. Dans les deux cas, le médecin propose le consultant qu'il juge le plus qualifié, mais il doit tenir compte des désirs du malade et accepter, en principe, sauf raison sérieuse, de rencontrer en consultation tout médecin inscrit au tableau de l'ordre ou autorisé à exercer en vertu de l'article L. 356-1 du Code de la santé publique. Il a la charge d'organiser les modalités de la consultation.<br/>\n<br/>\n   Si le médecin ne croit pas devoir donner son agrément au choix exprimé par le malade ou son entourage, il a la possibilité de se retirer et ne doit à personne l'explication de son refus.<br/>\n    A la fin d'une consultation entre deux ou plusieurs médecins, il est de règle que leurs conclusions, rédigées en commun, soient formulées par écrit, signées par le médecin traitant et contresignées par le ou les consultants. Quand il n'est pas rédigé de consultation écrite, le consultant est censé admettre qu'il partage entièrement l'avis du médecin traitant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-506 1979-06-28 JORF 30 juin 1979",
+        "@cidtexte": "JORFTEXT000000703112",
+        "@datesignatexte": "1979-06-28",
+        "@id": "JORFTEXT000000703112",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-506",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 95-1000 1995-09-06 art. 113 JORF 8 septembre 1995",
+        "@cidtexte": "JORFTEXT000000555170",
+        "@datesignatexte": "1995-09-06",
+        "@id": "JORFTEXT000000555170",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9502310D",
+        "@numtexte": "95-1000",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L356-1 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692957",
+        "@naturetexte": "CODE",
+        "@num": "L356-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006913603",
+      "ANCIEN_ID": "AKFACXXXXXX067AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/36/LEGIARTI000006913603.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "67",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-08-10",
+        "DATE_FIN": "2004-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts comptables et des comptables agréés et réglementant les titres et professions d'expert comptable et comptable agréé",
+          "@c_titre_court": "Ordonnance n° 45-2138 du 19 septembre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000698851"
+        },
+        {
+          "#text": "Ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable",
+          "@c_titre_court": "Ordonnance n° 45-2138 du 19 septembre 1945",
+          "@debut": "1945-09-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069163"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VI : Dispositions transitoires",
+            "@debut": "1945-09-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006112963"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section III : Dispositions communes.",
+              "@debut": "1945-09-21",
+              "@fin": "2004-03-27",
+              "@id": "LEGISCTA000006132397"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000698851",
+      "@date_publi": "1945-09-21",
+      "@date_signature": "1945-09-19",
+      "@nature": "ORDONNANCE",
+      "@num": "45-2138"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-08-10",
+          "@etat": "ABROGE",
+          "@fin": "2004-03-27",
+          "@id": "LEGIARTI000006913603",
+          "@num": "67",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Après examen des requêtes qui leur sont adressées par application des dispositions transitoires, les conseils de l'ordre peuvent :<br/>\n<br/>   Soit décider l'admission ou la délivrance du certificat d'aptitude ;<br/>\n<br/>   Soit seulement, s'ils ne se considèrent pas suffisamment éclairés sur la compétence ou la moralité du candidat, accorder une autorisation d'exercer ou délivrer un certificat d'aptitude provisoire et valable pour une période d'un an renouvelable une seule fois, et réserver ainsi momentanément leur décision définitive ;<br/>\n<br/>   Soit refuser l'admission ou le certificat d'aptitude.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-2138 1945-09-19 JORF 21 septembre 1945 rectificatif JORF 30 septembre 1945",
+        "@cidtexte": "JORFTEXT000000698851",
+        "@datesignatexte": "1945-09-19",
+        "@id": "JORFTEXT000000698851",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2138",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°45-2138 du 19 septembre 1945 - art. 65 (Ab)",
+        "@cidtexte": "JORFTEXT000000698851",
+        "@datesignatexte": "1945-09-19",
+        "@id": "LEGIARTI000006913549",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "65",
+        "@numtexte": "45-2138",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°45-2138 du 19 septembre 1945 - art. 76 (Ab)",
+        "@cidtexte": "JORFTEXT000000698851",
+        "@datesignatexte": "1945-09-19",
+        "@id": "LEGIARTI000006913706",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "76",
+        "@numtexte": "45-2138",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°94-679 du 8 août 1994 - art. 50 () JORF 10 août 1994",
+        "@cidtexte": "JORFTEXT000000713238",
+        "@datesignatexte": "1994-08-08",
+        "@id": "LEGIARTI000006698436",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9300054L",
+        "@num": "50",
+        "@numtexte": "94-679",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2004-279 2004-03-25 art. 5 30° JORF 27 mars 2004",
+        "@cidtexte": "JORFTEXT000000436810",
+        "@datesignatexte": "2004-03-25",
+        "@id": "JORFTEXT000000436810",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOX0400008R",
+        "@numtexte": "2004-279",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

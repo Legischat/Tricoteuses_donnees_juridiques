@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006708950",
+      "ANCIEN_ID": "SPHP8XXXXXX023EAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/89/LEGIARTI000006708950.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23-4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-08-27",
+        "DATE_FIN": "1977-03-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°41-5050 du 31 décembre 1941 codifiant les textes relatifs aux opérations d'inhumation, d'exhumation, d'incinération et de transport des corps.",
+          "@c_titre_court": "Décret n°41-5050 du 31 décembre 1941",
+          "@debut": "1942-01-27",
+          "@fin": "1977-03-18",
+          "@id_txt": "LEGITEXT000006072702"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Sépultures - inhumations",
+            "@debut": "1976-05-20",
+            "@fin": "1977-03-18",
+            "@id": "LEGISCTA000006104318"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072702",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1941-12-31",
+      "@nature": "DECRET",
+      "@num": "41-5050"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-05-20",
+          "@etat": "MODIFIE",
+          "@fin": "1976-08-27",
+          "@id": "LEGIARTI000006708949",
+          "@num": "23-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1976-08-27",
+          "@etat": "ABROGE",
+          "@fin": "1977-03-18",
+          "@id": "LEGIARTI000006708950",
+          "@num": "23-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Après la crémation d'un corps, l'urne prévue à l'article 22-4 est remise à la famille pour être déposée, à sa convenance, dans une sépulture, un colombarium ou une propriété privée ou publique. Les cendres peuvent être également dispersées en pleine nature, à l'exclusion des voies publiques.<br/>\n    Le conseil municipal peut décider la création, dans l'enceinte d'un cimetière, d'un jardin du souvenir où les cendres pulvérisées des corps incinérés peuvent être répandues à la demande des familles.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 77-241 1977-03-07 art. 8 JORF 18 mars 1977",
+        "@cidtexte": "JORFTEXT000000883225",
+        "@datesignatexte": "1977-03-07",
+        "@id": "JORFTEXT000000883225",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-241",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°41-5050 du 31 décembre 1941 - art. 22-4 (Ab)",
+        "@cidtexte": "LEGITEXT000006072702",
+        "@datesignatexte": "1941-12-31",
+        "@id": "LEGIARTI000006708943",
+        "@naturetexte": "DECRET",
+        "@num": "22-4",
+        "@numtexte": "41-5050",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

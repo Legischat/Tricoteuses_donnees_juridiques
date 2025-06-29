@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006533145",
+      "ANCIEN_ID": "ADGABXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/31/LEGIARTI000006533145.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-03-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 12 novembre 1938 relatif à la carte d'identité de commerçant pour les étrangers",
+          "@c_titre_court": "Décret-loi du 12 novembre 1938",
+          "@debut": "1938-11-13",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006071222"
+        }
+      ],
+      "@cid": "LEGITEXT000006071222",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1938-11-12",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1940-11-13",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006533144",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006533145",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A dater de la promulgation du présent décret, il est interdit à tout étranger d'exercer sur le territoire français une profession industrielle, commerciale ou artisanale sans justifier de la possession d'une carte d'identité spéciale portant la mention \"commerçant\", délivrée par le préfet du département où l'étranger doit exercer son activité.<br/>\n<br/>   Toute infraction aux prescriptions du présent article et à celles des décrets d'application prévues à l'article 4 ci-après sera punie d'une amende de 25.000 F et d'un emprisonnement de six mois, ou d'une de ces peines [*sanctions pénales*] seulement. En cas de récidive, les peines seront portées au double. Le tribunal pourra, en outre, ordonner la fermeture de l'établissement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret-loi 1938-11-12 art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491860",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "322",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L122-1 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006219207",
+        "@naturetexte": "CODE",
+        "@num": "L122-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code de commerce. - art. L122-2 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006219217",
+        "@naturetexte": "CODE",
+        "@num": "L122-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

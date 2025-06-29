@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006889192",
+      "ANCIEN_ID": "UTIHJXXXXXX043AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/91/LEGIARTI000006889192.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "43",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1984-12-22",
+        "DATE_FIN": "2002-08-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 novembre 1984 relatif à l'immatriculation des véhicules",
+          "@c_titre_court": "Arrêté du 5 novembre 1984",
+          "@debut": "1984-12-22",
+          "@fin": "2009-12-31",
+          "@id_txt": "LEGITEXT000006075077"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : IMMATRICULATION DES VÉHICULES DANS LES SÉRIES W ET WW DISPOSITIONS COMMUNES.",
+            "@debut": "1984-12-22",
+            "@fin": "2002-08-29",
+            "@id": "LEGISCTA000006112301"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CHAPITRE Ier : IMMATRICULATION DANS LES SÉRIES W § I. - CONDITIONS ET MODALITÉS D'ATTRIBUTION DES CARTES ET NUMÉROS DES SÉRIES W.",
+              "@debut": "1984-12-22",
+              "@fin": "2002-08-29",
+              "@id": "LEGISCTA000006131866"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "§ III - CONDITIONS DE CIRCULATION SOUS LE COUVERT DES CARTES ET NUMÉROS W.",
+                "@debut": "1984-12-22",
+                "@fin": "2002-08-29",
+                "@id": "LEGISCTA000006145188"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006075077",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-11-05",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-12-22",
+          "@etat": "MODIFIE",
+          "@fin": "2002-08-29",
+          "@id": "LEGIARTI000006889192",
+          "@num": "43",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-08-29",
+          "@etat": "ABROGE",
+          "@fin": "2009-12-31",
+          "@id": "LEGIARTI000006889193",
+          "@num": "43",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La circulation des véhicules ou ensembles de véhicules sous le couvert de cartes portant les numéros des séries W est autorisée sur tout le territoire métropolitain et dans les départements d'outre-mer.<br/>\n<br/>   Sous couvert d'un numéro W, un véhicule peut ne pas être conforme aux dispositions techniques du code de la route dès lors qu'il fait l'objet d'essais ou qu'il n'a pas encore été réceptionné par le service des mines.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Circulaire 84-84 1984-12-24",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code de la route",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

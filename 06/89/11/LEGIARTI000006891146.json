@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006891146",
+      "ANCIEN_ID": "UTITRXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/11/LEGIARTI000006891146.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-12-27",
+        "DATE_FIN": "1993-02-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 décembre 1992 fixant le taux de redevance pour les visites    techniques de véhicules automobiles effectuées en application des articles R.    119-1 et R. 120 du code de la route",
+          "@c_titre_court": "Arrêté du 17 décembre 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000543032"
+        },
+        {
+          "#text": "Arrêté du 17 décembre 1992 fixant le taux de redevance pour les visites techniques de véhicules automobiles effectuées en application des articles R. 119-1 et R. 120 du code de la route",
+          "@c_titre_court": "Arrêté du 17 décembre 1992",
+          "@debut": "1993-02-01",
+          "@fin": "2000-01-01",
+          "@id_txt": "LEGITEXT000006080585"
+        }
+      ],
+      "@cid": "JORFTEXT000000543032",
+      "@date_publi": "1992-12-27",
+      "@date_signature": "1992-12-17",
+      "@ministere": "MINISTERE DE LA CULTURE ET DE LA COMMUNICATION",
+      "@nature": "ARRETE",
+      "@nor": "BUDB9240050A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-12-27",
+          "@etat": "MODIFIE",
+          "@fin": "1993-02-01",
+          "@id": "LEGIARTI000006891146",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-02-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-01-01",
+          "@id": "LEGIARTI000006891147",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de la redevance visé à l'article 1er est fixé, pour chaque centre agréé au titre du décret n° 91-370 du 15 avril 1991, à 3 F par visite effectuée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1992-12-17 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 91-370 1991-04-15",
+        "@cidtexte": "JORFTEXT000000526954",
+        "@datesignatexte": "1991-04-15",
+        "@id": "JORFTEXT000000526954",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS9100391D",
+        "@numtexte": "91-370",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route R.119-1, R.120",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

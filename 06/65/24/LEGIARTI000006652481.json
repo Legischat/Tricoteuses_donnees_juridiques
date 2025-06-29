@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652481",
+      "ANCIEN_ID": "SBAXXXXXXXX5X07800AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/24/LEGIARTI000006652481.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "78",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1944-06-30",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 4 : Des obligations de l'armateur envers le marin",
+            "@debut": "1926-12-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101380"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 2 : De la nourriture et du couchage",
+              "@debut": "1926-12-15",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123912"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1944-06-30",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006652481",
+          "@num": "78",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sur les navires armés au long cours, au cabotage international et à la grande pêche, les objets de couchage sont fournis par l'armateur conformément aux dispositions réglementaires relatives à l'hygiène à bord des navires. <br/>\n<br/>   Le ministre chargé de la marine peut autoriser sur certains navires armés à la grande pêche et sur certains navires de jauge brute de moins de 250 tonneaux armés au cabotage international le remplacement de la fourniture des objets de couchage par une indemnité forfaitaire. <br/>\n<br/>   Les objets de couchage fournis en nature sont placés sous la responsabilité des marins qui seraient tenus au versement des dommages et intérêts en cas de détérioration anormale ou de pertes résultant de leur faute. <br/>\n<br/>   Les mêmes dispositions sont applicables aux autres navires, à moins de conventions contraires.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307 du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des transports - art. L5542-19 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023079761",
+        "@naturetexte": "CODE",
+        "@num": "L5542-19",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

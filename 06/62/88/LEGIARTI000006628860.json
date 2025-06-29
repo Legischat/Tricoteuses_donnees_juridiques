@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006628860",
+      "ANCIEN_ID": "RIHAFXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/88/LEGIARTI000006628860.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1956-05-19",
+        "DATE_FIN": "1986-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°56-493 du 14 mai 1956 RELATIF AUX DOTATIONS EN CAPITAL ATTRIBUEES A EDF ET GDF",
+          "@c_titre_court": "Décret n°56-493 du 14 mai 1956",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000876413"
+        },
+        {
+          "#text": "Décret n°56-493 du 14 mai 1956 relatif aux dotations en capital attribuées à Electricité de France et Gaz de France",
+          "@c_titre_court": "Décret n°56-493 du 14 mai 1956",
+          "@debut": "1956-05-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060770"
+        }
+      ],
+      "@cid": "JORFTEXT000000876413",
+      "@date_publi": "1956-05-19",
+      "@date_signature": "1956-05-14",
+      "@nature": "DECRET",
+      "@num": "56-493"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-05-19",
+          "@etat": "MODIFIE",
+          "@fin": "1986-12-31",
+          "@id": "LEGIARTI000006628860",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006628861",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dotations prévues à l'article 1er ci-dessus donneront lieu à l'attribution, au profit de l'Etat, d'un intérêt et d'un dividende. Ce dividende sera, par dérogation à l'article 32 de la loi susvisée du 8 avril 1946, prélevé par priorité sur les bénéfices nets de chaque exercice.<br/>\n<br/>    Lorsque le prélèvement de ce dividende n'aura pas pu être opéré, il ne pourra faire l'objet d'un report sur les soldes créditeurs ou bénéfices nets des exercices ultérieurs.<br/>\n<br/>   Le taux de l'intérêt et le montant du dividende seront fixés par arrêté conjoint du ministre des affaires économiques et financières, du secrétaire d'Etat au budget, du secrétaire d'Etat aux affaires économiques et du secrétaire d'Etat à l'industrie et au commerce : le taux global de l'intérêt et du dividende ne pourra excéder au total 6 p. 100.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°46-628 du 8 avril 1946 - art. 32 (Ab)",
+        "@cidtexte": "JORFTEXT000000868448",
+        "@datesignatexte": "1946-04-08",
+        "@id": "LEGIARTI000006628085",
+        "@naturetexte": "LOI",
+        "@num": "32",
+        "@numtexte": "46-628",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°56-493 du 14 mai 1956 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000876413",
+        "@datesignatexte": "1956-05-14",
+        "@id": "LEGIARTI000006628859",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "56-493",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°56-493 du 14 mai 1956 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000876413",
+        "@datesignatexte": "1956-05-14",
+        "@id": "LEGIARTI000006628863",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "56-493",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

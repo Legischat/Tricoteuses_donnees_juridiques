@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006681536",
+      "ANCIEN_ID": "SMAXXXXXXXX5X0239AAAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/15/LEGIARTI000006681536.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "239",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1956-01-28",
+        "DATE_FIN": "1959-01-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la famille et de l'aide sociale",
+          "@c_titre_court": "Code de la famille et de l'aide sociale.",
+          "@debut": "1956-01-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072637"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VI : Le service social",
+            "@debut": "1956-01-28",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006103096"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Liaison et coordination des services sociaux",
+              "@debut": "1956-01-28",
+              "@fin": "1991-09-10",
+              "@id": "LEGISCTA000006125130"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072637",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-01-28",
+          "@etat": "ABROGE",
+          "@fin": "1959-01-09",
+          "@id": "LEGIARTI000006681536",
+          "@num": "239",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-09-10",
+          "@etat": "ABROGE",
+          "@fin": "2000-12-23",
+          "@id": "LEGIARTI000006681537",
+          "@num": "239",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   (texte abrogé).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 56-149 1956-01-24 JORF 28 janvier 1956",
+        "@cidtexte": "JORFTEXT000000503662",
+        "@datesignatexte": "1956-01-24",
+        "@id": "JORFTEXT000000503662",
+        "@naturetexte": "DECRET",
+        "@numtexte": "56-149",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code de l'action sociale et des familles - art. L542-11 (T)",
+        "@cidtexte": "LEGITEXT000006074069",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006798222",
+        "@naturetexte": "CODE",
+        "@num": "L542-11",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'action sociale et des familles - art. L542-11 (T)",
+        "@cidtexte": "LEGITEXT000006074069",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006798222",
+        "@naturetexte": "CODE",
+        "@num": "L542-11",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 59-146 1959-01-07 art. 22 JORF 9 janvier 1959",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

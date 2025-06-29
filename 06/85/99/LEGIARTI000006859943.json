@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006859943",
+      "ANCIEN_ID": "AHIDIXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/99/LEGIARTI000006859943.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-01-01",
+        "DATE_FIN": "1995-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 novembre 1990 PORTANT DEROGATION A L'OBLIGATION D'ASSURANCE DES VEHICULES TERRESTRES A MOTEUR",
+          "@c_titre_court": "Arrêté du 30 novembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000479317"
+        },
+        {
+          "#text": "Arrêté du 30 novembre 1990 portant dérogation à l'obligation d'assurance des véhicules terrestres à moteur",
+          "@c_titre_court": "Arrêté du 30 novembre 1990",
+          "@debut": "1991-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006059466"
+        },
+        {
+          "#text": "Arrêté du 30 novembre 1990 portant dérogation à l'obligation d'assurance des véhicules terrestres à moteur",
+          "@c_titre_court": "Arrêté du 30 novembre 1990",
+          "@debut": "1991-01-01",
+          "@fin": "1995-07-01",
+          "@id_txt": "LEGITEXT000006059467"
+        }
+      ],
+      "@cid": "JORFTEXT000000479317",
+      "@date_publi": "1990-12-07",
+      "@date_signature": "1990-11-30",
+      "@nature": "ARRETE",
+      "@nor": "ECOA9000104A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1995-07-01",
+          "@id": "LEGIARTI000006859943",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006859942",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Cette dérogation est valable à l'égard de toute personne, même non autorisée, ayant la garde ou la conduite des véhicules de cet établissement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-04-26 art. 1 JORF 29 avril 1995 en vigueur le 1er juillet 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des assurances - art. L211-1 (M)",
+        "@cidtexte": "LEGITEXT000006073984",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006795331",
+        "@naturetexte": "CODE",
+        "@num": "L211-1",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code des assurances - art. L211-3 (Ab)",
+        "@cidtexte": "LEGITEXT000006073984",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006795361",
+        "@naturetexte": "CODE",
+        "@num": "L211-3",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

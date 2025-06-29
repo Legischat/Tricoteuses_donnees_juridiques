@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006578379",
+      "ANCIEN_ID": "PXXXXXXXXXX0797L000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/83/LEGIARTI000006578379.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "797",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1959-03-02",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de procédure pénale",
+          "@c_titre_court": "Code de procédure pénale",
+          "@debut": "1958-04-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071154"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1958-04-08",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098229"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Des procédures d'exécution",
+              "@debut": "1959-03-02",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121331"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IX : De la réhabilitation des condamnés",
+                "@debut": "1959-03-02",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006138156"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071154",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-03-02",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006578379",
+          "@num": "797",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006578380",
+          "@num": "797",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>En cas de rejet de la demande, une nouvelle demande ne peut être formée avant l'expiration d'un délai de deux années, à moins que le rejet de la première ait été motivé par l'insuffisance des délais d'épreuve. En ce cas, la demande peut être renouvelée dès l'expiration de ces délais.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 58-1273 1958-12-22 art. 18",
+        "@cidtexte": "JORFTEXT000000886583",
+        "@datesignatexte": "1958-12-22",
+        "@id": "JORFTEXT000000886583",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1273",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 58-1296 1958-12-23",
+        "@cidtexte": "JORFTEXT000000339261",
+        "@datesignatexte": "1958-12-23",
+        "@id": "JORFTEXT000000339261",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1296",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°58-1296 du 23 décembre 1958 - art. 10, v. init.",
+        "@cidtexte": "JORFTEXT000000339261",
+        "@datesignatexte": "1958-12-23",
+        "@id": "JORFARTI000001696911",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "10",
+        "@numtexte": "58-1296",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "CODE DE PROCEDURE PENALE - art. 798-1 (T)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006578386",
+        "@naturetexte": "CODE",
+        "@num": "798-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de procédure pénale - art. 799 (V)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006578385",
+        "@naturetexte": "CODE",
+        "@num": "799",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

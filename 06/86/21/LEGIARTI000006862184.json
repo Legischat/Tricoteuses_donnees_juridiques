@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862184",
+      "ANCIEN_ID": "UPIJKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/21/LEGIARTI000006862184.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-06-24",
+        "DATE_FIN": "1996-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 juin 1969 relatif à l'isolation acoustique dans les bâtiments d'habitation.",
+          "@c_titre_court": "Arrêté du 14 juin 1969",
+          "@debut": "1969-06-24",
+          "@fin": "1996-01-01",
+          "@id_txt": "LEGITEXT000006074546"
+        }
+      ],
+      "@cid": "LEGITEXT000006074546",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1969-06-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-06-24",
+          "@etat": "ABROGE",
+          "@fin": "1996-01-01",
+          "@id": "LEGIARTI000006862184",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le niveau de pression acoustique ne doit pas dépasser [*limite*] :<br/>\n<br/>   35 dB (A) dans les pièces principales ;<br/>\n<br/>   38 dB (A) dans les cuisines, salles d'eau et cabinets d'aisances, lorsque le niveau de pression acoustique du bruit régnant à l'intérieur des autres locaux du bâtiment, pris séparément, ne dépasse pas, par bande d'octave, 80 décibels, si ce local est un logement, 85 décibels, si ce local est à usage commercial, artisanal ou industriel, 70 décibels, s'il s'agit d'une circulation intérieure au bâtiment mais commune. Ces bruits sont supposés avoir un spectre continu couvrant les octaves centrés sur 125, 250, 500, 1000, 2000 et 4000 hertz.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1975-12-22 ART. 1 JORF 7 JANVIER 1976",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1994-10-28 art. 12 JORF 25 novembre 1994 en vigueur le 1er janvier 1996",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 69-596 1969-06-14 ART. 4 (Code de la construction et de l'habitation R111-4)",
+        "@cidtexte": "JORFTEXT000000697837",
+        "@datesignatexte": "1969-06-14",
+        "@id": "JORFTEXT000000697837",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-596",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

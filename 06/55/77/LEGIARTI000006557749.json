@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006557749",
+      "ANCIEN_ID": "PSIBEXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/77/LEGIARTI000006557749.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-01-01",
+        "DATE_FIN": "2005-10-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 11 avril 1997 portant création du traitement automatisé    d'informations nominatives relatif à la gestion et à l'attribution des    logements réservés aux personnels du ministère de la défense",
+          "@c_titre_court": "Arrêté du 11 avril 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000199457"
+        },
+        {
+          "#text": "Arrêté du 11 avril 1997 portant création du traitement automatisé d'informations nominatives relatif à la gestion et à l'attribution des logements réservés aux personnels du ministère de la défense",
+          "@c_titre_court": "Arrêté du 11 avril 1997",
+          "@debut": "1997-05-06",
+          "@fin": "2005-10-11",
+          "@id_txt": "LEGITEXT000005623419"
+        }
+      ],
+      "@cid": "JORFTEXT000000199457",
+      "@date_publi": "1997-05-06",
+      "@date_signature": "1997-04-11",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "ARRETE",
+      "@nor": "DEFD9701422A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-05-06",
+          "@etat": "MODIFIE",
+          "@fin": "2005-01-01",
+          "@id": "LEGIARTI000006557748",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-10-11",
+          "@id": "LEGIARTI000006557749",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les catégories d'information enregistrées sont celles relatives :<br/>\n<br/>   - à l'identité (nom de famille, nom d'usage, prénom, date de naissance, adresse, numéro de téléphone privé [facultatif]);<br/>\n<br/>   - à la situation familiale (situation matrimoniale, enfants [sexe, année de naissance], enfants en droit de visite [sexe, année de naissance], situation prénatale, ascendant[s] à charge) ;<br/>\n<br/>   - à la situation militaire (grade, armée) ;<br/>\n<br/>   - au logement (caractéristiques, indices de qualité, plan, adresse, société propriétaire [adresse], société gestionnaire [adresse], convention [caractéristiques, dates de début et de fin], montant de la participation, inventaire, avenants, garanties) ;<br/>\n<br/>   - à la vie professionnelle (affectation actuelle, numéro de téléphone, numéro de télécopieur, affectation future, motivation et souhaits de logement) ;<br/>\n<br/>   - à la situation économique et financière (ressources globales).<br/>\n<br/>   La durée de conservation des informations nominatives ainsi enregistrées est limitée à cinq ans après la fin de la location.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2005-09-23 art. 1 JORF 11 octobre 2005",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°2004-1159 du 29 octobre 2004 - art. 19 (V) JORF 31 octobre 2004 en vigueur le 1er janvier 2005",
+        "@cidtexte": "JORFTEXT000000237596",
+        "@datesignatexte": "2004-10-29",
+        "@id": "LEGIARTI000006286409",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC0420812D",
+        "@num": "19",
+        "@numtexte": "2004-1159",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

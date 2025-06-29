@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006900733",
+      "ANCIEN_ID": "AKEADXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/07/LEGIARTI000006900733.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1930-06-20",
+        "DATE_FIN": "1984-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 19 juin 1930 portant interdiction de l'exercice de la profession de banquier aux individus frappés de certaines condamnations et aux faillis non réhabilités",
+          "@c_titre_court": "Loi du 19 juin 1930",
+          "@debut": "1930-06-20",
+          "@fin": "1984-07-25",
+          "@id_txt": "LEGITEXT000006075119"
+        }
+      ],
+      "@cid": "LEGITEXT000006075119",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1930-06-19",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1930-06-20",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006900733",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le greffier du tribunal de commerce auquel est faite, en vertu du décret n° 67-237 du 23 mars 1967, une déclaration tendant à l'immatriculation dans le registre du commerce d'une personne ou d'une société se proposant de faire des opérations de banque, doit, dans le délai de huit jours, transmettre au procureur de la République une copie sur papier libre de cette déclaration [*communication - contrôle du respect de l'interdiction*].<br/>\n<br/>   Toute déclaration comportant modification de l'immatriculation sera transmise dans les mêmes conditions.<br/>\n<br/>   Le procureur de la République requerra immédiatement le casier judiciaire ou toutes pièces équivalentes des personnes françaises ou étrangères visées aux articles 1er et 2 de la présente loi.<br/>\n<br/>   L'émolument du greffier pour la copie des déclarations transmises au procureur de la République sera fixé par décret rendu sur la proposition du ministre de la justice et du ministre chargé du commerce.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-237 1967-03-23",
+        "@cidtexte": "JORFTEXT000000510672",
+        "@datesignatexte": "1967-03-23",
+        "@id": "JORFTEXT000000510672",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-237",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1930-06-09 art. 1, art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

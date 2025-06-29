@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006671886",
+      "ANCIEN_ID": "SFHBVXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/18/LEGIARTI000006671886.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-10-13",
+        "DATE_FIN": "2006-05-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-1342 du 10 octobre 1955 CENTRES PUBLICS D'ORIENTATION PROFESSIONNELLE",
+          "@c_titre_court": "Décret n°55-1342 du 10 octobre 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000675793"
+        },
+        {
+          "#text": "Décret n°55-1342 du 10 octobre 1955 relatif aux centres publics d'orientation professionnelle.",
+          "@c_titre_court": "Décret n°55-1342 du 10 octobre 1955",
+          "@debut": "1955-10-13",
+          "@fin": "2006-05-24",
+          "@id_txt": "LEGITEXT000006060721"
+        }
+      ],
+      "@cid": "JORFTEXT000000675793",
+      "@date_publi": "1955-10-13",
+      "@date_signature": "1955-10-10",
+      "@nature": "DECRET",
+      "@num": "55-1342"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-10-13",
+          "@etat": "ABROGE",
+          "@fin": "2006-05-24",
+          "@id": "LEGIARTI000006671886",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Un arrêté conjoint du ministre chargé de l'enseignement technique, du ministre des finances et des affaires économiques et du ministre chargé du budget déterminera la liste des centres obligatoires d'orientation professionnelle transformés, par application de la loi n° 51-630 du 24 mai 1951, en centres publics d'orientation professionnelle.<br/>\n    Les centres obligatoires et les sections de centre obligatoire qui ne figureront pas dans cet arrêté seront automatiquement supprimés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 51-630 1951-05-24",
+        "@cidtexte": "JORFTEXT000000699519",
+        "@datesignatexte": "1951-05-24",
+        "@id": "JORFTEXT000000699519",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-630",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°55-1342 du 10 octobre 1955 - art. 8 (Ab)",
+        "@cidtexte": "JORFTEXT000000675793",
+        "@datesignatexte": "1955-10-10",
+        "@id": "LEGIARTI000006671892",
+        "@naturetexte": "DECRET",
+        "@num": "8",
+        "@numtexte": "55-1342",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2006-583 du 23 mai 2006 - art. 7 (V) JORF 24 mai 2006",
+        "@cidtexte": "JORFTEXT000000607176",
+        "@datesignatexte": "2006-05-23",
+        "@id": "LEGIARTI000006251613",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENJ0601284D",
+        "@num": "7",
+        "@numtexte": "2006-583",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

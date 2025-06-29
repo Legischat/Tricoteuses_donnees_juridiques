@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006757250",
+      "ANCIEN_ID": "SSEACXXXXXX005AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/72/LEGIARTI000006757250.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1950-08-17",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°50-975 du 16 août 1950 PROFESSIONS AGRICOLES ET FORESTIERES",
+          "@c_titre_court": "Loi n°50-975 du 16 août 1950",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886550"
+        },
+        {
+          "#text": "Loi n° 50-975 du 16 août 1950 ADAPTANT LA LEGISLATION DES ASSURANCES SOCIALES AGRICOLES A LA SITUATION DES CADRES DES PROFESSIONS AGRICOLES ET FORESTIERES.",
+          "@c_titre_court": "Loi n° 50-975 du 16 août 1950",
+          "@debut": "1950-08-17",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068081"
+        }
+      ],
+      "@cid": "JORFTEXT000000886550",
+      "@date_publi": "1950-08-17",
+      "@date_signature": "1950-08-16",
+      "@nature": "LOI",
+      "@num": "50-975"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-08-17",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006757250",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>   Le salarié qui veut bénéficier des dispositions des articles 3 et 4 ci-dessus devra adresser sa demande à la caisse mutuelle d'assurances sociales agricoles dont relève l'employeur qui l'occupait en dernier lieu, avant la première constatation médicale de la maladie ou de la grossesse.</p>\n<br/>\n<p>   Cette demande devra être présentée dans les trois mois suivant la promulgation de la présent loi et être appuyée d'un certificat d'emploi dûment motivé.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°50-975 du 16 août 1950",
+        "@cidtexte": "JORFTEXT000000886550",
+        "@datesignatexte": "1950-08-16",
+        "@id": "JORFTEXT000000886550",
+        "@naturetexte": "LOI",
+        "@numtexte": "50-975",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006223907",
+      "ANCIEN_ID": "PGID8XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/22/39/LEGIARTI000006223907.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-01-01",
+        "DATE_FIN": "2021-09-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 septembre 2003 fixant les conditions de recrutement direct dans le grade de contrôleur des armées",
+          "@c_titre_court": "Arrêté du 9 septembre 2003",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000430251"
+        },
+        {
+          "#text": "Arrêté du 9 septembre 2003 fixant les conditions de recrutement direct dans le grade de contrôleur des armées.",
+          "@c_titre_court": "Arrêté du 9 septembre 2003",
+          "@debut": "2005-01-01",
+          "@fin": "2021-09-08",
+          "@id_txt": "LEGITEXT000005661567"
+        }
+      ],
+      "@cid": "JORFTEXT000000430251",
+      "@date_publi": "2003-09-24",
+      "@date_signature": "2003-09-09",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "ARRETE",
+      "@nor": "DEFC0302062A",
+      "@num_parution_jo": "0221"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2021-09-08",
+          "@id": "LEGIARTI000006223907",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002050755",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent arrêté a pour objet de fixer les conditions de recrutement direct dans le grade de contrôleur des armées prévu à l'article 8 du décret du 16 mai 1974 susvisé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°74-477 du 16 mai 1974 - art. 8",
+        "@cidtexte": "JORFTEXT000000886258",
+        "@datesignatexte": "1974-05-16",
+        "@id": "LEGIARTI000006503664",
+        "@naturetexte": "DECRET",
+        "@num": "8",
+        "@numtexte": "74-477",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 31 août 2021 - art. 8",
+        "@cidtexte": "JORFTEXT000044025507",
+        "@datesignatexte": "2021-08-31",
+        "@id": "LEGIARTI000044026433",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ARMH2126786A",
+        "@num": "8",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

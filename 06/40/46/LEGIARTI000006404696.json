@@ -1,0 +1,76 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006404696",
+      "ANCIEN_ID": "PAEARXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/46/LEGIARTI000006404696.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "unique",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1856-07-17",
+        "DATE_FIN": "2003-12-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 17 juillet 1856 qui dispense de l'affirmation les procès-verbaux dressés par les brigadiers de gendarmerie et les gendarmes.",
+          "@c_titre_court": "Loi du 17 juillet 1856",
+          "@debut": "1856-07-17",
+          "@fin": "2003-12-20",
+          "@id_txt": "LEGITEXT000006070689"
+        }
+      ],
+      "@cid": "LEGITEXT000006070689",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1856-07-17",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1856-07-17",
+          "@etat": "ABROGE",
+          "@fin": "2003-12-20",
+          "@id": "LEGIARTI000006404696",
+          "@num": "unique",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A l'avenir, les procès-verbaux dressés par les brigadiers de gendarmerie et les gendarmes ne seront, dans aucun cas, soumis à la formalité de l'affirmation.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1856-07-17 Bulletin des lois 11e S., B. 414, n° 3839",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°2003-1216 du 18 décembre 2003 - art. 18 () JORF 20 décembre 2003",
+        "@cidtexte": "JORFTEXT000000796479",
+        "@datesignatexte": "2003-12-18",
+        "@id": "LEGIARTI000006276385",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0300197R",
+        "@num": "18",
+        "@numtexte": "2003-1216",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

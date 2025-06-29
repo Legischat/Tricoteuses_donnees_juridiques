@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006246850",
+      "ANCIEN_ID": "RAIPBXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/24/68/LEGIARTI000006246850.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-01-29",
+        "DATE_FIN": "2009-07-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 novembre 2005  relatif à l'identification du cheptel porcin",
+          "@c_titre_court": "Arrêté du 24 novembre 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000243330"
+        },
+        {
+          "#text": "Arrêté du 24 novembre 2005 relatif à l'identification du cheptel porcin",
+          "@c_titre_court": "Arrêté du 24 novembre 2005",
+          "@debut": "2006-01-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006052758"
+        }
+      ],
+      "@cid": "JORFTEXT000000243330",
+      "@date_publi": "2005-11-29",
+      "@date_signature": "2005-11-24",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "ARRETE",
+      "@nor": "AGRG0502608A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-01-29",
+          "@etat": "ABROGE",
+          "@fin": "2009-07-26",
+          "@id": "LEGIARTI000006246850",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001657042",
+          "@num": "15",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>A compter de la date d'application de l'article 8 du présent arrêté, sont abrogés :<br/>\n<br/>-l'arrêté du 18 juillet 1969 relatif à l'identification des animaux de l'espèce porcine ;<br/>\n<br/>-l'arrêté du 22 novembre 1979 relatif aux transactions sur les reproducteurs porcins ;<br/>\n<br/>-l'arrêté du 28 novembre 1980 relatif à l'identification des veaux et des porcins destinés à la boucherie ;<br/>\n<br/>-et les articles 8,9,10 et 11 de l'arrêté du 6 juillet 1990 relatif à l'organisation de la lutte contre la maladie d'Aujeszky sur l'ensemble du territoire national.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 18 juillet 1969",
+        "@cidtexte": "JORFTEXT000000443179",
+        "@datesignatexte": "1969-07-18",
+        "@id": "JORFTEXT000000443179",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 22 novembre 1979",
+        "@cidtexte": "JORFTEXT000000463998",
+        "@datesignatexte": "1979-11-22",
+        "@id": "JORFTEXT000000463998",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 6 juillet 1990",
+        "@cidtexte": "JORFTEXT000000707712",
+        "@datesignatexte": "1990-07-06",
+        "@id": "JORFTEXT000000707712",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG9000879A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 17 juillet 2009 - art. 8",
+        "@cidtexte": "JORFTEXT000020900185",
+        "@datesignatexte": "2009-07-17",
+        "@id": "LEGIARTI000020901396",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0916784A",
+        "@num": "8",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

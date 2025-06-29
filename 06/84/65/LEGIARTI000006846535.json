@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006846535",
+      "ANCIEN_ID": "UPEACXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/65/LEGIARTI000006846535.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-07-15",
+        "DATE_FIN": "1992-07-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°75-633 du 15 juillet 1975 RELATIVE A L'ELIMINATION DES DECHETS ET A LA RECUPERATION DES MATERIAUX",
+          "@c_titre_court": "Loi n°75-633 du 15 juillet 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000888298"
+        },
+        {
+          "#text": "Loi n° 75-633 du 15 juillet 1975 relative à l'élimination des déchets et à la récupération des matériaux",
+          "@c_titre_court": "Loi n° 75-633 du 15 juillet 1975",
+          "@debut": "1975-07-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068529"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions concernant la récupération",
+            "@debut": "1975-07-15",
+            "@fin": "1992-07-14",
+            "@id": "LEGISCTA000006108753"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000888298",
+      "@date_publi": "1975-07-16",
+      "@date_signature": "1975-07-15",
+      "@nature": "LOI",
+      "@num": "75-633"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-07-15",
+          "@etat": "ABROGE",
+          "@fin": "1992-07-14",
+          "@id": "LEGIARTI000006846535",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'élimination des déchets doit être assurée, aux stades correspondant à toutes les opérations mentionnées à l'article 2, alinéa 2, dans des conditions propres à faciliter la récupération des matériaux, éléments ou formes d'énergie réutilisables [*collecte, transport, stockage, tri et traitement*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 75-633 1975-07-15 ART. 2 AL. 2",
+        "@cidtexte": "JORFTEXT000000888298",
+        "@datesignatexte": "1975-07-15",
+        "@id": "JORFTEXT000000888298",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-633",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 75-633 1975-07-15 ART. 24 sanctions",
+        "@cidtexte": "JORFTEXT000000888298",
+        "@datesignatexte": "1975-07-15",
+        "@id": "JORFTEXT000000888298",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-633",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°75-633 du 15 juillet 1975 - art. 24 (M)",
+        "@cidtexte": "JORFTEXT000000888298",
+        "@datesignatexte": "1975-07-15",
+        "@id": "LEGIARTI000006846567",
+        "@naturetexte": "LOI",
+        "@num": "24",
+        "@numtexte": "75-633",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°92-646 du 13 juillet 1992 - art. 1 () JORF 14 juillet 1992",
+        "@cidtexte": "JORFTEXT000000345400",
+        "@datesignatexte": "1992-07-13",
+        "@id": "LEGIARTI000006848217",
+        "@naturetexte": "LOI",
+        "@nortexte": "ENVX9200049L",
+        "@num": "1",
+        "@numtexte": "92-646",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

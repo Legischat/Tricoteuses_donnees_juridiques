@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006609649",
+      "ANCIEN_ID": "ADIERXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/96/LEGIARTI000006609649.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-10-16",
+        "DATE_FIN": "1987-08-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 septembre 1982 relatif aux marges de distribution des grossistes répartiteurs et des pharmaciens d'officine",
+          "@c_titre_court": "Arrêté du 27 septembre 1982",
+          "@debut": "1982-10-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071500"
+        }
+      ],
+      "@cid": "LEGITEXT000006071500",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-09-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-10-01",
+          "@etat": "MODIFIE",
+          "@fin": "1982-10-16",
+          "@id": "LEGIARTI000006609648",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-10-16",
+          "@etat": "ABROGE",
+          "@fin": "1987-08-06",
+          "@id": "LEGIARTI000006609649",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les remises, ristournes et avantages commerciaux de toute nature consentis par les fabricants et leurs dépositaires, les comptoirs de vente et les grossistes répartiteurs, sont progressifs en fonction de l'importance et de la consistance des livraisons.<br/>\n<br/>   Les fabricants et leurs dépositaires, les comptoirs de vente et les grossistes répartiteurs ne sont pas autorisés à pratiquer des remises ou des avantages de quelque nature que ce soit s'ils n'ont pas été expressément prévus dans leurs conditions générales de vente.    Pour chaque client, le montant des remises, ristournes et avantages commerciaux accordés à l'occasion de la vente de spécialités pharmaceutiques inscrites sur la liste des médicaments remboursables ne peut excéder, par mois et par ligne de produit, 3 p. 100 du prix de ces spécialités.<br/>\n<br/>   Pour chaque client, le montant des remises, ristournes et avantages commerciaux sur les médicaments, tels que définis à l'article L. 60 du code de la santé publique, ne peut excéder, par mois et par ligne de produit, 3 p. 100 du prix de ces médicaments.    Le fait pour un pharmacien d'officine de régler son fournisseur dans un délai supérieur à trente jours fin de mois constitue un avantage à prendre en compte dans ce plafonnement, pour un montant équivalent aux intérêts courus pendant la période excédentaire calculés par application du taux de base bancaire majoré de deux points.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-08-04 art. 5 JORF 6 août 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 93/A 1982-10-15 BOCC n° 24, 16 octobre 1982",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

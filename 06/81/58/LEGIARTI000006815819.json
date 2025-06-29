@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006815819",
+      "ANCIEN_ID": "UBAXXXXXXXX1X480L11AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/81/58/LEGIARTI000006815819.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L480-11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-13",
+        "DATE_FIN": "1977-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de l'urbanisme",
+          "@c_titre_court": "Code de l'urbanisme",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074075"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1973-03-27",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107992"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Règles relatives à l'acte de construire et à divers modes d'utilisation du sol",
+              "@debut": "1973-11-13",
+              "@fin": "1987-07-23",
+              "@id": "LEGISCTA000006128565"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Infractions.",
+                "@debut": "1973-11-13",
+                "@fin": "1985-07-19",
+                "@id": "LEGISCTA000006143313"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074075",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-13",
+          "@etat": "ABROGE",
+          "@fin": "1977-01-01",
+          "@id": "LEGIARTI000006815819",
+          "@num": "L480-11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>        Est punie des peines prévues à l'article L. 480-4 toute personne qui, pour l'application des dispositions du b de l'article L. 430-3 aura, sciemment, établi un certificat inexact.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de l'urbanisme - art. L430-3 (M)",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006815742",
+        "@naturetexte": "CODE",
+        "@num": "L430-3",
+        "@sens": "cible",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code de l'urbanisme - art. L480-4 (M)",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006815917",
+        "@naturetexte": "CODE",
+        "@num": "L480-4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'urbanisme 104-6",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074075",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'urbanisme L430-3 B",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074075",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 73-1022 1973-11-08 JORF 13 NOVEMBRE 1973",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

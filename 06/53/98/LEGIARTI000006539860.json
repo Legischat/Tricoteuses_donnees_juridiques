@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006539860",
+      "ANCIEN_ID": "ADHBUXXXXXX042AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/98/LEGIARTI000006539860.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "42",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-07-07",
+        "DATE_FIN": "1984-05-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-237 du 23 mars 1967 RELATIF AU REGISTRE DU COMMERCE",
+          "@c_titre_court": "Décret n°67-237 du 23 mars 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000510672"
+        },
+        {
+          "#text": "Décret n°67-237 du 23 mars 1967 relatif au registre du commerce et des sociétés",
+          "@c_titre_court": "Décret n°67-237 du 23 mars 1967",
+          "@debut": "1967-04-01",
+          "@fin": "1984-05-31",
+          "@id_txt": "LEGITEXT000006061427"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Fonctionnement du registre du commerce",
+            "@debut": "1967-04-01",
+            "@fin": "1984-05-31",
+            "@id": "LEGISCTA000006096397"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre III : Effets de l'immatriculation.",
+              "@debut": "1967-04-01",
+              "@fin": "1984-05-31",
+              "@id": "LEGISCTA000006120657"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000510672",
+      "@date_publi": "1967-03-24",
+      "@date_signature": "1967-03-23",
+      "@nature": "DECRET",
+      "@num": "67-237"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1978-07-07",
+          "@id": "LEGIARTI000006539859",
+          "@num": "42",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1978-07-07",
+          "@etat": "ABROGE",
+          "@fin": "1984-05-31",
+          "@id": "LEGIARTI000006539860",
+          "@num": "42",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les personnes physiques assujetties à immatriculation au registre du commerce et des sociétés qui n'ont pas requis cette dernière à l'expiration d'un délai de quinze jours à compter du commencement de leur activité ne peuvent se prévaloir, jusqu'à immatriculation, de la qualité de commerçant, tant à l'égard des tiers que des administrations publiques. Toutefois, elles ne peuvent invoquer leur défaut d'inscription au registre pour se soustraire aux responsabilités et aux obligations inhérentes à cette qualité.<br/>\n<br/>   Sans préjudice de l'application de l'article 8 de la loi du 20 mars 1956 relative à la location-gérance des fonds de commerce et des établissements artisanaux, le commerçant inscrit qui cède son fonds ou qui en concède l'exploitation en location-gérance, ne peut opposer la cessation de son activité commerciale, pour se soustraire aux actions en responsabilité dont il est l'objet du fait des obligations contractées par son successeur dans l'exploitation du fonds, qu'à partir du jour où a été opérée soit la radiation ou la mention correspondante, soit la mention de mise en location-gérance.<br/>\n<br/>   La mention de l'accord exprès donné par le mari à l'exercice d'un commerce par la femme produit les effets prévus à l'article 1420 du code civil.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°56-277 du 20 mars 1956 - art. 8 (Ab)",
+        "@cidtexte": "JORFTEXT000000309811",
+        "@datesignatexte": "1956-03-20",
+        "@id": "LEGIARTI000006504165",
+        "@naturetexte": "LOI",
+        "@num": "8",
+        "@numtexte": "56-277",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°84-406 du 30 mai 1984 - art. 82 (Ab) JORF 31 mai 1984",
+        "@cidtexte": "JORFTEXT000000882403",
+        "@datesignatexte": "1984-05-30",
+        "@id": "LEGIARTI000006542610",
+        "@naturetexte": "DECRET",
+        "@num": "82",
+        "@numtexte": "84-406",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code civil - art. 1420 (Ab)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006439392",
+        "@naturetexte": "CODE",
+        "@num": "1420",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

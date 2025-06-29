@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769312",
+      "ANCIEN_ID": "SSHAU1XXXXX027AXXXXXXXBA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/93/LEGIARTI000006769312.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 25 bis",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-08-21",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "25° bis Affections cutanées cancéreuses provoquées par les suies de combustion des produits pétroliers",
+                "@debut": "1993-08-21",
+                "@fin": "2005-04-22",
+                "@id": "LEGISCTA000006142286"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-08-21",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769312",
+          "@num": "Tableau 25 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "DÉSIGNATION DE LA MALADIE<br/>\n Epithéliomas primitifs de la peau.<br/>\n DÉLAI de prise en charge<br/>\n 30 ans<br/>\n (sous réserve d'une durée d'exposition minimale de 10 ans).<br/>\n LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer cette maladie<br/>\n Travaux de ramonage et de nettoyage de chaudières et de cheminées exposant aux suies de combustion de produits pétroliers.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°93-1010 du 19 août 1993 - art. 1 () JORF 21 août 1993",
+        "@cidtexte": "JORFTEXT000000530120",
+        "@datesignatexte": "1993-08-19",
+        "@id": "LEGIARTI000006933386",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS9301188D",
+        "@num": "1",
+        "@numtexte": "93-1010",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

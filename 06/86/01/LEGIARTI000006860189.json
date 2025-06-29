@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860189",
+      "ANCIEN_ID": "UPICNXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/01/LEGIARTI000006860189.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1999-03-07",
+        "DATE_FIN": "2009-12-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 avril 1981 fixant la liste des oiseaux protégés sur l'ensemble du territoire",
+          "@c_titre_court": "Arrêté du 17 avril 1981",
+          "@debut": "1981-05-19",
+          "@fin": "2009-12-06",
+          "@id_txt": "LEGITEXT000006074392"
+        }
+      ],
+      "@cid": "LEGITEXT000006074392",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1981-04-17",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-05-19",
+          "@etat": "TRANSFERE",
+          "@fin": "1999-03-07",
+          "@id": "LEGIARTI000006860188",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-03-07",
+          "@etat": "ABROGE",
+          "@fin": "2009-12-06",
+          "@id": "LEGIARTI000006860189",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont interdits sur tout le territoire métropolitain et en tout temps, qu'ils soient vivants ou morts, la détention pour la vente, le transport pour la vente, le colportage, la mise en vente, la vente ou l'achat des oiseaux et des oeufs, prélevés dans la nature, d'espèces non domestiques vivant naturellement à l'état sauvage sur le territoire européen des Etats membres de la Communauté européenne.<br/>\n<br/>   Toutefois, cette interdiction ne porte pas sur les oiseaux des espèces suivantes :<br/>\n<br/>   Canard colvert (Anas platyrhynchos) ;<br/>\n<br/>   Corbeau freux (Corvus frugilegus) ;<br/>\n<br/>   Corneille noire (Corvus corone) ;<br/>\n<br/>   Etourneau sansonnet (Sturnus vulgaris) ;<br/>\n<br/>   Faisans de chasse (Phasianus colchicus et Syrmaticus reevesii) ;<br/>\n<br/>   Geai des chênes (Garrulus glandarius) ;<br/>\n<br/>   Lagopède des saules (Lagopus lagopus scoticus et hibernicus) ;<br/>\n<br/>   Perdrix gambra (Alectoris barbara) ;<br/>\n<br/>   Perdrix grise (Perdrix perdrix) ;<br/>\n<br/>   Perdrix rouge (Alectoris rufa) ;<br/>\n<br/>   Pie bavarde (Pica pica) ;<br/>\n<br/>   Pigeon ramier (Colomba palumbus).<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1999-03-05 art. 5 II JORF 7 mars 1999",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 29 octobre 2009 - art. 11",
+        "@cidtexte": "JORFTEXT000021384277",
+        "@datesignatexte": "2009-10-29",
+        "@id": "LEGIARTI000021386736",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVN0914202A",
+        "@num": "11",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

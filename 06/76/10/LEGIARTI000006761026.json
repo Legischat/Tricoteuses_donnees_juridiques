@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006761026",
+      "ANCIEN_ID": "AFIKXXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/10/LEGIARTI000006761026.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-02-01",
+        "DATE_FIN": "1992-05-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 janvier 1986 modifiant l'arrêté du 3 octobre 1975 pris pour l'application de l'article 6 du décret n° 75-903 du 3 octobre 1975, relatif à la prévention et à la répression des infractions en matière de chèques",
+          "@c_titre_court": "Arrêté du 30 janvier 1986",
+          "@debut": "1986-02-01",
+          "@fin": "1992-05-31",
+          "@id_txt": "LEGITEXT000006073367"
+        }
+      ],
+      "@cid": "LEGITEXT000006073367",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-01-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-02-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-05-31",
+          "@id": "LEGIARTI000006761026",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent arrêté sera publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1975-10-03",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté 1992-05-29 art. 6 JORF 31 mai 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°75-903 du 3 octobre 1975 - art. 6 (M)",
+        "@cidtexte": "JORFTEXT000000683424",
+        "@datesignatexte": "1975-10-03",
+        "@id": "LEGIARTI000006729108",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "75-903",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

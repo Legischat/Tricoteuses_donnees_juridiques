@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006404949",
+      "ANCIEN_ID": "ABHAAXXXXXX109AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/49/LEGIARTI000006404949.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "109",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-04-11",
+        "DATE_FIN": "1986-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-1120 du 22 décembre 1967 SUR LE REGLEMENT JUDICIAIRE,LA LIQUIDATION DES BIENS ET LA FAILLITE PERSONNELLE",
+          "@c_titre_court": "Décret n°67-1120 du 22 décembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000499360"
+        },
+        {
+          "#text": "Décret n°67-1120 du 22 décembre 1967 sur le règlement judiciaire, la liquidation des biens et la faillite personnelle",
+          "@c_titre_court": "Décret n°67-1120 du 22 décembre 1967",
+          "@debut": "1968-01-01",
+          "@fin": "1986-01-01",
+          "@id_txt": "LEGITEXT000006061403"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Voies de recours.",
+            "@debut": "1968-01-01",
+            "@fin": "1986-01-01",
+            "@id": "LEGISCTA000006088711"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000499360",
+      "@date_publi": "1967-12-24",
+      "@date_signature": "1967-12-22",
+      "@nature": "DECRET",
+      "@num": "67-1120"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1982-04-11",
+          "@id": "LEGIARTI000006404948",
+          "@num": "109",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-04-11",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006404949",
+          "@num": "109",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les cas visés aux articles 105 à 112 de la loi du 13 juillet 1967 [*faillite personnelle - interdiction de diriger, gérer, administrer ou contrôler*], le greffier avise, dans les trois jours, le procureur de la République de la décision rendue [*communication - délai*].<br/>\n<br/>   Le procureur de la République peut, dans le délai de quinze jours à compter du jour de la remise de cet avis, interjeter appel de la décision rendue. Le syndic est entendu ou dûment appelé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 82-327 1982-04-09 art. 20 JORF 11 avril 1982",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 67-563 1967-07-13 art. 105 à 112",
+        "@cidtexte": "JORFTEXT000000878028",
+        "@datesignatexte": "1967-07-13",
+        "@id": "JORFTEXT000000878028",
+        "@naturetexte": "LOI",
+        "@numtexte": "67-563",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°85-1388 du 27 décembre 1985 - art. 196 (Ab) JORF 29 décembre 1985 en vigueur le 1er janvier 1986",
+        "@cidtexte": "JORFTEXT000000688577",
+        "@datesignatexte": "1985-12-27",
+        "@id": "LEGIARTI000006409258",
+        "@naturetexte": "DECRET",
+        "@num": "196",
+        "@numtexte": "85-1388",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

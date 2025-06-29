@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006756854",
+      "ANCIEN_ID": "SSEACDXXXXX005AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/68/LEGIARTI000006756854.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-07-12",
+        "DATE_FIN": "2012-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 73-5 du 2 janvier 1973 relative au paiement direct de la pension alimentaire",
+          "@c_titre_court": "Loi n°73-5 du 2 janvier 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000322541"
+        },
+        {
+          "#text": "Loi n° 73-5 du 2 janvier 1973 relative au paiement direct de la pension alimentaire.",
+          "@c_titre_court": "Loi n° 73-5 du 2 janvier 1973",
+          "@debut": "1973-04-01",
+          "@fin": "2012-06-01",
+          "@id_txt": "LEGITEXT000006068466"
+        }
+      ],
+      "@cid": "JORFTEXT000000322541",
+      "@date_publi": "1973-01-03",
+      "@date_signature": "1973-01-02",
+      "@nature": "LOI",
+      "@num": "73-5"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-07-12",
+          "@etat": "ABROGE",
+          "@fin": "2012-06-01",
+          "@id": "LEGIARTI000006756854",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La procédure de paiement direct est applicable aux termes à échoir de la pension alimentaire.<br/>\n<br/>\n   Elle l'est aussi aux termes échus pour les six derniers mois avant la notification de la demande de paiement direct.<br/>\n    Le règlement de ces sommes est fait par fractions égales sur une période de douze mois.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°73-5 du 2 janvier 1973 - art. 11 (V)",
+        "@cidtexte": "JORFTEXT000000322541",
+        "@datesignatexte": "1973-01-02",
+        "@id": "LEGIARTI000006756861",
+        "@naturetexte": "LOI",
+        "@num": "11",
+        "@numtexte": "73-5",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi 75-618 1975-07-11",
+        "@cidtexte": "JORFTEXT000000522103",
+        "@datesignatexte": "1975-07-11",
+        "@id": "JORFTEXT000000522103",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-618",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi n°75-618 du 11 juillet 1975 - art. 19 () JORF 12 juillet 1975",
+        "@cidtexte": "JORFTEXT000000522103",
+        "@datesignatexte": "1975-07-11",
+        "@id": "LEGIARTI000006755992",
+        "@naturetexte": "LOI",
+        "@num": "19",
+        "@numtexte": "75-618",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2011-1895\n du 19 décembre 2011 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000025009816",
+        "@datesignatexte": "2011-12-19",
+        "@id": "LEGIARTI000025024671",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSC1105458R",
+        "@num": "4",
+        "@numtexte": "2011-1895",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des procédures civiles d'exécution - art. L213-4 (VD)",
+        "@cidtexte": "LEGITEXT000025024948",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000025025838",
+        "@naturetexte": "CODE",
+        "@num": "L213-4",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

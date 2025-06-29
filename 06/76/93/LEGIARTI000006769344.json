@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769344",
+      "ANCIEN_ID": "SSHAU1XXXXX049AXXXXXXXBA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/93/LEGIARTI000006769344.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 47 bis",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1998-06-19",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "47° bis Cancer broncho-pulmonaire provoqué par l'inhalation de poussières d'amiante",
+                "@debut": "1998-06-19",
+                "@fin": "2005-04-22",
+                "@id": "LEGISCTA000006142304"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1998-06-19",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769344",
+          "@num": "Tableau 47 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "DESIGNATION DES MALADIES :<br/>\n Cancer broncho-pulmonaire primitif<br/>\n DELAI de prise en charge : 35 ans (sous réserve d'une durée d'exposition de 10 ans)<br/>\n LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies :<br/>\n Travaux d'isolation utilisant des matériaux contenant de l'amiante.<br/>\n Travaux de retrait d'amiante.<br/>\n Travaux de pose et de dépose de matériaux isolants à base d'amiante.<br/>\n Travaux d'usinage, de découpe et de ponçage de matériaux contenant de l'amiante.<br/>\n Travaux d'entretien ou de maintenance effectués sur des équipements contenant des matériaux à base d'amiante. <br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°98-483 du 17 juin 1998 - art. 1 () JORF 19 juin 1998",
+        "@cidtexte": "JORFTEXT000000755210",
+        "@datesignatexte": "1998-06-17",
+        "@id": "LEGIARTI000006772504",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS9800526D",
+        "@num": "1",
+        "@numtexte": "98-483",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

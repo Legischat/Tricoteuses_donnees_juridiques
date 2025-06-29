@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006628698",
+      "ANCIEN_ID": "ADIRHXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/86/LEGIARTI000006628698.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1984-05-24",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 mai 1984 relatif aux prix des prestations vendues par les débits de boissons",
+          "@c_titre_court": "Arrêté du 23 mai 1984",
+          "@debut": "1984-05-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071813"
+        }
+      ],
+      "@cid": "LEGITEXT000006071813",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-05-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-05-24",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006628698",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les dispositions du présent arrêté s'appliquent à tous les débits de boissons (cafés, bars, discothèques, salons de thé notamment) fonctionnant dans le cadre de l'exercice des licences de vente de boissons prévues à l'article L. 22 du code des débits de boissons et des mesures de lutte contre l'alcoolisme.</p>\n<p>Ces dispositions ne sont applicables aux débits de boissons saisonniers d'hiver qu'à compter du début de la saison d'hiver 1984-1985.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 45/A 1984-05-23 BOCC n° 9, 24 mai 1984",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 45/A 1984-05-23 art. 7 *champ d'application - restrictions*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code des débits de boissons L22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862673",
+      "ANCIEN_ID": "UPILBXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/26/LEGIARTI000006862673.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-01-14",
+        "DATE_FIN": "1987-04-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 novembre 1981 CERTIFICATS DE LIMITATION DE NUISANCES DESTINES AUX AVIONS A REACTION SUBSONIQUE",
+          "@c_titre_court": "Arrêté du 26 novembre 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000837548"
+        },
+        {
+          "#text": "Arrêté du 26 novembre 1981 relatif aux certificats de limitation de nuisances destinés aux avions à réaction subsoniques.",
+          "@c_titre_court": "Arrêté du 26 novembre 1981",
+          "@debut": "1982-01-14",
+          "@fin": "1987-04-09",
+          "@id_txt": "LEGITEXT000006074574"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions abrogées",
+            "@debut": "1982-01-14",
+            "@fin": "1987-04-09",
+            "@id": "LEGISCTA000006110226"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000837548",
+      "@date_publi": "1982-01-14",
+      "@date_signature": "1981-11-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-14",
+          "@etat": "ABROGE",
+          "@fin": "1987-04-09",
+          "@id": "LEGIARTI000006862673",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 6 juin 1979 relatif aux certificats de limitation de nuisances destinés aux avions à réaction subsoniques est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-06-06",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 19 février 1987 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000873232",
+        "@datesignatexte": "1987-02-19",
+        "@id": "LEGIARTI000006887323",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TRSA8700085A",
+        "@num": "7",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'aviation civile - art. R133-2 (V)",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006844511",
+        "@naturetexte": "CODE",
+        "@num": "R133-2",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

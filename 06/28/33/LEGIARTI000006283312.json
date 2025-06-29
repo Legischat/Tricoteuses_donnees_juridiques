@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283312",
+      "ANCIEN_ID": "ARAXXXXXXXX5X00100AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/33/LEGIARTI000006283312.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "100",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1863-05-29",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de commerce (ancien)",
+          "@c_titre_court": "Code de commerce",
+          "@debut": "1807-09-20",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre I : Du commerce en général",
+            "@debut": "1807-09-20",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083845"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VI : Du gage et des commissionnaires",
+              "@debut": "1863-05-23",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006114099"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section III : Des commissionnaires pour les transports par terre et par eau.",
+                "@debut": "1863-05-29",
+                "@fin": "2000-09-21",
+                "@id": "LEGISCTA000006133393"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069441",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1863-05-29",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006283312",
+          "@num": "100",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La marchandise sortie d'un magasin du vendeur ou de l'expéditeur voyage, s'il n'y a convention contraire, aux risques et périls de celui à qui elle appartient, sauf son recours contre le commissionnaire et le voiturier chargés du transport.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de commerce. - art. L132-7 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006220235",
+        "@naturetexte": "CODE",
+        "@num": "L132-7",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 1863-05-23 promulguée le 29 mai 1863",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

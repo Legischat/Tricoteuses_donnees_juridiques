@@ -1,0 +1,156 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580004",
+      "ANCIEN_ID": "RAA0XXXXXXX0335AAXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/00/LEGIARTI000006580004.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "335",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-03-01",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre IX : Des pénalités.",
+              "@debut": "1955-04-19",
+              "@fin": "2000-06-22",
+              "@id": "LEGISCTA000006121365"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1991-07-12",
+          "@id": "LEGIARTI000006580002",
+          "@num": "335",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-07-12",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006580003",
+          "@num": "335",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006580004",
+          "@num": "335",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Seront punis d'une amende de 100 000 F et d'un emprisonnement de deux ans ou de l'une de ces deux peines seulement :<br/>\n<br/>   1° ceux qui auront acquis, détenu, cédé à titre gratuit ou onéreux ou utilisé du vaccin antiaphteux en dehors des conditions prévues à l'article 234 ;<br/>\n<br/>   2° ceux qui auront manipulé du virus aphteux en dehors des conditions prévues à l'article 235.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 234, 235",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1953-04-11 art. 9",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491860",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "322",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583733",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006601339",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRX0000054R",
+        "@num": "7",
+        "@numtexte": "2000-550",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 2003-591 2003-07-02 art. 31",
+        "@cidtexte": "JORFTEXT000000422094",
+        "@datesignatexte": "2003-07-02",
+        "@id": "JORFTEXT000000422094",
+        "@naturetexte": "LOI",
+        "@nortexte": "FPPX0300014L",
+        "@numtexte": "2003-591",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

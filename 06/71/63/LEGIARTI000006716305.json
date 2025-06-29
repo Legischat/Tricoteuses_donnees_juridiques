@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006716305",
+      "ANCIEN_ID": "SPIATXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/63/LEGIARTI000006716305.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-03",
+        "DATE_FIN": "1986-12-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 11 décembre 1985 fixant la liste des maladies contagieuses portant interdiction de certaines opérations funéraires prévues par le décret n° 76-435 du 18 mai 1976 modifiant le décret du 31 décembre 1941",
+          "@c_titre_court": "Arrêté du 11 décembre 1985",
+          "@debut": "1986-01-03",
+          "@fin": "1986-12-20",
+          "@id_txt": "LEGITEXT000006072774"
+        }
+      ],
+      "@cid": "LEGITEXT000006072774",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-12-11",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-03",
+          "@etat": "ABROGE",
+          "@fin": "1986-12-20",
+          "@id": "LEGIARTI000006716305",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les corps des personnes décédées des maladies contagieuses limitativement énumérées comme suit doivent faire l'objet des précautions particulières ci-après exposées :<br/>\n    1° Doivent être déposés en cercueil hermétique équipé d'un système épurateur de gaz agréé les corps des personnes décédées :<br/>\n    - de variole et autres orthopoxviroses ;<br/>\n    - de choléra ;<br/>\n    - de charbon ;<br/>\n    - de fièvres hémorragiques virales.<br/>\n    2° Doivent être déposés en cercueil simple, immédiatement après le décès, les corps des personnes décédées :<br/>\n    - de peste ;<br/>\n    - d'une hépatite virale, sauf hépatite A confirmée ;<br/>\n    - de rage ;<br/>\n    - du SIDA.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-11-17 art. 4 JORF 20 décembre 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 1941-12-31",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 76-435 1976-05-18",
+        "@cidtexte": "JORFTEXT000000855596",
+        "@datesignatexte": "1976-05-18",
+        "@id": "JORFTEXT000000855596",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-435",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

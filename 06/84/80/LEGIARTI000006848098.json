@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006848098",
+      "ANCIEN_ID": "UPEFCXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/80/LEGIARTI000006848098.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-01-04",
+        "DATE_FIN": "1995-02-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 92-3 du 3 janvier 1992 sur l'eau  (1)",
+          "@c_titre_court": "Loi n°92-3 du 3 janvier 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000173995"
+        },
+        {
+          "#text": "Loi n° 92-3 du 3 janvier 1992 sur l'eau",
+          "@c_titre_court": "Loi n° 92-3 du 3 janvier 1992",
+          "@debut": "1992-01-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006078514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : De la police et de la gestion des eaux.",
+            "@debut": "1992-01-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108858"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000173995",
+      "@date_publi": "1992-01-04",
+      "@date_signature": "1992-01-03",
+      "@nature": "LOI",
+      "@nor": "ENVX9100061L",
+      "@num": "92-3"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-04",
+          "@etat": "MODIFIE",
+          "@fin": "1995-02-03",
+          "@id": "LEGIARTI000006848098",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-02-03",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006848099",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les installations soumises à autorisation ou à déclaration au titre de l'article 10 de la présente loi permettant d'effectuer à des fins non domestiques des prélèvements en eau superficielle ou des déversements, ainsi que toute installation de pompage des eaux souterraines, doivent être pourvues des moyens de mesure ou d'évaluation appropriés. Leurs exploitants ou, s'il n'existe pas d'exploitants, leurs propriétaires sont tenus d'en assurer la pose et le fonctionnement, de conserver trois ans les données correspondantes et de tenir celles-ci à la disposition de l'autorité administrative ainsi que des personnes morales de droit public dont la liste est fixée par décret.<br/>\n<br/>   Les installations existantes doivent être mises en conformité avec les dispositions du présent article dans un délai de cinq ans à compter de la date de publication de la présente loi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 92-3 1992-01-03 art. 10",
+        "@cidtexte": "JORFTEXT000000173995",
+        "@datesignatexte": "1992-01-03",
+        "@id": "JORFTEXT000000173995",
+        "@naturetexte": "LOI",
+        "@nortexte": "ENVX9100061L",
+        "@numtexte": "92-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 92-3 1992-01-03 art. 45",
+        "@cidtexte": "JORFTEXT000000173995",
+        "@datesignatexte": "1992-01-03",
+        "@id": "JORFTEXT000000173995",
+        "@naturetexte": "LOI",
+        "@nortexte": "ENVX9100061L",
+        "@numtexte": "92-3",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006435006",
+      "ANCIEN_ID": "PEEAIXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/50/LEGIARTI000006435006.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-01-13",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°51-46 du 11 janvier 1951 DITE DEIXONNE RELATIVE A L'ENSEIGNEMENT DES LANGUES ET DIALECTES LOCAUX",
+          "@c_titre_court": "Loi n°51-46 du 11 janvier 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886638"
+        },
+        {
+          "#text": "Loi n°51-46 du 11 janvier 1951 relative à l'enseignement des langues et dialectes locaux *Loi Dexonne*.",
+          "@c_titre_court": "Loi n°51-46 du 11 janvier 1951",
+          "@debut": "1951-01-13",
+          "@fin": "2000-06-22",
+          "@id_txt": "LEGITEXT000006068094"
+        }
+      ],
+      "@cid": "JORFTEXT000000886638",
+      "@date_publi": "1951-01-13",
+      "@date_signature": "1951-01-11",
+      "@nature": "LOI",
+      "@num": "51-46"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-13",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006435006",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les lycées et collèges, l'enseignement facultatif de toutes les langues et dialectes locaux, ainsi que du folklore, de la littérature et des arts populaires locaux, pourra prendre place dans le cadre des activités dirigées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 92-1162 1991-10-20 art. 1er",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-549 2000-06-15 art. 7 JORF 22 juin 2000",
+        "@cidtexte": "JORFTEXT000000204317",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000204317",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "MENX0000033P",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

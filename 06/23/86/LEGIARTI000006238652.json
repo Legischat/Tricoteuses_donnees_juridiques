@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006238652",
+      "ANCIEN_ID": "URIEHXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/23/86/LEGIARTI000006238652.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-02-12",
+        "DATE_FIN": "2019-09-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 février 2005 relatif à la délimitation du périmètre d'intervention de l'établissement public territorial de bassin",
+          "@c_titre_court": "Arrêté du 7 février 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000605088"
+        },
+        {
+          "#text": "Arrêté du 7 février 2005 relatif à la délimitation du périmètre d'intervention de l'établissement public territorial de bassin.",
+          "@c_titre_court": "Arrêté du 7 février 2005",
+          "@debut": "2005-02-12",
+          "@fin": "2019-09-05",
+          "@id_txt": "LEGITEXT000006051265"
+        }
+      ],
+      "@cid": "JORFTEXT000000605088",
+      "@date_publi": "2005-02-12",
+      "@date_signature": "2005-02-07",
+      "@ministere": "MINISTERE DE L'ECOLOGIE ET DU DEVELOPPEMENT DURABLE",
+      "@nature": "ARRETE",
+      "@nor": "DEVO0430401A",
+      "@num_parution_jo": "0036"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-02-12",
+          "@etat": "ABROGE",
+          "@fin": "2019-09-05",
+          "@id": "LEGIARTI000006238652",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002244895",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La demande de délimitation du périmètre d'intervention d'un établissement public territorial de bassin mentionnée à l'article 4 du décret du 7 février 2005 susvisé est accompagnée de tout justificatif permettant au préfet coordonnateur de bassin de s'assurer de la cohérence hydrographique du périmètre d'intervention proposé.<br/>\n<br/>   Le périmètre d'intervention correspond à l'ensemble d'un bassin ou sous-bassin hydrographique donné, indépendamment du périmètre déterminé par les limites territoriales des collectivités constituant le groupement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2005-115 du 7 février 2005 - art. 4",
+        "@cidtexte": "JORFTEXT000000605087",
+        "@datesignatexte": "2005-02-07",
+        "@id": "JORFARTI000001146597",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVO0420065D",
+        "@num": "4",
+        "@numtexte": "2005-115",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2019-926 du 2 septembre 2019 - art. 2",
+        "@cidtexte": "JORFTEXT000039025568",
+        "@datesignatexte": "2019-09-02",
+        "@id": "LEGIARTI000039026884",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TREL1803896D",
+        "@num": "2",
+        "@numtexte": "2019-926",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

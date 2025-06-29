@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721946",
+      "ANCIEN_ID": "SPIZ4XXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/19/LEGIARTI000006721946.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-08-01",
+        "DATE_FIN": "2011-06-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 septembre 1990 relatif à l'échelonnement indiciaire des    personnels administratifs de la fonction publique hospitalière",
+          "@c_titre_court": "Arrêté du 21 septembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000533073"
+        },
+        {
+          "#text": "Arrêté du 21 septembre 1990 relatif à l'échelonnement indiciaire des personnels administratifs de la fonction publique hospitalière",
+          "@c_titre_court": "Arrêté du 21 septembre 1990",
+          "@debut": "1990-01-01",
+          "@fin": "2011-06-16",
+          "@id_txt": "LEGITEXT000006076532"
+        }
+      ],
+      "@cid": "JORFTEXT000000533073",
+      "@date_publi": "1990-09-23",
+      "@date_signature": "1990-09-21",
+      "@ministere": "MINISTERE DE LA SOLIDARITE DE LA SANTE ET DE LA PROTECTION SOCIALE",
+      "@nature": "ARRETE",
+      "@nor": "SPSH9001848A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1990-08-01",
+          "@id": "LEGIARTI000006721945",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-08-01",
+          "@etat": "ABROGE",
+          "@fin": "2011-06-16",
+          "@id": "LEGIARTI000006721946",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'échelle indiciaire applicable aux grades suivants :<br/>\n<br/>   - adjoint administratif hospitalier principal ;<br/>\n<br/>   - permanencier auxiliaire de régulation médicale chef ;<br/>\n<br/>   - chef de standard téléphonique principal,<br/>\n est fixée conformément au tableau III annexé au présent arrêté.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-09-21 annexe III",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1991-05-14 art. 1 JORF 15 mai 1991 en vigueur le 1er août 1990",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 14 juin 2011 - art. 3",
+        "@cidtexte": "JORFTEXT000024169595",
+        "@datesignatexte": "2011-06-14",
+        "@id": "LEGIARTI000024181046",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ETSH1113981A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006627605",
+      "ANCIEN_ID": "RIEAAXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/76/LEGIARTI000006627605.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1871-06-24",
+        "DATE_FIN": "2004-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 19 juin 1871 qui abroge le décret du 4 septembre 1870 sur le commerce et la fabrication des armes de guerre",
+          "@c_titre_court": "Loi du 19 juin 1871",
+          "@debut": "1871-06-24",
+          "@fin": "2004-12-21",
+          "@id_txt": "LEGITEXT000006071791"
+        }
+      ],
+      "@cid": "LEGITEXT000006071791",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1871-06-19",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1871-06-24",
+          "@etat": "ABROGE",
+          "@fin": "2004-12-21",
+          "@id": "LEGIARTI000006627605",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de l'article 463 du code pénal sont et demeurent applicables aux délits prévus par la présente loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°2004-1374 du 20 décembre 2004 - art. 5 (V) JORF 21 décembre 2004",
+        "@cidtexte": "JORFTEXT000000238564",
+        "@datesignatexte": "2004-12-20",
+        "@id": "LEGIARTI000006236766",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEFX0400190R",
+        "@num": "5",
+        "@numtexte": "2004-1374",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code pénal 463",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

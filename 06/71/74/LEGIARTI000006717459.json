@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006717459",
+      "ANCIEN_ID": "SPIFEXXXXXX022AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/74/LEGIARTI000006717459.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-02-05",
+        "DATE_FIN": "1993-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 25 janvier 1985 relatif à la composition, à l'organisation et au fonctionnement de la commission statutaire nationale compétente pour les praticiens hospitaliers",
+          "@c_titre_court": "Arrêté du 25 janvier 1985",
+          "@debut": "1985-02-05",
+          "@fin": "2004-11-28",
+          "@id_txt": "LEGITEXT000006072855"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section IV : Fonctionnement de la commission statutaire nationale.",
+            "@debut": "1985-02-05",
+            "@fin": "2004-11-28",
+            "@id": "LEGISCTA000006104851"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072855",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-01-25",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-02-05",
+          "@etat": "ABROGE",
+          "@fin": "1993-09-01",
+          "@id": "LEGIARTI000006717459",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-09-01",
+          "@etat": "ABROGE",
+          "@fin": "2004-11-28",
+          "@id": "LEGIARTI000006717460",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le secrétariat de la commission statutaire nationale est assuré par la direction des hôpitaux.<br/>\n    Les membres de la commission statutaire nationale et le personnel qui en assure le secrétariat sont soumis au secret professionnel défini à l'article 378 du code pénal pour tous les faits et documents dont ils ont connaissance en leur qualité.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2004-09-24 art. 30 JORF 28 novembre 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 84-131 1984-02-24 art. 24",
+        "@cidtexte": "JORFTEXT000000868588",
+        "@datesignatexte": "1984-02-24",
+        "@id": "JORFTEXT000000868588",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-131",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code pénal 378",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

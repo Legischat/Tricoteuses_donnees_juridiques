@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006673485",
+      "ANCIEN_ID": "SHHARXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/34/LEGIARTI000006673485.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-11-01",
+        "DATE_FIN": "1993-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°81-171 du 20 février 1981 DEFINISSANT LES CONDITIONS D'HYGIENE ET DE SECURITE AUXQUELLES DOIVENT SATISFAIRE LES MACHINES A DEGAUCHIR POUR LE TRAVAIL SUR UNE FACE DU BOIS,DU LIEGE ET AUTRES MATIERES SIMILAIRES,AINSI QUE LES PROTECTEURS CONSTRUITS POUR CES MACHINES",
+          "@c_titre_court": "Décret n°81-171 du 20 février 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000310330"
+        },
+        {
+          "#text": "Décret n°81-171 du 20 février 1981  DEFINISSANT LES CONDITIONS D'HYGIENE ET DE SECURITE AUXQUELLES DOIVENT SATISFAIRE LES MACHINES A DEGAUCHIR POUR LE TRAVAIL SUR UNE FACE DU BOIS, DU LIEGE ET AUTRES MATIERES SIMILAIRES, AINSI QUE LES PROTECTEURS CONSTRUITS POUR CES MACHINES.",
+          "@c_titre_court": "Décret n°81-171 du 20 février 1981",
+          "@debut": "1981-11-01",
+          "@fin": "1993-01-01",
+          "@id_txt": "LEGITEXT000006063430"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "PRESCRIPTIONS COMMUNES",
+            "@debut": "1981-11-01",
+            "@fin": "1993-01-01",
+            "@id": "LEGISCTA000006102398"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000310330",
+      "@date_publi": "1981-02-24",
+      "@date_signature": "1981-02-20",
+      "@nature": "DECRET",
+      "@num": "81-171"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-11-01",
+          "@etat": "ABROGE",
+          "@fin": "1993-01-01",
+          "@id": "LEGIARTI000006673485",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<br/>   *Nota : Décret 92-767 du 29 juillet 1992 art. 5 II : les règles techniques et les procédures de certification de conformité restent applicables aux équipements de travail et moyens de protection qu'ils visent.<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Chacune des deux tables, placées de part et d'autre de l'arbre porte-outils, doit avoir une planéité et une longueur appropriées aux travaux couramment effectués sur la machine.<br/>\n<br/>   Les tables doivent être conçues et construites de façon à ne pas gêner le déplacement des pièces et de manière à assurer leur stabilité en cours de travail.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "ART. 23 : FIXE LA DATE D'APPLICATION",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 81-171 1981-02-20 ART. 1 : FIXE LE CHAMP D'APPLICATION",
+        "@cidtexte": "JORFTEXT000000310330",
+        "@datesignatexte": "1981-02-20",
+        "@id": "JORFTEXT000000310330",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-171",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°92-767 du 29 juillet 1992 - art. 5 () JORF 7 août 1992 en vigueur le 1er janvier 1993",
+        "@cidtexte": "JORFTEXT000000724234",
+        "@datesignatexte": "1992-07-29",
+        "@id": "LEGIARTI000006666053",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFT9205051D",
+        "@num": "5",
+        "@numtexte": "92-767",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté du 2 avril 1981 - art. 1 (V)",
+        "@cidtexte": "LEGITEXT000006072372",
+        "@datesignatexte": "1981-04-02",
+        "@id": "LEGIARTI000006676558",
+        "@naturetexte": "ARRETE",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

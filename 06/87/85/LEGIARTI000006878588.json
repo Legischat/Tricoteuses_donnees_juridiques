@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006878588",
+      "ANCIEN_ID": "UTEADXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/85/LEGIARTI000006878588.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1845-07-15",
+        "DATE_FIN": "2006-10-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 15 juillet 1845 sur la police des chemins de fer",
+          "@c_titre_court": "Loi du 15 juillet 1845",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000332151"
+        },
+        {
+          "#text": "Loi du 15 juillet 1845 sur la police des chemins de fer",
+          "@c_titre_court": "Loi du 15 juillet 1845",
+          "@debut": "1845-07-15",
+          "@fin": "2013-03-28",
+          "@id_txt": "LEGITEXT000006074965"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Mesures relatives à la conservation des chemins de fer.",
+            "@debut": "1845-07-15",
+            "@fin": "2013-03-28",
+            "@id": "LEGISCTA000006111576"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000332151",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1845-07-15",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1845-07-15",
+          "@etat": "ABROGE",
+          "@fin": "2006-10-20",
+          "@id": "LEGIARTI000006878588",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tout chemin de fer sera clos des deux côtés et sur toute l'étendue de la voie.<br/>\n<br/>   L'administration déterminera, pour chaque ligne, le mode de cette clôture, et, pour ceux des chemins qui n'y ont pas été assujettis, l'époque à laquelle elle devra être effectuée.<br/>\n<br/>   Partout où les chemins de fer croiseront de niveau les routes de terre, des barrières seront établies et tenues fermées, conformément aux règlements.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2006-1279 du 19 octobre 2006 - art. 58 (VT) JORF 20 octobre 2006",
+        "@cidtexte": "JORFTEXT000000788918",
+        "@datesignatexte": "2006-10-19",
+        "@id": "LEGIARTI000006885072",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUX0600135D",
+        "@num": "58",
+        "@numtexte": "2006-1279",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°2006-1279 du 19 octobre 2006 - art. 58 (VT)",
+        "@cidtexte": "JORFTEXT000000788918",
+        "@datesignatexte": "2006-10-19",
+        "@id": "LEGIARTI000006885072",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUX0600135D",
+        "@num": "58",
+        "@numtexte": "2006-1279",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1845-07-15 Bulletin des lois, 9e S, B 1221 n° 12095",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

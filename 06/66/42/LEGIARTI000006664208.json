@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006664208",
+      "ANCIEN_ID": "SEHIZXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/42/LEGIARTI000006664208.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1977-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-1292 du 30 décembre 1976 COMMISSION D'INFORMATION ET D'AIDE AU LOGEMENT DES SALARIES",
+          "@c_titre_court": "Décret n°76-1292 du 30 décembre 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000853585"
+        },
+        {
+          "#text": "Décret n°76-1292 du 30 décembre 1976 fixant les conditions d'application de la loi n° 76-463 du 31 mai 1976 tendant à faciliter l'accession des salariés à la propriété et à la location des locaux d'habitation destinés à leur usage personnel",
+          "@c_titre_court": "Décret n°76-1292 du 30 décembre 1976",
+          "@debut": "1977-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062442"
+        }
+      ],
+      "@cid": "JORFTEXT000000853585",
+      "@date_publi": "1977-01-01",
+      "@date_signature": "1976-12-30",
+      "@nature": "DECRET",
+      "@num": "76-1292"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006664208",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le nombre des membres de la commission d'information et d'aide au logement des salariés prévue à l'article 1er (alinéa 1er) de la loi du 31 mai 1976 ne peut dépasser pour chaque entreprise ou établissement : <br/>\n<br/>   De 300 à 500 salariés : 3 membres<br/>\n<br/>   De 501 à 1.000 salariés : 4 membres <br/>\n<br/>   1.001 à 2.000 salariés : 5 membres <br/>\n<br/>   De plus de 2.000 salariés : 6 membres.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1976-05-31 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 76-463 1976-05-31",
+        "@cidtexte": "JORFTEXT000000331463",
+        "@datesignatexte": "1976-05-31",
+        "@id": "JORFTEXT000000331463",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-463",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

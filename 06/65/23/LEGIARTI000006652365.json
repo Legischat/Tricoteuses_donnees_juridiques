@@ -1,0 +1,153 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652365",
+      "ANCIEN_ID": "SBAXXXXXXXX5X00300AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/23/LEGIARTI000006652365.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1958-12-30",
+        "DATE_FIN": "1996-02-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Dispositions générales",
+            "@debut": "1926-12-15",
+            "@fin": "2010-12-01",
+            "@id": "LEGISCTA000006101376"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-12-15",
+          "@etat": "MODIFIE",
+          "@fin": "1958-12-30",
+          "@id": "LEGIARTI000018442117",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1958-12-30",
+          "@etat": "MODIFIE",
+          "@fin": "1996-02-27",
+          "@id": "LEGIARTI000006652365",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-02-27",
+          "@etat": "MODIFIE",
+          "@fin": "2008-04-09",
+          "@id": "LEGIARTI000006652366",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2008-04-09",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000018608795",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Est considéré comme marin, pour l'application de la présente loi, quiconque s'engage, envers l'armateur ou son représentant, pour servir à bord d'un navire.</p>\n<p>Le personnel d'un navire doit, dans une proportion définie par arrêté du ministre chargé de la marine marchande, être Français.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°58-1358 du 27 décembre 1958, art 1 v. init.",
+        "@cidtexte": "JORFTEXT000000516474",
+        "@datesignatexte": "1958-12-27",
+        "@id": "JORFTEXT000000516474",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1358",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2008-1143\n du 6 novembre 2008 - art. 1 (VT)",
+        "@cidtexte": "JORFTEXT000019732445",
+        "@datesignatexte": "2008-11-06",
+        "@id": "LEGIARTI000019733401",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVT0816302D",
+        "@num": "1",
+        "@numtexte": "2008-1143",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R742-38 (Ab)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018519013",
+        "@naturetexte": "CODE",
+        "@num": "R742-38",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail maritime - art. 115 (M)",
+        "@cidtexte": "LEGITEXT000006072051",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006652607",
+        "@naturetexte": "CODE",
+        "@num": "115",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

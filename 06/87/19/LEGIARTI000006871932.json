@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006871932",
+      "ANCIEN_ID": "UQIEQXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/19/LEGIARTI000006871932.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-03-01",
+        "DATE_FIN": "1999-02-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 novembre 1989 relatif aux conditions de ramassage des huiles usagées",
+          "@c_titre_court": "Arrêté du 21 novembre 1989",
+          "@debut": "1989-12-05",
+          "@fin": "1999-02-24",
+          "@id_txt": "LEGITEXT000006074914"
+        }
+      ],
+      "@cid": "LEGITEXT000006074914",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1989-11-21",
+      "@nature": "ARRETE",
+      "@nor": "PRME8961528A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-03-01",
+          "@etat": "ABROGE",
+          "@fin": "1999-02-24",
+          "@id": "LEGIARTI000006871932",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de non-respect de l'une quelconque des obligations mises à la charge du ramasseur agréé, le retrait de l'agrément est prononcé par le préfet au vu d'un rapport du service chargé de l'inspection des installations classées ; ce retrait entraîne la perte de la consignation définie à l'article 7 ci-dessus.<br/>\n<br/>\n<br/>   Le préfet avise l'intéressé de la proposition de retrait en précisant les motifs. Celui-ci dispose d'un mois pour présenter ses observations qui sont transmises à la commission départementale qui émet un avis. Au vu de cet avis, le cas échéant, l'agrément est retiré par arrêté motivé du préfet ; cet arrêté est notifié à l'intéressé et publié au recueil des actes de la préfecture. En cas d'urgence, le délai prévu par le présent alinéa peut être réduit.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1989-11-21 art. 23",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1989-11-21 art. 7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1999-01-28 art. 8 JORF 24 février 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 79-981 1979-11-21",
+        "@cidtexte": "JORFTEXT000000878324",
+        "@datesignatexte": "1979-11-21",
+        "@id": "JORFTEXT000000878324",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-981",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

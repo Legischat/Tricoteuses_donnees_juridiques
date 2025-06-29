@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006700279",
+      "ANCIEN_ID": "AFEBDXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/02/LEGIARTI000006700279.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1942-08-29",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 18 août 1942 RELATIF AU REMBOURSEMENT DES DETTES SOCIALES ET AUX OPERATIONS DE LIQUIDATION DES BANQUES POPULAIRES",
+          "@c_titre_court": "Loi du 18 août 1942",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000515603"
+        },
+        {
+          "#text": "Loi n° 42-785 du 18 août 1942 relative aux banques populaires",
+          "@c_titre_court": "Loi n° 42-785 du 18 août 1942",
+          "@debut": "1942-08-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072685"
+        }
+      ],
+      "@cid": "JORFTEXT000000515603",
+      "@date_publi": "1942-08-29",
+      "@date_signature": "1942-08-18",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1942-08-29",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006700279",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque après remboursement des dettes sociales, y compris les avances de toute nature consenties par l'Etat et la chambre syndicale, des frais de liquidation et de la fraction libérée des parts sociales, la dissolution ou la liquidation d'une banque populaire fait apparaître un excédent d'actif, le montant de cet excédent est versé au fonds collectif de garantie instituée par l'article 6 de la loi du 13 août 1936. Toutefois, la chambre syndicale peut avec l'agrément du ministre de l'économie et des finances, lui donner pour tout ou partie une autre affectation conforme aux intérêts du crédit populaire.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°42-785 du 18 août 1942 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000515603",
+        "@datesignatexte": "1942-08-18",
+        "@id": "LEGIARTI000006700281",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 33°",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Rapport - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000574489",
+        "@datesignatexte": "2000-12-14",
+        "@id": "LEGIARTI000006716763",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOX0000098R",
+        "@num": "4",
+        "@numtexte": "2000-1223",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L512-8 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006654881",
+        "@naturetexte": "CODE",
+        "@num": "L512-8",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L512-8 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006654881",
+        "@naturetexte": "CODE",
+        "@num": "L512-8",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 1936-08-13 art. 6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

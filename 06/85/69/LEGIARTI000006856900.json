@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006856900",
+      "ANCIEN_ID": "UPHPLXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/69/LEGIARTI000006856900.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-12-24",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-1370 du 20 décembre 1985 PRIS POUR L'APPLICATION DE L'ART. 404 DU CODE RURAL,FIXANT LES CONDITIONS DE L'APPLICATION DU TITRE II DU LIVRE III DU CODE RURAL AUX PLANS D'EAU NON VISES A L'ART. 402",
+          "@c_titre_court": "Décret n°85-1370 du 20 décembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000688341"
+        },
+        {
+          "#text": "Décret n°85-1370 du 20 décembre 1985 pris pour l'application de l'article 404 du code rural, fixant les conditions de l'application du titre II du livre III du code rural aux plans d'eau non visés à l'article 402",
+          "@c_titre_court": "Décret n°85-1370 du 20 décembre 1985",
+          "@debut": "1985-12-24",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006064812"
+        }
+      ],
+      "@cid": "JORFTEXT000000688341",
+      "@date_publi": "1985-12-24",
+      "@date_signature": "1985-12-20",
+      "@nature": "DECRET",
+      "@num": "85-1370"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-12-24",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006856900",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "La demande comprend notamment les indications suivantes [*mentions obligatoires*] :<br/>\n    - l'identité, l'adresse et les qualités du demandeur ;<br/>\n    - la dénomination et la situation du plan d'eau ;<br/>\n    - la situation cadastrale ;<br/>\n    - la copie du titre de propriété ou, le cas échéant, la copie de l'acte de détention du droit de pêche et l'accord écrit du propriétaire ;<br/>\n    - un plan de situation au 1/25000 du plan d'eau et de ses abords.<br/>\n    Le demandeur précise la durée de l'application des dispositions du titre II du livre III du code rural qu'il sollicite et qui ne peut être inférieure à cinq ans.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-1370 1985-12-20 JORF 24 décembre 1985) A(Décret 89-805 1989-10-27 art. 2 JORF 4 novembre 1989",
+        "@cidtexte": "JORFTEXT000000688341",
+        "@datesignatexte": "1985-12-20",
+        "@id": "JORFTEXT000000688341",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1370",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code rural - art. R*231-2 (Ab)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006589842",
+        "@naturetexte": "CODE",
+        "@num": "R*231-2",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural 402, 404, LIVRE III, TITRE II",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural 404",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code rural R231-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

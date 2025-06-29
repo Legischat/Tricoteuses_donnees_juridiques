@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006561801",
+      "ANCIEN_ID": "ADHIVXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/18/LEGIARTI000006561801.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-09-23",
+        "DATE_FIN": "1996-12-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°62-1463 du 26 novembre 1962 PRECISANT LES MODALITES D'APPLICATION DE LA LOI DU 30 décembre 1906 SUR LES VENTES AU DEBALLAGE",
+          "@c_titre_court": "Décret n°62-1463 du 26 novembre 1962",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000853062"
+        },
+        {
+          "#text": "Décret n°62-1463 du 26 novembre 1962 précisant les modalités d'application de la loi du 30 décembre 1906 sur les ventes au déballage complétant la loi du 25 juin 1841",
+          "@c_titre_court": "Décret n°62-1463 du 26 novembre 1962",
+          "@debut": "1962-12-06",
+          "@fin": "1996-12-17",
+          "@id_txt": "LEGITEXT000006061076"
+        }
+      ],
+      "@cid": "JORFTEXT000000853062",
+      "@date_publi": "1962-12-06",
+      "@date_signature": "1962-11-26",
+      "@nature": "DECRET",
+      "@num": "62-1463"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1962-12-06",
+          "@etat": "MODIFIE",
+          "@fin": "1989-09-23",
+          "@id": "LEGIARTI000006561800",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-09-23",
+          "@etat": "ABROGE",
+          "@fin": "1996-12-17",
+          "@id": "LEGIARTI000006561801",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont considérées comme soldes, au sens de la loi du 30 décembre 1906, les ventes présentant un caractère réellement ou apparemment occasionnel, accompagnées ou précédées de publicité et annoncées comme tendant à l'écoulement accéléré de tout ou partie d'un stock de marchandises.<br/>\n<br/>   Ne tombent pas sous le coup des dispositions de la loi :<br/>\n<br/>   a) Les soldes périodiques ou saisonniers de marchandises démodées, défraîchies, dépareillées ou fin de séries, vendues en fin de saison et ne constituant qu'une partie du stock, faits par les commerçants dans le local où ils exercent habituellement leur commerce, que ces ventes soient ou non précédées ou accompagnées de publicité ; les soldes périodiques ou saisonniers ne peuvent avoir lieu plus de deux fois par an. Chaque période ne peut excéder une durée de deux mois, la date de début étant conforme aux usages.<br/>\n<br/>   b) Les ventes effectuées, dans le local ou sur l'emplacement où ils exercent leur commerce, par les professionnels dont l'activité habituelle a pour objet, en vue de les revendre, d'acheter à des commerçants ou à des fabricants des marchandises neuves dépareillées, défraîchies, démodées ou de deuxième choix.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°62-1463 du 26 novembre 1962 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000853062",
+        "@datesignatexte": "1962-11-26",
+        "@id": "LEGIARTI000006561799",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "62-1463",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 89-690 1989-09-22 art. 1, art. 2 JORF 23 septembre 1989, BOCC n° 19, 30 septembre 1989",
+        "@cidtexte": "JORFTEXT000000335726",
+        "@datesignatexte": "1989-09-22",
+        "@id": "JORFTEXT000000335726",
+        "@naturetexte": "DECRET",
+        "@nortexte": "COMK8706001D",
+        "@numtexte": "89-690",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°96-1097 du 16 décembre 1996 - art. 16 (Ab) JORF 17 décembre 1996",
+        "@cidtexte": "JORFTEXT000000746506",
+        "@datesignatexte": "1996-12-16",
+        "@id": "LEGIARTI000006594989",
+        "@naturetexte": "DECRET",
+        "@nortexte": "COMK9604006D",
+        "@num": "16",
+        "@numtexte": "96-1097",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1841-06-25",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1906-12-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

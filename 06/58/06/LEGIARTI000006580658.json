@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580658",
+      "ANCIEN_ID": "RAA0XXXXXXX1003CAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/06/LEGIARTI000006580658.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1003-2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1959-12-27",
+        "DATE_FIN": "1994-02-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Mutualité sociale agricole",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121386"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-12-27",
+          "@etat": "MODIFIE",
+          "@fin": "1994-02-11",
+          "@id": "LEGIARTI000006580658",
+          "@num": "1003-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-02-11",
+          "@etat": "ABROGE",
+          "@fin": "2003-12-31",
+          "@id": "LEGIARTI000006580659",
+          "@num": "1003-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le budget annexe des prestations sociales agricoles est substitué aux droits et obligations du budget annexe des prestations familiales agricoles et des organismes visés aux chapitres II et IV du présent titre relatifs aux assurances sociales agricoles et à l'assurance vieillesse des personnes non salariées.<br/>\n<br/>   Les avances accordées par le Trésor au fonds national de solidarité agricole, au budget annexe des prestations familiales agricoles, à la caisse centrale de secours mutuels agricoles et à la caisse nationale d'assurance vieillesse agricole, ainsi que celles qui pourraient éventuellement être accordées au budget annexe des prestations sociales agricoles, sont inscrites à un compte hors budget dont les conditions de fonctionnement sont fixées par arrêté du ministre de l'agriculture et du ministre de l'économie et des finances.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L731-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 59-1454 1959-12-26 art. 58 JORF 27 décembre 1959",
+        "@cidtexte": "JORFTEXT000000874213",
+        "@datesignatexte": "1959-12-26",
+        "@id": "JORFTEXT000000874213",
+        "@naturetexte": "LOI",
+        "@numtexte": "59-1454",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code rural - art. L731-2 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006585410",
+        "@naturetexte": "CODE",
+        "@num": "L731-2",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

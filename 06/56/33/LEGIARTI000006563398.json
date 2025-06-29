@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006563398",
+      "ANCIEN_ID": "ADHJPXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/33/LEGIARTI000006563398.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-01-06",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-15 du 3 janvier 1978 DBO,GIM",
+          "@c_titre_court": "Décret n°78-15 du 3 janvier 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000329327"
+        },
+        {
+          "#text": "Décret n°78-15 du 3 janvier 1978 relatif au transfert d'un certain nombre de débits de boissons dans la zone d'aménagement concerté de rénovation urbaine du secteur des Halles de Paris",
+          "@c_titre_court": "Décret n°78-15 du 3 janvier 1978",
+          "@debut": "1978-01-06",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006062805"
+        }
+      ],
+      "@cid": "JORFTEXT000000329327",
+      "@date_publi": "1978-01-06",
+      "@date_signature": "1978-01-03",
+      "@nature": "DECRET",
+      "@num": "78-15"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-01-06",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006563398",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute infraction aux dispositions de l'article 2 du présent décret sera punie d'un emprisonnement de dix jours à un mois et d'une amende de 3.000 à 6.000 F [*sanctions*] ou de l'une de ces deux peines seulement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°78-15 du 3 janvier 1978 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000329327",
+        "@datesignatexte": "1978-01-03",
+        "@id": "LEGIARTI000006563390",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "78-15",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 6 22° JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

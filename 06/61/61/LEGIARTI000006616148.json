@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616148",
+      "ANCIEN_ID": "RDEAAXXXXXX002AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/61/LEGIARTI000006616148.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-03-31",
+        "DATE_FIN": "1993-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 30 mars 1928 relative au régime d'importation du pétrole",
+          "@c_titre_court": "Loi du 30 mars 1928",
+          "@debut": "1928-03-31",
+          "@fin": "1993-01-01",
+          "@id_txt": "LEGITEXT000006071585"
+        }
+      ],
+      "@cid": "LEGITEXT000006071585",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1928-03-30",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1928-03-31",
+          "@etat": "MODIFIE",
+          "@fin": "1980-05-14",
+          "@id": "LEGIARTI000006616146",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1980-05-14",
+          "@etat": "MODIFIE",
+          "@fin": "1987-03-31",
+          "@id": "LEGIARTI000006616147",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-03-31",
+          "@etat": "ABROGE",
+          "@fin": "1993-01-01",
+          "@id": "LEGIARTI000006616148",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'autorisation spéciale est donnée par décret :<br/>\n<br/>   La commission est saisie des demandes d'autorisation spéciale ; elle recueille toutes informations utiles de nature à éclairer les décisions. Elle émet un avis motivé aussi bien sur l'octroi des autorisations spéciales que sur leur refus. Aucun refus ne peut être opposé sans que l'intéressé ait été entendu par la commission.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 80-347 1980-05-13 art. 2 (composition de la commission)",
+        "@cidtexte": "JORFTEXT000000878292",
+        "@datesignatexte": "1980-05-13",
+        "@id": "JORFTEXT000000878292",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-347",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 87-215 1987-03-27 art. 1 JORF 31 mars 1987",
+        "@cidtexte": "JORFTEXT000000517428",
+        "@datesignatexte": "1987-03-27",
+        "@id": "JORFTEXT000000517428",
+        "@naturetexte": "DECRET",
+        "@numtexte": "87-215",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°92-1443 du 31 décembre 1992 - art. 20 (VT) JORF 1er janvier 1993",
+        "@cidtexte": "JORFTEXT000000542540",
+        "@datesignatexte": "1992-12-31",
+        "@id": "LEGIARTI000006924683",
+        "@naturetexte": "LOI",
+        "@nortexte": "INDX9200147L",
+        "@num": "20",
+        "@numtexte": "92-1443",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855531",
+      "ANCIEN_ID": "UPHKMXXXXXX032AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/55/LEGIARTI000006855531.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "32",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1924-03-29",
+        "DATE_FIN": "1996-06-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 18 mars 1924 portant règlement d'administration publique pour l'application de la loi du 31 décembre 1913 sur les monuments historiques",
+          "@c_titre_court": "Décret du 18 mars 1924",
+          "@debut": "1924-03-29",
+          "@fin": "2008-01-01",
+          "@id_txt": "LEGITEXT000006074303"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions diverses et dispositions transitoires",
+            "@debut": "1924-03-29",
+            "@fin": "2007-03-31",
+            "@id": "LEGISCTA000006109557"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074303",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1924-03-18",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1924-03-29",
+          "@etat": "ABROGE",
+          "@fin": "1996-06-19",
+          "@id": "LEGIARTI000006855531",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Jusqu'à la publication des règlements d'administration publique prévue par l'article 36 de la loi du 31 décembre 1913 en ce qui concerne l'application de ladite loi à l'Algérie et aux colonies, l'interdiction d'exportation établie par l'article 21 de cette loi s'applique à la sortie des objets classés hors du territoire métropolitain.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°96-541 du 14 juin 1996 - art. 15 (V) JORF 19 juin 1996",
+        "@cidtexte": "JORFTEXT000000559560",
+        "@datesignatexte": "1996-06-14",
+        "@id": "LEGIARTI000006865675",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCX9500188D",
+        "@num": "15",
+        "@numtexte": "96-541",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "LOI 1913-12-31 ART. 17, ART. 37",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "LOI 1913-12-31 ART. 36, ART. 21",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006828753",
+      "ANCIEN_ID": "UCICMXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/87/LEGIARTI000006828753.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe V",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1979-03-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 mars 1979 CARACTERISTIQUES TECHNIQUES ET PRIX DES IMMEUBLES BATIS, ACQUIS ET AMELIORES AVEC L'AIDE DE L'ETAT POUR Y AMENAGER DES LOGEMENTS EN ACCESSION A LA PROPRIETE (PRIX DE VENTE, PRIX DE REFERENCE)",
+          "@c_titre_court": "Arrêté du 13 mars 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000832626"
+        },
+        {
+          "#text": "Arrêté du 13 mars 1979 relatif aux caractéristiques techniques et aux prix des immeubles bâtis, acquis et améliorés avec l'aide de l'Etat, pour y aménager des logements en accession à la propriété.",
+          "@c_titre_court": "Arrêté du 13 mars 1979",
+          "@debut": "1979-03-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074156"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1979-03-31",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108294"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Coefficient de majoration C",
+              "@debut": "1979-03-31",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128846"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000832626",
+      "@date_publi": "1979-03-31",
+      "@date_signature": "1979-03-13",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-03-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006828753",
+          "@num": "Annexe V",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Coefficient de hauteur et de forme de l'immeuble. (On ne prendra pas en compte la surface des combles ni leur longueur de parties vues).<br/>\n    c = c1 + c2<br/>\n    1. c1 dépend de la hauteur moyenne hm, du bâtiment ou des bâtiments constituant l'opération.<br/>\n    Pour une opération ne comportant qu'un bâtiment, la hauteur moyenne est définie par le rapport de la surface hors oeuvre totale à la surface hors oeuvre du niveau ayant la surface hors oeuvre maximale (ces surfaces s'entendent hors combles) :<br/>\n    hm = S.H.O. totale / S.H.O. maximale<br/>\n    Pour une opération comprenant plusieurs bâtiments, la hauteur moyenne est définie par le rapport de la surface hors oeuvre totale de l'opération au total des surfaces hors oeuvres des niveaux de surface hors oeuvre maximale de chaque bâtiment (ces surfaces s'entendent hors combles) :<br/>\n    hm = S.H.O. totale / S.H.O. maximale<br/>\n    hm est arrondi au nombre inférieur ou supérieur selon que la partie décimale du quotient est inférieure (ou égale) ou supérieure à 0,5.<br/>\n    c1 est donné en fonction de hm par le tableau ci-dessous :<br/>\n    C1 (immeuble sans ascenseur)<br/>\n    hm = 1 : 0,075<br/>\n    hm = 2 : 0,050<br/>\n    hm = 3 : 0,025<br/>\n    hm = 4 : Néant<br/>\n    Supérieur ou égal à 5 : Néant<br/>\n<br/>\n    C1 (immeuble avec ascenseur)<br/>\n    hm = 1 : Sans objet<br/>\n    hm = 2 : 0,090<br/>\n    hm = 3 : 0,065<br/>\n    hm = 4 : 0,020    Supérieur ou égal à 5 : 0,010.<br/>\n<br/>\n    Pour les maisons individuelles isolées ou groupées c1 = 0.<br/>\n    2. c2 dépend du périmètre des parties vues.<br/>\n    On appelle parties vues d'un bâtiment, toutes les parties visibles, en contact avec l'extérieur, mitoyennes ou non.<br/>\n    c2 = 0,10 x (6L / S.H.O. totale - 1)<br/>\n    L est le linéaire des façades et pignons vus à chaque niveau, cumulé sur la totalité des niveaux. On ne prendra pas en compte la longueur des parties vues des combles.<br/>"
+  }
+}

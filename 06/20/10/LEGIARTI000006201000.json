@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006201000",
+      "ANCIEN_ID": "AKHFNXXXXXX031AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/10/LEGIARTI000006201000.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "31",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1971-08-24",
+        "DATE_FIN": "1972-09-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°71-689 du 11 août 1971 SOCIETES CIVILES PROFESSIONNELLES D'AGREES",
+          "@c_titre_court": "Décret n°71-689 du 11 août 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000305822"
+        },
+        {
+          "#text": "Décret n°71-689 du 11 août 1971 pris pour l'application à la profession d'agréé de la loi du 29 novembre 1966 relative aux sociétés civiles professionnelles",
+          "@c_titre_court": "Décret n°71-689 du 11 août 1971",
+          "@debut": "1971-08-24",
+          "@fin": "1972-09-16",
+          "@id_txt": "LEGITEXT000006061849"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "FONCTIONNEMENT DE LA SOCIETE",
+            "@debut": "1971-08-24",
+            "@fin": "1972-09-16",
+            "@id": "LEGISCTA000006082926"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CESSIONS ET TRANSMISSIONS DE PARTS SOCIALES",
+              "@debut": "1971-08-24",
+              "@fin": "1972-09-16",
+              "@id": "LEGISCTA000006113332"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "CESSIONS APRES DECES D'UN ASSOCIE.",
+                "@debut": "1971-08-24",
+                "@fin": "1972-09-16",
+                "@id": "LEGISCTA000006132804"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000305822",
+      "@date_publi": "1971-08-24",
+      "@date_signature": "1971-08-11",
+      "@nature": "DECRET",
+      "@num": "71-689"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-08-24",
+          "@etat": "ABROGE",
+          "@fin": "1972-09-16",
+          "@id": "LEGIARTI000006201000",
+          "@num": "31",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Lorsque, à l'expiration du délai prévu à l'article 28 le ou les ayants droit de l'associé décédé n'ont pas exercé la faculté de céder les parts sociales de leur auteur, et si aucun consentement préalable à l'attribution préférentielle n'a été donné par la société, celle-ci dispose d'une année pour acquérir ou faire acquérir les parts sociales de l'associé décédé [*achat par la société de ses propres parts - rachat*].<br/>\n<br/>       Si les parts sociales sont cédées à un tiers [*acquéreur*], les dispositions de l'article 21 et celles de l'article 22 (alinéas 2, 3 et 4) sont applicables.<br/>\n<br/>       Si elles sont requises par la société, les associés ou certains d'entre eux, il est procédé conformément aux dispositions des articles 22 (alinéa 5) et 23.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-879 1966-11-29 art. 1 à art. 32 et art. 37",
+        "@cidtexte": "JORFTEXT000000692471",
+        "@datesignatexte": "1966-11-29",
+        "@id": "JORFTEXT000000692471",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-879",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 71-689 1971-08-11 art. 21, art. 22, art. 23 et art. 28",
+        "@cidtexte": "JORFTEXT000000305822",
+        "@datesignatexte": "1971-08-11",
+        "@id": "JORFTEXT000000305822",
+        "@naturetexte": "DECRET",
+        "@numtexte": "71-689",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

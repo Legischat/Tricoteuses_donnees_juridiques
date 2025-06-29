@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006644700",
+      "ANCIEN_ID": "SAAXXXXXXXX3X352D08AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/47/LEGIARTI000006644700.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "D352-8",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "2005-05-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets simples",
+            "@debut": "1973-08-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101374"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre III : Placement et emploi",
+              "@debut": "1973-11-23",
+              "@fin": "2008-05-01",
+              "@id": "LEGISCTA000018517886"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre V : Travailleurs privés d'emploi",
+                "@debut": "1973-11-23",
+                "@fin": "2008-05-01",
+                "@id": "LEGISCTA000018517342"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : Régime des accords conclus entre employeurs et travailleurs et relatifs aux allocations d'assurance à des travailleurs privés d'emploi.",
+                  "@debut": "1973-11-23",
+                  "@fin": "2008-05-01",
+                  "@id": "LEGISCTA000018517304"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "MODIFIE",
+          "@fin": "2005-05-10",
+          "@id": "LEGIARTI000006644700",
+          "@num": "D352-8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-05-10",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018517278",
+          "@num": "D352-8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Un contrôleur d'Etat exerce son contrôle sur les organismes visés à l'article D. 352-1 dans les conditions et selon les modalités prévues par le décret n° 55-763 du 26 mai 1955.</p>\n<br/>\n<p>Un décret pris sur le rapport du ministre chargé des finances et des affaires économiques détermine le montant et les modalités des versements que doivent faire les organismes contrôlés pour assurer la couverture des frais nécessités par l'exercice du contrôle.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du travail - art. D352-1 (V)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006644689",
+        "@naturetexte": "CODE",
+        "@num": "D352-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. D352-4 (VT)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018517290",
+        "@naturetexte": "CODE",
+        "@num": "D352-4",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-763 1955-05-26",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 59-1287 1959-11-12 art. 8",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

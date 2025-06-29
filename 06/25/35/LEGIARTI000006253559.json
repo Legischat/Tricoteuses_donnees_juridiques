@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006253559",
+      "ANCIEN_ID": "PSI5XXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/25/35/LEGIARTI000006253559.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-07-30",
+        "DATE_FIN": "2010-05-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 juillet 2006 portant organisation de la direction des personnels et de l'adaptation de l'environnement professionnel",
+          "@c_titre_court": "Arrêté du 28 juillet 2006",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000458978"
+        },
+        {
+          "#text": "Arrêté du 28 juillet 2006 portant organisation de la direction des personnels et de l'adaptation de l'environnement professionnel.",
+          "@c_titre_court": "Arrêté du 28 juillet 2006",
+          "@debut": "2006-07-30",
+          "@fin": "2010-05-05",
+          "@id_txt": "LEGITEXT000006054132"
+        }
+      ],
+      "@cid": "JORFTEXT000000458978",
+      "@date_publi": "2006-07-30",
+      "@date_signature": "2006-07-28",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOP0600478A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-30",
+          "@etat": "ABROGE",
+          "@fin": "2010-05-05",
+          "@id": "LEGIARTI000006253559",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002282293",
+          "@num": "7",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 2 novembre 1998 portant organisation de la direction du personnel, de la modernisation et de l'administration et l'arrêté du 2 novembre 1998 portant organisation des sous-directions de la direction du personnel, de la modernisation et de l'administration sont abrogés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1998-11-02",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 30 avril 2010 - art. 20",
+        "@cidtexte": "JORFTEXT000022160337",
+        "@datesignatexte": "2010-04-30",
+        "@id": "LEGIARTI000022161111",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECEP1008618A",
+        "@num": "20",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006708335",
+      "ANCIEN_ID": "SPHLDXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/83/LEGIARTI000006708335.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1975-10-01",
+        "DATE_FIN": "1983-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°70-1186 du 17 décembre 1970 RELATIF AU RECRUTEMENT ET A L'AVANCEMENT DU PERSONNEL SECONDAIRE DES SERVICES MEDICAUX DES ETABLISSEMENTS D'HOSPITALISATION, DE SOINS OU DE CURE PUBLICS",
+          "@c_titre_court": "Décret n°70-1186 du 17 décembre 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000851544"
+        },
+        {
+          "#text": "Décret n°70-1186 du 17 décembre 1970 relatif au recrutement et à l'avancement du personnel secondaire des services médicaux des établissements d'hospitalisation, de soins ou de cure publics.",
+          "@c_titre_court": "Décret n°70-1186 du 17 décembre 1970",
+          "@debut": "1970-12-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061714"
+        }
+      ],
+      "@cid": "JORFTEXT000000851544",
+      "@date_publi": "1970-12-19",
+      "@date_signature": "1970-12-17",
+      "@nature": "DECRET",
+      "@num": "70-1186"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-12-19",
+          "@etat": "MODIFIE",
+          "@fin": "1975-10-01",
+          "@id": "LEGIARTI000006708334",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1975-10-01",
+          "@etat": "MODIFIE",
+          "@fin": "1983-01-01",
+          "@id": "LEGIARTI000006708335",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006708336",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le personnel secondaire des services médicaux des établissements visés au premier alinéa de l'article précédent comprend :<br/>\n    Les aides-soignants ;<br/>\n    Les élèves aides-soignants ;<br/>\n    Les agents des services hospitaliers de 1re catégorie ;<br/>\n    Les agents des services hospitaliers de 2e catégorie.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 17 décembre 1970 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000278513",
+        "@datesignatexte": "1970-12-17",
+        "@id": "LEGIARTI000006721090",
+        "@naturetexte": "ARRETE",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°70-1186 du 17 décembre 1970 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000851544",
+        "@datesignatexte": "1970-12-17",
+        "@id": "LEGIARTI000006708333",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "70-1186",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique, L893 2e alinéa",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

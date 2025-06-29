@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006673547",
+      "ANCIEN_ID": "SHHAUXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/35/LEGIARTI000006673547.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-03-06",
+        "DATE_FIN": "2020-06-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°81-208 du 3 mars 1981 PORTANT APPLICATION DES DISPOSITIONS DU TITRE II DU CHAP. I DU LIVRE II DU CODE DU TRAVAIL (HYGIENE ET SECURITE DES TRAVAILLEURS) DANS LES ENTREPRISES DE TRANSPORT PUBLIC PAR ROUTE",
+          "@c_titre_court": "Décret n°81-208 du 3 mars 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000862484"
+        },
+        {
+          "#text": "Décret n°81-208 du 3 mars 1981  PORTANT APPLICATION DES DISPOSITIONS DU TITRE III, CHAPITRE IER, DU LIVRE II DU CODE DU TRAVAIL DANS LES ENTREPRISES DE TRANSPORT PUBLIC PAR ROUTE.",
+          "@c_titre_court": "Décret n°81-208 du 3 mars 1981",
+          "@debut": "1981-03-06",
+          "@fin": "2020-06-28",
+          "@id_txt": "LEGITEXT000006063447"
+        }
+      ],
+      "@cid": "JORFTEXT000000862484",
+      "@date_publi": "1981-03-06",
+      "@date_signature": "1981-03-03",
+      "@nature": "DECRET",
+      "@num": "81-208"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-03-06",
+          "@etat": "ABROGE",
+          "@fin": "2020-06-28",
+          "@id": "LEGIARTI000006673547",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 60-74 du 15 janvier 1960 portant application de la loi n° 55-1032 du 4 août 1955 modifiant et complétant l'article 65 du livre II du code du travail en ce qui concerne les entreprises de transport public par route est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°60-74 du 15 janvier 1960",
+        "@cidtexte": "JORFTEXT000000522376",
+        "@datesignatexte": "1960-01-15",
+        "@id": "JORFTEXT000000522376",
+        "@naturetexte": "DECRET",
+        "@numtexte": "60-74",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2020-784 du 25 juin 2020 - art. 1",
+        "@cidtexte": "JORFTEXT000042044047",
+        "@datesignatexte": "2020-06-25",
+        "@id": "LEGIARTI000042046972",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TRET1932397D",
+        "@num": "1",
+        "@numtexte": "2020-784",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code du travail L231-1 A L231-9",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "LOI 55-1032 1955-08-04",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

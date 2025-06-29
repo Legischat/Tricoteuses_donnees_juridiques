@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006494201",
+      "ANCIEN_ID": "PJEFAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/42/LEGIARTI000006494201.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-02-13",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°51-144 du 11 février 1951 ABROGEANT TOUTES DISPOSITIONS QUI, EN MATIERE DE DROIT COMMUN SUPPRIMENT OU LIMITENT LE DROIT QUI APPARTIENT AUX JUGES D'ACCORDER LE SURSIS AUX PEINES QU'ILS PRONONCENT ET DE FAIRE BENEFICIER LE COUPABLE DE CIRCONSTANCES ATTENUANTES",
+          "@c_titre_court": "Loi n°51-144 du 11 février 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886660"
+        },
+        {
+          "#text": "Loi n° 51-144 du 11 février 1951 abrogeant les dispositions législatives qui en matière de droit commun suppriment ou limitent le droit qui appartient aux juges d'accorder le sursis aux peines qu'ils prononcent et de faire bénéficier le coupable de circonstances atténuantes.",
+          "@c_titre_court": "Loi n° 51-144 du 11 février 1951",
+          "@debut": "1951-02-13",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068086"
+        }
+      ],
+      "@cid": "JORFTEXT000000886660",
+      "@date_publi": "1951-02-13",
+      "@date_signature": "1951-02-11",
+      "@nature": "LOI",
+      "@num": "51-144"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-02-13",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006494201",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toutes les dispositions des lois, décrets ou ordonnances qui ont pour objet de restreindre ou de supprimer la faculté donnée aux juges par l'article 463 du code pénal de reconnaître l'existence en faveur du coupable de circonstances atténuantes ou de lui accorder le bénéfice du sursis prévu par la loi du 26 mars 1891, sont abrogées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1891-03-26",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 51-144 1951-02-11 JORF 13 février 1951 rectificatif JORF 7 avril 1951",
+        "@cidtexte": "JORFTEXT000000886660",
+        "@datesignatexte": "1951-02-11",
+        "@id": "JORFTEXT000000886660",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-144",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code pénal",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

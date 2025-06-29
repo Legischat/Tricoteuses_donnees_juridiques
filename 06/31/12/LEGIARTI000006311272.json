@@ -1,0 +1,137 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006311272",
+      "ANCIEN_ID": "FAAACGIXXXX0990AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/12/LEGIARTI000006311272.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "990",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1988-02-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "ASSIETTE ET LIQUIDATION DE L'IMPOT",
+            "@debut": "1959-01-09",
+            "@fin": "1982-12-30",
+            "@id": "LEGISCTA000006084250"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "IMPOTS D'ETAT",
+              "@debut": "1967-12-29",
+              "@fin": "1982-12-30",
+              "@id": "LEGISCTA000006114499"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "DROITS DE TIMBRE",
+                "@debut": "1979-07-01",
+                "@fin": "1982-12-30",
+                "@id": "LEGISCTA000006133876"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "IMPOT SUR LES OPERATIONS DE BOURSE.",
+                  "@debut": "1979-07-01",
+                  "@fin": "1988-12-31",
+                  "@id": "LEGISCTA000006147165"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-04-30",
+          "@etat": "MODIFIE",
+          "@fin": "1979-07-01",
+          "@id": "LEGIARTI000048571589",
+          "@num": "990",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1988-02-01",
+          "@id": "LEGIARTI000006311272",
+          "@num": "990",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>En addition du droit prévu par l'article 987 il est perçu une surtaxe de 0,060 0/00 sur les opérations concernant les céréales.</p>\n<br/>\n<p>Le produit de cette surtaxe contribue à fournir les ressources nécessaires à l'exécution des mesures de défense du marché du blé par application des dispositions de la loi du 10 juillet 1933.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 987",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "EDITION 1979-07-01",
+        "@sens": "source",
+        "@typelien": "HISTO"
+      },
+      {
+        "#text": "LOI 1933-07-10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°87-1158 du 31 décembre 1987 - art. 19 (V) JORF 5 janvier 1988, en vigueur le 1er février 1988",
+        "@cidtexte": "JORFTEXT000000512242",
+        "@datesignatexte": "1987-12-31",
+        "@id": "LEGIARTI000006275249",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700151L",
+        "@num": "19",
+        "@numtexte": "87-1158",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

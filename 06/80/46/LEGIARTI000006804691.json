@@ -1,0 +1,138 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006804691",
+      "ANCIEN_ID": "TXXXXXXXXXX0516R0450XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/46/LEGIARTI000006804691.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R516-45",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1974-10-01",
+        "DATE_FIN": "1979-12-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CONFLITS DU TRAVAIL",
+              "@debut": "1973-11-21",
+              "@fin": "1979-12-02",
+              "@id": "LEGISCTA000006128488"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES",
+                "@debut": "1973-11-21",
+                "@fin": "1979-12-02",
+                "@id": "LEGISCTA000006142982"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "PROCEDURE DEVANT LES CONSEILS DE PRUD'HOMMES",
+                  "@debut": "1973-11-23",
+                  "@fin": "1987-06-30",
+                  "@id": "LEGISCTA000006157933"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-10-01",
+          "@etat": "PERIME",
+          "@fin": "1979-12-02",
+          "@id": "LEGIARTI000006804691",
+          "@num": "R516-45",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-06-30",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018507269",
+          "@num": "R516-45",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les demandes relatives à des contestations nées à l'occasion du contrat de travail et dont les tribunaux d'instance sont saisis soit parce qu'il n'existe pas de conseil de prud'hommes dans le ressort, soit parce qu'il n'existe pas à ce conseil une section compétente pour la profession intéressée, sont formées, instruites et jugées tant devant le tribunal d'instance que devant la cour d'appel et la Cour de cassation , conformément aux règles établies par les dispositions du présent titre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail R511-1 A R51-11-1",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail R516-15 (1973)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006786543",
+      "ANCIEN_ID": "SSIBAHXXXXX008AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/65/LEGIARTI000006786543.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-10-01",
+        "DATE_FIN": "2018-10-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 juillet 1989 FIXANT LES CONDITIONS D'APPLICATION DU REGIME DE SECURITE SOCIALE DES ETUDIANTS",
+          "@c_titre_court": "Arrêté du 28 juillet 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000479778"
+        },
+        {
+          "#text": "Arrêté du 28 juillet 1989 fixant les conditions d'application du régime de sécurité sociale des étudiants",
+          "@c_titre_court": "Arrêté du 28 juillet 1989",
+          "@debut": "1989-10-01",
+          "@fin": "2018-10-28",
+          "@id_txt": "LEGITEXT000006059086"
+        }
+      ],
+      "@cid": "JORFTEXT000000479778",
+      "@date_publi": "1989-08-03",
+      "@date_signature": "1989-07-28",
+      "@nature": "ARRETE",
+      "@nor": "SPSS8901609A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2018-10-28",
+          "@id": "LEGIARTI000006786543",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 1er janvier 1949 modifié portant extension aux étudiants de certaines dispositions du régime de la sécurité sociale est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1949-01-01 (abrogé)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 25 octobre 2018 - art. 5",
+        "@cidtexte": "JORFTEXT000037534476",
+        "@datesignatexte": "2018-10-25",
+        "@id": "LEGIARTI000037535313",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ESRS1827701A",
+        "@num": "5",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

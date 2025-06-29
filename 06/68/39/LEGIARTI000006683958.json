@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006683958",
+      "ANCIEN_ID": "SMHC8XXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/39/LEGIARTI000006683958.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2002-01-01",
+        "DATE_FIN": "2003-11-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2001-1085 du 20 novembre 2001 portant application de la loi n° 2001-647 du 20 juillet 2001 relative à la prise en charge de la perte d'autonomie des personnes âgées et à l'allocation personnalisée d'autonomie",
+          "@c_titre_court": "Décret n°2001-1085 du 20 novembre 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000588743"
+        },
+        {
+          "#text": "Décret n°2001-1085 du 20 novembre 2001 portant application de la loi n° 2001-647 du 20 juillet 2001 relative à la prise en charge de la perte d'autonomie des personnes âgées et à l'allocation personnalisée d'autonomie",
+          "@c_titre_court": "Décret n°2001-1085 du 20 novembre 2001",
+          "@debut": "2002-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005631692"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE Ier : ATTRIBUTION DE L'ALLOCATION PERSONNALISÉE D'AUTONOMIE",
+            "@debut": "2002-01-01",
+            "@fin": "2004-10-26",
+            "@id": "LEGISCTA000006103277"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre III : Modalités de versement et révision de l'APA.",
+              "@debut": "2002-01-01",
+              "@fin": "2004-10-26",
+              "@id": "LEGISCTA000006125234"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000588743",
+      "@date_publi": "2001-11-21",
+      "@date_signature": "2001-11-20",
+      "@ministere": "MINISTERE DE L'EMPLOI ET DE LA SOLIDARITE",
+      "@nature": "DECRET",
+      "@nor": "MESA0124007D",
+      "@num": "2001-1085"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2003-11-07",
+          "@id": "LEGIARTI000006683958",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-11-07",
+          "@etat": "ABROGE",
+          "@fin": "2004-10-26",
+          "@id": "LEGIARTI000006683959",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. - L'allocation personnalisée d'autonomie n'est pas versée lorsque son montant mensuel après déduction de la participation financière de l'intéressé mentionnée à l'article L. 232-4 du code de l'action sociale et des familles est inférieur ou égal à trois fois la valeur brute du salaire horaire minimum de croissance.<br/>\n<br/>   II. - Les indus ne sont pas recouvrés lorsque leur montant total est inférieur ou égal à ce même montant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 2001-647 2001-07-20",
+        "@cidtexte": "JORFTEXT000000406361",
+        "@datesignatexte": "2001-07-20",
+        "@id": "JORFTEXT000000406361",
+        "@naturetexte": "LOI",
+        "@nortexte": "MESX0100027L",
+        "@numtexte": "2001-647",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de l'action sociale et des familles - art. D232-31 (V)",
+        "@cidtexte": "LEGITEXT000006074069",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006905647",
+        "@naturetexte": "CODE",
+        "@num": "D232-31",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'action sociale et des familles - art. L232-4 (M)",
+        "@cidtexte": "LEGITEXT000006074069",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006796967",
+        "@naturetexte": "CODE",
+        "@num": "L232-4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602355",
+      "ANCIEN_ID": "RAHCGXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/23/LEGIARTI000006602355.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-03-23",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°69-258 du 22 mars 1969 L'INSEMINATION ARTIFICIELLE",
+          "@c_titre_court": "Décret n°69-258 du 22 mars 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000694515"
+        },
+        {
+          "#text": "Décret n°69-258 du 22 mars 1969 relatif à l'insémination artificielle",
+          "@c_titre_court": "Décret n°69-258 du 22 mars 1969",
+          "@debut": "1969-03-23",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006061624"
+        }
+      ],
+      "@cid": "JORFTEXT000000694515",
+      "@date_publi": "1969-03-23",
+      "@date_signature": "1969-03-22",
+      "@nature": "DECRET",
+      "@num": "69-258"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-03-23",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006602355",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le ministre de l'agriculture fixe par arrêtés, après avis de la commission nationale d'amélioration génétique et, le cas échéant, de la commission nationale vétérinaire, les conditions que doivent remplir les centres pour être autorisés à pratiquer l'insémination artificielle.<br/>\n<br/>   Ces conditions concernent notamment :<br/>\n<br/>   La qualification des personnels employés dans les centres ;<br/>\n<br/>   Les caractéristiques des bâtiments et des équipements aux points de vue zootechnique, technologique et sanitaire ;<br/>\n<br/>   La qualité des reproducteurs mâles utilisés ;<br/>\n<br/>   Les contrats passés avec des centres complémentaires pour la mise à l'épreuve des reproducteurs et la fourniture ou l'approvisionnement en animaux reproducteurs ou en semence.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-1005 1966-12-28",
+        "@cidtexte": "JORFTEXT000000691978",
+        "@datesignatexte": "1966-12-28",
+        "@id": "JORFTEXT000000691978",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-1005",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°69-258 du 22 mars 1969 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000694515",
+        "@datesignatexte": "1969-03-22",
+        "@id": "LEGIARTI000006602356",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "69-258",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006206454",
+      "ANCIEN_ID": "AMIBMXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/64/LEGIARTI000006206454.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1984-05-12",
+        "DATE_FIN": "1990-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 avril 1984 SUR LES MARCHES DES ORGANISMES DE SECURITE SOCIALE DU REGIME GENERAL",
+          "@c_titre_court": "Arrêté du 4 avril 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000292842"
+        },
+        {
+          "#text": "Arrêté du 4 avril 1984 portant règlement sur les marchés des organismes de sécurité sociale du régime général",
+          "@c_titre_court": "Arrêté du 4 avril 1984",
+          "@debut": "1984-05-12",
+          "@fin": "1995-09-01",
+          "@id_txt": "LEGITEXT000005631340"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Dispositions générales applicables aux marchés des organismes de sécurité sociale.",
+            "@debut": "1984-05-12",
+            "@fin": "1995-09-01",
+            "@id": "LEGISCTA000006083228"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000292842",
+      "@date_publi": "1984-05-12",
+      "@date_signature": "1984-04-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-05-12",
+          "@etat": "MODIFIE",
+          "@fin": "1990-01-01",
+          "@id": "LEGIARTI000006206454",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1995-09-01",
+          "@id": "LEGIARTI000006206455",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les avis d'adjudication, d'appel d'offres ou d'appel public de candidatures, transmis par les organismes de sécurité sociale sont, comme il est dit aux articles 43, 48, 52, 53 et 54 du présent arrêté, publiés par insertion dans les onze jours qui suivent la date de réception de l'avis [*délai*] par la direction de la publication.<br/>\n<br/>   Lorsque cette insertion n'est pas fait dans le bulletin officiel des annonces des marchés publics édité par la direction des journaux officiels, elle ne peut être confiée à une publication habilitée à recevoir des annonces légales que si la direction de cette publication s'est engagée à faire ces insertions dans le délai de onze jours ou, en cas d'urgence déclarée dans les conditions prévues aux articles susmentionnés, dans le délai de six jours.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-04-04 art. 145 *modalités d'application - date d'effet*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1984-04-04 art. 43, art. 48, art. 52, art. 53, art. 54",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L64",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

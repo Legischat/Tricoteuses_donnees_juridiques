@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006493762",
+      "ANCIEN_ID": "ACHFDXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/37/LEGIARTI000006493762.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1957-08-06",
+        "DATE_FIN": "2008-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°53-968 du 30 septembre 1953 NOUVELLE REGLEMENTATION DE LA VENTE A CREDIT DES VEHICULES AUTOMOBILES",
+          "@c_titre_court": "Décret n°53-968 du 30 septembre 1953",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000299708"
+        },
+        {
+          "#text": "Décret n°53-968 du 30 septembre 1953 relatif à la vente à crédit des véhicules automobiles",
+          "@c_titre_court": "Décret n°53-968 du 30 septembre 1953",
+          "@debut": "1953-10-01",
+          "@fin": "2008-07-01",
+          "@id_txt": "LEGITEXT000006060677"
+        }
+      ],
+      "@cid": "JORFTEXT000000299708",
+      "@date_publi": "1953-10-01",
+      "@date_signature": "1953-09-30",
+      "@nature": "DECRET",
+      "@num": "53-968"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1957-08-06",
+          "@etat": "ABROGE",
+          "@fin": "2008-07-01",
+          "@id": "LEGIARTI000006493762",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le gage constitué sur un véhicule automobile ou un engin visé à l'article premier du présent décret doit être déclaré dans les trois mois de la délivrance du récépissé de déclaration de mise en circulation. Le droit du créancier gagiste n'est opposable aux tiers qu'à dater de l'inscription de gage.<br/>\n<br/>   Toutefois, le délai de trois mois fixé à l'alinéa précédent n'est pas applicable aux déclarations de gages effectuées par le Trésor public.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Date de fin de vigueur indéterminée",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°53-968 du 30 septembre 1953 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000299708",
+        "@datesignatexte": "1953-09-30",
+        "@id": "LEGIARTI000006493753",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "53-968",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°57-888 du 2 août 1957 - art. 1 () JORF 6 août 1957",
+        "@cidtexte": "JORFTEXT000000315835",
+        "@datesignatexte": "1957-08-02",
+        "@id": "LEGIARTI000006700829",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "57-888",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2006-346 du 23 mars 2006 - art. 58, v. init.",
+        "@cidtexte": "JORFTEXT000000639090",
+        "@datesignatexte": "2006-03-23",
+        "@id": "JORFARTI000001296231",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0600032R",
+        "@num": "58",
+        "@numtexte": "2006-346",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006887926",
+      "ANCIEN_ID": "UTIEKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/79/LEGIARTI000006887926.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-01-06",
+        "DATE_FIN": "1993-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 janvier 1989 DU DELEGUE A L'ESPACE AERIEN RELATIF A LA DEFINITION DES ESPACES AERIENS DANS LESQUELS SONT ASSURES DES SERVICES DE LA CIRCULATION AERIENNE",
+          "@c_titre_court": "Arrêté du 2 janvier 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000688398"
+        },
+        {
+          "#text": "Arrêté du 2 janvier 1989 relatif à la définition des espaces aériens dans lesquels sont assurés des services de la circulation aérienne",
+          "@c_titre_court": "Arrêté du 2 janvier 1989",
+          "@debut": "1989-01-06",
+          "@fin": "1993-03-27",
+          "@id_txt": "LEGITEXT000006058704"
+        }
+      ],
+      "@cid": "JORFTEXT000000688398",
+      "@date_publi": "1989-01-06",
+      "@date_signature": "1989-01-02",
+      "@nature": "ARRETE",
+      "@nor": "PRMZ8929951A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-01-06",
+          "@etat": "ABROGE",
+          "@fin": "1993-03-27",
+          "@id": "LEGIARTI000006887926",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les espaces aériens où les services de la circulation aérienne sont assurés par l'administration française comprennent [*définition*] les régions d'information de vol et à l'intérieur de celles-ci :<br/>\n<br/>   - les espaces aériens contrôlés ;<br/>\n<br/>   - les zones dangereuses ;<br/>\n<br/>   - les zones réglementées,<br/>\n tels que définis aux annexes des articles D. 131-1 à D. 131-10 du code de l'aviation civile.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-03-19 art. 10 JORF 27 mars 1993",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'aviation civile D131-1 à D131-10",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074234",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

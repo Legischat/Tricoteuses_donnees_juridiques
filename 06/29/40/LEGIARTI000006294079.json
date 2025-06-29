@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006294079",
+      "ANCIEN_ID": "AAEBFXXXXXX007AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/40/LEGIARTI000006294079.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-09-21",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°56-672 du 9 juillet 1956 MILITAIRES RAPPELES OU MAINTENUS PROVISOIREMENT SOUS LES DRAPEAUX",
+          "@c_titre_court": "Loi n°56-672 du 9 juillet 1956",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692225"
+        },
+        {
+          "#text": "Loi n° 56-672 du 9 juillet 1956 instituant diverses mesures de protection envers certains militaires",
+          "@c_titre_court": "Loi n° 56-672 du 9 juillet 1956",
+          "@debut": "1956-07-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068158"
+        }
+      ],
+      "@cid": "JORFTEXT000000692225",
+      "@date_publi": "1956-07-10",
+      "@date_signature": "1956-07-09",
+      "@nature": "LOI",
+      "@num": "56-672"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-07-10",
+          "@etat": "MODIFIE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006294078",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-09-21",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006294079",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Par dérogation aux dispositions de l'article L. 144-3 du code de commerce, les personnes visées à l'article 1er peuvent concéder, pour la durée de leur maintien ou de leur rappel sous les drapeaux et une période de six mois à compter de leur libération, la location du fonds de commerce ou de l'établissement artisanal dont elles sont propriétaires ou exploitantes.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°56-672 du 9 juillet 1956 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000692225",
+        "@datesignatexte": "1956-07-09",
+        "@id": "LEGIARTI000006294001",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "56-672",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°56-672 du 9 juillet 1956 - art. 11 (M)",
+        "@cidtexte": "JORFTEXT000000692225",
+        "@datesignatexte": "1956-07-09",
+        "@id": "LEGIARTI000006294102",
+        "@naturetexte": "LOI",
+        "@num": "11",
+        "@numtexte": "56-672",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi n°56-672 du 9 juillet 1956 - art. 11 (V)",
+        "@cidtexte": "JORFTEXT000000692225",
+        "@datesignatexte": "1956-07-09",
+        "@id": "LEGIARTI000006294103",
+        "@naturetexte": "LOI",
+        "@num": "11",
+        "@numtexte": "56-672",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 XI JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L144-3 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006221263",
+        "@naturetexte": "CODE",
+        "@num": "L144-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

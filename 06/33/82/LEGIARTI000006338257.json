@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006338257",
+      "ANCIEN_ID": "MCE07XXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/82/LEGIARTI000006338257.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-07-10",
+        "DATE_FIN": "1999-03-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°77-744 du 8 juillet 1977 MODIFIANT LE REGIME COMMUNAL DU TERRITOIRE DE LA NOUVELLE-CALEDONIE ET DEPENDANCES",
+          "@c_titre_court": "Loi n°77-744 du 8 juillet 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000704669"
+        },
+        {
+          "#text": "Loi n° 77-744 du 8 juillet 1977 modifiant le régime communal dans le territoire de la Nouvelle-Calédonie",
+          "@c_titre_court": "Loi n° 77-744 du 8 juillet 1977",
+          "@debut": "1977-07-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068603"
+        }
+      ],
+      "@cid": "JORFTEXT000000704669",
+      "@date_publi": "1977-07-10",
+      "@date_signature": "1977-07-08",
+      "@nature": "LOI",
+      "@num": "77-744"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-07-10",
+          "@etat": "ABROGE",
+          "@fin": "1999-03-21",
+          "@id": "LEGIARTI000006338257",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Pour l'application des dispositions du code des communes dans le territoire de la Nouvelle-Calédonie et dépendances, les références qui y sont faites au code de l'urbanisme et de l'habitation , au code rural, au code de la santé publique, au code de la famille et de l'aide sociale sont remplacées par les termes \"la réglementation territoriale en vigueur\".<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°77-744 du 8 juillet 1977 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000704669",
+        "@datesignatexte": "1977-07-08",
+        "@id": "LEGIARTI000006338239",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "77-744",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 99-210 1999-03-19 art. 4 II jorf 21 mars 1999",
+        "@cidtexte": "JORFTEXT000000576057",
+        "@datesignatexte": "1999-03-19",
+        "@id": "JORFTEXT000000576057",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9800175L",
+        "@numtexte": "99-210",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°99-210 du 19 mars 1999 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000576057",
+        "@datesignatexte": "1999-03-19",
+        "@id": "LEGIARTI000006386350",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9800175L",
+        "@num": "4",
+        "@numtexte": "99-210",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

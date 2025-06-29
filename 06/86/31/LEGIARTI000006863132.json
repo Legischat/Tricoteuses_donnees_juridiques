@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006863132",
+      "ANCIEN_ID": "UPINFXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/31/LEGIARTI000006863132.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-05-23",
+        "DATE_FIN": "1987-04-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 avril 1982 CERTIFICATS DE LIMITATION DE NUISANCES DESTINES AUX HELICOPTERES",
+          "@c_titre_court": "Arrêté du 13 avril 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000866000"
+        },
+        {
+          "#text": "Arrêté du 13 avril 1982 relatif aux certificats de limitation de nuisances destinés aux hélicoptères",
+          "@c_titre_court": "Arrêté du 13 avril 1982",
+          "@debut": "1982-05-23",
+          "@fin": "1987-04-09",
+          "@id_txt": "LEGITEXT000006074625"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Points de référence",
+            "@debut": "1982-05-23",
+            "@fin": "1987-04-09",
+            "@id": "LEGISCTA000006110262"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000866000",
+      "@date_publi": "1982-05-23",
+      "@date_signature": "1982-04-13",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-23",
+          "@etat": "ABROGE",
+          "@fin": "1987-04-09",
+          "@id": "LEGIARTI000006863132",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>On appelle axe de référence la projection sur le sol de la trajectoire de vol correspondant, pour chaque phase, à la procédure de référence. Les points de référence de chaque phase de vol prévus à l'article précédent sont les suivants :</p>\n<br/>\n<p>a) Points de référence de mesure du bruit au décollage.</p>\n<br/>\n<p>1. Le premier point de référence est le point situé sur l'axe de référence à une distance horizontale de 500 mètres dans la direction du vol, du point auquel la montée est amorcée.</p>\n<br/>\n<p>2. Les deux autres points sont situés au sol sur une ligne perpendiculaire à l'axe de référence symétriquement par rapport au premier point de référence et à une distance de 150 mètres de ce point.</p>\n<br/>\n<p>b) Points de référence de mesure du bruit au survol.</p>\n<br/>\n<p>1. Le premier point de référence est situé sur l'axe de référence à 150 mètres au-dessous de la trajectoire de vol.</p>\n<br/>\n<p>2. Les deux autres points sont situés au sol sur une ligne perpendiculaire à l'axe de référence, symétriquement par rapport au premier point de référence et à une distance de 150 mètres de ce point.</p>\n<br/>\n<p>c) Points de référence de mesure du bruit à l'approche.</p>\n<br/>\n<p>1. Le premier point de référence est le point situé sur l'axe de référence à une distance de 1140 mètres dans la direction opposée a celle du vol, du point d'intersection de la pente d'approche de 6 degrés et de l'axe de référence.</p>\n<br/>\n<p>2. Les deux autres points sont situés au sol sur une ligne perpendiculaire à l'axe de référence symétriquement par rapport au premier point de référence et à une distance de 150 mètres de ce point.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-04-13 ART. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 19 février 1987 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000873232",
+        "@datesignatexte": "1987-02-19",
+        "@id": "LEGIARTI000006887323",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TRSA8700085A",
+        "@num": "7",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'aviation civile - art. R133-2 (V)",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006844511",
+        "@naturetexte": "CODE",
+        "@num": "R133-2",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

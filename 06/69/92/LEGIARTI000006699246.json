@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006699246",
+      "ANCIEN_ID": "AFEAVXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/92/LEGIARTI000006699246.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1984-07-25",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 7 août 1920 complétant la loi du 13 mars 1917 ayant pour objet l'organisation du crédit au petit et au moyen commerce, à la petite et à la moyenne industrie",
+          "@c_titre_court": "Loi du 7 août 1920",
+          "@debut": "1920-08-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072677"
+        }
+      ],
+      "@cid": "LEGITEXT000006072677",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1920-08-07",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1920-08-10",
+          "@etat": "MODIFIE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006699245",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-07-25",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006699246",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006699247",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'usage, comme titre ou comme qualificatif des mots \"banque populaire\" est interdit notamment dans les prospectus, réclames, lettres, etc., à toute entreprise autre que celles visées au titre II de la loi du 13 mars 1917, et ce sous peine des condamnations prévues par les dispositions de l'article 405 du Code pénal [*faux titre - fausse qualité - sanctions pénales*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1917-03-13 art. 10 et art. 13",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 X JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code pénal 405",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

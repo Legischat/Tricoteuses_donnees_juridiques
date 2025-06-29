@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006468653",
+      "ANCIEN_ID": "ACEBGXXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/86/LEGIARTI000006468653.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1951-01-19",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°51-59 du 18 janvier 1951 NANTISSEMENT DE L'OUTILLAGE ET MATERIEL D'EQUIPEMENT PROFESSIONNEL",
+          "@c_titre_court": "Loi n°51-59 du 18 janvier 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886643"
+        },
+        {
+          "#text": "Loi n°51-59 du 18 janvier 1951 relative au nantissement de l'outillage et du matériel d'équipement",
+          "@c_titre_court": "Loi n°51-59 du 18 janvier 1951",
+          "@debut": "1951-01-19",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006068096"
+        }
+      ],
+      "@cid": "JORFTEXT000000886643",
+      "@date_publi": "1951-01-19",
+      "@date_signature": "1951-01-18",
+      "@nature": "LOI",
+      "@num": "51-59"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-19",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006468653",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006468654",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sera puni des peines de l'article 406 du code pénal tout acquéreur ou détenteur de biens nantis en application de la présente loi, qui les détruit ou tente de les détruire, les détourne ou tente de les détourner, ou enfin les altère ou tente de les altérer d'une manière quelconque en vue de faire échec aux droits du créancier [*sanctions*].<br/>\n<br/>   Seront punies des mêmes peines, toutes manoeuvres frauduleuses destinées à priver le créancier de son privilège sur les biens nantis ou à le diminuer.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°51-59 du 18 janvier 1951 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000886643",
+        "@datesignatexte": "1951-01-18",
+        "@id": "LEGIARTI000006468493",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@numtexte": "51-59",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°51-59 du 18 janvier 1951 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000886643",
+        "@datesignatexte": "1951-01-18",
+        "@id": "LEGIARTI000006468525",
+        "@naturetexte": "LOI",
+        "@num": "7",
+        "@numtexte": "51-59",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code pénal 406",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006886729",
+      "ANCIEN_ID": "UTIACXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/67/LEGIARTI000006886729.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-12-01",
+        "DATE_FIN": "1992-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 novembre 1986 relatif à l'indication des vitesses maximales sur les véhicules automobiles",
+          "@c_titre_court": "Arrêté du 12 novembre 1986",
+          "@debut": "1986-12-01",
+          "@fin": "1992-12-01",
+          "@id_txt": "LEGITEXT000006075001"
+        }
+      ],
+      "@cid": "LEGITEXT000006075001",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-11-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-12-01",
+          "@id": "LEGIARTI000006886729",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'un véhicule ou ensemble de véhicules est astreint à porter un ou plusieurs disques indicateurs de vitesse en raison de ses caractéristiques propres, chaque disque doit répondre aux conditions suivantes : [*obligations*]    - le diamètre du disque est d'au moins 20 cm ; [*dimensions*]    - la vitesse (exprimée en kilomètres par heure) est écrite en chiffres noirs sur fond blanc ;<br/>\n<br/>   - les chiffres ont 15 cm de hauteur.<br/>\n<br/>   Le disque peut être rapporté par collage ou rivetage ou tout autre moyen de fixation ou peut être peint ou poché sur la carrosserie.<br/>\n<br/>   Le disque indiquant la vitesse la plus faible doit être placé de façon bien visible à l'arrière et sur la partie inférieure gauche de la carrosserie si celle-ci le permet.<br/>\n<br/>   Dans chaque cas où le véhicule ou ensemble de véhicules est astreint à porter plus d'un disque, les centres de ceux-ci doivent être situés dans un même plan horizontal ou, en cas d'impossibilité, dans un même plan longitudinal vertical. Le disque indiquant la vitesse la plus élevée doit être placé, selon les cas, à droite ou au-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-11-12 art. 3",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1992-11-23 art. 4 JORF 24 novembre 1992 en vigueur le 1er décembre 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "code de la route R10 à R10-5",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

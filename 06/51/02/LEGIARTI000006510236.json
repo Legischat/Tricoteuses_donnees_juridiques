@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006510236",
+      "ANCIEN_ID": "ADECKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/02/LEGIARTI000006510236.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1940-02-06",
+        "DATE_FIN": "1993-07-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 3 février 1940 TENDANT A REGLEMENTER LE COMMERCE DES PRODUITS DESTINES A L'ALIMENTATION DES ANIMAUX",
+          "@c_titre_court": "Loi du 3 février 1940",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000313932"
+        },
+        {
+          "#text": "Loi du 3 février 1940 tendant à réglementer le commerce des produits destinés à l'alimentation des animaux",
+          "@c_titre_court": "Loi du 3 février 1940",
+          "@debut": "1940-02-06",
+          "@fin": "2016-07-01",
+          "@id_txt": "LEGITEXT000006071142"
+        }
+      ],
+      "@cid": "JORFTEXT000000313932",
+      "@date_publi": "1940-02-06",
+      "@date_signature": "1940-02-03",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1940-02-06",
+          "@etat": "MODIFIE",
+          "@fin": "1993-07-27",
+          "@id": "LEGIARTI000006510236",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-07-27",
+          "@etat": "ABROGE",
+          "@fin": "2016-07-01",
+          "@id": "LEGIARTI000006510237",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Seront punis des peines prévues par l'article 13 de la loi du 1er août 1905, modifiée par la loi du 21 juillet 1929, ceux qui, au moment de la vente ou de la livraison des produits destinés à l'alimentation des animaux, n'auront pas fait connaître à l'acheteur, dans les conditions indiquées à l'article 2 de la présente loi :<br/>\n<br/>   1° Pour les produits simples, le nom et l'adresse du vendeur ou du fabricant, ainsi que la nature du produit, son pays d'origine et son degré de pureté.<br/>\n<br/>   2° Pour les produits composés, le nom et l'adresse du vendeur ou du fabricant, la date de sortie de l'usine de fabrication du produit, la nature des matières premières, alimentaires ou non, qui entrent dans sa composition, la teneur minimum en matières protéiques brutes digestibles, en matières grasses, en hydrates de carbone, la teneur maximum en cellulose et l'humidité ;<br/>\n<br/>   3° Pour les tourteaux alimentaires provenant de la trituration de graines oléagineuses d'une même espèce et n'ayant subi aucun mélange, le nom et l'adresse du vendeur ou du fabricant, la date de fabrication du produit, la nature de la matière première alimentaire ou non qui entre dans sa composition, sa teneur minimum en matières azotées, en matières grasses et l'humidité ;<br/>\n<br/>   4° Pour les produits mélassés, produits contenant au minimum 20 % de mélasse à 48 degrés de sucre exprimés en glucose, le nom et l'adresse du vendeur ou du fabricant, la date de sortie de l'usine de fabrication du produit, la teneur minimum en sucres totaux exprimés en glucose, l'humidité maximum du produit et la nature du support de la mélasse.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1905-08-01 art. 13",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1929-07-21",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1940-02-03 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

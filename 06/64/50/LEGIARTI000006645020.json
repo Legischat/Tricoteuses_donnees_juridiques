@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006645020",
+      "ANCIEN_ID": "AELXXXXXXXX131L042AXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/50/LEGIARTI000006645020.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L131-42",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2001-01-01",
+        "DATE_FIN": "2005-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code monétaire et financier",
+          "@c_titre_court": "Code monétaire et financier",
+          "@debut": "2001-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072026"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "2001-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101336"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : La monnaie",
+              "@debut": "2001-01-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123830"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre III : Les instruments de la monnaie scripturale",
+                "@debut": "2001-01-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006139711"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Le chèque",
+                  "@debut": "2001-01-01",
+                  "@fin": "2005-12-31",
+                  "@id": "LEGISCTA000006153876"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 1 : Le chèque bancaire",
+                    "@debut": "2001-01-01",
+                    "@fin": "2005-12-31",
+                    "@id": "LEGISCTA000006169880"
+                  }
+                ],
+                "TM": {
+                  "TITRE_TM": [
+                    {
+                      "#text": "Sous-section 5 : Présentation et paiement.",
+                      "@debut": "2001-01-01",
+                      "@fin": "2005-12-31",
+                      "@id": "LEGISCTA000006184483"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072026",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2005-12-31",
+          "@id": "LEGIARTI000006645020",
+          "@num": "L131-42",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006645021",
+          "@num": "L131-42",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le propriétaire du chèque égaré doit, pour s'en procurer le second, s'adresser à son endosseur immédiat qui est tenu de lui prêter son nom et ses soins pour agir envers son propre endosseur et ainsi en remontant d'endosseur à endosseur jusqu'au tireur du chèque. Le propriétaire du chèque égaré supporte les frais.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 75-4 1975-01-03 art. 36 c",
+        "@cidtexte": "JORFTEXT000000333973",
+        "@datesignatexte": "1975-01-03",
+        "@id": "JORFTEXT000000333973",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-4",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Ordonnance n° 2000-1223 du 14 décembre 2000 (V)",
+        "@cidtexte": "JORFTEXT000000574489",
+        "@datesignatexte": "2000-12-14",
+        "@id": "LEGITEXT000005630278",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOX0000098R",
+        "@numtexte": "2000-1223",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

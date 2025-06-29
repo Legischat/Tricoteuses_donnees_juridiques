@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607558",
+      "ANCIEN_ID": "RAIERXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/75/LEGIARTI000006607558.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-03-02",
+        "DATE_FIN": "1988-01-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 février 1983 relatif à la protection des poules pondeuses",
+          "@c_titre_court": "Arrêté du 24 février 1983",
+          "@debut": "1983-03-02",
+          "@fin": "1988-01-27",
+          "@id_txt": "LEGITEXT000006071451"
+        }
+      ],
+      "@cid": "LEGITEXT000006071451",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-02-24",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-03-02",
+          "@etat": "ABROGE",
+          "@fin": "1988-01-27",
+          "@id": "LEGIARTI000006607558",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Afin d'éviter dans la mesure du possible les blessures causées par le piétinement ou le picage ou toutes autres anomalies associées au surpeuplement, les poules pondeuses élevées en cages devront disposer de 400 centimètres carrés par animal, cette surface minimale étant utilisable sans restriction et mesurée sur le plan horizontal.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-12-29 art. 4 JORF 27 janvier 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 80-791 1980-10-01",
+        "@cidtexte": "JORFTEXT000000503223",
+        "@datesignatexte": "1980-10-01",
+        "@id": "JORFTEXT000000503223",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-791",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

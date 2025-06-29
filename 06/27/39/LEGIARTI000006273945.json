@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273945",
+      "ANCIEN_ID": "FAECAXXXXXX025AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/39/LEGIARTI000006273945.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-06-29",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-540 du 28 juin 1982 DE FINANCES RECTIFICATIVE POUR 1982",
+          "@c_titre_court": "Loi n°82-540 du 28 juin 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000691740"
+        },
+        {
+          "#text": "Loi n° 82-540 du 28 juin 1982 de finances rectificative pour 1982 (1)",
+          "@c_titre_court": "Loi n° 82-540 du 28 juin 1982",
+          "@debut": "1982-06-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068749"
+        }
+      ],
+      "@cid": "JORFTEXT000000691740",
+      "@date_publi": "1982-06-29",
+      "@date_signature": "1982-06-28",
+      "@nature": "LOI",
+      "@num": "82-540"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-06-29",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006273945",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001295710",
+          "@num": "25",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La réduction de bénéfice prévue à l'article 44 bis-I du code général des impôts, et portée à 50 p. 100 par l'article 84-I de la loi de finances pour 1982 susvisée, est étendue aux exploitants agricoles placés sous un régime de bénéfice réel qui perçoivent la dotation d'installation aux jeunes agriculteurs prévue par le décret n° 81-246 du 17 mars 1981. Cette mesure s'applique aux exploitants établis à compter du 1er janvier 1982 et jusqu'au 31 décembre 1983.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 44 bis-I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-246 1981-03-17",
+        "@cidtexte": "JORFTEXT000000685327",
+        "@datesignatexte": "1981-03-17",
+        "@id": "JORFTEXT000000685327",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-246",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 81-1160 1981-12-30 art. 84 Finances pour 1982",
+        "@cidtexte": "JORFTEXT000000515870",
+        "@datesignatexte": "1981-12-30",
+        "@id": "JORFTEXT000000515870",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-1160",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 82-540 1982-06-28 Finances rectificative pour 1982 JORF 29 JUIN 1982",
+        "@cidtexte": "JORFTEXT000000691740",
+        "@datesignatexte": "1982-06-28",
+        "@id": "JORFTEXT000000691740",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-540",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 73 B (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006307804",
+        "@naturetexte": "CODE",
+        "@num": "73 B",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 74 B (MMN)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006308081",
+        "@naturetexte": "CODE",
+        "@num": "74 B",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

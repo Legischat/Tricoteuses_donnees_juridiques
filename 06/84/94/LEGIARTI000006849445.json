@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006849445",
+      "ANCIEN_ID": "UPGACXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/94/LEGIARTI000006849445.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1935-10-31",
+        "DATE_FIN": "1958-04-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 30 octobre 1935 SUR LA PROTECTION DES EAUX POTABLES ET LES ETABLISSEMENTS OSTREICOLES",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000295463"
+        },
+        {
+          "#text": "Décret-loi du 30 octobre 1935 sur la protection des eaux potables et les établissements ostréicoles",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "1935-10-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074276"
+        }
+      ],
+      "@cid": "JORFTEXT000000295463",
+      "@date_publi": "1935-10-31",
+      "@date_signature": "1935-10-30",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1935-10-31",
+          "@etat": "ABROGE",
+          "@fin": "1958-04-05",
+          "@id": "LEGIARTI000006849445",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les procès-verbaux constatant les infractions aux prescriptions des divers articles de la loi de 1902 et du présent décret-loi seront dressés, à la requête du préfet, du directeur ou du médecin départemental d'hygiène, des directeurs de bureaux d'hygiène, des maires, des médecins et architectes communaux, ou, sur leur propre initiative, par les gendarmes, les inspecteurs de police, inspecteurs de marchés et inspecteurs d'hygiène, spécialement commissionnés à cet effet par le préfet. Ces procès-verbaux seront dressés en double expédition, qui seront transmises directement, l'une  au maire ou au préfet, l'autre au procureur de la République.<br/>\n<br/>   Sera puni d'une amende de 100 à 500 F, quiconque aura mis obstacle à l'accomplissement des devoirs des agents susmentionnés, en cas de récidive, l'amende sera portée de 500 à 1000 F.<br/>\n<br/>   Les tribunaux correctionnels pourront appliquer pour la première condamnation les dispositions de l'article 463 du code pénal, sans que l'amende puisse être inférieure à 50 F [*sanction*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°58-346 du 3 avril 1958 - art. 1 (V) JORF 5 avril 1958",
+        "@cidtexte": "JORFTEXT000000511672",
+        "@datesignatexte": "1958-04-03",
+        "@id": "LEGIARTI000006272659",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "58-346",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code pénal 463",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 1902-02-15",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

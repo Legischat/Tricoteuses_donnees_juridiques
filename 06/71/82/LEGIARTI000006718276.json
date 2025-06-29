@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006718276",
+      "ANCIEN_ID": "SPIHRXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/82/LEGIARTI000006718276.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1965-08-12",
+        "DATE_FIN": "1984-08-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 juillet 1965 relatif à la vaccination obligatoire selon les dispositions de l'article L. 10 du code de la santé publique",
+          "@c_titre_court": "Arrêté du 28 juillet 1965",
+          "@debut": "1965-08-12",
+          "@fin": "1984-08-29",
+          "@id_txt": "LEGITEXT000006072869"
+        }
+      ],
+      "@cid": "LEGITEXT000006072869",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1965-07-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-08-12",
+          "@etat": "ABROGE",
+          "@fin": "1984-08-29",
+          "@id": "LEGIARTI000006718276",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Par dérogation aux dispositions de l'article 3 ci-dessus, peut être considéré comme valablement immunisé :<br/>\n<br/>   1° Contre la variole, tout sujet qui a contracté antérieurement la maladie ;<br/>\n<br/>   2° Contre la diphtérie, tout sujet qui a une réaction de Schick négative.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1965-07-28 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1984-08-17 art. 1 JONC 29 août 1984",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L10 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692166",
+        "@naturetexte": "CODE",
+        "@num": "L10",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006403314",
+      "ANCIEN_ID": "ABFAAXXXXXX013AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/33/LEGIARTI000006403314.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-10-16",
+        "DATE_FIN": "1986-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°67-820 du 23 septembre 1967 TENDANT A FACILITER LE REDRESSEMENT ECONOMIQUE ET FINANCIER DE CERTAINES ENTREPRISES",
+          "@c_titre_court": "Ordonnance n°67-820 du 23 septembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339815"
+        },
+        {
+          "#text": "Ordonnance n°67-820 du 23 septembre 1967 tendant à faciliter le redressement économique et financier de certaines entreprises",
+          "@c_titre_court": "Ordonnance n°67-820 du 23 septembre 1967",
+          "@debut": "1968-01-01",
+          "@fin": "1986-01-01",
+          "@id_txt": "LEGITEXT000006069289"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Suspension provisoire des poursuites",
+            "@debut": "1968-01-01",
+            "@fin": "1986-01-01",
+            "@id": "LEGISCTA000006088560"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000339815",
+      "@date_publi": "1967-09-28",
+      "@date_signature": "1967-09-23",
+      "@nature": "ORDONNANCE",
+      "@num": "67-820"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1981-10-16",
+          "@id": "LEGIARTI000006403313",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-10-16",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006403314",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La mission et les pouvoirs du ou des curateurs sont fixés par le tribunal qui peut les charger, ensemble ou séparément, soit de surveiller les opérations financières et commerciales, soit d'assister le débiteur, soit d'assurer provisoirement l'administration avec les pouvoirs qu'il détermine.<br/>\n<br/>   A tout moment, le tribunal peut modifier la mission et les pouvoirs du curateur, sur la demande de celui-ci, du procureur de la République ou d'office.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 67-820 1967-09-23 art. 44 *recours*",
+        "@cidtexte": "JORFTEXT000000339815",
+        "@datesignatexte": "1967-09-23",
+        "@id": "JORFTEXT000000339815",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "67-820",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Ordonnance n°67-820 du 23 septembre 1967 - art. 44 (Ab)",
+        "@cidtexte": "JORFTEXT000000339815",
+        "@datesignatexte": "1967-09-23",
+        "@id": "LEGIARTI000006403383",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "44",
+        "@numtexte": "67-820",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 85-98 1985-01-25 art. 243 *date d'effet - décret d'application*",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000693911",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°85-98 du 25 janvier 1985 - art. 238 (Ab) JORF 26 janvier 1985 en vigueur le 1er janvier 1986",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "LEGIARTI000006401791",
+        "@naturetexte": "LOI",
+        "@num": "238",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

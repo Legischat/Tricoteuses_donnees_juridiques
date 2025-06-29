@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652569",
+      "ANCIEN_ID": "SBAXXXXXXXX5X09900AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/25/LEGIARTI000006652569.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "99",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-03-27",
+        "DATE_FIN": "2009-06-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat",
+            "@debut": "1977-05-19",
+            "@fin": "2010-12-01",
+            "@id": "LEGISCTA000006101383"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 1 : Dispositions communes à tous les contrats d'engagement",
+              "@debut": "1977-05-19",
+              "@fin": "2010-12-01",
+              "@id": "LEGISCTA000006123921"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-03-27",
+          "@etat": "ABROGE",
+          "@fin": "2009-06-20",
+          "@id": "LEGIARTI000006652569",
+          "@num": "99",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sous réserve de l'application, le cas échéant, des dispositions spéciales du chapitre 2 ci-après, le marin lié par un contrat à durée indéterminée et qui est congédié pour motif légitime n'a droit à aucune indemnité. Il peut être condamné à des dommages-intérêts si la rupture du contrat d'engagement a causé un préjudice à l'armateur.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2009-717\n du 18 juin 2009 - art. 5",
+        "@cidtexte": "JORFTEXT000020756186",
+        "@datesignatexte": "2009-06-18",
+        "@id": "LEGIARTI000020756885",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVT0909151R",
+        "@num": "5",
+        "@numtexte": "2009-717",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

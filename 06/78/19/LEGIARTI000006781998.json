@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006781998",
+      "ANCIEN_ID": "SSIAAJXXXXX005AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/19/LEGIARTI000006781998.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-12-26",
+        "DATE_FIN": "1982-12-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 décembre 1976  FIXANT LA COTISATION DUE POUR L'ALIMENTATION DU FONDS COMMUN VISE A L'ARTICLE L. 491 DU CODE DE LA SECURITE SOCIALE *FINANCEMENT*, PAR LES ETABLISSEMENTS OU COLLECTIVITES GERANT LA TOTALITE DU RISQUE \"ACCIDENTS DU TRAVAIL\".",
+          "@c_titre_court": "Arrêté du 16 décembre 1976",
+          "@debut": "1976-12-26",
+          "@fin": "1982-12-29",
+          "@id_txt": "LEGITEXT000006073460"
+        }
+      ],
+      "@cid": "LEGITEXT000006073460",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1976-12-16",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-12-26",
+          "@etat": "ABROGE",
+          "@fin": "1982-12-29",
+          "@id": "LEGIARTI000006781998",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté susvisé du 20 décembre 1956 est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1956-12-20 (ABROGE)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1982-12-21 ART. 5 JORF 29 DECEMBRE 1982",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L491",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

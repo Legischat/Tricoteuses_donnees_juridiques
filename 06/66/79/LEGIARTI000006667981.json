@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006667981",
+      "ANCIEN_ID": "SEIC9XXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/79/LEGIARTI000006667981.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1954-09-08",
+        "DATE_FIN": "1972-12-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 décembre 1938 ORGANISATION DE L'INDUSTRIE DU TAXI A PARIS",
+          "@c_titre_court": "Arrêté du 31 décembre 1938",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000470220"
+        },
+        {
+          "#text": "Arrêté du 31 décembre 1938 portant organisation de l'industrie du taxi à Paris.",
+          "@c_titre_court": "Arrêté du 31 décembre 1938",
+          "@debut": "1939-01-01",
+          "@fin": "1972-12-07",
+          "@id_txt": "LEGITEXT000006072119"
+        }
+      ],
+      "@cid": "JORFTEXT000000470220",
+      "@date_publi": "1939-01-01",
+      "@date_signature": "1938-12-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1954-09-08",
+          "@etat": "ABROGE",
+          "@fin": "1972-12-07",
+          "@id": "LEGIARTI000006667981",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le nombre maximum des voitures de place parisiennes de 2e classe autorisées à circuler et à stationner à Paris et dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne est fixé à 12.500.<br/>\n<br/>\n   Les numéros disponibles par suite de cette augmentation du nombre des voitures seront répartis dans les trois catégories conformément aux dispositions de l'article 10 de l'arrêté ministériel du 31 décembre 1938 modifié.<br/>\n    Ce nombre pourra être modifié par arrêté interpréfectoral en cas d'accord unanime des organisations représentées à la commission paritaire, ou par arrêté ministériel en cas de désaccord.<br/>\n<br/>   Toutefois, la réduction éventuelle du nombre des voitures admises à circuler ne pourra donner lieu à aucune indemnité, de quelque nature que ce soit, en faveur des propriétaires des autorisations qui seraient supprimées, au prorata des effectifs, dans chaque catégorie et par voie d'extinction.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1938-12-31 ART. 4 : Dérogation",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°72-997 du 2 novembre 1972, v. init.",
+        "@cidtexte": "JORFTEXT000000497711",
+        "@datesignatexte": "1972-11-02",
+        "@id": "JORFTEXT000000497711",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-997",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

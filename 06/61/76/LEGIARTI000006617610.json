@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006617610",
+      "ANCIEN_ID": "RDIAIXXXXXX024AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/76/LEGIARTI000006617610.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-11-28",
+        "DATE_FIN": "2004-07-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 janvier 1974 relatif à l'application de la franchise des droits et taxes instituée par l'article 190 du code des douanes pour les produits pétroliers destinés à l'avitaillement des navires",
+          "@c_titre_court": "Arrêté du 2 janvier 1974",
+          "@debut": "1990-11-28",
+          "@fin": "2004-07-28",
+          "@id_txt": "LEGITEXT000006071611"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Dépôts spéciaux d'avitaillement des bateaux.",
+            "@debut": "1974-02-01",
+            "@fin": "2004-07-28",
+            "@id": "LEGISCTA000006099388"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071611",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-01-02",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-02-01",
+          "@etat": "TRANSFERE",
+          "@fin": "1990-11-28",
+          "@id": "LEGIARTI000006617609",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-11-28",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-28",
+          "@id": "LEGIARTI000006617610",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tout titulaire d'un dépôt spécial d'avitaillement des bateaux doit :<br/>\n<br/>   a) Tenir une comptabilité qui fasse apparaître, jour par jour, pour chaque espèce de produits :<br/>\n<br/>   D'une part, toutes les quantités reçues ;<br/>\n<br/>   D'autre part, toutes les quantités livrées.<br/>\n<br/>   Cette comptabilité doit comprendre les documents justificatifs de toutes les quantités reçues et de toutes les quantités livrées et, notamment, les exemplaires appropriés des déclarations de douane relatives aux produits reçus et les bons d'avitaillement relatifs aux produits livrés.<br/>\n<br/>   Elle doit donner lieu en fin de mois à un arrêté par espèce de produit.<br/>\n<br/>   b) Adresser au début de chaque mois au bureau des douanes de rattachement du dépôt spécial une déclaration d'activité relative aux opérations du mois précédent et indiquant par espèce de produit entreposé les quantités reçues et livrées et la situation du stock.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-01-02 art. 27",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Arrêté 1990-11-06 art. 14 JORF 28 novembre 1990",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      },
+      {
+        "#text": "Arrêté 2004-07-01 art. 31 JORF 28 juillet 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des douanes - art. 190 (V)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615585",
+        "@naturetexte": "CODE",
+        "@num": "190",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

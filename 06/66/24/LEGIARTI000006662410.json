@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006662410",
+      "ANCIEN_ID": "SEHCKXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/24/LEGIARTI000006662410.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-05-20",
+        "DATE_FIN": "1985-02-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-398 du 19 mai 1983 RELATIF AU CONTRAT EMPLOI-ORIENTATION",
+          "@c_titre_court": "Décret n°83-398 du 19 mai 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000858044"
+        },
+        {
+          "#text": "Décret n°83-398 du 19 mai 1983  RELATIF AU CONTRAT EMPLOI-ORIENTATION",
+          "@c_titre_court": "Décret n°83-398 du 19 mai 1983",
+          "@debut": "1983-05-20",
+          "@fin": "1985-02-15",
+          "@id_txt": "LEGITEXT000006064125"
+        }
+      ],
+      "@cid": "JORFTEXT000000858044",
+      "@date_publi": "1983-05-20",
+      "@date_signature": "1983-05-19",
+      "@nature": "DECRET",
+      "@num": "83-398"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-20",
+          "@etat": "ABROGE",
+          "@fin": "1985-02-15",
+          "@id": "LEGIARTI000006662410",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le contrat emploi-orientation ne peut être accordé : <br/>\n    Pour des stages effectués dans le cadre d'un cursus scolaire et universitaire ou lorsque le stage est obligatoire pour l'obtention d'un diplôme ou d'un titre professionnels ; <br/>\n    Aux employeurs auxquels a été refusé l'agrément prévu à l'article L. 117-5 du code du travail ; <br/>\n    Au bénéfice des membres de la famille de l'employeur ; <br/>\n    Aux employeurs ayant fait l'objet d'une condamnation pour infraction délictuelle à la législation du travail ; <br/>\n    Durant un an, aux employeurs ayant fait l'objet d'un ordre de reversement conformément à l'article 4 du présent décret [*interdiction, incompatibilité*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°83-398 du 19 mai 1983 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000858044",
+        "@datesignatexte": "1983-05-19",
+        "@id": "LEGIARTI000006662406",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "83-398",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°85-208 du 13 février 1985 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000885000",
+        "@datesignatexte": "1985-02-13",
+        "@id": "LEGIARTI000006663527",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "85-208",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. L117-5 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646629",
+        "@naturetexte": "CODE",
+        "@num": "L117-5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006615510",
+      "ANCIEN_ID": "ADIIVXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/55/LEGIARTI000006615510.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-04-01",
+        "DATE_FIN": "1986-11-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 mars 1983 relatif aux marges de détail et aux prix de vente au détail des viandes de boeuf et de veau",
+          "@c_titre_court": "Arrêté du 31 mars 1983",
+          "@debut": "1983-04-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071575"
+        }
+      ],
+      "@cid": "LEGITEXT000006071575",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-03-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-04-01",
+          "@etat": "ABROGE",
+          "@fin": "1986-11-24",
+          "@id": "LEGIARTI000006615510",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les nomenclatures des morceaux taxés de viande de boeuf et de viande de veau figurant dans les arrêtés de taxation pris par les commissaires de la République, conformément à la délégation de compétence donnée par l'article 1er de l'arrêté n° 82-99/A du 29 octobre 1982 sont complétées par les morceaux suivants.<br/>\n<br/>   Viande de boeuf : aiguillette de rumsteck, tranche à bifteck, gîte-gîte ;<br/>\n<br/>   Viande de veau : escalope, côtes premières.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 20/A 1983-03-31 BOCC n° 6, 1er avril 1983",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 86-53/A 1986-11-24 art. 1 BOCC n° 22, 24 novembre 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 99/A 1982-10-29 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

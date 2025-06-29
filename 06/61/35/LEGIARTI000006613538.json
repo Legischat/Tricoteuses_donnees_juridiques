@@ -1,0 +1,144 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006613538",
+      "ANCIEN_ID": "RBAXXXXXXXX2X563R03AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/35/LEGIARTI000006613538.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R563-3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-07-14",
+        "DATE_FIN": "2012-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099186"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Inventaire forestier et recherche sur la forêt et le bois",
+              "@debut": "2006-07-14",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121962"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre VI : Dispositions particulières aux départements d'outre-mer.",
+                "@debut": "2006-07-14",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138757"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre III : Dispositions relatives au département de la Réunion.",
+                  "@debut": "2006-07-14",
+                  "@fin": "2012-07-01",
+                  "@id": "LEGISCTA000006152987"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "2006-07-14",
+          "@id": "LEGIARTI000006613537",
+          "@num": "R*563-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006613538",
+          "@num": "R563-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent livre, applicables au département de la Réunion, sont applicables aux îles Tromelin, Glorieuses, Juan de Nova et Europa.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°79-114 du 25 janvier 1979",
+        "@cidtexte": "JORFTEXT000000880704",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880704",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-114",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2006-871 du 12 juillet 2006 - art. 10 () JORF 14 juillet 2006",
+        "@cidtexte": "JORFTEXT000000609862",
+        "@datesignatexte": "2006-07-12",
+        "@id": "LEGIARTI000006253080",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRF0601025D",
+        "@num": "10",
+        "@numtexte": "2006-871",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2012-836\n du 29 juin 2012 - art. 6",
+        "@cidtexte": "JORFTEXT000026120331",
+        "@datesignatexte": "2012-06-29",
+        "@id": "LEGIARTI000026124107",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS1202581D",
+        "@num": "6",
+        "@numtexte": "2012-836",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

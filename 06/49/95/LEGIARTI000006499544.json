@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006499544",
+      "ANCIEN_ID": "PJHKMXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/95/LEGIARTI000006499544.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 99-600 du 15 juillet 1999 modifiant le décret no 53-935 du 30 septembre 1953 modifiant certaines dispositions relatives à l'organisation des juridictions administratives",
+          "@c_titre_court": "Décret n°99-600 du 15 juillet 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000760034"
+        },
+        {
+          "#text": "Décret n°99-600 du 15 juillet 1999 modifiant le décret n° 53-935 du 30 septembre 1953 modifiant certaines dispositions relatives à l'organisation des juridictions administratives",
+          "@c_titre_court": "Décret n°99-600 du 15 juillet 1999",
+          "@debut": "1999-07-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005628212"
+        }
+      ],
+      "@cid": "JORFTEXT000000760034",
+      "@date_publi": "1999-07-17",
+      "@date_signature": "1999-07-15",
+      "@ministere": "MINISTERE DE LA JUSTICE",
+      "@nature": "DECRET",
+      "@nor": "JUSX9900069D",
+      "@num": "99-600"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006499544",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 53-935 1953-09-30",
+        "@cidtexte": "JORFTEXT000000675519",
+        "@datesignatexte": "1953-09-30",
+        "@id": "JORFTEXT000000675519",
+        "@naturetexte": "DECRET",
+        "@numtexte": "53-935",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°53-935 du 30 septembre 1953 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000675519",
+        "@datesignatexte": "1953-09-30",
+        "@id": "LEGIARTI000006498255",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "53-935",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

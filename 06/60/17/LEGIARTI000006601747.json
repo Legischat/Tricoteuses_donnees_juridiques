@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006601747",
+      "ANCIEN_ID": "RAHAJXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/17/LEGIARTI000006601747.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-03-02",
+        "DATE_FIN": "1996-03-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°88-201 du 1 mars 1988 RELATIF AUX CONTRATS-TYPES D'INTEGRATION DANS LE DOMAINE DE L'ELEVAGE",
+          "@c_titre_court": "Décret n°88-201 du 1 mars 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000872073"
+        },
+        {
+          "#text": "Décret n°88-201 du 1 mars 1988 relatif aux contrats types d'intégration dans le domaine de l'élevage",
+          "@c_titre_court": "Décret n°88-201 du 1 mars 1988",
+          "@debut": "1988-03-02",
+          "@fin": "1996-03-17",
+          "@id_txt": "LEGITEXT000006066447"
+        }
+      ],
+      "@cid": "JORFTEXT000000872073",
+      "@date_publi": "1988-03-02",
+      "@date_signature": "1988-03-01",
+      "@nature": "DECRET",
+      "@nor": "AGRP8800081D",
+      "@num": "88-201"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-02",
+          "@etat": "ABROGE",
+          "@fin": "1996-03-17",
+          "@id": "LEGIARTI000006601747",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le contrat type définit les modalités de révision du contrat en cas de maladie, d'accident ou de décès de l'exploitant agricole.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural R326-8",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 64-678 1964-07-06",
+        "@cidtexte": "JORFTEXT000000880013",
+        "@datesignatexte": "1964-07-06",
+        "@id": "JORFTEXT000000880013",
+        "@naturetexte": "LOI",
+        "@numtexte": "64-678",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996",
+        "@cidtexte": "JORFTEXT000000558907",
+        "@datesignatexte": "1996-03-15",
+        "@id": "LEGIARTI000006605013",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD9502507D",
+        "@num": "3",
+        "@numtexte": "96-205",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. R326-8 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006591259",
+        "@naturetexte": "CODE",
+        "@num": "R326-8",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

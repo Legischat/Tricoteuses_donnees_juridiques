@@ -1,0 +1,155 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580647",
+      "ANCIEN_ID": "RAA0XXXXXXX1002CAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/06/LEGIARTI000006580647.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1002-2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1999-07-10",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Mutualité sociale agricole",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121386"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-02-11",
+          "@etat": "MODIFIE",
+          "@fin": "1999-07-10",
+          "@id": "LEGIARTI000006580646",
+          "@num": "1002-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-07-10",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006580647",
+          "@num": "1002-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de fusion de plusieurs caisses de mutualité sociale agricole, la circonscription de la nouvelle caisse ainsi créée est constituée par l'ensemble des circonscriptions des caisses fusionnées. Les modalités selon lesquelles sont attribués les biens, droits et obligations des caisses intéressées par la fusion sont fixées par décret. Les opérations entraînées par ce transfert, qui n'apporte aucune modification à l'affectation définitive des ressources attribuées à chacun des régimes précédemment gérés par lesdites caisses, bénéficient de l'exonération prévue par l'article 1085 du code général des impôts.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1085",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural L723-4",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°99-574 du 9 juillet 1999 - art. 54 () JORF 10 juillet 1999",
+        "@cidtexte": "JORFTEXT000000395813",
+        "@datesignatexte": "1999-07-09",
+        "@id": "LEGIARTI000006600391",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9800053L",
+        "@num": "54",
+        "@numtexte": "99-574",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Rapport - art. 6 (V) JORF 22 juin 2000",
+        "@cidtexte": "JORFTEXT000000583733",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006601338",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRX0000054R",
+        "@num": "6",
+        "@numtexte": "2000-550",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 2003-591 2003-07-02 art. 31",
+        "@cidtexte": "JORFTEXT000000422094",
+        "@datesignatexte": "2003-07-02",
+        "@id": "JORFTEXT000000422094",
+        "@naturetexte": "LOI",
+        "@nortexte": "FPPX0300014L",
+        "@numtexte": "2003-591",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code rural - art. L723-4 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006585250",
+        "@naturetexte": "CODE",
+        "@num": "L723-4",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

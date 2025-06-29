@@ -1,0 +1,139 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006610902",
+      "ANCIEN_ID": "RBAXXXXXXXX1X323L01AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/09/LEGIARTI000006610902.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L323-1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-02-07",
+        "DATE_FIN": "2001-07-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099185"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre III : Conservation et police des bois et forêts en général.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121943"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Défense et lutte contre les incendies.",
+                "@debut": "1979-02-07",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138689"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre III : Constatation des infractions.",
+                  "@debut": "1979-02-07",
+                  "@fin": "2012-07-01",
+                  "@id": "LEGISCTA000006152827"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "2001-07-11",
+          "@id": "LEGIARTI000006610902",
+          "@num": "L323-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-07-11",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006610903",
+          "@num": "L323-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les infractions aux dispositions législatives et réglementaires relatives à la protection, à la défense et à la lutte contre les incendies de bois, forêts, landes, maquis, plantations ou reboisements, notamment à celles du présent titre, sont constatées :<br/>\n<br/>   - par les officiers et agents de police judiciaire ;<br/>\n<br/>   - par les ingénieurs du génie rural, des eaux et des forêts, les ingénieurs des travaux des eaux et forêts ;<br/>\n<br/>   - par les techniciens et agents de l'Etat chargés des forêts ;<br/>\n<br/>   - par les agents assermentés de l'Office national des forêts ;<br/>\n<br/>   - par les gardes-chasse commissionnés par décision ministérielle ;<br/>\n<br/>   - par les gardes-pêche commissionnés par décision ministérielle ;<br/>\n<br/>   - par les agents des directions départementales de protection civile et les officiers et gradés professionnels des services d'incendie et de secours commissionnés à cet effet par le préfet et assermentés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-113 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code forestier - art. L322-12 (VT)",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006610900",
+        "@naturetexte": "CODE",
+        "@num": "L322-12",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code forestier 185-2",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071514",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

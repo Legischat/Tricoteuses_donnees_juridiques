@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006603203",
+      "ANCIEN_ID": "ADIAKXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/32/LEGIARTI000006603203.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-05-21",
+        "DATE_FIN": "1988-06-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 mai 1974 relatif aux modalités d'agrément des organisations de défense des consommateurs",
+          "@c_titre_court": "Arrêté du 17 mai 1974",
+          "@debut": "1974-05-21",
+          "@fin": "1988-06-30",
+          "@id_txt": "LEGITEXT000006071377"
+        }
+      ],
+      "@cid": "LEGITEXT000006071377",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-05-17",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-05-21",
+          "@etat": "ABROGE",
+          "@fin": "1988-06-30",
+          "@id": "LEGIARTI000006603203",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La demande de renouvellement d'agrément doit être déposée pendant le huitième mois précédant la date d'expiration de l'agrément en cours. Elle est accompagnée d'un dossier contenant la mise à jour des documents déposés lors de la demande initiale.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-06-21 art. 4 JORF 30 juin 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 74-491 1974-05-17",
+        "@cidtexte": "JORFTEXT000000512105",
+        "@datesignatexte": "1974-05-17",
+        "@id": "JORFTEXT000000512105",
+        "@naturetexte": "DECRET",
+        "@numtexte": "74-491",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

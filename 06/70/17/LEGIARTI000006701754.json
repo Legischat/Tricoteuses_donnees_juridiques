@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006701754",
+      "ANCIEN_ID": "AFEBPXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/17/LEGIARTI000006701754.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-07-13",
+        "DATE_FIN": "1984-06-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°75-628 du 11 juillet 1975 RELATIVE AU CREDIT MARITIME MUTUEL",
+          "@c_titre_court": "Loi n°75-628 du 11 juillet 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000888297"
+        },
+        {
+          "#text": "Loi n° 75-628 du 11 juillet 1975 relative au crédit maritime mutuel",
+          "@c_titre_court": "Loi n° 75-628 du 11 juillet 1975",
+          "@debut": "1975-07-13",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068527"
+        }
+      ],
+      "@cid": "JORFTEXT000000888297",
+      "@date_publi": "1975-07-13",
+      "@date_signature": "1975-07-11",
+      "@nature": "LOI",
+      "@num": "75-628"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-07-13",
+          "@etat": "ABROGE",
+          "@fin": "1984-06-16",
+          "@id": "LEGIARTI000006701754",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les caisses régionales et les unions exercent leurs activités conformément aux orientations économiques et sociales définies par le ministre chargé de la marine marchande dans des conditions déterminées par le décret prévu à l'article 20.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°75-628 du 11 juillet 1975 - art. 16 (MMN)",
+        "@cidtexte": "JORFTEXT000000888297",
+        "@datesignatexte": "1975-07-11",
+        "@id": "LEGIARTI000006701851",
+        "@naturetexte": "LOI",
+        "@num": "16",
+        "@numtexte": "75-628",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°75-628 du 11 juillet 1975 - art. 20 (Ab)",
+        "@cidtexte": "JORFTEXT000000888297",
+        "@datesignatexte": "1975-07-11",
+        "@id": "LEGIARTI000006701885",
+        "@naturetexte": "LOI",
+        "@num": "20",
+        "@numtexte": "75-628",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L512-72 (M)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006655665",
+        "@naturetexte": "CODE",
+        "@num": "L512-72",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

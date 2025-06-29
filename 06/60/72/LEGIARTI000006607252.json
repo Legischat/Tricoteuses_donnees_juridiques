@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607252",
+      "ANCIEN_ID": "ADICRXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/72/LEGIARTI000006607252.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-08-05",
+        "DATE_FIN": "1982-10-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 août 1982 relatif aux prix à la distribution et à l'importation de certains produits",
+          "@c_titre_court": "Arrêté du 4 août 1982",
+          "@debut": "1982-08-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071440"
+        }
+      ],
+      "@cid": "LEGITEXT000006071440",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-08-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-08-05",
+          "@etat": "ABROGE",
+          "@fin": "1982-10-23",
+          "@id": "LEGIARTI000006607252",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les produits énumérés à l'article 2 du présent arrêté et nonobstant toutes dispositions contraires, les entreprises de distribution ne peuvent pratiquer des prix supérieurs à ceux qui résultent de l'application d'un taux de marge hors T.V.A. identique à celui pratiqué avant le 11 juin 1982, ou, à défaut, à celui pratiqué avant cette date sur des produits comparables, diminués des pourcentages suivants :<br/>\n<br/>   1 p. 100, si la marge hors T.V.A. était supérieure à 5 p. 100 et inférieure ou égale à 10 p. 100 ;<br/>\n<br/>   1,5 p. 100, si la marge hors T.V.A. était supérieure à 10 p. 100 et inférieure ou égale à 15 p. 100 ;<br/>\n<br/>   2 p. 100, si la marge hors T.V.A. était supérieure à 15 p. 100 et inférieure ou égale à 25 p. 100 ;<br/>\n<br/>   3 p. 100, si la marge hors T.V.A. dépassait 25 p. 100.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 69/A 1982-08-04 BOCC n° 19, 5 août 1982",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 69/A 1982-08-04 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 97/A 1982-10-22 BOCC n° 25, 23 octobre 1982",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

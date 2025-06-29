@@ -1,0 +1,75 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006328195",
+      "ANCIEN_ID": "FAISMXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/81/LEGIARTI000006328195.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-09-01",
+        "DATE_FIN": "1987-01-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 juillet 1986 portant fixation du prix de revente de l'alcool de betterave acheté par l'Etat",
+          "@c_titre_court": "Arrêté du 28 juillet 1986",
+          "@debut": "1986-09-01",
+          "@fin": "1987-01-27",
+          "@id_txt": "LEGITEXT000006070013"
+        }
+      ],
+      "@cid": "LEGITEXT000006070013",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-07-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-09-01",
+          "@etat": "ABROGE",
+          "@fin": "1987-01-27",
+          "@id": "LEGIARTI000006328195",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'alcool de betterave est vendu par l'Etat aux revendeurs à un prix minimal de 330 F l'hectolitre d'alcool brut.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-07-28 JORF 5 août 1986 en vigueur le 1er septembre 1986) A(Arrêté 1987-01-19 art. 2 JORF 27 janvier 1987",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°85-695 du 11 juillet 1985 - art. 19, v. init.",
+        "@cidtexte": "JORFTEXT000000693456",
+        "@datesignatexte": "1985-07-11",
+        "@id": "JORFARTI000002104820",
+        "@naturetexte": "LOI",
+        "@num": "19",
+        "@numtexte": "85-695",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006272394",
+      "ANCIEN_ID": "AAEAAXXXXXX033AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/23/LEGIARTI000006272394.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "33",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-10-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692245"
+        },
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "1964-04-01",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006068288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Règles de fonctionnement des diverses sociétés commerciales",
+            "@debut": "1964-04-01",
+            "@fin": "2003-01-01",
+            "@id": "LEGISCTA000006083319"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 2 : Sociétés en commandite simple.",
+              "@debut": "1967-04-01",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006113826"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000692245",
+      "@date_publi": "1966-07-26",
+      "@date_signature": "1966-07-24",
+      "@nature": "LOI",
+      "@num": "66-537"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-07-13",
+          "@etat": "MODIFIE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006272392",
+          "@num": "33",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1994-10-01",
+          "@id": "LEGIARTI000006272393",
+          "@num": "33",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006272394",
+          "@num": "33",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de redressement ou de liquidation judiciaire d'un des associés commandités, d'interdiction d'exercer une profession commerciale ou d'incapacité frappant l'un des associés commandités, la société est dissoute [*durée*], à moins que, s'il existe un ou plusieurs autres associés commandités, la continuation de la société ne soit prévue par les statuts [*contenu*] ou que les associés ne la décident, à l'unanimité. Dans ce cas, les dispositions du deuxième alinéa de l'article 22 sont applicables.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 22",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°94-475 du 10 juin 1994 - art. 97 () JORF 11 juin 1994 en vigueur au plus tard le 1er octobre 1994",
+        "@cidtexte": "JORFTEXT000000731608",
+        "@datesignatexte": "1994-06-10",
+        "@id": "LEGIARTI000006403120",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9400223L",
+        "@num": "97",
+        "@numtexte": "94-475",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L222-11 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006222827",
+        "@naturetexte": "CODE",
+        "@num": "L222-11",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

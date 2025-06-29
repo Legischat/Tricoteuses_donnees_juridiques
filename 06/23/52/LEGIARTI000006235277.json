@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006235277",
+      "ANCIEN_ID": "PAHJNXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/23/52/LEGIARTI000006235277.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-10-20",
+        "DATE_FIN": "2015-02-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2004-1102 du 15 octobre 2004  portant règlement du service de garnison",
+          "@c_titre_court": "Décret n° 2004-1102 du 15 octobre 2004",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000625234"
+        },
+        {
+          "#text": "Décret n°2004-1102 du 15 octobre 2004 portant règlement du service de garnison.",
+          "@c_titre_court": "Décret n°2004-1102 du 15 octobre 2004",
+          "@debut": "2004-10-20",
+          "@fin": "2015-02-28",
+          "@id_txt": "LEGITEXT000005862321"
+        }
+      ],
+      "@cid": "JORFTEXT000000625234",
+      "@date_publi": "2004-10-20",
+      "@date_signature": "2004-10-15",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "DECRET",
+      "@nor": "DEFD0401067D",
+      "@num": "2004-1102"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-10-20",
+          "@etat": "ABROGE",
+          "@fin": "2015-02-28",
+          "@id": "LEGIARTI000006235277",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001674205",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le service de garnison a pour objet :<br/>\n<br/>   1. D'assurer les relations de service entre les formations ou établissements des forces armées et des formations rattachées et les autorités civiles locales de la garnison ;<br/>\n<br/>   2. De répartir entre les formations l'utilisation des biens d'intérêt commun si aucune autre procédure n'en prévoit les modalités de répartition ;<br/>\n<br/>   3. De faire observer les règles de la discipline générale dans les armées par les militaires portant l'uniforme et circulant isolément dans la garnison à l'extérieur des enceintes militaires ;<br/>\n<br/>   4. De régler la participation aux charges et obligations incombant à l'ensemble des formations ;<br/>\n<br/>   5. De régler la participation militaire aux cérémonies organisées par une autorité publique de la garnison ;<br/>\n<br/>   6. D'assurer des missions de protection nécessaires à la sécurité des forces armées et des formations rattachées selon les termes de l'article 13.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n° 2004-1102 du 15 octobre 2004 - art. 13",
+        "@cidtexte": "JORFTEXT000000625234",
+        "@datesignatexte": "2004-10-15",
+        "@id": "JORFARTI000001866805",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFD0401067D",
+        "@num": "13",
+        "@numtexte": "2004-1102",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "DÉCRET n°2015-213 du 25 février 2015 - art. 23 (V)",
+        "@cidtexte": "JORFTEXT000030289518",
+        "@datesignatexte": "2015-02-25",
+        "@id": "LEGIARTI000030291134",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFD1502513D",
+        "@num": "23",
+        "@numtexte": "2015-213",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006870167",
+      "ANCIEN_ID": "AIIFVXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/01/LEGIARTI000006870167.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-06-25",
+        "DATE_FIN": "1986-11-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 juin 1986 relatif au prix de vente au stade de détail de certains fruits et légumes frais",
+          "@c_titre_court": "Arrêté du 24 juin 1986",
+          "@debut": "1986-06-25",
+          "@fin": "1986-11-24",
+          "@id_txt": "LEGITEXT000006074900"
+        }
+      ],
+      "@cid": "LEGITEXT000006074900",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-06-24",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-06-25",
+          "@etat": "ABROGE",
+          "@fin": "1986-11-24",
+          "@id": "LEGIARTI000006870167",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent arrêté n'est pas applicable dans les départements d'outre-mer.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 84-73/A 1984-11-19 art. 4",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté 86-26/A 1986-06-24 BOCC n° 9, 25 juin 1986",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 86-54/A 1986-11-24 BOCC n° 22, 24 novembre 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

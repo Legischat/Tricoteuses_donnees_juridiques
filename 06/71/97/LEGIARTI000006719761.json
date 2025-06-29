@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006719761",
+      "ANCIEN_ID": "AFGAAXXXXXX057ABXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/97/LEGIARTI000006719761.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "57-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-01-01",
+        "DATE_FIN": "1985-07-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "1992-01-01",
+          "@fin": "2006-04-01",
+          "@id_txt": "LEGITEXT000006072897"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre X : Des protêts.",
+            "@debut": "1973-01-01",
+            "@fin": "2001-01-01",
+            "@id": "LEGISCTA000006105007"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072897",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1935-10-30",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1976-01-01",
+          "@id": "LEGIARTI000006719760",
+          "@num": "57-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1985-07-12",
+          "@id": "LEGIARTI000006719761",
+          "@num": "57-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006719762",
+          "@num": "57-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La signification faite au tireur du protêt dressé faute de paiement pour défaut ou insuffisance de provision vaut commandement de payer.<br/>\n<br/>   S'il n'y a pas de paiement dans un délai de vingt jours à compter de la signification prévue à l'alinéa précédent, l'huissier peut, sans autre procédure, saisir les biens meubles du tireur.<br/>\n<br/>   A défaut de paiement à l'expiration d'un délai d'un mois après la saisie, le porteur du chèque peut faire procéder à la vente des objets saisis, sauf au débiteur à saisir la juridiction compétente en cas de difficulté.<br/>\n<br/>   Les frais résultant de la présentation du chèque par ministère d'huissier sont à la charge du tireur. Si la provision disponible est suffisante, ces frais sont payés par le tiré en même temps que le montant du chèque.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 75-4 1975-01-03 JORF 4 janvier 1975 rectificatif JORF 16 novembre 1975 en vigueur le 1er janvier 1976",
+        "@cidtexte": "JORFTEXT000000333973",
+        "@datesignatexte": "1975-01-03",
+        "@id": "JORFTEXT000000333973",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-4",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°85-695 du 11 juillet 1985 - art. 24 () JORF 12 juillet 1985",
+        "@cidtexte": "JORFTEXT000000693456",
+        "@datesignatexte": "1985-07-11",
+        "@id": "LEGIARTI000006317487",
+        "@naturetexte": "LOI",
+        "@num": "24",
+        "@numtexte": "85-695",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L132-1 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006645632",
+        "@naturetexte": "CODE",
+        "@num": "L132-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

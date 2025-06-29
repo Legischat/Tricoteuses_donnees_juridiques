@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006876605",
+      "ANCIEN_ID": "AIIJEXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/66/LEGIARTI000006876605.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-12-04",
+        "DATE_FIN": "2002-09-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 novembre 1986 relatif au traitement par rayonnements ionisants de sang animal, de plasma et de cruor déshydratés",
+          "@c_titre_court": "Arrêté du 19 novembre 1986",
+          "@debut": "1986-12-04",
+          "@fin": "2002-09-07",
+          "@id_txt": "LEGITEXT000006074958"
+        }
+      ],
+      "@cid": "LEGITEXT000006074958",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-11-19",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-04",
+          "@etat": "ABROGE",
+          "@fin": "2002-09-07",
+          "@id": "LEGIARTI000006876605",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La dose absorbée par les produits mentionnés à l'article 1er au cours de ce traitement ne doit pas excéder dix kilograys (kGy) et doit permettre d'assurer la décontamination microbienne de ces produits afin qu'ils soient conformes aux critères microbiologiques prévus à l'article 4.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-11-19 art. 1, art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 août 2002 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000410150",
+        "@datesignatexte": "2002-08-20",
+        "@id": "LEGIARTI000021244775",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC0200067A",
+        "@num": "4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

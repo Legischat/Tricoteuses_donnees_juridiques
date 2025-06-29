@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006638653",
+      "ANCIEN_ID": "RLIANXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/86/LEGIARTI000006638653.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1967-01-17",
+        "DATE_FIN": "1990-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 janvier 1967 relatif aux mesures financières relatives à la lutte contre la brucellose dans les espèces bovine, ovine et caprine",
+          "@c_titre_court": "Arrêté du 13 janvier 1967",
+          "@debut": "1967-01-17",
+          "@fin": "1990-07-01",
+          "@id_txt": "LEGITEXT000006072010"
+        }
+      ],
+      "@cid": "LEGITEXT000006072010",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1967-01-13",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-01-17",
+          "@etat": "ABROGE",
+          "@fin": "1990-07-01",
+          "@id": "LEGIARTI000006638653",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La participation de l'Etat aux dépenses résultant des opérations visées à l'article 3 est versée aux départements pour les opérations de police sanitaire. Elle peut être réglée directement aux vétérinaires pour les opérations de prophylaxique.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1967-01-13 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1990-07-06 art. 20 JORF 10 août 1990 en vigueur le 1er juillet 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 63-136 1963-02-18",
+        "@cidtexte": "JORFTEXT000000862731",
+        "@datesignatexte": "1963-02-18",
+        "@id": "JORFTEXT000000862731",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-136",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

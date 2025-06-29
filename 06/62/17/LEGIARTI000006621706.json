@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006621706",
+      "ANCIEN_ID": "ADILIXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/17/LEGIARTI000006621706.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-01-01",
+        "DATE_FIN": "2009-01-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 novembre 1974 relatif à la liste des personnes physiques et morales susceptibles d'être inscrites sur le répertoire des entreprises et des établissements",
+          "@c_titre_court": "Arrêté du 6 novembre 1974",
+          "@debut": "1975-01-01",
+          "@fin": "2009-01-21",
+          "@id_txt": "LEGITEXT000006071669"
+        }
+      ],
+      "@cid": "LEGITEXT000006071669",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-11-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2009-01-21",
+          "@id": "LEGIARTI000006621706",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La date d'entrée en vigueur du présent arrêté sera fixée, pour les personnes autres que celles visées à l'article 2, par décision conjointe du directeur général de l'institut national de la statistique et des études économiques et du directeur général des impôts (1).<br/>\n<br/>\n<br/>   (1) Le fonctionnement du répertoire national des entreprises et des établissements a débuté le 1er janvier 1975.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-11-06 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°73-314 du 14 mars 1973 - art. 1 (M)",
+        "@cidtexte": "JORFTEXT000000306534",
+        "@datesignatexte": "1973-03-14",
+        "@id": "LEGIARTI000006584825",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "73-314",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 14 janvier 2009 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000020152123",
+        "@datesignatexte": "2009-01-14",
+        "@id": "LEGIARTI000020154229",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSC0818602A",
+        "@num": "3",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

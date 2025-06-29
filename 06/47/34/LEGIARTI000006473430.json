@@ -1,0 +1,124 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006473430",
+      "ANCIEN_ID": "ACECAXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/47/34/LEGIARTI000006473430.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1803-03-16",
+        "DATE_FIN": "1971-12-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 16 mars 1803 contenant organisation du notariat",
+          "@c_titre_court": "Loi du 16 mars 1803",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000882738"
+        },
+        {
+          "#text": "Loi contenant organisation du notariat (loi 25 ventôse an XI)",
+          "@c_titre_court": "Loi du 16 mars 1803",
+          "@debut": "1803-03-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070994"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Des notaires et des actes notariés",
+            "@debut": "1803-03-16",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006092864"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section I : Des fonctions, ressort et devoirs des notaires.",
+              "@debut": "1803-03-16",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118859"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000882738",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1803-03-16",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1803-03-16",
+          "@etat": "ABROGE",
+          "@fin": "1971-12-03",
+          "@id": "LEGIARTI000006473430",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2011-03-30",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000023780878",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Chaque notaire devra résider dans le lieu qui lui sera fixé par le Gouvernement. En cas de contravention, le notaire sera considéré comme démissionnaire ; en conséquence, le grand-juge, ministre de la justice, après avoir pris l'avis du tribunal, pourra proposer au Gouvernement le remplacement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°71-942 du 26 novembre 1971 - art. 30 (V) JORF 3 décembre 1971",
+        "@cidtexte": "JORFTEXT000000694554",
+        "@datesignatexte": "1971-11-26",
+        "@id": "LEGIARTI000006920373",
+        "@naturetexte": "DECRET",
+        "@num": "30",
+        "@numtexte": "71-942",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1803-03-16 Bulletin des Lois, 3è S, B. 258, n° 2440",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°45-2590 du 2 novembre 1945 - art. 6-1 (V)",
+        "@cidtexte": "JORFTEXT000000699572",
+        "@datesignatexte": "1945-11-02",
+        "@id": "LEGIARTI000023780882",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "6-1",
+        "@numtexte": "45-2590",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

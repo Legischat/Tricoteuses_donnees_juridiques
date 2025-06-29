@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006667911",
+      "ANCIEN_ID": "SEIAJXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/79/LEGIARTI000006667911.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1938-06-05",
+        "DATE_FIN": "1985-03-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 juin 1938  CONCERNANT L'INSCRIPTION, PAR LES EMPLOYEURS, DES TRAVAILLEURS ETRANGERS SUR UN REGISTRE SPECIAL.",
+          "@c_titre_court": "Arrêté du 4 juin 1938",
+          "@debut": "1938-06-05",
+          "@fin": "1985-03-06",
+          "@id_txt": "LEGITEXT000006072095"
+        }
+      ],
+      "@cid": "LEGITEXT000006072095",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1938-06-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1938-06-05",
+          "@etat": "ABROGE",
+          "@fin": "1985-03-06",
+          "@id": "LEGIARTI000006667911",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseiller d'Etat, directeur général du travail et de la main-d'oeuvre, est chargé de l'exécution du présent arrêté qui annule les précédents en date des 20 janvier 1927 et 3 juin 1936.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1927-01-20 (ANNULE)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1936-06-03 (ANNULE)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1985-02-13 ART. 4 JORF 6 MARS 1985",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

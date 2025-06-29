@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006678407",
+      "ANCIEN_ID": "SHIHYXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/84/LEGIARTI000006678407.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-07-01",
+        "DATE_FIN": "1994-05-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 mars 1986 relatif aux informations et aux résultats d'essais à fournir en application du premier alinéa de l'article R. 231-51 du code du travail.",
+          "@c_titre_court": "Arrêté du 14 mars 1986",
+          "@debut": "1986-03-18",
+          "@fin": "1994-05-08",
+          "@id_txt": "LEGITEXT000006072610"
+        }
+      ],
+      "@cid": "LEGITEXT000006072610",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-03-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-18",
+          "@etat": "MODIFIE",
+          "@fin": "1989-07-01",
+          "@id": "LEGIARTI000006678406",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1994-05-08",
+          "@id": "LEGIARTI000006678407",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les essais sont réalisés en employant la substance à commercialiser, contenant éventuellement tout additif nécessaire à sa mise sur le marché.<br/>\n    La composition des échantillons utilisés est précisée dans le rapport d'essai.<br/>\n    Ces essais sont exécutés conformément aux méthodes des directives n° 84-449 C.E.E. et n° 87-302 C.E.E. de la commission susvisée ou à des méthodes équivalentes lorsqu'elles existent, notamment les normes Afnor, et conformément aux règles de bonnes pratiques de laboratoire de l'annexe II de la décision C. 81-30 (final) du conseil de l'Organisation de coopération et de développement économique susvisée.<br/>\n    Lorsque l'expérimentateur juge opportun d'y apporter certaines modifications, il est tenu d'en fournir la justification et d'en décrire avec précision le protocole expérimental.<br/>\n    Dans tous les cas, la description des méthodes employées ou la référence aux méthodes normalisées doit figurer dans le dossier technique.<br/>\n    Le nom du ou des organismes chargés des essais doit être également fourni.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1989-04-14 art. 1 JORF 25 avril 1989 en vigueur le 1er juillet 1989",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1994-04-20 art. 24 JORF 8 mai 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. R231-51 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006806506",
+        "@naturetexte": "CODE",
+        "@num": "R231-51",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Directive CEE Commission 84-449 1984-04-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Directive CEE Commission 87-302 1987-11-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

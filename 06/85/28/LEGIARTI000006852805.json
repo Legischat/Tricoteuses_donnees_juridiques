@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006852805",
+      "ANCIEN_ID": "UPHBTXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/28/LEGIARTI000006852805.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1985-02-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-35 du 15 janvier 1979 SUR LE CONTROLE DES PRODUITS CHIMIQUES",
+          "@c_titre_court": "Décret n°79-35 du 15 janvier 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000702827"
+        },
+        {
+          "#text": "Décret n°79-35 du 15 janvier 1979 sur le contrôle des produits chimiques",
+          "@c_titre_court": "Décret n°79-35 du 15 janvier 1979",
+          "@debut": "1979-07-01",
+          "@fin": "1985-02-17",
+          "@id_txt": "LEGITEXT000006063033"
+        }
+      ],
+      "@cid": "JORFTEXT000000702827",
+      "@date_publi": "1979-01-17",
+      "@date_signature": "1979-01-15",
+      "@nature": "DECRET",
+      "@num": "79-35"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1985-02-17",
+          "@id": "LEGIARTI000006852805",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>  Le cas échéant, le déclarant peut adresser en exemplaire unique et sous pli séparé les informations dont la diffusion lui apparaîtrait de nature à entraîner la divulgation des secrets de fabrication.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 77-771 1977-07-12",
+        "@cidtexte": "JORFTEXT000000522708",
+        "@datesignatexte": "1977-07-12",
+        "@id": "JORFTEXT000000522708",
+        "@naturetexte": "LOI",
+        "@numtexte": "77-771",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 85-217 1985-02-13 art. 22 JORF 17 février 1985",
+        "@cidtexte": "JORFTEXT000000699382",
+        "@datesignatexte": "1985-02-13",
+        "@id": "JORFTEXT000000699382",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-217",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté du 28 mai 1979 - art. 1 (Ab)",
+        "@cidtexte": "LEGITEXT000006074373",
+        "@datesignatexte": "1979-05-28",
+        "@id": "LEGIARTI000006859971",
+        "@naturetexte": "ARRETE",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

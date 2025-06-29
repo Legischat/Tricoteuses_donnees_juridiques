@@ -1,0 +1,138 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006424817",
+      "ANCIEN_ID": "ACAXXXXXXXX5X00311UAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/48/LEGIARTI000006424817.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "311-19",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1994-07-30",
+        "DATE_FIN": "2006-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Des personnes",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089697"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VII : De la filiation",
+              "@debut": "1972-08-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117789"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Dispositions communes à la filiation légitime et à la filiation naturelle",
+                "@debut": "1972-08-01",
+                "@fin": "2006-07-01",
+                "@id": "LEGISCTA000006136170"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 4 : De la procréation médicalement assistée.",
+                  "@debut": "1994-07-30",
+                  "@fin": "2006-07-01",
+                  "@id": "LEGISCTA000006150047"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-07-30",
+          "@etat": "MODIFIE",
+          "@fin": "2006-07-01",
+          "@id": "LEGIARTI000006424817",
+          "@num": "311-19",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-01",
+          "@etat": "ABROGE",
+          "@fin": "2021-08-04",
+          "@id": "LEGIARTI000006424818",
+          "@num": "311-19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de procréation médicalement assistée avec tiers donneur, aucun lien de filiation ne peut être établi entre l'auteur du don et l'enfant issu de la procréation.<br/>\n<br/>   Aucune action en responsabilité ne peut être exercée à l'encontre du donneur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1803-03-14",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 94-653 1994-07-29 art. 11 *champ d'application*",
+        "@cidtexte": "JORFTEXT000000549619",
+        "@datesignatexte": "1994-07-29",
+        "@id": "JORFTEXT000000549619",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9400024L",
+        "@numtexte": "94-653",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°94-653 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994",
+        "@cidtexte": "JORFTEXT000000549619",
+        "@datesignatexte": "1994-07-29",
+        "@id": "LEGIARTI000006284454",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9400024L",
+        "@num": "10",
+        "@numtexte": "94-653",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

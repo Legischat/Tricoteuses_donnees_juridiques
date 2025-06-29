@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006620640",
+      "ANCIEN_ID": "RGAXXXXXXXX5X00006AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/06/LEGIARTI000006620640.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1936-12-24",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du vin",
+          "@c_titre_court": "Code du vin",
+          "@debut": "1936-12-24",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006071657"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Définition.",
+            "@debut": "1936-12-24",
+            "@fin": "2003-09-06",
+            "@id": "LEGISCTA000006099616"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071657",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1936-12-24",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006620640",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Vins mousseux.<br/>\n<br/>   Indépendamment des manipulations et pratiques prévues à l'article 4 ci-dessus, sont considérés comme licites, en ce qui concerne spécialement les vins mousseux :<br/>\n<br/>   1° Les manipulations et traitements connus sous le nom de méthode champenoise ;<br/>\n<br/>   2° La gazéification partielle ou totale par addition d'acide carbonique pur.<br/>\n<br/>   Aucun vin ne peut être détenu ou transporté en vue de la vente, mis en vente ou vendu sous la dénomination de \"vin mousseux\", que si son effervescence résulte d'une seconde fermentation alcoolique en vase clos, soit spontanée, soit produite suivant la méthode champenoise.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du vin - art. 4 (M)",
+        "@cidtexte": "LEGITEXT000006071657",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006620637",
+        "@naturetexte": "CODE",
+        "@num": "4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 1921-08-19 art. 5",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 1936-12-01",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006699581",
+      "ANCIEN_ID": "AFEAXXXXXXX019AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/95/LEGIARTI000006699581.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1932-04-22",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 21 avril 1932 créant des warrants pétroliers",
+          "@c_titre_court": "Loi du 21 avril 1932",
+          "@debut": "1932-04-22",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072679"
+        }
+      ],
+      "@cid": "LEGITEXT000006072679",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1932-04-21",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1932-04-22",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006699581",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'application de la présente loi ne saurait :<br/>\n<br/>   a) Justifier la moindre dérogation aux obligations imposées par les lois du 30 janvier 1925 et du 30 mars 1928 et leurs décrets d'application aux titulaires d'autorisations spéciales, en particulier en ce qui concerne la constitution et la répartition des stocks de réserves ;<br/>\n<br/>   b) Atténuer, en cas d'infraction à ces obligations, la responsabilité des titulaires d'autorisations spéciales ;<br/>\n<br/>   c) Faire obstacle au prononcé de la déchéance de l'autorisation spéciale dans les conditions et formes prévues par le paragraphe g de l'article 3 de la loi du 30 mars 1928.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de commerce. - art. L524-20 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234697",
+        "@naturetexte": "CODE",
+        "@num": "L524-20",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 1925-01-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1928-03-30 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

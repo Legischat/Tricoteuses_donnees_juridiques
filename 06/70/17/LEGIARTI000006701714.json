@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006701714",
+      "ANCIEN_ID": "AFEBPXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/17/LEGIARTI000006701714.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1975-07-13",
+        "DATE_FIN": "1984-06-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°75-628 du 11 juillet 1975 RELATIVE AU CREDIT MARITIME MUTUEL",
+          "@c_titre_court": "Loi n°75-628 du 11 juillet 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000888297"
+        },
+        {
+          "#text": "Loi n° 75-628 du 11 juillet 1975 relative au crédit maritime mutuel",
+          "@c_titre_court": "Loi n° 75-628 du 11 juillet 1975",
+          "@debut": "1975-07-13",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068527"
+        }
+      ],
+      "@cid": "JORFTEXT000000888297",
+      "@date_publi": "1975-07-13",
+      "@date_signature": "1975-07-11",
+      "@nature": "LOI",
+      "@num": "75-628"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-07-13",
+          "@etat": "MODIFIE",
+          "@fin": "1984-06-16",
+          "@id": "LEGIARTI000006701714",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-06-16",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006701715",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le crédit maritime mutuel est pratiqué par deux catégories d'établissements de crédit à statut légal spécial :<br/>\n<br/>   Les caisses régionales de crédit maritime mutuel ;<br/>\n<br/>   Les unions que les caisses régionales de crédit maritime mutuel peuvent former entre elles et éventuellement avec les groupements définis à l'article 9 ci-dessous ainsi qu'avec les organismes dont la gestion financière et comptable est centralisée ou contrôlée par la caisse centrale de crédit coopératif.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°75-628 du 11 juillet 1975 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000888297",
+        "@datesignatexte": "1975-07-11",
+        "@id": "LEGIARTI000006701722",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "75-628",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°75-628 du 11 juillet 1975 - art. 9 (M)",
+        "@cidtexte": "JORFTEXT000000888297",
+        "@datesignatexte": "1975-07-11",
+        "@id": "LEGIARTI000006701782",
+        "@naturetexte": "LOI",
+        "@num": "9",
+        "@numtexte": "75-628",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L512-69 (M)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006655630",
+        "@naturetexte": "CODE",
+        "@num": "L512-69",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

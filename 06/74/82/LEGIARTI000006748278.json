@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006748278",
+      "ANCIEN_ID": "AFIADXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/74/82/LEGIARTI000006748278.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1957-01-01",
+        "DATE_FIN": "1980-07-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 décembre 1956 relatif à l'application de l'article 17 de la loi du 2 août 1956",
+          "@c_titre_court": "Arrêté du 27 décembre 1956",
+          "@debut": "1957-01-01",
+          "@fin": "1980-07-06",
+          "@id_txt": "LEGITEXT000006073195"
+        }
+      ],
+      "@cid": "LEGITEXT000006073195",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1956-12-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1957-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1980-07-06",
+          "@id": "LEGIARTI000006748278",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Les établissements, entreprises ou organismes soumis aux dispositions du présent arrêté ne peuvent directement ou indirectement, par quelque moyen que ce soit, payer sur les fonds reçus du public, sous forme de dépôt ou autrement, des intérêts à des taux supérieurs à ceux qui sont fixés par l'article 1er de l'arrêté du 4 juillet 1979.<br/>\n<br/>       Pour toute opération d'une durée comprise entre deux échéances prévues par ledit arrêté du 19 juin 1952, le taux maximum susceptible d'être appliqué [*calcul*] est celui qui concerne celle de ces deux échéances la moins éloignée du dépôt.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1952-06-19",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1969-06-20 JORF 27 juin 1969 rectificatif JORF 28 juin 1969 en vigueur le 1er juin 1969",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1979-07-04 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 56-760 1956-08-02",
+        "@cidtexte": "JORFTEXT000000309724",
+        "@datesignatexte": "1956-08-02",
+        "@id": "JORFTEXT000000309724",
+        "@naturetexte": "LOI",
+        "@numtexte": "56-760",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

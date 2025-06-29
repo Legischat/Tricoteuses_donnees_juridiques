@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006927805",
+      "ANCIEN_ID": "UTHINXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/78/LEGIARTI000006927805.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-03-10",
+        "DATE_FIN": "2001-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 93-427 du 17 mars 1993 modifiant le décret n° 90-384 du 23 avril 1990 relatif à la chambre territoriale des comptes de Nouvelle-Calédonie",
+          "@c_titre_court": "Décret n°93-301 du 8 mars 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000362341"
+        },
+        {
+          "#text": "Décret n°93-301 du 8 mars 1993 portant extension et adaptation du code de la route (deuxième partie : Réglementaire) dans la collectivité territoriale de Mayotte",
+          "@c_titre_court": "Décret n°93-301 du 8 mars 1993",
+          "@debut": "1993-03-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006081343"
+        }
+      ],
+      "@cid": "JORFTEXT000000362341",
+      "@date_publi": "1993-03-10",
+      "@date_signature": "1993-03-08",
+      "@nature": "DECRET",
+      "@nor": "DOMP9300006D",
+      "@num": "93-301"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-10",
+          "@etat": "ABROGE",
+          "@fin": "2001-06-01",
+          "@id": "LEGIARTI000006927805",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001001826",
+          "@num": "8",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'application de l'article R. 56, les mots : \" 13 tonnes \" sont remplacés par les mots : \" 11 tonnes \".<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2001-251 2001-03-22 art. 5 16° JORF 25 mars 2001 en vigueur le 1er juin 2001",
+        "@cidtexte": "JORFTEXT000000578193",
+        "@datesignatexte": "2001-03-22",
+        "@id": "JORFTEXT000000578193",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS0100055D",
+        "@numtexte": "2001-251",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R56",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862147",
+      "ANCIEN_ID": "UPIJGXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/21/LEGIARTI000006862147.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-31",
+        "DATE_FIN": "1980-12-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 juin 1979 portant interdiction d'inscription au registre français d'immatriculation des avions à réaction subsoniques dépourvus de certification de limitation des nuisances.",
+          "@c_titre_court": "Arrêté du 6 juin 1979",
+          "@debut": "1979-07-31",
+          "@fin": "1980-12-20",
+          "@id_txt": "LEGITEXT000006074543"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Conditions techniques.",
+            "@debut": "1979-07-31",
+            "@fin": "1980-12-20",
+            "@id": "LEGISCTA000006110185"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074543",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-06-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-31",
+          "@etat": "ABROGE",
+          "@fin": "1980-12-20",
+          "@id": "LEGIARTI000006862147",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les conditions techniques de délivrance du certificat de type de limitation de nuisances sont fondées sur celles qui figurent dans les première et deuxième parties de l'annexe 16 (amendement 1 inclus) à la convention relative à l'aviation civile internationale, signée à Chicago le 7 décembre 1944, ou les conditions techniques inscrites dans la réglementation française et appropriées au type d'avion si le postulant en fait la demande.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1980-11-12 art. 4 JONC 20 décembre 1980",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'aviation civile R133-1 R133-2 R133-3",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074234",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Convention 1944-12-07 Chicago ANNEXE 16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

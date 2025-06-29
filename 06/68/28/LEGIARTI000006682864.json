@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006682864",
+      "ANCIEN_ID": "SMHADXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/28/LEGIARTI000006682864.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-05-08",
+        "DATE_FIN": "2004-10-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°54-1128 du 15 novembre 1954 MAJORATION D'ALLOCATIONS D'AIDE SOCIALE",
+          "@c_titre_court": "Décret n°54-1128 du 15 novembre 1954",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000691553"
+        },
+        {
+          "#text": "Décret n°54-1128 du 15 novembre 1954  PORTANT MAJORATION D'ALLOCATIONS D'AIDE SOCIALE.",
+          "@c_titre_court": "Décret n°54-1128 du 15 novembre 1954",
+          "@debut": "1954-11-16",
+          "@fin": "2004-10-26",
+          "@id_txt": "LEGITEXT000006060685"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "AIDE SOCIALE AUX PERSONNES AGEES.",
+            "@debut": "1962-04-15",
+            "@fin": "2004-10-26",
+            "@id": "LEGISCTA000006103214"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000691553",
+      "@date_publi": "1954-11-16",
+      "@date_signature": "1954-11-15",
+      "@nature": "DECRET",
+      "@num": "54-1128"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-12-13",
+          "@etat": "MODIFIE",
+          "@fin": "1980-04-05",
+          "@id": "LEGIARTI000006682863",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-05-08",
+          "@etat": "ABROGE",
+          "@fin": "2004-10-26",
+          "@id": "LEGIARTI000006682864",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant de l'allocation simple à domicile attribuée aux personnes âgées en application de l'article 1er du décret n° 62-443 du 14 avril 1962 est fixé au niveau du montant de l'allocation aux vieux travailleurs salariés.<br/>\n<br/>   L'allocation simple à domicile ne peut se cumuler avec un avantage vieillesse et est cumulable avec les ressources personnelles dont peuvent disposer les requérants dans la limite du même plafond de ressources que pour l'allocation aux vieux travailleurs salariés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 62-443 1962-04-14 ART. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°54-1128 du 15 novembre 1954 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000691553",
+        "@datesignatexte": "1954-11-15",
+        "@id": "LEGIARTI000006682868",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "54-1128",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 80-943 1980-11-26 art. 1 JORF 28 novembre 1980",
+        "@cidtexte": "JORFTEXT000000862709",
+        "@datesignatexte": "1980-11-26",
+        "@id": "JORFTEXT000000862709",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-943",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V) JORF 26 octobre 2004",
+        "@cidtexte": "JORFTEXT000000441044",
+        "@datesignatexte": "2004-10-21",
+        "@id": "LEGIARTI000006235407",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SOCA0422170D",
+        "@num": "4",
+        "@numtexte": "2004-1136",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'action sociale et des familles - art. R231-1 (V)",
+        "@cidtexte": "LEGITEXT000006074069",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006905598",
+        "@naturetexte": "CODE",
+        "@num": "R231-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'action sociale et des familles - art. R231-1 (M)",
+        "@cidtexte": "LEGITEXT000006074069",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006905597",
+        "@naturetexte": "CODE",
+        "@num": "R231-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "LOI 1971-07-16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

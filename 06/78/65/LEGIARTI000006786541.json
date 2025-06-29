@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006786541",
+      "ANCIEN_ID": "SSIBAHXXXXX006AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/65/LEGIARTI000006786541.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1999-07-10",
+        "DATE_FIN": "2018-10-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 juillet 1989 FIXANT LES CONDITIONS D'APPLICATION DU REGIME DE SECURITE SOCIALE DES ETUDIANTS",
+          "@c_titre_court": "Arrêté du 28 juillet 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000479778"
+        },
+        {
+          "#text": "Arrêté du 28 juillet 1989 fixant les conditions d'application du régime de sécurité sociale des étudiants",
+          "@c_titre_court": "Arrêté du 28 juillet 1989",
+          "@debut": "1989-10-01",
+          "@fin": "2018-10-28",
+          "@id_txt": "LEGITEXT000006059086"
+        }
+      ],
+      "@cid": "JORFTEXT000000479778",
+      "@date_publi": "1989-08-03",
+      "@date_signature": "1989-07-28",
+      "@nature": "ARRETE",
+      "@nor": "SPSS8901609A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-10-01",
+          "@etat": "MODIFIE",
+          "@fin": "1999-10-01",
+          "@id": "LEGIARTI000006786540",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-07-10",
+          "@etat": "ABROGE",
+          "@fin": "2018-10-28",
+          "@id": "LEGIARTI000006786541",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les administrations de tutelle sont chargées d'une mission de contrôle périodique auprès des établissements inscrits sur la liste prévue à l'article L381-5 du code de la sécurité sociale. Cette inscription peut être retirée s'il apparaît que la situation ou le fonctionnement de l'établissement n'en justifie plus le maintien.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1999-06-29 art. 3 JORF 10 juillet 1999 en vigueur le 1er octobre 1999",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 25 octobre 2018 - art. 5",
+        "@cidtexte": "JORFTEXT000037534476",
+        "@datesignatexte": "2018-10-25",
+        "@id": "LEGIARTI000037535313",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ESRS1827701A",
+        "@num": "5",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006766011",
+      "ANCIEN_ID": "SSHAJSXXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/60/LEGIARTI000006766011.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-08-14",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°77-930 du 4 août 1977 RELATIF A LA STRUCTURE DE L'ORGANISATION AUTONOME D'ASSURANCE VIEILLESSE DES TRAVAILLEURS NON SALARIES DES PROFESSIONS ARTISANALES",
+          "@c_titre_court": "Décret n°77-930 du 4 août 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000701225"
+        },
+        {
+          "#text": "Décret n°77-930 du 4 août 1977  RELATIF A LA STRUCTURE DE L'ORGANISATION AUTONOME D'ASSURANCE VIEILLESSE DES TRAVAILLEURS NON-SALARIES DES PROFESSIONS ARTISANALES.",
+          "@c_titre_court": "Décret n°77-930 du 4 août 1977",
+          "@debut": "1977-08-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062747"
+        }
+      ],
+      "@cid": "JORFTEXT000000701225",
+      "@date_publi": "1977-08-14",
+      "@date_signature": "1977-08-04",
+      "@nature": "DECRET",
+      "@num": "77-930"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-08-14",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006766011",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "L'organisation autonome d'assurance vieillesse des travailleurs<br/>\n non-salariés des professions artisanales comprend [*composition*] :<br/>\n    1° Une caisse nationale ;<br/>\n    2° Des caisses de base, professionnelles ou interprofessionnelles ;<br/>\n    3° Eventuellement, des unions de caisses qui peuvent être formées entre plusieurs caisses de base en vue de l'exécution en commun de certaines tâches ou de la mise en commun de certains moyens ou services.<br/>\n<br/>   Ces organismes sont constitués et fonctionnent conformément aux dispositions du code de la mutualité, sous réserve des dispositions du code de la sécurité sociale et des textes pris pour son application. Ils sont administrés par des conseils élus.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°77-930 du 4 août 1977 - art. 23 (V)",
+        "@cidtexte": "JORFTEXT000000701225",
+        "@datesignatexte": "1977-08-04",
+        "@id": "LEGIARTI000006766036",
+        "@naturetexte": "DECRET",
+        "@num": "23",
+        "@numtexte": "77-930",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-1353 1985-12-17 art. 6 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000866621",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000866621",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1353",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale R633-1 pour l'alinéa 1, et R633-2 pour l'alinéa 2",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

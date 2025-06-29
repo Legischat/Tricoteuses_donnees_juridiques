@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006422490",
+      "ANCIEN_ID": "ACAXXXXXXXX5X00185AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/24/LEGIARTI000006422490.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "185",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1803-03-27",
+        "DATE_FIN": "2007-11-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Des personnes",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089697"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre V : Du mariage",
+              "@debut": "1804-03-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117710"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre IV : Des demandes en nullité de mariage",
+                "@debut": "1804-03-21",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006136126"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1803-03-27",
+          "@etat": "ABROGE",
+          "@fin": "2007-11-21",
+          "@id": "LEGIARTI000006422490",
+          "@num": "185",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Néanmoins, le mariage contracté par des époux qui n'avaient point encore l'âge requis, ou dont l'un des deux n'avait point atteint cet âge, ne peut plus être attaqué :<br/>\n<br/>   1° lorsqu'il s'est écoulé six mois depuis que cet époux ou les époux ont atteint l'âge compétent ;<br/>\n<br/>   2° lorsque la femme, qui n'avait point cet âge, a conçu avant l'échéance de six mois.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°2007-1631 du 20 novembre 2007 - art. 37 () JORF 21 novembre 2007",
+        "@cidtexte": "JORFTEXT000000524004",
+        "@datesignatexte": "2007-11-20",
+        "@id": "LEGIARTI000006400032",
+        "@naturetexte": "LOI",
+        "@nortexte": "IMIX0756368L",
+        "@num": "37",
+        "@numtexte": "2007-1631",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code civil - art. 184 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006422466",
+        "@naturetexte": "CODE",
+        "@num": "184",
+        "@sens": "cible",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code civil - art. 186 (Ab)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006422497",
+        "@naturetexte": "CODE",
+        "@num": "186",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code civil - art. 186 (Ab)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006422497",
+        "@naturetexte": "CODE",
+        "@num": "186",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code civil - art. 190 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006422529",
+        "@naturetexte": "CODE",
+        "@num": "190",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1803-03-14",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1803-03-17 promulguée le 27 mars 1803",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006317553",
+      "ANCIEN_ID": "AAGAHXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/75/LEGIARTI000006317553.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-03-01",
+        "DATE_FIN": "2007-12-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 12 novembre 1938 tendant à transformer les groupements de consommateurs en sociétés coopératives",
+          "@c_titre_court": "Décret-loi du 12 novembre 1938",
+          "@debut": "1938-11-13",
+          "@fin": "2007-12-22",
+          "@id_txt": "LEGITEXT000006069593"
+        }
+      ],
+      "@cid": "LEGITEXT000006069593",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1938-11-12",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1938-11-13",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006317552",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-12-22",
+          "@id": "LEGIARTI000006317553",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Seront punis d'une amende prévue par le 4° de l'article 131-13 du code pénal pour les contraventions de la 4ème classe [*sanctions pénales*] et d'une peine de deux mois de prison, ou de l'une de ces deux peines seulement, les auteurs d'infractions aux dispositions de l'article 1er.<br/>\n<br/>   Le tribunal pourra, en outre, ordonner la cessation des opérations du groupement d'achat ou de la coopérative et la fermeture de ces établissements.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1994 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491860",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "322",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2007-1787\n du 20 décembre 2007 - art. 27 (V)",
+        "@cidtexte": "JORFTEXT000017727195",
+        "@datesignatexte": "2007-12-20",
+        "@id": "LEGIARTI000017747656",
+        "@naturetexte": "LOI",
+        "@nortexte": "BCFX0710942L",
+        "@num": "27",
+        "@numtexte": "2007-1787",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code pénal - art. 131-13 (M)",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006417256",
+        "@naturetexte": "CODE",
+        "@num": "131-13",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

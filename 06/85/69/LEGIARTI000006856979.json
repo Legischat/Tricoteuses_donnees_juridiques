@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006856979",
+      "ANCIEN_ID": "UPHPNXXXXXX043AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/69/LEGIARTI000006856979.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "43",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-1385 du 23 décembre 1985 PRIS POUR L'APPLICATION DE L'ART. 437 DU CODE RURAL ET REGLEMENTANT LA PECHE EN EAU DOUCE",
+          "@c_titre_court": "Décret n°85-1385 du 23 décembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000866860"
+        },
+        {
+          "#text": "Décret n°85-1385 du 23 décembre 1985 pris pour l'application de l'article 437 du code rural et réglementant la pêche en eau douce",
+          "@c_titre_court": "Décret n°85-1385 du 23 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006064818"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section V : Procédés et modes de pêche prohibés",
+            "@debut": "1986-01-01",
+            "@fin": "1989-11-04",
+            "@id": "LEGISCTA000006109667"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000866860",
+      "@date_publi": "1985-12-28",
+      "@date_signature": "1985-12-23",
+      "@nature": "DECRET",
+      "@num": "85-1385"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006856979",
+          "@num": "43",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En vue de protéger les populations de salmonidés dans certaines eaux de la 2e catégorie, certains modes de pêche, amorces et appâts peuvent être interdits par arrêté du commissaire de la République pendant la période de fermeture de la pêche dans les eaux de la 1re catégorie.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. R*236-48 (Ab)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006590302",
+        "@naturetexte": "CODE",
+        "@num": "R*236-48",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural 437",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code rural R236-48",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret n°85-1385 du 23 décembre 1985 - art. 28 (Ab) JORF 28 décembre 1985 en vigueur le 1er janvier 1986) A(Décret 89-805 1989-10-27 art. 2 JORF 4 novembre 1989",
+        "@cidtexte": "JORFTEXT000000866860",
+        "@datesignatexte": "1985-12-23",
+        "@id": "LEGIARTI000006856956",
+        "@naturetexte": "DECRET",
+        "@num": "28",
+        "@numtexte": "85-1385",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

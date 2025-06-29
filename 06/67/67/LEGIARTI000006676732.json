@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006676732",
+      "ANCIEN_ID": "SHIB5XXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/67/LEGIARTI000006676732.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-05-22",
+        "DATE_FIN": "2008-04-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 mai 1984 fixant les garanties d'hygiène, de technique et de sécurité dans les salles de judo et d'aïkido.",
+          "@c_titre_court": "Arrêté du 10 mai 1984",
+          "@debut": "1984-05-22",
+          "@fin": "2008-04-30",
+          "@id_txt": "LEGITEXT000006072399"
+        }
+      ],
+      "@cid": "LEGITEXT000006072399",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-05-10",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-05-22",
+          "@etat": "ABROGE",
+          "@fin": "2008-04-30",
+          "@id": "LEGIARTI000006676732",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les gérants, exploitants ou responsables des salles ouvertes à la date de publication du présent arrêté disposeront d'un délai d'un an à compter de cette date pour que ces salles soient en règle avec les dispositions prévues à l'article 2 ci-dessus. Passé ce délai, elles pourront être fermées temporairement ou définitivement ainsi qu'il est prévu à l'article 5 de la loi du 6 août 1963 [*sanction*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-05-10 ART. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°63-807 du 6 août 1963",
+        "@cidtexte": "JORFTEXT000000864608",
+        "@datesignatexte": "1963-08-06",
+        "@id": "JORFTEXT000000864608",
+        "@naturetexte": "LOI",
+        "@numtexte": "63-807",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 28 février 2008 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000018730866",
+        "@datesignatexte": "2008-02-28",
+        "@id": "LEGIARTI000018732063",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SJSV0805704A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

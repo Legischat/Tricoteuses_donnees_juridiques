@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006534456",
+      "ANCIEN_ID": "ADHAIXXXXXX008AAXXXXXXDA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/44/LEGIARTI000006534456.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8-3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-05-16",
+        "DATE_FIN": "1991-09-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 11 mars 1908 pris pour l'exécution de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles en ce qui concerne les graisses et huiles comestibles",
+          "@c_titre_court": "Décret du 11 mars 1908",
+          "@debut": "1908-03-14",
+          "@fin": "2008-02-29",
+          "@id_txt": "LEGITEXT000006071231"
+        }
+      ],
+      "@cid": "LEGITEXT000006071231",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1908-03-11",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-05-16",
+          "@etat": "ABROGE",
+          "@fin": "1991-09-12",
+          "@id": "LEGIARTI000006534456",
+          "@num": "8-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un arrêté pris dans les formes prévues à l'alinéa 1er de l'article 8-1 pourra déterminer les caractéristiques physiques, chimiques, gustatives et olfactives susceptibles de permettre la vérification des prescriptions établies par les articles 8 à 8-2.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1908-03-11 art. 8, art. 8-1, art. 8-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 61-476 1961-05-08 *champ d'application*",
+        "@cidtexte": "JORFTEXT000000705433",
+        "@datesignatexte": "1961-05-08",
+        "@id": "JORFTEXT000000705433",
+        "@naturetexte": "DECRET",
+        "@numtexte": "61-476",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°91-899 du 6 septembre 1991 - art. 3 (V) JORF 12 septembre 1991",
+        "@cidtexte": "JORFTEXT000000703223",
+        "@datesignatexte": "1991-09-06",
+        "@id": "LEGIARTI000006572253",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOC9100079D",
+        "@num": "3",
+        "@numtexte": "91-899",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

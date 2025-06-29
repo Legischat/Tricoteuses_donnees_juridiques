@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006710289",
+      "ANCIEN_ID": "SPHRKXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/02/LEGIARTI000006710289.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1990-08-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 90-954 du 26 octobre 1990 modifiant le décret no 88-1081 du 30    novembre 1988 portant dispositions statutaires générales applicables aux    fonctionnaires hospitaliers des catégories C et D",
+          "@c_titre_court": "Décret n°90-954 du 26 octobre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000169681"
+        },
+        {
+          "#text": "Décret n°90-954 du 26 octobre 1990 modifiant le décret n° 88-1081 du 30 novembre 1988 portant dispositions statutaires générales applicables aux fonctionnaires hospitaliers des catégories C et D",
+          "@c_titre_court": "Décret n°90-954 du 26 octobre 1990",
+          "@debut": "1990-08-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006076675"
+        }
+      ],
+      "@cid": "JORFTEXT000000169681",
+      "@date_publi": "1990-10-27",
+      "@date_signature": "1990-10-26",
+      "@ministere": "MINISTERE DE LA SOLIDARITE DE LA SANTE ET DE LA PROTECTION SOCIALE",
+      "@nature": "DECRET",
+      "@nor": "SPSH9002055D",
+      "@num": "90-954"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-08-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006710289",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le reclassement des fonctionnaires parvenus au 10e échelon de l'échelle dans laquelle est classé leur grade intervient à la date de création du 11e échelon déterminée pour chaque échelle à l'article 2 ci-dessus conformément au tableau suivant :</p>\n<table>\n<tbody>\n<tr>\n<td rowspan=\"2\" width=\"174\">\n<p align=\"center\">SITUATION DANS L'ÉCHELLE<br/>1 dotée de 10 échelons</p>\n</td>\n<td colspan=\"2\" width=\"204\">\n<p align=\"center\">SITUATION DANS L'ÉCHELLE 1 <br/>dotée de 11 échelons</p>\n</td>\n</tr>\n<tr>\n<td width=\"95\">\n<p align=\"center\">Echelon</p>\n</td>\n<td width=\"109\">\n<p align=\"center\">Ancienneté d'échelon conservée</p>\n</td>\n</tr>\n<tr>\n<td width=\"174\">\n<p>10e échelon avant 4 ans</p>\n</td>\n<td width=\"95\">\n<p align=\"center\">10e échelon</p>\n</td>\n<td width=\"109\">\n<p>Ancienneté acquise</p>\n</td>\n</tr>\n<tr>\n<td width=\"174\">\n<p>10e échelon après 4 ans</p>\n</td>\n<td width=\"95\">\n<p align=\"center\">11e échelon</p>\n</td>\n<td width=\"109\">\n<p>Ancienneté acquise diminuée de 4 ans</p>\n</td>\n</tr>\n</tbody>\n</table>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 88-1081 1988-11-30",
+        "@cidtexte": "JORFTEXT000000504535",
+        "@datesignatexte": "1988-11-30",
+        "@id": "JORFTEXT000000504535",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSX8810025D",
+        "@numtexte": "88-1081",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 90-954 1990-10-26 art. 2",
+        "@cidtexte": "JORFTEXT000000169681",
+        "@datesignatexte": "1990-10-26",
+        "@id": "JORFTEXT000000169681",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSH9002055D",
+        "@numtexte": "90-954",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

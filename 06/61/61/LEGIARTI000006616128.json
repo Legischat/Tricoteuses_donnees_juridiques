@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616128",
+      "ANCIEN_ID": "ADIJMXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/61/LEGIARTI000006616128.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1950-10-05",
+        "DATE_FIN": "2019-09-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 septembre 1950 ATION GENERALE DE L'EMBALLAGE ET DU CONDITIONNEMENT DES FRUITS ET LEGUMES EXPEDIES SOUS LABEL D'EXPORTATION OU MARQUE NATIONALE DE QUALITE",
+          "@c_titre_court": "Arrêté du 26 septembre 1950",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000800317"
+        },
+        {
+          "#text": "Arrêté du 26 septembre 1950 portant réglementation générale de l'emballage et du conditionnement des fruits et légumes expédiés sous label d'exportation ou marque nationale de qualité",
+          "@c_titre_court": "Arrêté du 26 septembre 1950",
+          "@debut": "1950-10-05",
+          "@fin": "2019-09-19",
+          "@id_txt": "LEGITEXT000006071584"
+        }
+      ],
+      "@cid": "JORFTEXT000000800317",
+      "@date_publi": "1950-10-05",
+      "@date_signature": "1950-09-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-10-05",
+          "@etat": "ABROGE",
+          "@fin": "2019-09-19",
+          "@id": "LEGIARTI000006616128",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sauf en ce qui concerne les produits de luxe énumérés à l'article 2 ci-après, les fruits ou légumes expédiés sous label d'exportation ou marque nationale de qualité devront être emballés et conditionnés conformément aux dispositions du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1950-09-26 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 19 juillet 2019 - art. 1",
+        "@cidtexte": "JORFTEXT000039106240",
+        "@datesignatexte": "2019-07-19",
+        "@id": "LEGIARTI000039106764",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC1706924A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006828111",
+      "ANCIEN_ID": "UCIAYXXXXXX007AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/81/LEGIARTI000006828111.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1987-07-25",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 25 février 1974 MONTANTS ET CARACTERISTIQUES DES PRETS A LA CONSTRUCTION DE LOGEMENTS PRIMES",
+          "@c_titre_court": "Arrêté du 25 février 1974",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000493159"
+        },
+        {
+          "#text": "Arrêté du 25 février 1974 relatif aux montants et aux caractéristiques des prêts à la construction de logements primés",
+          "@c_titre_court": "Arrêté du 25 février 1974",
+          "@debut": "1974-03-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074123"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "II - Prêts pour l'extension et la mise en état d'habitabilité.",
+            "@debut": "1986-10-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108238"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000493159",
+      "@date_publi": "1974-03-14",
+      "@date_signature": "1974-02-25",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-10-04",
+          "@etat": "MODIFIE",
+          "@fin": "1987-07-25",
+          "@id": "LEGIARTI000006828110",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-07-25",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006828111",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les personnes bénéficiaires des prêts visés à l'article précédent peuvent obtenir un supplément familial, par mètre carré de surface habitable primée, en fonction de leur situation de famille et du type de logement qu'elles occupent, dans la mesure où les travaux d'extension ou de mise en état d'habitabilité leur permettront d'habiter un logement correspondant à leur situation familiale au regard des dispositions des articles 3 et 4 ci-dessus.</p>\n<p>Le montant du supplément familial est fixé, par mètre carré de surface habitable primée, conformément au tableau ci-après :</p>\n<table>\n<tbody>\n<tr>\n<td width=\"420\">\n<p align=\"center\">TRAVAUX</p>\n</td>\n<td width=\"260\">\n<p align=\"center\">MONTANT DU SUPPLEMENT FAMILIAL<br/>(en francs)</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"420\">\n<p>Addition ou surélévation de construction.</p>\n</td>\n<td valign=\"top\" width=\"260\">\n<p align=\"center\">562</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"420\">\n<p>Mise en état d'habitabilité.</p>\n</td>\n<td valign=\"top\" width=\"260\">\n<p align=\"center\">379</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Ces montants de prêts comprennent la fraction de prêt afférente aux majorations du prix de revient résultant de l'amélioration obligatoire de l'isolation thermique.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-02-25 art. 3, art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-06-03 art. 4 jorf 25 juillet 1987",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation R311-1 à R311-66",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

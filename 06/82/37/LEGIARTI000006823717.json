@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006823717",
+      "ANCIEN_ID": "UBHKZXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/37/LEGIARTI000006823717.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-03-01",
+        "DATE_FIN": "2010-07-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°58-815 du 9 septembre 1958 CREATION D'UN ETABLISSEMENT PUBLIC POUR L'AMENAGEMENT DE LA REGION DITE\"DE LA DEFENSE\"",
+          "@c_titre_court": "Décret n°58-815 du 9 septembre 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868971"
+        },
+        {
+          "#text": "Décret n°58-815 du 9 septembre 1958 créant un établissement public pour l'aménagement de la région dite \"de la Défense\" dans le département de la Seine.",
+          "@c_titre_court": "Décret n°58-815 du 9 septembre 1958",
+          "@debut": "1958-09-10",
+          "@fin": "2010-07-04",
+          "@id_txt": "LEGITEXT000006060839"
+        }
+      ],
+      "@cid": "JORFTEXT000000868971",
+      "@date_publi": "1958-09-10",
+      "@date_signature": "1958-09-09",
+      "@nature": "DECRET",
+      "@num": "58-815"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-09-10",
+          "@etat": "MODIFIE",
+          "@fin": "1969-03-01",
+          "@id": "LEGIARTI000021166678",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1969-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2010-07-04",
+          "@id": "LEGIARTI000006823717",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Il est créé un établissement public de caractère industriel et commercial chargé de procéder à toutes opérations de nature à faciliter la réalisation du projet d'aménagement de la région dite \" de la Défense \" et notamment : <br/>\n<br/>De procéder à l'acquisition, au besoin par voie d'expropriation, des immeubles bâtis ou non bâtis nécessaires à la réalisation des travaux d'aménagement et d'équipement, et éventuellement de construction de logements prévus au projet d'aménagement susvisé ; <br/>\n<br/>De procéder, dans les conditions prévues à l'article 41 de l'ordonnance n° 58-997 du 23 octobre 1958 à la cession des immeubles acquis en vue de leur affectation conforme au projet d'aménagement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°58-997 du 23 octobre 1958",
+        "@cidtexte": "JORFTEXT000000705504",
+        "@datesignatexte": "1958-10-23",
+        "@id": "JORFTEXT000000705504",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-997",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 69-193 1969-02-27 art. 1 JORF 1er mars 1969",
+        "@cidtexte": "JORFTEXT000000694041",
+        "@datesignatexte": "1969-02-27",
+        "@id": "JORFTEXT000000694041",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-193",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2010-743 du 2 juillet 2010 - art. 15",
+        "@cidtexte": "JORFTEXT000022423381",
+        "@datesignatexte": "2010-07-02",
+        "@id": "LEGIARTI000022437159",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVU1002303D",
+        "@num": "15",
+        "@numtexte": "2010-743",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006495242",
+      "ANCIEN_ID": "PJFAPXXXXXX050AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/52/LEGIARTI000006495242.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "50",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-12-23",
+        "DATE_FIN": "2021-09-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante",
+          "@c_titre_court": "Ordonnance n° 45-174 du 2 février 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517521"
+        },
+        {
+          "#text": "Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.",
+          "@c_titre_court": "Ordonnance n° 45-174 du 2 février 1945",
+          "@debut": "1958-12-23",
+          "@fin": "2021-09-30",
+          "@id_txt": "LEGITEXT000006069158"
+        }
+      ],
+      "@cid": "JORFTEXT000000517521",
+      "@date_publi": "1945-02-04",
+      "@date_signature": "1945-02-02",
+      "@nature": "ORDONNANCE",
+      "@num": "45-174"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-12-23",
+          "@etat": "ABROGE",
+          "@fin": "2021-09-30",
+          "@id": "LEGIARTI000006495242",
+          "@num": "50",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La présente ordonnance entrera en vigueur à une date qui sera fixée par décret. Elle sera publiée au Journal officiel de la République française et exécutée comme loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-174 1945-02-02 JORF 4 février 1945 rectificatif JORF 6 et 21 mars 1945",
+        "@cidtexte": "JORFTEXT000000517521",
+        "@datesignatexte": "1945-02-02",
+        "@id": "JORFTEXT000000517521",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-174",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n° 2019-950 du 11 septembre 2019 - art. 7",
+        "@cidtexte": "JORFTEXT000039085102",
+        "@datesignatexte": "2019-09-11",
+        "@id": "LEGIARTI000039086609",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX1919677R",
+        "@num": "7",
+        "@numtexte": "2019-950",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

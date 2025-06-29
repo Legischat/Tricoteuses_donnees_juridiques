@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006900734",
+      "ANCIEN_ID": "AKEADXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/07/LEGIARTI000006900734.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1930-06-20",
+        "DATE_FIN": "1984-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 19 juin 1930 portant interdiction de l'exercice de la profession de banquier aux individus frappés de certaines condamnations et aux faillis non réhabilités",
+          "@c_titre_court": "Loi du 19 juin 1930",
+          "@debut": "1930-06-20",
+          "@fin": "1984-07-25",
+          "@id_txt": "LEGITEXT000006075119"
+        }
+      ],
+      "@cid": "LEGITEXT000006075119",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1930-06-19",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1930-06-20",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006900734",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La présente loi est applicable aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle. En cas de condamnation prononcée par les tribunaux d'Alsace et de Lorraine, antérieurement à l'introduction de la législation pénale française ou par application d'une loi locale maintenue en vigueur, l'interdiction visée à l'article 1er sera prononcée dans les conditions prévues par le paragraphe 1er de l'article 2 [*dispositions transitoires - mesures d'application*].<br/>\n<br/>   La même interdiction pourra être prononcée à l'égard des faillis, commerçants ou non commerçants, dont la faillite aura été déclarée sous l'empire de la loi locale.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1930-06-09 art. 1, art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

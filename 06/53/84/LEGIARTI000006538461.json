@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006538461",
+      "ANCIEN_ID": "PPISRXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/84/LEGIARTI000006538461.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-10-22",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 juin 1990 relatif à l'organisation    du Service d'information et de diffusion",
+          "@c_titre_court": "Arrêté du 15 juin 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000160190"
+        },
+        {
+          "#text": "Arrêté du 15 juin 1990 relatif à l'organisation du Service d'information du Gouvernement",
+          "@c_titre_court": "Arrêté du 15 juin 1990",
+          "@debut": "2000-10-22",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006075988"
+        }
+      ],
+      "@cid": "JORFTEXT000000160190",
+      "@date_publi": "1990-06-17",
+      "@date_signature": "1990-06-15",
+      "@nature": "ARRETE",
+      "@nor": "PRMX9010128A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-06-17",
+          "@etat": "MODIFIE",
+          "@fin": "2000-10-22",
+          "@id": "LEGIARTI000006538460",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-10-22",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006538461",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La division de l'information du Gouvernement est chargée de l'étude et de l'analyse de la presse et de l'opinion. Elle coordonne les commandes de sondages et d'études provenant des administrations, et prête son assistance aux ministères faisant appel aux techniques d'études d'opinions.<br/>\n<br/>   Elle élabore le calendrier prévisionnel des événements de toute nature concernant les domaines politique, économique et social.<br/>\n<br/>   Elle réalise les revues et analyses de presse française et étrangère, elle gère le centre de documentation.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 76-124 1976-02-06",
+        "@cidtexte": "JORFTEXT000000690153",
+        "@datesignatexte": "1976-02-06",
+        "@id": "JORFTEXT000000690153",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-124",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°2000-1027 du 18 octobre 2000 - art. 5 () JORF 22 octobre 2000",
+        "@cidtexte": "JORFTEXT000000585145",
+        "@datesignatexte": "2000-10-18",
+        "@id": "LEGIARTI000006549207",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX0000126D",
+        "@num": "5",
+        "@numtexte": "2000-1027",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

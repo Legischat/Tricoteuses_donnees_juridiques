@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006682629",
+      "ANCIEN_ID": "SMHA9XXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/26/LEGIARTI000006682629.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-03-24",
+        "DATE_FIN": "2002-04-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°75-640 du 16 juillet 1975 CONSEIL SUPERIEUR DE L'ADOPTION",
+          "@c_titre_court": "Décret n°75-640 du 16 juillet 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000338568"
+        },
+        {
+          "#text": "Décret n°75-640 du 16 juillet 1975  PORTANT CREATION D'UN CONSEIL SUPERIEUR DE L'ADOPTION.",
+          "@c_titre_court": "Décret n°75-640 du 16 juillet 1975",
+          "@debut": "1975-07-18",
+          "@fin": "2002-04-09",
+          "@id_txt": "LEGITEXT000006062344"
+        }
+      ],
+      "@cid": "JORFTEXT000000338568",
+      "@date_publi": "1975-07-18",
+      "@date_signature": "1975-07-16",
+      "@nature": "DECRET",
+      "@num": "75-640"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-07-18",
+          "@etat": "MODIFIE",
+          "@fin": "1983-03-24",
+          "@id": "LEGIARTI000006682628",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-03-24",
+          "@etat": "ABROGE",
+          "@fin": "2002-04-09",
+          "@id": "LEGIARTI000006682629",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le président du Conseil supérieur de l'adoption est nommé pour trois ans [*durée du mandat*] par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la famille.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 83-218 1983-03-22 ART. 4 JORF 24 MARS 1983",
+        "@cidtexte": "JORFTEXT000000688029",
+        "@datesignatexte": "1983-03-22",
+        "@id": "JORFTEXT000000688029",
+        "@naturetexte": "DECRET",
+        "@numtexte": "83-218",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2002-473 du 8 avril 2002 - art. 4 (Ab) JORF 9 avril 2002",
+        "@cidtexte": "JORFTEXT000000407289",
+        "@datesignatexte": "2002-04-08",
+        "@id": "LEGIARTI000006209967",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MESA0220312D",
+        "@num": "4",
+        "@numtexte": "2002-473",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

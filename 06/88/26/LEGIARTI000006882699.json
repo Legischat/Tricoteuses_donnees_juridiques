@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006882699",
+      "ANCIEN_ID": "AIINQXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/26/LEGIARTI000006882699.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1991-03-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 mars 1987 RELATIF A LA PUBLICITE DES PRIX DES PRESTATIONS DE SERVICES DANS LE SECTEUR DE LA BLANCHISSERIE ET DU NETTOYAGE A SEC",
+          "@c_titre_court": "Arrêté du 27 mars 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000863040"
+        },
+        {
+          "#text": "Arrêté du 27 mars 1987 relatif à la publicité des prix des prestations de services dans le secteur de la blanchisserie et du nettoyage à sec",
+          "@c_titre_court": "Arrêté du 27 mars 1987",
+          "@debut": "1987-10-20",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006057792"
+        }
+      ],
+      "@cid": "JORFTEXT000000863040",
+      "@date_publi": "1987-10-20",
+      "@date_signature": "1987-03-27",
+      "@nature": "ARRETE",
+      "@nor": "ECOC8710025A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-10-20",
+          "@etat": "MODIFIE",
+          "@fin": "1991-03-01",
+          "@id": "LEGIARTI000006882698",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-03-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006882699",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'information relative à la qualité des prestations prévue aux articles 1er et 2 ci-dessus doit comporter la description précise de la nature des opérations comprises dans la prestation annoncée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-03-27 art. 1, art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1991-01-24 art. 1 JORF 1er février 1991 en vigueur le 1er mars 1991",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 86-1243 1986-12-01",
+        "@cidtexte": "JORFTEXT000000333548",
+        "@datesignatexte": "1986-12-01",
+        "@id": "JORFTEXT000000333548",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "86-1243",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 86-1309 1986-12-29",
+        "@cidtexte": "JORFTEXT000000882067",
+        "@datesignatexte": "1986-12-29",
+        "@id": "JORFTEXT000000882067",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-1309",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

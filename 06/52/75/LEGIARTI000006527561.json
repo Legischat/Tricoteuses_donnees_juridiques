@@ -1,0 +1,137 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006527561",
+      "ANCIEN_ID": "PPCACXXXXXX067AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/75/LEGIARTI000006527561.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "67",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2007-02-24",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Constitution du 4 octobre 1958",
+          "@c_titre_court": "Constitution du 4 octobre 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000571356"
+        },
+        {
+          "#text": "Constitution du 4 octobre 1958",
+          "@c_titre_court": "Constitution du 4 octobre 1958",
+          "@debut": "1958-10-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071194"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IX : La Haute Cour",
+            "@debut": "2007-02-24",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006095842"
+          },
+          {
+            "#text": "Titre IX : La Haute Cour de Justice.",
+            "@debut": "1958-10-05",
+            "@fin": "2007-02-24",
+            "@id": "LEGISCTA000042420115"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000571356",
+      "@date_publi": "1958-10-05",
+      "@date_signature": "1958-10-04",
+      "@nature": "CONSTITUTION"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-10-05",
+          "@etat": "MODIFIE",
+          "@fin": "2007-02-24",
+          "@id": "LEGIARTI000006527560",
+          "@num": "67",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-02-24",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006527561",
+          "@num": "67",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Le Président de la République n'est pas responsable des actes accomplis en cette qualité, sous réserve des dispositions des articles 53-2 et 68.\n<br/>\n<br/>Il ne peut, durant son mandat et devant aucune juridiction ou autorité administrative française, être requis de témoigner non plus que faire l'objet d'une action, d'un acte d'information, d'instruction ou de poursuite. Tout délai de prescription ou de forclusion est suspendu. <br/>\n<br/>Les instances et procédures auxquelles il est ainsi fait obstacle peuvent être reprises ou engagées contre lui à l'expiration d'un délai d'un mois suivant la cessation des fonctions.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Constitution du 4 octobre 1958 - art. 53-2 (V)",
+        "@cidtexte": "JORFTEXT000000571356",
+        "@datesignatexte": "1958-10-04",
+        "@id": "LEGIARTI000006527536",
+        "@naturetexte": "CONSTITUTION",
+        "@num": "53-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Constitution du 4 octobre 1958 - art. 68 (V)",
+        "@cidtexte": "JORFTEXT000000571356",
+        "@datesignatexte": "1958-10-04",
+        "@id": "LEGIARTI000006527562",
+        "@naturetexte": "CONSTITUTION",
+        "@num": "68",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi constitutionnelle n°2007-238 du 23 février ... - art. unique",
+        "@cidtexte": "JORFTEXT000000245803",
+        "@datesignatexte": "2007-02-23",
+        "@id": "LEGIARTI000006276554",
+        "@naturetexte": "LOI_CONSTIT",
+        "@nortexte": "JUSX0300067L",
+        "@num": "unique",
+        "@numtexte": "2007-238",
+        "@sens": "cible",
+        "@typelien": "MODIFIE"
+      },
+      {
+        "#text": "LOI n° 2014-1392 du 24 novembre 2014 - art. 6 (V)",
+        "@cidtexte": "JORFTEXT000029796562",
+        "@datesignatexte": "2014-11-24",
+        "@id": "LEGIARTI000029797080",
+        "@naturetexte": "LOI",
+        "@nortexte": "PRMX1029143L",
+        "@num": "6",
+        "@numtexte": "2014-1392",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

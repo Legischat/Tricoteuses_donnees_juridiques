@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006700200",
+      "ANCIEN_ID": "AFEBCXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/02/LEGIARTI000006700200.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-10-17",
+        "DATE_FIN": "1984-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 14 juin 1941 relative à la réglementation et à l'organisation des professions se rattachant à la profession de banquiers",
+          "@c_titre_court": "Loi du 14 juin 1941",
+          "@debut": "1941-07-06",
+          "@fin": "1984-07-25",
+          "@id_txt": "LEGITEXT000006072684"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Entreprises et personnes faisant profession habituelle d'accomplir, à titre d'objet principal de leur exploitation, les opérations prévues à l'article 27 2° de la loi du 13 juin 1941 portant réglementation et organisation de la profession bancaire.",
+            "@debut": "1941-07-06",
+            "@fin": "1984-07-25",
+            "@id": "LEGISCTA000006103721"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072684",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1941-06-14",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-10-17",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006700200",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Toute entreprise ou personne visée à l'article 1er de la présente loi doit faire figurer à son bilan un capital [*social*] dont le montant minimum est fixé par arrêté du ministre de l'économie et des finances. Le capital minimum peut être fixé à un chiffre différent suivant la nature des opérations traitées, la forme juridique des établissements, le nombre et le lieu des sièges permanents d'exploitation.<br/>\n<br/>       Un arrêté du ministre de l'économie et des finances, pris sur proposition du conseil national du crédit, peut prescrire des règles d'emploi pour un montant égal au capital minimum ou pour une fraction déterminée de ce capital.<br/>\n<br/>       Le capital minimum doit être intégralement libéré.<br/>\n<br/>       Toute entreprise ou personne visée à l'article 1er de la présente loi doit pouvoir justifier, à tout moment, qu'elle satisfait à ces obligations, et notamment que son actif excède effectivement d'un montant égal au capital minimum le passif dont elle est tenue envers les tiers.<br/>\n<br/>       La commission de contrôle des banques [*attributions*] fixe les modes de publication et de communication des comptes desdites entreprises et personnes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1941-06-14 JORF 6 juillet 1941 rectificatif JORF 11 septembre 1941",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 1941-06-14 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 I JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

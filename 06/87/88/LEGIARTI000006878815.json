@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006878815",
+      "ANCIEN_ID": "UTEASXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/88/LEGIARTI000006878815.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1957-07-27",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°57-831 du 26 juillet 1957 TENDANT A ORGANISER ET A GENERALISER L'ENSEIGNEMENT DU CODE DE LA ROUTE",
+          "@c_titre_court": "Loi n°57-831 du 26 juillet 1957",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000501555"
+        },
+        {
+          "#text": "Loi n°57-831 du 26 juillet 1957 tendant à organiser et à généraliser l'enseignement du code de la route.",
+          "@c_titre_court": "Loi n°57-831 du 26 juillet 1957",
+          "@debut": "1957-07-27",
+          "@fin": "2000-06-22",
+          "@id_txt": "LEGITEXT000006068176"
+        }
+      ],
+      "@cid": "JORFTEXT000000501555",
+      "@date_publi": "1957-07-27",
+      "@date_signature": "1957-07-26",
+      "@nature": "LOI",
+      "@num": "57-831"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1957-07-27",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006878815",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un décret portant règlement d'administration publique fixera dans les trois mois de la [*délai*] promulgation de la présente loi les conditions de cet enseignement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 2000-549 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583540",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006435990",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "MENX0000033R",
+        "@num": "7",
+        "@numtexte": "2000-549",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. L312-13 (M)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006524769",
+        "@naturetexte": "CODE",
+        "@num": "L312-13",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

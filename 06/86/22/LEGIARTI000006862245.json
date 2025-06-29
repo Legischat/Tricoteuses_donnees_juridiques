@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862245",
+      "ANCIEN_ID": "UPIJQXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/22/LEGIARTI000006862245.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-11-22",
+        "DATE_FIN": "1990-02-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 20 novembre 1979 relatif à la nature des travaux susceptibles d'être financés par la prime à l'amélioration de l'habitat",
+          "@c_titre_court": "Arrêté du 20 novembre 1979",
+          "@debut": "1979-11-22",
+          "@fin": "1990-02-17",
+          "@id_txt": "LEGITEXT000006074551"
+        }
+      ],
+      "@cid": "LEGITEXT000006074551",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-11-20",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-11-22",
+          "@etat": "ABROGE",
+          "@fin": "1990-02-17",
+          "@id": "LEGIARTI000006862245",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est abrogé l'arrêté du 26 juillet 1977 relatif à la nature des travaux susceptibles d'être financés par la prime à l'amélioration de l'habitat.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-07-26",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1990-02-16 art. 2 JORF 17 février 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation. - art. R322-1 (M)",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006898304",
+        "@naturetexte": "CODE",
+        "@num": "R322-1",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

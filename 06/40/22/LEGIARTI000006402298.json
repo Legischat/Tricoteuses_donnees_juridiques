@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006402298",
+      "ANCIEN_ID": "ABEADXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/22/LEGIARTI000006402298.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 85-99 du 25 janvier 1985 relative aux administrateurs judiciaires, mandataires-liquidateurs et experts en diagnostic d'entreprise",
+          "@c_titre_court": "Loi n°85-99 du 25 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000512201"
+        },
+        {
+          "#text": "Loi n° 85-99 du 25 janvier 1985 relative aux administrateurs judiciaires, aux mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise",
+          "@c_titre_court": "Loi n° 85-99 du 25 janvier 1985",
+          "@debut": "1986-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068924"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Les administrateurs judiciaires.",
+            "@debut": "1986-01-01",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006088383"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000512201",
+      "@date_publi": "1985-01-26",
+      "@date_signature": "1985-01-25",
+      "@nature": "LOI",
+      "@num": "85-99"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006402298",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La Commission nationale d'inscription siège comme chambre de discipline. Le commissaire du Gouvernement y exerce les fonctions du ministère public. Elle peut prononcer les peines disciplinaires suivantes :<br/>\n<br/>   1° L'avertissement ;<br/>\n<br/>   2° Le blâme ;<br/>\n<br/>   3° L'interdiction temporaire pour une durée n'excédant pas un an ;<br/>\n<br/>   4° La radiation de la liste des administrateurs judiciaires.<br/>\n<br/>   L'avertissement et le blâme peuvent être accompagnés, pendant un délai d'un an, de mesures de contrôle soumettant l'administrateur judiciaire, à des obligations particulières déterminées par la commission. Ces obligations peuvent également être prescrites par la commission lorsque l'administrateur judiciaire interdit temporairement reprend ses fonctions.<br/>\n<br/>   L'acceptation de la démission d'une personne inscrite sur la liste des administrateurs judiciaires ne fait pas obstacle au prononcé d'une mesure disciplinaire si les faits qui lui sont reprochés ont été commis pendant l'exercice de ses fonctions.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 85-99 1985-01-25 art. 50 *date d'effet*",
+        "@cidtexte": "JORFTEXT000000512201",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000512201",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-99",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L811-12 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006241956",
+        "@naturetexte": "CODE",
+        "@num": "L811-12",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

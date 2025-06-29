@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006304648",
+      "ANCIEN_ID": "FAAACGIXXXX0302BGXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/30/46/LEGIARTI000006304648.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "302 quinquies",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1999-03-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre premier : Assiette et liquidation de l'impôt",
+            "@debut": "1952-02-14",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084232"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Première Partie : Impôts d'État",
+              "@debut": "1952-02-14",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006114494"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II bis : Dispositions communes aux impôts directs et aux taxes sur le chiffre d'affaires",
+                "@debut": "1979-07-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006133847"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre premier : Régime du forfait (bénéfices industriels et commerciaux , taxes sur le chiffre d'affaires).",
+                  "@debut": "1979-07-01",
+                  "@fin": "1999-03-31",
+                  "@id": "LEGISCTA000006147045"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1999-03-31",
+          "@id": "LEGIARTI000006304648",
+          "@num": "302 quinquies",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   1. Pour les entreprises nouvelles, le forfait couvre la période allant du premier jour de l'exploitation jusqu'au 31 décembre de l'année suivant celle du début de cette exploitation.<br/>\n<br/>\n<br/>   2. Pendant la période définie au 1, l'administration peut prescrire aux entreprises nouvelles de se conformer aux obligations relatives à la tenue des documents comptables exigés des assujettis imposés d'après leur chiffre d'affaires et leur bénéfice réels (1).<br/>\n<br/>\n<br/>   (1) Voir Annexe III, art. 96.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGIAN3 96",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Edition du 31 mars 1999",
+        "@sens": "source",
+        "@typelien": "HISTO"
+      },
+      {
+        "#text": "Loi - art. 7 (V) JORF 31 décembre 1998",
+        "@cidtexte": "JORFTEXT000000209044",
+        "@datesignatexte": "1998-12-30",
+        "@id": "LEGIARTI000006320268",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9800125L",
+        "@num": "7",
+        "@numtexte": "98-1266",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 98-1266 1998-12-30 art. 6 IV Finances pour 1999",
+        "@cidtexte": "JORFTEXT000000209044",
+        "@datesignatexte": "1998-12-30",
+        "@id": "JORFTEXT000000209044",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9800125L",
+        "@numtexte": "98-1266",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

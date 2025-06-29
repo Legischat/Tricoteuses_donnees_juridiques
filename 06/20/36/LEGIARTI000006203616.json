@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006203616",
+      "ANCIEN_ID": "AKIBKXXXXXX008AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/36/LEGIARTI000006203616.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-09-30",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 18 avril 1966 relatif aux conditions d'exercice de la profession d'entrepreneur de remise et de tourisme",
+          "@c_titre_court": "Arrêté du 18 avril 1966",
+          "@debut": "1987-05-26",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000005625729"
+        }
+      ],
+      "@cid": "LEGITEXT000005625729",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1966-04-18",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-05-26",
+          "@etat": "MODIFIE",
+          "@fin": "1990-09-30",
+          "@id": "LEGIARTI000006203615",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-09-30",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006203616",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La licence est retirée de plein droit par le préfet de département, en cas d'abandon total de l'exploitation pendant une durée de trois ans ou sur demande de l'entreprise. Elle est suspendue si les conditions prévues à l'article 2 du décret du 15 juillet 1955 ne sont plus remplies.<br/>\n<br/>   En cas d'infraction à la réglementation des transports ou à la réglementation du tourisme, le préfet de département adresse un avertissement à l'entreprise, suspend un ou plusieurs certificats de voiture ou suspend la licence de l'entreprise. Les suspensions de certificats pour une durée supérieure à un an ou les suspensions de licence sont prononcées après avis de la commission départementale de l'action touristique.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-09-07 art. 9 JORF 30 septembre 1990",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 55-961 1955-07-15",
+        "@cidtexte": "JORFTEXT000000876667",
+        "@datesignatexte": "1955-07-15",
+        "@id": "JORFTEXT000000876667",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-961",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°55-961 du 15 juillet 1955 - art. 2",
+        "@cidtexte": "JORFTEXT000000876667",
+        "@datesignatexte": "1955-07-15",
+        "@id": "LEGIARTI000006521978",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "55-961",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 23 décembre 2009 - art. 4",
+        "@cidtexte": "JORFTEXT000021530237",
+        "@datesignatexte": "2009-12-23",
+        "@id": "LEGIARTI000021671860",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECEI0929493A",
+        "@num": "4",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

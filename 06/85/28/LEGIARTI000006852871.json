@@ -1,0 +1,142 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006852871",
+      "ANCIEN_ID": "UPHBZXXXXXX014AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/28/LEGIARTI000006852871.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-06-24",
+        "DATE_FIN": "2016-12-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 61-1547 du 26 décembre 1961 fixant le régime des épaves maritimes",
+          "@c_titre_court": "Décret n° 61-1547 du 26 décembre 1961",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000681997"
+        },
+        {
+          "#text": "Décret n°61-1547 du 26 décembre 1961 fixant le régime des épaves maritimes",
+          "@c_titre_court": "Décret n°61-1547 du 26 décembre 1961",
+          "@debut": "1963-01-12",
+          "@fin": "2016-12-30",
+          "@id_txt": "LEGITEXT000006061012"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre III : De la vente ou de la concession des épaves",
+            "@debut": "1963-01-12",
+            "@fin": "2016-12-30",
+            "@id": "LEGISCTA000028679545"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000681997",
+      "@date_publi": "1962-01-12",
+      "@date_signature": "1961-12-26",
+      "@nature": "DECRET",
+      "@num": "61-1547"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-01-12",
+          "@etat": "MODIFIE",
+          "@fin": "1985-06-24",
+          "@id": "LEGIARTI000006852870",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-06-24",
+          "@etat": "ABROGE",
+          "@fin": "2016-12-30",
+          "@id": "LEGIARTI000006852871",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est opéré sur le produit de la vente de l'épave une déduction des frais d'extraction, de récupération ou de démolition, en particulier de ceux qui ont été exposés par l'autorité compétente en vertu de l'article 6, des frais de gestion et de vente, de la rémunération du sauveteur, des droits de douane et autres taxes. Le produit net de la vente est versé à l'établissement national des invalides de la marine (compte Gestion des épaves), où il peut être réclamé pendant cinq ans par le propriétaire non déchu de ses droits ou par ses ayants droit. A L'expiration du délai de cinq ans, il est acquis au Trésor.<br/>\n<br/>\n<br/>   Dans le cas de déchéance, le produit net de la vente est versé immédiatement au Trésor.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n° 61-1547 du 26 décembre 1961 - art. 6",
+        "@cidtexte": "JORFTEXT000000681997",
+        "@datesignatexte": "1961-12-26",
+        "@id": "LEGIARTI000006852850",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "61-1547",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°61-1547 du 26 décembre 1961 - art. 13 (M)",
+        "@cidtexte": "JORFTEXT000000681997",
+        "@datesignatexte": "1961-12-26",
+        "@id": "LEGIARTI000028679778",
+        "@naturetexte": "DECRET",
+        "@num": "13",
+        "@numtexte": "61-1547",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-632 1985-06-21 art. 6 JORF 23 juin 1985",
+        "@cidtexte": "JORFTEXT000000508387",
+        "@datesignatexte": "1985-06-21",
+        "@id": "JORFTEXT000000508387",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-632",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2016-1893 du 28 décembre 2016 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000033740739",
+        "@datesignatexte": "2016-12-28",
+        "@id": "LEGIARTI000033742104",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVK1525391D",
+        "@num": "4",
+        "@numtexte": "2016-1893",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des transports - art. R5142-14 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000033744255",
+        "@naturetexte": "CODE",
+        "@num": "R5142-14",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

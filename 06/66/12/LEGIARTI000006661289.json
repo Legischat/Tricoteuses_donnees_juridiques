@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006661289",
+      "ANCIEN_ID": "SEH76XXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/12/LEGIARTI000006661289.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-06-01",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2000-217 du 7 mars 2000 pris pour l'application de l'article 1000-6 du code rural et relatif au « titre emploi simplifié agricole »",
+          "@c_titre_court": "Décret n°2000-217 du 7 mars 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000582054"
+        },
+        {
+          "#text": "Décret n°2000-217 du 7 mars 2000 pris pour l'application de l'article 1000-6 du code rural et relatif au \"titre emploi simplifié agricole\"",
+          "@c_titre_court": "Décret n°2000-217 du 7 mars 2000",
+          "@debut": "2000-06-01",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000005629189"
+        }
+      ],
+      "@cid": "JORFTEXT000000582054",
+      "@date_publi": "2000-03-09",
+      "@date_signature": "2000-03-07",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "DECRET",
+      "@nor": "AGRS9901773D",
+      "@num": "2000-217",
+      "@num_parution_jo": "0058"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-06-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006661289",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'employeur utilise les titres emplois simplifiés selon leur numérotation croissante correspondant à l'ordre d'embauche des salariés.<br/>\n<br/>   La conservation par l'employeur des volets du titre, du relevé récapitulatif mentionné à l'article 3 et, le cas échéant, de la copie des titres autorisant le travailleur étranger à exercer une activité salariée, tient lieu du registre unique du personnel institué par l'article L. 620-3 du code du travail.<br/>\n<br/>   L'employeur remet au salarié, avec chaque volet correspondant au bulletin de paie, l'indication de chacun des taux des cotisations salariales, de la contribution sociale généralisée et de la contribution au remboursement de la dette sociale acquittées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1000-6",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code rural R712-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret n°2000-217 du 7 mars 2000 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000582054",
+        "@datesignatexte": "2000-03-07",
+        "@id": "LEGIARTI000006661286",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS9901773D",
+        "@num": "3",
+        "@numtexte": "2000-217",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. R712-5 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006596432",
+        "@naturetexte": "CODE",
+        "@num": "R712-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail - art. L620-3 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650404",
+        "@naturetexte": "CODE",
+        "@num": "L620-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

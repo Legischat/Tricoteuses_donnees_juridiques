@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006444558",
+      "ANCIEN_ID": "PEHYPXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/45/LEGIARTI000006444558.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-08-04",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 82-681 du 29 juillet 1982 relatif à la protection du titre d'œnologue",
+          "@c_titre_court": "Décret n° 82-681 du 29 juillet 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000313498"
+        },
+        {
+          "#text": "Décret n°82-681 du 29 juillet 1982 modifiant la loi n° 55-308 du 19 mars 1955 relative à la protection du titre d'oenologue.",
+          "@c_titre_court": "Décret n°82-681 du 29 juillet 1982",
+          "@debut": "1982-08-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006063858"
+        }
+      ],
+      "@cid": "JORFTEXT000000313498",
+      "@date_publi": "1982-08-04",
+      "@date_signature": "1982-07-29",
+      "@nature": "DECRET",
+      "@num": "82-681"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-08-04",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006444558",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 3 de la loi susvisée du 19 mars 1955 relative à la protection du titre d'oenologue est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 55-308 1955-03-19",
+        "@cidtexte": "JORFTEXT000000313480",
+        "@datesignatexte": "1955-03-19",
+        "@id": "JORFTEXT000000313480",
+        "@naturetexte": "LOI",
+        "@numtexte": "55-308",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi n°55-308 du 19 mars 1955 - art. 3, v. init.",
+        "@cidtexte": "JORFTEXT000000313480",
+        "@datesignatexte": "1955-03-19",
+        "@id": "JORFARTI000002072674",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "55-308",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°55-308 du 19 mars 1955 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000313480",
+        "@datesignatexte": "1955-03-19",
+        "@id": "LEGIARTI000006272625",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "55-308",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

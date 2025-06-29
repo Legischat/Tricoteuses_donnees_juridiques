@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006492754",
+      "ANCIEN_ID": "PJECMXXXXXX008AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/27/LEGIARTI000006492754.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2001-07-13",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 96-585 du 1er juillet 1996 portant modification de l'ordonnance no    45-174 du 2 février 1945 relative à l'enfance délinquante (1)",
+          "@c_titre_court": "Loi n°96-585 du 1 juillet 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000377648"
+        },
+        {
+          "#text": "Loi n° 96-585 du 1 juillet 1996 portant modification de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante",
+          "@c_titre_court": "Loi n° 96-585 du 1 juillet 1996",
+          "@debut": "1996-07-02",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005621282"
+        }
+      ],
+      "@cid": "JORFTEXT000000377648",
+      "@date_publi": "1996-07-02",
+      "@date_signature": "1996-07-01",
+      "@nature": "LOI",
+      "@nor": "JUSX9500185L",
+      "@num": "96-585"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-02",
+          "@etat": "MODIFIE",
+          "@fin": "2001-07-13",
+          "@id": "LEGIARTI000006492753",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-07-13",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006492754",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La présente loi est applicable dans les territoires d'outre-mer et à Mayotte.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-174 1945-02-02",
+        "@cidtexte": "JORFTEXT000000517521",
+        "@datesignatexte": "1945-02-02",
+        "@id": "JORFTEXT000000517521",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-174",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°2001-616 du 11 juillet 2001 - art. 75 (V) JORF 13 juillet 2001",
+        "@cidtexte": "JORFTEXT000000407771",
+        "@datesignatexte": "2001-07-11",
+        "@id": "LEGIARTI000006386587",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX0000187L",
+        "@num": "75",
+        "@numtexte": "2001-616",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

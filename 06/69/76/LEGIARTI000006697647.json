@@ -1,0 +1,76 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006697647",
+      "ANCIEN_ID": "AFEAQXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/76/LEGIARTI000006697647.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1795-07-24",
+        "DATE_FIN": "2007-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 24 juillet 1795 qui autorise le dépôt du montant des billets à ordre ou autres effets négociables, dont le porteur ne se sera pas présenté dans les trois jours qui suivront celui de l'échéance",
+          "@c_titre_court": "Loi du 24 juillet 1795",
+          "@debut": "1795-07-24",
+          "@fin": "2007-03-27",
+          "@id_txt": "LEGITEXT000006072674"
+        }
+      ],
+      "@cid": "LEGITEXT000006072674",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1795-07-24",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1795-07-24",
+          "@etat": "ABROGE",
+          "@fin": "2007-03-27",
+          "@id": "LEGIARTI000006697647",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le dépôt consommé, le débiteur ne sera tenu qu'à remettre l'acte de dépôt en échange du billet.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007",
+        "@cidtexte": "JORFTEXT000000820567",
+        "@datesignatexte": "2007-03-25",
+        "@id": "LEGIARTI000006261692",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX0600197D",
+        "@num": "3",
+        "@numtexte": "2007-431",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1795-07-24 Bulletin des Lois, 1e S., B. 166, n° 974",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

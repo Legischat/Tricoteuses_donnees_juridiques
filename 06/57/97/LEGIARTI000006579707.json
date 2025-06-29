@@ -1,0 +1,126 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579707",
+      "ANCIEN_ID": "RAA0XXXXXXX0220AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/97/LEGIARTI000006579707.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "220",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-04-19",
+        "DATE_FIN": "1989-06-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre III : De la lutte contre les maladies des animaux",
+              "@debut": "1955-04-19",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006121358"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : De la police sanitaire",
+                "@debut": "1955-04-19",
+                "@fin": "2005-04-22",
+                "@id": "LEGISCTA000006138208"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 1 : De la police sanitaire des maladies non contagieuses.",
+                  "@debut": "1955-04-19",
+                  "@fin": "1989-06-24",
+                  "@id": "LEGISCTA000006152085"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "ABROGE",
+          "@fin": "1989-06-24",
+          "@id": "LEGIARTI000006579707",
+          "@num": "220",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'exposition des animaux de l'espèce bovine, porteurs de lésions d'hypodermose (varron), est interdite dans les réunions ci-après désignées :<br/>\n<br/>   a) Concours agricoles ;<br/>\n<br/>   b) Foires et marchés aux bestiaux ;<br/>\n<br/>   c) Ventes publiques ;<br/>\n<br/>   d) Et, d'une façon générale, dans tous les rassemblements d'animaux ayant pour but l'exposition ou la mise en vente des animaux de l'espèce bovine.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1941-02-22 art. 1",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°89-412 du 22 juin 1989 - art. 38 (V) JORF 24 juin 1989",
+        "@cidtexte": "JORFTEXT000000509308",
+        "@datesignatexte": "1989-06-22",
+        "@id": "LEGIARTI000006599980",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX8900003L",
+        "@num": "38",
+        "@numtexte": "89-412",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

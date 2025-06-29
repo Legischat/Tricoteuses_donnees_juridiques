@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006272257",
+      "ANCIEN_ID": "AAEAAXXXXXX025AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/22/LEGIARTI000006272257.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-01-02",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692245"
+        },
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "1964-04-01",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006068288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Règles de fonctionnement des diverses sociétés commerciales",
+            "@debut": "1964-04-01",
+            "@fin": "2003-01-01",
+            "@id": "LEGISCTA000006083319"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 2 : Sociétés en commandite simple.",
+              "@debut": "1967-04-01",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006113826"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000692245",
+      "@date_publi": "1966-07-26",
+      "@date_signature": "1966-07-24",
+      "@nature": "LOI",
+      "@num": "66-537"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1990-01-02",
+          "@id": "LEGIARTI000006272256",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-02",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006272257",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La société en commandite simple est désignée par une dénomination sociale à laquelle peut être incorporé le nom d'un ou plusieurs associés et qui doit être précédée ou suivie immédiatement des mots : \"société en commandite simple\".<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°89-1008 du 31 décembre 1989 - art. 23 (V) JORF 2 janvier 1990",
+        "@cidtexte": "JORFTEXT000000709058",
+        "@datesignatexte": "1989-12-31",
+        "@id": "LEGIARTI000006502255",
+        "@naturetexte": "LOI",
+        "@nortexte": "COMX8900062L",
+        "@num": "23",
+        "@numtexte": "89-1008",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L222-3 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006222713",
+        "@naturetexte": "CODE",
+        "@num": "L222-3",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

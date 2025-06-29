@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006615754",
+      "ANCIEN_ID": "ADIIXXXXXXXA00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/57/LEGIARTI000006615754.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-04-01",
+        "DATE_FIN": "1984-05-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 mars 1983 relatif aux prix de vente au détail des poissons frais de mer et d'eau douce",
+          "@c_titre_court": "Arrêté du 31 mars 1983",
+          "@debut": "1983-04-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1983-04-01",
+            "@fin": "1984-05-24",
+            "@id": "LEGISCTA000006099271"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-03-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-04-01",
+          "@etat": "ABROGE",
+          "@fin": "1984-05-24",
+          "@id": "LEGIARTI000006615754",
+          "@num": "Annexe",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Présentation des espèces :<br/>\n<br/>   - Espèces revendues en l'état quelle que soit leur présentation.      Prix d'achat hors taxe au kilogramme (1) : égal ou supérieur à 10 F.<br/>\n<br/>     Coefficient multiplicateur maximum (2) : 1,50.<br/>\n<br/>   - Espèces mises et vendues en tranches par le détaillant.<br/>\n<br/>     Prix d'achat hors taxe au kilogramme (1) : égal ou supérieur à 10 F.<br/>\n<br/>     Coefficient multiplicateur maximum (2) :<br/>\n<br/>     - Poissons achetés avec tête : 2,05.<br/>\n<br/>     - Poissons achetés sans tête : 1,75.<br/>\n<br/>\n<br/>   (1) Prix d'achat tel qu'il figure sur les factures d'achats.<br/>\n<br/>   (2) Après application éventuelle de la freinte supportée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 22/A 1983-03-31 BOCC n° 6, 1er avril 1983",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 51/A 1984-05-23 art. 8 BOCC n° 9, 24 mai 1984",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

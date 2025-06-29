@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006639014",
+      "ANCIEN_ID": "RLIBIXXXXXX028AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/90/LEGIARTI000006639014.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "28",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-03-06",
+        "DATE_FIN": "1995-06-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 février 1977 relatif aux conditions d'hygiène relatives aux viandes de volaille découpées et conditionnées à l'avance",
+          "@c_titre_court": "Arrêté du 5 février 1977",
+          "@debut": "1977-03-06",
+          "@fin": "1995-06-29",
+          "@id_txt": "LEGITEXT000006072020"
+        }
+      ],
+      "@cid": "LEGITEXT000006072020",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-02-05",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-03-06",
+          "@etat": "ABROGE",
+          "@fin": "1995-06-29",
+          "@id": "LEGIARTI000006639014",
+          "@num": "28",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent arrêté sont applicables à compter de la date de la publication du présent arrêté.<br/>\n<br/>   Toutefois, les exploitants des ateliers de découpage, qui exerçaient leur activité le 15 février 1975, peuvent obtenir, s'ils en font la demande, un délai pouvant s'étendre jusqu'au 15 août 1977, pour se conformer aux dispositions du titre II relatives aux conditions d'installation et d'équipement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-02-05 art. 28",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1977-02-05 art. 4, art. 5, art. 6, art. 7, art. 8, art. 9",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1995-05-29 art. 50 JORF 29 juin 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 67-295 1967-03-31",
+        "@cidtexte": "JORFTEXT000000305784",
+        "@datesignatexte": "1967-03-31",
+        "@id": "JORFTEXT000000305784",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-295",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 71-636 1971-07-21",
+        "@cidtexte": "JORFTEXT000000335914",
+        "@datesignatexte": "1971-07-21",
+        "@id": "JORFTEXT000000335914",
+        "@naturetexte": "DECRET",
+        "@numtexte": "71-636",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

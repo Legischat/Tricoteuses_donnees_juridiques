@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006324562",
+      "ANCIEN_ID": "FAHJRXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/45/LEGIARTI000006324562.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-01-11",
+        "DATE_FIN": "1990-01-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-37 du 10 janvier 1985 RELATIF A LA TAXE PARAFISCALE PERCUE AU PROFIT DE L'INSTITUT FRANCAIS DU PETROLE (IFP)",
+          "@c_titre_court": "Décret n°85-37 du 10 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000699744"
+        },
+        {
+          "#text": "Décret n°85-37 du 10 janvier 1985 n° 85-37 du 10 janvier 1985 relatif à la taxe parafiscale perçue au profit de l'Institut français du pétrole *IFP*.",
+          "@c_titre_court": "Décret n°85-37 du 10 janvier 1985",
+          "@debut": "1985-01-11",
+          "@fin": "1990-01-03",
+          "@id_txt": "LEGITEXT000006064966"
+        }
+      ],
+      "@cid": "JORFTEXT000000699744",
+      "@date_publi": "1985-01-11",
+      "@date_signature": "1985-01-10",
+      "@nature": "DECRET",
+      "@num": "85-37"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-11",
+          "@etat": "ABROGE",
+          "@fin": "1990-01-03",
+          "@id": "LEGIARTI000006324562",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Sont soumis à la taxe les produits pétroliers et assimilés figurant au tableau B annexé au 1 de l'article 265 du code des douanes. <br/>\n    Le taux de la taxe, variable suivant les produits, est fixé par arrêté conjoint du ministre chargé du budget, du ministre chargé de l'économie et du ministre chargé des hydrocarbures [*autorites compétentes*], dans les limites d'un maximum de : <br/>\n    80 F par tonne pour le butane et le propane ; <br/>\n    30 F par tonne pour les supercarburants, les essences, le gazole [*gas-oil*] et les carburéacteurs ; <br/>\n    20 F par tonne pour les autres produits.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°85-37 du 10 janvier 1985 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000699744",
+        "@datesignatexte": "1985-01-10",
+        "@id": "LEGIARTI000006324565",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "85-37",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des douanes - art. 265 (M)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615102",
+        "@naturetexte": "CODE",
+        "@num": "265",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

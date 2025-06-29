@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006773869",
+      "ANCIEN_ID": "SSHBE6XXXXX035AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/77/38/LEGIARTI000006773869.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "35",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-04-02",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°61-294 du 31 mars 1961 ASSURANCES MALADIE,MATERNITE ET INVALIDITE DES EXPLOITANTS AGRICOLES ET DES MEMBRES DE LEUR FAMILLE NON SALARIES",
+          "@c_titre_court": "Décret n°61-294 du 31 mars 1961",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000849661"
+        },
+        {
+          "#text": "Décret n°61-294 du 31 mars 1961  RELATIF A L'APPLICATION DU CHAPITRE III-1 DU TITRE II DU LIVRE VII DU CODE RURAL, NOTAMMENT EN CE QUI CONCERNE LES DROITS ET OBLIGATIONS DES BENEFICIAIRES DU REGIME OBLIGATOIRE D'ASSURANCE MALADIE, INVALIDITE, MATERNITE DES MEMBRES NON-SALARIES DES PROFESSIONS AGRICOLES *AMEXA*.",
+          "@c_titre_court": "Décret n°61-294 du 31 mars 1961",
+          "@debut": "1961-04-02",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006061018"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "PRESTATIONS",
+            "@debut": "1961-04-02",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107260"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "DISPOSITIONS SPECIALES AUX BENEFICIAIRES DE L'AIDE MEDICALE.",
+              "@debut": "1961-04-02",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127850"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000849661",
+      "@date_publi": "1961-04-02",
+      "@date_signature": "1961-03-31",
+      "@nature": "DECRET",
+      "@num": "61-294"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-04-02",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006773869",
+          "@num": "35",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de l'article précédent [*règlement des prestations par les organismes assureurs, tiers payant, charge financière du ticket modérateur*] sont applicables aux prestations de toute nature dues pour le compte d'un assuré, de son conjoint et de ses enfants mineurs dès l'instant que [*condition préalable*] l'intéressé a fait l'objet d'une décision de prise en charge du titre de l'aide médicale, notifiée par le préfet à la caisse de mutualité sociale agricole intéressée [*formalité obligatoire*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1106-1 à 1106-16 Bis",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°61-294 du 31 mars 1961 - art. 34 (Ab)",
+        "@cidtexte": "JORFTEXT000000849661",
+        "@datesignatexte": "1961-03-31",
+        "@id": "LEGIARTI000006773868",
+        "@naturetexte": "DECRET",
+        "@num": "34",
+        "@numtexte": "61-294",
+        "@sens": "cible",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°61-294 du 31 mars 1961 - art. 34 (Ab)",
+        "@cidtexte": "JORFTEXT000000849661",
+        "@datesignatexte": "1961-03-31",
+        "@id": "LEGIARTI000006773868",
+        "@naturetexte": "DECRET",
+        "@num": "34",
+        "@numtexte": "61-294",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006872285",
+      "ANCIEN_ID": "UQIGSXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/22/LEGIARTI000006872285.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-08-19",
+        "DATE_FIN": "2004-11-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 juin 1990 relatif à la limitation des rejets atmosphériques des    grandes installations de combustion et aux conditions d'évacuation des rejets    des installations de combustion",
+          "@c_titre_court": "Arrêté du 27 juin 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000534396"
+        },
+        {
+          "#text": "Arrêté du 27 juin 1990 relatif à la limitation des rejets atmosphériques des grandes installations de combustion et aux conditions d'évacuation des rejets des installations de combustion",
+          "@c_titre_court": "Arrêté du 27 juin 1990",
+          "@debut": "1990-08-19",
+          "@fin": "2004-11-06",
+          "@id_txt": "LEGITEXT000006076377"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : VALEURS LIMITES D'ÉMISSION.",
+            "@debut": "1990-08-19",
+            "@fin": "2004-11-06",
+            "@id": "LEGISCTA000006111062"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000534396",
+      "@date_publi": "1990-08-19",
+      "@date_signature": "1990-06-27",
+      "@nature": "ARRETE",
+      "@nor": "PRME9061335A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-08-19",
+          "@etat": "ABROGE",
+          "@fin": "2004-11-06",
+          "@id": "LEGIARTI000006872285",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent article concerne les installations de combustion utilisant les résidus de distillation et de conversion du raffinage du pétrole brut, seuls ou avec d'autres combustibles, pour leur consommation propre.<br/>\n<br/>   Les valeurs limites d'émission sont déterminées de la façon suivante, nonobstant les dispositions de l'article 14.<br/>\n<br/>   Pour chaque polluant, on considère le combustible déterminant, c'est-à-dire celui pour lequel la valeur limite d'émission Ci, telle que définie à l'article 14, est la plus élevée, ou, dans le cas de deux combustibles ayant la même valeur limite, celui qui fournit la puissance thermique la plus élevée :<br/>\n<br/>   a) Si, pendant le fonctionnement de l'installation, la puissance thermique fournie par ce combustible est supérieure ou égale à la moitié de la somme des puissances thermiques fournies par tous les combustibles, la valeur limite d'émission est celle du combustible déterminant ;<br/>\n<br/>   b) Si au contraire la puissance fournie par le combustible déterminant est inférieure à la moitié de la somme des puissances thermiques fournies par tous les combustibles, la valeur limite d'émission est déterminée par la formule suivante :<br/>\n<br/>   (Formule non reproduite, voir JO du 19/08/1990 page 10127)<br/>\n<br/>   où :<br/>\n<br/>   C, Ci, Pi sont définis comme à l'article 14, le combustible i n'étant pas déterminant ;<br/>\n<br/>   Cdet est la valeur limite d'émission pour le combustible déterminant, telle que définie à l'article 7, correspondant à la puissance thermique de l'installation ;<br/>\n<br/>   Cinf est la valeur limite d'émission relative au combustible ayant la valeur limite d'émission la moins élevée ;<br/>\n<br/>   Pdet est la puissance thermique fournie par le combustible déterminant.<br/>\n<br/>   Dans le cas des raffineries, les arrêtés d'autorisation peuvent, à la demande de l'exploitant, prévoir pour le dioxyde de soufre, au lieu des dispositions qui précèdent, une valeur limite d'émission unique comme moyenne pour toutes les installations visées par le présent titre, à condition que cela n'ait pas pour conséquence d'autoriser une augmentation des émissions polluantes des autres installations de la raffinerie. Cette valeur limite ne doit pas dépasser 1 000 mg/m3.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-06-27 art. 14, art. 7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2003-07-30 art. 48 JORF 6 novembre 2003",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°76-663 du 19 juillet 1976 - art. 7 (M)",
+        "@cidtexte": "JORFTEXT000000684771",
+        "@datesignatexte": "1976-07-19",
+        "@id": "LEGIARTI000006846685",
+        "@naturetexte": "LOI",
+        "@num": "7",
+        "@numtexte": "76-663",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 77-1133 1977-09-21",
+        "@cidtexte": "JORFTEXT000000518520",
+        "@datesignatexte": "1977-09-21",
+        "@id": "JORFTEXT000000518520",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-1133",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

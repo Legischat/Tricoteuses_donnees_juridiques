@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283306",
+      "ANCIEN_ID": "ARAXXXXXXXX5X00095AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/33/LEGIARTI000006283306.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "95",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1863-05-29",
+        "DATE_FIN": "1998-02-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de commerce (ancien)",
+          "@c_titre_court": "Code de commerce",
+          "@debut": "1807-09-20",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre I : Du commerce en général",
+            "@debut": "1807-09-20",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083845"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VI : Du gage et des commissionnaires",
+              "@debut": "1863-05-23",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006114099"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section II : Des commissionnaires en général.",
+                "@debut": "1863-05-29",
+                "@fin": "2000-09-21",
+                "@id": "LEGISCTA000006133392"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069441",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1863-05-29",
+          "@etat": "MODIFIE",
+          "@fin": "1998-02-07",
+          "@id": "LEGIARTI000006283306",
+          "@num": "95",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1998-02-07",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006283307",
+          "@num": "95",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tout commissionnaire a privilège sur la valeur des marchandises à lui expédiées, déposées ou consignées, par le seul fait de l'expédition, du dépôt ou de la consignation pour tous les prêts, avances ou paiements faits par lui, soit avant la réception des marchandises, soit pendant le temps qu'elles sont en sa possession.<br/>\n<br/>   Ce privilège ne subsiste que sous la condition prescrite par l'article 92 qui précède.<br/>\n<br/>   Dans la créance privilégiée du commissionnaire sont compris avec le principal, les intérêts, commission et frais.<br/>\n<br/>   Si les marchandises ont été vendues et livrées pour le compte du commettant, le commissionnaire se rembourse, sur le produit de la vente, du montant de sa créance, par préférence aux créanciers du commettant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de commerce 92",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000005634379",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1863-05-23 promulguée le 29 mai 1863",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

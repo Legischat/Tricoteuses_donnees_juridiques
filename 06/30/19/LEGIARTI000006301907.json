@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006301907",
+      "ANCIEN_ID": "AAECBXXXXXX038AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/30/19/LEGIARTI000006301907.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "38",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-03-01",
+        "DATE_FIN": "1993-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-148 du 1 mars 1984 RELATIVE A LA PREVENTION ET AU REGLEMENT AMIABLE DES DIFFICULTES DES ENTREPRISES",
+          "@c_titre_court": "Loi n°84-148 du 1 mars 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000501098"
+        },
+        {
+          "#text": "Loi n° 84-148 du 1 mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises",
+          "@c_titre_court": "Loi n° 84-148 du 1 mars 1984",
+          "@debut": "1985-01-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068829"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre VII : Groupements de prévention agréés et règlement amiable.",
+            "@debut": "1985-03-01",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006084221"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000501098",
+      "@date_publi": "1984-03-02",
+      "@date_signature": "1984-03-01",
+      "@nature": "LOI",
+      "@num": "84-148"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-01",
+          "@etat": "MODIFIE",
+          "@fin": "1993-09-01",
+          "@id": "LEGIARTI000006301907",
+          "@num": "38",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006301908",
+          "@num": "38",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute personne qui est appelée au règlement amiable ou qui, par ses fonctions, en a connaissance est tenue au secret professionnel, dans les conditions et sous les peines prévues à l'article 378 du code pénal.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-148 1984-03-01 art. 62 *date d'effet - décrets d'application*",
+        "@cidtexte": "JORFTEXT000000501098",
+        "@datesignatexte": "1984-03-01",
+        "@id": "JORFTEXT000000501098",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-148",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code de commerce. - art. L611-6 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006235178",
+        "@naturetexte": "CODE",
+        "@num": "L611-6",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code pénal 378",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006913011",
+      "ANCIEN_ID": "AKFACXXXXXX035AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/30/LEGIARTI000006913011.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "35",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-08-10",
+        "DATE_FIN": "1997-05-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts comptables et des comptables agréés et réglementant les titres et professions d'expert comptable et comptable agréé",
+          "@c_titre_court": "Ordonnance n° 45-2138 du 19 septembre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000698851"
+        },
+        {
+          "#text": "Ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable",
+          "@c_titre_court": "Ordonnance n° 45-2138 du 19 septembre 1945",
+          "@debut": "1945-09-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069163"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : De l'administration de l'ordre",
+            "@debut": "1945-02-22",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006112959"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section III : Du conseil supérieur.",
+              "@debut": "1945-09-21",
+              "@fin": "2022-02-16",
+              "@id": "LEGISCTA000006132392"
+            },
+            {
+              "#text": "Section III : Du conseil national.",
+              "@debut": "2022-02-16",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000045178523"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000698851",
+      "@date_publi": "1945-09-21",
+      "@date_signature": "1945-09-19",
+      "@nature": "ORDONNANCE",
+      "@num": "45-2138"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-09-21",
+          "@etat": "MODIFIE",
+          "@fin": "1970-02-22",
+          "@id": "LEGIARTI000006913010",
+          "@num": "35",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-08-10",
+          "@etat": "ABROGE",
+          "@fin": "1997-05-31",
+          "@id": "LEGIARTI000006913011",
+          "@num": "35",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil supérieur de l'ordre est réuni par son président aussi souvent qu'il est nécessaire et au moins une fois par semestre.<br/>\n<br/>   Il est obligatoirement convoqué à la demande de la majorité du conseil ou à la demande du commissaire du Gouvernement institué à l'article 56.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°45-2138 du 19 septembre 1945 - art. 56 (M)",
+        "@cidtexte": "JORFTEXT000000698851",
+        "@datesignatexte": "1945-09-19",
+        "@id": "LEGIARTI000006913375",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "56",
+        "@numtexte": "45-2138",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°94-679 du 8 août 1994 - art. 50 () JORF 10 août 1994",
+        "@cidtexte": "JORFTEXT000000713238",
+        "@datesignatexte": "1994-08-08",
+        "@id": "LEGIARTI000006698436",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9300054L",
+        "@num": "50",
+        "@numtexte": "94-679",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°97-586 du 30 mai 1997 - art. 10 (Ab) JORF 31 mai 1997",
+        "@cidtexte": "JORFTEXT000000383437",
+        "@datesignatexte": "1997-05-30",
+        "@id": "LEGIARTI000006202448",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOX9700064D",
+        "@num": "10",
+        "@numtexte": "97-586",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°97-586 du 30 mai 1997 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000383437",
+        "@datesignatexte": "1997-05-30",
+        "@id": "LEGIARTI000006202448",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOX9700064D",
+        "@num": "10",
+        "@numtexte": "97-586",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

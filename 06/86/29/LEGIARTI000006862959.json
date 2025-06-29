@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862959",
+      "ANCIEN_ID": "UPIMWXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/29/LEGIARTI000006862959.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE I",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-04-10",
+        "DATE_FIN": "2008-04-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 avril 1981 relatif aux dispositions administratives applicables aux piscines et aux baignades aménagées",
+          "@c_titre_court": "Arrêté du 7 avril 1981",
+          "@debut": "1981-04-10",
+          "@fin": "2008-04-30",
+          "@id_txt": "LEGITEXT000006074616"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1981-04-10",
+            "@fin": "2008-04-30",
+            "@id": "LEGISCTA000006110251"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074616",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1981-04-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-04-10",
+          "@etat": "ABROGE",
+          "@fin": "2008-04-30",
+          "@id": "LEGIARTI000006862959",
+          "@num": "ANNEXE I",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>              A - DECLARATION D'OUVERTURE [*modèle*].    Je soussigné, (nom, qualité) ... déclare procéder à l'installation d'une piscine (ou d'une baignade aménagée) à (commune, adresse) ...    La date d'ouverture est fixée au ...    Dès son ouverture, l'installation sera conforme à la description contenue dans le dossier justificatif joint à la présente déclaration ; elle satisfera aux normes d'hygiène et de sécurité fixées par le décret n° 81-324 du 7 avril 1981. <br/>\n<br/>   Fait à ... , le ...<br/>\n<br/>                     B - DOSSIER JUSTIFICATIF.<br/>\n<br/>   Il comprend [*contenu*] :<br/>\n<br/>   1° Une fiche préparée selon le modèle ci-dessous :<br/>\n<br/>   Etablissement : ...    Adresse : ...                                 Téléphone : ...    Propriétaire : ...    Nom : ...                    Qualité : ... <br/>\n<br/>   Adresse : ...                                 Téléphone : ... <br/>\n<br/>   Nature de la gestion : municipale, association loi 1901, société privée, autre.<br/>\n<br/>   Nom du responsable de la gestion de l'établissement : ... Adresse :  ...                                 Téléphone : ...    Périodes d'ouverture : ...    Horaires d'ouverture : ...    Fréquentation maximale instantanée en visiteurs : ...    Fréquentation maximale instantanée en baigneurs : ... <br/>\n<br/>   2° Les plans des locaux, bassins ou plans d'eau et les plans d'exécution des installations techniques de circulation et de traitement de l'eau.<br/>\n<br/>   3° Un document précisant l'origine de l'eau alimentant l'installation et décrivant les conditions de circulation des eaux et leur traitement éventuel.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1981-04-07 (dispositions techniques)",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret n°81-324 du 7 avril 1981",
+        "@cidtexte": "JORFTEXT000000857791",
+        "@datesignatexte": "1981-04-07",
+        "@id": "JORFTEXT000000857791",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-324",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 28 février 2008 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000018730866",
+        "@datesignatexte": "2008-02-28",
+        "@id": "LEGIARTI000018732063",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SJSV0805704A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

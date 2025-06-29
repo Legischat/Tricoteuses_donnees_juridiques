@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006715618",
+      "ANCIEN_ID": "SPI87XXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/56/LEGIARTI000006715618.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-05-28",
+        "DATE_FIN": "1997-04-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 mai 1992 RELATIF AU CERTIFICAT MEDICAL PRENUPTIAL PREVU PAR L'ART. L153 DU CODE DE LA SANTE PUBLIQUE",
+          "@c_titre_court": "Arrêté du 7 mai 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000326714"
+        },
+        {
+          "#text": "Arrêté du 7 mai 1992 relatif au certificat médical prénuptial prévu par l'article L. 153 du code de la santé publique",
+          "@c_titre_court": "Arrêté du 7 mai 1992",
+          "@debut": "1992-05-28",
+          "@fin": "1997-04-08",
+          "@id_txt": "LEGITEXT000006060072"
+        }
+      ],
+      "@cid": "JORFTEXT000000326714",
+      "@date_publi": "1992-05-28",
+      "@date_signature": "1992-05-07",
+      "@nature": "ARRETE",
+      "@nor": "SANP9201090A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-05-28",
+          "@etat": "ABROGE",
+          "@fin": "1997-04-08",
+          "@id": "LEGIARTI000006715618",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 30 juin 1978 modifié et relatif au certificat prénuptial est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1978-06-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L153 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692414",
+        "@naturetexte": "CODE",
+        "@num": "L153",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

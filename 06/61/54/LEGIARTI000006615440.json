@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006615440",
+      "ANCIEN_ID": "RDAXXXXXXXX4X045AAAAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/54/LEGIARTI000006615440.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "45",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1964-01-03",
+        "DATE_FIN": "2023-07-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code des douanes",
+          "@c_titre_court": "Code des douanes",
+          "@debut": "1949-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071570"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Organisation et fonctionnement du service des douanes",
+            "@debut": "1949-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006099261"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Champ d'action du service des douanes.",
+              "@debut": "1964-01-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006122077"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071570",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-01-03",
+          "@etat": "ABROGE",
+          "@fin": "2023-07-20",
+          "@id": "LEGIARTI000006615440",
+          "@num": "45",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le tracé de la limite intérieure de la zone terrestre du rayon est fixé par des arrêtés du ministre de l'économie et des finances.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 48-1985 1948-12-08",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 48-1985 1948-12-08",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 63-1351 1963-12-31 art. 2 JORF 3 janvier 1964",
+        "@cidtexte": "JORFTEXT000000312751",
+        "@datesignatexte": "1963-12-31",
+        "@id": "JORFTEXT000000312751",
+        "@naturetexte": "LOI",
+        "@numtexte": "63-1351",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2023-610 du 18 juillet 2023 - art. 1",
+        "@cidtexte": "JORFTEXT000047858021",
+        "@datesignatexte": "2023-07-18",
+        "@id": "LEGIARTI000047858927",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOD2306819L",
+        "@num": "1",
+        "@numtexte": "2023-610",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

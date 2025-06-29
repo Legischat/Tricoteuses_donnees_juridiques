@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006830984",
+      "ANCIEN_ID": "UCIMBXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/09/LEGIARTI000006830984.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-01-01",
+        "DATE_FIN": "1999-07-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 octobre 1994 relatif aux caractéristiques    acoustiques des bâtiments d'habitation",
+          "@c_titre_court": "Arrêté du 28 octobre 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000348466"
+        },
+        {
+          "#text": "Arrêté du 28 octobre 1994 relatif aux caractéristiques acoustiques des bâtiments d'habitation",
+          "@c_titre_court": "Arrêté du 28 octobre 1994",
+          "@debut": "1996-01-01",
+          "@fin": "1999-07-17",
+          "@id_txt": "LEGITEXT000005617037"
+        }
+      ],
+      "@cid": "JORFTEXT000000348466",
+      "@date_publi": "1994-11-25",
+      "@date_signature": "1994-10-28",
+      "@ministere": "MINISTERE DU LOGEMENT",
+      "@nature": "ARRETE",
+      "@nor": "LOGC9400069A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1999-07-17",
+          "@id": "LEGIARTI000006830984",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 14 juin 1969, modifié par l'arrêté du 22 décembre 1975, relatif à l'isolation acoustique dans les bâtiments d'habitation est abrogé à la date d'entrée en vigueur du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1969-06-14",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1975-12-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1994-10-28 art. 11",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1999-06-30 art. 12 JORF 17 juillet 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation L.111-4, L.111-11, R.111-1 et R.111-4",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

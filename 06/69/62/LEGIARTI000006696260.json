@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006696260",
+      "ANCIEN_ID": "SPEAPXXXXXX006AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/62/LEGIARTI000006696260.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1980-07-09",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°67-1176 du 28 décembre 1967 DITE NEUWIRTH RELATIVE A LA REGULATION DES NAISSANCES ET ABROGEANT LES ART. L648 & L649 DU CODE DE LA SANTE PUBLIQUE",
+          "@c_titre_court": "Loi n°67-1176 du 28 décembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880754"
+        },
+        {
+          "#text": "Loi n° 67-1176 du 28 décembre 1967 relative à la régulation des naissances et abrogeant les articles L. 648 et L. 649 du code de la santé publique",
+          "@c_titre_court": "Loi n° 67-1176 du 28 décembre 1967",
+          "@debut": "1967-12-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068299"
+        }
+      ],
+      "@cid": "JORFTEXT000000880754",
+      "@date_publi": "1967-12-29",
+      "@date_signature": "1967-12-28",
+      "@nature": "LOI",
+      "@num": "67-1176"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-12-29",
+          "@etat": "MODIFIE",
+          "@fin": "1974-12-05",
+          "@id": "LEGIARTI000006696258",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1974-12-05",
+          "@etat": "MODIFIE",
+          "@fin": "1980-07-09",
+          "@id": "LEGIARTI000006696259",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-09",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006696260",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les départements d'outre-mer, un décret en Conseil d'Etat fixe des conditions particulières de délivrance des contraceptifs et de fonctionnement des centres de planification et d'éducation familiale.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°67-1176 du 28 décembre 1967 - art. 7 (M)",
+        "@cidtexte": "JORFTEXT000000880754",
+        "@datesignatexte": "1967-12-28",
+        "@id": "LEGIARTI000006696264",
+        "@naturetexte": "LOI",
+        "@num": "7",
+        "@numtexte": "67-1176",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 74-3 1974-01-03",
+        "@cidtexte": "JORFTEXT000000510734",
+        "@datesignatexte": "1974-01-03",
+        "@id": "JORFTEXT000000510734",
+        "@naturetexte": "DECRET",
+        "@numtexte": "74-3",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

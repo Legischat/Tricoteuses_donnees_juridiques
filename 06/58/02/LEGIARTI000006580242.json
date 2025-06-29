@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580242",
+      "ANCIEN_ID": "RAA0XXXXXXX0438AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/02/LEGIARTI000006580242.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "438",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1980-07-23",
+        "DATE_FIN": "1985-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : La chasse et la pêche",
+            "@debut": "1955-04-19",
+            "@fin": "1994-01-01",
+            "@id": "LEGISCTA000006098250"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre III : De la police de la pêche",
+              "@debut": "1955-04-19",
+              "@fin": "1989-11-04",
+              "@id": "LEGISCTA000006121374"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Dispositions générales et pénales.",
+                "@debut": "1955-04-19",
+                "@fin": "1989-11-04",
+                "@id": "LEGISCTA000006138239"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-23",
+          "@etat": "MODIFIE",
+          "@fin": "1985-07-01",
+          "@id": "LEGIARTI000006580242",
+          "@num": "438",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006580243",
+          "@num": "438",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Quiconque pêchera, colportera ou débitera des poissons qui n'auront point les dimensions déterminées par les règlements sera puni d'une amende de 600 à 1.200 F et de la confiscation desdits poissons.<br/>\n<br/>   Sont néanmoins exceptées de cette disposition les ventes de poissons provenant des étangs ou réservoirs, mais quiconque colporte ou débite ces poissons est tenu de justifier de leur origine, dans les conditions qui sont fixées par un décret.<br/>\n<br/>   Sont considérés comme des étangs ou réservoirs :<br/>\n<br/>   1° Les fossés ou canaux appartenant à des particuliers, dès que leurs eaux cessent naturellement de communiquer avec des rivières ;<br/>\n<br/>   2° Les enclos licitement aménagés en vertu des dispositions de l'article 427.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 427",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural L236-6",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1829-04-15",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

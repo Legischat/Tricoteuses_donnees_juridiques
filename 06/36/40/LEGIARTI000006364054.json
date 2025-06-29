@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006364054",
+      "ANCIEN_ID": "MPIABXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/40/LEGIARTI000006364054.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-08-04",
+        "DATE_FIN": "2020-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 août 1992 fixant les indices de solde applicables aux militaires    non officiers de la brigade de sapeurs-pompiers de Paris",
+          "@c_titre_court": "Arrêté du 3 août 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000540977"
+        },
+        {
+          "#text": "Arrêté du 3 août 1992 fixant les indices de solde applicables aux militaires non officiers de la brigade de sapeurs-pompiers de Paris",
+          "@c_titre_court": "Arrêté du 3 août 1992",
+          "@debut": "1992-08-04",
+          "@fin": "2020-06-22",
+          "@id_txt": "LEGITEXT000006079596"
+        }
+      ],
+      "@cid": "JORFTEXT000000540977",
+      "@date_publi": "1992-08-04",
+      "@date_signature": "1992-08-03",
+      "@ministere": "MINISTERE DE L'INTERIEUR",
+      "@nature": "ARRETE",
+      "@nor": "DEFP9201715A",
+      "@num_parution_jo": "0179"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-08-04",
+          "@etat": "ABROGE",
+          "@fin": "2020-06-22",
+          "@id": "LEGIARTI000006364054",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>\nL'arrêté du 19 février 1976 fixant les indices de solde applicables aux militaires non officiers de la brigade de sapeurs-pompiers de Paris est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 19 février 1976",
+        "@cidtexte": "JORFTEXT000000311469",
+        "@datesignatexte": "1976-02-19",
+        "@id": "JORFTEXT000000311469",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 18 juin 2020 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000042020432",
+        "@datesignatexte": "2020-06-18",
+        "@id": "LEGIARTI000042022350",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ARMH2005634A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

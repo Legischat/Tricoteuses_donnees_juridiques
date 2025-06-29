@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351967",
+      "ANCIEN_ID": "AAHJGXXXXXX046AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/19/LEGIARTI000006351967.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "46",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1972-07-08",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°52-1326 du 15 décembre 1952 SOCIETES DE CREDIT DIFFERE",
+          "@c_titre_court": "Décret n°52-1326 du 15 décembre 1952",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687210"
+        },
+        {
+          "#text": "Décret n°52-1326 du 15 décembre 1952 pris pour l'application de la loi n° 52-332 du 24 mars 1952 et relatif aux contrats de crédit différé",
+          "@c_titre_court": "Décret n°52-1326 du 15 décembre 1952",
+          "@debut": "1952-12-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060627"
+        }
+      ],
+      "@cid": "JORFTEXT000000687210",
+      "@date_publi": "1952-12-16",
+      "@date_signature": "1952-12-15",
+      "@nature": "DECRET",
+      "@num": "52-1326"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-07-08",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006351967",
+          "@num": "46",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le contrat ne peut prévoir de dérogation aux règles du droit commun relatives à la compétence des tribunaux.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 52-332 1952-03-24",
+        "@cidtexte": "JORFTEXT000000888671",
+        "@datesignatexte": "1952-03-24",
+        "@id": "JORFTEXT000000888671",
+        "@naturetexte": "LOI",
+        "@numtexte": "52-332",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°52-1326 du 15 décembre 1952 - art. 33 (T)",
+        "@cidtexte": "JORFTEXT000000687210",
+        "@datesignatexte": "1952-12-15",
+        "@id": "LEGIARTI000006351918",
+        "@naturetexte": "DECRET",
+        "@num": "33",
+        "@numtexte": "52-1326",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret n°52-1326 du 15 décembre 1952 - art. 33 (T)",
+        "@cidtexte": "JORFTEXT000000687210",
+        "@datesignatexte": "1952-12-15",
+        "@id": "LEGIARTI000006351918",
+        "@naturetexte": "DECRET",
+        "@num": "33",
+        "@numtexte": "52-1326",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

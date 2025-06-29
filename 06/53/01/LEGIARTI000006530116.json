@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006530116",
+      "ANCIEN_ID": "PPFAKXXXXXX042AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/01/LEGIARTI000006530116.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "42",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-03",
+        "DATE_FIN": "2005-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances",
+          "@c_titre_court": "Ordonnance n° 59-2 du 2 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339591"
+        },
+        {
+          "#text": "Ordonnance n°59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances.",
+          "@c_titre_court": "Ordonnance n°59-2 du 2 janvier 1959",
+          "@debut": "1959-01-03",
+          "@fin": "2005-01-01",
+          "@id_txt": "LEGITEXT000006069252"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : De la présentation et du vote des projets de lois de finances",
+            "@debut": "1959-01-03",
+            "@fin": "2005-01-01",
+            "@id": "LEGISCTA000006096051"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : De la procédure d'élaboration des lois de finances.",
+              "@debut": "1959-01-03",
+              "@fin": "2005-01-01",
+              "@id": "LEGISCTA000006120498"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000339591",
+      "@date_publi": "1959-01-03",
+      "@date_signature": "1959-01-02",
+      "@nature": "ORDONNANCE",
+      "@num": "59-2"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-03",
+          "@etat": "ABROGE",
+          "@fin": "2005-01-01",
+          "@id": "LEGIARTI000006530116",
+          "@num": "42",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Aucun article additionnel, aucun amendement à un projet de loi de finances ne peut être présenté, sauf s'il tend à supprimer ou à réduire effectivement une dépense, à créer ou à accroître une recette ou à assurer le contrôle des dépenses publiques. <br/>\n<br/>   Tout article additionnel et tout amendement doit être motivé et accompagné des développements des moyens qui le justifient.<br/>\n<br/>   La disjonction des articles additionnels ou amendements qui contreviennent aux dispositions du présent article est de droit.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°59-2 du 2 janvier 1959 - art. 44 (Ab)",
+        "@cidtexte": "JORFTEXT000000339591",
+        "@datesignatexte": "1959-01-02",
+        "@id": "LEGIARTI000006530122",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "44",
+        "@numtexte": "59-2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°2001-692 du 1 août 2001 - art. 67 (VT) JORF 2 août 2001 en vigueur le 1er janvier 2005",
+        "@cidtexte": "JORFTEXT000000394028",
+        "@datesignatexte": "2001-08-01",
+        "@id": "LEGIARTI000006321099",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "ECOX0104681L",
+        "@num": "67",
+        "@numtexte": "2001-692",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

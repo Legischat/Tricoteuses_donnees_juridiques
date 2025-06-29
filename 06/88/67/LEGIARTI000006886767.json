@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006886767",
+      "ANCIEN_ID": "UTIAJXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/67/LEGIARTI000006886767.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-01-17",
+        "DATE_FIN": "1991-04-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 décembre 1986 relatif aux conditions d'homologation et d'utilisation d'un aérodrome pour l'exécution de procédures d'approche de précision",
+          "@c_titre_court": "Arrêté du 22 décembre 1986",
+          "@debut": "1987-01-17",
+          "@fin": "1991-04-17",
+          "@id_txt": "LEGITEXT000006075008"
+        }
+      ],
+      "@cid": "LEGITEXT000006075008",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-12-22",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-17",
+          "@etat": "ABROGE",
+          "@fin": "1991-04-17",
+          "@id": "LEGIARTI000006886767",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des dérogations éventuelles peuvent être accordées par le ministre chargé de l'aviation civile, sous réserve qu'elles soient dûment justifiées, sur demande :<br/>\n<br/>   - de l'autorité de l'aviation civile territorialement compétente pour les aérodromes dont l'affectataire principal est le ministre chargé de l'aviation civile ;<br/>\n<br/>   - du représentant de l'affectataire principal dans les autres cas.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-12-22 art. 6",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1991-03-15 art. 8 JORF 17 avril 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'aviation civile D131-1 à D131-10",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074234",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

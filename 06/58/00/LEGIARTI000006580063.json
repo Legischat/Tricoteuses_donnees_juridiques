@@ -1,0 +1,136 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580063",
+      "ANCIEN_ID": "RAA0XXXXXXX0359AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/00/LEGIARTI000006580063.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "359",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1955-04-19",
+        "DATE_FIN": "1993-01-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre X : De la protection des végétaux.",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121366"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : Contrôle des pépinières.",
+                "@debut": "1955-04-19",
+                "@fin": "1993-01-05",
+                "@id": "LEGISCTA000006138220"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "MODIFIE",
+          "@fin": "1993-01-05",
+          "@id": "LEGIARTI000006580063",
+          "@num": "359",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-01-05",
+          "@etat": "MODIFIE",
+          "@fin": "1999-07-10",
+          "@id": "LEGIARTI000006580064",
+          "@num": "359",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-07-10",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006580065",
+          "@num": "359",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le contrôle de l'état sanitaire des pépinières est assuré par les inspecteurs et contrôleurs de la protection des végétaux. Lorsqu'ils constatent la présence d'un des parasites animaux ou végétaux inscrits sur la liste prévue à l'article 342, ces fonctionnaires peuvent faire procéder à la destruction de tout ou partie des pépinières contaminées ou à leur mise en quarantaine jusqu'à désinfection complète.<br/>\n<br/>   Ils mettent au préalable en demeure le propriétaire, le directeur ou gérant, d'exécuter dans un délai de six jours les mesures de destruction ou de désinfection nécessaires.<br/>\n<br/>   Au cas d'inexécution de ces mesures dans les délais prescrits, procès-verbal est dressé aux fins de poursuites judiciaires ; la destruction des sujets contaminés est alors exécutée par le service de la protection des végétaux, aux frais du contrevenant, après prélèvement, en sa présence, de quatre échantillons destinés à une expertise contradictoire.<br/>\n<br/>   Le coût des travaux est recouvré dans les formes et conditions prévues à l'article 354.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 342, 354",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-2627 1945-11-02 art. 18",
+        "@cidtexte": "JORFTEXT000000522123",
+        "@datesignatexte": "1945-11-02",
+        "@id": "JORFTEXT000000522123",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2627",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

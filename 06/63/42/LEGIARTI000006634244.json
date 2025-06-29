@@ -1,0 +1,75 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006634244",
+      "ANCIEN_ID": "ADIVQXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/42/LEGIARTI000006634244.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1994-12-28",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 décembre 1994 relatif à l'automatisation d'un traitement d'informations nominatives dont l'objet est le suivi des réunions du Conseil national de la consommation",
+          "@c_titre_court": "Arrêté du 6 décembre 1994",
+          "@debut": "1994-12-28",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071885"
+        }
+      ],
+      "@cid": "LEGITEXT000006071885",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1994-12-06",
+      "@nature": "ARRETE",
+      "@nor": "ECOC9410260A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-12-28",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006634244",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les catégories d'informations enregistrées sont les suivantes :<br/>\n<br/>   - les participants : code participant, nom, prénom, adresse de travail, code postal, ville, qualité, fonctions, organisme, sigle, ministère, direction, numéro de téléphone et de télécopie du lieu de travail ;<br/>\n<br/>   - réunion : code réunion, code groupe de travail, date, heure, lieu, salle ;<br/>\n<br/>   - groupe de travail : nom et code du groupe de travail, nom du président, nom du rapporteur du collège consommateur et du collège professionnel, nom du correspondant (bureau de la politique de la consommation).<br/>\n<br/>   Les informations enregistrées sont conservées pendant une durée de trois ans au plus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-12-06 BOCC n° 24 28 décembre 1994",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 82-890 1982-10-19",
+        "@cidtexte": "JORFTEXT000000880395",
+        "@datesignatexte": "1982-10-19",
+        "@id": "JORFTEXT000000880395",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-890",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

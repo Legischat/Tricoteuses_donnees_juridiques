@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006887221",
+      "ANCIEN_ID": "UTIAXXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/72/LEGIARTI000006887221.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1987-02-12",
+        "DATE_FIN": "2006-05-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 20 janvier 1987 RELATIF A LA SIGNALISATION COMPLEMENTAIRE DES VEHICULES D'INTERVENTION URGENTE ET DES VEHICULES A PROGRESSION LENTE",
+          "@c_titre_court": "Arrêté du 20 janvier 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000500221"
+        },
+        {
+          "#text": "Arrêté du 20 janvier 1987 relatif à la signalisation complémentaire des véhicules d'intervention urgente et des véhicules à progression lente",
+          "@c_titre_court": "Arrêté du 20 janvier 1987",
+          "@debut": "1987-02-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006057276"
+        }
+      ],
+      "@cid": "JORFTEXT000000500221",
+      "@date_publi": "1987-02-12",
+      "@date_signature": "1987-01-20",
+      "@nature": "ARRETE",
+      "@nor": "EQUS8700098A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-02-12",
+          "@etat": "MODIFIE",
+          "@fin": "2006-05-18",
+          "@id": "LEGIARTI000006887221",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-05-18",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000022405043",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le contrôle de conformité des bandes de signalisation mises en vente aux types homologués sera effectué dans les conditions prévues par l'article R. 109-2 du code de la route.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de la route R109-2",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route R92 (5°, 6°), R93, R104",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

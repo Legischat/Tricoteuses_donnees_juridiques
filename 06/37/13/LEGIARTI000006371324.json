@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006371324",
+      "ANCIEN_ID": "AAHQKXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/37/13/LEGIARTI000006371324.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-06-15",
+        "DATE_FIN": "1989-01-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°61-610 du 14 juin 1961 APPLICATION DES ART. 15 A 18 DE LA LOI 60808 DU 5 août 1960 (SAFER)",
+          "@c_titre_court": "Décret n°61-610 du 14 juin 1961",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000877698"
+        },
+        {
+          "#text": "Décret n°61-610 du 14 juin 1961 relatif aux sociétés d'aménagement foncier et d'établissement rural",
+          "@c_titre_court": "Décret n°61-610 du 14 juin 1961",
+          "@debut": "1961-06-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061036"
+        }
+      ],
+      "@cid": "JORFTEXT000000877698",
+      "@date_publi": "1961-06-15",
+      "@date_signature": "1961-06-14",
+      "@nature": "DECRET",
+      "@num": "61-610"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-06-15",
+          "@etat": "ABROGE",
+          "@fin": "1989-01-10",
+          "@id": "LEGIARTI000006371324",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-11",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006371325",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les modalités financières des cessions de propriété et des installations d'exploitants sont définies pour chaque société par conventions conclues entre la société et les ministres de l'agriculture et des finances et des affaires économiques.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°60-808 du 5 août 1960 - art. 18 (M)",
+        "@cidtexte": "JORFTEXT000000508777",
+        "@datesignatexte": "1960-08-05",
+        "@id": "LEGIARTI000006600693",
+        "@naturetexte": "LOI",
+        "@num": "18",
+        "@numtexte": "60-808",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 89-12 1989-01-09 art. 9 JORF 10 janvier 1989",
+        "@cidtexte": "JORFTEXT000000333046",
+        "@datesignatexte": "1989-01-09",
+        "@id": "JORFTEXT000000333046",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRR8802296D",
+        "@numtexte": "89-12",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. R*141-12 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006587449",
+        "@naturetexte": "CODE",
+        "@num": "R*141-12",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006840071",
+      "ANCIEN_ID": "AHEAIXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/00/LEGIARTI000006840071.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-07-12",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°72-1097 du 11 décembre 1972 RELATIVE A L'ORGANISATION DE LA PROFESSION D'EXPERT EN AUTOMOBILE",
+          "@c_titre_court": "Loi n°72-1097 du 11 décembre 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000508815"
+        },
+        {
+          "#text": "Loi n°72-1097 du 11 décembre 1972 relative a l'organisation de la profession d'expert en automobile",
+          "@c_titre_court": "Loi n°72-1097 du 11 décembre 1972",
+          "@debut": "1972-12-12",
+          "@fin": "2001-06-01",
+          "@id_txt": "LEGITEXT000006068421"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Exercice de la profession d'expert en automobile.",
+            "@debut": "1972-12-12",
+            "@fin": "2001-06-01",
+            "@id": "LEGISCTA000006108644"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000508815",
+      "@date_publi": "1972-12-12",
+      "@date_signature": "1972-12-11",
+      "@nature": "LOI",
+      "@num": "72-1097"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-12",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006840071",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-06-01",
+          "@id": "LEGIARTI000006840072",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Celui qui, illégalement, aura fait usage ou se sera réclamé de la qualité d'expert en automobile sera puni des peines prévues au deuxième alinéa de l'article 259 du code pénal, sans préjudice de l'application des dispositions des cinquième et sixième alinéas dudit article.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de la route. - art. L326-8 (V)",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006841180",
+        "@naturetexte": "CODE",
+        "@num": "L326-8",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code pénal 259",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 85-695 1985-17-11 art. 32 III JORF 12 juillet 1985",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

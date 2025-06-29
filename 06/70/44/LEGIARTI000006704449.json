@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006704449",
+      "ANCIEN_ID": "SPHE2XXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/44/LEGIARTI000006704449.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-02-10",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°89-83 du 8 février 1989 PORTANT CREATION D'UN CONSEIL NATIONAL DU SYNDROME IMMUNODEFICITAIRE ACQUIS (SIDA)",
+          "@c_titre_court": "Décret n°89-83 du 8 février 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518057"
+        },
+        {
+          "#text": "Décret n°89-83 du 8 février 1989 portant création d'un Conseil national du syndrome immunodéficitaire acquis",
+          "@c_titre_court": "Décret n°89-83 du 8 février 1989",
+          "@debut": "1989-02-10",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006067371"
+        }
+      ],
+      "@cid": "JORFTEXT000000518057",
+      "@date_publi": "1989-02-10",
+      "@date_signature": "1989-02-08",
+      "@nature": "DECRET",
+      "@nor": "SPSX8900013D",
+      "@num": "89-83"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-02-10",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006704449",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le Conseil national du sida se dote d'un règlement intérieur qui définit les modalités de son fonctionnement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 5 JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. D3121-12 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006911867",
+        "@naturetexte": "CODE",
+        "@num": "D3121-12",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. D3121-12 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006911866",
+        "@naturetexte": "CODE",
+        "@num": "D3121-12",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

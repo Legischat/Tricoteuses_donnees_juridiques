@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006857514",
+      "ANCIEN_ID": "UPHRZXXXXXX026AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/75/LEGIARTI000006857514.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "26",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-09-02",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°87-719 du 28 août 1987 PRIS POUR L'APPLICATION DE L'ART. 419 DU CODE RURAL ET FIXANT LES CONDITIONS D'EXPLOITATION DU DROIT DE PECHE DE L'ETAT",
+          "@c_titre_court": "Décret n°87-719 du 28 août 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000695884"
+        },
+        {
+          "#text": "Décret n°87-719 du 28 août 1987 pris pour l'application de l'article 419 du code rural et fixant les conditions d'exploitation du droit de pêche de l'Etat",
+          "@c_titre_court": "Décret n°87-719 du 28 août 1987",
+          "@debut": "1987-09-02",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006066153"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section 3 : Procédure d'adjudication publique.",
+            "@debut": "1987-09-02",
+            "@fin": "1989-11-04",
+            "@id": "LEGISCTA000006109722"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000695884",
+      "@date_publi": "1987-09-02",
+      "@date_signature": "1987-08-28",
+      "@nature": "DECRET",
+      "@nor": "ENVN8700170D",
+      "@num": "87-719"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-09-02",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006857514",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute adjudication est définitive du moment où elle est prononcée sans que, dans aucun cas, il puisse y avoir lieu à surenchère.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. R*235-26 (Ab)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006590162",
+        "@naturetexte": "CODE",
+        "@num": "R*235-26",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural 419",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code rural R235-27",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret n°89-805 du 27 octobre 1989 - art. 2 (V) JORF 4 novembre 1989",
+        "@cidtexte": "JORFTEXT000000336191",
+        "@datesignatexte": "1989-10-27",
+        "@id": "LEGIARTI000006605371",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRME8961350D",
+        "@num": "2",
+        "@numtexte": "89-805",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006286964",
+      "ANCIEN_ID": "ASEAAXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/69/LEGIARTI000006286964.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-05-14",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°77-486 du 13 mai 1977 EMPRUNT 8,80% 1977",
+          "@c_titre_court": "Loi n°77-486 du 13 mai 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000522557"
+        },
+        {
+          "#text": "Loi n° 77-486 du 13 mai 1977 autorisant le Gouvernement à émettre un emprunt bénéficiant d'avantages fiscaux",
+          "@c_titre_court": "Loi n° 77-486 du 13 mai 1977",
+          "@debut": "1977-05-14",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068584"
+        }
+      ],
+      "@cid": "JORFTEXT000000522557",
+      "@date_publi": "1977-05-14",
+      "@date_signature": "1977-05-13",
+      "@nature": "LOI",
+      "@num": "77-486"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-05-14",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006286964",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'assiette de l'impôt sur le revenu dû au titre des années 1978 et suivantes, un abattement de 1.000 F par an et par déclarant est opéré sur les intérêts de cet emprunt.<br/>\n<br/>   Les plus-values éventuelles de cession ou de remboursement de titres de cet emprunt sont exonérées de l'impôt sur le revenu.<br/>\n<br/>   Nonobstant la garantie prévue à l'article 1er ci-dessus, les articles 125 A et 158 (3) du code général des impôts s'appliquent au présent emprunt.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 125 A, 158",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n° 77-486 du 13 mai 1977 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000522557",
+        "@datesignatexte": "1977-05-13",
+        "@id": "LEGIARTI000006286963",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "77-486",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

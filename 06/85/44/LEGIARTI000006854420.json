@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006854420",
+      "ANCIEN_ID": "UPHHXXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/44/LEGIARTI000006854420.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1966-09-23",
+        "DATE_FIN": "1986-09-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°66-699 du 14 septembre 1966 ORGANISATION ET FONCTIONNEMENT DES COMITES",
+          "@c_titre_court": "Décret n°66-699 du 14 septembre 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000513023"
+        },
+        {
+          "#text": "Décret n°66-699 du 14 septembre 1966 relatif aux comités de bassin créés par l'article 13 de la loi n° 64-1245 du 16 décembre 1964",
+          "@c_titre_court": "Décret n°66-699 du 14 septembre 1966",
+          "@debut": "1966-09-23",
+          "@fin": "2008-01-01",
+          "@id_txt": "LEGITEXT000006061373"
+        }
+      ],
+      "@cid": "JORFTEXT000000513023",
+      "@date_publi": "1966-09-23",
+      "@date_signature": "1966-09-14",
+      "@nature": "DECRET",
+      "@num": "66-699"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-09-23",
+          "@etat": "MODIFIE",
+          "@fin": "1986-09-27",
+          "@id": "LEGIARTI000006854420",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-09-27",
+          "@etat": "ABROGE",
+          "@fin": "2007-03-23",
+          "@id": "LEGIARTI000006854421",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La composition de chaque comité fait l'objet d'un arrêté du Premier ministre, publié au Journal officiel.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°64-1245 du 16 décembre 1964 - art. 13 (M)",
+        "@cidtexte": "JORFTEXT000000509753",
+        "@datesignatexte": "1964-12-16",
+        "@id": "LEGIARTI000006846617",
+        "@naturetexte": "LOI",
+        "@num": "13",
+        "@numtexte": "64-1245",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°66-699 du 14 septembre 1966 - art. 11-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000513023",
+        "@datesignatexte": "1966-09-14",
+        "@id": "LEGIARTI000006854433",
+        "@naturetexte": "DECRET",
+        "@num": "11-1",
+        "@numtexte": "66-699",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'environnement - art. R213-21 (Ab)",
+        "@cidtexte": "LEGITEXT000006074220",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006835355",
+        "@naturetexte": "CODE",
+        "@num": "R213-21",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

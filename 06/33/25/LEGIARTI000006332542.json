@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006332542",
+      "ANCIEN_ID": "FBIMUXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/25/LEGIARTI000006332542.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1994-12-27",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 décembre 1994 portant approbation du cahier des charges pour la    transmission par voie informatique de la déclaration d'échanges de biens    entre Etats membres de la Communauté européenne",
+          "@c_titre_court": "Arrêté du 19 décembre 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000186002"
+        },
+        {
+          "#text": "Arrêté du 19 décembre 1994 portant approbation du cahier des charges pour la transmission par voie informatique de la déclaration d'échanges de biens entre Etats membres de la Communauté européenne",
+          "@c_titre_court": "Arrêté du 19 décembre 1994",
+          "@debut": "1994-12-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005617256"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : FORMAT DES DONNÉES.",
+            "@debut": "1994-12-27",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085025"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000186002",
+      "@date_publi": "1994-12-27",
+      "@date_signature": "1994-12-19",
+      "@ministere": "MINISTERE DU BUDGET",
+      "@nature": "ARRETE",
+      "@nor": "BUDD9440002A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-12-27",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006332542",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour la transmission directe de données mises en forme par le système informatique propre au déclarant, ce dernier peut utiliser les formats de données suivants :<br/>\n<br/>   a) Fichiers structurés en enregistrements de longueur fixe. Il s'agit des structures suivantes :<br/>\n<br/>   - Intracom : structure d'enregistrement spécifique aux échanges de biens avec les autres Etats membres ;<br/>\n<br/>   - Saisunic : structure d'enregistrement utilisée à la fois pour les échanges avec les autres Etats membres et pour les échanges avec les pays tiers.<br/>\n<br/>   Dans les deux cas, le premier enregistrement de chaque fichier contient les informations permettant de vérifier que l'expéditeur est reconnu par le centre de collecte en tant que titulaire de l'autorisation prévue par l'article 1er du présent arrêté.<br/>\n<br/>   La description des fichiers Intracom, Saisunic et du premier enregistrement est annexée au protocole technique, lui-même annexé à la convention prévue par l'article 1er du présent arrêté.<br/>\n<br/>   b) Messages aux normes Un/Edifact. Il s'agit du message Instat, sous-ensemble du message Cusdec, mis au point dans le cadre du Western European Edifact Board.<br/>\n<br/>   Les conditions d'utilisation du message Cusdec/Instat sont décrites dans le manuel de l'utilisateur du message élaboré par la Commission des Communautés européennes et prévu par l'article 5 du règlement C.E.E. n° 3590/92 du 11 décembre 1992. Les consignes d'utilisation au plan national du message Cusdec/Instat sont décrites dans un document annexé au manuel de l'utilisateur.<br/>\n<br/>   La partie \" en-tête d'interchange \" de l'envoi des messages Cusdec/Instat remplit les mêmes fonctions que le premier enregistrement prévu dans le cas des fichiers structurés.<br/>\n<br/>   Le manuel de l'utilisateur ainsi que les consignes d'utilisation du message Cusdec/Instat sont annexés au protocole technique, lui-même annexé à la convention prévue par l'article 1er du présent arrêté.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-12-19 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

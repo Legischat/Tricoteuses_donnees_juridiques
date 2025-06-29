@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273639",
+      "ANCIEN_ID": "FAEBUXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/36/LEGIARTI000006273639.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1981-08-04",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°81-734 du 3 août 1981 DE FINANCES RECTIFICATIVE POUR 1981",
+          "@c_titre_court": "Loi n°81-734 du 3 août 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705483"
+        },
+        {
+          "#text": "Loi n° 81-734 du 3 août 1981 DE FINANCES RECTIFICATIVE POUR 1981 (1)",
+          "@c_titre_court": "Loi n° 81-734 du 3 août 1981",
+          "@debut": "1981-08-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068714"
+        }
+      ],
+      "@cid": "JORFTEXT000000705483",
+      "@date_publi": "1981-08-04",
+      "@date_signature": "1981-08-03",
+      "@nature": "LOI",
+      "@num": "81-734"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-08-04",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006273639",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001496579",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La partie supérieure à 100.000 F de l'impôt sur le revenu, dû au titre de l'année 1980 avant déduction, s'il y a lieu, du crédit d'impôt, de l'avoir fiscal et des prélèvements ou retenues non libératoires, est majorée de 25 p. 100. Pour l'application de cette disposition et sur demande du contribuable, il n'est pas tenu compte de l'impôt correspondant aux plus-values bénéficiant de l'abattement de 75.000 F prévu à l'article 150 Q du code général des impôts. La majoration n'est pas due si elle est inférieure à 200 F.<br/>\n<br/>   Lorsqu'elle fait l'objet d'une imposition distincte, la majoration est exigible dès sa mise en recouvrement. La sanction prévue à l'article 1761 du code général des impôts est applicable aux sommes non réglées le 15 du mois suivant celui de la mise en recouvrement du rôle.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 150 Q, 1761",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 81-734 1981-08-03 Finances rectificative pour 1981 JORF 4 AOUT 1981",
+        "@cidtexte": "JORFTEXT000000705483",
+        "@datesignatexte": "1981-08-03",
+        "@id": "JORFTEXT000000705483",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-734",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006828858",
+      "ANCIEN_ID": "UCICSXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/88/LEGIARTI000006828858.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe IV",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-10-07",
+        "DATE_FIN": "1996-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 février 1978 relatif aux caractéristiques techniques et aux prix de revient des immeubles bâtis, améliorés ou acquis et améliorés avec l'aide de l'Etat pour y aménager des logements locatifs.",
+          "@c_titre_court": "Arrêté du 24 février 1978",
+          "@debut": "1978-03-11",
+          "@fin": "1996-07-01",
+          "@id_txt": "LEGITEXT000006074159"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1978-03-11",
+            "@fin": "1996-07-01",
+            "@id": "LEGISCTA000006108300"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Coefficient de majoration c",
+              "@debut": "1979-10-07",
+              "@fin": "1996-07-01",
+              "@id": "LEGISCTA000006128856"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074159",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1978-02-24",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-10-07",
+          "@etat": "ABROGE",
+          "@fin": "1996-07-01",
+          "@id": "LEGIARTI000006828858",
+          "@num": "Annexe IV",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Coefficient de hauteur et de forme de l'immeuble. (On ne prendra pas en compte la surface des combles ni leur longueur de parties vues) :<br/>\n    c = c1 + c2<br/>\n    IV. 1 c1 dépend de la hauteur moyenne, hm, du bâtiment ou des bâtiments constituant l'opération.<br/>\n    Pour une opération ne comprenant qu'un bâtiment, la hauteur moyenne est définie par le rapport de la surface hors oeuvre totale à la surface hors oeuvre du niveau ayant la surface hors oeuvre maximale (ces surfaces s'entendent hors combles) :<br/>\n    hm = SHO totale / SHO maximale<br/>\n    Pour une opération comprenant plusieurs bâtiments, la hauteur moyenne est définie par le rapport de la surface hors oeuvre totale de l'opération au total des surfaces hors oeuvre des niveaux de surface hors oeuvre maximale de chaque bâtiment (ces surfaces s'entendent hors combles) :<br/>\n    hm = SHO totale / SHO maximale<br/>\n    hm est arrondi au nombre inférieur ou supérieur selon que la partie décimale du quotient est inférieure (ou égale) ou supérieure à 0,5.<br/>\n c1 est donné en fonction de hm par le tableau ci-dessous :<br/>\n    c1 (immeuble sans ascenseur)<br/>\n    hm = 1 : 0,075<br/>\n    hm = 2 : 0,050<br/>\n    hm = 3 : 0,025<br/>\n    hm = 4 : 0,000<br/>\n    supérieure ou égale à 5 : 0,000<br/>\n<br/>\n    c1 (immeuble avec ascenseur)<br/>\n    hm = 1 : Sans objet<br/>\n    hm = 2 : 0,090<br/>\n    hm = 3 : 0,065<br/>\n    hm = 4 : 0,020<br/>\n    supérieure ou égale à 5 : 0,010<br/>\n<br/>\n    Pour les maisons individuelles isolées ou groupées c1 = 0.<br/>\n    IV. 2 c2 dépend du périmètre des parties vues.<br/>\n    On appelle parties vues d'un bâtiment, toutes les parties visibles, en contact avec l'extérieur, mitoyennes ou non.<br/>\n    c2 = 0,10 (6L / SHO totale - 1)<br/>\n    L est le linéaire des façades et pignons vus à chaque niveau cumulé sur la totalité des niveaux. On ne prendra pas en compte la longueur des parties vues des combles.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-09-16 art. 11 JORF 7 octobre 1979",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1996-06-10 art. 17 JORF 20 juin 1996 en vigueur le 1er juillet 1996",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

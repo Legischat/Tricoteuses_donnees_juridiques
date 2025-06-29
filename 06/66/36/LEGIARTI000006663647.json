@@ -1,0 +1,124 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006663647",
+      "ANCIEN_ID": "SEHH6XXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/36/LEGIARTI000006663647.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1988-03-02",
+        "DATE_FIN": "1988-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 87-491 du 2 juillet 1987 portant relèvement du salaire minimum de croissance",
+          "@c_titre_court": "Décret n° 87-491 du 2 juillet 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000882431"
+        },
+        {
+          "#text": "Décret n°87-491 du 2 juillet 1987 portant relèvement du salaire minimum de croissance *SMIC*",
+          "@c_titre_court": "Décret n°87-491 du 2 juillet 1987",
+          "@debut": "1987-07-04",
+          "@fin": "1988-07-01",
+          "@id_txt": "LEGITEXT000006066043"
+        }
+      ],
+      "@cid": "JORFTEXT000000882431",
+      "@date_publi": "1987-07-04",
+      "@date_signature": "1987-07-02",
+      "@nature": "DECRET",
+      "@nor": "ASEX8700084D",
+      "@num": "87-491"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-07-04",
+          "@etat": "MODIFIE",
+          "@fin": "1988-03-02",
+          "@id": "LEGIARTI000006663646",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-02",
+          "@etat": "PERIME",
+          "@fin": "1988-07-01",
+          "@id": "LEGIARTI000006663647",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er juillet 1987, pour les catégories de travailleurs intéressés par l'article L. 131-2 du code du travail, le salaire minimum de croissance sera relevé dans les conditions ci-après :<br/>\n<br/>   En métropole, son montant sera porté à 27,84 F de l'heure ;<br/>\n<br/>   Dans la collectivité territoriale de Saint-Pierre-et-Miquelon, les salaires individuels ne pourront être inférieurs à 27,84 F de l'heure ;<br/>\n<br/>   Dans les départements d'outre-mer [*DOM*], ils ne pourront être inférieurs à :<br/>\n<br/>   905,08 F par semaine pour trente-neuf heures de travail effectif, dans les départements de la Guadeloupe, de la Guyane et de la Martinique ;<br/>\n<br/>   844,51 F par semaine pour trente-neuf heures de travail effectif dans les professions autres que les professions agricoles rémunérées à la tâche ; et, pour ce qui concerne ces dernières, un certain nombre de tâches telles qu'elles sont définies par arrêté des ministres chargés respectivement de l'agriculture, du travail et des départements et territoires d'outre-mer pris sur proposition du préfet après consultation des organisations professionnelles d'employeurs et de salariés intéressées, dans le département de la Réunion.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°87-491 du 2 juillet 1987 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000882431",
+        "@datesignatexte": "1987-07-02",
+        "@id": "LEGIARTI000006663652",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ASEX8700084D",
+        "@num": "4",
+        "@numtexte": "87-491",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-199 du 29 février 1988 - art. 1 (V) JORF 2 mars 1988",
+        "@cidtexte": "JORFTEXT000000684439",
+        "@datesignatexte": "1988-02-29",
+        "@id": "LEGIARTI000006352318",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTX8800011D",
+        "@num": "1",
+        "@numtexte": "88-199",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°88-794 du 29 juin 1988 (P)",
+        "@cidtexte": "JORFTEXT000000693583",
+        "@datesignatexte": "1988-06-29",
+        "@id": "LEGITEXT000006066827",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ASEX8800086D",
+        "@numtexte": "88-794",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "Code du travail - art. L131-2 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646983",
+        "@naturetexte": "CODE",
+        "@num": "L131-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

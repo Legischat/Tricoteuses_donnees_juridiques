@@ -1,0 +1,135 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769220",
+      "ANCIEN_ID": "SSHATVXXXXX010AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/92/LEGIARTI000006769220.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1981-01-01",
+        "DATE_FIN": "2004-08-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°80-808 du 14 octobre 1980 RUR",
+          "@c_titre_court": "Décret n°80-808 du 14 octobre 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000307615"
+        },
+        {
+          "#text": "Décret n°80-808 du 14 octobre 1980 relatif aux retraites des personnes non-salariées de l'agriculture, pris pour l'application de l'article 18 de la loi n° 80-502 du 4 juillet 1980 d'orientation agricole",
+          "@c_titre_court": "Décret n°80-808 du 14 octobre 1980",
+          "@debut": "1981-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006063328"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE 3 : Dispositions diverses et transitoires",
+            "@debut": "1981-01-01",
+            "@fin": "2004-08-25",
+            "@id": "LEGISCTA000006107081"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000307615",
+      "@date_publi": "1980-10-15",
+      "@date_signature": "1980-10-14",
+      "@nature": "DECRET",
+      "@num": "80-808"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2004-08-25",
+          "@id": "LEGIARTI000006769220",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-08-25",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769221",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "La retraite de réversion mentionnée au deuxième alinéa de l'article 1121-1 du Code rural est allouée si le conjoint survivant remplit les conditions [*d'attribution*] d'âge, de durée du mariage et de ressources personnelles prévues à l'article 34-1 du décret du 31 mai 1955 susvisé [*bénéficiaire*].<br/>\n    La retraite de réversion est égale à la moitié de la retraite dont bénéficiait ou eût bénéficié l'assuré [*montant*]. Son entrée en jouissance est fixée dans les conditions prévues à l'article 34-3 du décret du 31 mai 1955 susvisé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1121-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°55-753 du 31 mai 1955 - art. 34-1 (M)",
+        "@cidtexte": "JORFTEXT000000687459",
+        "@datesignatexte": "1955-05-31",
+        "@id": "LEGIARTI000006763612",
+        "@naturetexte": "DECRET",
+        "@num": "34-1",
+        "@numtexte": "55-753",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°55-753 du 31 mai 1955 - art. 34-3 (Ab)",
+        "@cidtexte": "JORFTEXT000000687459",
+        "@datesignatexte": "1955-05-31",
+        "@id": "LEGIARTI000006763625",
+        "@naturetexte": "DECRET",
+        "@num": "34-3",
+        "@numtexte": "55-753",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 80-502 1980-07-04 art. 18",
+        "@cidtexte": "JORFTEXT000000705202",
+        "@datesignatexte": "1980-07-04",
+        "@id": "JORFTEXT000000705202",
+        "@naturetexte": "LOI",
+        "@numtexte": "80-502",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code rural - art. R732-60 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006597458",
+        "@naturetexte": "CODE",
+        "@num": "R732-60",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579306",
+      "ANCIEN_ID": "RAA0XXXXXXX0030AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/93/LEGIARTI000006579306.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1960-08-04",
+        "DATE_FIN": "1986-01-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Régime du sol",
+            "@debut": "1955-04-19",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006098247"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : De l'aménagement foncier",
+              "@debut": "1955-04-19",
+              "@fin": "1992-12-12",
+              "@id": "LEGISCTA000006121347"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : Du remembrement rural.",
+                "@debut": "1955-09-28",
+                "@fin": "1992-11-12",
+                "@id": "LEGISCTA000006138177"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-08-04",
+          "@etat": "MODIFIE",
+          "@fin": "1986-01-03",
+          "@id": "LEGIARTI000006579306",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-03",
+          "@etat": "ABROGE",
+          "@fin": "1992-11-12",
+          "@id": "LEGIARTI000006579307",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Du jour du transfert de propriété résultant de la clôture des opérations de remembrement, les immeubles qui en sont l'objet ne sont plus soumis qu'à l'exercice des droits et actions nés du chef du nouveau propriétaire.<br/>\n<br/>   La date de clôture des opérations est celle du dépôt en mairie du plan définitif du remembrement ; ce dépôt étant constaté par un certificat délivré par le maire.<br/>\n<br/>   Les contestations sur la propriété d'un immeuble compris dans le remembrement ou sur des droits ou actions relatifs à cet immeuble ne font pas obstacle à l'application des décisions, même juridictionnelles, statuant en matière de remembrement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1941-03-09 art. 27",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 60-792 1960-08-02 art. 6 JORF 4 août 1960",
+        "@cidtexte": "JORFTEXT000000687645",
+        "@datesignatexte": "1960-08-02",
+        "@id": "JORFTEXT000000687645",
+        "@naturetexte": "LOI",
+        "@numtexte": "60-792",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

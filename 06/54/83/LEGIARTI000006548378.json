@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006548378",
+      "ANCIEN_ID": "PRGAAXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/83/LEGIARTI000006548378.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1940-04-09",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 6 avril 1940 FRONTIERES : FRANCHISSEMENT IRREGULIER. INTERDICTION",
+          "@c_titre_court": "Décret-loi du 6 avril 1940",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000480945"
+        },
+        {
+          "#text": "Décret-loi du 6 avril 1940 interdisant le franchissement irrégulier de la frontière.",
+          "@c_titre_court": "Décret-loi du 6 avril 1940",
+          "@debut": "1940-04-09",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071319"
+        }
+      ],
+      "@cid": "JORFTEXT000000480945",
+      "@date_publi": "1940-04-09",
+      "@date_signature": "1940-04-06",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1940-04-09",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006548378",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tout contrevenant aux dispositions du présent décret-loi sera puni d'un emprisonnement de un an et d'une amende de 3 750 euros.<br/>\n<br/>   L'article 463 du code pénal et l'article 1er de la loi du 26 mars 1891 ne seront pas applicables aux peines d'emprisonnement et d'amende prévues par le paragraphe précédent.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code pénal 463",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1891-03-26 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

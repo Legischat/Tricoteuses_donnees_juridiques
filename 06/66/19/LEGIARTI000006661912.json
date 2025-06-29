@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006661912",
+      "ANCIEN_ID": "SEHAGXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/19/LEGIARTI000006661912.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-03-04",
+        "DATE_FIN": "1981-10-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-168 du 2 mars 1979 RELATIF A L'AIDE A LA CREATION D'EMPLOIS D'UTILITE COLLECTIVE",
+          "@c_titre_court": "Décret n°79-168 du 2 mars 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000336841"
+        },
+        {
+          "#text": "Décret n°79-168 du 2 mars 1979  RELATIF A L'AIDE A LA CREATION D'EMPLOIS D'UTILITE COLLECTIVE.",
+          "@c_titre_court": "Décret n°79-168 du 2 mars 1979",
+          "@debut": "1979-03-04",
+          "@fin": "1981-10-04",
+          "@id_txt": "LEGITEXT000006062991"
+        }
+      ],
+      "@cid": "JORFTEXT000000336841",
+      "@date_publi": "1979-03-04",
+      "@date_signature": "1979-03-02",
+      "@nature": "DECRET",
+      "@num": "79-168"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-03-04",
+          "@etat": "ABROGE",
+          "@fin": "1981-10-04",
+          "@id": "LEGIARTI000006661912",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'aide de l'Etat n'est pas renouvelable [*non*]. Elle n'est pas cumulable avec les autres aides directes de l'Etat à la création d'emploi. Elle s'élève à un maximum de 24.000 F [*montant*] par emploi créé à plein temps. Elle est réduite à due concurrence en cas d'emploi à temps partiel. Son versement est fractionné.<br/>\n<br/>\n<br/>   L'aide peut être supprimée en cas de non-respect des conditions visées à l'article 2, et faire l'objet d'un remboursement, notamment en cas de licenciement ou de fraude à l'égard de ces mêmes conditions.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°79-168 du 2 mars 1979 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000336841",
+        "@datesignatexte": "1979-03-02",
+        "@id": "LEGIARTI000006661911",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "79-168",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-898 1981-10-02 ART. 7 JORF 4 OCTOBRE",
+        "@cidtexte": "JORFTEXT000000701467",
+        "@datesignatexte": "1981-10-02",
+        "@id": "JORFTEXT000000701467",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-898",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

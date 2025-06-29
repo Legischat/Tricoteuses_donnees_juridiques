@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006780954",
+      "ANCIEN_ID": "SSHCNEXXXXX021AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/09/LEGIARTI000006780954.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-02-25",
+        "DATE_FIN": "2011-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°59-327 du 20 février 1959 RELATIF AUX JURIDICTIONS DE PENSIONS.",
+          "@c_titre_court": "Décret n°59-327 du 20 février 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000675842"
+        },
+        {
+          "#text": "Décret n°59-327 du 20 février 1959 relatif aux juridictions des pensions.",
+          "@c_titre_court": "Décret n°59-327 du 20 février 1959",
+          "@debut": "1959-02-25",
+          "@fin": "2017-01-01",
+          "@id_txt": "LEGITEXT000006060888"
+        }
+      ],
+      "@cid": "JORFTEXT000000675842",
+      "@date_publi": "1959-02-25",
+      "@date_signature": "1959-02-20",
+      "@nature": "DECRET",
+      "@num": "59-327"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-02-25",
+          "@etat": "ABROGE",
+          "@fin": "2011-07-01",
+          "@id": "LEGIARTI000006780954",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions des articles L. 80 à L. 94 du code des pensions militaires d'invalidité et des victimes de la guerre sont abrogées sous réserve des dispositions de l'article 20 ci-dessus.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°59-327 du 20 février 1959 - art. 20",
+        "@cidtexte": "JORFTEXT000000675842",
+        "@datesignatexte": "1959-02-20",
+        "@id": "LEGIARTI000006780953",
+        "@naturetexte": "DECRET",
+        "@num": "20",
+        "@numtexte": "59-327",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2011-600\n du 27 mai 2011 - art. 1",
+        "@cidtexte": "JORFTEXT000024080379",
+        "@datesignatexte": "2011-05-27",
+        "@id": "LEGIARTI000024082295",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSB1003150D",
+        "@num": "1",
+        "@numtexte": "2011-600",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des pensions militaires d'invalidité et des v - art. L266 (VT)",
+        "@cidtexte": "LEGITEXT000006074068",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006794592",
+        "@naturetexte": "CODE",
+        "@num": "L266",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code des pensions militaires d'invalidité et des v - art. L94 (Ab)",
+        "@cidtexte": "LEGITEXT000006074068",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006794318",
+        "@naturetexte": "CODE",
+        "@num": "L94",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des pensions militaires d'invalidité et des victimes de guerre.",
+        "@cidtexte": "LEGITEXT000006074068",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074068",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

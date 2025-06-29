@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006872112",
+      "ANCIEN_ID": "AIIGMXXXXXX037AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/21/LEGIARTI000006872112.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "37",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-07-16",
+        "DATE_FIN": "1999-08-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 juin 1974 réglementant les conditions d'hygiène relatives à la préparation, la conservation, la distribution et la vente des plats cuisinés à l'avance",
+          "@c_titre_court": "Arrêté du 26 juin 1974",
+          "@debut": "1974-07-16",
+          "@fin": "1999-08-10",
+          "@id_txt": "LEGITEXT000006074913"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre V : Conditions sanitaires.",
+            "@debut": "1974-07-16",
+            "@fin": "1999-08-10",
+            "@id": "LEGISCTA000006111043"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074913",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-06-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-07-16",
+          "@etat": "ABROGE",
+          "@fin": "1999-08-10",
+          "@id": "LEGIARTI000006872112",
+          "@num": "37",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les responsables d'établissement où sont préparés des plats cuisinés à l'avance doivent faire procéder à leurs frais à des contrôles microbiologiques périodiques. La périodicité de ces contrôles figure en annexe du présent arrêté.<br/>\n<br/>   Les résultats de ces examens sont mis à la disposition des services vétérinaires et conservés pendant un an au moins.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-06-26 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1999-07-30 art. 2 JORF 10 août 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 67-295 1967-03-31",
+        "@cidtexte": "JORFTEXT000000305784",
+        "@datesignatexte": "1967-03-31",
+        "@id": "JORFTEXT000000305784",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-295",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

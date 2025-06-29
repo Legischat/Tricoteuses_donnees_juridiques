@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006555335",
+      "ANCIEN_ID": "ADHGHXXXXXX015AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/53/LEGIARTI000006555335.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-25",
+        "DATE_FIN": "1988-03-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°61-923 du 3 août 1961 RELATIF AUX TRIBUNAUX DE COMMERCE ET AUX CHAMBRES DE COMMERCE ET D'INDUSTRIE",
+          "@c_titre_court": "Décret n°61-923 du 3 août 1961",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000680573"
+        },
+        {
+          "#text": "Décret n°61-923 du 3 août 1961 relatif aux tribunaux de commerce et aux chambres de commerce et d'industrie",
+          "@c_titre_court": "Décret n°61-923 du 3 août 1961",
+          "@debut": "1961-08-18",
+          "@fin": "1988-03-30",
+          "@id_txt": "LEGITEXT000006061051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Dispositions générales",
+            "@debut": "1961-08-18",
+            "@fin": "1988-03-30",
+            "@id": "LEGISCTA000006097033"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "II. - De l'éligibilité.",
+              "@debut": "1961-08-18",
+              "@fin": "1988-03-30",
+              "@id": "LEGISCTA000006120878"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000680573",
+      "@date_publi": "1961-08-18",
+      "@date_signature": "1961-08-03",
+      "@nature": "DECRET",
+      "@num": "61-923"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-08-18",
+          "@etat": "MODIFIE",
+          "@fin": "1979-07-25",
+          "@id": "LEGIARTI000006555334",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-25",
+          "@etat": "ABROGE",
+          "@fin": "1988-03-30",
+          "@id": "LEGIARTI000006555335",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont éligibles aux fonctions de délégués consulaires les personnes inscrites sur les listes électorales à l'exception des membres en exercice ou anciens membres des tribunaux de commerce et des chambres de commerce et d'industrie et des personnes qui sont inscrites en qualité de conjoint de commerçant ou de chefs d'entreprises immatriculées au répertoire des métiers.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°61-923 du 3 août 1961 - art. 19 (Ab)",
+        "@cidtexte": "JORFTEXT000000680573",
+        "@datesignatexte": "1961-08-03",
+        "@id": "LEGIARTI000006555380",
+        "@naturetexte": "DECRET",
+        "@num": "19",
+        "@numtexte": "61-923",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-291 du 28 mars 1988 - art. 42 (Ab) JORF 30 mars 1988",
+        "@cidtexte": "JORFTEXT000000872323",
+        "@datesignatexte": "1988-03-28",
+        "@id": "LEGIARTI000006559930",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDB8800174D",
+        "@num": "42",
+        "@numtexte": "88-291",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

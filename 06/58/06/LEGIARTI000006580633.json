@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580633",
+      "ANCIEN_ID": "RAA0XXXXXXX1000FAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/06/LEGIARTI000006580633.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1000-5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1966-12-27",
+        "DATE_FIN": "1995-02-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : Régime du travail",
+              "@debut": "1955-04-19",
+              "@fin": "2000-06-22",
+              "@id": "LEGISCTA000006121385"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : Médecine du travail.",
+                "@debut": "1966-12-27",
+                "@fin": "2000-06-22",
+                "@id": "LEGISCTA000006138266"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-12-27",
+          "@etat": "MODIFIE",
+          "@fin": "1995-02-02",
+          "@id": "LEGIARTI000006580633",
+          "@num": "1000-5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-02-02",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006580634",
+          "@num": "1000-5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les employeurs sont tenus d'autoriser leurs salariés à se rendre aux convocations des organismes chargés de la médecine du travail agricole.<br/>\n<br/>   Les infractions aux dispositions du présent titre et des décrets pris pour son application sont constatées dans des procès-verbaux, par les inspecteurs et contrôleurs des lois sociales en agriculture, concurremment avec les officiers de police judiciaire.<br/>\n<br/>   Il ne peut être donné suite aux procès-verbaux qu'après une mise en demeure écrite adressée au chef d'exploitation ou d'entreprise intéressé, le délai imparti ne pouvant être inférieur à un mois.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. L719-1 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006585183",
+        "@naturetexte": "CODE",
+        "@num": "L719-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural L719-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 66-958 1966-12-26 art. 1 JORF 27 décembre 1966",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006885935",
+      "ANCIEN_ID": "UTI5EXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/59/LEGIARTI000006885935.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-02-20",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 mars 1995 relatif à l'équipement    en extincteurs des véhicules de transport de marchandises",
+          "@c_titre_court": "Arrêté du 2 mars 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000734682"
+        },
+        {
+          "#text": "Arrêté du 2 mars 1995 relatif à l'équipement en extincteurs des véhicules de transport de marchandises",
+          "@c_titre_court": "Arrêté du 2 mars 1995",
+          "@debut": "1995-03-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005618018"
+        }
+      ],
+      "@cid": "JORFTEXT000000734682",
+      "@date_publi": "1995-03-12",
+      "@date_signature": "1995-03-02",
+      "@ministere": "MINISTERE DE L'EQUIPEMENT,DES TRANSPORTS ET DU TOURISME",
+      "@nature": "ARRETE",
+      "@nor": "EQUS9500420A",
+      "@num_parution_jo": "0061"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-03-12",
+          "@etat": "MODIFIE",
+          "@fin": "2000-02-20",
+          "@id": "LEGIARTI000006885934",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-02-20",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006885935",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les véhicules destinés à faire partie d'unités de transport de matières dangereuses conformes aux dispositions du marginal 10240, visé à l'arrêté du 5 décembre 1996 modifié relatif au transport des marchandises dangereuses par route, dit \"arrêté ADR\" susvisé, sont réputés conformes aux dispositions du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-03-02 art. 5",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1996-12-05",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 janvier 2000 - art. 3",
+        "@cidtexte": "JORFTEXT000000763553",
+        "@datesignatexte": "2000-01-20",
+        "@id": "LEGIARTI000006894103",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "EQUS0000126A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "MODIFIE"
+      }
+    ]
+  }
+}

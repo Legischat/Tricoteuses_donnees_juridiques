@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006826702",
+      "ANCIEN_ID": "UCHAFXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/67/LEGIARTI000006826702.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-03-25",
+        "DATE_FIN": "1982-05-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-417 du 23 mars 1978 L'AGENCE EST UN ETABLISSEMENT PUBLIC A CARACTERE INDUSTRIEL ET COMMERCIAL SOUS LA TUTELLE DU MINISTRE CHARGE DE L'ENERGIE (APPLICATION DE L'ARTICLE 3 DE LA LOI 77804 DU 19 JUILLET 1977)",
+          "@c_titre_court": "Décret n°78-417 du 23 mars 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000515729"
+        },
+        {
+          "#text": "Décret n°78-417 du 23 mars 1978 relatif à l'agence pour les économies d'énergie",
+          "@c_titre_court": "Décret n°78-417 du 23 mars 1978",
+          "@debut": "1978-03-25",
+          "@fin": "1982-05-14",
+          "@id_txt": "LEGITEXT000006062866"
+        }
+      ],
+      "@cid": "JORFTEXT000000515729",
+      "@date_publi": "1978-03-25",
+      "@date_signature": "1978-03-23",
+      "@nature": "DECRET",
+      "@num": "78-417"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-03-25",
+          "@etat": "ABROGE",
+          "@fin": "1982-05-14",
+          "@id": "LEGIARTI000006826702",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 74-1003 du 29 novembre 1974 est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 74-1003 1974-11-29",
+        "@cidtexte": "JORFTEXT000000334768",
+        "@datesignatexte": "1974-11-29",
+        "@id": "JORFTEXT000000334768",
+        "@naturetexte": "DECRET",
+        "@numtexte": "74-1003",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°77-804 du 19 juillet 1977 - art. 3, v. init.",
+        "@cidtexte": "JORFTEXT000000704793",
+        "@datesignatexte": "1977-07-19",
+        "@id": "JORFARTI000002078441",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "77-804",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 78-417 1978-03-23 JORF 25 MARS 1978 Rectificatif JORF 8 AVRIL 1978",
+        "@cidtexte": "JORFTEXT000000515729",
+        "@datesignatexte": "1978-03-23",
+        "@id": "JORFTEXT000000515729",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-417",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006578345",
+      "ANCIEN_ID": "PXXXXXXXXXX0782L000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/83/LEGIARTI000006578345.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "782",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1970-07-19",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de procédure pénale",
+          "@c_titre_court": "Code de procédure pénale",
+          "@debut": "1958-04-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071154"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1958-04-08",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098229"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Des procédures d'exécution",
+              "@debut": "1959-03-02",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121331"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IX : De la réhabilitation des condamnés",
+                "@debut": "1959-03-02",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006138156"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071154",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-07-19",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006578345",
+          "@num": "782",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute personne condamnée par un tribunal français à une peine criminelle, correctionnelle ou contraventionnelle peut être réhabilitée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 58-1296 1958-12-23",
+        "@cidtexte": "JORFTEXT000000339261",
+        "@datesignatexte": "1958-12-23",
+        "@id": "JORFTEXT000000339261",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1296",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°70-643 du 17 juillet 1970 - art. 32 () JORF 19 juillet 1970",
+        "@cidtexte": "JORFTEXT000000693897",
+        "@datesignatexte": "1970-07-17",
+        "@id": "LEGIARTI000006529723",
+        "@naturetexte": "LOI",
+        "@num": "32",
+        "@numtexte": "70-643",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code des transports - art. R3113-30 (VD)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000033449831",
+        "@naturetexte": "CODE",
+        "@num": "R3113-30",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des transports - art. R3211-31 (VD)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000033450021",
+        "@naturetexte": "CODE",
+        "@num": "R3211-31",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

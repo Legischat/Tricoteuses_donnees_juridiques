@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006296445",
+      "ANCIEN_ID": "AAEBPXXXXXX048AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/64/LEGIARTI000006296445.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "48",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-02-13",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-155 du 11 février 1982 DE NATIONALISATION",
+          "@c_titre_court": "Loi n°82-155 du 11 février 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503960"
+        },
+        {
+          "#text": "Loi n° 82-155 du 11 février 1982 de nationalisation",
+          "@c_titre_court": "Loi n° 82-155 du 11 février 1982",
+          "@debut": "1982-02-13",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068735"
+        }
+      ],
+      "@cid": "JORFTEXT000000503960",
+      "@date_publi": "1982-02-13",
+      "@date_signature": "1982-02-11",
+      "@nature": "LOI",
+      "@num": "82-155"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-02-13",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006296445",
+          "@num": "48",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions des articles 92, 92 A, 92 B et 160 du code général des impôts ne sont pas applicables aux échanges de titres effectués dans le cadre de la présente loi.<br/>\n<br/>   En cas de vente des titres reçus en échange :<br/>\n<br/>   La plus ou moins-value est calculée à partir du prix ou de la valeur d'acquisition des titres ayant ouvert droit à l'indemnisation ;<br/>\n<br/>   La plus-value relève, le cas échéant, des dispositions de l'article 160 du code général des impôts, les conditions d'application de cet article étant appréciées à la date de l'échange.<br/>\n<br/>   Pour l'application de ces dispositions, le remboursement des titres reçus en échange est assimilé à une vente.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 92, 92 A, 92 B, 160",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 82-155 1982-02-11 JORF 13 février 1982 rectificatif JORF 13 mars 1982",
+        "@cidtexte": "JORFTEXT000000503960",
+        "@datesignatexte": "1982-02-11",
+        "@id": "JORFTEXT000000503960",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-155",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 248 B (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006309245",
+        "@naturetexte": "CODE",
+        "@num": "248 B",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888751",
+      "ANCIEN_ID": "UTIGKXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/87/LEGIARTI000006888751.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-02-29",
+        "DATE_FIN": "1999-02-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 juillet 1975 fixant les conditions d'établissement, de délivrance et de validité des permis de conduire",
+          "@c_titre_court": "Arrêté du 31 juillet 1975",
+          "@debut": "1975-09-16",
+          "@fin": "1999-02-20",
+          "@id_txt": "LEGITEXT000006075053"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Conditions spéciales de validité et d'échange.",
+            "@debut": "1980-02-29",
+            "@fin": "1999-02-20",
+            "@id": "LEGISCTA000006112284"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006075053",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1975-07-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-02-29",
+          "@etat": "ABROGE",
+          "@fin": "1999-02-20",
+          "@id": "LEGIARTI000006888751",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les permis de conduire délivrés par les services administratifs français des territoires de l'ancienne Union française et des anciens pays de protectorat sont valables, pour la ou les catégories de véhicules auxquelles ils se rapportent, sur l'ensemble du territoire métropolitain et des départements d'outre-mer.<br/>\n<br/>   Sont valables dans les mêmes conditions les permis délivrés dans les territoires d'outre-mer.<br/>\n<br/>   Ces permis peuvent être échangés contre des permis français de la ou les mêmes catégories.<br/>\n<br/>   L'échange sera subordonné à l'acquittement des droits afférents à la délivrance du nouveau titre et au résultat favorable d'un examen médical subi devant les commissions médicales départementales du lieu de résidence de l'intéressé lors de la délivrance de permis pour lesquels cet examen est exigé en France.<br/>\n<br/>   Le bénéfice des dispositions de cet article ne peut être accordé que si les intéressés remplissent les conditions d'âge prévues par l'article R. 125 du code de la route.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1980-02-21 art. 8 JORF 29 février 1980",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1999-02-08 art. 16 JORF 20 février 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R125",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006658993",
+      "ANCIEN_ID": "SEEEVXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/89/LEGIARTI000006658993.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1970-01-04",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°70-7 du 2 janvier 1970 SALAIRE MINIMUM INTERPROFESSIONNEL DE CROISSANCE",
+          "@c_titre_court": "Loi n°70-7 du 2 janvier 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693898"
+        },
+        {
+          "#text": "Loi n° 70-7 du 2 janvier 1970 portant réforme du salaire minimum garanti et création d'un salaire minimum de croissance.",
+          "@c_titre_court": "Loi n° 70-7 du 2 janvier 1970",
+          "@debut": "1970-01-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068386"
+        }
+      ],
+      "@cid": "JORFTEXT000000693898",
+      "@date_publi": "1970-01-04",
+      "@date_signature": "1970-01-02",
+      "@nature": "LOI",
+      "@num": "70-7"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-01-04",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006658993",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A partir de l'entrée en vigueur de la présente loi, toutes les références au S.M.I.G. contenues dans la loi n° 68-1249 du 31 décembre 1968, relative à la rémunération des stagiaires de la formation professionnelle, sont remplacées par des références au salaire minimum de croissance.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 68-1249 1968-12-31",
+        "@cidtexte": "JORFTEXT000000501322",
+        "@datesignatexte": "1968-12-31",
+        "@id": "JORFTEXT000000501322",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-1249",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. L141-8 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646471",
+        "@naturetexte": "CODE",
+        "@num": "L141-8",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

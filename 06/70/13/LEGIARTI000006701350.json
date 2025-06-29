@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006701350",
+      "ANCIEN_ID": "SPHASXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/13/LEGIARTI000006701350.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1984-03-29",
+        "DATE_FIN": "1992-09-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°72-642 du 3 juillet 1972 PORTANT APPLICATION DE L'ART. L602 DU CODE DE LA SANTE PUBLIQUE",
+          "@c_titre_court": "Décret n°72-642 du 3 juillet 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000858492"
+        },
+        {
+          "#text": "Décret n°72-642 du 3 juillet 1972  PORTANT APPLICATION DE L'ARTICLE L. 602 DU CODE DE SANTE PUBLIQUE",
+          "@c_titre_court": "Décret n°72-642 du 3 juillet 1972",
+          "@debut": "1972-07-11",
+          "@fin": "1994-01-01",
+          "@id_txt": "LEGITEXT000006061968"
+        }
+      ],
+      "@cid": "JORFTEXT000000858492",
+      "@date_publi": "1972-07-11",
+      "@date_signature": "1972-07-03",
+      "@nature": "DECRET",
+      "@num": "72-642"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-03-29",
+          "@etat": "MODIFIE",
+          "@fin": "1992-09-12",
+          "@id": "LEGIARTI000006701350",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-09-12",
+          "@etat": "MODIFIE",
+          "@fin": "1993-01-07",
+          "@id": "LEGIARTI000006701351",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-01-07",
+          "@etat": "ABROGE",
+          "@fin": "1994-01-01",
+          "@id": "LEGIARTI000006701352",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le droit est fixé à 1.000 F dans le cas de demandes tendant à obtenir une rectification de visa dans les conditions prévues à l'article R. 5121 du Code de la santé publique.<br/>\n    Toutefois, il n'est pas perçu lorsque la modification demandée doit être apportée pour répondre aux spécifications nouvelles de la pharmacopée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 84-211 1984-03-27 ART. 1 JORF 29 MARS 1984",
+        "@cidtexte": "JORFTEXT000000519714",
+        "@datesignatexte": "1984-03-27",
+        "@id": "JORFTEXT000000519714",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-211",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. R5121 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006800082",
+        "@naturetexte": "CODE",
+        "@num": "R5121",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique L602 RELATIF AUX DIVERS MODES D'EXERCICE DE LA PHARMACIE",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006494052",
+      "ANCIEN_ID": "PJEERXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/40/LEGIARTI000006494052.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1931-07-07",
+        "DATE_FIN": "2004-03-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 2 juillet 1931 modifiant l'article 70 du Code d'instruction criminelle.",
+          "@c_titre_court": "Loi du 2 juillet 1931",
+          "@debut": "1931-07-07",
+          "@fin": "2004-03-10",
+          "@id_txt": "LEGITEXT000006071050"
+        }
+      ],
+      "@cid": "LEGITEXT000006071050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1931-07-02",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1931-07-07",
+          "@etat": "ABROGE",
+          "@fin": "2004-03-10",
+          "@id": "LEGIARTI000006494052",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est interdit de publier, avant décision judiciaire, toute information relative à des constitutions de partie civile faites en application de l'article 85 du Code de procédure pénale, sous peine de l'amende de 100 (anciens francs) à 2 000 (anciens francs) édictée par le dernier alinéa de l' article 39 de la loi du 29 juillet 1881 sur la presse.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code d'instruction criminelle 70",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1881-07-29 art. 39",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°2004-204 du 9 mars 2004 - art. 53 (V) JORF 10 mars 2004",
+        "@cidtexte": "JORFTEXT000000249995",
+        "@datesignatexte": "2004-03-09",
+        "@id": "LEGIARTI000006494323",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX0300028L",
+        "@num": "53",
+        "@numtexte": "2004-204",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "CODE DE PROCEDURE PENALE - art. 85 (M)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006575220",
+        "@naturetexte": "CODE",
+        "@num": "85",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

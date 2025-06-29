@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006451825",
+      "ANCIEN_ID": "PFFAAXXXXXX035CAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/18/LEGIARTI000006451825.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "35-2",
+        "ETAT": "ABROGE_DIFF",
+        "DATE_DEBUT": "1992-02-29",
+        "DATE_FIN": "2025-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature",
+          "@c_titre_court": "Ordonnance n° 58-1270 du 22 décembre 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339259"
+        },
+        {
+          "#text": "Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.",
+          "@c_titre_court": "Ordonnance n° 58-1270 du 22 décembre 1958",
+          "@debut": "1958-12-23",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069212"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : De la commission d'avancement.",
+            "@debut": "1958-12-23",
+            "@fin": "2025-12-31",
+            "@id": "LEGISCTA000006091596"
+          },
+          {
+            "#text": "Chapitre IV : Des magistrats du troisième grade",
+            "@debut": "2025-12-31",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000048434764"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000339259",
+      "@date_publi": "1958-12-23",
+      "@date_signature": "1958-12-22",
+      "@nature": "ORDONNANCE",
+      "@num": "58-1270"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-02-29",
+          "@etat": "ABROGE_DIFF",
+          "@fin": "2025-12-31",
+          "@id": "LEGIARTI000006451825",
+          "@num": "35-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE_DIFF"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Pendant la durée de leur mandat, les membres élus de la commission d'avancement, y compris les suppléants, ne peuvent bénéficier ni d'un avancement de grade ni d'une promotion à une fonction hors hiérarchie.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°92-189 du 25 février 1992 - art. 33 () JORF 29 février 1992",
+        "@cidtexte": "JORFTEXT000000710866",
+        "@datesignatexte": "1992-02-25",
+        "@id": "LEGIARTI000006450871",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "JUSX9100065L",
+        "@num": "33",
+        "@numtexte": "92-189",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "LOI n°2023-1058 du 20 novembre 2023 - art. 3",
+        "@cidtexte": "JORFTEXT000048430497",
+        "@datesignatexte": "2023-11-20",
+        "@id": "LEGIARTI000048431604",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSB2305129L",
+        "@num": "3",
+        "@numtexte": "2023-1058",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

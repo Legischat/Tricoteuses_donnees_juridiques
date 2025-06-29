@@ -1,0 +1,149 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652610",
+      "ANCIEN_ID": "SBAXXXXXXXX5X11600AAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/26/LEGIARTI000006652610.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "116",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-11-19",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 6 : Dispositions spéciales applicables à certaines catégories de marins",
+            "@debut": "1926-12-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101385"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans.",
+              "@debut": "1997-11-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123928"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-05-30",
+          "@etat": "MODIFIE",
+          "@fin": "1997-11-19",
+          "@id": "LEGIARTI000006652609",
+          "@num": "116",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-11-19",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006652610",
+          "@num": "116",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le capitaine ou le patron doit exercer sur le marin mineur une surveillance attentive, veiller à ce qu'il ne soit employé qu'aux travaux et services en rapport avec ses aptitudes physiques et se rattachant à l'exercice de sa profession ; il lui enseigne ou fait enseigner, progressivement, la pratique de son métier.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Dispositions réglementaires",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000889139",
+        "@datesignatexte": "1986-07-16",
+        "@id": "LEGIARTI000006659745",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "7",
+        "@numtexte": "86-836",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997",
+        "@cidtexte": "JORFTEXT000000751904",
+        "@datesignatexte": "1997-11-18",
+        "@id": "LEGIARTI000006624180",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9600072L",
+        "@num": "46",
+        "@numtexte": "97-1051",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307 du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des transports - art. L5545-7 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023079379",
+        "@naturetexte": "CODE",
+        "@num": "L5545-7",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

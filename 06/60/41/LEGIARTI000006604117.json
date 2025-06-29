@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006604117",
+      "ANCIEN_ID": "RAHIKXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/41/LEGIARTI000006604117.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-03-14",
+        "DATE_FIN": "1988-08-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°86-373 du 12 mars 1986 MODIFIANT LE TAUX DE LA TAXE D'USAGE DES ABATTOIRS PUBLICS",
+          "@c_titre_court": "Décret n°86-373 du 12 mars 1986",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705529"
+        },
+        {
+          "#text": "Décret n°86-373 du 12 mars 1986 modifiant le taux de la taxe d'usage des abattoirs publics",
+          "@c_titre_court": "Décret n°86-373 du 12 mars 1986",
+          "@debut": "1986-03-14",
+          "@fin": "1988-08-12",
+          "@id_txt": "LEGITEXT000006065493"
+        }
+      ],
+      "@cid": "JORFTEXT000000705529",
+      "@date_publi": "1986-03-13",
+      "@date_signature": "1986-03-12",
+      "@nature": "DECRET",
+      "@num": "86-373"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-14",
+          "@etat": "ABROGE",
+          "@fin": "1988-08-12",
+          "@id": "LEGIARTI000006604117",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 85-103 du 25 janvier 1985 modifiant le taux de la taxe d'usage des abattoirs publics est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-103 1985-01-25",
+        "@cidtexte": "JORFTEXT000000698823",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000698823",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-103",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-866 du 29 juillet 1988 - art. 2 () JORF 12 août 1988",
+        "@cidtexte": "JORFTEXT000000867905",
+        "@datesignatexte": "1988-07-29",
+        "@id": "LEGIARTI000006601826",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRG8801170D",
+        "@num": "2",
+        "@numtexte": "88-866",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

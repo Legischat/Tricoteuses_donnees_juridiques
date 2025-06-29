@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006667926",
+      "ANCIEN_ID": "SEIARXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/79/LEGIARTI000006667926.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1981-07-26",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 juillet 1981 APPLICATION AUX INDEMNITES COMPLEMENTAIRES QUI SONT VERSEES PAR LES ENTREPRISES DU TAUX DE PRISE EN CHARGE FIXE PAR LES CONVENTIONS DE CHOMAGE PARTIEL",
+          "@c_titre_court": "Arrêté du 17 juillet 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000460988"
+        },
+        {
+          "#text": "Arrêté du 17 juillet 1981  RELATIF A L'APPLICATION DE L'ARTICLE D. 322-14 DU CODE DU TRAVAIL.",
+          "@c_titre_court": "Arrêté du 17 juillet 1981",
+          "@debut": "1981-07-26",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072102"
+        }
+      ],
+      "@cid": "JORFTEXT000000460988",
+      "@date_publi": "1981-07-26",
+      "@date_signature": "1981-07-17",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-07-26",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006667926",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de prise en charge fixé par les conventions de chômage partiel s'applique aux indemnités complémentaires qui sont versées par les entreprises en application :<br/>\n<br/>   De l'accord national interprofessionnel du 21 février 1968 ;<br/>\n<br/>   D'un accord de branche agréé, dans la limite d'une indemnisation de 70 p. 100 de la rémunération horaire brute ;<br/>\n<br/>   D'un accord d'entreprise ou d'une décision unilatérale du chef d'entreprise agréés, dans la limite d'une indemnisation de 70 p. 100 de la rémunération horaire brute.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "ACCORD 1968-02-21 INTERPROFESSIONNEL",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. D322-14 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006644739",
+        "@naturetexte": "CODE",
+        "@num": "D322-14",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "le taux de prise en charge est périmé",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

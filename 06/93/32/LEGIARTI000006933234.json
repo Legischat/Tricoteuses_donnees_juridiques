@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006933234",
+      "ANCIEN_ID": "SSIBQRXXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/93/32/LEGIARTI000006933234.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-08-17",
+        "DATE_FIN": "2015-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 août 1993 portant sur les modalités de calcul du gain journalier net mentionné à l'article R. 433-5 du code de la sécurité sociale",
+          "@c_titre_court": "Arrêté du 3 août 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000348777"
+        },
+        {
+          "#text": "Arrêté du 3 août 1993 portant sur les modalités de calcul du gain journalier net mentionné à l'article R. 433-5 du code de la sécurité sociale",
+          "@c_titre_court": "Arrêté du 3 août 1993",
+          "@debut": "1993-08-17",
+          "@fin": "2015-01-01",
+          "@id_txt": "LEGITEXT000006082519"
+        }
+      ],
+      "@cid": "JORFTEXT000000348777",
+      "@date_publi": "1993-08-17",
+      "@date_signature": "1993-08-03",
+      "@nature": "ARRETE",
+      "@nor": "SPSS9302217A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-08-17",
+          "@etat": "ABROGE",
+          "@fin": "2015-01-01",
+          "@id": "LEGIARTI000006933234",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000000967114",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le gain journalier net perçu par la victime mentionné à l'article R. 433-5 du code de la sécurité sociale est calculé à partir du salaire de référence diminué :<br/>\n<br/>   1. De la part salariale des cotisations sociales d'origine légale et conventionnelle ;<br/>\n<br/>   2. De la contribution sociale généralisée.<br/>\n<br/>   Puis il est obtenu conformément aux modalités prévues du 1° au 5° de l'article R. 433-5 susvisé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "ARRÊTÉ du 20 août 2014 - art. 1",
+        "@cidtexte": "JORFTEXT000029392104",
+        "@datesignatexte": "2014-08-20",
+        "@id": "LEGIARTI000029395025",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AFSS1416022A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R433-5",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006750314",
+        "@naturetexte": "CODE",
+        "@num": "R433-5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R433-5 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006750314",
+        "@naturetexte": "CODE",
+        "@num": "R433-5",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

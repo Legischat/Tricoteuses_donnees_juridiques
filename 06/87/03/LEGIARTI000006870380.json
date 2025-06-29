@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006870380",
+      "ANCIEN_ID": "AIIFXXXXXXX011AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/03/LEGIARTI000006870380.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-05-11",
+        "DATE_FIN": "2004-11-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 février 1990 définissant les critères de classification et les    conditions d'étiquetage et d'emballage des préparations dangereuses",
+          "@c_titre_court": "Arrêté du 21 février 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000349165"
+        },
+        {
+          "#text": "Arrêté du 21 février 1990 définissant les critères de classification et les conditions d'étiquetage et d'emballage des préparations dangereuses",
+          "@c_titre_court": "Arrêté du 21 février 1990",
+          "@debut": "1991-06-01",
+          "@fin": "2004-11-18",
+          "@id_txt": "LEGITEXT000006075600"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Modalités de classification.",
+            "@debut": "1991-06-01",
+            "@fin": "2004-11-18",
+            "@id": "LEGISCTA000006110914"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000349165",
+      "@date_publi": "1990-03-24",
+      "@date_signature": "1990-02-21",
+      "@ministere": "MINISTERE DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+      "@nature": "ARRETE",
+      "@nor": "TEFT9003189A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-06-01",
+          "@etat": "MODIFIE",
+          "@fin": "1995-05-11",
+          "@id": "LEGIARTI000006870379",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-05-11",
+          "@etat": "ABROGE",
+          "@fin": "2004-11-18",
+          "@id": "LEGIARTI000006870380",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   B. - Détermination par le calcul des propriétés toxicologiques.    Sont considérées comme très corrosives et affectées au moins du symbole C et de la phrase R 35 les préparations qui contiennent au moins une substance corrosive et affectée de la phrase R 35 à une concentration supérieure ou égale à la limite éventuellement fixée à l'annexe I de l'arrêté du 20 avril 1994, ou, en l'absence de celle-ci, la limite fixée dans le tableau IV de l'annexe I du présent arrêté.<br/>\n<br/>   Les préparations contenant plusieurs substances corrosives et affectées de la phrase R 35 sont considérées comme très corrosives lorsque :<br/>\n Epsilon ( PC,R35 / LC,R35 ) > ou = 1.<br/>\n<br/>   PC,R35 : pourcentage en poids dans la préparation de chaque substance corrosive affectée de la phrase 35 ;<br/>\n<br/>   LC,R35 : limite de corrosion fixée pour chaque substance corrosive affectée de la phrase 35, exprimée en pourcentage en poids, et fixée à l'annexe I de l'arrêté du 20 avril 1994 ou au tableau IV de l'annexe I du présent arrêté.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-02-21 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1994-04-20 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1995-05-05 art. 1 JORF 11 mai 1995",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2004-11-09 art. 40 JORF 18 novembre 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

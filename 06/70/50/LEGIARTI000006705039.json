@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006705039",
+      "ANCIEN_ID": "AFEBVXXXXXX080AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/50/LEGIARTI000006705039.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "80",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-07-04",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-46 du 24 janvier 1984 BANCAIRE RELATIVE A L'ACTIVITE ET AU CONTROLE DES ETABLISSEMENTS DE CREDIT",
+          "@c_titre_court": "Loi n°84-46 du 24 janvier 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000504724"
+        },
+        {
+          "#text": "Loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit",
+          "@c_titre_court": "Loi n° 84-46 du 24 janvier 1984",
+          "@debut": "1984-07-25",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068837"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VI : Sanctions pénales.",
+            "@debut": "1984-07-25",
+            "@fin": "2005-05-07",
+            "@id": "LEGISCTA000006104058"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000504724",
+      "@date_publi": "1984-01-25",
+      "@date_signature": "1984-01-24",
+      "@nature": "LOI",
+      "@num": "84-46"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-07-25",
+          "@etat": "MODIFIE",
+          "@fin": "1996-07-04",
+          "@id": "LEGIARTI000006705038",
+          "@num": "80",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-04",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006705039",
+          "@num": "80",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le fait, pour les dirigeants d'un établissement de crédit, de ne pas, pour chaque exercice, dresser l'inventaire, établir des comptes annuels et un rapport de gestion dans les conditions prévues à l'article 53 est puni de 100 000 F d'amende.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 53",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°84-46 du 24 janvier 1984 - art. 84-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "LEGIARTI000006705093",
+        "@naturetexte": "LOI",
+        "@num": "84-1",
+        "@numtexte": "84-46",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°96-597 du 2 juillet 1996 - art. 99 () JORF 4 juillet 1996",
+        "@cidtexte": "JORFTEXT000000193847",
+        "@datesignatexte": "1996-07-02",
+        "@id": "LEGIARTI000006710538",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9500164L",
+        "@num": "99",
+        "@numtexte": "96-597",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L571-6 (M)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006658896",
+        "@naturetexte": "CODE",
+        "@num": "L571-6",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L571-6 (M)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006658896",
+        "@naturetexte": "CODE",
+        "@num": "L571-6",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

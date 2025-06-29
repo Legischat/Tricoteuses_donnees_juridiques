@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006430157",
+      "ANCIEN_ID": "PCINCXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/01/LEGIARTI000006430157.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-12-01",
+        "DATE_FIN": "1991-11-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 novembre 1990 portant fixation de la tarification des    communications téléphoniques établies à partir des postes publics à cartes    magnétiques",
+          "@c_titre_court": "Arrêté du 23 novembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000534311"
+        },
+        {
+          "#text": "Arrêté du 23 novembre 1990 portant fixation de la tarification des communications téléphoniques établies à partir des postes publics à cartes magnétiques",
+          "@c_titre_court": "Arrêté du 23 novembre 1990",
+          "@debut": "1990-12-01",
+          "@fin": "1991-11-23",
+          "@id_txt": "LEGITEXT000006076828"
+        }
+      ],
+      "@cid": "JORFTEXT000000534311",
+      "@date_publi": "1990-12-01",
+      "@date_signature": "1990-11-23",
+      "@nature": "ARRETE",
+      "@nor": "PTTT9000909A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-12-01",
+          "@etat": "ABROGE",
+          "@fin": "1991-11-23",
+          "@id": "LEGIARTI000006430157",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'utilisation de ce type de publiphone donne lieu au paiement par le client d'un forfait de douze unités Télécom Poste public (U.T.P.) par appel, auquel s'ajoute le prix de l'appel téléphonique.<br/>\n<br/>   Comme à partir des autres types de publiphones, le prix de la communication téléphonique est calculé sur la base de la valeur de l'impulsion prévue à l'alinéa C 32 du décret du 31 décembre 1987 susvisé et des cadences tarifaires en vigueur dans la relation considérée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-10-31 art. 1 JORF 23 novembre 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 87-1156 1987-12-31 C32",
+        "@cidtexte": "JORFTEXT000000885203",
+        "@datesignatexte": "1987-12-31",
+        "@id": "JORFTEXT000000885203",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PTTX8798706D",
+        "@numtexte": "87-1156",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

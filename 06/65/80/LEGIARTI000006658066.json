@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006658066",
+      "ANCIEN_ID": "SEED6XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/80/LEGIARTI000006658066.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 99-570 du 8 juillet 1999 tendant à limiter les licenciements  des salariés de plus de cinquante ans (1)",
+          "@c_titre_court": "Loi n°99-570 du 8 juillet 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000577370"
+        },
+        {
+          "#text": "Loi n° 99-570 du 8 juillet 1999 tendant à limiter les licenciements des salariés de plus de cinquante ans",
+          "@c_titre_court": "Loi n° 99-570 du 8 juillet 1999",
+          "@debut": "1999-07-09",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005628176"
+        }
+      ],
+      "@cid": "JORFTEXT000000577370",
+      "@date_publi": "1999-07-09",
+      "@date_signature": "1999-07-08",
+      "@nature": "LOI",
+      "@nor": "MESX9803321L",
+      "@num": "99-570"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006658066",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°99-570 du 8 juillet 1999 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000577370",
+        "@datesignatexte": "1999-07-08",
+        "@id": "LEGIARTI000006658068",
+        "@naturetexte": "LOI",
+        "@nortexte": "MESX9803321L",
+        "@num": "3",
+        "@numtexte": "99-570",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. L321-13 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006648068",
+        "@naturetexte": "CODE",
+        "@num": "L321-13",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

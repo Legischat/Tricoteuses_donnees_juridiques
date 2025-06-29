@@ -1,0 +1,226 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006645883",
+      "ANCIEN_ID": "SAAXXXXXXXX1X121L06AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/58/LEGIARTI000006645883.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L121-6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-01-04",
+        "DATE_FIN": "1982-02-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Conventions relatives au travail",
+              "@debut": "1973-01-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123870"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Contrat de travail",
+                "@debut": "1973-11-23",
+                "@fin": "2008-05-01",
+                "@id": "LEGISCTA000006139774"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Dispositions générales.",
+                  "@debut": "1973-11-23",
+                  "@fin": "2008-05-01",
+                  "@id": "LEGISCTA000006153997"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-01-04",
+          "@etat": "ABROGE",
+          "@fin": "1982-02-06",
+          "@id": "LEGIARTI000006645883",
+          "@num": "L121-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000006645884",
+          "@num": "L121-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'engagement d'un ouvrier ne peut excéder un an, à moins qu'il ne soit contremaître, conducteur des autres ouvriers ou qu'il n'ait un traitement et des conditions stipulés par un acte exprès.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 79-11 1979-01-03 ART. 9 : DATE D'APPLICATION DE LA LOI",
+        "@cidtexte": "JORFTEXT000000339243",
+        "@datesignatexte": "1979-01-03",
+        "@id": "JORFTEXT000000339243",
+        "@naturetexte": "LOI",
+        "@numtexte": "79-11",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°79-11 du 3 janvier 1979 - art. 1 () JORF 4 JANVIER 1979",
+        "@cidtexte": "JORFTEXT000000339243",
+        "@datesignatexte": "1979-01-03",
+        "@id": "LEGIARTI000006273254",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "79-11",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 82-130 1982-02-05 ART. 3 JORF 6 FEVRIER 1982",
+        "@cidtexte": "JORFTEXT000000339925",
+        "@datesignatexte": "1982-02-05",
+        "@id": "JORFTEXT000000339925",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "82-130",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. L121-6-1 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006645885",
+        "@naturetexte": "CODE",
+        "@num": "L121-6-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. L122-3 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646701",
+        "@naturetexte": "CODE",
+        "@num": "L122-3",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail - art. L122-3 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646701",
+        "@naturetexte": "CODE",
+        "@num": "L122-3",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail - art. L1221-6 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006900845",
+        "@naturetexte": "CODE",
+        "@num": "L1221-6",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail - art. L1221-6 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006900845",
+        "@naturetexte": "CODE",
+        "@num": "L1221-6",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail - art. L1222-2 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006900859",
+        "@naturetexte": "CODE",
+        "@num": "L1222-2",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail - art. L1222-2 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006900859",
+        "@naturetexte": "CODE",
+        "@num": "L1222-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail - art. L721-6 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650888",
+        "@naturetexte": "CODE",
+        "@num": "L721-6",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 73-1046 1973-11-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860666",
+      "ANCIEN_ID": "UPIDMXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/06/LEGIARTI000006860666.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1967-10-06",
+        "DATE_FIN": "2010-11-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 septembre 1967 relatif aux règles d'aménagement et d'exploitation des usines de traitement de pétrole brut, de ses dérivés et résidus",
+          "@c_titre_court": "Arrêté du 4 septembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000850487"
+        },
+        {
+          "#text": "Arrêté du 4 septembre 1967 relatif aux règles d'aménagement et d'exploitation des usines de traitement de pétrole brut de ses dérivés et résidus *raffinerie*",
+          "@c_titre_court": "Arrêté du 4 septembre 1967",
+          "@debut": "1967-10-06",
+          "@fin": "2010-11-17",
+          "@id_txt": "LEGITEXT000006074416"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions générales",
+            "@debut": "1967-10-06",
+            "@fin": "2010-11-17",
+            "@id": "LEGISCTA000006110030"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000850487",
+      "@date_publi": "1967-10-06",
+      "@date_signature": "1967-09-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-10-06",
+          "@etat": "ABROGE",
+          "@fin": "2010-11-17",
+          "@id": "LEGIARTI000006860666",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont considérées comme usines de traitement de pétrole brut, de ses dérivés et résidus au sens du présent arrêté, et soumises à ses dispositions [*définition*], les installations (et stockages correspondants) qui procèdent au traitement de pétrole brut, de ses dérivés et résidus pour la fabrication des produits repris au tableau B annexé à l'article 265 du code des douanes, tel qu'il résulte de la loi n° 66-923 du 14 décembre 1966 portant modification de diverses dispositions du code des douanes, à l'exception des usines de traitement de gaz naturel liquéfié.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°66-923 du 14 décembre 1966",
+        "@cidtexte": "JORFTEXT000000880572",
+        "@datesignatexte": "1966-12-14",
+        "@id": "JORFTEXT000000880572",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-923",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 3 octobre 2010 - art. 64",
+        "@cidtexte": "JORFTEXT000023081678",
+        "@datesignatexte": "2010-10-03",
+        "@id": "LEGIARTI000023100877",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVP1025848A",
+        "@num": "64",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des douanes",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071570",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

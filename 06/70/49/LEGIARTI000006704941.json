@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006704941",
+      "ANCIEN_ID": "AFEBVXXXXXX072AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/49/LEGIARTI000006704941.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "72",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1994-01-05",
+        "DATE_FIN": "1996-07-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-46 du 24 janvier 1984 BANCAIRE RELATIVE A L'ACTIVITE ET AU CONTROLE DES ETABLISSEMENTS DE CREDIT",
+          "@c_titre_court": "Loi n°84-46 du 24 janvier 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000504724"
+        },
+        {
+          "#text": "Loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit",
+          "@c_titre_court": "Loi n° 84-46 du 24 janvier 1984",
+          "@debut": "1984-07-25",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068837"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Compagnies financières.",
+            "@debut": "1984-07-25",
+            "@fin": "2001-01-01",
+            "@id": "LEGISCTA000006104057"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000504724",
+      "@date_publi": "1984-01-25",
+      "@date_signature": "1984-01-24",
+      "@nature": "LOI",
+      "@num": "84-46"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-07-25",
+          "@etat": "MODIFIE",
+          "@fin": "1994-01-05",
+          "@id": "LEGIARTI000006704940",
+          "@num": "72",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-01-05",
+          "@etat": "MODIFIE",
+          "@fin": "1996-07-04",
+          "@id": "LEGIARTI000006704941",
+          "@num": "72",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-04",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006704942",
+          "@num": "72",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les compagnies financières sont des établissements financiers, au sens du 4° de l'article 71-1 de la présente loi, qui ont pour filiales, exclusivement ou principalement, un ou plusieurs établissements de crédit ou établissements financiers. L'une au moins de ces filiales est un établissement de crédit.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°84-46 du 24 janvier 1984 - art. 71-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "LEGIARTI000006704876",
+        "@naturetexte": "LOI",
+        "@num": "71-1",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 93-1444 1993-12-31 art. 2 I JORF 5 janvier 1994",
+        "@cidtexte": "JORFTEXT000000361988",
+        "@datesignatexte": "1993-12-31",
+        "@id": "JORFTEXT000000361988",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9300149L",
+        "@numtexte": "93-1444",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

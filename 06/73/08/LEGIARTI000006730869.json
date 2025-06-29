@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006730869",
+      "ANCIEN_ID": "AFHFSXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/73/08/LEGIARTI000006730869.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1982-05-30",
+        "DATE_FIN": "2002-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-454 du 28 mai 1982 REGIME D'EPARGNE POPULAIRE",
+          "@c_titre_court": "Décret n°82-454 du 28 mai 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000879675"
+        },
+        {
+          "#text": "Décret n°82-454 du 28 mai 1982 pris pour l'application de la loi n° 82-357 du 27 avril 1982 portant création d'un régime d'épargne populaire *livret rose*",
+          "@c_titre_court": "Décret n°82-454 du 28 mai 1982",
+          "@debut": "1982-05-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006063792"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : Dispositions relatives au fonctionnement des comptes sur livret d'épargne populaire.",
+            "@debut": "1982-05-30",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006105724"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000879675",
+      "@date_publi": "1982-05-30",
+      "@date_signature": "1982-05-28",
+      "@nature": "DECRET",
+      "@num": "82-454"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-30",
+          "@etat": "MODIFIE",
+          "@fin": "2002-01-01",
+          "@id": "LEGIARTI000006730869",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006730870",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le versement initial opéré sur un compte sur livret d'épargne populaire doit être au moins égal à 200 F [*francs - montant minimum*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 82-357 1982-04-27",
+        "@cidtexte": "JORFTEXT000000319742",
+        "@datesignatexte": "1982-04-27",
+        "@id": "JORFTEXT000000319742",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-357",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code monétaire et financier - art. R221-41 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006683137",
+        "@naturetexte": "CODE",
+        "@num": "R221-41",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

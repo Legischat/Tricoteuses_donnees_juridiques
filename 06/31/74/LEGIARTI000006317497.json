@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006317497",
+      "ANCIEN_ID": "AAGAFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/74/LEGIARTI000006317497.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1937-10-01",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 25 août 1937 réglementant les bons de caisse",
+          "@c_titre_court": "Décret-loi du 25 août 1937",
+          "@debut": "1937-08-28",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006069591"
+        }
+      ],
+      "@cid": "LEGITEXT000006069591",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1937-08-25",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1937-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006317497",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les prescriptions ci-après devront être observées à compter du 1er octobre 1937 [*date - entrée en vigueur*] pour l'émission, l'exposition, la mise en vente ou en circulation, par voie d'offre au public, de bons à ordre ou au porteur comportant engagement par un commerçant de payer à échéance déterminée et délivrés en contrepartie d'un prêt [*bons de caisse - définition*].<br/>\n<br/>   Ces bons ne peuvent être souscrits à plus de cinq années d'échéance [*crédit à court ou moyen terme*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L223-1 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006651972",
+        "@naturetexte": "CODE",
+        "@num": "L223-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret-loi 1937-08-25 JORF 28 août 1937 rectificatif JORF 31 août 1937 en vigueur le 1er octobre 1937",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

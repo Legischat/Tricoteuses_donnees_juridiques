@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006511656",
+      "ANCIEN_ID": "ADECWXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/16/LEGIARTI000006511656.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-07-14",
+        "DATE_FIN": "2002-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certains commerçants et ‎artisans âgés ‎",
+          "@c_titre_court": "Loi n° 72-657 du 13 juillet 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000875580"
+        },
+        {
+          "#text": "Loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés",
+          "@c_titre_court": "Loi n° 72-657 du 13 juillet 1972",
+          "@debut": "1972-07-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068450"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dispositions diverses.",
+            "@debut": "1972-07-14",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006095394"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000875580",
+      "@date_publi": "1972-07-14",
+      "@date_signature": "1972-07-13",
+      "@nature": "LOI",
+      "@num": "72-657"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2002-12-31",
+          "@id": "LEGIARTI000006511656",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les frais de gestion du régime d'aide institué par la présente loi sont couverts par prélèvement sur le produit des taxes instituées à l'article 3 ci-dessus dans des conditions fixées par voie réglementaire.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 72-657 1972-07-13 art. 3",
+        "@cidtexte": "JORFTEXT000000875580",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000875580",
+        "@naturetexte": "LOI",
+        "@numtexte": "72-657",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°72-1076 du 1 décembre 1972 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000695564",
+        "@datesignatexte": "1972-12-01",
+        "@id": "LEGIARTI000006579752",
+        "@naturetexte": "DECRET",
+        "@num": "10",
+        "@numtexte": "72-1076",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 2002-1575 2002-12-30 art. 35 I 4° Finances pour 2003 JORF 31 décembre 2002",
+        "@cidtexte": "JORFTEXT000000234121",
+        "@datesignatexte": "2002-12-30",
+        "@id": "JORFTEXT000000234121",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX0200130L",
+        "@numtexte": "2002-1575",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

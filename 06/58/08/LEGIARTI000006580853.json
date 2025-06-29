@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580853",
+      "ANCIEN_ID": "RAA0XXXXXXX1062CAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/08/LEGIARTI000006580853.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1062-2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1995-12-31",
+        "DATE_FIN": "1997-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Mutualité sociale agricole",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121386"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : Prestations familiales",
+                "@debut": "1955-04-19",
+                "@fin": "2000-06-22",
+                "@id": "LEGISCTA000006138273"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 1 : Affiliations et cotisations.",
+                  "@debut": "1955-04-19",
+                  "@fin": "2000-06-22",
+                  "@id": "LEGISCTA000006152104"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-12-31",
+          "@etat": "MODIFIE",
+          "@fin": "1997-12-31",
+          "@id": "LEGIARTI000006580853",
+          "@num": "1062-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1998-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006580854",
+          "@num": "1062-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er octobre 1996 et jusqu'au 31 décembre 1997, et par dérogation aux dispositions de l'article 1062-1, les gains et rémunérations versés au cours d'un mois civil aux travailleurs occasionnels définis au treizième alinéa de l'article 1031 sont exonérés de cotisations d'allocations familiales lorsqu'ils sont inférieurs ou égaux à 169 fois le salaire minimum de croissance majoré de 50 p. 100.<br/>\n<br/>   Pour les gains et rémunérations supérieurs à ce montant  et inférieurs ou égaux à 169 fois le salaire minimum de croissance majoré de 60 p. 100, le montant de la cotisation d'allocations familiales est réduit de moitié.<br/>\n<br/>   Le bénéfice des dispositions du présent article ne peut être cumulé avec celui d'une autre exonération totale ou partielle de cotisations patronales ou l'application de taux spécifiques, d'assiettes ou montants forfaitaires de cotisations, à l'exception des taux réduits en application du treizième alinéa de l'article 1031.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1062-1, 1031",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural L741-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 95-1346 1995-12-30 art. 113 Finances pour 1996 JORF 31 décembre 1995",
+        "@cidtexte": "JORFTEXT000000191068",
+        "@datesignatexte": "1995-12-30",
+        "@id": "JORFTEXT000000191068",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9500136L",
+        "@numtexte": "95-1346",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code rural - art. L741-5 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006585675",
+        "@naturetexte": "CODE",
+        "@num": "L741-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

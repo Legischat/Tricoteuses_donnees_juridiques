@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006204638",
+      "ANCIEN_ID": "AMHAEXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/46/LEGIARTI000006204638.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-08-19",
+        "DATE_FIN": "1990-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°72-199 du 13 mars 1972 RELATIF AUX COMMISSIONS SPECIALISEES DES MARCHES, PRIS EN APPLICATION DE L'ART. 207 DU CODE DES MARCHES PUBLICS",
+          "@c_titre_court": "Décret n°72-199 du 13 mars 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000879365"
+        },
+        {
+          "#text": "Décret n°72-199 du 13 mars 1972 relatif aux commissions spécialisées des marchés, pris en application de l'article 207 du code des marchés publics",
+          "@c_titre_court": "Décret n°72-199 du 13 mars 1972",
+          "@debut": "1981-08-19",
+          "@fin": "1990-03-01",
+          "@id_txt": "LEGITEXT000006061912"
+        }
+      ],
+      "@cid": "JORFTEXT000000879365",
+      "@date_publi": "1972-03-14",
+      "@date_signature": "1972-03-13",
+      "@nature": "DECRET",
+      "@num": "72-199"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-08-19",
+          "@etat": "ABROGE",
+          "@fin": "1990-03-01",
+          "@id": "LEGIARTI000006204638",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-08-19",
+          "@etat": "ABROGE",
+          "@fin": "1990-03-01",
+          "@id": "LEGIARTI000006204639",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les seuils de compétence de chaque commission spécialisée, fixés aux II des articles 2 à 8 ci-dessus, peuvent être modifiés, sur l'initiative ou après avis de cette commission, par arrêté conjoint du ministre de l'économie et des finances et du ou des ministres sur proposition desquels sont désignés le président et le vice-président.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code des marchés publics 207",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 72-199 1972-03-13 art 2 à 8",
+        "@cidtexte": "JORFTEXT000000879365",
+        "@datesignatexte": "1972-03-13",
+        "@id": "JORFTEXT000000879365",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-199",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°89-772 du 20 octobre 1989 - art. 9 () JORF 22 octobre 1989 en vigueur le 1er mars 1990",
+        "@cidtexte": "JORFTEXT000000880976",
+        "@datesignatexte": "1989-10-20",
+        "@id": "LEGIARTI000006205159",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOM8981044D",
+        "@num": "9",
+        "@numtexte": "89-772",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

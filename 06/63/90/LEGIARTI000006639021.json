@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006639021",
+      "ANCIEN_ID": "RLIBIXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/90/LEGIARTI000006639021.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-03-06",
+        "DATE_FIN": "1995-06-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 février 1977 relatif aux conditions d'hygiène relatives aux viandes de volaille découpées et conditionnées à l'avance",
+          "@c_titre_court": "Arrêté du 5 février 1977",
+          "@debut": "1977-03-06",
+          "@fin": "1995-06-29",
+          "@id_txt": "LEGITEXT000006072020"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Conditions d'installation et d'équipement.",
+            "@debut": "1977-03-06",
+            "@fin": "1995-06-29",
+            "@id": "LEGISCTA000006100785"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072020",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-02-05",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-03-06",
+          "@etat": "ABROGE",
+          "@fin": "1995-06-29",
+          "@id": "LEGIARTI000006639021",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'entreposage des viandes de volaille dans les locaux frigorifiques doit être réalisé de façon à ce que la température interne des viandes soit comprise entre 0° et 4° C pour les viandes réfrigérées, inférieure ou égale à - 12° C pour les viandes congelées, inférieure ou égale à - 18° C pour les viandes surgelées et les morceaux recongelés provenant du découpage de carcasses congelées.<br/>\n<br/>   Les locaux de travail et d'emballage des viandes de volaille sont dotés d'un dispositif de climatisation assurant une température inférieure ou égale à + 10° C. L'humidité relative doit être telle qu'aucune condensation ne puisse se produire sur les viandes.<br/>\n<br/>   Des thermomètres enregistreurs ou des téléthermomètres enregistreurs sont convenablement placés pour contrôler à tout moment la température réelle du local de découpage ainsi que celle des locaux de stockage. Les graphiques sont conservés pendant un mois au moins à la disposition des services d'inspection.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-02-05 art. 28",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1995-05-29 art. 50 JORF 29 juin 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 67-295 1967-03-31",
+        "@cidtexte": "JORFTEXT000000305784",
+        "@datesignatexte": "1967-03-31",
+        "@id": "JORFTEXT000000305784",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-295",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 71-636 1971-07-21",
+        "@cidtexte": "JORFTEXT000000335914",
+        "@datesignatexte": "1971-07-21",
+        "@id": "JORFTEXT000000335914",
+        "@naturetexte": "DECRET",
+        "@numtexte": "71-636",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

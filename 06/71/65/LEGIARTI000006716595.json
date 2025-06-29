@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006716595",
+      "ANCIEN_ID": "SPIC9XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/65/LEGIARTI000006716595.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-05-08",
+        "DATE_FIN": "2019-07-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 avril 1987 CONCERNANT LA LUTTE CONTRE LES MALADIES HUMAINES TRANSMISES PAR DES INSECTES",
+          "@c_titre_court": "Arrêté du 23 avril 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000474065"
+        },
+        {
+          "#text": "Arrêté du 23 avril 1987 concernant la lutte contre les maladies humaines transmises par des insectes",
+          "@c_titre_court": "Arrêté du 23 avril 1987",
+          "@debut": "1987-05-08",
+          "@fin": "2020-01-01",
+          "@id_txt": "LEGITEXT000006057457"
+        }
+      ],
+      "@cid": "JORFTEXT000000474065",
+      "@date_publi": "1987-05-08",
+      "@date_signature": "1987-04-23",
+      "@nature": "ARRETE",
+      "@nor": "ASEP8700694A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-05-08",
+          "@etat": "ABROGE",
+          "@fin": "2019-07-27",
+          "@id": "LEGIARTI000006716595",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>   La liste des départements concernés par les mesures de lutte contre les maladies humaines transmises par des insectes est la suivante :</p>\n<br/>\n<p>   Haute-Corse, Corse-du-Sud, Guadeloupe, Guyane, Martinique et Réunion.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 23 juillet 2019 - art. 2",
+        "@cidtexte": "JORFTEXT000038821610",
+        "@datesignatexte": "2019-07-23",
+        "@id": "LEGIARTI000038823517",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SSAP1921850A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L18-1 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692182",
+        "@naturetexte": "CODE",
+        "@num": "L18-1",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

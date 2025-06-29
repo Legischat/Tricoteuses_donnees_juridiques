@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006606601",
+      "ANCIEN_ID": "RAIBHXXXXXX014AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/66/LEGIARTI000006606601.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-10-03",
+        "DATE_FIN": "2002-05-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 décembre 1976 relatif à l'identification des équidés",
+          "@c_titre_court": "Arrêté du 31 décembre 1976",
+          "@debut": "1977-01-22",
+          "@fin": "2002-05-04",
+          "@id_txt": "LEGITEXT000006071419"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : Vérification du signalement.",
+            "@debut": "1977-01-22",
+            "@fin": "2002-05-04",
+            "@id": "LEGISCTA000006098778"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071419",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1976-12-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-01-22",
+          "@etat": "MODIFIE",
+          "@fin": "1984-10-03",
+          "@id": "LEGIARTI000006606600",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-10-03",
+          "@etat": "ABROGE",
+          "@fin": "2002-05-04",
+          "@id": "LEGIARTI000006606601",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le signalement descriptif initial doit être vérifié et complété par un signalement graphique. Cette opération s'appelle \"la vérification de signalement\".<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-09-20 art. 1 JORF 3 octobre 1984",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2002-04-30 art. 42 JORF 4 mai 2002",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

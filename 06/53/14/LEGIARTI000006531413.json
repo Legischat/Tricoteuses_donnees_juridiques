@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006531413",
+      "ANCIEN_ID": "PPHEAXXXXXX022AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/14/LEGIARTI000006531413.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-12-05",
+        "DATE_FIN": "2009-09-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-1037 du 3 décembre 1979 RELATIF A LA COMPETENCE DES SERVICES D'ARCHIVES PUBLICS ET A LA COOPERATION ENTRE LES ADMINISTRATIONS POUR LA COLLECTE, LA CONSERVATION ET LA COMMUNICATION DES ARCHIVES PUBLIQUES",
+          "@c_titre_court": "Décret n°79-1037 du 3 décembre 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000501017"
+        },
+        {
+          "#text": "Décret n°79-1037 du 3 décembre 1979 relatif à la compétence des services d'archives publics et à la coopération entre les administrations pour la collecte, la conservation et la communication des archives publiques.",
+          "@c_titre_court": "Décret n°79-1037 du 3 décembre 1979",
+          "@debut": "1979-12-05",
+          "@fin": "2011-05-27",
+          "@id_txt": "LEGITEXT000006062951"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE III : COLLECTE ET CONSERVATION DES ARCHIVES PUBLIQUES.",
+            "@debut": "1979-12-05",
+            "@fin": "2011-05-27",
+            "@id": "LEGISCTA000006096123"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000501017",
+      "@date_publi": "1979-12-05",
+      "@date_signature": "1979-12-03",
+      "@nature": "DECRET",
+      "@num": "79-1037"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2009-09-19",
+          "@etat": "ABROGE",
+          "@fin": "2011-05-27",
+          "@id": "LEGIARTI000021048971",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-12-05",
+          "@etat": "MODIFIE",
+          "@fin": "2009-09-19",
+          "@id": "LEGIARTI000006531413",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toutes dispositions contraires au présent décret sont abrogées et notamment le décret du 21 juillet 1936 réglementant les versements dans les dépôts et archives de l'Etat des papiers des ministères et des administrations qui en dépendent.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1936-07-21",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 79-18 1979-01-03",
+        "@cidtexte": "JORFTEXT000000322519",
+        "@datesignatexte": "1979-01-03",
+        "@id": "JORFTEXT000000322519",
+        "@naturetexte": "LOI",
+        "@numtexte": "79-18",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 79-1037 1979-12-03",
+        "@cidtexte": "JORFTEXT000000501017",
+        "@datesignatexte": "1979-12-03",
+        "@id": "JORFTEXT000000501017",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-1037",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

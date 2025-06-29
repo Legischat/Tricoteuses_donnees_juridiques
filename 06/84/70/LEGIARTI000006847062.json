@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006847062",
+      "ANCIEN_ID": "UPEBQXXXXXX022AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/70/LEGIARTI000006847062.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1919-10-18",
+        "DATE_FIN": "2011-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique",
+          "@c_titre_court": "LOI du 16 octobre 1919",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000498687"
+        },
+        {
+          "#text": "Loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique",
+          "@c_titre_court": "Loi du 16 octobre 1919",
+          "@debut": "1919-10-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074248"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Dispositions générales",
+            "@debut": "1919-10-18",
+            "@fin": "2011-06-01",
+            "@id": "LEGISCTA000006108797"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000498687",
+      "@date_publi": "1919-10-18",
+      "@date_signature": "1919-10-16",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1919-10-18",
+          "@etat": "ABROGE",
+          "@fin": "2011-06-01",
+          "@id": "LEGIARTI000006847062",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le recouvrement des taxes et redevances au profit de l'Etat sera opéré d'après les règles en vigueur pour le recouvrement des produits et revenus domaniaux.<br/>\n<br/>   Les privilèges établis pour le recouvrement des contributions directes par la loi du 12 novembre 1808 au profit du Trésor public s'étendent aux taxes et redevances susvisées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°2011-504\n du 9 mai 2011 - art. 4",
+        "@cidtexte": "JORFTEXT000023974937",
+        "@datesignatexte": "2011-05-09",
+        "@id": "LEGIARTI000023977696",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "INDR1111324R",
+        "@num": "4",
+        "@numtexte": "2011-504",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de l'énergie - art. L511-12 (M)",
+        "@cidtexte": "LEGITEXT000023983208",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023987182",
+        "@naturetexte": "CODE",
+        "@num": "L511-12",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "LOI 1808-11-12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 1945-12-31 ART. 38 (finances) : l'article 22 de la loi du 16 octobre 1919 est abrogé à compter du 1er janvier 1946 en tant qu'il concerne la taxe de statistique visée à l'article 8 de cette même loi",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

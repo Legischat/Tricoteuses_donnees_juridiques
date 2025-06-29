@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006755994",
+      "ANCIEN_ID": "SSEAAZXXXXX022AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/59/LEGIARTI000006755994.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1976-01-01",
+        "DATE_FIN": "2020-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 75-618 du 11 juillet 1975 relative au recouvrement public des pensions alimentaires",
+          "@c_titre_court": "LOI n° 75-618 du 11 juillet 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000522103"
+        },
+        {
+          "#text": "Loi n° 75-618 du 11 juillet 1975 RELATIVE AU RECOUVREMENT PUBLIC DES PENSIONS ALIMENTAIRES",
+          "@c_titre_court": "Loi n° 75-618 du 11 juillet 1975",
+          "@debut": "1976-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068521"
+        }
+      ],
+      "@cid": "JORFTEXT000000522103",
+      "@date_publi": "1975-07-12",
+      "@date_signature": "1975-07-11",
+      "@nature": "LOI",
+      "@num": "75-618"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2020-01-01",
+          "@id": "LEGIARTI000006755994",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2020-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000038791281",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>   La présente loi entrera en vigueur le 1er janvier 1976.</p>\n<br/>\n<p>   Elle est applicable dans les territoires d'outre-mer.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 75-5 1975-01-02",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi 75-618 1975-07-11 art. 22 : Cette loi est applicable dans les territoires d'outre-mer *TOM*",
+        "@cidtexte": "JORFTEXT000000522103",
+        "@datesignatexte": "1975-07-11",
+        "@id": "JORFTEXT000000522103",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-618",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

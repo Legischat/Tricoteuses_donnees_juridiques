@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006626803",
+      "ANCIEN_ID": "RHIDQXXXXXX009AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/68/LEGIARTI000006626803.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-03-21",
+        "DATE_FIN": "2008-11-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 avril 1997 relatif aux conditions de police sanitaire régissant    la mise sur le marché d'animaux et de produits d'aquaculture",
+          "@c_titre_court": "Arrêté du 10 avril 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000749906"
+        },
+        {
+          "#text": "Arrêté du 10 avril 1997 relatif aux conditions de police sanitaire régissant la mise sur le marché d'animaux et de produits d'aquaculture",
+          "@c_titre_court": "Arrêté du 10 avril 1997",
+          "@debut": "1997-06-03",
+          "@fin": "2008-11-08",
+          "@id_txt": "LEGITEXT000005623848"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Transport.",
+            "@debut": "1997-06-03",
+            "@fin": "2008-11-08",
+            "@id": "LEGISCTA000006099908"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000749906",
+      "@date_publi": "1997-06-03",
+      "@date_signature": "1997-04-10",
+      "@ministere": "MINISTERE DE L'AGRICULTURE, DE LA PECHE ET DE L'ALIMENTATION",
+      "@nature": "ARRETE",
+      "@nor": "AGRG9602528A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-06-03",
+          "@etat": "MODIFIE",
+          "@fin": "2000-03-21",
+          "@id": "LEGIARTI000006626802",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-03-21",
+          "@etat": "ABROGE",
+          "@fin": "2008-11-08",
+          "@id": "LEGIARTI000006626803",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les documents de transport visés aux articles 4 à 6 et les certificats visés aux articles 8 bis et 8 ter sont établis par les services vétérinaires, en français et dans la langue officielle du lieu de destination, dans les quarante-huit heures, hors dimanche et jour férié, précédant le chargement.<br/>\n<br/>   Chaque envoi d'animaux ou de produits d'aquaculture est identifié de façon précise, afin de permettre de retrouver l'exploitation d'origine et de vérifier la concordance de ces animaux ou produits avec les renseignements figurant sur le document de transport ou le certificat qui les accompagne. Ces renseignements doivent être apposés directement sur le conteneur ou sur une étiquette qui lui est attachée ou sur le document de transport ou le certificat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1997-04-10 art. 4 à 6, art. 8 bis, art. 8 ter",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2000-03-01 art. 3 JORF 21 mars 2000",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 4 novembre 2008 - art. 39",
+        "@cidtexte": "JORFTEXT000019732816",
+        "@datesignatexte": "2008-11-04",
+        "@id": "LEGIARTI000019733278",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0825593A",
+        "@num": "39",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

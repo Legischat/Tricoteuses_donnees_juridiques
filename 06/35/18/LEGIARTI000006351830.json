@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351830",
+      "ANCIEN_ID": "MDHACXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/18/LEGIARTI000006351830.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1982-05-11",
+        "DATE_FIN": "1989-09-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-389 du 10 mai 1982 RELATIF AUX POUVOIRS DES COMMISSAIRES DE LA REPUBLIQUE ET A L'ACTION DES SERVICES ET ORGANISMES PUBLICS DE L'ETAT DANS LES DEPARTEMENTS",
+          "@c_titre_court": "Décret n°82-389 du 10 mai 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000879744"
+        },
+        {
+          "#text": "Décret n°82-389 du 10 mai 1982 relatif aux pouvoirs des préfets et à l'action des services et organismes publics de l'Etat dans les départements.",
+          "@c_titre_court": "Décret n°82-389 du 10 mai 1982",
+          "@debut": "1982-05-11",
+          "@fin": "2004-04-30",
+          "@id_txt": "LEGITEXT000006063761"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "DES POUVOIRS DU COMMISSAIRE DE LA REPUBLIQUE",
+            "@debut": "1982-05-11",
+            "@fin": "2002-07-05",
+            "@id": "LEGISCTA000006085681"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000879744",
+      "@date_publi": "1982-05-11",
+      "@date_signature": "1982-05-10",
+      "@nature": "DECRET",
+      "@num": "82-389"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-11",
+          "@etat": "MODIFIE",
+          "@fin": "1989-09-17",
+          "@id": "LEGIARTI000006351830",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-09-17",
+          "@etat": "ABROGE",
+          "@fin": "2004-04-30",
+          "@id": "LEGIARTI000006351831",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les départements dont la liste est fixée par décret, le commissaire de la République est assisté d'un commissaire de la République délégué pour la police.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 82-213 1982-03-02 ART. 34",
+        "@cidtexte": "JORFTEXT000000880039",
+        "@datesignatexte": "1982-03-02",
+        "@id": "JORFTEXT000000880039",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-213",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 82-389 1982-05-10 ART. 9 : *champ d'application*",
+        "@cidtexte": "JORFTEXT000000879744",
+        "@datesignatexte": "1982-05-10",
+        "@id": "JORFTEXT000000879744",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-389",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°82-389 du 10 mai 1982 - art. 17-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000879744",
+        "@datesignatexte": "1982-05-10",
+        "@id": "LEGIARTI000006351864",
+        "@naturetexte": "DECRET",
+        "@num": "17-1",
+        "@numtexte": "82-389",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

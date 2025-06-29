@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602499",
+      "ANCIEN_ID": "RAHCXXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/24/LEGIARTI000006602499.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-05-11",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°69-422 du 6 mai 1969 IDENTIFICATION DES ANIMAUX ET ENREGISTREMENTS ZOOTECHNIQUES",
+          "@c_titre_court": "Décret n°69-422 du 6 mai 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000695429"
+        },
+        {
+          "#text": "Décret n°69-422 du 6 mai 1969 relatif à l'identification des animaux et aux enregistrements zootechniques",
+          "@c_titre_court": "Décret n°69-422 du 6 mai 1969",
+          "@debut": "1969-05-11",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006061635"
+        }
+      ],
+      "@cid": "JORFTEXT000000695429",
+      "@date_publi": "1969-05-11",
+      "@date_signature": "1969-05-06",
+      "@nature": "DECRET",
+      "@num": "69-422"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-05-11",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006602499",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En vue de permettre l'application de toute réglementation se rapportant au dénombrement et au contrôle zootechnique ou sanitaire des animaux appartenant aux espèces énumérées à l'article 1er de la loi du 28 décembre 1966 susvisée, les établissements de l'élevage assurent l'identification, l'enregistrement de l'ascendance et l'enregistrement des caractéristiques et performances zootechniques desdits animaux.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°66-1005 du 28 décembre 1966 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000691978",
+        "@datesignatexte": "1966-12-28",
+        "@id": "LEGIARTI000006600262",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "66-1005",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°69-422 du 6 mai 1969 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000695429",
+        "@datesignatexte": "1969-05-06",
+        "@id": "LEGIARTI000006602501",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "69-422",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°69-422 du 6 mai 1969 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000695429",
+        "@datesignatexte": "1969-05-06",
+        "@id": "LEGIARTI000006602504",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "69-422",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

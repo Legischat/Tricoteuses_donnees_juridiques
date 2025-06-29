@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006291128",
+      "ANCIEN_ID": "AAEAVXXXXXX051AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/11/LEGIARTI000006291128.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "51",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1867-07-24",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 24 juillet 1867 sur les sociétés",
+          "@c_titre_court": "Loi du 24 juillet 1867",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000515628"
+        },
+        {
+          "#text": "Loi du 24 juillet 1867 sur les sociétés commerciales",
+          "@c_titre_court": "Loi du 24 juillet 1867",
+          "@debut": "1867-07-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069563"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Sociétés à capital variable.",
+            "@debut": "1867-07-24",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006084117"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000515628",
+      "@date_publi": "1867-07-29",
+      "@date_signature": "1867-07-24",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1867-07-24",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006291128",
+          "@num": "51",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les statuts détermineront une somme au-dessous de laquelle le capital ne pourra être réduit par les reprises des apports autorisées par l'article 48.<br/>\n<br/>   Cette somme ne pourra être inférieure au dixième du capital social.<br/>\n<br/>   La société ne sera définitivement constituée qu'après le versement du dixième.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de commerce. - art. L231-5 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006228809",
+        "@naturetexte": "CODE",
+        "@num": "L231-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 1867-07-24 Bulletin des Lois 1867 n° 1513",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 1867-07-24 art. 48",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

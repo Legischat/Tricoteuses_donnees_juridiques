@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006201523",
+      "ANCIEN_ID": "MTHFKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/15/LEGIARTI000006201523.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-11-08",
+        "DATE_FIN": "2011-11-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 95-1169 du 6 novembre 1995 portant approbation du schéma d'aménagement régional de la Réunion",
+          "@c_titre_court": "Décret n°95-1169 du 6 novembre 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000372629"
+        },
+        {
+          "#text": "Décret n°95-1169 du 6 novembre 1995 portant approbation du schéma d'aménagement régional de la Réunion",
+          "@c_titre_court": "Décret n°95-1169 du 6 novembre 1995",
+          "@debut": "1995-11-08",
+          "@fin": "2011-11-25",
+          "@id_txt": "LEGITEXT000005619781"
+        }
+      ],
+      "@cid": "JORFTEXT000000372629",
+      "@date_publi": "1995-11-08",
+      "@date_signature": "1995-11-06",
+      "@ministere": "MINISTERE DE L'EQUIPEMENT, DU LOGEMENT, DES TRANSPORTS ET DU TOURISME",
+      "@nature": "DECRET",
+      "@nor": "EQUU9500631D",
+      "@num": "95-1169"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-11-08",
+          "@etat": "ABROGE",
+          "@fin": "2011-11-25",
+          "@id": "LEGIARTI000006201523",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001596966",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le schéma d'aménagement régional de la Réunion est approuvé conformément aux documents annexés au présent décret (1).<br/>\n<br/>   (1) Le schéma d'aménagement régional approuvé est tenu à la disposition du public au siège de la région, à la préfecture et dans les mairies de toutes les communes de la région.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°95-1169 du 6 novembre 1995",
+        "@cidtexte": "JORFTEXT000000372629",
+        "@datesignatexte": "1995-11-06",
+        "@id": "JORFTEXT000000372629",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUU9500631D",
+        "@numtexte": "95-1169",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2011-1609\n du 22 novembre 2011 - art. 4",
+        "@cidtexte": "JORFTEXT000024833793",
+        "@datesignatexte": "2011-11-22",
+        "@id": "LEGIARTI000024835059",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVL1111635D",
+        "@num": "4",
+        "@numtexte": "2011-1609",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

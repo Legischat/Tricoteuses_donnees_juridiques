@@ -1,0 +1,155 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006650119",
+      "ANCIEN_ID": "SAAXXXXXXXX1X512L06AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/01/LEGIARTI000006650119.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L512-6",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1979-01-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CONFLITS DU TRAVAIL",
+              "@debut": "1973-11-23",
+              "@fin": "1987-07-16",
+              "@id": "LEGISCTA000006123889"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES",
+                "@debut": "1973-11-23",
+                "@fin": "1986-12-31",
+                "@id": "LEGISCTA000006139847"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "ORGANISATION DES CONSEILS DE PRUD'HOMMES .",
+                  "@debut": "1973-11-23",
+                  "@fin": "1979-01-19",
+                  "@id": "LEGISCTA000006154204"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "MODIFIE",
+          "@fin": "1979-01-19",
+          "@id": "LEGIARTI000006650119",
+          "@num": "L512-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-01-19",
+          "@etat": "ABROGE",
+          "@fin": "1982-05-07",
+          "@id": "LEGIARTI000006650120",
+          "@num": "L512-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le président et le vice-président sont élus pour une année ; ils sont rééligibles sous la condition d'alternance prévue à l'article L. 512-5.<br/>\n<br/>   Ils restent en fonctions jusqu'à l'installation de leurs successeurs.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1047 1973-11-15",
+        "@cidtexte": "JORFTEXT000000514726",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000514726",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1047",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail - art. L51-11-1 (Ab)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650258",
+        "@naturetexte": "CODE",
+        "@num": "L51-11-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. L512-5 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650116",
+        "@naturetexte": "CODE",
+        "@num": "L512-5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R512-2 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006804553",
+        "@naturetexte": "CODE",
+        "@num": "R512-2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 1958-12-22 ART. 14",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

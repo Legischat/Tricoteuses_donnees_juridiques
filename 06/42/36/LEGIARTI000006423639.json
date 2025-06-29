@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006423639",
+      "ANCIEN_ID": "PCHHAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/36/LEGIARTI000006423639.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-09-08",
+        "DATE_FIN": "2011-06-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°89-632 du 7 septembre 1989 RELATIF AUX COMITES TECHNIQUES PREVUS A L'ART. 29-1 DE LA LOI 86-1067 DU 30-09-1986 MODIFIEE RELATIVE A LA LIBERTE DE COMMUNICATION",
+          "@c_titre_court": "Décret n°89-632 du 7 septembre 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000882811"
+        },
+        {
+          "#text": "Décret n°89-632 du 7 septembre 1989 relatif aux comités techniques prévus par l'article 29-1 de la loi n° 86-1067 du 30 septembre 1986 modifiée relative à la liberté de communication",
+          "@c_titre_court": "Décret n°89-632 du 7 septembre 1989",
+          "@debut": "1989-09-08",
+          "@fin": "2011-06-27",
+          "@id_txt": "LEGITEXT000006067241"
+        }
+      ],
+      "@cid": "JORFTEXT000000882811",
+      "@date_publi": "1989-09-08",
+      "@date_signature": "1989-09-07",
+      "@nature": "DECRET",
+      "@nor": "MICT8900507D",
+      "@num": "89-632"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-09-08",
+          "@etat": "ABROGE",
+          "@fin": "2011-06-27",
+          "@id": "LEGIARTI000006423639",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les comités techniques prévus par l'article 29-1 de la loi du 30 septembre 1986 prennent le nom de comités techniques radiophoniques.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 86-1067 1986-09-30",
+        "@cidtexte": "JORFTEXT000000512205",
+        "@datesignatexte": "1986-09-30",
+        "@id": "JORFTEXT000000512205",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-1067",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n° 86-1067 du 30 septembre 1986 - art. 29",
+        "@cidtexte": "JORFTEXT000000512205",
+        "@datesignatexte": "1986-09-30",
+        "@id": "LEGIARTI000006420327",
+        "@naturetexte": "LOI",
+        "@num": "29",
+        "@numtexte": "86-1067",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2011-732\n du 24 juin 2011 - art. 22 (Ab)",
+        "@cidtexte": "JORFTEXT000024249545",
+        "@datesignatexte": "2011-06-24",
+        "@id": "LEGIARTI000024535089",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCE1029693D",
+        "@num": "22",
+        "@numtexte": "2011-732",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006317242",
+      "ANCIEN_ID": "AAGABXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/72/LEGIARTI000006317242.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1935-10-31",
+        "DATE_FIN": "1955-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 30 octobre 1935 organisant le contrôle de l'Etat sur les sociétés, syndicats et associations ou entreprises de toute nature ayant fait appel au concours financier de l'Etat",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000295216"
+        },
+        {
+          "#text": "Décret-loi du 30 octobre 1935 organisant le contrôle de l'Etat sur les sociétés, syndicats et associations ou entreprises de toute nature ayant fait appel au concours financier de l'Etat",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "1935-10-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069587"
+        }
+      ],
+      "@cid": "JORFTEXT000000295216",
+      "@date_publi": "1935-10-31",
+      "@date_signature": "1935-10-30",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1935-10-31",
+          "@etat": "ABROGE",
+          "@fin": "1955-06-01",
+          "@id": "LEGIARTI000006317242",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A partir du 1er janvier 1936 [*date*], un agent comptable justiciable de la cour des comptes suivra le mouvement des participations financières de l'Etat dans les sociétés et entreprises visées à l'article 1er, il produira chaque année [*fréquence*] un compte faisant ressortir la situation au 1er janvier, les modifications intervenues en cours d'année et la situation au 31 décembre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-733 1955-05-26 art. 13 *abrogation du présent article en tant qu'il concerne les entreprises et organismes auxquels le décret du 26 mai 1955 est applicable*",
+        "@cidtexte": "JORFTEXT000000866794",
+        "@datesignatexte": "1955-05-26",
+        "@id": "JORFTEXT000000866794",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-733",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 55-733 1955-05-26 art. 13 JORF 1er juin 1955",
+        "@cidtexte": "JORFTEXT000000866794",
+        "@datesignatexte": "1955-05-26",
+        "@id": "JORFTEXT000000866794",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-733",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret-loi 1935-10-30 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

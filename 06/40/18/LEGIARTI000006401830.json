@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006401830",
+      "ANCIEN_ID": "MVHHPXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/18/LEGIARTI000006401830.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-08-25",
+        "DATE_FIN": "2012-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°68-140 du 10 février 1968 PORTANT CREATION D'UNE AGENCE COMPTABLE DES IMPOTS DE PARIS",
+          "@c_titre_court": "Décret n°68-140 du 10 février 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000877058"
+        },
+        {
+          "#text": "Décret n°68-140 du 10 février 1968 portant création d'une agence comptable des impôts de Paris.",
+          "@c_titre_court": "Décret n°68-140 du 10 février 1968",
+          "@debut": "1968-02-15",
+          "@fin": "2012-12-31",
+          "@id_txt": "LEGITEXT000006061521"
+        }
+      ],
+      "@cid": "JORFTEXT000000877058",
+      "@date_publi": "1968-02-15",
+      "@date_signature": "1968-02-10",
+      "@nature": "DECRET",
+      "@num": "68-140"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-08-25",
+          "@etat": "ABROGE",
+          "@fin": "2012-12-31",
+          "@id": "LEGIARTI000006401830",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'agence comptable centralisatrice de l'enregistrement pour le département de la Seine, créée par arrêté du 20 novembre 1942, et l'agence comptable des services des contributions indirectes du département de la Seine, créée par arrêté du 19 avril 1948, sont supprimées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1942-11-20",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1948-04-19",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2009-707\n du 16 juin 2009 - art. 16 (V)",
+        "@cidtexte": "JORFTEXT000020753002",
+        "@datesignatexte": "2009-06-16",
+        "@id": "LEGIARTI000022740060",
+        "@naturetexte": "DECRET",
+        "@nortexte": "BCFP0907314D",
+        "@num": "16",
+        "@numtexte": "2009-707",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

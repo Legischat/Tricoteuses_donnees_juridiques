@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006345372",
+      "ANCIEN_ID": "AAHHWXXXXXX302AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/53/LEGIARTI000006345372.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "302",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-01-13",
+        "DATE_FIN": "1988-04-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-236 du 23 mars 1967 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Décret n°67-236 du 23 mars 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000674772"
+        },
+        {
+          "#text": "Décret n°67-236 du 23 mars 1967 sur les sociétés commerciales",
+          "@c_titre_court": "Décret n°67-236 du 23 mars 1967",
+          "@debut": "1967-04-01",
+          "@fin": "2007-03-27",
+          "@id_txt": "LEGITEXT000006061426"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dispositions diverses et transitoires.",
+            "@debut": "1967-04-01",
+            "@fin": "2007-03-27",
+            "@id": "LEGISCTA000006085622"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000674772",
+      "@date_publi": "1967-03-24",
+      "@date_signature": "1967-03-23",
+      "@nature": "DECRET",
+      "@num": "67-236"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1968-01-13",
+          "@id": "LEGIARTI000006345371",
+          "@num": "302",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-13",
+          "@etat": "ABROGE",
+          "@fin": "1988-04-24",
+          "@id": "LEGIARTI000006345372",
+          "@num": "302",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La disposition de l'article 206 n'est pas applicable aux sociétés par actions, dont les actions peuvent avoir un montant nominal inférieur à 100 F par application de dispositions législatives ou réglementaires antérieures à l'entrée en vigueur de la loi sur les sociétés commerciales.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-236 1967-03-23 art. 206",
+        "@cidtexte": "JORFTEXT000000674772",
+        "@datesignatexte": "1967-03-23",
+        "@id": "JORFTEXT000000674772",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-236",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 68-25 1968-01-02 art. 34 JORF 13 janvier 1968",
+        "@cidtexte": "JORFTEXT000000515719",
+        "@datesignatexte": "1968-01-02",
+        "@id": "JORFTEXT000000515719",
+        "@naturetexte": "DECRET",
+        "@numtexte": "68-25",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°82-460 du 2 juin 1982 - art. 21 (V)",
+        "@cidtexte": "JORFTEXT000000698892",
+        "@datesignatexte": "1982-06-02",
+        "@id": "LEGIARTI000006272134",
+        "@naturetexte": "DECRET",
+        "@num": "21",
+        "@numtexte": "82-460",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-1192 du 28 décembre 1988 - art. 14 () JORF 24 avril 1988",
+        "@cidtexte": "JORFTEXT000000313382",
+        "@datesignatexte": "1988-12-28",
+        "@id": "LEGIARTI000006326723",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC8820229D",
+        "@num": "14",
+        "@numtexte": "88-1192",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

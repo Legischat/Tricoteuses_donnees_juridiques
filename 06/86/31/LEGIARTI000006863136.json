@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006863136",
+      "ANCIEN_ID": "UPINHXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/31/LEGIARTI000006863136.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-05-04",
+        "DATE_FIN": "1983-05-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 20 avril 1982 fixant le montant des redevances cynégétiques",
+          "@c_titre_court": "Arrêté du 20 avril 1982",
+          "@debut": "1982-05-04",
+          "@fin": "1983-05-21",
+          "@id_txt": "LEGITEXT000006074627"
+        }
+      ],
+      "@cid": "LEGITEXT000006074627",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-04-20",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-04",
+          "@etat": "ABROGE",
+          "@fin": "1983-05-21",
+          "@id": "LEGIARTI000006863136",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En application des dispositions de l'article 1er du décret n° 80-474 du 28 juin 1980 susvisé, le montant des redevances cynégétiques est fixé ainsi qu'il suit à compter de la campagne de chasse 1982-1983 :<br/>\n<br/>   1. Redevance cynégétique nationale : 456 F ;<br/>\n<br/>   2. Redevance cynégétique départementale : 91 F ;<br/>\n<br/>   3. Redevance cynégétique \"gibier d'eau\" : 38 F.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-04-20 JORF 4 MAI 1982",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 1983-05-16 JORF 21 MAI 1983",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 77-671 1977-06-29 modifié par Décret 80-474 1980-06-28",
+        "@cidtexte": "JORFTEXT000000518660",
+        "@datesignatexte": "1977-06-29",
+        "@id": "JORFTEXT000000518660",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-671",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 80-474 1980-06-28 ART. 1",
+        "@cidtexte": "JORFTEXT000000338386",
+        "@datesignatexte": "1980-06-28",
+        "@id": "JORFTEXT000000338386",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-474",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

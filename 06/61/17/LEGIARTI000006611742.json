@@ -1,0 +1,145 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006611742",
+      "ANCIEN_ID": "RBAXXXXXXXX2X141R03AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/17/LEGIARTI000006611742.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R141-3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-02-07",
+        "DATE_FIN": "2003-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099186"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Régime forestier.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121948"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IV : Forêts et terrains à boiser non domaniaux relevant du régime forestier.",
+                "@debut": "2003-06-22",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138717"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Dispositions générales.",
+                  "@debut": "2003-06-22",
+                  "@fin": "2012-07-01",
+                  "@id": "LEGISCTA000006152901"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "2003-06-22",
+          "@id": "LEGIARTI000006611742",
+          "@num": "R141-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-06-22",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006611743",
+          "@num": "R141-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'Office national des forêts convoque sur les lieux le maire, le président de la commission administrative ou tout autre représentant légal de la collectivité ou personne morale propriétaire, afin de procéder, contradictoirement avec lui, à la reconnaissance des bois, forêts et terrains à boiser à soumettre au régime forestier en vertu de l'article L. 141-1.<br/>\n<br/>   Les dires et observations du représentant du propriétaire sont exactement consignés au procès-verbal de reconnaissance qui est dressé séance tenante par l'ingénieur de l'Office national des forêts et signé par les deux parties. Au cas où le représentant du propriétaire ferait défaut ou refuserait de signer, mention en est faite au procès-verbal et il est passé outre.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-114 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880704",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880704",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-114",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code forestier - art. L141-1 (M)",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006610390",
+        "@naturetexte": "CODE",
+        "@num": "L141-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code forestier - art. R141-6 (Ab)",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006611750",
+        "@naturetexte": "CODE",
+        "@num": "R141-6",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 1827-08-01 art. 128 al. 1, al. 2",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

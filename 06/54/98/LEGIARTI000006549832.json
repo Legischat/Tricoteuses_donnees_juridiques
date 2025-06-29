@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006549832",
+      "ANCIEN_ID": "PRHHIXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/98/LEGIARTI000006549832.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2001-10-07",
+        "DATE_FIN": "2014-10-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2001-916 du 3 octobre 2001 relatif au Muséum national d'histoire naturelle",
+          "@c_titre_court": "Décret n° 2001-916 du 3 octobre 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000406730"
+        },
+        {
+          "#text": "Décret n°2001-916 du 3 octobre 2001 relatif au Muséum national d'histoire naturelle",
+          "@c_titre_court": "Décret n°2001-916 du 3 octobre 2001",
+          "@debut": "2001-10-07",
+          "@fin": "2024-01-01",
+          "@id_txt": "LEGITEXT000005631536"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Organisation administrative.",
+            "@debut": "2001-10-07",
+            "@fin": "2024-01-01",
+            "@id": "LEGISCTA000006096729"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000406730",
+      "@date_publi": "2001-10-07",
+      "@date_signature": "2001-10-03",
+      "@ministere": "MINISTERE DE L'EDUCATION NATIONALE",
+      "@nature": "DECRET",
+      "@nor": "MENX0100098D",
+      "@num": "2001-916",
+      "@num_parution_jo": "0233"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-10-07",
+          "@etat": "MODIFIE",
+          "@fin": "2014-10-03",
+          "@id": "LEGIARTI000006549832",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2014-10-03",
+          "@etat": "ABROGE",
+          "@fin": "2024-01-01",
+          "@id": "LEGIARTI000029531074",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le Muséum est administré par un conseil d'administration présidé par le président du Muséum et assisté d'un conseil scientifique. Il est dirigé par un directeur général.<br/>\n<br/>   Il est composé de départements et de services communs, dont la liste est fixée dans les conditions définies au premier alinéa de l'article L. 711-7 du code de l'éducation.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2001-916 du 3 octobre 2001 - art. 38 (Ab)",
+        "@cidtexte": "JORFTEXT000000406730",
+        "@datesignatexte": "2001-10-03",
+        "@id": "LEGIARTI000006549868",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENX0100098D",
+        "@num": "38",
+        "@numtexte": "2001-916",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. L711-7 (M)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006525331",
+        "@naturetexte": "CODE",
+        "@num": "L711-7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

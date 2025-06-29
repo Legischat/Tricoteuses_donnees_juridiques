@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006627594",
+      "ANCIEN_ID": "ADIQGXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/75/LEGIARTI000006627594.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-02-10",
+        "DATE_FIN": "1986-11-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 février 1984 relatif aux prix de vente au détail des volailles, lapins, gibiers, agneaux de lait, cochons de lait, chèvres et chevreaux",
+          "@c_titre_court": "Arrêté du 9 février 1984",
+          "@debut": "1984-02-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071790"
+        }
+      ],
+      "@cid": "LEGITEXT000006071790",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-02-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-02-10",
+          "@etat": "ABROGE",
+          "@fin": "1986-11-24",
+          "@id": "LEGIARTI000006627594",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les détaillants, à l'exception de ceux qui commercialisent moins de trois articles, doivent offrir de façon permanente à leur clientèle deux produits différents choisis sur la liste figurant en annexe au présent arrêté.<br/>\n<br/>   Les détaillants commercialisant de trois à cinq articles sont tenus de présenter de façon permanente à leur clientèle un produit choisi sur la liste visée à l'alinéa précédent.<br/>\n<br/>   Les prix limites de vente au détail T.V.A. comprise des produits énumérés dans l'annexe au présent texte et offerts en promotion s'obtiennent par application aux prix d'achat hors T.V.A. d'un coefficient multiplicateur de 1,35 (1,31 dans la région de Corse).<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 19/A 1984-02-09 BOCC n° 4, 10 février 1984",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 19/A 1984-02-09 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 19/A 1984-02-09 art. 6 *champ d'application*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 86-58/A 1986-11-24 BOCC n° 22, 24 novembre 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

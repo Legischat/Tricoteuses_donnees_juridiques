@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283335",
+      "ANCIEN_ID": "ARAXXXXXXXX5X00120AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/33/LEGIARTI000006283335.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "120",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1935-10-31",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de commerce (ancien)",
+          "@c_titre_court": "Code de commerce",
+          "@debut": "1807-09-20",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre I : Du commerce en général",
+            "@debut": "1807-09-20",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083845"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VIII : De la lettre de change et du billet à ordre",
+              "@debut": "1935-10-31",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006114101"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre I : De la lettre de change",
+                "@debut": "1935-10-31",
+                "@fin": "2000-09-21",
+                "@id": "LEGISCTA000006133395"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section III : De l'endossement.",
+                  "@debut": "1935-10-31",
+                  "@fin": "2000-09-21",
+                  "@id": "LEGISCTA000006146418"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069441",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1935-10-31",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006283335",
+          "@num": "120",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le détenteur d'une lettre de change est considéré comme porteur légitime s'il justifie de son droit par une suite ininterrompue d'endossements, même si le dernier endossement est en blanc. Les endossements biffés sont à cet égard réputés non écrits. Quand un endossement en blanc est suivi d'un autre endossement, le signataire de celui-ci est réputé avoir acquis la lettre par l'endossement en blanc.<br/>\n<br/>   Si une personne a été dépossédée d'une lettre de change par quelque événement que ce soit, le porteur justifiant de son droit de la manière indiquée à l'alinéa précédent, n'est tenu de se dessaisir de la lettre que s'il l'a acquise de mauvaise foi ou si, en l'acquérant, il a commis une faute lourde.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L511-11 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006233201",
+        "@naturetexte": "CODE",
+        "@num": "L511-11",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

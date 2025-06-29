@@ -1,0 +1,124 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769348",
+      "ANCIEN_ID": "SSHAU1XXXXX053AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/93/LEGIARTI000006769348.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 51",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-01-28",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "51. Rouget du porc (Erysipéloïde de Baker-Rosenbach)",
+                "@debut": "1988-01-28",
+                "@fin": "2005-04-22",
+                "@id": "LEGISCTA000006142308"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-28",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769348",
+          "@num": "Tableau 51",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "DESIGNATION DE LA MALADIE<br/>\n Forme cutanée simple :<br/>\n<br/>     Placard érysipéloïde (en dehors des cas considérés comme accident du travail).<br/>\n<br/>\n DELAI de prise en charge : 7 jours<br/>\nDESIGNATION DE LA MALADIE<br/>\n Forme cutanée associée à une monoarthrite ou une polyarthrite locorégionale.<br/>\n<br/>\n DELAI de prise en charge : 30 jours<br/>\nDESIGNATION DE LA MALADIE<br/>\n Formes cutanées chroniques, à rechute.<br/>\n<br/>\n DELAI de prise en charge : 6 mois<br/>\nDESIGNATION DE LA MALADIE<br/>\n Formes septicémiques :<br/>\n<br/>   - complications endocarditiques, intestinales.<br/>\n<br/>\n DELAI de prise en charge : 6 mois<br/>\nLISTE LIMITATIVE DES TRAVAUX<br/>\n susceptibles de provoquer ces maladies<br/>\n Travaux exécutés dans les boucheries, charcuteries, triperies, boyauderies, abattoirs, ateliers d'équarissage, volailleries, pêcheries, poissonneries, cuisines.<br/>\n<br/>\n Travaux exécutés dans les élevages d'ovins, de porcins, de volailles ou de gibier.<br/>\n<br/>\n Travaux de conditionnement, transport, entreposage, salaisons, mise en conserve, réfrigération, congélation, surgélation de produits alimentaires d'origine animale.<br/>\n Fabrication de gélatine, de colles à base d'os.<br/>\n Manipulation et traitement de suints, de cuirs verts.<br/>\n Travaux exécutés dans les parcs zoologiques.<br/>\n Travaux exécutés dans les laboratoires vétérinaires.<br/>\n Travaux de gardes-chasse.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 88-89 1988-01-22 art. 5 JORF 28 janvier 1988",
+        "@cidtexte": "JORFTEXT000000314579",
+        "@datesignatexte": "1988-01-22",
+        "@id": "JORFTEXT000000314579",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS8800001D",
+        "@numtexte": "88-89",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

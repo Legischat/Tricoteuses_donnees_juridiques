@@ -1,0 +1,143 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602328",
+      "ANCIEN_ID": "RAHCFXXXXXX007AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/23/LEGIARTI000006602328.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-10-06",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-352 du 15 avril 1976 APPLICATION AUX EQUIDES DE LA LOI DU 28-12-1966",
+          "@c_titre_court": "Décret n°76-352 du 15 avril 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000678697"
+        },
+        {
+          "#text": "Décret n°76-352 du 15 avril 1976 fixant les modalités d'application aux équidés de la loi du 28 décembre 1966 sur l'élevage",
+          "@c_titre_court": "Décret n°76-352 du 15 avril 1976",
+          "@debut": "1976-04-22",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006062476"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Identification des équidés.",
+            "@debut": "2001-10-06",
+            "@fin": "2003-09-06",
+            "@id": "LEGISCTA000006098523"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000678697",
+      "@date_publi": "1976-04-22",
+      "@date_signature": "1976-04-15",
+      "@nature": "DECRET",
+      "@num": "76-352"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-11-01",
+          "@etat": "MODIFIE",
+          "@fin": "2001-10-06",
+          "@id": "LEGIARTI000006602327",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-10-06",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006602328",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le contrôle de l'identification d'un équidé est effectué par la vérification de ses marques naturelles et, le cas échéant, des éléments complémentaires visés au deuxième alinéa du I de l'article 6. Ces caractéristiques doivent correspondre au document accompagnant l'équidé. Le cas échéant, un contrôle d'hémotype ou de typage ADN peut être effectué.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-1005 1966-12-28",
+        "@cidtexte": "JORFTEXT000000691978",
+        "@datesignatexte": "1966-12-28",
+        "@id": "JORFTEXT000000691978",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-1005",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°76-352 du 15 avril 1976 - art. 6 (M)",
+        "@cidtexte": "JORFTEXT000000678697",
+        "@datesignatexte": "1976-04-15",
+        "@id": "LEGIARTI000006602325",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "76-352",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°76-352 du 15 avril 1976 - art. 8 (M)",
+        "@cidtexte": "JORFTEXT000000678697",
+        "@datesignatexte": "1976-04-15",
+        "@id": "LEGIARTI000006602329",
+        "@naturetexte": "DECRET",
+        "@num": "8",
+        "@numtexte": "76-352",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2001-913 du 5 octobre 2001 - art. 1 () JORF 6 octobre 2001",
+        "@cidtexte": "JORFTEXT000000773527",
+        "@datesignatexte": "2001-10-05",
+        "@id": "LEGIARTI000006601834",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRR0000036D",
+        "@num": "1",
+        "@numtexte": "2001-913",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

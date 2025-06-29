@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006706184",
+      "ANCIEN_ID": "SPHGAXXXXXX007AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/61/LEGIARTI000006706184.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1995-05-07",
+        "DATE_FIN": "2000-12-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°80-280 du 16 avril 1980 PORTANT CREATION DU CONSEIL SUPERIEUR DE LA PHARMACIE",
+          "@c_titre_court": "Décret n°80-280 du 16 avril 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000519955"
+        },
+        {
+          "#text": "Décret n°80-280 du 16 avril 1980 portant création du conseil supérieur de la pharmacie",
+          "@c_titre_court": "Décret n°80-280 du 16 avril 1980",
+          "@debut": "1980-04-22",
+          "@fin": "2004-08-08",
+          "@id_txt": "LEGITEXT000006063223"
+        }
+      ],
+      "@cid": "JORFTEXT000000519955",
+      "@date_publi": "1980-04-22",
+      "@date_signature": "1980-04-16",
+      "@nature": "DECRET",
+      "@num": "80-280"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-04-22",
+          "@etat": "MODIFIE",
+          "@fin": "1995-05-07",
+          "@id": "LEGIARTI000006706183",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-05-07",
+          "@etat": "MODIFIE",
+          "@fin": "2000-12-12",
+          "@id": "LEGIARTI000006706184",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-12-12",
+          "@etat": "ABROGE",
+          "@fin": "2004-08-08",
+          "@id": "LEGIARTI000006706185",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil supérieur de la pharmacie se réunit sur convocation du ministre chargé de la santé [*autorité compétente*]. La convocation fixe [*contenu*] l'ordre du jour de la réunion. Le secrétariat est assuré par la direction générale de la santé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°95-557 du 6 mai 1995 - art. 1 () JORF 7 mai 1995",
+        "@cidtexte": "JORFTEXT000000371622",
+        "@datesignatexte": "1995-05-06",
+        "@id": "LEGIARTI000006699619",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSP9501372D",
+        "@num": "1",
+        "@numtexte": "95-557",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. D5125-68 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006915172",
+        "@naturetexte": "CODE",
+        "@num": "D5125-68",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006560737",
+      "ANCIEN_ID": "ADHIFXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/07/LEGIARTI000006560737.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-06-14",
+        "DATE_FIN": "1998-04-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-487 du 10 juin 1983 RELATIF AU REPERTOIRE DES METIERS",
+          "@c_titre_court": "Décret n°83-487 du 10 juin 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503287"
+        },
+        {
+          "#text": "Décret n°83-487 du 10 juin 1983 relatif au répertoire des métiers",
+          "@c_titre_court": "Décret n°83-487 du 10 juin 1983",
+          "@debut": "1983-06-14",
+          "@fin": "1998-04-03",
+          "@id_txt": "LEGITEXT000006064138"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions particulières aux départements de la Moselle, du Bas-Rhin et du Haut-Rhin.",
+            "@debut": "1983-06-14",
+            "@fin": "1998-04-03",
+            "@id": "LEGISCTA000006097152"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000503287",
+      "@date_publi": "1983-06-14",
+      "@date_signature": "1983-06-10",
+      "@nature": "DECRET",
+      "@num": "83-487"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-06-14",
+          "@etat": "ABROGE",
+          "@fin": "1998-04-03",
+          "@id": "LEGIARTI000006560737",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque les personnes immatriculées cessent de remplir les conditions fixées pour leur immatriculation à l'une ou l'autre section du registre, elles doivent, dans les deux mois [*délai*], demander leur transfert à l'autre section ; si elles n'en remplissent pas les conditions, elles doivent demander leur radiation du registre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 83-487 1983-06-10 JORF 14 juin 1983 rectificatif JORF 10 juillet 1983",
+        "@cidtexte": "JORFTEXT000000503287",
+        "@datesignatexte": "1983-06-10",
+        "@id": "JORFTEXT000000503287",
+        "@naturetexte": "DECRET",
+        "@numtexte": "83-487",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté du 30 août 1983 - art. 9 (VT)",
+        "@cidtexte": "JORFTEXT000000652450",
+        "@datesignatexte": "1983-08-30",
+        "@id": "LEGIARTI000006872975",
+        "@naturetexte": "ARRETE",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 98-247 1998-04-02 art. 30 JORF 3 avril 1998",
+        "@cidtexte": "JORFTEXT000000571009",
+        "@datesignatexte": "1998-04-02",
+        "@id": "JORFTEXT000000571009",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOA9720014D",
+        "@numtexte": "98-247",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

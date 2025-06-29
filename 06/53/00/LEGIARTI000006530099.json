@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006530099",
+      "ANCIEN_ID": "PPFAKXXXXXX024AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/00/LEGIARTI000006530099.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-03",
+        "DATE_FIN": "2005-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances",
+          "@c_titre_court": "Ordonnance n° 59-2 du 2 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339591"
+        },
+        {
+          "#text": "Ordonnance n°59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances.",
+          "@c_titre_court": "Ordonnance n°59-2 du 2 janvier 1959",
+          "@debut": "1959-01-03",
+          "@fin": "2005-01-01",
+          "@id_txt": "LEGITEXT000006069252"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Des dispositions de lois de finances",
+            "@debut": "1959-01-03",
+            "@fin": "2005-01-01",
+            "@id": "LEGISCTA000006096050"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Des affectations comptables.",
+              "@debut": "1959-01-03",
+              "@fin": "2005-01-01",
+              "@id": "LEGISCTA000006120496"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000339591",
+      "@date_publi": "1959-01-03",
+      "@date_signature": "1959-01-02",
+      "@nature": "ORDONNANCE",
+      "@num": "59-2"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-03",
+          "@etat": "ABROGE",
+          "@fin": "2005-01-01",
+          "@id": "LEGIARTI000006530099",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sous réserve des règles particulières énoncées aux articles 25 à 29, les opérations des comptes spéciaux du Trésor sont prévues, autorisées et exécutées dans les mêmes conditions que les opérations du budget général.<br/>\n<br/>   Sauf dispositions contraires prévues par une loi de finances, le solde de chaque compte spécial est reportée d'année en année. Toutefois, les profits et les pertes constatés sur toutes les catégories de comptes, à l'exception des comptes d'affectation spéciale, sont imputés aux résultats de l'année dans les conditions prévues par l'article 25.<br/>\n<br/>   Sauf dérogations prévues par une loi de finances, il est interdit d'imputer directement à un compte spécial du Trésor les dépenses résultant du payement des traitements ou indemnités à des agents de l'Etat ou à des agents des collectivités, établissements publics ou entreprises publiques.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 59-2 1959-01-02 art. 25 à art. 29, art. 25",
+        "@cidtexte": "JORFTEXT000000339591",
+        "@datesignatexte": "1959-01-02",
+        "@id": "JORFTEXT000000339591",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "59-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°59-2 du 2 janvier 1959 - art. 25 (Ab)",
+        "@cidtexte": "JORFTEXT000000339591",
+        "@datesignatexte": "1959-01-02",
+        "@id": "LEGIARTI000006530100",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "25",
+        "@numtexte": "59-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°59-2 du 2 janvier 1959 - art. 35 (Ab)",
+        "@cidtexte": "JORFTEXT000000339591",
+        "@datesignatexte": "1959-01-02",
+        "@id": "LEGIARTI000006530110",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "35",
+        "@numtexte": "59-2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°2001-692 du 1 août 2001 - art. 67 (VT) JORF 2 août 2001 en vigueur le 1er janvier 2005",
+        "@cidtexte": "JORFTEXT000000394028",
+        "@datesignatexte": "2001-08-01",
+        "@id": "LEGIARTI000006321099",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "ECOX0104681L",
+        "@num": "67",
+        "@numtexte": "2001-692",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

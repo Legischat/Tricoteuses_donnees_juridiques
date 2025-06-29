@@ -1,0 +1,143 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652412",
+      "ANCIEN_ID": "SBAXXXXXXXX5X02200AAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/24/LEGIARTI000006652412.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-07-14",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires",
+            "@debut": "1926-12-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101378"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-12-15",
+          "@etat": "MODIFIE",
+          "@fin": "2004-07-14",
+          "@id": "LEGIARTI000006652411",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006652412",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le capitaine peut exiger du marin les heures de travail nécessaires à la sécurité immédiate du navire, des personnes présentes à bord ou de la cargaison, ou en vue de porter secours à d'autres navires ou aux personnes en détresse en mer. Dans ces cas, le capitaine peut suspendre l'organisation habituelle des horaires de travail ou de repos et exiger d'un marin qu'il travaille pendant le temps nécessaire pour faire face à ces circonstances. Lorsque celles-ci ont cessé, le capitaine attribue au marin qui a accompli un tel travail, alors qu'il était en période de repos, un repos d'une durée équivalente. Les conditions dans lesquelles ce repos est pris tiennent compte des exigences de la sécurité et des nécessités de la navigation.<br/>\n<br/>   Le marin est tenu de travailler au sauvetage du navire, de ses débris, des effets naufragés et de la cargaison.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2004-691 du 12 juillet 2004 - art. 8 () JORF 14 juillet 2004",
+        "@cidtexte": "JORFTEXT000000625753",
+        "@datesignatexte": "2004-07-12",
+        "@id": "LEGIARTI000006879606",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "EQUX0400106R",
+        "@num": "8",
+        "@numtexte": "2004-691",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307 du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des transports - art. L5542-35 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023079722",
+        "@naturetexte": "CODE",
+        "@num": "L5542-35",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code des transports - art. L5544-13 (V)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023079578",
+        "@naturetexte": "CODE",
+        "@num": "L5544-13",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail maritime - art. 18 (V)",
+        "@cidtexte": "LEGITEXT000006072051",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006652404",
+        "@naturetexte": "CODE",
+        "@num": "18",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

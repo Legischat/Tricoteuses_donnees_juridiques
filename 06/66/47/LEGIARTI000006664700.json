@@ -1,0 +1,128 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006664700",
+      "ANCIEN_ID": "SEHK7XXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/47/LEGIARTI000006664700.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1982-08-17",
+        "DATE_FIN": "1992-12-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-719 du 16 août 1982 CHEQUES-VACANCES",
+          "@c_titre_court": "Décret n°82-719 du 16 août 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000881146"
+        },
+        {
+          "#text": "Décret n°82-719 du 16 août 1982  FIXANT LES MODALITES D'APPLICATION DE L'ORDONNANCE 82-283 DU 26 MARS 1982 PORTANT CREATION DE CHEQUES-VACANCES",
+          "@c_titre_court": "Décret n°82-719 du 16 août 1982",
+          "@debut": "1982-08-17",
+          "@fin": "2006-10-07",
+          "@id_txt": "LEGITEXT000006063870"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE 1 : AGENCE NATIONALE POUR LES CHEQUES-VACANCES",
+            "@debut": "1982-08-17",
+            "@fin": "2006-10-07",
+            "@id": "LEGISCTA000006101821"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CHAPITRE 3 : DISPOSITIONS FINANCIERES ET COMPTABLES",
+              "@debut": "1982-08-17",
+              "@fin": "2006-10-07",
+              "@id": "LEGISCTA000006124176"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "SECTION 2 : REGIME FINANCIER ET COMPTABLE.",
+                "@debut": "1982-08-17",
+                "@fin": "2006-10-07",
+                "@id": "LEGISCTA000006140194"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000881146",
+      "@date_publi": "1982-08-17",
+      "@date_signature": "1982-08-16",
+      "@nature": "DECRET",
+      "@num": "82-719"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-08-17",
+          "@etat": "MODIFIE",
+          "@fin": "1992-12-08",
+          "@id": "LEGIARTI000006664700",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-12-08",
+          "@etat": "ABROGE",
+          "@fin": "2006-10-07",
+          "@id": "LEGIARTI000006664701",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les fonds de l'agence sont déposés à la Caisse des dépôts et consignations [*organisme gestionnaire*].<br/>\n<br/>   Les conditions de rémunération et de gestion des fonds visés à l'alinéa précédent sont fixées par une convention passée entre l'agence et la Caisse des dépôts et consignations, après avoir été approuvée conjointement par le ministre de l'économie et des finances et le ministre du temps libre.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 82-283 1982-03-26",
+        "@cidtexte": "JORFTEXT000000339926",
+        "@datesignatexte": "1982-03-26",
+        "@id": "JORFTEXT000000339926",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "82-283",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code du tourisme. - art. R411-14 (M)",
+        "@cidtexte": "LEGITEXT000006074073",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006813572",
+        "@naturetexte": "CODE",
+        "@num": "R411-14",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006236904",
+      "ANCIEN_ID": "MVIBFXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/23/69/LEGIARTI000006236904.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-12-24",
+        "DATE_FIN": "2008-06-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 décembre 2004 fixant le taux des indemnités des personnes apportant leur collaboration à la commission des recours des réfugiés",
+          "@c_titre_court": "Arrêté du 23 décembre 2004",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000420496"
+        },
+        {
+          "#text": "Arrêté du 23 décembre 2004 fixant le taux des indemnités des personnes apportant leur collaboration à la commission des recours des réfugiés.",
+          "@c_titre_court": "Arrêté du 23 décembre 2004",
+          "@debut": "2004-12-24",
+          "@fin": "2008-06-29",
+          "@id_txt": "LEGITEXT000005947234"
+        }
+      ],
+      "@cid": "JORFTEXT000000420496",
+      "@date_publi": "2004-12-24",
+      "@date_signature": "2004-12-23",
+      "@ministere": "MINISTERE DES AFFAIRES ETRANGERES",
+      "@nature": "ARRETE",
+      "@nor": "MAEA0420525A",
+      "@num_parution_jo": "0299"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-12-24",
+          "@etat": "ABROGE",
+          "@fin": "2008-06-29",
+          "@id": "LEGIARTI000006236904",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001847543",
+          "@num": "6",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant de l'indemnité forfaitaire par séance allouée aux assesseurs, représentants de l'administration, prévue à l'article 3 du décret du 23 décembre 2004 susvisé, est fixé à 76,23 Euros.<br/>\n<br/>   La rémunération annuelle allouée à chaque assesseur, titulaire ou suppléant, ne peut excéder 9 147,60 Euros et ne saurait donner lieu à un versement différé l'année suivante pour les séances qui auraient été tenues en sus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n° 2004-1390 du 23 décembre 2004 - art. 3",
+        "@cidtexte": "JORFTEXT000000606121",
+        "@datesignatexte": "2004-12-23",
+        "@id": "JORFARTI000002433453",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MAEA0420524D",
+        "@num": "3",
+        "@numtexte": "2004-1390",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 juin 2008 - art. 7 (VT)",
+        "@cidtexte": "JORFTEXT000019078837",
+        "@datesignatexte": "2008-06-20",
+        "@id": "LEGIARTI000019092673",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "IMIK0809103A",
+        "@num": "7",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

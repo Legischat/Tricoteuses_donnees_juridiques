@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006878324",
+      "ANCIEN_ID": "UTEABXXXXXX019AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/83/LEGIARTI000006878324.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1968-02-04",
+        "DATE_FIN": "1987-06-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Loi n° 67-5 du 3 janvier 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878026"
+        },
+        {
+          "#text": "Loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Loi n° 67-5 du 3 janvier 1967",
+          "@debut": "1968-02-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068306"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : Exploitation des navires en copropriété",
+            "@debut": "1968-02-04",
+            "@fin": "2010-12-01",
+            "@id": "LEGISCTA000006111565"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000878026",
+      "@date_publi": "1967-01-04",
+      "@date_signature": "1967-01-03",
+      "@nature": "LOI",
+      "@num": "67-5"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-02-04",
+          "@etat": "MODIFIE",
+          "@fin": "1987-06-27",
+          "@id": "LEGIARTI000006878324",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-06-27",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006878325",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les copropriétaires participent aux profits et aux pertes de l'exploitation au prorata de leurs intérêts dans le navire. Ils doivent, dans la même proportion, contribuer aux dépenses de la copropriété et répondre aux appels de fonds du gérant.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°67-5 du 3 janvier 1967 - art. 73 (V)",
+        "@cidtexte": "JORFTEXT000000878026",
+        "@datesignatexte": "1967-01-03",
+        "@id": "LEGIARTI000006878388",
+        "@naturetexte": "LOI",
+        "@num": "73",
+        "@numtexte": "67-5",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 67-967 1967-10-27",
+        "@cidtexte": "JORFTEXT000000702914",
+        "@datesignatexte": "1967-10-27",
+        "@id": "JORFTEXT000000702914",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-967",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

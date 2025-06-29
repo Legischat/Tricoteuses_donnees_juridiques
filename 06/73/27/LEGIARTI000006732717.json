@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006732717",
+      "ANCIEN_ID": "SQIVYXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/73/27/LEGIARTI000006732717.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-01-11",
+        "DATE_FIN": "2008-05-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 janvier 1997  relatif au contenu du livret d'accueil des    établissements de santé",
+          "@c_titre_court": "Arrêté du 7 janvier 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000564400"
+        },
+        {
+          "#text": "Arrêté du 7 janvier 1997 relatif au contenu du livret d'accueil des établissements de santé",
+          "@c_titre_court": "Arrêté du 7 janvier 1997",
+          "@debut": "1997-01-11",
+          "@fin": "2008-05-16",
+          "@id_txt": "LEGITEXT000005622597"
+        }
+      ],
+      "@cid": "JORFTEXT000000564400",
+      "@date_publi": "1997-01-11",
+      "@date_signature": "1997-01-07",
+      "@ministere": "MINISTERE DU TRAVAIL ET DES AFFAIRES SOCIALES",
+      "@nature": "ARRETE",
+      "@nor": "TASH9720025A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-01-11",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-16",
+          "@id": "LEGIARTI000006732717",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Deux documents sont annexés au livret d'accueil :<br/>\n<br/>   1. La charte du patient hospitalisé (annexe à la circulaire du 6 mai 1995) ;<br/>\n<br/>   2. Un questionnaire de sortie, adapté à l'établissement, destiné à recueillir l'avis du patient sur ses conditions d'accueil et de séjour.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 15 avril 2008 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000018787636",
+        "@datesignatexte": "2008-04-15",
+        "@id": "LEGIARTI000018789381",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SJSH0809643A",
+        "@num": "4",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Circulaire 1995-05-06",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 78-17 1978-01-06",
+        "@cidtexte": "JORFTEXT000000886460",
+        "@datesignatexte": "1978-01-06",
+        "@id": "JORFTEXT000000886460",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-17",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

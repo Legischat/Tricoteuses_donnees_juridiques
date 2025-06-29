@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006364182",
+      "ANCIEN_ID": "MRE01XXXXXX009AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/41/LEGIARTI000006364182.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-04-15",
+        "DATE_FIN": "1986-01-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°72-619 du 5 juillet 1972 PORTANT CREATION ET ORGANISATION DES REGIONS",
+          "@c_titre_court": "Loi n°72-619 du 5 juillet 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000684297"
+        },
+        {
+          "#text": "Loi n° 72-619 du 5 juillet 1972 portant création et organisation des régions.",
+          "@c_titre_court": "Loi n° 72-619 du 5 juillet 1972",
+          "@debut": "1973-10-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068445"
+        }
+      ],
+      "@cid": "JORFTEXT000000684297",
+      "@date_publi": "1972-07-09",
+      "@date_signature": "1972-07-05",
+      "@nature": "LOI",
+      "@num": "72-619"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-10-01",
+          "@etat": "MODIFIE",
+          "@fin": "1982-04-15",
+          "@id": "LEGIARTI000006364181",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-04-15",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-08",
+          "@id": "LEGIARTI000006364182",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil régional donne son avis au moins une fois par an sur les conditions d'utilisation des crédits de l'Etat destinés aux investissements d'intérêt régional et départemental.<br/>\n<br/>   Le conseil régional est consulté une seconde fois si le représentant de l'Etat dans la région [*commissaire de la République de région*] n'estime pas possible de suivre le premier avis exprimé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°72-619 du 5 juillet 1972 - art. 14 (M)",
+        "@cidtexte": "JORFTEXT000000684297",
+        "@datesignatexte": "1972-07-05",
+        "@id": "LEGIARTI000006364200",
+        "@naturetexte": "LOI",
+        "@num": "14",
+        "@numtexte": "72-619",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°82-213 du 2 mars 1982 - art. 80 () JORF 3 MARS 1982 date d'entrée en vigueur 15 AVRIL 1982",
+        "@cidtexte": "JORFTEXT000000880039",
+        "@datesignatexte": "1982-03-02",
+        "@id": "LEGIARTI000006338314",
+        "@naturetexte": "LOI",
+        "@num": "80",
+        "@numtexte": "82-213",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 86-16 1986-01-06 art. 37 1° JORF 8 janvier 1986",
+        "@cidtexte": "JORFTEXT000000512456",
+        "@datesignatexte": "1986-01-06",
+        "@id": "JORFTEXT000000512456",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-16",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°86-16 du 6 janvier 1986 - art. 32 (V)",
+        "@cidtexte": "JORFTEXT000000512456",
+        "@datesignatexte": "1986-01-06",
+        "@id": "LEGIARTI000006364524",
+        "@naturetexte": "LOI",
+        "@num": "32",
+        "@numtexte": "86-16",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

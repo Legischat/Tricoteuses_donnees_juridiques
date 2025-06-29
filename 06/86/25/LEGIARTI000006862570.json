@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862570",
+      "ANCIEN_ID": "UPIKQXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/25/LEGIARTI000006862570.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-04-23",
+        "DATE_FIN": "1987-01-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 mars 1980 relatif à la représentation des diverses catégories d'usagers, des personnes compétentes, des collectivités locales et de l'administration aux comités de bassin",
+          "@c_titre_court": "Arrêté du 13 mars 1980",
+          "@debut": "1980-04-23",
+          "@fin": "1986-01-20",
+          "@id_txt": "LEGITEXT000006074566"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Artois - Picardie",
+            "@debut": "1980-04-23",
+            "@fin": "1987-01-20",
+            "@id": "LEGISCTA000006110212"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074566",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1980-03-13",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-04-23",
+          "@etat": "ABROGE",
+          "@fin": "1987-01-20",
+          "@id": "LEGIARTI000006862570",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le comité de bassin Artois-Picardie [*composition*] comporte cinquante et un membres [*nombre*], à raison de dix-sept représentants des différentes catégories d'usagers et personnes compétentes, dix-sept représentants désignés par les collectivités locales et dix-sept représentants de l'administration.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 66-699 1966-09-14",
+        "@cidtexte": "JORFTEXT000000513023",
+        "@datesignatexte": "1966-09-14",
+        "@id": "JORFTEXT000000513023",
+        "@naturetexte": "DECRET",
+        "@numtexte": "66-699",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "arrêté 1986-12-12 art. 4 jorf 20 janvier 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275134",
+      "ANCIEN_ID": "FAEDXXXXXXX028AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/51/LEGIARTI000006275134.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "28",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1988-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°87-1060 du 30 décembre 1987 de finances pour 1988",
+          "@c_titre_court": "Loi n°87-1060 du 30 décembre 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317543"
+        },
+        {
+          "#text": "Loi n° 87-1060 du 30 décembre 1987 de finances pour 1988 (1)",
+          "@c_titre_court": "Loi n° 87-1060 du 30 décembre 1987",
+          "@debut": "1987-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068983"
+        }
+      ],
+      "@cid": "JORFTEXT000000317543",
+      "@date_publi": "1987-12-31",
+      "@date_signature": "1987-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX8700122L",
+      "@num": "87-1060"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006275134",
+          "@num": "28",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002280048",
+          "@num": "28",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. à V. Paragraphes modificateurs<br/>\n<br/>\n<br/>   VI - La quantité d'essence pouvant donner lieu, en 1988, au dégrèvement prévu à l'article 265 quater du code des douanes est fixée à 40 000 mètres cubes. Il n'est pas ouvert de contingent au titre du pétrole lampant.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 87-1060 1987-12-30 Finances pour 1988 JORF 31 décembre 1987 en vigueur le 1er janvier 1988",
+        "@cidtexte": "JORFTEXT000000317543",
+        "@datesignatexte": "1987-12-30",
+        "@id": "JORFTEXT000000317543",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700122L",
+        "@numtexte": "87-1060",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code des douanes - art. 265 quater (M)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615093",
+        "@naturetexte": "CODE",
+        "@num": "265 quater",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code des douanes - art. 265 quinquies (M)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615140",
+        "@naturetexte": "CODE",
+        "@num": "265 quinquies",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code des douanes - art. 266 (M)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615114",
+        "@naturetexte": "CODE",
+        "@num": "266",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code des douanes art. 265 quater",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

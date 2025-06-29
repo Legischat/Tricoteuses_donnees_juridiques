@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006208953",
+      "ANCIEN_ID": "SSHCMBXXXXX005AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/89/LEGIARTI000006208953.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-03-12",
+        "DATE_FIN": "2017-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2002-331 du 11 mars 2002 relatif aux règles de provisionnement des organismes régis par le code de la mutualité assurant, à la date du 22 avril 2001, la couverture du risque vieillesse par répartition",
+          "@c_titre_court": "Décret n°2002-331 du 11 mars 2002",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000776966"
+        },
+        {
+          "#text": "Décret n°2002-331 du 11 mars 2002 relatif aux règles de provisionnement des organismes régis par le code de la mutualité assurant, à la date du 22 avril 2001, la couverture du risque vieillesse par répartition",
+          "@c_titre_court": "Décret n°2002-331 du 11 mars 2002",
+          "@debut": "2002-03-12",
+          "@fin": "2017-12-31",
+          "@id_txt": "LEGITEXT000005632409"
+        }
+      ],
+      "@cid": "JORFTEXT000000776966",
+      "@date_publi": "2002-03-12",
+      "@date_signature": "2002-03-11",
+      "@ministere": "MINISTERE DE L'EMPLOI ET DE LA SOLIDARITE",
+      "@nature": "DECRET",
+      "@nor": "MESS0220810D",
+      "@num": "2002-331",
+      "@num_parution_jo": "0060"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-03-12",
+          "@etat": "ABROGE",
+          "@fin": "2017-12-31",
+          "@id": "LEGIARTI000006208953",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001532290",
+          "@num": "5",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tant que la fraction provisionnée de la valeur de service n'atteint pas 100 %, les organismes calculent chaque année, avant et après revalorisation de la valeur de service :<br/>\n<br/>   a) Une provision mathématique théorique correspondant à un provisionnement de 100 % de la valeur de service et calculée conformément aux dispositions de l'article R. 222-16 du code de la mutualité ;<br/>\n<br/>   b) Le taux d'actualisation qu'il serait nécessaire d'utiliser pour que la provision mathématique théorique correspondant à un provisionnement de 100 % de la valeur de service soit égale à la provision technique spéciale.<br/>\n<br/>   Après revalorisation de la valeur de service, le taux visé au b ne peut excéder 90 % du taux de rendement de l'actif affecté à la couverture de la provision technique spéciale.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2017-1765 du 26 décembre 2017 - art. 5",
+        "@cidtexte": "JORFTEXT000036267297",
+        "@datesignatexte": "2017-12-26",
+        "@id": "LEGIARTI000036291125",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SSAS1725917D",
+        "@num": "5",
+        "@numtexte": "2017-1765",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la mutualité - art. R222-16",
+        "@cidtexte": "LEGITEXT000006074067",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006796210",
+        "@naturetexte": "CODE",
+        "@num": "R222-16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

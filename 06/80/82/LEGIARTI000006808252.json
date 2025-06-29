@@ -1,0 +1,155 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006808252",
+      "ANCIEN_ID": "TXXXXXXXXXX0262R0020XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/82/LEGIARTI000006808252.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R262-2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-11-21",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Réglementation du travail",
+              "@debut": "1973-11-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128493"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre VI : Pénalités",
+                "@debut": "1973-11-21",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143015"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : Repos et congés",
+                  "@debut": "1973-11-21",
+                  "@fin": "2008-05-01",
+                  "@id": "LEGISCTA000018509779"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 1 : Repos hebdomadaire.",
+                    "@debut": "1973-11-21",
+                    "@fin": "2008-05-01",
+                    "@id": "LEGISCTA000018509771"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-21",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006808252",
+          "@num": "R262-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018509761",
+          "@num": "R262-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Toute infraction à l'article L. 221-3 est passible d'une amende de 1.300 F à 3.000 F (1).<br/>\n (1) Amende applicable depuis le 1er janvier 1990.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 72-985 1972-10-24 art. 18",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 84-631 1984-07-16 art. 1 : Dispositions applicables dans le territoire de la Nouvelle-Calédonie et dépendances",
+        "@cidtexte": "JORFTEXT000000885346",
+        "@datesignatexte": "1984-07-16",
+        "@id": "JORFTEXT000000885346",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-631",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code du travail - art. L221-3 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006647373",
+        "@naturetexte": "CODE",
+        "@num": "L221-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

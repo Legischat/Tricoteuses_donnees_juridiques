@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006621296",
+      "ANCIEN_ID": "RGHAFXXXXXX033AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/12/LEGIARTI000006621296.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "33",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1964-09-01",
+        "DATE_FIN": "1993-07-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°64-902 du 31 août 1964 RELATIF A LA PRODUCTION VITICOLE ET A L'ORGANISATION DU MARCHE DU VIN",
+          "@c_titre_court": "Décret n°64-902 du 31 août 1964",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000303052"
+        },
+        {
+          "#text": "Décret n°64-902 du 31 août 1964 relatif à la production viticole et à l'organisation du marché du vin",
+          "@c_titre_court": "Décret n°64-902 du 31 août 1964",
+          "@debut": "1964-09-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061231"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section 5 : Dispositions transitoires et diverses.",
+            "@debut": "1964-09-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006099642"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000303052",
+      "@date_publi": "1964-09-01",
+      "@date_signature": "1964-08-31",
+      "@nature": "DECRET",
+      "@num": "64-902"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-09-01",
+          "@etat": "MODIFIE",
+          "@fin": "1993-07-27",
+          "@id": "LEGIARTI000006621296",
+          "@num": "33",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-07-27",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006621297",
+          "@num": "33",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sans préjudice des sanctions prévues par le code du vin, par le code général des impôts, par l'ordonnance n° 59-125 du 7 janvier 1959 relative à la répression des infractions en matière viticole, par l'article 49 de la loi du 27 décembre 1963, par la loi du 1er août 1905 sur la répression des fraudes et plus généralement par la législation actuellement en vigueur, l'administration peut refuser à toute personne tout titre de mouvement pour la mise en circulation de ses vins ou de ses eaux-de-vie jusqu'à la régularisation complète de sa situation au regard des dispositions législatives et réglementaires relatives à l'organisation de la production et du marché du vin.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 59-125 1959-01-07",
+        "@cidtexte": "JORFTEXT000000517364",
+        "@datesignatexte": "1959-01-07",
+        "@id": "JORFTEXT000000517364",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "59-125",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 63-1316 1963-12-27 art. 49",
+        "@cidtexte": "JORFTEXT000000509287",
+        "@datesignatexte": "1963-12-27",
+        "@id": "JORFTEXT000000509287",
+        "@naturetexte": "LOI",
+        "@numtexte": "63-1316",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code général des impôts, annexe 3, CGIAN3. - art. 169 bis (Ab)",
+        "@cidtexte": "LEGITEXT000006069574",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006297070",
+        "@naturetexte": "CODE",
+        "@num": "169 bis",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

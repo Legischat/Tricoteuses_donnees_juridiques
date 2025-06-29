@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006636878",
+      "ANCIEN_ID": "ADIXZXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/68/LEGIARTI000006636878.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-09-01",
+        "DATE_FIN": "1985-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 juin 1985 relatif aux prix et tarifs des transports scolaires pour l'année 1985-1986",
+          "@c_titre_court": "Arrêté du 26 juin 1985",
+          "@debut": "1985-09-01",
+          "@fin": "1986-12-31",
+          "@id_txt": "LEGITEXT000006071968"
+        }
+      ],
+      "@cid": "LEGITEXT000006071968",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-06-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-09-01",
+          "@etat": "MODIFIE",
+          "@fin": "1985-12-31",
+          "@id": "LEGIARTI000006636878",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-12-31",
+          "@etat": "PERIME",
+          "@fin": "1986-12-31",
+          "@id": "LEGIARTI000006636879",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'année 1985-1986 les tarifs et prix des transports scolaires pourront être majorés de 2 p. 100 à compter du 1er septembre 1985 par rapport à leur dernier niveau licite atteint pendant l'année scolaire 1984-1985 [*pourcentage licite de hausse - date d'effet*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 85-44/A 1985-06-26 BOCC n° 9, 27 juin 1985 en vigueur le 1er septembre 1985",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

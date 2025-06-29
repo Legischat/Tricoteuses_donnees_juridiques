@@ -1,0 +1,77 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006430516",
+      "ANCIEN_ID": "PCIORXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/05/LEGIARTI000006430516.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-08-01",
+        "DATE_FIN": "1996-04-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 juillet 1991 FIXANT CERTAINES CONDITIONS TECHNIQUES ET D'EXPLOITATION DES RESEAUX RADIOELECTRIQUES INDEPENDANTS DU SERVICE MOBILE TERRESTRE RELATIVES A LA MISE EN PORTEUSE DES STATIONS RELAIS ET AUX DISPOSITIFS D'APPEL SELECTIF",
+          "@c_titre_court": "Arrêté du 19 juillet 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339763"
+        },
+        {
+          "#text": "Arrêté du 19 juillet 1991 fixant certaines conditions techniques et d'exploitation des réseaux radioélectriques indépendants du service mobile terrestre relatives à la mise en porteuse des stations relais et aux dispositifs d'appel sélectif",
+          "@c_titre_court": "Arrêté du 19 juillet 1991",
+          "@debut": "1991-08-01",
+          "@fin": "1996-04-03",
+          "@id_txt": "LEGITEXT000006059693"
+        }
+      ],
+      "@cid": "JORFTEXT000000339763",
+      "@date_publi": "1991-08-01",
+      "@date_signature": "1991-07-19",
+      "@nature": "ARRETE",
+      "@nor": "PTTR9100279A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-08-01",
+          "@etat": "ABROGE",
+          "@fin": "1996-04-03",
+          "@id": "LEGIARTI000006430516",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   1. Le déclenchement de la mise en porteuse d'une station relais peut se faire par voie filaire ou par voie radioélectrique. Dans ce dernier cas, la télécommande de mise en porteuse de la station relais doit se faire en respectant les conditions techniques et d'exploitation suivantes :<br/>\n<br/>   a) Le déclenchement par simple détection de porteuse est interdit. Celui-ci doit se faire par détection d'une fréquence porteuse modulée et codée ;<br/>\n<br/>   b) La modulation de la fréquence porteuse se fait par une signalisation codée suivant l'une des trois techniques suivantes :<br/>\n<br/>   - soit du type 5 tons choisis parmi des audiofréquences précisées par instruction ;<br/>\n<br/>   - soit du type numérique selon la spécification technique ST/PAA/TPA/1382 ;<br/>\n<br/>   - soit du type fréquences subaudibles utilisant des fréquences de la bande 67-110 Hz précisées par instruction ;<br/>\n<br/>   c) La modulation de la fréquence porteuse suivant le type 5 tons doit respecter les dispositions suivantes :<br/>\n<br/>   - un même relais peut être déclenché par plusieurs télécommandes 5 tons différentes afin de différencier les réseaux ou les flottes ;<br/>\n<br/>   - le déclenchement du relais se fait après décodage complet du premier train de 5 tons. Le nombre de trains de 5 tons n'est pas limité ;<br/>\n<br/>   - la séquence des audiofréquences constituant le code 5 tons est émise dans l'ordre suivant : les deux premiers tons identifient le constructeur du relais ou la marque du matériel installé, les trois tons suivants sont laissés au choix de l'installateur et permettent la mise en porteuse du relais.<br/>\n<br/>   d) La modulation de la fréquence porteuse suivant le type fréquences sub-audibles est réservée aux réseaux de faible puissance ou de faible portée équipés uniquement de portatifs, c'est-à-dire des réseaux dont la puissance autorisée est inférieure à 4 watts ou dont le rayon de couverture est inférieur à 2 kilomètres. La valeur à prendre en compte est la valeur la plus contraignante.<br/>\n<br/>   2. Le dispositif d'appel sélectif permet à une station appelante de signaler son appel à une autre station (appel individuel) ou à plusieurs autres stations (appel de groupe) d'un même réseau. Ce dispositif peut utiliser l'un des types de codage suivant :<br/>\n<br/>   - soit du type 5 tons choisis dans la bande des audiofréquences précisée par l'instruction prévue à l'article 6 ci-après. Les deux premiers tons identifient le constructeur ou la marque du matériel prédominant, les trois tons suivants identifient chaque station, groupe ou sous-groupe de stations selon un code choisi par l'installateur ;<br/>\n<br/>   - soit du type numérique selon la spécification technique ST/PAA/TPA/1382 ;<br/>\n<br/>   - soit du type fréquences subaudibles, utilisant des fréquences entre 110 et 500 Hz au choix de l'installateur. Ce type de codage n'est autorisé que pour les réseaux de faible puissance ou de faible portée équipés uniquement de portatifs, c'est-à-dire des réseaux dont la puissance apparente rayonnée autorisée est inférieure à 4 watts ou dont le rayon de couverture est inférieur à 2 kilomètres. La valeur à prendre en compte est la valeur la plus contraignante ;<br/>\n<br/>   - soit de type CCITT Q23.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-07-19 art. 6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1996-03-12 art. 7 JORF 3 avril 1996",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

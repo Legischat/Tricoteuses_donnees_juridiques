@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860391",
+      "ANCIEN_ID": "UPIDEXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/03/LEGIARTI000006860391.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-12-31",
+        "DATE_FIN": "2019-10-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 novembre 1972 REGLES D'AMENAGEMENT ET D'EXPLOITATION DES DEPOTS D'HYDROCARBURES LIQUEFIES. L'ARRETE DU 16-06-66 ET CELUI DU 18-12-51 SONT ABROGES",
+          "@c_titre_court": "Arrêté du 9 novembre 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000856846"
+        },
+        {
+          "#text": "Arrêté du 9 novembre 1972 relatif aux règles d'aménagement et d'exploitation des dépôts d'hydrocarbures liquéfiés",
+          "@c_titre_court": "Arrêté du 9 novembre 1972",
+          "@debut": "1972-12-31",
+          "@fin": "2019-10-20",
+          "@id_txt": "LEGITEXT000006074408"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions relatives à la direction de la lutte contre l'incendie et des secours",
+            "@debut": "1972-12-31",
+            "@fin": "2019-10-20",
+            "@id": "LEGISCTA000006109997"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000856846",
+      "@date_publi": "1972-12-31",
+      "@date_signature": "1972-11-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2019-10-20",
+          "@id": "LEGIARTI000006860391",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le matériel électrique, autre que le câblage, utilisant un mode de sécurité prévu dans l'instruction ministérielle DMT n° 44-62 du 18 juin 1963 et pour lequel n'ont pas été encore fixées les spécifications et la procédure d'agrément prévues à l'article 3 du décret n° 60-295 du 28 mars 1960, peut, sous la responsabilité de l'exploitant et sauf opposition de l'inspecteur des établissements classés dans les cas où il est manifeste qu'il ne présente pas une sécurité suffisante, être assimilé à du matériel de sûreté au sens de l'article 402.2 des règles ci-annexées.</p>\n<br/>\n<p>Un an après la mise en application des spécifications et de la procédure d'agrément relatives à un nouveau mode de sécurité, l'assimilation ci-dessus cessera d'être admise pour la mise en service du matériel électrique utilisant ce mode de sécurité.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°60-295 du 28 mars 1960",
+        "@cidtexte": "JORFTEXT000000334956",
+        "@datesignatexte": "1960-03-28",
+        "@id": "JORFTEXT000000334956",
+        "@naturetexte": "DECRET",
+        "@numtexte": "60-295",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 1er août 2019 - art. 3",
+        "@cidtexte": "JORFTEXT000039241363",
+        "@datesignatexte": "2019-08-01",
+        "@id": "LEGIARTI000039243058",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TREP1912530A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Instruction 44-62 1963-06-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

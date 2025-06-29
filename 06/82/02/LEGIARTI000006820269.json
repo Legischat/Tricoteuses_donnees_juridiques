@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006820269",
+      "ANCIEN_ID": "UBAXXXXXXXX2X510R04AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/02/LEGIARTI000006820269.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R*510-4",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1985-01-15",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de l'urbanisme",
+          "@c_titre_court": "Code de l'urbanisme",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074075"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire - Décrets en Conseil d'Etat",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107993"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Implantation des services, établissements et entreprises",
+              "@debut": "1973-11-13",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128604"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre Ier : Dispositions administratives générales",
+                "@debut": "1973-11-13",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143438"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074075",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-13",
+          "@etat": "MODIFIE",
+          "@fin": "1985-01-15",
+          "@id": "LEGIARTI000006820268",
+          "@num": "R*510-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-15",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006820269",
+          "@num": "R*510-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les opérations entreprises par les collectivités locales sur leur territoire pour les besoins de leurs propres services publics sont exclues du champ d'application du présent titre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-944 1967-10-24 ART. 4",
+        "@cidtexte": "JORFTEXT000000877757",
+        "@datesignatexte": "1967-10-24",
+        "@id": "JORFTEXT000000877757",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-944",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'urbanisme - art. R*510-1 (V)",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006820261",
+        "@naturetexte": "CODE",
+        "@num": "R*510-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 73-1023 1973-11-08",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

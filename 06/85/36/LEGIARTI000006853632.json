@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006853632",
+      "ANCIEN_ID": "UPHEQXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/36/LEGIARTI000006853632.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-11-04",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°61-1195 du 31 octobre 1961 PORTANT RAP. POUR APPLICATION DE LA LOI 60708 DU 22-07-1960",
+          "@c_titre_court": "Décret n°61-1195 du 31 octobre 1961",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000502739"
+        },
+        {
+          "#text": "Décret n°61-1195 du 31 octobre 1961 portant règlement d'administration publique pour l'application de la loi n° 60-708 du 22 juillet 1960 relative à la création de parcs nationaux",
+          "@c_titre_court": "Décret n°61-1195 du 31 octobre 1961",
+          "@debut": "1961-11-04",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006061003"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Aménagement, réglementation et gestion des parcs nationaux",
+            "@debut": "1961-11-04",
+            "@fin": "1989-11-04",
+            "@id": "LEGISCTA000006109303"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000502739",
+      "@date_publi": "1961-11-04",
+      "@date_signature": "1961-10-31",
+      "@nature": "DECRET",
+      "@num": "61-1195"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-11-04",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006853632",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le directeur de l'établissement [*public*], qui peut être un fonctionnaire éventuellement placé en position de détachement, est nommé par arrêté du ministre de l'agriculture après avis du conseil [*d'administration*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural R241-26",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "LOI 60-708 1960-07-22",
+        "@cidtexte": "JORFTEXT000000512209",
+        "@datesignatexte": "1960-07-22",
+        "@id": "JORFTEXT000000512209",
+        "@naturetexte": "LOI",
+        "@numtexte": "60-708",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°89-805 du 27 octobre 1989 - art. 2 (V) JORF 4 novembre 1989",
+        "@cidtexte": "JORFTEXT000000336191",
+        "@datesignatexte": "1989-10-27",
+        "@id": "LEGIARTI000006605371",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRME8961350D",
+        "@num": "2",
+        "@numtexte": "89-805",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. R*241-26 (Ab)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006590497",
+        "@naturetexte": "CODE",
+        "@num": "R*241-26",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006852819",
+      "ANCIEN_ID": "UPHBWXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/28/LEGIARTI000006852819.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1981-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-517 du 30 juin 1979 PORTANT CREATION D'UNE TAXE PARAFISCALE AU PROFIT DE L'AGENCE NATIONALE POUR LA RECUPERATION ET L'ELIMINATION DES DECHETS, (ANRED), JUSQU'AU 31-12-1981",
+          "@c_titre_court": "Décret n°79-517 du 30 juin 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000696395"
+        },
+        {
+          "#text": "Décret n°79-517 du 30 juin 1979 portant création d'une taxe parafiscale au profit de l'agence nationale pour la récupération et l'élimination des déchets",
+          "@c_titre_court": "Décret n°79-517 du 30 juin 1979",
+          "@debut": "1979-07-01",
+          "@fin": "1981-12-31",
+          "@id_txt": "LEGITEXT000006063060"
+        }
+      ],
+      "@cid": "JORFTEXT000000696395",
+      "@date_publi": "1979-07-01",
+      "@date_signature": "1979-06-30",
+      "@nature": "DECRET",
+      "@num": "79-517"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "PERIME",
+          "@fin": "1981-12-31",
+          "@id": "LEGIARTI000006852819",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le taux de la taxe est fixé par arrêté conjoint des ministres désignés à l'article 9 ci-après, dans la limite de 40 F par tonne jusqu'au 31 décembre 1980 et de 20 F par tonne pour la période du 1er janvier 1981 au 31 décembre 1981.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-517 1979-06-30 ART. 1 : la taxe parafiscale est applicable jusqu'au 31 décembre 1981",
+        "@cidtexte": "JORFTEXT000000696395",
+        "@datesignatexte": "1979-06-30",
+        "@id": "JORFTEXT000000696395",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-517",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°79-517 du 30 juin 1979 - art. 9 (V)",
+        "@cidtexte": "JORFTEXT000000696395",
+        "@datesignatexte": "1979-06-30",
+        "@id": "LEGIARTI000006852827",
+        "@naturetexte": "DECRET",
+        "@num": "9",
+        "@numtexte": "79-517",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 363 T (P)",
+        "@cidtexte": "LEGITEXT000006069569",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006295955",
+        "@naturetexte": "CODE",
+        "@num": "363 T",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006656312",
+      "ANCIEN_ID": "SEEB3XXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/63/LEGIARTI000006656312.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1860-07-18",
+        "DATE_FIN": "1993-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi  du 18 juillet 1860 sur l'émigration",
+          "@c_titre_court": "Loi du 18 juillet 1860",
+          "@debut": "1860-07-18",
+          "@fin": "1993-09-01",
+          "@id_txt": "LEGITEXT000006072060"
+        }
+      ],
+      "@cid": "LEGITEXT000006072060",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1860-07-18",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1860-07-18",
+          "@etat": "ABROGE",
+          "@fin": "1993-09-01",
+          "@id": "LEGIARTI000006656312",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Des décrets déterminent l'emplacement réservé à chaque passager sur les navires affectés au transport des émigrants, les conditions d'emménagement et d'approvisionnement, le mode des visites des navires avant le départ ; cette visite tient lieu, pour les navires français, de celle qui est prescrite par l'article 225 du Code du commerce.<br/>\n    Les vacations des experts chargés de la visite précitée à bord des navires français et étrangers, ainsi que les honoraires des médecins chargés de la visite médicale, et les autres frais accessoires, sont fixés par arrêtés ministériels et demeurent à la charge du navire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du commerce 225",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000005634379",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1860-07-18 Bulletin des Lois, 11e section, B. 823, n° 7898",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491916",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "372",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

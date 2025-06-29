@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006849323",
+      "ANCIEN_ID": "UPFADXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/93/LEGIARTI000006849323.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-11-28",
+        "DATE_FIN": "2003-01-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°58-1132 du 25 novembre 1958 STOCKAGE SOUTERRAIN",
+          "@c_titre_court": "Ordonnance n°58-1132 du 25 novembre 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705069"
+        },
+        {
+          "#text": "Ordonnance n°58-1132 du 25 novembre 1958 relative au stockage souterrain de gaz",
+          "@c_titre_court": "Ordonnance n°58-1132 du 25 novembre 1958",
+          "@debut": "1958-11-28",
+          "@fin": "2003-01-04",
+          "@id_txt": "LEGITEXT000006069204"
+        }
+      ],
+      "@cid": "JORFTEXT000000705069",
+      "@date_publi": "1958-11-28",
+      "@date_signature": "1958-11-25",
+      "@nature": "ORDONNANCE",
+      "@num": "58-1132"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-11-28",
+          "@etat": "ABROGE",
+          "@fin": "2003-01-04",
+          "@id": "LEGIARTI000006849323",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si le titulaire d'une autorisation de stockage souterrain ne se conforme pas aux mesures prescrites par la présente ordonnance ou par les textes d'application et dans tous les cas où l'intérêt public l'exige, l'autorisation peut être retirée [*retrait*] par décret pris dans les mêmes formes que le décret d'autorisation.<br/>\n<br/>   Lors de toute cessation définitive ou temporaire du stockage de gaz, le préfet prescrit toutes mesures de protection qu'il juge utiles et, le cas échéant, les fait exécuter aux frais du titulaire de l'autorisation.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°62-1296 du 6 novembre 1962 - art. 21 (Ab)",
+        "@cidtexte": "JORFTEXT000000852329",
+        "@datesignatexte": "1962-11-06",
+        "@id": "LEGIARTI000006853835",
+        "@naturetexte": "DECRET",
+        "@num": "21",
+        "@numtexte": "62-1296",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°2003-8 du 3 janvier 2003 - art. 62 () JORF 4 janvier 2003",
+        "@cidtexte": "JORFTEXT000000776748",
+        "@datesignatexte": "2003-01-03",
+        "@id": "LEGIARTI000006276170",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX0200139L",
+        "@num": "62",
+        "@numtexte": "2003-8",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

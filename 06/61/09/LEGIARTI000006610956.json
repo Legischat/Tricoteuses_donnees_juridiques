@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006610956",
+      "ANCIEN_ID": "RBAXXXXXXXX1X351L05AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/09/LEGIARTI000006610956.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L351-5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-02-07",
+        "DATE_FIN": "2012-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099185"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre III : Conservation et police des bois et forêts en général.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121943"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre V : Règles d'application des peines et autres condamnations.",
+                "@debut": "1979-02-07",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138692"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006610956",
+          "@num": "L351-5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans tous les cas où les ventes et adjudications sont déclarées nulles pour cause de fraude ou collusion, l'acquéreur ou adjudicataire, indépendamment des amendes et dommages-intérêts prononcés contre lui, est condamné à restituer les bois déjà exploités ou à en payer la valeur estimée égale au prix d'adjudication ou de vente.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°79-113 du 25 janvier 1979",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2012-92\n du 26 janvier 2012 - art. 5",
+        "@cidtexte": "JORFTEXT000025213462",
+        "@datesignatexte": "2012-01-26",
+        "@id": "LEGIARTI000025243152",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRX1121770R",
+        "@num": "5",
+        "@numtexte": "2012-92",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code forestier 194",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071514",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006715526",
+      "ANCIEN_ID": "SPI7SXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/55/LEGIARTI000006715526.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-02-06",
+        "DATE_FIN": "1993-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 20 janvier 1992 RELATIF AUX BONNES PRATIQUES DE FABRICATION",
+          "@c_titre_court": "Arrêté du 20 janvier 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000847114"
+        },
+        {
+          "#text": "Arrêté du 20 janvier 1992 relatif aux bonnes pratiques de fabrication",
+          "@c_titre_court": "Arrêté du 20 janvier 1992",
+          "@debut": "1992-02-06",
+          "@fin": "1993-01-01",
+          "@id_txt": "LEGITEXT000006059945"
+        }
+      ],
+      "@cid": "JORFTEXT000000847114",
+      "@date_publi": "1992-02-06",
+      "@date_signature": "1992-01-20",
+      "@nature": "ARRETE",
+      "@nor": "SANM9200238A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-02-06",
+          "@etat": "ABROGE",
+          "@fin": "1993-01-01",
+          "@id": "LEGIARTI000006715526",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 5 septembre 1989 relatif aux bonnes pratiques de fabrication et de production pharmaceutiques est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1989-09-05",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1992-12-07 art. 2 JORF 15 décembre 1992 en vigueur le 1er janvier 1993",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

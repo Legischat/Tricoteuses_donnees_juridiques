@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006325105",
+      "ANCIEN_ID": "FAHNXXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/51/LEGIARTI000006325105.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-07-31",
+        "DATE_FIN": "1991-02-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°86-890 du 29 juillet 1986 AUTORISANT LES SECTIONS REGIONALES DE LA CONCHYLICULTURE A PERCEVOIR UNE TAXE PARAFISCALE",
+          "@c_titre_court": "Décret n°86-890 du 29 juillet 1986",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000881941"
+        },
+        {
+          "#text": "Décret n°86-890 du 29 juillet 1986 autorisant les sections régionales de la conchyliculture à percevoir une taxe parafiscale",
+          "@c_titre_court": "Décret n°86-890 du 29 juillet 1986",
+          "@debut": "1986-07-31",
+          "@fin": "1991-07-30",
+          "@id_txt": "LEGITEXT000006065717"
+        }
+      ],
+      "@cid": "JORFTEXT000000881941",
+      "@date_publi": "1986-07-31",
+      "@date_signature": "1986-07-29",
+      "@nature": "DECRET",
+      "@num": "86-890"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-07-31",
+          "@etat": "MODIFIE",
+          "@fin": "1991-02-02",
+          "@id": "LEGIARTI000006325105",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-02-02",
+          "@etat": "PERIME",
+          "@fin": "1991-07-30",
+          "@id": "LEGIARTI000006325106",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est institué, au profit de chacune des sections régionales de la conchyliculture [*organisme bénéficiaire*] jusqu'au 31 décembre 1990 [*date limite*], une taxe parafiscale assise [*assiette*] sur les terrains exploités dans le but de capter, élever, affiner, détenir, traiter ou expédier les coquillages marins et situés dans les circonscriptions de ces sections délimitées en application de l'article 8 du décret du 30 octobre 1981 susvisé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 81-982 1981-10-31 art$ 8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°86-890 du 29 juillet 1986 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000881941",
+        "@datesignatexte": "1986-07-29",
+        "@id": "LEGIARTI000006325108",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "86-890",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275044",
+      "ANCIEN_ID": "FAEDFXXXXXX033AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/50/LEGIARTI000006275044.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "33",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1986-07-12",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°86-824 du 11 juillet 1986 DE FINANCES RECTIFICATIVE POUR 1986",
+          "@c_titre_court": "Loi n°86-824 du 11 juillet 1986",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000512460"
+        },
+        {
+          "#text": "Loi n° 86-824 du 11 juillet 1986 de finances rectificative pour 1986",
+          "@c_titre_court": "Loi n° 86-824 du 11 juillet 1986",
+          "@debut": "1986-07-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068971"
+        }
+      ],
+      "@cid": "JORFTEXT000000512460",
+      "@date_publi": "1986-07-12",
+      "@date_signature": "1986-07-11",
+      "@nature": "LOI",
+      "@num": "86-824"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-07-12",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006275044",
+          "@num": "33",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001292813",
+          "@num": "33",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er octobre 1986, il est créé, dans les écritures du Trésor, un compte d'affectation spéciale intitulé  Compte d'affectation des produits de la privatisation .<br/>\n<br/>   Il retrace :<br/>\n<br/>   - en recettes, le produit de la cession de titres, de parts et de droits de sociétés dont le transfert de propriété au secteur privé a été autorisé par la loi ;<br/>\n<br/>   - en dépenses, les versements à la caisse d'amortissement de la dette publique, des versements à la Caisse nationale de l'industrie et à la Caisse nationale des banques créées par les articles 11 et 26 de la loi de nationalisation n° 82-155 du 11 février 1982 ainsi que des apports en capital à des entreprises publiques.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 82-155 1982-02-11 art. 11, art. 26",
+        "@cidtexte": "JORFTEXT000000503960",
+        "@datesignatexte": "1982-02-11",
+        "@id": "JORFTEXT000000503960",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-155",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 86-824 1986-07-11 Finances rectificative pour 1986 JORF 12 juillet 1986",
+        "@cidtexte": "JORFTEXT000000512460",
+        "@datesignatexte": "1986-07-11",
+        "@id": "JORFTEXT000000512460",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-824",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

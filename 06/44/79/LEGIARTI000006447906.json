@@ -1,0 +1,157 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006447906",
+      "ANCIEN_ID": "ACAXXXXXXXX5X02274AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/79/LEGIARTI000006447906.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2274",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1804-03-21",
+        "DATE_FIN": "2008-06-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : Des différentes manières dont on acquiert la propriété",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006090271"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre XX : De la prescription et de la possession.",
+              "@debut": "1804-03-21",
+              "@fin": "2008-06-19",
+              "@id": "LEGISCTA000006118187"
+            },
+            {
+              "#text": "Titre XX : De la prescription extinctive",
+              "@debut": "2008-06-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000019017130"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre V : Du temps requis pour prescrire.",
+                "@debut": "1804-03-21",
+                "@fin": "2008-06-19",
+                "@id": "LEGISCTA000006136438"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 4 : De quelques prescriptions particulières.",
+                  "@debut": "1804-03-25",
+                  "@fin": "2008-06-19",
+                  "@id": "LEGISCTA000006150357"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1804-03-21",
+          "@etat": "MODIFIE",
+          "@fin": "2008-06-19",
+          "@id": "LEGIARTI000006447906",
+          "@num": "2274",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2008-06-19",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000019017404",
+          "@num": "2274",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La prescription, dans les cas ci-dessus, a lieu, quoiqu'il y ait eu continuation de fournitures, livraisons, services et travaux.<br/>\n<br/>   Elle ne cesse de courir que lorsqu'il y a eu compte arrêté, cédule ou obligation, ou citation en justice non périmée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°52-1322 du 15 décembre 1952 - art. 101 (V)",
+        "@cidtexte": "JORFTEXT000000888628",
+        "@datesignatexte": "1952-12-15",
+        "@id": "LEGIARTI000006656501",
+        "@naturetexte": "LOI",
+        "@num": "101",
+        "@numtexte": "52-1322",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code civil - art. 2268 (T)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006447842",
+        "@naturetexte": "CODE",
+        "@num": "2268",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail - art. L143-4 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006647115",
+        "@naturetexte": "CODE",
+        "@num": "L143-4",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1804-03-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1804-03-15 promulguée le 25 mars 1804",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

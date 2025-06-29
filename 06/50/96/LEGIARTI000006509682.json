@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006509682",
+      "ANCIEN_ID": "ADEBYXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/96/LEGIARTI000006509682.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1931-07-05",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 4 juillet 1931 relative au commerce de la chicorée",
+          "@c_titre_court": "Loi du 4 juillet 1931",
+          "@debut": "1931-07-05",
+          "@fin": "2007-12-22",
+          "@id_txt": "LEGITEXT000006071132"
+        }
+      ],
+      "@cid": "LEGITEXT000006071132",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1931-07-04",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1931-07-05",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006509682",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-12-22",
+          "@id": "LEGIARTI000006509683",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute infraction aux prescriptions de l'article 1er et des décrets pris en exécution de cet article sera punie d'une amende de 1.300 à 3.000 F.<br/>\n<br/>   L'article 463 du code pénal sera applicable.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code pénal 463",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1931-07-04 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

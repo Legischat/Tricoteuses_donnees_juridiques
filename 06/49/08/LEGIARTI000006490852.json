@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006490852",
+      "ANCIEN_ID": "PJEAMXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/08/LEGIARTI000006490852.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1981-08-05",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°81-736 du 4 août 1981 PORTANT AMNISTIE",
+          "@c_titre_court": "Loi n°81-736 du 4 août 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517004"
+        },
+        {
+          "#text": "Loi n° 81-736 du 4 août 1981 PORTANT AMNISTIE.",
+          "@c_titre_court": "Loi n° 81-736 du 4 août 1981",
+          "@debut": "1981-08-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068715"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Amnistie de droit",
+            "@debut": "1981-08-05",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006093933"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section 2 : Amnistie en raison du quantum ou de la nature de la peine",
+              "@debut": "1981-08-05",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006119371"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000517004",
+      "@date_publi": "1981-08-05",
+      "@date_signature": "1981-08-04",
+      "@nature": "LOI",
+      "@num": "81-736"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-08-05",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006490852",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>   Sont amnistiées les infractions commises avant le 22 mai 1981 qui sont ou seront punies, à titre de peine principale, des sanctions pénales prévues aux articles 43-1, 43-2, 43-3 et 43-4 du code pénal, que ces sanctions soient assorties ou non d'une amende.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°81-736 du 4 août 1981 - art. 10 (V)",
+        "@cidtexte": "JORFTEXT000000517004",
+        "@datesignatexte": "1981-08-04",
+        "@id": "LEGIARTI000006490855",
+        "@naturetexte": "LOI",
+        "@num": "10",
+        "@numtexte": "81-736",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code pénal 43-1, 43-2, 43-3, 43-4",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

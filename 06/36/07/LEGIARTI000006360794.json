@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006360794",
+      "ANCIEN_ID": "MFIBBXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/07/LEGIARTI000006360794.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1987-02-19",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 décembre 1985 pris pour l'application de l'article 95 de la loi n° 83-8 du 7 janvier 1983 modifiée, relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.",
+          "@c_titre_court": "Arrêté du 31 décembre 1985",
+          "@debut": "1986-01-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070294"
+        }
+      ],
+      "@cid": "LEGITEXT000006070294",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-12-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-17",
+          "@etat": "MODIFIE",
+          "@fin": "1987-02-19",
+          "@id": "LEGIARTI000006360793",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-02-19",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006360794",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<br/>   Les chiffres concernant le département de Paris ont été modifiés par les dispositions de l'arrêté 1997-12-10.<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le montant des ajustements mentionnés à l'article 1er ci-dessus est le suivant :</p>\n<p>Alpes-Maritimes : 59.614.873 F.</p>\n<p>Savoie : 7.442.059 F.</p>\n<p>Haute-Savoie : 56.234.374 F.</p>\n<p>Paris : 343.010.211 F.</p>\n<p>Var : 3.972.812 F.</p>\n<p>Hauts-de-Seine : 20.035.276 F.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-12-31 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1986-12-31  art. 1 JORF 19 février 1987",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 83-8 1983-01-07 art. 95",
+        "@cidtexte": "JORFTEXT000000320197",
+        "@datesignatexte": "1983-01-07",
+        "@id": "JORFTEXT000000320197",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-8",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

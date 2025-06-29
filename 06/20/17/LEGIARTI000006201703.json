@@ -1,0 +1,139 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006201703",
+      "ANCIEN_ID": "AKHFXXXXXXX026AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/17/LEGIARTI000006201703.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "26",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-10-14",
+        "DATE_FIN": "2003-08-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-885 du 11 octobre 1979 APPLICATION AUX VETERINAIRES DE LA LOI NO 66879 DU 29 NOVEMBRE 1966 RELATIVE AUX SOCIETES CIVILES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°79-885 du 11 octobre 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000331331"
+        },
+        {
+          "#text": "Décret n°79-885 du 11 octobre 1979 pris pour l'application aux vétérinaires de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles",
+          "@c_titre_court": "Décret n°79-885 du 11 octobre 1979",
+          "@debut": "1979-10-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006063133"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "FONCTIONNEMENT DE LA SOCIETE",
+            "@debut": "1979-10-14",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006082974"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CESSIONS ET TRANSMISSIONS DE PARTS SOCIALES",
+              "@debut": "1979-10-14",
+              "@fin": "2003-08-07",
+              "@id": "LEGISCTA000006113441"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "CESSIONS ENTRE VIFS PAR UN ASSOCIE.",
+                "@debut": "1979-10-14",
+                "@fin": "2003-08-07",
+                "@id": "LEGISCTA000006132885"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000331331",
+      "@date_publi": "1979-10-14",
+      "@date_signature": "1979-10-11",
+      "@nature": "DECRET",
+      "@num": "79-885"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-10-14",
+          "@etat": "ABROGE",
+          "@fin": "2003-08-07",
+          "@id": "LEGIARTI000006201703",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sauf dispositions contraires des statuts, les parts sociales sont librement cessibles entre associés.<br/>\n<br/>   Elles ne peuvent être cédées à des tiers qu'avec le consentement de la société exprimé dans les conditions prévues à l'article 19 de la loi du 29 novembre 1966.<br/>\n<br/>   Le prix de cession des parts est librement débattu entre les parties.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-879 1966-11-29",
+        "@cidtexte": "JORFTEXT000000692471",
+        "@datesignatexte": "1966-11-29",
+        "@id": "JORFTEXT000000692471",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-879",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°66-879 du 29 novembre 1966 - art. 19 (M)",
+        "@cidtexte": "JORFTEXT000000692471",
+        "@datesignatexte": "1966-11-29",
+        "@id": "LEGIARTI000006290544",
+        "@naturetexte": "LOI",
+        "@num": "19",
+        "@numtexte": "66-879",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 79-885 1979-10-11 art. 15",
+        "@cidtexte": "JORFTEXT000000331331",
+        "@datesignatexte": "1979-10-11",
+        "@id": "JORFTEXT000000331331",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-885",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 2003-768 2003-08-01 art. 5 34° JORF 7 août 2003",
+        "@cidtexte": "JORFTEXT000000597743",
+        "@datesignatexte": "2003-08-01",
+        "@id": "JORFTEXT000000597743",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0300394D",
+        "@numtexte": "2003-768",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

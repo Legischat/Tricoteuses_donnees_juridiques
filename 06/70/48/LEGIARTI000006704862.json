@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006704862",
+      "ANCIEN_ID": "SPHEGXXXXXX049AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/48/LEGIARTI000006704862.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "49",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1988-12-01",
+        "DATE_FIN": "1989-08-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 88-1077 du 30 novembre 1988 portant statuts particuliers des personnels infirmiers de la fonction publique hospitalière",
+          "@c_titre_court": "Décret n° 88-1077 du 30 novembre 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692624"
+        },
+        {
+          "#text": "Décret n°88-1077 du 30 novembre 1988 portant statuts particuliers des personnels infirmiers de la fonction publique hospitalière",
+          "@c_titre_court": "Décret n°88-1077 du 30 novembre 1988",
+          "@debut": "1988-12-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006066325"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE III : DISPOSITIONS TRANSITOIRES.",
+            "@debut": "1988-12-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006104054"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000692624",
+      "@date_publi": "1988-12-01",
+      "@date_signature": "1988-11-30",
+      "@nature": "DECRET",
+      "@nor": "SPSX8810021D",
+      "@num": "88-1077"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-12-01",
+          "@etat": "MODIFIE",
+          "@fin": "1989-08-04",
+          "@id": "LEGIARTI000006704862",
+          "@num": "49",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-08-04",
+          "@etat": "ABROGE",
+          "@fin": "2017-01-01",
+          "@id": "LEGIARTI000006704863",
+          "@num": "49",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les agents en fonctions à la date de publication du présent décret bénéficient, après reclassement dans l'un des corps mentionnés à l'article 1er, soit d'une bonification d'ancienneté de six mois, s'ils sont titulaires du diplôme d'Etat de puéricultrice, du certificat d'aptitude aux fonctions d'infirmier de salle d'opération ou du diplôme d'infirmier de secteur psychiatrique, soit d'une bonification d'ancienneté d'un an s'ils sont titulaires du certificat d'aptitude aux fonctions d'infirmier spécialisé en anesthésie-réanimation ou du certificat d'aptitude aux fonctions d'infirmier aide-anesthésiste.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 86-33 1986-01-09 art. 2",
+        "@cidtexte": "JORFTEXT000000512459",
+        "@datesignatexte": "1986-01-09",
+        "@id": "JORFTEXT000000512459",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-33",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°88-1077 du 30 novembre 1988 - art. 39-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000692624",
+        "@datesignatexte": "1988-11-30",
+        "@id": "LEGIARTI000006704830",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSX8810021D",
+        "@num": "39-1",
+        "@numtexte": "88-1077",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

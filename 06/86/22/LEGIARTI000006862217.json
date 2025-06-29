@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862217",
+      "ANCIEN_ID": "UPIJNXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/22/LEGIARTI000006862217.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-05-11",
+        "DATE_FIN": "1983-03-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 octobre 1978 ISOLEMENT ACOUSTIQUE DES BATIMENTS D'HABITATION CONTRE LES BRUITS DE L'ESPACE EXTERIEUR",
+          "@c_titre_court": "Arrêté du 6 octobre 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000487598"
+        },
+        {
+          "#text": "Arrêté du 6 octobre 1978 relatif à l'isolement acoustique des bâtiments d'habitation contre les bruits de l'espace extérieur.",
+          "@c_titre_court": "Arrêté du 6 octobre 1978",
+          "@debut": "1979-05-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074549"
+        }
+      ],
+      "@cid": "JORFTEXT000000487598",
+      "@date_publi": "1978-11-11",
+      "@date_signature": "1978-10-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-05-11",
+          "@etat": "MODIFIE",
+          "@fin": "1983-03-05",
+          "@id": "LEGIARTI000006862217",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-03-05",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006862218",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Bruit des transports terrestres - L'isolement acoustique des pièces principales et des cuisines exposées directement ou indirectement au bruit des transports terrestres doit être au minimum de 50 dB (A), 42 dB (A) ou 30 dB (A) dans les conditions déterminées par les autorisations d'utilisation du sol en fonction de la nature et de la typologie des voies de circulation avoisinantes, de la distance du bâtiment par rapport à ces voies et de la hauteur de la construction conformément aux dispositions de l'annexe 1 au présent arrêté.    Les isolements acoustiques visés au présent article s'entendent pour un bruit extérieur ayant un spectre dont les valeurs relatives des niveaux de pression acoustique par rapport au niveau de pression dans l'octave centrée sur 1000 Hz sont données dans le tableau suivant :<br/>\n ===============================================================<br/>\n<table>\n<tr>\n<td> :  FREQUENCE CENTRALE  :  DIFFERENCE DE PRESSION ACOUSTIQUE   :</td>\n</tr>\n<tr>\n<td> : de la bande d'octave :  par rapport au niveau de pression   :</td>\n</tr>\n<tr>\n<td> :        (Hz)          :          à 1000 Hz (dB)              :</td>\n</tr>\n<tr>\n<td> :----------------------:--------------------------------------:</td>\n</tr>\n<tr>\n<td> :        125           :               + 6                    :</td>\n</tr>\n<tr>\n<td> :        250           :               + 5                    :</td>\n</tr>\n<tr>\n<td> :        500           :               + 1                    :</td>\n</tr>\n<tr>\n<td> :       1000           :                 0                    :</td>\n</tr>\n<tr>\n<td> :       2000           :               - 2                    :</td>\n</tr>\n<tr>\n<td> :       4000           :               - 8                    :</td>\n</tr>\n</table>\n<br/>\n ==============================================================="
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1978-10-06 JONC 11 novembre 1978 Rectificatif JORF B.O.M.E.C. n° 79-34  en vigueur 11 mai 1979",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 1978-10-06 annexe 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'urbanisme - art. R111-3-1 (Ab)",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006816401",
+        "@naturetexte": "CODE",
+        "@num": "**R111-3-1",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation R111-4",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

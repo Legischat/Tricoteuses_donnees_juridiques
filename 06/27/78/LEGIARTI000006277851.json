@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006277851",
+      "ANCIEN_ID": "ANIEVXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/78/LEGIARTI000006277851.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-03-13",
+        "DATE_FIN": "2010-08-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 février 1993 relatif à la construction et au contrôle des humidimètres pour grains de céréales et graines oléagineuses",
+          "@c_titre_court": "Arrêté du 10 février 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000727773"
+        },
+        {
+          "#text": "Arrêté du 10 février 1993 relatif à la construction et au contrôle des humidimètres pour grains de céréales et graines oléagineuses",
+          "@c_titre_court": "Arrêté du 10 février 1993",
+          "@debut": "1993-03-13",
+          "@fin": "2010-08-06",
+          "@id_txt": "LEGITEXT000006081377"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Réparation par un réparateur agréé.",
+            "@debut": "1993-03-13",
+            "@fin": "2010-08-06",
+            "@id": "LEGISCTA000006083552"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000727773",
+      "@date_publi": "1993-03-13",
+      "@date_signature": "1993-02-10",
+      "@nature": "ARRETE",
+      "@nor": "INDB9300136A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-13",
+          "@etat": "ABROGE",
+          "@fin": "2010-08-06",
+          "@id": "LEGIARTI000006277851",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La réparation des humidimètres est effectuée par des réparateurs (français ou ressortissants d'un autre Etat membre) agréés dans les conditions prévues au titre X du décret du 6 mai 1988 susvisé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°88-682 du 6 mai 1988",
+        "@cidtexte": "JORFTEXT000000501461",
+        "@datesignatexte": "1988-05-06",
+        "@id": "JORFTEXT000000501461",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDD8800287D",
+        "@numtexte": "88-682",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 1er juillet 2010 - art. 24",
+        "@cidtexte": "JORFTEXT000022668079",
+        "@datesignatexte": "2010-07-01",
+        "@id": "LEGIARTI000022669932",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECEI1016856A",
+        "@num": "24",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

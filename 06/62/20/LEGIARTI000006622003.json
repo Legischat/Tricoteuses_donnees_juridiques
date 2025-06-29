@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006622003",
+      "ANCIEN_ID": "RGHDHXXXXXX002AAXXXXXXBB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/20/LEGIARTI000006622003.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2 bis",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-01-01",
+        "DATE_FIN": "2009-10-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 12 février 1999 relatif à l'appellation d'origine contrôlée « Cabardès »",
+          "@c_titre_court": "Décret du 12 février 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000759552"
+        },
+        {
+          "#text": "Décret du 12 février 1999 relatif à l'appellation d'origine contrôlée \"Cabardès\"",
+          "@c_titre_court": "Décret du 12 février 1999",
+          "@debut": "1999-02-16",
+          "@fin": "2009-10-31",
+          "@id_txt": "LEGITEXT000005627499"
+        }
+      ],
+      "@cid": "JORFTEXT000000759552",
+      "@date_publi": "1999-02-16",
+      "@date_signature": "1999-02-12",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "DECRET",
+      "@nor": "ECOC9800182D"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-06-24",
+          "@etat": "MODIFIE",
+          "@fin": "2007-01-01",
+          "@id": "LEGIARTI000006622002",
+          "@num": "2 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2009-10-31",
+          "@id": "LEGIARTI000006622003",
+          "@num": "2 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour avoir droit à l'appellation contrôlée \"Cabardès\", les vins doivent être issus de vendanges récoltées dans l'aire de production visée à l'article 2, délimitée par parcelles ou partie de parcelles, telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national de l'origine et de la qualité lors de la réunion des 4 et 5 novembre 1998, sur proposition de la commission d'experts désignée à cet effet.<br/>\n<br/>   Les plans de délimitation sont déposés à la mairie des communes intéressées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1999-02-12 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 2006-11 2006-01-05 art. 73 IV, VI JORF 6 janvier 2006 en vigueur au plus tard le 1er janvier 2007",
+        "@cidtexte": "JORFTEXT000000264992",
+        "@datesignatexte": "2006-01-05",
+        "@id": "JORFTEXT000000264992",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX0500091L",
+        "@numtexte": "2006-11",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2009-1338 du 28 octobre 2009 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000021214105",
+        "@datesignatexte": "2009-10-28",
+        "@id": "LEGIARTI000021227881",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRT0919706D",
+        "@num": "2",
+        "@numtexte": "2009-1338",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

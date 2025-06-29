@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006207048",
+      "ANCIEN_ID": "PUHP9XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/70/LEGIARTI000006207048.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2001-1385 du 31 décembre 2001 modifiant le décret n° 91-1064 du 14 octobre 1991 modifié instituant la nouvelle bonification indiciaire dans les services du ministère de la justice",
+          "@c_titre_court": "Décret n°2001-1385 du 31 décembre 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000770859"
+        },
+        {
+          "#text": "Décret n°2001-1385 du 31 décembre 2001 modifiant le décret n° 91-1064 du 14 octobre 1991 modifié instituant la nouvelle bonification indiciaire dans les services du ministère de la justice.",
+          "@c_titre_court": "Décret n°2001-1385 du 31 décembre 2001",
+          "@debut": "2002-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005632032"
+        }
+      ],
+      "@cid": "JORFTEXT000000770859",
+      "@date_publi": "2002-01-03",
+      "@date_signature": "2001-12-31",
+      "@ministere": "MINISTERE DE LA JUSTICE",
+      "@nature": "DECRET",
+      "@nor": "JUSG0160074D",
+      "@num": "2001-1385"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006207048",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001822216",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 91-1064 1991-10-14",
+        "@cidtexte": "JORFTEXT000000720940",
+        "@datesignatexte": "1991-10-14",
+        "@id": "JORFTEXT000000720940",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSG9160051D",
+        "@numtexte": "91-1064",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°91-1064 du 14 octobre 1991 - art. Annexe (M)",
+        "@cidtexte": "JORFTEXT000000720940",
+        "@datesignatexte": "1991-10-14",
+        "@id": "LEGIARTI000006467248",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSG9160051D",
+        "@num": "Annexe",
+        "@numtexte": "91-1064",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

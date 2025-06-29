@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006854159",
+      "ANCIEN_ID": "UPHGPXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/41/LEGIARTI000006854159.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-03-23",
+        "DATE_FIN": "1988-04-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-394 du 20 mars 1978 EMPLOI DES FIBRES D'AMIANTE POUR LE FLOCAGE DES BATIMENTS",
+          "@c_titre_court": "Décret n°78-394 du 20 mars 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518397"
+        },
+        {
+          "#text": "Décret n°78-394 du 20 mars 1978 relatif à l'emploi des fibres d'amiante pour le flocage des bâtiments",
+          "@c_titre_court": "Décret n°78-394 du 20 mars 1978",
+          "@debut": "1978-03-23",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062861"
+        }
+      ],
+      "@cid": "JORFTEXT000000518397",
+      "@date_publi": "1978-03-23",
+      "@date_signature": "1978-03-20",
+      "@nature": "DECRET",
+      "@num": "78-394"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-03-23",
+          "@etat": "ABROGE",
+          "@fin": "1988-04-30",
+          "@id": "LEGIARTI000006854159",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'interdiction édictée à l'article 1er s'applique à tous travaux de construction, ainsi qu'aux travaux d'aménagement, de transformation ou de modernisation exécutés sur des bâtiments existants.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°61-842 du 2 août 1961 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000684032",
+        "@datesignatexte": "1961-08-02",
+        "@id": "LEGIARTI000006846463",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "61-842",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°88-466 du 28 avril 1988 - art. 8 (V) JORF 30 avril 1988",
+        "@cidtexte": "JORFTEXT000000316211",
+        "@datesignatexte": "1988-04-28",
+        "@id": "LEGIARTI000006560235",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOZ8700030D",
+        "@num": "8",
+        "@numtexte": "88-466",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°88-466 du 28 avril 1988 - art. 8 (V)",
+        "@cidtexte": "JORFTEXT000000316211",
+        "@datesignatexte": "1988-04-28",
+        "@id": "LEGIARTI000006560235",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOZ8700030D",
+        "@num": "8",
+        "@numtexte": "88-466",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique 2",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006890305",
+      "ANCIEN_ID": "UTIMGXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/03/LEGIARTI000006890305.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-08-29",
+        "DATE_FIN": "1992-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 20 juillet 1990 relatif aux conditions d'agrément des centres de    contrôle des véhicules de plus de cinq ans d'âge",
+          "@c_titre_court": "Arrêté du 20 juillet 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000343295"
+        },
+        {
+          "#text": "Arrêté du 20 juillet 1990 relatif aux conditions d'agrément des centres de contrôle des véhicules de plus de cinq ans d'âge",
+          "@c_titre_court": "Arrêté du 20 juillet 1990",
+          "@debut": "1990-08-29",
+          "@fin": "1992-01-01",
+          "@id_txt": "LEGITEXT000006076414"
+        }
+      ],
+      "@cid": "JORFTEXT000000343295",
+      "@date_publi": "1990-08-29",
+      "@date_signature": "1990-07-20",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "ARRETE",
+      "@nor": "EQUS9001070A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-08-29",
+          "@etat": "ABROGE",
+          "@fin": "1992-01-01",
+          "@id": "LEGIARTI000006890305",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les agréments des centres de contrôle délivrés en application de l'article 2 de l'arrêté du 4 juillet 1985 susvisé et dont la validité arriverait à expiration sont prorogés jusqu'à la date de démarrage du contrôle périodique des voitures particulières, qui sera fixée par arrêté pris en application des articles R. 118 à R. 122 du code de la route.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-07-04 art. 2",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté 1985-07-04 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1991-06-18 art. 32 JORF 18 juillet 1991 en vigueur le 1er janvier 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R118 à R122",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route R118 à R122",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

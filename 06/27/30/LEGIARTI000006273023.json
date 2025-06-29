@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273023",
+      "ANCIEN_ID": "UEEABXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/30/LEGIARTI000006273023.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-07-19",
+        "DATE_FIN": "1991-04-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°76-1022 du 10 novembre 1976 RELATIVE A LA CREATION ET A LA PROTECTION DES JARDINS FAMILIAUX",
+          "@c_titre_court": "Loi n°76-1022 du 10 novembre 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000888301"
+        },
+        {
+          "#text": "Loi n°76-1022 du 10 novembre 1976 relative à la création et à la protection des jardins familiaux",
+          "@c_titre_court": "Loi n°76-1022 du 10 novembre 1976",
+          "@debut": "1976-11-11",
+          "@fin": "1991-04-17",
+          "@id_txt": "LEGITEXT000006068532"
+        }
+      ],
+      "@cid": "JORFTEXT000000888301",
+      "@date_publi": "1976-11-11",
+      "@date_signature": "1976-11-10",
+      "@nature": "LOI",
+      "@num": "76-1022"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-11-11",
+          "@etat": "MODIFIE",
+          "@fin": "1985-07-19",
+          "@id": "LEGIARTI000006273022",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-19",
+          "@etat": "ABROGE",
+          "@fin": "1991-04-17",
+          "@id": "LEGIARTI000006273023",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002480542",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les Sociétés d'aménagement foncier et d'établissement rural (S.A.F.E.R.) peuvent exercer, à la demande d'un des organismes de jardins familiaux visés aux articles 610 et 611 du code rural, et dans les conditions définies à l'article 7 de la loi n. 62-933 du 8 août 1962, leur droit de préemption en vue de l'acquisition de terrains destinés à la création ou à l'aménagement de jardins familiaux.<br/>\n<br/>   A la demande des organismes visés à l'alinéa précédent, les collectivités locales ou les établissements publics de coopération intercommunale compétents euvent également exercer pour le même objet leur droit de préemption, conformément aux dispositions en vigueur du code de l'urbanisme.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 610, 611",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 62-933 1962-08-08 art. 7",
+        "@cidtexte": "JORFTEXT000000313972",
+        "@datesignatexte": "1962-08-08",
+        "@id": "JORFTEXT000000313972",
+        "@naturetexte": "LOI",
+        "@numtexte": "62-933",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°85-729 du 18 juillet 1985 - art. 26 (V) JORF 19 juillet 1985",
+        "@cidtexte": "JORFTEXT000000874467",
+        "@datesignatexte": "1985-07-18",
+        "@id": "LEGIARTI000006820815",
+        "@naturetexte": "LOI",
+        "@num": "26",
+        "@numtexte": "85-729",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°91-363 du 15 avril 1991 - art. 2 (V) JORF 17 avril 1991",
+        "@cidtexte": "JORFTEXT000000526953",
+        "@datesignatexte": "1991-04-15",
+        "@id": "LEGIARTI000006600822",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9000116L",
+        "@num": "2",
+        "@numtexte": "91-363",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

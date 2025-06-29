@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006709018",
+      "ANCIEN_ID": "SPHPFXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/90/LEGIARTI000006709018.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1972-05-04",
+        "DATE_FIN": "1979-02-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°72-350 du 2 mai 1972 RELATIF AUX CONSEILS D'ADMINISTRATION DES ETABLISSEMENTS OU GROUPES D'ETABLISSEMENTS D'HOSPITALISATION PUBLICS",
+          "@c_titre_court": "Décret n°72-350 du 2 mai 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000329331"
+        },
+        {
+          "#text": "Décret n°72-350 du 2 mai 1972 relatif aux conseils d'administration des établissements ou groupes d'établissements d'hospitalisation publics.",
+          "@c_titre_court": "Décret n°72-350 du 2 mai 1972",
+          "@debut": "1972-05-04",
+          "@fin": "1992-04-03",
+          "@id_txt": "LEGITEXT000006061930"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre 1er : Composition des conseils d'administration",
+            "@debut": "1972-05-04",
+            "@fin": "1992-04-03",
+            "@id": "LEGISCTA000006104323"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000329331",
+      "@date_publi": "1972-05-04",
+      "@date_signature": "1972-05-02",
+      "@nature": "DECRET",
+      "@num": "72-350"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-05-04",
+          "@etat": "MODIFIE",
+          "@fin": "1979-02-15",
+          "@id": "LEGIARTI000006709018",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-15",
+          "@etat": "ABROGE",
+          "@fin": "1992-04-03",
+          "@id": "LEGIARTI000006709019",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Nul ne peut être membre d'un conseil d'administration d'un établissement d'hospitalisation public à plus d'un titre et, en outre :<br/>\n    1° S'il a personnellement ou par l'intermédiaire de son conjoint, de ses ascendants ou descendants en ligne directe, un intérêt direct ou indirect dans la gestion d'un établissement de soins privé.<br/>\n    2° S'il est fournisseur de biens ou de services, preneur de bail à ferme ou agent salarié de l'établissement. Toutefois, l'incompatibilité résultant de la qualité d'agent salarié n'est pas applicable.<br/>\n    a) Au président de la commission médicale consultative.<br/>\n    b) Au directeur de l'unité d'enseignement et de recherche ou au président du Comité de coordination de l'enseignement médical.<br/>\n    c) Aux membres élus par la commission médicale consultative et aux représentants des autres personnels titulaires de l'établissement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 70-1318 1970-12-31",
+        "@cidtexte": "JORFTEXT000000874228",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000874228",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1318",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°72-350 du 2 mai 1972 - art. 15 (Ab)",
+        "@cidtexte": "JORFTEXT000000329331",
+        "@datesignatexte": "1972-05-02",
+        "@id": "LEGIARTI000006709022",
+        "@naturetexte": "DECRET",
+        "@num": "15",
+        "@numtexte": "72-350",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

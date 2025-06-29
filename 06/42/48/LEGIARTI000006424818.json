@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006424818",
+      "ANCIEN_ID": "ACAXXXXXXXX5X00311UAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/48/LEGIARTI000006424818.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "311-19",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-07-01",
+        "DATE_FIN": "2021-08-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Des personnes",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089697"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VII : De la filiation",
+              "@debut": "1972-08-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117789"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Dispositions générales",
+                "@debut": "2006-07-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006136169"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 3 : De l'assistance médicale à la procréation",
+                  "@debut": "2006-07-01",
+                  "@fin": "2021-08-04",
+                  "@id": "LEGISCTA000006150522"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-07-30",
+          "@etat": "MODIFIE",
+          "@fin": "2006-07-01",
+          "@id": "LEGIARTI000006424817",
+          "@num": "311-19",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-01",
+          "@etat": "ABROGE",
+          "@fin": "2021-08-04",
+          "@id": "LEGIARTI000006424818",
+          "@num": "311-19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de procréation médicalement assistée avec tiers donneur, aucun lien de filiation ne peut être établi entre l'auteur du don et l'enfant issu de la procréation.<br/>\n<br/>   Aucune action en responsabilité ne peut être exercée à l'encontre du donneur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2021-1017 du 2 août 2021 - art. 6 (V)",
+        "@cidtexte": "JORFTEXT000043884384",
+        "@datesignatexte": "2021-08-02",
+        "@id": "LEGIARTI000043886083",
+        "@naturetexte": "LOI",
+        "@nortexte": "SSAX1917211L",
+        "@num": "6",
+        "@numtexte": "2021-1017",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1803-03-14",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application",
+        "@cidtexte": "JORFTEXT000000451869",
+        "@datesignatexte": "2005-07-04",
+        "@id": "JORFTEXT000000451869",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0500068R",
+        "@numtexte": "2005-759",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n°2005-759 du 4 juillet 2005 - art. 3 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006",
+        "@cidtexte": "JORFTEXT000000451869",
+        "@datesignatexte": "2005-07-04",
+        "@id": "LEGIARTI000006285053",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0500068R",
+        "@num": "3",
+        "@numtexte": "2005-759",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

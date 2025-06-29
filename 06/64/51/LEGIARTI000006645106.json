@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006645106",
+      "ANCIEN_ID": "SAAXXXXXXXX3X773D01AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/51/LEGIARTI000006645106.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "D773-1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1978-04-01",
+        "DATE_FIN": "1993-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets simples",
+            "@debut": "1973-08-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101374"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre VII : Dispositions particulières à certaines professions",
+              "@debut": "1973-11-23",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123863"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre VII : Concierges et employés d'immeubles à usage d'habitation, employés de maison",
+                "@debut": "1976-12-07",
+                "@fin": "2008-05-01",
+                "@id": "LEGISCTA000018518683"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre III : Assistantes maternelles",
+                  "@debut": "1978-04-01",
+                  "@fin": "1993-01-01",
+                  "@id": "LEGISCTA000006153929"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 1 : Dispositions générales.",
+                    "@debut": "1978-04-01",
+                    "@fin": "1993-01-01",
+                    "@id": "LEGISCTA000006169911"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-04-01",
+          "@etat": "PERIME",
+          "@fin": "1993-01-01",
+          "@id": "LEGIARTI000006645106",
+          "@num": "D773-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1976-12-07",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018518679",
+          "@num": "D773-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>    Sans préjudice des sommes et des fournitures destinées à l'entretien des enfants, la rémunération des assistantes maternelles visées à l'article 123-1 du code de la famille et de l'aide sociale ne peut être inférieure à deux fois le montant du salaire minimum de croissance par enfant et par jour, pour une durée de garde égale ou supérieure à huit heures ; pour une durée inférieure, la rémunération minimale est égale à un quart du salaire minimum de croissane par heure.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°78-473 du 29 mars 1978 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000338113",
+        "@datesignatexte": "1978-03-29",
+        "@id": "LEGIARTI000006664878",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "78-473",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la famille et de l'aide sociale. - art. 123-1 (M)",
+        "@cidtexte": "LEGITEXT000006072637",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006681249",
+        "@naturetexte": "CODE",
+        "@num": "123-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

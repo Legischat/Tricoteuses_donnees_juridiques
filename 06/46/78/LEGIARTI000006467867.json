@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006467867",
+      "ANCIEN_ID": "ACEBEXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/78/LEGIARTI000006467867.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1909-04-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 17 mars 1909 RELATIVE A LA VENTE ET AU NANTISSEMENT DES FONDS DE COMMERCE",
+          "@c_titre_court": "Loi du 17 mars 1909",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868418"
+        },
+        {
+          "#text": "Loi du 17 mars 1909 relative à la vente et au nantissement des fonds de commerce",
+          "@c_titre_court": "Loi du 17 mars 1909",
+          "@debut": "1909-04-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070989"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : Du nantissement des fonds de commerce",
+            "@debut": "1909-04-01",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006092478"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000868418",
+      "@date_publi": "1909-03-19",
+      "@date_signature": "1909-03-17",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1909-04-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006467867",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le rang des créanciers gagistes entre eux est déterminé par la date de leurs inscriptions. Les créanciers inscrits le même jour viennent en concurrence.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L142-5 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006221009",
+        "@naturetexte": "CODE",
+        "@num": "L142-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

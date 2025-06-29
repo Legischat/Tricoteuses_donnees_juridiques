@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006443782",
+      "ANCIEN_ID": "PEHTSXXXXXX023AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/37/LEGIARTI000006443782.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2001-09-01",
+        "DATE_FIN": "2004-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 2001-286 du 28 mars 2001 portant règlement général de la mention complémentaire",
+          "@c_titre_court": "Décret n°2001-286 du 28 mars 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000769531"
+        },
+        {
+          "#text": "Décret n°2001-286 du 28 mars 2001 portant règlement général de la mention complémentaire",
+          "@c_titre_court": "Décret n°2001-286 du 28 mars 2001",
+          "@debut": "2001-09-01",
+          "@fin": "2006-05-24",
+          "@id_txt": "LEGITEXT000005630810"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Dispositions transitoires.",
+            "@debut": "2001-09-01",
+            "@fin": "2006-05-24",
+            "@id": "LEGISCTA000006091150"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000769531",
+      "@date_publi": "2001-04-05",
+      "@date_signature": "2001-03-28",
+      "@ministere": "MINISTERE DE L'EDUCATION NATIONALE",
+      "@nature": "DECRET",
+      "@nor": "MENE0100492D",
+      "@num": "2001-286"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-09-01",
+          "@etat": "MODIFIE",
+          "@fin": "2004-09-01",
+          "@id": "LEGIARTI000006443782",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-09-01",
+          "@etat": "ABROGE",
+          "@fin": "2006-05-24",
+          "@id": "LEGIARTI000006443783",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de l'article 19 entrent en vigueur au 1er septembre 2002.<br/>\n<br/>   L'application des dispositions du titre III aux spécialités de mention complémentaire dont l'arrêté de création antérieur au présent décret n'est pas conforme à ses dispositions est soumise à l'intervention d'arrêtés du ministre chargé de l'éducation.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2001-286 du 28 mars 2001 - art. 19 (M)",
+        "@cidtexte": "JORFTEXT000000769531",
+        "@datesignatexte": "2001-03-28",
+        "@id": "LEGIARTI000006443776",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENE0100492D",
+        "@num": "19",
+        "@numtexte": "2001-286",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. D337-160 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006526942",
+        "@naturetexte": "CODE",
+        "@num": "D337-160",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

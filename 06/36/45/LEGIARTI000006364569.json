@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006364569",
+      "ANCIEN_ID": "MRH03XXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/45/LEGIARTI000006364569.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1965-08-03",
+        "DATE_FIN": "1982-05-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°64-251 du 14 mars 1964 ORGANISATION DES SERVICES DE L'ETAT DANS LES CIRCONSCRIPTIONS D'ACTION REGIONALE",
+          "@c_titre_court": "Décret n°64-251 du 14 mars 1964",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000327696"
+        },
+        {
+          "#text": "Décret n°64-251 du 14 mars 1964 relatif à l'organisation des services de l'Etat dans les circonscriptions d'action régionale.",
+          "@c_titre_court": "Décret n°64-251 du 14 mars 1964",
+          "@debut": "1964-03-20",
+          "@fin": "1982-05-11",
+          "@id_txt": "LEGITEXT000006061196"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "DES ATTRIBUTIONS DU PREFET CHARGE DE LA REGION.",
+            "@debut": "1964-03-20",
+            "@fin": "1982-07-11",
+            "@id": "LEGISCTA000006086189"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000327696",
+      "@date_publi": "1964-03-20",
+      "@date_signature": "1964-03-14",
+      "@nature": "DECRET",
+      "@num": "64-251"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-03-20",
+          "@etat": "MODIFIE",
+          "@fin": "1965-08-03",
+          "@id": "LEGIARTI000006364568",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1965-08-03",
+          "@etat": "ABROGE",
+          "@fin": "1982-05-11",
+          "@id": "LEGIARTI000006364569",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Les pouvoirs de décision des chefs de service régionaux des administrations civiles de l'Etat relatifs à l'élaboration et à la mise en oeuvre des programmes d'équipement public résultant de l'exécution du plan sont transférés au préfet de la région.<br/>\n<br/>\n<br/>       Pour l'avenir et sans préjudice des délégations antérieurement accordées dans l'ensemble des matières, à l'exception de celles qui sont énumérées à l'article 3 ci-dessus, seul le préfet de la région a qualité pour recevoir soit délégation des ministres chargés des administrations civiles de l'Etat, soit les pouvoirs de décisions nouveaux qui viendraient à être instaurés au profit d'autorités régionales.<br/>\n<br/>\n<br/>       Les dispositions des alinéas précédents ne concernent pas les pouvoirs exercés par les chefs de service régionaux des administrations civiles de l'Etat en qualité d'ordonnateur secondaire. Toutefois, les pouvoirs de ces chefs de service relatifs à la passation des marchés de l'Etat sont soumis aux dispositions des alinéas 1 et 2 ci-dessus.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°64-251 du 14 mars 1964 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000327696",
+        "@datesignatexte": "1964-03-14",
+        "@id": "LEGIARTI000006364560",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "64-251",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 82-390 1982-05-10 art. 43 JORF 11 mai 1982",
+        "@cidtexte": "JORFTEXT000000698706",
+        "@datesignatexte": "1982-05-10",
+        "@id": "JORFTEXT000000698706",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-390",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

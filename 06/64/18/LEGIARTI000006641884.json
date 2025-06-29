@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006641884",
+      "ANCIEN_ID": "RLIHLXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/18/LEGIARTI000006641884.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-05-10",
+        "DATE_FIN": "2003-01-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 avril 2001 abrogeant la liste des départements déclarés atteints par la rage",
+          "@c_titre_court": "Arrêté du 30 avril 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000756282"
+        },
+        {
+          "#text": "Arrêté du 30 avril 2001 abrogeant la liste des départements déclarés atteints par la rage",
+          "@c_titre_court": "Arrêté du 30 avril 2001",
+          "@debut": "2001-05-10",
+          "@fin": "2003-01-17",
+          "@id_txt": "LEGITEXT000005630947"
+        }
+      ],
+      "@cid": "JORFTEXT000000756282",
+      "@date_publi": "2001-05-10",
+      "@date_signature": "2001-04-30",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "ARRETE",
+      "@nor": "AGRG0100784A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-05-10",
+          "@etat": "ABROGE",
+          "@fin": "2003-01-17",
+          "@id": "LEGIARTI000006641884",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 22 avril 1998 fixant la liste des départements déclarés atteints par la rage et l'arrêté du 22 juillet 1999 modifiant la liste des départements déclarés atteints par la rage sont abrogés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1998-04-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1999-07-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2002-12-30 art. 1 JORF 17 janvier 2003",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

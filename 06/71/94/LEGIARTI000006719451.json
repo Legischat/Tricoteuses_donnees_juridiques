@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006719451",
+      "ANCIEN_ID": "AFGAAXXXXXX032AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/94/LEGIARTI000006719451.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "32",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1976-01-01",
+        "DATE_FIN": "1992-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "1992-01-01",
+          "@fin": "2006-04-01",
+          "@id_txt": "LEGITEXT000006072897"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : De la présentation et du paiement.",
+            "@debut": "1935-10-31",
+            "@fin": "2001-01-01",
+            "@id": "LEGISCTA000006104988"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072897",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1935-10-30",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1935-10-31",
+          "@etat": "MODIFIE",
+          "@fin": "1976-01-01",
+          "@id": "LEGIARTI000006719450",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1992-01-01",
+          "@id": "LEGIARTI000006719451",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006719452",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le tiré doit payer même après l'expiration du délai de présentation. Il doit aussi payer même si le chèque a été émis en violation de l'injonction prévue à l'article 65-3 ou de l'interdiction prévue à l'article 68 (alinéa 2).<br/>\n<br/>   Il n'est admis d'opposition au paiement du chèque par le tireur qu'au cas de perte du chèque, de règlement judiciaire ou de liquidation des biens du porteur.<br/>\n<br/>   Si, malgré cette défense, le tireur fait une opposition pour d'autres causes, le juge des référés, même dans le cas où une instance au principal est engagée, doit, sur la demande du porteur, ordonner la mainlevée de l'opposition.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret-loi 1935-10-30 art. 65-3, art. 68",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 75-4 1975-01-03 JORF 4 janvier 1975 rectificatif JORF 16 novembre 1975 en vigueur le 1er janvier 1976",
+        "@cidtexte": "JORFTEXT000000333973",
+        "@datesignatexte": "1975-01-03",
+        "@id": "JORFTEXT000000333973",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-4",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 75-4 1975-01-03 art. 12 *assimilation du vol à la perte en matière de chèques*",
+        "@cidtexte": "JORFTEXT000000333973",
+        "@datesignatexte": "1975-01-03",
+        "@id": "JORFTEXT000000333973",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-4",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

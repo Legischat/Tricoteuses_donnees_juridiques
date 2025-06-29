@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006784682",
+      "ANCIEN_ID": "SSIAQRXXXXX002AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/46/LEGIARTI000006784682.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-01-22",
+        "DATE_FIN": "2009-01-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 décembre 1986 relatif à la prise en charge du ticket modérateur pour le traitement d'une affection grave ne figurant pas sur la liste mentionnée au 3° de l'article L. 322-3 du code de la sécurité sociale",
+          "@c_titre_court": "Arrêté du 30 décembre 1986",
+          "@debut": "1987-01-22",
+          "@fin": "2009-01-23",
+          "@id_txt": "LEGITEXT000006073921"
+        }
+      ],
+      "@cid": "LEGITEXT000006073921",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-12-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-22",
+          "@etat": "ABROGE",
+          "@fin": "2009-01-23",
+          "@id": "LEGIARTI000006784682",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les départements d'outre-mer [*DOM*], les caisses générales de sécurité sociale exercent les attributions dévolues aux caisses primaires d'assurance maladie par le présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 14 janvier 2009 - art. 1",
+        "@cidtexte": "JORFTEXT000020133139",
+        "@datesignatexte": "2009-01-14",
+        "@id": "LEGIARTI000020134067",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SJSS0901019A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. L322-3 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006742482",
+        "@naturetexte": "CODE",
+        "@num": "L322-3",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

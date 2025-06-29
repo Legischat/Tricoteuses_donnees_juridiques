@@ -1,0 +1,142 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006304619",
+      "ANCIEN_ID": "FAAACGIXXXX0302AZXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/30/46/LEGIARTI000006304619.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "302 bis X",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1993-08-18",
+        "DATE_FIN": "1994-09-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre premier : Assiette et liquidation de l'impôt",
+            "@debut": "1952-02-14",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084232"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Première Partie : Impôts d'État",
+              "@debut": "1952-02-14",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006114494"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Taxes sur le chiffre d'affaires et taxes assimilées",
+                "@debut": "1978-12-30",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006133846"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre XI : Taxe forfaitaire sur les livraisons de postes émetteurs-récepteurs fonctionnant sur les canaux banalisés",
+                  "@debut": "1993-08-18",
+                  "@fin": "1999-12-31",
+                  "@id": "LEGISCTA000006147036"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-08-18",
+          "@etat": "MODIFIE",
+          "@fin": "1994-09-02",
+          "@id": "LEGIARTI000006304619",
+          "@num": "302 bis X",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-09-02",
+          "@etat": "ABROGE",
+          "@fin": "1999-12-31",
+          "@id": "LEGIARTI000006304620",
+          "@num": "302 bis X",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. Les livraisons en France de postes émetteurs-récepteurs fonctionnant sur les canaux banalisés, dits postes C.B., sont soumises au paiement d'une taxe forfaitaire de 250 F.<br/>\n<br/>   Ne sont pas assujettis à cette taxe les postes C.B. ayant au maximum 40 canaux, fonctionnant exclusivement en modulation angulaire avec une puissance en crête de modulation de 4 watts maximum.<br/>\n<br/>   II. La taxe est due par les fabricants, les importateurs ou les personnes qui effectuent des acquisitions intracommunautaires au sens du 3° du I de l'article 256 bis à raison des opérations visées au I qu'ils réalisent.<br/>\n<br/>   III. La taxe est constatée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 256 bis",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 93-1127 1993-09-24",
+        "@cidtexte": "JORFTEXT000000545997",
+        "@datesignatexte": "1993-09-24",
+        "@id": "JORFTEXT000000545997",
+        "@naturetexte": "DECRET",
+        "@nortexte": "BUDF9300032D",
+        "@numtexte": "93-1127",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 91-1323 1991-12-01 art. 40 Finances rectificative pour 1991 JORF 31 décembre 1991",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 92-1476 1992-12-31 art. 83 Finances rectificative pour 1992 JORF 5 janvier 1993",
+        "@cidtexte": "JORFTEXT000000179313",
+        "@datesignatexte": "1992-12-31",
+        "@id": "JORFTEXT000000179313",
+        "@naturetexte": "LOI",
+        "@nortexte": "BUDX9200212L",
+        "@numtexte": "92-1476",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

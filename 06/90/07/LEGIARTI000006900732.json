@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006900732",
+      "ANCIEN_ID": "AKEADXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/07/LEGIARTI000006900732.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1930-06-20",
+        "DATE_FIN": "1984-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 19 juin 1930 portant interdiction de l'exercice de la profession de banquier aux individus frappés de certaines condamnations et aux faillis non réhabilités",
+          "@c_titre_court": "Loi du 19 juin 1930",
+          "@debut": "1930-06-20",
+          "@fin": "1984-07-25",
+          "@id_txt": "LEGITEXT000006075119"
+        }
+      ],
+      "@cid": "LEGITEXT000006075119",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1930-06-19",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1930-06-20",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006900732",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Quiconque aura été condamné par application des dispositions de la présente loi ne pourra être employé à quelque titre que ce soit dans l'établissement qu'il exploitait, ou par la société qu'il dirigeait, administrait ou gérait, ou dont il avait la signature [*effets de l'interdiction*].<br/>\n<br/>   En cas d'infraction à cette interdiction, le délinquant et son employeur seront punis des peines portées au paragraphe 1er de l'article 3 ci-dessus, et le tribunal pourra ordonner la fermeture de l'établissement [*sanctions*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1930-06-09 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

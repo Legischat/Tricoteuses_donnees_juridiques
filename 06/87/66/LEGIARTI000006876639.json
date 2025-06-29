@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006876639",
+      "ANCIEN_ID": "AIIJEXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/66/LEGIARTI000006876639.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-12-04",
+        "DATE_FIN": "2002-09-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 novembre 1986 relatif au traitement par rayonnements ionisants de sang animal, de plasma et de cruor déshydratés",
+          "@c_titre_court": "Arrêté du 19 novembre 1986",
+          "@debut": "1986-12-04",
+          "@fin": "2002-09-07",
+          "@id_txt": "LEGITEXT000006074958"
+        }
+      ],
+      "@cid": "LEGITEXT000006074958",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-11-19",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-04",
+          "@etat": "ABROGE",
+          "@fin": "2002-09-07",
+          "@id": "LEGIARTI000006876639",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La surveillance exercée par les agents chargés du contrôle a notamment pour but de vérifier que la dose absorbée au cours du traitement répond aux dispositions de l'article 2 du présent arrêté et que les produits traités sont conditionnés conformément aux prescriptions du présent arrêté.<br/>\n<br/>   Toutefois, l'entreprise se chargeant de l'irradiation doit effectuer au moins une mesure directe de la dose absorbée lors de chaque opération d'irradiation (ou traitement effectué en continu sur un même lot, à une même dose absorbée).<br/>\n<br/>   Les résultats seront consignés dans un registre détenu par l'entreprise et tenu à la disposition des agents chargés du contrôle pendant une durée minimale de trois ans.<br/>\n<br/>   L'usage des sources installées sur les véhicules ne sera pas admis si les conditions de surveillance prévues au présent article sont difficilement réalisables.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-11-19 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 août 2002 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000410150",
+        "@datesignatexte": "2002-08-20",
+        "@id": "LEGIARTI000021244775",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC0200067A",
+        "@num": "4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

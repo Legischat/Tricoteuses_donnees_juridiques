@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006557505",
+      "ANCIEN_ID": "ADHHHXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/75/LEGIARTI000006557505.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-09-19",
+        "DATE_FIN": "1988-03-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-953 du 11 octobre 1973 RELATIF AU REMBOURSEMENT DES FRAIS DE PROPAGANDE ENGAGES PAR LES CANDIDATS AUX ELECTIONS DES CHAMBRES DE COMMERCE ET D'INDUSTRIE",
+          "@c_titre_court": "Décret n°73-953 du 11 octobre 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000875963"
+        },
+        {
+          "#text": "Décret n°73-953 du 11 octobre 1973 relatif au remboursement des frais de propagande engagés par les candidats aux élections des chambres de commerce et d'industrie",
+          "@c_titre_court": "Décret n°73-953 du 11 octobre 1973",
+          "@debut": "1973-10-13",
+          "@fin": "1988-03-30",
+          "@id_txt": "LEGITEXT000006062150"
+        }
+      ],
+      "@cid": "JORFTEXT000000875963",
+      "@date_publi": "1973-10-13",
+      "@date_signature": "1973-10-11",
+      "@nature": "DECRET",
+      "@num": "73-953"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-10-13",
+          "@etat": "MODIFIE",
+          "@fin": "1979-09-19",
+          "@id": "LEGIARTI000006557504",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-09-19",
+          "@etat": "ABROGE",
+          "@fin": "1988-03-30",
+          "@id": "LEGIARTI000006557505",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Une commission spéciale dénommée Commission d'organisation des élections est mise en place pour chaque chambre de commerce et d'industrie par le préfet, au plus tard le 1er octobre précédant le renouvellement triennal. En cas d'élections générales ou complémentaires, dans les conditions prévues par l'article 66 du décret du 3 août 1961 susvisé, la commission est mise en place au moins six semaines avant le scrutin.<br/>\n<br/>   La commission reçoit les demandes des candidats désirant bénéficier du remboursement institué par le présent texte et contrôle la mise en oeuvre de la procédure.<br/>\n<br/>   La commission assure l'expédition aux électeurs des instruments nécessaires au vote par correspondance et des documents et bulletins de vote que lui remettent les candidats. Elle pourvoit en bulletins les bureaux de vote et les services de la préfecture chargés de répondre aux demandes de vote par correspondance.<br/>\n<br/>   La commission vérifie les pièces justificatives produites par les candidats qui peuvent prétendre à remboursement après proclamation des résultats. Elle leur délivre l'attestation au vu de laquelle la chambre de commerce et d'industrie émet l'ordre de payer.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°61-923 du 3 août 1961 - art. 66 (M)",
+        "@cidtexte": "JORFTEXT000000680573",
+        "@datesignatexte": "1961-08-03",
+        "@id": "LEGIARTI000006556105",
+        "@naturetexte": "DECRET",
+        "@num": "66",
+        "@numtexte": "61-923",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°73-953 du 11 octobre 1973 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000875963",
+        "@datesignatexte": "1973-10-11",
+        "@id": "LEGIARTI000006557501",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "73-953",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-291 du 28 mars 1988 - art. 42 (Ab) JORF 30 mars 1988",
+        "@cidtexte": "JORFTEXT000000872323",
+        "@datesignatexte": "1988-03-28",
+        "@id": "LEGIARTI000006559930",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDB8800174D",
+        "@num": "42",
+        "@numtexte": "88-291",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

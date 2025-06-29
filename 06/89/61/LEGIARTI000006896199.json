@@ -1,0 +1,157 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006896199",
+      "ANCIEN_ID": "UXXXXXXXXXX128R002AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/61/LEGIARTI000006896199.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R*128-2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2004-01-01",
+        "DATE_FIN": "2004-06-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la construction et de l'habitation",
+          "@c_titre_court": "Code de la construction et de l'habitation.",
+          "@debut": "1977-03-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074096"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1977-03-10",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006112857"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Dispositions générales.",
+              "@debut": "1978-06-08",
+              "@fin": "2021-07-01",
+              "@id": "LEGISCTA000006132252"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Sécurité et protection contre l'incendie.",
+                "@debut": "1978-06-08",
+                "@fin": "2021-07-01",
+                "@id": "LEGISCTA000006145270"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre VIII : Sécurité des piscines.",
+                  "@debut": "2004-01-01",
+                  "@fin": "2021-07-01",
+                  "@id": "LEGISCTA000006160492"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074096",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2004-06-08",
+          "@id": "LEGIARTI000006896199",
+          "@num": "R*128-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-06-08",
+          "@etat": "TRANSFERE",
+          "@fin": "2019-09-01",
+          "@id": "LEGIARTI000006896200",
+          "@num": "R*128-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les maîtres d'ouvrage des piscines construites ou installées à partir du 1er janvier 2004 doivent les avoir pourvues avant la première mise en eau d'un dispositif de sécurité destiné à prévenir les noyades.<br/>\n<br/>   Ce dispositif doit être conforme soit aux normes françaises, soit aux normes ou aux spécifications techniques ou aux procédés de fabrication prévus dans les réglementations d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, assurant un niveau de sécurité équivalent. Les références de ces normes et réglementations sont publiées au Journal officiel de la République française.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Directive 98-34 CE 1998-06-22 (Parlement et Conseil)",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 78-622 1978-05-31 JORF 8 juin 1978",
+        "@cidtexte": "JORFTEXT000000702963",
+        "@datesignatexte": "1978-05-31",
+        "@id": "JORFTEXT000000702963",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-622",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2003-1389 du 31 décembre 2003 - art. 1 () JORF 1er janvier 2004",
+        "@cidtexte": "JORFTEXT000000248220",
+        "@datesignatexte": "2003-12-31",
+        "@id": "LEGIARTI000006227336",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUU0301752D",
+        "@num": "1",
+        "@numtexte": "2003-1389",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté du 21 août 2008 (V)",
+        "@cidtexte": "JORFTEXT000019386823",
+        "@datesignatexte": "2008-08-21",
+        "@id": "LEGITEXT000019388048",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECEC0820030A",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation. - art. D128-2, v. 0.1 (VD)",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000038966894",
+        "@naturetexte": "CODE",
+        "@num": "D128-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006274462",
+      "ANCIEN_ID": "FAEDBXXXXXX019AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/44/LEGIARTI000006274462.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°85-1403 du 30 décembre 1985 DE FINANCES POUR 1986",
+          "@c_titre_court": "Loi n°85-1403 du 30 décembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878230"
+        },
+        {
+          "#text": "Loi n° 85-1403 du 30 décembre 1985 de finances pour 1986 (1)",
+          "@c_titre_court": "Loi n° 85-1403 du 30 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068883"
+        }
+      ],
+      "@cid": "JORFTEXT000000878230",
+      "@date_publi": "1985-12-31",
+      "@date_signature": "1985-12-30",
+      "@nature": "LOI",
+      "@num": "85-1403"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006274462",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001104319",
+          "@num": "19",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I - Paragraphe modificateur<br/>\n<br/>   II - La majoration conjoncturelle de 8 p. 100 instituée par l'article 2 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983) au titre de l'impôt sur les grandes fortunes est reconduite en 1986.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 83-1179 1983-12-29 art. 2 Finances pour 1984",
+        "@cidtexte": "JORFTEXT000000319977",
+        "@datesignatexte": "1983-12-29",
+        "@id": "JORFTEXT000000319977",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-1179",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 85-1403 1985-12-30 Finances pour 1986 JORF 31 décembre 1985 en vigueur le 1er janvier 1986",
+        "@cidtexte": "JORFTEXT000000878230",
+        "@datesignatexte": "1985-12-30",
+        "@id": "JORFTEXT000000878230",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-1403",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 885 A (Ab)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006310869",
+        "@naturetexte": "CODE",
+        "@num": "885 A",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 885 U (Ab)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006310956",
+        "@naturetexte": "CODE",
+        "@num": "885 U",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

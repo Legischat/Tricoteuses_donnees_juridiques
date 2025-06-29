@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006699874",
+      "ANCIEN_ID": "SPH5MXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/98/LEGIARTI000006699874.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-07-22",
+        "DATE_FIN": "2004-08-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 94-612 du 20 juillet 1994 portant fixation du montant de la    contribution aux unions régionales de médecins exerçant à titre libéral",
+          "@c_titre_court": "Décret n°94-612 du 20 juillet 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000183545"
+        },
+        {
+          "#text": "Décret n°94-612 du 20 juillet 1994 portant fixation du montant de la contribution aux unions régionales de médecins exerçant à titre libéral",
+          "@c_titre_court": "Décret n°94-612 du 20 juillet 1994",
+          "@debut": "1994-07-22",
+          "@fin": "2004-08-08",
+          "@id_txt": "LEGITEXT000005616235"
+        }
+      ],
+      "@cid": "JORFTEXT000000183545",
+      "@date_publi": "1994-07-22",
+      "@date_signature": "1994-07-20",
+      "@ministere": "MINISTERE DES AFFAIRES SOCIALES, DE LA SANTE ET DE LA VILLE",
+      "@nature": "DECRET",
+      "@nor": "SPSS9401871D",
+      "@num": "94-612"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-07-22",
+          "@etat": "ABROGE",
+          "@fin": "2004-08-08",
+          "@id": "LEGIARTI000006699874",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de la contribution est fixé à 0,5 p. 100.<br/>\n<br/>   Toutefois, le montant de la contribution ne peut excéder 0,5 p. 100 d'un montant égal à douze fois la valeur mensuelle du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, appréciée au 1er janvier de chaque année.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 93-8 1993-01-04 art. 9",
+        "@cidtexte": "JORFTEXT000000727115",
+        "@datesignatexte": "1993-01-04",
+        "@id": "JORFTEXT000000727115",
+        "@naturetexte": "LOI",
+        "@nortexte": "SPSX9200085L",
+        "@numtexte": "93-8",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 2004-802 2004-07-29 art. 5 A JORF 8 août 2004",
+        "@cidtexte": "JORFTEXT000000787339",
+        "@datesignatexte": "2004-07-29",
+        "@id": "JORFTEXT000000787339",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0422530D",
+        "@numtexte": "2004-802",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. R4134-45 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006913373",
+        "@naturetexte": "CODE",
+        "@num": "R4134-45",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. R4134-45 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006913373",
+        "@naturetexte": "CODE",
+        "@num": "R4134-45",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. L241-3 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006741897",
+        "@naturetexte": "CODE",
+        "@num": "L241-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

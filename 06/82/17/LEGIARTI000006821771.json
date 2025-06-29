@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006821771",
+      "ANCIEN_ID": "UBHBGXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/17/LEGIARTI000006821771.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1978-02-17",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-171 du 26 janvier 1978 RELATIF AUX MODELES TYPE DE CONSTRUCTION (PROJET DE BATIMENT DEFINI AVANT TOUTE COMMERCIALISATION)",
+          "@c_titre_court": "Décret n°78-171 du 26 janvier 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000519439"
+        },
+        {
+          "#text": "Décret n°78-171 du 26 janvier 1978 pris pour l'application de l'article 5 de la loi 77-2 du 3 janvier 1977 sur l'architecture relatif aux modèles types de construction",
+          "@c_titre_court": "Décret n°78-171 du 26 janvier 1978",
+          "@debut": "1978-02-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062808"
+        }
+      ],
+      "@cid": "JORFTEXT000000519439",
+      "@date_publi": "1978-02-17",
+      "@date_signature": "1978-01-26",
+      "@nature": "DECRET",
+      "@num": "78-171"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-02-17",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006821771",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Un modèle type de construction est un projet de bâtiment défini avant toute commercialisation, au moyen de plans et documents descriptifs, et dont le ou les maîtres d'ouvrage, ainsi que le terrain sur lequel il pourra être édifié, ne sont pas connus au moment de la conception.<br/>\n    Une variante d'un modèle type est constituée dans les conditions définies à l'alinéa ci-dessus par adjonction, modification ou suppression d'éléments architecturaux caractéristiques de ce modèle.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°77-2 du 3 janvier 1977 - art. 5 (V)",
+        "@cidtexte": "JORFTEXT000000522423",
+        "@datesignatexte": "1977-01-03",
+        "@id": "LEGIARTI000006847396",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "77-2",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°78-171 du 26 janvier 1978 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000519439",
+        "@datesignatexte": "1978-01-26",
+        "@id": "LEGIARTI000006821772",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "78-171",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

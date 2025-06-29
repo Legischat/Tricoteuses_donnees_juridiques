@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006277271",
+      "ANCIEN_ID": "ANIDCXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/72/LEGIARTI000006277271.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-03-18",
+        "DATE_FIN": "1989-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 janvier 1988 FIXANT LE MONTANT DES TAXES DE VERIFICATION PRIMITIVE DES INSTRUMENTS DE MESURE",
+          "@c_titre_court": "Arrêté du 15 janvier 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000475066"
+        },
+        {
+          "#text": "Arrêté du 15 janvier 1988 fixant le montant des taxes de vérification primitive des instruments de mesure",
+          "@c_titre_court": "Arrêté du 15 janvier 1988",
+          "@debut": "1988-03-18",
+          "@fin": "1989-03-01",
+          "@id_txt": "LEGITEXT000006058083"
+        }
+      ],
+      "@cid": "JORFTEXT000000475066",
+      "@date_publi": "1988-02-18",
+      "@date_signature": "1988-01-15",
+      "@nature": "ARRETE",
+      "@nor": "INDA8800046A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-18",
+          "@etat": "ABROGE",
+          "@fin": "1989-03-01",
+          "@id": "LEGIARTI000006277271",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant des taxes de vérification primitive des instruments neufs ou réparés est fixé conformément au tableau annexé au présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-01-15 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1989-02-13 art. 2 JORF 22 février 1989 en vigueur le 1er mars 1989",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 61-854 1961-07-25",
+        "@cidtexte": "JORFTEXT000000313796",
+        "@datesignatexte": "1961-07-25",
+        "@id": "JORFTEXT000000313796",
+        "@naturetexte": "DECRET",
+        "@numtexte": "61-854",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

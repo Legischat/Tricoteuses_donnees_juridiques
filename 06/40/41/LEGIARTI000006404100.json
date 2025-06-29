@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006404100",
+      "ANCIEN_ID": "ABHAAXXXXXX039AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/41/LEGIARTI000006404100.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "39",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-01-01",
+        "DATE_FIN": "1986-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-1120 du 22 décembre 1967 SUR LE REGLEMENT JUDICIAIRE,LA LIQUIDATION DES BIENS ET LA FAILLITE PERSONNELLE",
+          "@c_titre_court": "Décret n°67-1120 du 22 décembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000499360"
+        },
+        {
+          "#text": "Décret n°67-1120 du 22 décembre 1967 sur le règlement judiciaire, la liquidation des biens et la faillite personnelle",
+          "@c_titre_court": "Décret n°67-1120 du 22 décembre 1967",
+          "@debut": "1968-01-01",
+          "@fin": "1986-01-01",
+          "@id_txt": "LEGITEXT000006061403"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Règlement judiciaire et liquidation des biens",
+            "@debut": "1968-01-01",
+            "@fin": "1986-01-01",
+            "@id": "LEGISCTA000006088625"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre III : Patrimoine du débiteur",
+              "@debut": "1968-01-01",
+              "@fin": "1986-01-01",
+              "@id": "LEGISCTA000006116980"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 3 : De l'inventaire.",
+                "@debut": "1968-01-01",
+                "@fin": "1986-01-01",
+                "@id": "LEGISCTA000006135746"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000499360",
+      "@date_publi": "1967-12-24",
+      "@date_signature": "1967-12-22",
+      "@nature": "DECRET",
+      "@num": "67-1120"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006404100",
+          "@num": "39",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le syndic assure sous sa responsabilité la garde des actions [*au porteur*] qui lui sont remises par les dirigeants sociaux, conformément à l'article 21 de la loi du 13 juillet 1967.<br/>\n<br/>   A défaut de remise volontaire, le syndic invite les dirigeants sociaux à procéder au dépôt des actions entre ses mains.<br/>\n<br/>   Le syndic dresse un état de ces actions et délivre aux dirigeants un certificat de dépôt pour leur permettre de participer aux assemblées de la personne morale.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°67-563 du 13 juillet 1967 - art. 21 (Ab)",
+        "@cidtexte": "JORFTEXT000000878028",
+        "@datesignatexte": "1967-07-13",
+        "@id": "LEGIARTI000006398378",
+        "@naturetexte": "LOI",
+        "@num": "21",
+        "@numtexte": "67-563",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°67-1120 du 22 décembre 1967 - art. 40 (Ab)",
+        "@cidtexte": "JORFTEXT000000499360",
+        "@datesignatexte": "1967-12-22",
+        "@id": "LEGIARTI000006404113",
+        "@naturetexte": "DECRET",
+        "@num": "40",
+        "@numtexte": "67-1120",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°85-1388 du 27 décembre 1985 - art. 196 (Ab) JORF 29 décembre 1985 en vigueur le 1er janvier 1986",
+        "@cidtexte": "JORFTEXT000000688577",
+        "@datesignatexte": "1985-12-27",
+        "@id": "LEGIARTI000006409258",
+        "@naturetexte": "DECRET",
+        "@num": "196",
+        "@numtexte": "85-1388",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

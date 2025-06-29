@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006481670",
+      "ANCIEN_ID": "ACHBLXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/16/LEGIARTI000006481670.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1995-02-17",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 95-162 du 15 février 1995 modifiant le décret no 67-223 du 17 mars    1967 pris pour l'application de la loi no 65-557 du 10 juillet 1965 fixant le    statut de la copropriété des immeubles bâtis",
+          "@c_titre_court": "Décret n°95-162 du 15 février 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000551520"
+        },
+        {
+          "#text": "Décret n°95-162 du 15 février 1995 modifiant le décret n° 67-223 du 17 mars 1967 pris pour l'application de la loi n° 65-557 du 10 juillet 1965 fixant le statut de la copropriété des immeubles bâtis",
+          "@c_titre_court": "Décret n°95-162 du 15 février 1995",
+          "@debut": "1995-02-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005617800"
+        }
+      ],
+      "@cid": "JORFTEXT000000551520",
+      "@date_publi": "1995-02-17",
+      "@date_signature": "1995-02-15",
+      "@ministere": "MINISTERE DE LA JUSTICE",
+      "@nature": "DECRET",
+      "@nor": "JUSC9520098D",
+      "@num": "95-162"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-02-17",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006481670",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 57 du décret du 17 mars 1967 susvisé est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 65-557 1965-07-10",
+        "@cidtexte": "JORFTEXT000000880200",
+        "@datesignatexte": "1965-07-10",
+        "@id": "JORFTEXT000000880200",
+        "@naturetexte": "LOI",
+        "@numtexte": "65-557",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°67-223 du 17 mars 1967 - art. 57 (M)",
+        "@cidtexte": "JORFTEXT000000305770",
+        "@datesignatexte": "1967-03-17",
+        "@id": "LEGIARTI000006488833",
+        "@naturetexte": "DECRET",
+        "@num": "57",
+        "@numtexte": "67-223",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°67-223 du 17 mars 1967 - art. 57 (Ab)",
+        "@cidtexte": "JORFTEXT000000305770",
+        "@datesignatexte": "1967-03-17",
+        "@id": "LEGIARTI000006488834",
+        "@naturetexte": "DECRET",
+        "@num": "57",
+        "@numtexte": "67-223",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

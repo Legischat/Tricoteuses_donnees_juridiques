@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006638558",
+      "ANCIEN_ID": "RLIAHXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/85/LEGIARTI000006638558.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-10-18",
+        "DATE_FIN": "2013-03-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 mars 1989 PORTANT APPLICATION DU DECRET 861037 DU 15-09-1986 RELATIF A LA COMMERCIALISATION DES PRODUITS ET SUBSTANCES DESTINES A L'ALIMENTATION ANIMALE",
+          "@c_titre_court": "Arrêté du 16 mars 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000691364"
+        },
+        {
+          "#text": "Arrêté du 16 mars 1989 portant application du décret n° 86-1037 du 15 septembre 1986 relatif aux produits et substances destinés à l'alimentation animale",
+          "@c_titre_court": "Arrêté du 16 mars 1989",
+          "@debut": "2003-10-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006058896"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Dispositions particulières concernant la commercialisation des aliments composés en préemballages ou récipients non fermés.",
+            "@debut": "2003-10-18",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006100741"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000691364",
+      "@date_publi": "1989-04-08",
+      "@date_signature": "1989-03-16",
+      "@nature": "ARRETE",
+      "@nor": "ECOC8900020A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-10-18",
+          "@etat": "ABROGE",
+          "@fin": "2013-03-02",
+          "@id": "LEGIARTI000006638558",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lors de la commercialisation des aliments composés dans les conditions visées à l'article 6 ci-dessus, les indications d'étiquetage doivent figurer sur un document d'accompagnement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1989-03-16 art. 6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2003-10-08 art. 6 JORF 18 octobre 2003",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 86-1037 1986-09-15",
+        "@cidtexte": "JORFTEXT000000312351",
+        "@datesignatexte": "1986-09-15",
+        "@id": "JORFTEXT000000312351",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-1037",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 12 février 2013 - art. 1",
+        "@cidtexte": "JORFTEXT000027120068",
+        "@datesignatexte": "2013-02-12",
+        "@id": "LEGIARTI000027120550",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ESSC1304010A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006657615",
+      "ANCIEN_ID": "SEECHXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/76/LEGIARTI000006657615.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1956-03-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°56-332 du 27 mars 1956 REGIME DES CONGES ANNUELS PAYES",
+          "@c_titre_court": "Loi n°56-332 du 27 mars 1956",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692216"
+        },
+        {
+          "#text": "Loi n° 56-332 du 27 mars 1956 MODIFIANT LE REGIME DES CONGES ANNUELS PAYES.",
+          "@c_titre_court": "Loi n° 56-332 du 27 mars 1956",
+          "@debut": "1956-03-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068157"
+        }
+      ],
+      "@cid": "JORFTEXT000000692216",
+      "@date_publi": "1956-03-31",
+      "@date_signature": "1956-03-27",
+      "@nature": "LOI",
+      "@num": "56-332"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-03-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006657615",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de la présente loi sont applicables aux congés acquis au cours de la période de référence 1955-1956 telle qu'elle est définie par les alinéas 7 et 8 de l'article g du livre II du code du travail. Il n'est dû toutefois aucun rappel aux salariés qui, antérieurement à la date de promulgation de la loi, ont perçu une indemnité calculée suivant les prescriptions de l'article 54 k du même livre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Circulaire 4 1956-04-09",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi 56-332 1956-03-27",
+        "@cidtexte": "JORFTEXT000000692216",
+        "@datesignatexte": "1956-03-27",
+        "@id": "JORFTEXT000000692216",
+        "@naturetexte": "LOI",
+        "@numtexte": "56-332",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 56-332 1956-03-27 JORF 31 mars 1956 rectificatif JORF 14 avril 1956",
+        "@cidtexte": "JORFTEXT000000692216",
+        "@datesignatexte": "1956-03-27",
+        "@id": "JORFTEXT000000692216",
+        "@naturetexte": "LOI",
+        "@numtexte": "56-332",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code du travail 2054 G, 2054 K",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

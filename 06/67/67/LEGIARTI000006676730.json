@@ -1,0 +1,75 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006676730",
+      "ANCIEN_ID": "SHIB5XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/67/LEGIARTI000006676730.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-05-22",
+        "DATE_FIN": "2008-04-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 mai 1984 fixant les garanties d'hygiène, de technique et de sécurité dans les salles de judo et d'aïkido.",
+          "@c_titre_court": "Arrêté du 10 mai 1984",
+          "@debut": "1984-05-22",
+          "@fin": "2008-04-30",
+          "@id_txt": "LEGITEXT000006072399"
+        }
+      ],
+      "@cid": "LEGITEXT000006072399",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-05-10",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-05-22",
+          "@etat": "ABROGE",
+          "@fin": "2008-04-30",
+          "@id": "LEGIARTI000006676730",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En application de l'article 3 de l'arrêté du 3 janvier 1966 susvisé, le présent arrêté fixe les garanties particulières d'hygiène, de technique et de sécurité des salles où sont pratiqués le judo et l'aïkido.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1966-01-03 ART. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 28 février 2008 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000018730866",
+        "@datesignatexte": "2008-02-28",
+        "@id": "LEGIARTI000018732063",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SJSV0805704A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

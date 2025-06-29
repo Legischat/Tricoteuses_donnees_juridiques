@@ -1,0 +1,156 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006308253",
+      "ANCIEN_ID": "FAAACGIXXXX0179AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/30/82/LEGIARTI000006308253.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "179",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1982-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "ASSIETTE ET LIQUIDATION DE L'IMPOT",
+            "@debut": "1959-01-09",
+            "@fin": "1982-12-30",
+            "@id": "LEGISCTA000006084250"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "IMPOTS D'ETAT",
+              "@debut": "1967-12-29",
+              "@fin": "1982-12-30",
+              "@id": "LEGISCTA000006114499"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "IMPOTS DIRECTS ET TAXES ASSIMILEES",
+                "@debut": "1971-01-03",
+                "@fin": "1990-06-15",
+                "@id": "LEGISCTA000006133863"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "IMPOT SUR LE REVENU",
+                  "@debut": "1979-07-01",
+                  "@fin": "1990-06-15",
+                  "@id": "LEGISCTA000006147114"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "TAXATION D'OFFICE.",
+                    "@debut": "1979-07-01",
+                    "@fin": "1982-01-01",
+                    "@id": "LEGISCTA000006162782"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-04-30",
+          "@etat": "MODIFIE",
+          "@fin": "1979-07-01",
+          "@id": "LEGIARTI000048196715",
+          "@num": "179",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "TRANSFERE",
+          "@fin": "1982-01-01",
+          "@id": "LEGIARTI000006308253",
+          "@num": "179",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Est taxé d'office à l'impôt sur le revenu tout contribuable qui n'a pas souscrit, dans le délai légal, la déclaration de son revenu global prévue à l'article 170.</p>\n<br/>\n<p>Il en est de même, sous réserve des dispositions particulières relatives au mode de détermination des bénéfices industriels et commerciaux, des bénéfices agricoles et des bénéfices non commerciaux lorsque le contribuable s'est abstenu de répondre aux demandes d'éclaircissements ou de justifications de l'administration.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 170",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CGI 288 (application en matière de taxes sur le chiffre d'affaires : TVA ...)",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret n° 81-859 du 15 septembre 1981 - art. 2",
+        "@cidtexte": "JORFTEXT000000701292",
+        "@datesignatexte": "1981-09-15",
+        "@id": "LEGIARTI000006272083",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "81-859",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      },
+      {
+        "#text": "EDITION 1979-07-01",
+        "@sens": "source",
+        "@typelien": "HISTO"
+      },
+      {
+        "#text": "Livre des procédures fiscales L66 (1er al. du CGI 179)",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Livre des procédures fiscales L69 (2è al. du CGI 179)",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

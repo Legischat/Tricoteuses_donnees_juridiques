@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006852753",
+      "ANCIEN_ID": "UPHBQXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/27/LEGIARTI000006852753.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-01-18",
+        "DATE_FIN": "1987-12-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°77-1554 du 28 décembre 1977 RELATIF A L'INTERDICTION DU DEVERSEMENT DE CERTAINS PRODUITS DETERGENTS DANS LES EAUX SUPERFICIELLES,SOUTERRAINES ET DE LA MER.",
+          "@c_titre_court": "Décret n°77-1554 du 28 décembre 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000331299"
+        },
+        {
+          "#text": "Décret n°77-1554 du 28 décembre 1977 relatif à l'interdiction du déversement de certains produits détergent dans les eaux superficielles, souterraines et de la mer.",
+          "@c_titre_court": "Décret n°77-1554 du 28 décembre 1977",
+          "@debut": "1978-01-18",
+          "@fin": "1987-12-30",
+          "@id_txt": "LEGITEXT000006062634"
+        }
+      ],
+      "@cid": "JORFTEXT000000331299",
+      "@date_publi": "1978-01-18",
+      "@date_signature": "1977-12-28",
+      "@nature": "DECRET",
+      "@num": "77-1554"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-01-18",
+          "@etat": "ABROGE",
+          "@fin": "1987-12-30",
+          "@id": "LEGIARTI000006852753",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   On entend par détergent, au sens du présent décret, tout produit dont la composition a été spécialement étudiée pour concourir au développement des phénomènes de détergence et dont les composants essentiels sont des agents de surface appartenant à l'une des catégories suivantes : anioniques, cationiques, ampholytes et non ioniques [*définition*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°64-1245 du 16 décembre 1964 - art. 6 (M)",
+        "@cidtexte": "JORFTEXT000000509753",
+        "@datesignatexte": "1964-12-16",
+        "@id": "LEGIARTI000006846611",
+        "@naturetexte": "LOI",
+        "@num": "6",
+        "@numtexte": "64-1245",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°77-1554 du 28 décembre 1977 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000331299",
+        "@datesignatexte": "1977-12-28",
+        "@id": "LEGIARTI000006852754",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "77-1554",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°87-1055 du 24 décembre 1987 - art. 5 (Ab) JORF 30 décembre 1987",
+        "@cidtexte": "JORFTEXT000000882666",
+        "@datesignatexte": "1987-12-24",
+        "@id": "LEGIARTI000006858575",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ENVP8700275D",
+        "@num": "5",
+        "@numtexte": "87-1055",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

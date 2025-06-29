@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006633482",
+      "ANCIEN_ID": "ADIUXXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/34/LEGIARTI000006633482.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-01-17",
+        "DATE_FIN": "1985-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 janvier 1985 relatif aux tarifs des transports, effectués par des véhicules sanitaires terrestres privés agréés",
+          "@c_titre_court": "Arrêté du 16 janvier 1985",
+          "@debut": "1985-01-17",
+          "@fin": "1985-12-31",
+          "@id_txt": "LEGITEXT000006071868"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Tarifs limites des véhicules sanitaires légers (V.S.I.).",
+            "@debut": "1985-01-17",
+            "@fin": "1985-12-31",
+            "@id": "LEGISCTA000006100294"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071868",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-01-16",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-17",
+          "@etat": "PERIME",
+          "@fin": "1985-12-31",
+          "@id": "LEGIARTI000006633482",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le tarif limite des postes, forfait départemental ou minimum de perception et tarif kilométrique départemental correspondant à la structure de tarification prévue en annexe 3 du présent arrêté, s'établit comme suit :<br/>\n      A - Forfait départemental.<br/>\n    Selon la zone, telle que définie en annexe 1 au présent arrêté, dans laquelle se situe le siège de l'entreprise :<br/>\n    Zone A : 53,90 F ;<br/>\n    Zone B : 53,30 F ;<br/>\n    Zone C : 49,80 F ;<br/>\n    Zone D : 47,10 F.<br/>\n      B - Tarif kilométrique.<br/>\n    Tarif normal : 3,80 F<br/>\n    Tarif réduit : 3,05 F.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2/A 1985-01-16 BOCC n° 1, 17 janvier 1985",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 2/A 1985-01-16 annexe I, annexe III",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 70-615 1970-07-10",
+        "@cidtexte": "JORFTEXT000000321628",
+        "@datesignatexte": "1970-07-10",
+        "@id": "JORFTEXT000000321628",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-615",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

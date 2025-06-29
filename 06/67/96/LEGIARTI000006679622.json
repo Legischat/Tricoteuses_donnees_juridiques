@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006679622",
+      "ANCIEN_ID": "SHIMNXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/96/LEGIARTI000006679622.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1993-03-17",
+        "DATE_FIN": "1993-06-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 mars 1993 SOUMETTANT CERTAINS EQUIPEMENTS DE TRAVAIL A L'OBLIGATION DE FAIRE L'OBJET DES VERIFICATIONS GENERALES PERIODIQUES PREVUES A L'ART. R233-11 DU CODE DU TRAVAIL",
+          "@c_titre_court": "Arrêté du 5 mars 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874070"
+        },
+        {
+          "#text": "Arrêté du 5 mars 1993 soumettant certains équipements de travail à l'obligation de faire l'objet des vérifications générales périodiques prévues à l'article R. 233-11 du code du travail",
+          "@c_titre_court": "Arrêté du 5 mars 1993",
+          "@debut": "1993-03-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060118"
+        }
+      ],
+      "@cid": "JORFTEXT000000874070",
+      "@date_publi": "1993-03-17",
+      "@date_signature": "1993-03-05",
+      "@nature": "ARRETE",
+      "@nor": "TEFT9300286A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-17",
+          "@etat": "TRANSFERE",
+          "@fin": "1993-06-15",
+          "@id": "LEGIARTI000006679622",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-06-15",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006679623",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le directeur des relations du travail au ministère du travail, de l'emploi et de la formation professionnelle est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-03-05 art. 5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Arrêté 1993-06-04 art. 1 JORF 15 juin 1993",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      },
+      {
+        "#text": "Arrêté du 4 juin 1993 - art. 1",
+        "@cidtexte": "JORFTEXT000000530066",
+        "@datesignatexte": "1993-06-04",
+        "@id": "LEGIARTI000006932115",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TEFT9300637A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "MODIFIE"
+      },
+      {
+        "#text": "Code du travail - art. R233-11 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006807098",
+        "@naturetexte": "CODE",
+        "@num": "R233-11",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

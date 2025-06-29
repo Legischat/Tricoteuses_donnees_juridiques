@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006445657",
+      "ANCIEN_ID": "ACAXXXXXXXX5X02056AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/56/LEGIARTI000006445657.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2056",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1804-03-21",
+        "DATE_FIN": "2016-11-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : Des différentes manières dont on acquiert la propriété",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006090271"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre XV : Des transactions",
+              "@debut": "1804-03-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118164"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1804-03-21",
+          "@etat": "ABROGE",
+          "@fin": "2016-11-20",
+          "@id": "LEGIARTI000006445657",
+          "@num": "2056",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La transaction sur un procès terminé par un jugement passé en force de chose jugée, dont les parties ou l'une d'elles n'avaient point connaissance, est nulle.<br/>\n<br/>   Si le jugement ignoré des parties était susceptible d'appel, la transaction sera valable.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2016-1547 du 18 novembre 2016 - art. 10",
+        "@cidtexte": "JORFTEXT000033418805",
+        "@datesignatexte": "2016-11-18",
+        "@id": "LEGIARTI000033423938",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX1515639L",
+        "@num": "10",
+        "@numtexte": "2016-1547",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1804-03-20",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1804-03-20 promulguée le 30 mars 1804",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

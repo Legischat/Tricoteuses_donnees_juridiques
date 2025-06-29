@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006495122",
+      "ANCIEN_ID": "PJFANXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/51/LEGIARTI000006495122.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-08-02",
+        "DATE_FIN": "1963-08-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 45-1708 du 31 juillet 1945 sur le conseil d'Etat",
+          "@c_titre_court": "Ordonnance n° 45-1708 du 31 juillet 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339903"
+        },
+        {
+          "#text": "Ordonnance n°45-1708 du 31 juillet 1945 portant sur le Conseil d'Etat.",
+          "@c_titre_court": "Ordonnance n°45-1708 du 31 juillet 1945",
+          "@debut": "1945-08-02",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006069157"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Composition du Conseil d'Etat et statut de ses membres.",
+            "@debut": "1945-08-02",
+            "@fin": "2001-01-01",
+            "@id": "LEGISCTA000006094219"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000339903",
+      "@date_publi": "1945-08-01",
+      "@date_signature": "1945-07-31",
+      "@nature": "ORDONNANCE",
+      "@num": "45-1708"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-08-02",
+          "@etat": "ABROGE",
+          "@fin": "1963-08-01",
+          "@id": "LEGIARTI000006495122",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Article abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 63-767 1963-07-30 art. 32 JORF 1er août 1963",
+        "@cidtexte": "JORFTEXT000000676384",
+        "@datesignatexte": "1963-07-30",
+        "@id": "JORFTEXT000000676384",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-767",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°94-969 du 8 novembre 1994 - art. 32 (Ab)",
+        "@cidtexte": "JORFTEXT000000366737",
+        "@datesignatexte": "1994-11-08",
+        "@id": "LEGIARTI000006498154",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSD9430035D",
+        "@num": "32",
+        "@numtexte": "94-969",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

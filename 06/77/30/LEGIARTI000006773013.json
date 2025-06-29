@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006773013",
+      "ANCIEN_ID": "SSHBBMXXXXXA00AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/77/30/LEGIARTI000006773013.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-02-16",
+        "DATE_FIN": "2020-05-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 52-540 du 7 mai 1952 modifiant le décret n° 48-1709 du 5 novembre 1948 relatif au salaire ‎forfaitaire servant de base au calcul de cotisations des marins et des contributions des armateurs au ‎profit des caisses de l'établissement national des invalides de la marine",
+          "@c_titre_court": "Décret n° 52-540 du 7 mai 1952",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000502199"
+        },
+        {
+          "#text": "Décret n°52-540 du 7 mai 1952 modifiant le décret n° 48-1709 du 5 novembre 1948 relatif au salaire forfaitaire servant de base au calcul des cotisations des marins et des contributions des armateurs au profit des caisses de l'établissement national des invalides de la marine.",
+          "@c_titre_court": "Décret n°52-540 du 7 mai 1952",
+          "@debut": "1952-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060636"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "2003-02-16",
+            "@fin": "2020-05-31",
+            "@id": "LEGISCTA000006107226"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000502199",
+      "@date_publi": "1952-05-16",
+      "@date_signature": "1952-05-07",
+      "@nature": "DECRET",
+      "@num": "52-540"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-02-16",
+          "@etat": "ABROGE",
+          "@fin": "2020-05-31",
+          "@id": "LEGIARTI000006773013",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La présente annexe définit et explicite la formule permettant le calcul de l'unité de mesure \"V\" visée à l'article 1er du décret du 7 mai 1952 susvisé.<br/>\n<br/>   \"V\" : volume de référence applicable aux expressions \"tonneau\" ou \"tonneau de jauge brute\" telles qu'elles figurent dans le tableau des catégories de classement intégré à l'article 1er du décret n° 52-540 du 7 mai 1952 modifié.<br/>\n<br/>   Formule de calcul permettant de déterminer le volume de référence \"V\" :<br/>\n \"V\" :  Lo x la x Te / 2,83<br/>\n<br/>   Lo : longueur hors tout du navire.<br/>\n<br/>   la : largeur maximale du navire.<br/>\n<br/>   Te : tirant d'eau calculé à partir d'une formule théorique :<br/>\n (formule non reproduite)<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n° 52-540 du 7 mai 1952 - art. 1",
+        "@cidtexte": "JORFTEXT000000502199",
+        "@datesignatexte": "1952-05-07",
+        "@id": "LEGIARTI000006772994",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "52-540",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 97-1051 1997-11-18",
+        "@cidtexte": "JORFTEXT000000751904",
+        "@datesignatexte": "1997-11-18",
+        "@id": "JORFTEXT000000751904",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9600072L",
+        "@numtexte": "97-1051",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°2003-122 du 13 février 2003",
+        "@cidtexte": "JORFTEXT000000784361",
+        "@datesignatexte": "2003-02-13",
+        "@id": "JORFTEXT000000784361",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUB0201857D",
+        "@numtexte": "2003-122",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2020-649 du 28 mai 2020 - art. 7",
+        "@cidtexte": "JORFTEXT000041936743",
+        "@datesignatexte": "2020-05-28",
+        "@id": "LEGIARTI000041940141",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TRET1930429D",
+        "@num": "7",
+        "@numtexte": "2020-649",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

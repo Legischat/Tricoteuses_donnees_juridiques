@@ -1,0 +1,138 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006632291",
+      "ANCIEN_ID": "RIHIAXXXXXXB00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/22/LEGIARTI000006632291.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe 2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-01-17",
+        "DATE_FIN": "2016-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2004-66 du 14 janvier 2004 relatif au fonds de péréquation de l'électricité",
+          "@c_titre_court": "Décret n° 2004-66 du 14 janvier 2004",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000797557"
+        },
+        {
+          "#text": "Décret n°2004-66 du 14 janvier 2004 relatif au fonds de péréquation de l'électricité",
+          "@c_titre_court": "Décret n°2004-66 du 14 janvier 2004",
+          "@debut": "2004-01-17",
+          "@fin": "2016-01-01",
+          "@id_txt": "LEGITEXT000005765198"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "2004-01-17",
+            "@fin": "2016-01-01",
+            "@id": "LEGISCTA000006100255"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000797557",
+      "@date_publi": "2004-01-17",
+      "@date_signature": "2004-01-14",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE INDUSTRIE",
+      "@nature": "DECRET",
+      "@nor": "INDI0302207D",
+      "@num": "2004-66"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-01-17",
+          "@etat": "ABROGE",
+          "@fin": "2016-01-01",
+          "@id": "LEGIARTI000006632291",
+          "@num": "Annexe 2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le solde S, contributeur ou bénéficiaire, de la péréquation afférente à l'exploitation par un gestionnaire des réseaux publics de distribution d'électricité, visé à l'article 12, est établi conformément aux formules suivantes :<br/>\n<br/>   1. Cas d'un gestionnaire contributeur :<br/>\n S = alpha (R - C), si (R - C) < bêta R<br/>\n S = alpha bêta R, si (R - C > bêta R<br/>\n<br/>   2. Cas d'un gestionnaire bénéficiaire :<br/>\n S = epsilon (C - R)<br/>\n dans lesquelles :<br/>\n<br/>   R est le montant des recettes définies à l'article 10 ;<br/>\n<br/>   C est le montant des charges définies à l'article 11 et à l'annexe 1.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n° 2004-66 du 14 janvier 2004",
+        "@cidtexte": "JORFTEXT000000797557",
+        "@datesignatexte": "2004-01-14",
+        "@id": "JORFTEXT000000797557",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDI0302207D",
+        "@numtexte": "2004-66",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2004-66 du 14 janvier 2004 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000797557",
+        "@datesignatexte": "2004-01-14",
+        "@id": "LEGIARTI000006227941",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDI0302207D",
+        "@num": "10",
+        "@numtexte": "2004-66",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2004-66 du 14 janvier 2004 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000000797557",
+        "@datesignatexte": "2004-01-14",
+        "@id": "LEGIARTI000006227942",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDI0302207D",
+        "@num": "11",
+        "@numtexte": "2004-66",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2004-66 du 14 janvier 2004 - art. 12 (Ab)",
+        "@cidtexte": "JORFTEXT000000797557",
+        "@datesignatexte": "2004-01-14",
+        "@id": "LEGIARTI000006227943",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDI0302207D",
+        "@num": "12",
+        "@numtexte": "2004-66",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2015-1823 du 30 décembre 2015 - art. 6 (V)",
+        "@cidtexte": "JORFTEXT000031738398",
+        "@datesignatexte": "2015-12-30",
+        "@id": "LEGIARTI000031743213",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVR1510508D",
+        "@num": "6",
+        "@numtexte": "2015-1823",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

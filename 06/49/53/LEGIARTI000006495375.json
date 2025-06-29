@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006495375",
+      "ANCIEN_ID": "PJFAPXXXXXX039AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/53/LEGIARTI000006495375.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "39",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-02-04",
+        "DATE_FIN": "2021-09-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante",
+          "@c_titre_court": "Ordonnance n° 45-174 du 2 février 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517521"
+        },
+        {
+          "#text": "Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.",
+          "@c_titre_court": "Ordonnance n° 45-174 du 2 février 1945",
+          "@debut": "1958-12-23",
+          "@fin": "2021-09-30",
+          "@id_txt": "LEGITEXT000006069158"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre V : Dispositions diverses.",
+            "@debut": "1945-02-04",
+            "@fin": "2021-09-30",
+            "@id": "LEGISCTA000006094227"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000517521",
+      "@date_publi": "1945-02-04",
+      "@date_signature": "1945-02-02",
+      "@nature": "ORDONNANCE",
+      "@num": "45-174"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-02-04",
+          "@etat": "ABROGE",
+          "@fin": "2021-09-30",
+          "@id": "LEGIARTI000006495375",
+          "@num": "39",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute personne, toute oeuvre ou toute institution, même reconnue d'utilité publique, s'offrant à recueillir d'une façon habituelle des mineurs en application de la présente ordonnance, devra obtenir du préfet une habilitation spéciale dans des conditions qui seront fixées par décret. Cette disposition est également applicable aux personnes, aux oeuvres et aux institutions exerçant actuellement leur activité au titre de la loi du 22 juillet 1912.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1912-07-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-174 1945-02-02 JORF 4 février 1945 rectificatif JORF 6 et 21 mars 1945",
+        "@cidtexte": "JORFTEXT000000517521",
+        "@datesignatexte": "1945-02-02",
+        "@id": "JORFTEXT000000517521",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-174",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n° 2019-950 du 11 septembre 2019 - art. 7",
+        "@cidtexte": "JORFTEXT000039085102",
+        "@datesignatexte": "2019-09-11",
+        "@id": "LEGIARTI000039086609",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX1919677R",
+        "@num": "7",
+        "@numtexte": "2019-950",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la justice pénale des mineurs - art. L113-6 (VD)",
+        "@cidtexte": "LEGITEXT000039086952",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000039087973",
+        "@naturetexte": "CODE",
+        "@num": "L113-6",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

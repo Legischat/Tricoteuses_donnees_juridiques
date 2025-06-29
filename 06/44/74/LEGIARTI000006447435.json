@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006447435",
+      "ANCIEN_ID": "PEIJYXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/74/LEGIARTI000006447435.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-02-26",
+        "DATE_FIN": "1997-03-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 février 1989 ORGANISANT LA FORMATION DES DIRECTEURS D'ECOLE",
+          "@c_titre_court": "Arrêté du 24 février 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000478996"
+        },
+        {
+          "#text": "Arrêté du 24 février 1989 organisant la formation des directeurs d'école",
+          "@c_titre_court": "Arrêté du 24 février 1989",
+          "@debut": "1989-02-26",
+          "@fin": "1997-03-12",
+          "@id_txt": "LEGITEXT000006058815"
+        }
+      ],
+      "@cid": "JORFTEXT000000478996",
+      "@date_publi": "1989-02-26",
+      "@date_signature": "1989-02-24",
+      "@nature": "ARRETE",
+      "@nor": "MEND8900451A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-02-26",
+          "@etat": "ABROGE",
+          "@fin": "1997-03-12",
+          "@id": "LEGIARTI000006447435",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La formation prévue à l'article 5 du décret du 24 février 1989 susvisé pour les directeurs d'école nommés dans les conditions prévues par les articles 5 à 10 dudit décret est organisée conformément aux dispositions du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1997-03-04 art. 7 JORF 12 mars 1997",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 89-122 1989-02-24",
+        "@cidtexte": "JORFTEXT000000522364",
+        "@datesignatexte": "1989-02-24",
+        "@id": "JORFTEXT000000522364",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENF8900209D",
+        "@numtexte": "89-122",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 89-122 1989-02-24 art. 5 à 10",
+        "@cidtexte": "JORFTEXT000000522364",
+        "@datesignatexte": "1989-02-24",
+        "@id": "JORFTEXT000000522364",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENF8900209D",
+        "@numtexte": "89-122",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

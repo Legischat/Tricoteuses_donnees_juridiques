@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769021",
+      "ANCIEN_ID": "SSHAT1XXXXX005AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/90/LEGIARTI000006769021.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1952-07-01",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°52-645 du 3 juin 1952 RELATIF AU REGIME DES COTISATIONS DUES AUX CAISSES MUTUELLES D'ALLOCATIONS FAMILIALES AGRICOLES",
+          "@c_titre_court": "Décret n°52-645 du 3 juin 1952",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000328547"
+        },
+        {
+          "#text": "Décret n°52-645 du 3 juin 1952 relatif au régime des cotisations dues aux caisses mutuelles d'allocations familiales agricoles",
+          "@c_titre_court": "Décret n°52-645 du 3 juin 1952",
+          "@debut": "1952-07-01",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060638"
+        }
+      ],
+      "@cid": "JORFTEXT000000328547",
+      "@date_publi": "1952-06-05",
+      "@date_signature": "1952-06-03",
+      "@nature": "DECRET",
+      "@num": "52-645"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1952-07-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769021",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "A titre transitoire et au plus tard jusqu'au 1er janvier 1954 [*date limite*], les cotisations pourront en outre être assises [*assiette*] :<br/>\n    Soit sur le revenu cadastral des superficies exploitées tel qu'il résulte du tarif applicable avant le 1er janvier 1953, affecté le cas échéant des coefficients fixés par le comité départemental des prestations familiales agricoles ;<br/>\n    Soit sur une base résultant de l'affectation aux superficies exploitées du revenu moyen communal tel qu'il résulte du tarif applicable avant le 1er janvier 1953 et affecté, le cas échéant, de coefficients fixés par le comité départemental des prestations familiales agricoles ;<br/>\n    Soit, sauf opposition du ministre de l'agriculture, sur les superficies des exploitations et les natures des cultures pratiquées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°52-645 du 3 juin 1952 - art. 15 (Ab)",
+        "@cidtexte": "JORFTEXT000000328547",
+        "@datesignatexte": "1952-06-03",
+        "@id": "LEGIARTI000006769030",
+        "@naturetexte": "DECRET",
+        "@num": "15",
+        "@numtexte": "52-645",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

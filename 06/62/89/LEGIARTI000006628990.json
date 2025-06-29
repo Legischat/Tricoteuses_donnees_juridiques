@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006628990",
+      "ANCIEN_ID": "ADIRMXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/89/LEGIARTI000006628990.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-05-24",
+        "DATE_FIN": "1986-12-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 mai 1984 relatif aux prix de vente au détail des poissons frais de mer et d'eau douce",
+          "@c_titre_court": "Arrêté du 23 mai 1984",
+          "@debut": "1984-05-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071817"
+        }
+      ],
+      "@cid": "LEGITEXT000006071817",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-05-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-05-24",
+          "@etat": "ABROGE",
+          "@fin": "1986-12-03",
+          "@id": "LEGIARTI000006628990",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les prix d'achat hors taxes [*calcul*] auxquels s'appliquent les coefficients multiplicateurs s'entendent des prix d'achat tels qu'ils figurent sur les factures d'achat ou à défaut au registre mentionné à l'article 5, diminués des rabais, remises et ristournes.<br/>\n    Toutefois, il pourra être tenu compte avant application des coefficients multiplicateurs de la freinte (ou perte de poids) supportée dans la limite de 13 p. 100 [*pourcentage*], ainsi que des frais réels de transport lorsque celui-ci est réalisé par un tiers pour le compte du détaillant depuis le port de débarquement et lorsque ces frais font l'objet d'une facturation précise et individualisée lot par lot.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 51/A 1984-05-23 BOCC n° 9, 24 mai 1984",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 51/A 1984-05-23 art. 5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 86-62/A 1986-12-02 art. 1 BOCC n° 23, 3 décembre 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006622762",
+      "ANCIEN_ID": "RGHGAXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/27/LEGIARTI000006622762.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-01-01",
+        "DATE_FIN": "2011-10-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 24 août 1976 définissant l'appellation d'origine contrôlée \"Crémant d'Alsace\"",
+          "@c_titre_court": "Décret du 24 août 1976",
+          "@debut": "1976-08-28",
+          "@fin": "2011-10-29",
+          "@id_txt": "LEGITEXT000006071696"
+        }
+      ],
+      "@cid": "LEGITEXT000006071696",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1976-08-24",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-08-28",
+          "@etat": "MODIFIE",
+          "@fin": "2007-01-01",
+          "@id": "LEGIARTI000006622761",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2011-10-29",
+          "@id": "LEGIARTI000006622762",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le comité régional d'experts prévu à l'article 1er de l'ordonnance n° 45-2675 du 2 novembre 1945 susvisée fixe, chaque année, la date à partir de laquelle peuvent être vendangées les parcelles produisant des raisins utilisés pour la production de vin destiné à l'élaboration de crémant d'Alsace. Les viticulteurs intéressés sont tenus de souscrire, préalablement à la récolte, une déclaration précisant notamment la désignation et la surface des parcelles en cause. Cette déclaration est faite auprès des mairies intéressées. Un double en est adressé immédiatement au service local de l'Institut national de l'origine et de la qualité.<br/>\n<br/>   Cette déclaration entraine l'interdiction de la revendication de l'appellation contrôlée \"Vin d'Alsace\" ou \"Alsace\" pour la totalité des parcelles en cause.<br/>\n<br/>   La dénomination \"Vin destiné à l'élaboration de crémant d'Alsace\" ne peut être appliquée qu'à des vins provenant de raisins récoltés à maturité convenable.<br/>\n<br/>   Est considéré comme étant à maturité convenable tout lot unitaire de vendange présentant une richesse minimum en sucre de 136 grammes par litre de moût correspondant à un titre alcoométrique en puissance de 8°.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°45-2675 du 2 novembre 1945 - art. 1",
+        "@cidtexte": "JORFTEXT000000889113",
+        "@datesignatexte": "1945-11-02",
+        "@id": "LEGIARTI000006621097",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "1",
+        "@numtexte": "45-2675",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 2006-11 2006-01-05 art. 73 IV, VI JORF 6 janvier 2006 en vigueur au plus tard le 1er janvier 2007",
+        "@cidtexte": "JORFTEXT000000264992",
+        "@datesignatexte": "2006-01-05",
+        "@id": "JORFTEXT000000264992",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX0500091L",
+        "@numtexte": "2006-11",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2011-1373 du 25 octobre 2011 - art. 2",
+        "@cidtexte": "JORFTEXT000024720611",
+        "@datesignatexte": "2011-10-25",
+        "@id": "LEGIARTI000024721476",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRT1013691D",
+        "@num": "2",
+        "@numtexte": "2011-1373",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

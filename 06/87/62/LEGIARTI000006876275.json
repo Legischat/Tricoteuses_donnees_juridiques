@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006876275",
+      "ANCIEN_ID": "AIIITXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/62/LEGIARTI000006876275.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-03-09",
+        "DATE_FIN": "2011-01-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 décembre 1982 REGIME DES SANCTIONS DISCIPLINAIRES APPLICABLES AUX DEBITANTS DE TABAC",
+          "@c_titre_court": "Arrêté du 31 décembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000676858"
+        },
+        {
+          "#text": "Arrêté du 31 décembre 1982 relatif au régime des sanctions disciplinaires applicables aux débitants de tabac",
+          "@c_titre_court": "Arrêté du 31 décembre 1982",
+          "@debut": "1983-03-09",
+          "@fin": "2011-01-16",
+          "@id_txt": "LEGITEXT000006074954"
+        }
+      ],
+      "@cid": "JORFTEXT000000676858",
+      "@date_publi": "1983-03-09",
+      "@date_signature": "1982-12-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-03-09",
+          "@etat": "ABROGE",
+          "@fin": "2011-01-16",
+          "@id": "LEGIARTI000006876275",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 25 avril 1977 fixant le régime des peines applicables aux gérants de débit de tabac est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-04-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 9 décembre 2010 - art. 10",
+        "@cidtexte": "JORFTEXT000023428216",
+        "@datesignatexte": "2010-12-09",
+        "@id": "LEGIARTI000023430694",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BCRD1032328A",
+        "@num": "10",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

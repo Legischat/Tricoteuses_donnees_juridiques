@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006284301",
+      "ANCIEN_ID": "AREBDXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/43/LEGIARTI000006284301.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1991-01-03",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 90-1248 du 29 décembre 1990 portant diverses mesures d'harmonisation    entre le droit applicable dans les départements du Bas-Rhin, du Haut-Rhin et    de la Moselle et le droit applicable dans les autres départements  (1)",
+          "@c_titre_court": "Loi n°90-1248 du 29 décembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000170394"
+        },
+        {
+          "#text": "Loi n° 90-1248 du 29 décembre 1990 portant diverses mesures d'harmonisation entre le droit applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle et le droit applicable dans les autres départements",
+          "@c_titre_court": "Loi n° 90-1248 du 29 décembre 1990",
+          "@debut": "1991-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006077016"
+        }
+      ],
+      "@cid": "JORFTEXT000000170394",
+      "@date_publi": "1991-01-03",
+      "@date_signature": "1990-12-29",
+      "@nature": "LOI",
+      "@nor": "JUSX9010414L",
+      "@num": "90-1248"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-03",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006284301",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les inscriptions hypothécaires prises avant la promulgation de la présente loi restent soumises au régime qui leur était applicable antérieurement.<br/>\n<br/>   Toutefois, leur renouvellement est soumis aux dispositions résultant de l'article 8 de la présente loi modifiant l'article 63 de la loi du 1er juin 1924 précitée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1924-06-01 art. 63",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 90-1248 1990-12-29 art. 8",
+        "@cidtexte": "JORFTEXT000000170394",
+        "@datesignatexte": "1990-12-29",
+        "@id": "JORFTEXT000000170394",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9010414L",
+        "@numtexte": "90-1248",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

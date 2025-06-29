@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888493",
+      "ANCIEN_ID": "UTIGGXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/84/LEGIARTI000006888493.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-05-30",
+        "DATE_FIN": "1987-11-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 juin 1971 FEUX SPECIAUX DES VEHICULES D'INTERVENTION URGENTE",
+          "@c_titre_court": "Arrêté du 30 juin 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000284303"
+        },
+        {
+          "#text": "Arrêté du 30 juin 1971 relatif aux feux spéciaux des véhicules d'intervention urgente.",
+          "@c_titre_court": "Arrêté du 30 juin 1971",
+          "@debut": "1971-07-09",
+          "@fin": "1987-11-21",
+          "@id_txt": "LEGITEXT000006075051"
+        }
+      ],
+      "@cid": "JORFTEXT000000284303",
+      "@date_publi": "1971-07-09",
+      "@date_signature": "1971-06-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-05-30",
+          "@etat": "ABROGE",
+          "@fin": "1987-11-21",
+          "@id": "LEGIARTI000006888493",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Pour l'application du présent arrêté, les véhicules à progression rapide sont classés dans les deux catégories A et B ci-après :<br/>\n    Catégorie A - Véhicules des services de police et de gendarmerie et véhicules servant à la lutte contre l'incendie autorisés par l'article R. 95 du code de la route à être équipés d'avertisseurs sonores spéciaux en vue d'obtenir la priorité de passage prévue à l'article R. 28 du code de la route.<br/>\n    Catégorie B - Véhicules dont il importe de faciliter la progression figurant ci-après :<br/>\n    Ambulances autorisées par les articles R. 32 et R. 96 du code de la route à être équipées et à utiliser des timbres spéciaux ;<br/>\n    Véhicules d'intervention d'Electricité de France et de Gaz de France.<br/>\n    Véhicules des services des douanes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-05-04 art. 1 JORF 30 mai 1979",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 30 octobre 1987, v. init.",
+        "@cidtexte": "JORFTEXT000000322497",
+        "@datesignatexte": "1987-10-30",
+        "@id": "JORFTEXT000000322497",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "EQUS8700991A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R28, R32, R95, R96",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

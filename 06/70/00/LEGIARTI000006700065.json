@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006700065",
+      "ANCIEN_ID": "AFEBBXXXXXX006AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/00/LEGIARTI000006700065.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-09-21",
+        "DATE_FIN": "2019-12-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 22 octobre 1940 RELATIVE AUX REGLEMENTS PAR CHEQUE ET VIREMENT : REGLEMENT OBLIGATOIRE PAR CHEQUE BARRE OU VIREMENT A PARTIR DE 3.000 FRS. DES TRAITEMENTS, SALAIRES, LOYERS, TRANSPORTS, SERVICES, FOURNITURES OU TRAVAUX",
+          "@c_titre_court": "Loi du 22 octobre 1940",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000316246"
+        },
+        {
+          "#text": "Loi du 22 octobre 1940 relative aux règlements par chèques et virements",
+          "@c_titre_court": "Loi du 22 octobre 1940",
+          "@debut": "1940-11-08",
+          "@fin": "2019-12-13",
+          "@id_txt": "LEGITEXT000006072683"
+        }
+      ],
+      "@cid": "JORFTEXT000000316246",
+      "@date_publi": "1940-11-08",
+      "@date_signature": "1940-10-22",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1940-11-08",
+          "@etat": "MODIFIE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006700064",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-09-21",
+          "@etat": "ABROGE",
+          "@fin": "2019-12-13",
+          "@id": "LEGIARTI000006700065",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les infractions aux dispositions du présent article sont punies d'une amende fiscale de 0,50 francs recouvrée comme en matière de timbre. Un arrêté du ministre de l'économie et des finances, désignera les agents qualifiés pour constater les contraventions.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1919-03-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 I 15° JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2019-1332 du 11 décembre 2019 - art. 1",
+        "@cidtexte": "JORFTEXT000039480074",
+        "@datesignatexte": "2019-12-11",
+        "@id": "LEGIARTI000039482898",
+        "@naturetexte": "LOI",
+        "@nortexte": "CPAX1907946L",
+        "@num": "1",
+        "@numtexte": "2019-1332",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

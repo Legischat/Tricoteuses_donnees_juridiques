@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006548501",
+      "ANCIEN_ID": "ADHDSXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/85/LEGIARTI000006548501.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-07-18",
+        "DATE_FIN": "1986-02-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-76 du 14 janvier 1955 PORTANT RAP. POUR L'APPLICATION EN CE QUI CONCERNE LE COMMERCE DES PRODUITS EN CUIR ET SIMILAIRES DU CUIR, DES LOIS DES 1 août 1905 ET 25 JUIN 1936",
+          "@c_titre_court": "Décret n°55-76 du 14 janvier 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000866799"
+        },
+        {
+          "#text": "Décret n°55-76 du 14 janvier 1955 pris pour l'application, en ce qui concerne le commerce des produits en cuir et similaires du cuir, des lois du 1er août 1905 sur la répression des fraudes et du 25 juin 1936 sur la définition et la protection du cuir",
+          "@c_titre_court": "Décret n°55-76 du 14 janvier 1955",
+          "@debut": "1955-01-18",
+          "@fin": "1986-02-27",
+          "@id_txt": "LEGITEXT000006060748"
+        }
+      ],
+      "@cid": "JORFTEXT000000866799",
+      "@date_publi": "1955-01-18",
+      "@date_signature": "1955-01-14",
+      "@nature": "DECRET",
+      "@num": "55-76"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-07-18",
+          "@etat": "ABROGE",
+          "@fin": "1986-02-27",
+          "@id": "LEGIARTI000006548501",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les établissements où s'exerce le commerce des cuirs, ainsi que des articles ouvrés totalement ou partiellement en cuir ou en une matière susceptible de prêter à confusion avec le cuir, les articles visés au dernier alinéa de l'article 3 devront être munis d'une étiquette portant l'indication prévue audit alinéa.<br/>\n<br/>   En outre, ces articles devront porter, de façon indélébile, soit le nom, la raison sociale ou la marque du fabricant, soit le nom du vendeur, suivi d'une indication conventionnelle délivrée par le service de la répression des fraudes.<br/>\n<br/>   Cette dernière obligation ne s'applique pas, toutefois, aux articles vendus au détail par l'artisan qui les aurait fabriqués.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1986-02-18 art. 9 JORF 27 février 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°55-76 du 14 janvier 1955 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000866799",
+        "@datesignatexte": "1955-01-14",
+        "@id": "LEGIARTI000006548500",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "55-76",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°55-76 du 14 janvier 1955 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000866799",
+        "@datesignatexte": "1955-01-14",
+        "@id": "LEGIARTI000006548505",
+        "@naturetexte": "DECRET",
+        "@num": "7",
+        "@numtexte": "55-76",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1936-06-25",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

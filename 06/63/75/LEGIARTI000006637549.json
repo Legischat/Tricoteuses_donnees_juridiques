@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006637549",
+      "ANCIEN_ID": "RKIAAXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/75/LEGIARTI000006637549.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1967-01-29",
+        "DATE_FIN": "1987-05-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 janvier 1967 MODALITES D'APPLICATION DU DECRET 67-78 DU 27-01-1967",
+          "@c_titre_court": "Arrêté du 27 janvier 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000657117"
+        },
+        {
+          "#text": "Arrêté du 27 janvier 1967 fixant les modalités d'application du décret n° 67-78 du 27 janvier 1967",
+          "@c_titre_court": "Arrêté du 27 janvier 1967",
+          "@debut": "1967-01-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071992"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Importation et exportation de l'or.",
+            "@debut": "1967-01-29",
+            "@fin": "1987-05-22",
+            "@id": "LEGISCTA000006100667"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000657117",
+      "@date_publi": "1967-01-29",
+      "@date_signature": "1967-01-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-01-29",
+          "@etat": "ABROGE",
+          "@fin": "1987-05-22",
+          "@id": "LEGIARTI000006637549",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les déclarations préalables d'importation ou d'exportation ont une durée de validité fixée à quinze jours à compter du jour qui suit la date de leur visa.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-05-21 art. 1 JORF 22 mai 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 66-1008 1966-12-28",
+        "@cidtexte": "JORFTEXT000000880207",
+        "@datesignatexte": "1966-12-28",
+        "@id": "JORFTEXT000000880207",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-1008",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 67-78 1967-01-27",
+        "@cidtexte": "JORFTEXT000000877280",
+        "@datesignatexte": "1967-01-27",
+        "@id": "JORFTEXT000000877280",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-78",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

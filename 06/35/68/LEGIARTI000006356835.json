@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006356835",
+      "ANCIEN_ID": "MEHFTXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/68/LEGIARTI000006356835.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-02-13",
+        "DATE_FIN": "2004-02-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 2001-130 du 12 février 2001 portant majoration du plafond des dépenses électorales",
+          "@c_titre_court": "Décret n°2001-130 du 12 février 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000403416"
+        },
+        {
+          "#text": "Décret n°2001-130 du 12 février 2001 portant majoration du plafond des dépenses électorales",
+          "@c_titre_court": "Décret n°2001-130 du 12 février 2001",
+          "@debut": "2001-02-13",
+          "@fin": "2004-02-14",
+          "@id_txt": "LEGITEXT000005630624"
+        }
+      ],
+      "@cid": "JORFTEXT000000403416",
+      "@date_publi": "2001-02-13",
+      "@date_signature": "2001-02-12",
+      "@ministere": "MINISTERE DE L'INTERIEUR",
+      "@nature": "DECRET",
+      "@nor": "INTA0100021D",
+      "@num": "2001-130"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-02-13",
+          "@etat": "ABROGE",
+          "@fin": "2004-02-14",
+          "@id": "LEGIARTI000006356835",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant du plafond des dépenses électorales est multiplié par le coefficient 1,08 pour les élections auxquelles les dispositions de l'article L. 52-11 du code électoral sont applicables, à l'exception de celles des députés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2004-140 du 12 février 2004 - art. 2 (Ab) JORF 14 février 2004",
+        "@cidtexte": "JORFTEXT000000798505",
+        "@datesignatexte": "2004-02-12",
+        "@id": "LEGIARTI000006228643",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTA0400031D",
+        "@num": "2",
+        "@numtexte": "2004-140",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code électoral - art. L52-11 (M)",
+        "@cidtexte": "LEGITEXT000006070239",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006353131",
+        "@naturetexte": "CODE",
+        "@num": "L52-11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

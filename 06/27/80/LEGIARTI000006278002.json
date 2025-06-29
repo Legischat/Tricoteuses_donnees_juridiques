@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006278002",
+      "ANCIEN_ID": "ANIFEXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/80/LEGIARTI000006278002.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-12-02",
+        "DATE_FIN": "2004-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 octobre 1984 RELATIF AUX BOUTEILLES A GAZ DE PETROLE LIQUEFIES",
+          "@c_titre_court": "Arrêté du 26 octobre 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000683841"
+        },
+        {
+          "#text": "Arrêté du 26 octobre 1984 relatif aux bouteilles à gaz de pétrole liquéfié",
+          "@c_titre_court": "Arrêté du 26 octobre 1984",
+          "@debut": "1984-12-02",
+          "@fin": "2004-07-01",
+          "@id_txt": "LEGITEXT000006069406"
+        }
+      ],
+      "@cid": "JORFTEXT000000683841",
+      "@date_publi": "1984-12-02",
+      "@date_signature": "1984-10-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-12-02",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-01",
+          "@id": "LEGIARTI000006278002",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sur tout lot de fabrication qui lui est présenté l'expert prévu à l'article 6 du décret du 18 janvier 1943 prélève au hasard un échantillon, à raison d'au moins une bouteille sur deux cents.<br/>\n<br/>   Les bouteilles prélevées sont soumises individuellement à un essai de rupture sous pression à l'effet de déterminer leur pression d'instabilité plastique et l'augmentation relative de leur volume à la rupture. Cet essai est exécuté conformément à l'annexe I du présent arrêté.<br/>\n<br/>   L'interprétation de l'ensemble des essais relatifs à un lot se fait conformément en deux exemplaires dont l'un est remis au constructeur et l'autre conservé pendant seize ans par la direction régionale de l'industrie et de la recherche dont relèvent les ateliers du constructeur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-10-26 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 3 mai 2004 - art. 21, v. init.",
+        "@cidtexte": "JORFTEXT000000438516",
+        "@datesignatexte": "2004-05-03",
+        "@id": "JORFARTI000002455384",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "INDI0402919A",
+        "@num": "21",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 1943-01-18 art. 6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

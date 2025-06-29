@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006423919",
+      "ANCIEN_ID": "PCHHNXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/39/LEGIARTI000006423919.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-02-25",
+        "DATE_FIN": "2014-07-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  n° 90-174 du 23 février 1990 pris pour l'application des articles 19 à 22 du code de l'industrie cinématographique et relatif à la classification des œuvres cinématographiques",
+          "@c_titre_court": "Décret n° 90-174 du 23 février 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000531243"
+        },
+        {
+          "#text": "Décret n°90-174 du 23 février 1990 pris pour l'application des articles 19 à 22 du code de l'industrie cinématographique et relatif à la classification des oeuvres cinématographiques",
+          "@c_titre_court": "Décret n°90-174 du 23 février 1990",
+          "@debut": "1990-02-25",
+          "@fin": "2014-07-12",
+          "@id_txt": "LEGITEXT000006075464"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE III : Des oeuvres cinématographiques étrangères et des coproductions.",
+            "@debut": "1990-02-25",
+            "@fin": "2014-07-12",
+            "@id": "LEGISCTA000006089898"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000531243",
+      "@date_publi": "1990-02-25",
+      "@date_signature": "1990-02-23",
+      "@ministere": "MINISTERE DE LA CULTURE ET DE LA COMMUNICATION",
+      "@nature": "DECRET",
+      "@nor": "MCCK9000064D",
+      "@num": "90-174"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-02-25",
+          "@etat": "ABROGE",
+          "@fin": "2014-07-12",
+          "@id": "LEGIARTI000006423919",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute oeuvre cinématographique doit comporter la mention de son pays d'origine. S'il s'agit d'une coproduction, il doit être fait mention des pays coproducteurs.<br/>\n<br/>   Lorsqu'une oeuvre cinématographique est doublée, mention doit être faite de ce doublage.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 90-174 1990-02-23 art. 23 et 24",
+        "@cidtexte": "JORFTEXT000000531243",
+        "@datesignatexte": "1990-02-23",
+        "@id": "JORFTEXT000000531243",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCK9000064D",
+        "@numtexte": "90-174",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code du cinéma et de l'image animée - art. R211-15 (V)",
+        "@cidtexte": "LEGITEXT000020908868",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000029231756",
+        "@naturetexte": "CODE",
+        "@num": "R211-15",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "DÉCRET n°2014-794 du 9 juillet 2014 - art. 5",
+        "@cidtexte": "JORFTEXT000029223531",
+        "@datesignatexte": "2014-07-09",
+        "@id": "LEGIARTI000029226204",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCK1320227D",
+        "@num": "5",
+        "@numtexte": "2014-794",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de l'industrie cinématographique 19 à 22",
+        "@cidtexte": "LEGITEXT000006070882",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070882",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

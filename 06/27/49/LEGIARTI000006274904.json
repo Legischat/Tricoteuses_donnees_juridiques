@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006274904",
+      "ANCIEN_ID": "FAEDMXXXXXX029AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/49/LEGIARTI000006274904.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "29",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1986-12-31",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°86-1318 du 30 décembre 1986 DE FINANCES RECTIFICATIVE POUR 1986",
+          "@c_titre_court": "Loi n°86-1318 du 30 décembre 1986",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874479"
+        },
+        {
+          "#text": "Loi n° 86-1318 du 30 décembre 1986 de finances rectificative pour 1986",
+          "@c_titre_court": "Loi n° 86-1318 du 30 décembre 1986",
+          "@debut": "1986-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068954"
+        }
+      ],
+      "@cid": "JORFTEXT000000874479",
+      "@date_publi": "1986-12-31",
+      "@date_signature": "1986-12-30",
+      "@nature": "LOI",
+      "@num": "86-1318"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-31",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006274904",
+          "@num": "29",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001104222",
+          "@num": "29",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Alinéa modificateur<br/>\n<br/>   Les impositions dues au titre des années antérieures au 1er janvier 1987 sont réputées régulières en conséquence, sous réserve des décisions de justice passées en force de chose jugée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 86-1318 1986-12-30 Finances rectificative pour 1986 JORF 31 décembre 1986",
+        "@cidtexte": "JORFTEXT000000874479",
+        "@datesignatexte": "1986-12-30",
+        "@id": "JORFTEXT000000874479",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-1318",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 39 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006307562",
+        "@naturetexte": "CODE",
+        "@num": "39",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

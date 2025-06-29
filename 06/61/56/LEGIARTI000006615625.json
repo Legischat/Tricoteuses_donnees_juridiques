@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006615625",
+      "ANCIEN_ID": "RDAXXXXXXXX5X100BAAAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/56/LEGIARTI000006615625.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "100 bis",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1964-01-03",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code des douanes",
+          "@c_titre_court": "Code des douanes",
+          "@debut": "1949-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071570"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Opérations de dédouanement",
+            "@debut": "1949-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006099266"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Déclaration en détail",
+              "@debut": "1949-01-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006122103"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 3 : Forme, énonciations et enregistrement des déclarations en détail.",
+                "@debut": "1949-01-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006138874"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071570",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-01-03",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006615625",
+          "@num": "100 bis",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   1. Des arrêtés du directeur général des douanes et droits indirects peuvent déterminer des procédures simplifiées de dédouanement prévoyant notamment que certaines indications des déclarations en détail seront fournies ou reprises ultérieurement sous la forme de déclarations complémentaires pouvant présenter un caractère global, périodique ou récapitulatif.<br/>\n<br/>   2. Les mentions des déclarations complémentaires sont réputées constituer, avec les mentions des déclarations auxquelles elles se reportent respectivement, un acte unique et indivisible prenant effet à la date d'enregistrement de la déclaration initiale correspondante.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 48-1985 1948-12-08",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 63-1351 1963-12-31 art. 4 JORF 3 janvier 1964",
+        "@cidtexte": "JORFTEXT000000312751",
+        "@datesignatexte": "1963-12-31",
+        "@id": "JORFTEXT000000312751",
+        "@naturetexte": "LOI",
+        "@numtexte": "63-1351",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code des douanes - art. 423 (V)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006616043",
+        "@naturetexte": "CODE",
+        "@num": "423",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

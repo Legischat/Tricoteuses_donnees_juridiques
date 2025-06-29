@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006316944",
+      "ANCIEN_ID": "FAEANXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/69/LEGIARTI000006316944.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1976-10-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°76-978 du 29 octobre 1976 DE FINANCES RECTIFICATIVE POUR 1976",
+          "@c_titre_court": "Loi n°76-978 du 29 octobre 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000879850"
+        },
+        {
+          "#text": "Loi n° 76-978 du 29 octobre 1976 DE FINANCES RECTIFICATIVE POUR 1976 (1)",
+          "@c_titre_court": "Loi n° 76-978 du 29 octobre 1976",
+          "@debut": "1976-10-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068563"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "AGRICULTURE",
+            "@debut": "1976-10-31",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084425"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CALAMITES AGRICOLES",
+              "@debut": "1976-10-31",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006114595"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "AIDE EXCEPTIONNELLE AUX AGRICULTEURS ATTEINTS PAR LA SECHERESSE DE 1976.",
+                "@debut": "1976-10-31",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006134005"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000879850",
+      "@date_publi": "1976-10-31",
+      "@date_signature": "1976-10-29",
+      "@nature": "LOI",
+      "@num": "76-978"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-10-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006316944",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Une aide exceptionnelle dont les bénéficiaires et les modalités seront fixés par décret sera versée par le fonds national des calamités agricoles aux agriculteurs particulièrement atteints par la sécheresse en 1976.<br/>\n<br/>   Le régime d'indemnisation prévu par la loi n° 64-706 du 10 juillet 1964 ne s'applique pas aux pertes occasionnées par la sécheresse de 1976.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 64-706 1964-07-10",
+        "@cidtexte": "JORFTEXT000000691714",
+        "@datesignatexte": "1964-07-10",
+        "@id": "JORFTEXT000000691714",
+        "@naturetexte": "LOI",
+        "@numtexte": "64-706",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 76-978 1976-10-29 Finances rectificative pour 1976 JORF 31 OCTOBRE 1976",
+        "@cidtexte": "JORFTEXT000000879850",
+        "@datesignatexte": "1976-10-29",
+        "@id": "JORFTEXT000000879850",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-978",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°98-750 du 24 août 1998 - art. 10 (V)",
+        "@cidtexte": "JORFTEXT000000207235",
+        "@datesignatexte": "1998-08-24",
+        "@id": "LEGIARTI000029386228",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCK9800157D",
+        "@num": "10",
+        "@numtexte": "98-750",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006884471",
+      "ANCIEN_ID": "AIIPSXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/44/LEGIARTI000006884471.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1998-07-04",
+        "DATE_FIN": "2009-01-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 février 1988 RELATIF AU REGISTRE DU COMMERCE ET DES SOCIETES",
+          "@c_titre_court": "Arrêté du 9 février 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000291022"
+        },
+        {
+          "#text": "Arrêté du 9 février 1988 relatif au registre du commerce et des sociétés",
+          "@c_titre_court": "Arrêté du 9 février 1988",
+          "@debut": "1988-02-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006058066"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre préliminaire : Dispositions générales",
+            "@debut": "1988-02-12",
+            "@fin": "2009-01-21",
+            "@id": "LEGISCTA000006111974"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre I : Organisation du registre.",
+              "@debut": "1988-02-12",
+              "@fin": "2009-01-21",
+              "@id": "LEGISCTA000006131579"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000291022",
+      "@date_publi": "1988-02-12",
+      "@date_signature": "1988-02-09",
+      "@nature": "ARRETE",
+      "@nor": "JUSC8820071A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-02-12",
+          "@etat": "MODIFIE",
+          "@fin": "1998-07-04",
+          "@id": "LEGIARTI000006884470",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1998-07-04",
+          "@etat": "ABROGE",
+          "@fin": "2009-01-21",
+          "@id": "LEGIARTI000006884471",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le fichier alphabétique indique :<br/>\n<br/>   a) Pour les personnes physiques, leurs nom, nom d'usage, prénoms, date et lieu de naissance, la nature de l'activité exercée et l'adresse du principal établissement ;<br/>\n<br/>   b) Pour les sociétés, la forme juridique et, le cas échéant, le statut légal particulier, la raison sociale ou la dénomination sociale, la nature de l'activité exercée, l'adresse du siège social et, si ce siège n'est pas situé dans le ressort du tribunal, celui du principal établissement dans son ressort ;<br/>\n<br/>   c) Pour les groupements d'intérêt économique et les autres personnes morales, la dénomination, l'objet et l'adresse du siège.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1998-07-02 art. 1 JORF 4 juillet 1998",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 84-406 1984-05-30",
+        "@cidtexte": "JORFTEXT000000882403",
+        "@datesignatexte": "1984-05-30",
+        "@id": "JORFTEXT000000882403",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-406",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 14 janvier 2009 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000020152123",
+        "@datesignatexte": "2009-01-14",
+        "@id": "LEGIARTI000020154229",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSC0818602A",
+        "@num": "3",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. A123-38 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000020165217",
+        "@naturetexte": "CODE",
+        "@num": "A123-38",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

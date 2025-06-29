@@ -1,0 +1,135 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006284123",
+      "ANCIEN_ID": "AREBCXXXXXX068AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/41/LEGIARTI000006284123.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "68",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-03-24",
+        "DATE_FIN": "1991-05-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+          "@c_titre_court": "Loi du 1 juin 1924",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869867"
+        },
+        {
+          "#text": "Loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+          "@c_titre_court": "Loi du 1er juin 1924",
+          "@debut": "1924-06-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069443"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions spéciales.",
+            "@debut": "1924-06-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006083858"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre IV : Contrat d'assurance.",
+              "@debut": "1924-06-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006114123"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000869867",
+      "@date_publi": "1924-06-03",
+      "@date_signature": "1924-06-01",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1924-06-03",
+          "@etat": "MODIFIE",
+          "@fin": "2006-03-24",
+          "@id": "LEGIARTI000006284122",
+          "@num": "68",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-03-24",
+          "@etat": "ABROGE",
+          "@fin": "1991-05-08",
+          "@id": "LEGIARTI000006284123",
+          "@num": "68",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les articles 156 et 157 ne sont pas applicables dans le cas prévu par l'article 2332, 8°, du code civil français.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1924-06-01 art. 156, art. 157",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°91-412 du 6 mai 1991 - art. 3, v. init.",
+        "@cidtexte": "JORFTEXT000000720043",
+        "@datesignatexte": "1991-05-06",
+        "@id": "JORFARTI000001566022",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9110094L",
+        "@numtexte": "91-412",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006",
+        "@cidtexte": "JORFTEXT000000639090",
+        "@datesignatexte": "2006-03-23",
+        "@id": "LEGIARTI000006532965",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0600032R",
+        "@num": "54",
+        "@numtexte": "2006-346",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code civil - art. 2332 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006448641",
+        "@naturetexte": "CODE",
+        "@num": "2332",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

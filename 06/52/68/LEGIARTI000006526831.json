@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006526831",
+      "ANCIEN_ID": "ADFAJXXXXXX023AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/68/LEGIARTI000006526831.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-09",
+        "DATE_FIN": "2011-05-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°59-107 du 7 janvier 1959 IMPOSITIONS PERCUES AU PROFIT DE CERTAINS ORGANISMES OU ETABLISSEMENTS PUBLICS",
+          "@c_titre_court": "Ordonnance n°59-107 du 7 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000516484"
+        },
+        {
+          "#text": "Ordonnance n° 59-107 du 7 janvier 1959 modifiant le code des mesures concernant les débits de boissons et la lutte contre l'alcoolisme",
+          "@c_titre_court": "Ordonnance n° 59-107 du 7 janvier 1959",
+          "@debut": "1959-01-09",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069245"
+        }
+      ],
+      "@cid": "JORFTEXT000000516484",
+      "@date_publi": "1959-01-09",
+      "@date_signature": "1959-01-07",
+      "@nature": "ORDONNANCE",
+      "@num": "59-107"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-09",
+          "@etat": "ABROGE",
+          "@fin": "2011-05-19",
+          "@id": "LEGIARTI000006526831",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute infraction aux dispositions de l'article 306 du code général des impôts sera punie des mêmes peines [*sanctions pénales*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 306",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 59-107 1959-01-07 JORF 9 janvier 1959 rectificatif JORF 20 février 1959",
+        "@cidtexte": "JORFTEXT000000516484",
+        "@datesignatexte": "1959-01-07",
+        "@id": "JORFTEXT000000516484",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "59-107",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 59-107 1959-01-07 art. 24 *récidive - sanctions pénales*",
+        "@cidtexte": "JORFTEXT000000516484",
+        "@datesignatexte": "1959-01-07",
+        "@id": "JORFTEXT000000516484",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "59-107",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n°59-107 du 7 janvier 1959 - art. 24 (Ab)",
+        "@cidtexte": "JORFTEXT000000516484",
+        "@datesignatexte": "1959-01-07",
+        "@id": "LEGIARTI000006526843",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "24",
+        "@numtexte": "59-107",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2011-525\n du 17 mai 2011 - art. 175 (V)",
+        "@cidtexte": "JORFTEXT000024021430",
+        "@datesignatexte": "2011-05-17",
+        "@id": "LEGIARTI000024023438",
+        "@naturetexte": "LOI",
+        "@nortexte": "BCRX0929142L",
+        "@num": "175",
+        "@numtexte": "2011-525",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

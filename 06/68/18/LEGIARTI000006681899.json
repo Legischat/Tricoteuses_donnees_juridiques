@@ -1,0 +1,153 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006681899",
+      "ANCIEN_ID": "SMEAIXXXXXX025AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/18/LEGIARTI000006681899.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-01-01",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°80-545 du 17 juillet 1980 PORTANT DIVERSES DISPOSITIONS EN VUE D'AMELIORER LA SITUATION DES FAMILLES NOMBREUSES",
+          "@c_titre_court": "Loi n°80-545 du 17 juillet 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886865"
+        },
+        {
+          "#text": "Loi n° 80-545 du 17 juillet 1980 portant diverses dispositions en vue d'améliorer la situation des familles nombreuses.",
+          "@c_titre_court": "Loi n° 80-545 du 17 juillet 1980",
+          "@debut": "1981-01-01",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068697"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Revenu familial",
+            "@debut": "1981-01-01",
+            "@fin": "2022-02-16",
+            "@id": "LEGISCTA000006103129"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Dispositions applicables en France métropolitaine.",
+              "@debut": "1981-01-01",
+              "@fin": "2022-02-16",
+              "@id": "LEGISCTA000006125138"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 3 : Dispositions communes.",
+                "@debut": "1981-01-01",
+                "@fin": "2022-02-16",
+                "@id": "LEGISCTA000006140549"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000886865",
+      "@date_publi": "1980-07-18",
+      "@date_signature": "1980-07-17",
+      "@nature": "LOI",
+      "@num": "80-545"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006681899",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<p>Code de la sécurité sociale L755-25 : dispositions applicables au supplément de revenu familial dans les DOM.</p>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les suppléments de revenu familial ne sont pas soumis à l'impôt sur le revenu.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°80-545 du 17 juillet 1980 - art. 29 (Ab)",
+        "@cidtexte": "JORFTEXT000000886865",
+        "@datesignatexte": "1980-07-17",
+        "@id": "LEGIARTI000006681904",
+        "@naturetexte": "LOI",
+        "@num": "29",
+        "@numtexte": "80-545",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. L755-25 (Ab)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006744478",
+        "@naturetexte": "CODE",
+        "@num": "L755-25",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. L564-4 (Ab)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006743443",
+        "@naturetexte": "CODE",
+        "@num": "L564-4",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. L755-25 (Ab)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006744478",
+        "@naturetexte": "CODE",
+        "@num": "L755-25",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006755759",
+      "ANCIEN_ID": "SSEAAAXXXXX025AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/57/LEGIARTI000006755759.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1966-07-13",
+        "DATE_FIN": "1984-07-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-509 du 12 juillet 1966 REGIMES SPECIAUX D'ASSURANCE MALADIE-MATERNITE DES TRAVAILLEURS NON SALARIES NON AGRICOLES",
+          "@c_titre_court": "Loi n°66-509 du 12 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692243"
+        },
+        {
+          "#text": "Loi n° 66-509 du 12 juillet 1966 RELATIVE A L'ASSURANCE MALADIE ET A L'ASSURANCE MATERNITE DES TRAVAILLEURS NON-SALARIES DES PROFESSIONS NON-AGRICOLES.",
+          "@c_titre_court": "Loi n° 66-509 du 12 juillet 1966",
+          "@debut": "1966-07-13",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068287"
+        }
+      ],
+      "@cid": "JORFTEXT000000692243",
+      "@date_publi": "1966-07-13",
+      "@date_signature": "1966-07-12",
+      "@nature": "LOI",
+      "@num": "66-509"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-07-13",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-10",
+          "@id": "LEGIARTI000006755759",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Chaque caisse mutuelle gère un fonds d'action sanitaire et sociale. Ce fonds est alimenté notamment :</p>\n<br/>\n<p>a) Par une fraction, fixée par arrêté interministériel de la dotation annuelle de chaque caisse ;</p>\n<br/>\n<p>b) Par la fraction des excédents visée à l'article 23.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°66-509 du 12 juillet 1966 - art. 23 (Ab)",
+        "@cidtexte": "JORFTEXT000000692243",
+        "@datesignatexte": "1966-07-12",
+        "@id": "LEGIARTI000006755757",
+        "@naturetexte": "LOI",
+        "@num": "23",
+        "@numtexte": "66-509",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°69-252 du 20 mars 1969 - art. 12 (Ab)",
+        "@cidtexte": "JORFTEXT000000694513",
+        "@datesignatexte": "1969-03-20",
+        "@id": "LEGIARTI000006763336",
+        "@naturetexte": "DECRET",
+        "@num": "12",
+        "@numtexte": "69-252",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°84-575 du 9 juillet 1984 - art. 47 () JORF 10 JUILLET 1984",
+        "@cidtexte": "JORFTEXT000000320660",
+        "@datesignatexte": "1984-07-09",
+        "@id": "LEGIARTI000006681680",
+        "@naturetexte": "LOI",
+        "@num": "47",
+        "@numtexte": "84-575",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860716",
+      "ANCIEN_ID": "UPIDNXXXXXX035AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/07/LEGIARTI000006860716.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "35",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1967-10-06",
+        "DATE_FIN": "2010-11-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 septembre 1967 relatif aux règles d'aménagement et d'exploitation des usines de traitement de pétrole brut de ses dérivés et résidus - Annexe.",
+          "@c_titre_court": "Arrêté du 4 septembre 1967",
+          "@debut": "1967-10-06",
+          "@fin": "2010-11-17",
+          "@id_txt": "LEGITEXT000006074417"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Règles de construction",
+            "@debut": "1967-10-06",
+            "@fin": "2010-11-17",
+            "@id": "LEGISCTA000006110036"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Matériel électrique",
+              "@debut": "1967-10-06",
+              "@fin": "2010-11-17",
+              "@id": "LEGISCTA000006129934"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Protection contre la foudre, l'électricité statique et les courants de circulation",
+                "@debut": "1967-10-06",
+                "@fin": "2010-11-17",
+                "@id": "LEGISCTA000006144428"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074417",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1967-09-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-10-06",
+          "@etat": "ABROGE",
+          "@fin": "2010-11-17",
+          "@id": "LEGIARTI000006860716",
+          "@num": "35",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les mesures suivantes (liaisons électriques, mises à la terre) sont prises pour minimiser les effets de l'électricité statique, des courants de circulation et de la chute de la foudre sur les installations.<br/>\n<br/>   Est considéré comme \"à la terre\" tout équipement dont la résistance de mise à la terre est inférieure ou égale à 20 ohms.<br/>\n<br/>   Ces mises à la terre, dont il est question ci-dessous, sont faites par des prises de terre particulières ou par des liaisons aux conducteurs de terre créés en vue de la protection des travailleurs par application du décret n° 62-1454 du 14 novembre 1962.<br/>\n<br/>   Une consigne précise la périodicité des vérifications des prises de terre et de la continuité des conducteurs de mise à la terre.<br/>\n<br/>   35.1. Protection contre la foudre.<br/>\n<br/>   On considère que la mise à la terre d'un équipement métallique crée un cône de protection de révolution, dont le sommet est le sommet de la construction, l'axe est vertical et le rayon de base égal à deux fois la hauteur de cette structure.<br/>\n<br/>   Les équipements ou les structures métalliques situés en dehors des cônes de protection définis ci-dessus doivent être mis à la terre.<br/>\n<br/>   35.2. Protection contre l'électricité statique.<br/>\n<br/>   (Voir la cinquième partie (par. D) du titre VI relative au chargement des hydrocarbures).<br/>\n<br/>   35.3. Protection contre les courants de circulation.<br/>\n<br/>   Des dispositions doivent être prises en vue de réduire les effets des courants de circulation.<br/>\n<br/>   Les courants de circulation volontairement créés (protection électrique destinée à éviter la corrosion, par exemple) ne doivent pas constituer de source de danger.<br/>\n<br/>   Des joints isolants peuvent être utilisés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1967-09-04 ANNEXE ART. 62 à ART. 66",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 62-1454 1962-11-14",
+        "@cidtexte": "JORFTEXT000000852836",
+        "@datesignatexte": "1962-11-14",
+        "@id": "JORFTEXT000000852836",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1454",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 3 octobre 2010 - art. 64",
+        "@cidtexte": "JORFTEXT000023081678",
+        "@datesignatexte": "2010-10-03",
+        "@id": "LEGIARTI000023100877",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVP1025848A",
+        "@num": "64",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

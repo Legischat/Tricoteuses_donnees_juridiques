@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006856595",
+      "ANCIEN_ID": "UPHNUXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/65/LEGIARTI000006856595.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-09-24",
+        "DATE_FIN": "2004-01-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-995 du 20 septembre 1985 RELATIF A LA COMPOSITION ET AU FONCTIONNEMENT DU COMITE DE MASSIF POUR LE MASSIF CENTRAL",
+          "@c_titre_court": "Décret n°85-995 du 20 septembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000872255"
+        },
+        {
+          "#text": "Décret n°85-995 du 20 septembre 1985 85-995 relatif à la composition et au fonctionnement du comité de massif pour le Massif central",
+          "@c_titre_court": "Décret n°85-995 du 20 septembre 1985",
+          "@debut": "1985-09-24",
+          "@fin": "2004-01-18",
+          "@id_txt": "LEGITEXT000006065168"
+        }
+      ],
+      "@cid": "JORFTEXT000000872255",
+      "@date_publi": "1985-09-24",
+      "@date_signature": "1985-09-20",
+      "@nature": "DECRET",
+      "@num": "85-995"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-09-24",
+          "@etat": "ABROGE",
+          "@fin": "2004-01-14",
+          "@id": "LEGIARTI000006856595",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le comité de massif établit son règlement intérieur. Il peut constituer en son sein des groupes de travail spécialisés aux travaux desquels il peut associer toute personnalité de son choix.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 85-30 1985-01-09 art. 5, art. 7",
+        "@cidtexte": "JORFTEXT000000317293",
+        "@datesignatexte": "1985-01-09",
+        "@id": "JORFTEXT000000317293",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-30",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°85-995 du 20 septembre 1985 - art. 7-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000872255",
+        "@datesignatexte": "1985-09-20",
+        "@id": "LEGIARTI000006856596",
+        "@naturetexte": "DECRET",
+        "@num": "7-1",
+        "@numtexte": "85-995",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2004-51 du 12 janvier 2004 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000000341292",
+        "@datesignatexte": "2004-01-12",
+        "@id": "LEGIARTI000006227869",
+        "@naturetexte": "DECRET",
+        "@nortexte": "FPPD0320014D",
+        "@num": "11",
+        "@numtexte": "2004-51",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

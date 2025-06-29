@@ -1,0 +1,146 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006401065",
+      "ANCIEN_ID": "ABEACXXXXXX138AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/10/LEGIARTI000006401065.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "138",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°85-98 du 25 janvier 1985 RELATIVE AU REDRESSEMENT ET A LA LIQUIDATION JUDICIAIRE DES ENTREPRISES",
+          "@c_titre_court": "Loi n°85-98 du 25 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693911"
+        },
+        {
+          "#text": "Loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises",
+          "@c_titre_court": "Loi n° 85-98 du 25 janvier 1985",
+          "@debut": "1985-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068923"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Procédure simplifiée applicable à certaines entreprises.",
+            "@debut": "1986-01-01",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006088203"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000693911",
+      "@date_publi": "1985-01-26",
+      "@date_signature": "1985-01-25",
+      "@nature": "LOI",
+      "@num": "85-98"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006401065",
+          "@num": "138",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Jusqu'au jugement arrêtant le plan, le tribunal, à la demande du débiteur, du procureur de la République ou d'office, peut décider de faire application intégrale de la procédure prévue par le titre Ier [*art. 3 à 137 : régime général du redressement judiciaire*], s'il estime qu'elle est de nature à favoriser le redressement de l'entreprise.<br/>\n<br/>   Dans ce cas, la durée de la période d'observation déjà écoulée s'impute sur celle prévue au deuxième alinéa de l'article 8.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 75-98 1975-01-25 art. 3 à art. 137, art. 8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 85-98 1985-01-25 art. 243 *date d'entrée en vigueur - décret d'application*",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000693911",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°85-98 du 25 janvier 1985 - art. 137 (Ab)",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "LEGIARTI000006401063",
+        "@naturetexte": "LOI",
+        "@num": "137",
+        "@numtexte": "85-98",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°85-98 du 25 janvier 1985 - art. 177 (Ab)",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "LEGIARTI000006401455",
+        "@naturetexte": "LOI",
+        "@num": "177",
+        "@numtexte": "85-98",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°85-98 du 25 janvier 1985 - art. 2 (M)",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "LEGIARTI000006399690",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "85-98",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L621-134 (Ab)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006236543",
+        "@naturetexte": "CODE",
+        "@num": "L621-134",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

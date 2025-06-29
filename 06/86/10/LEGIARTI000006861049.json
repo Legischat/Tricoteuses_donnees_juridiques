@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861049",
+      "ANCIEN_ID": "UPIEGXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/10/LEGIARTI000006861049.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-03-22",
+        "DATE_FIN": "2004-07-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 février 1974 fixant les règles techniques et de sécurité applicables au stockage et à l'utilisation de produits pétroliers dans les lieux non visés par la législation des établissements dangereux, insalubres ou incommodes et de la réglementation des établissements recevant du public - Annexe.",
+          "@c_titre_court": "Arrêté du 26 février 1974",
+          "@debut": "1974-03-22",
+          "@fin": "2004-07-26",
+          "@id_txt": "LEGITEXT000006074437"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Equipement des réservoirs",
+            "@debut": "1974-03-22",
+            "@fin": "2004-07-26",
+            "@id": "LEGISCTA000006110085"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Canalisation de liaison entre réservoirs",
+              "@debut": "1974-03-22",
+              "@fin": "2004-07-26",
+              "@id": "LEGISCTA000006130023"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074437",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-02-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-03-22",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-26",
+          "@id": "LEGIARTI000006861049",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si plusieurs réservoirs sont reliés à leur partie inférieure, la canalisation de liaison doit avoir une section au moins égale à la canalisation d'emplissage et doit comporter des vannes permettant l'isolement de chaque réservoir.<br/>\n<br/>   Cette liaison est cependant interdite dans le cas des réservoirs enfouis et des réservoirs en béton.<br/>\n<br/>   La distribution par réseau de canalisations est interdite dans les zones de protection des eaux visées à l'article 3 des présentes règles. Dans les zones où ce type de distribution est admis, le réseau de canalisations doit être muni de dispositifs empêchant le débordement des réservoirs terminaux. Il doit, en outre, comporter des dispositifs de sectionnement permettant l'isolement des parties reconnues défectueuses.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1968-03-21",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Arrêté 1974-02-26 ANNEXE ART. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 62-1297 1962-11-07",
+        "@cidtexte": "JORFTEXT000000673018",
+        "@datesignatexte": "1962-11-07",
+        "@id": "JORFTEXT000000673018",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1297",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 1 juillet 2004 - art. 34",
+        "@cidtexte": "JORFTEXT000000437731",
+        "@datesignatexte": "2004-07-01",
+        "@id": "LEGIARTI000020342736",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "INDI0403209A",
+        "@num": "34",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

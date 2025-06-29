@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607049",
+      "ANCIEN_ID": "RAICSXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/70/LEGIARTI000006607049.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-12-10",
+        "DATE_FIN": "2000-12-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 novembre 1992 fixant les conditions de police sanitaire exigées    pour la diffusion de semence porcine",
+          "@c_titre_court": "Arrêté du 16 novembre 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000360795"
+        },
+        {
+          "#text": "Arrêté du 16 novembre 1992 fixant les conditions de police sanitaire exigées pour la diffusion de semence porcine",
+          "@c_titre_court": "Arrêté du 16 novembre 1992",
+          "@debut": "1992-12-10",
+          "@fin": "2000-12-09",
+          "@id_txt": "LEGITEXT000006080467"
+        }
+      ],
+      "@cid": "JORFTEXT000000360795",
+      "@date_publi": "1992-12-10",
+      "@date_signature": "1992-11-16",
+      "@ministere": "MINISTERE DES AFFAIRES EUROPEENNES",
+      "@nature": "ARRETE",
+      "@nor": "AGRG9202130A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-12-10",
+          "@etat": "ABROGE",
+          "@fin": "2000-12-09",
+          "@id": "LEGIARTI000006607049",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les contrevenants aux prescriptions du présent arrêté sont passibles des peines prévues par le décret n° 63-136 du 18 février 1963.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2000-11-07 art. 11 JORF 9 décembre 2000",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 63-136 1963-02-18",
+        "@cidtexte": "JORFTEXT000000862731",
+        "@datesignatexte": "1963-02-18",
+        "@id": "JORFTEXT000000862731",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-136",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

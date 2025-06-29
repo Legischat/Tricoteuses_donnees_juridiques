@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275498",
+      "ANCIEN_ID": "FAEEEXXXXXX019AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/54/LEGIARTI000006275498.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1988-12-30",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°88-1193 du 29 décembre 1988 DE FINANCES RECTIFICATIVE POUR 1988",
+          "@c_titre_court": "Loi n°88-1193 du 29 décembre 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509064"
+        },
+        {
+          "#text": "Loi n° 88-1193 du 29 décembre 1988 de Finances rectificative pour 1988",
+          "@c_titre_court": "Loi n° 88-1193 du 29 décembre 1988",
+          "@debut": "1988-12-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069029"
+        }
+      ],
+      "@cid": "JORFTEXT000000509064",
+      "@date_publi": "1988-12-30",
+      "@date_signature": "1988-12-29",
+      "@nature": "LOI",
+      "@nor": "ECOX8800157L",
+      "@num": "88-1193"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-12-30",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006275498",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001299941",
+          "@num": "19",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les exonérations prévues à l'article 1465 du code général des impôts qui prendront effet à compter du 1er janvier 1989, le prix de revient des immobilisations exonérées ne peut excéder dix millions de francs par emploi créé. Par délibération, les collectivités locales peuvent fixer ce montant à un niveau moins élevé.<br/>\n<br/>   Cette délibération doit être prise avant le 20 janvier 1989 pour les exonérations qui prendront effet le 1er janvier 1989.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1465",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 88-1193 1988-12-29 Finances rectificative pour 1988 JORF 30 décembre 1988",
+        "@cidtexte": "JORFTEXT000000509064",
+        "@datesignatexte": "1988-12-29",
+        "@id": "JORFTEXT000000509064",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8800157L",
+        "@numtexte": "88-1193",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 121 quinquies DB septies (V)",
+        "@cidtexte": "LEGITEXT000006069576",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006300865",
+        "@naturetexte": "CODE",
+        "@num": "121 quinquies DB septies",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1465 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006311666",
+        "@naturetexte": "CODE",
+        "@num": "1465",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

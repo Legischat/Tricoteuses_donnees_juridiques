@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275191",
+      "ANCIEN_ID": "FAEDXXXXXXX108AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/51/LEGIARTI000006275191.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "108",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1987-12-31",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°87-1060 du 30 décembre 1987 de finances pour 1988",
+          "@c_titre_court": "Loi n°87-1060 du 30 décembre 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317543"
+        },
+        {
+          "#text": "Loi n° 87-1060 du 30 décembre 1987 de finances pour 1988 (1)",
+          "@c_titre_court": "Loi n° 87-1060 du 30 décembre 1987",
+          "@debut": "1987-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068983"
+        }
+      ],
+      "@cid": "JORFTEXT000000317543",
+      "@date_publi": "1987-12-31",
+      "@date_signature": "1987-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX8700122L",
+      "@num": "87-1060"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-12-31",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006275191",
+          "@num": "108",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001686601",
+          "@num": "108",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La société constituée entre les professionnels pour la conservation du stock de produits pétroliers prévu à l'article 2 de la loi du 10 janvier 1925 relative au régime des pétroles et portant création d'un office national des combustibles liquides placée sous la tutelle des ministres chargés des hydrocarbures, de l'économie et du budget et dont les statuts sont approuvés par décret, n'est imposée sur ses bénéfices que lors de leur distribution, dans les conditions prévues à l'article 223 sexies du code général des impôts.<br/>\n<br/>   La société est tenue de distribuer chaque année les bénéfices de l'exercice. Toutefois, les ministres peuvent autoriser le réinvestissement des bénéfices.<br/>\n<br/>   La société ne peut céder ses stocks qu'à un prix supérieur ou égal au coût moyen pondéré d'acquisition. Cette cession ne peut intervenir que dans les deux cas suivants :<br/>\n<br/>   a) Sur injonction du ministre chargé des hydrocarbures, prise en vertu des dispositions réglementaires en vigueur ;<br/>\n<br/>   b) Pour ajuster le stock à l'obligation de stockage assurée par la société pour le compte de ses associés.<br/>\n<br/>   A quantités constantes, les mouvements du stock, produit par produit, destinés à maintenir sa qualité physique, se font valeur pour valeur.<br/>\n<br/>   Les versements des associés à la société sont déductibles de leurs résultats imposables à concurrence des frais de gestion et des charges financières de la société et d'une somme de 400 millions de francs représentant les premières charges de remboursement de l'emprunt souscrit par la société pour constituer son stock initial.<br/>\n<br/>   Les actions de cette société ne peuvent être cédées qu'avec l'autorisation des ministres. Dans ce cas, les sommes qui ont été déduites au titre du remboursement de l'emprunt sont rapportées au résultat imposable de l'associé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1655 quater",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "CGI 223 sexies",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1925-01-10 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 87-1060 1987-12-30 Finances pour 1988 JORF 31 décembre 1987",
+        "@cidtexte": "JORFTEXT000000317543",
+        "@datesignatexte": "1987-12-30",
+        "@id": "JORFTEXT000000317543",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700122L",
+        "@numtexte": "87-1060",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1655 quater (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006307009",
+        "@naturetexte": "CODE",
+        "@num": "1655 quater",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

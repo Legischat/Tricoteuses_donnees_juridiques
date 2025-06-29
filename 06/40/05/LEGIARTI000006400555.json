@@ -1,0 +1,138 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006400555",
+      "ANCIEN_ID": "ABEACXXXXXX074AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/05/LEGIARTI000006400555.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "74",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1994-10-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°85-98 du 25 janvier 1985 RELATIVE AU REDRESSEMENT ET A LA LIQUIDATION JUDICIAIRE DES ENTREPRISES",
+          "@c_titre_court": "Loi n°85-98 du 25 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693911"
+        },
+        {
+          "#text": "Loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises",
+          "@c_titre_court": "Loi n° 85-98 du 25 janvier 1985",
+          "@debut": "1985-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068923"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Régime général du redressement judiciaire",
+            "@debut": "1986-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006088096"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Le plan de continuation ou de cession de l'entreprise",
+              "@debut": "1986-01-01",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006116791"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section II : La continuation de l'entreprise.",
+                "@debut": "1986-01-01",
+                "@fin": "2000-09-21",
+                "@id": "LEGISCTA000006135676"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Sous-section II : Modalités d'apurement du passif.",
+                  "@debut": "1986-01-01",
+                  "@fin": "2000-09-21",
+                  "@id": "LEGISCTA000006149562"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000693911",
+      "@date_publi": "1985-01-26",
+      "@date_signature": "1985-01-25",
+      "@nature": "LOI",
+      "@num": "85-98"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1994-10-01",
+          "@id": "LEGIARTI000006400555",
+          "@num": "74",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006400556",
+          "@num": "74",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le tribunal donne acte des délais et remises acceptés par les créanciers dans les conditions prévues aux deuxième et troisième alinéas de l'article 24. Ces délais et remises peuvent, le cas échéant, être réduits par le tribunal. Pour les autres créanciers, le tribunal impose des délais uniformes de paiement, sous réserve, en ce qui concerne les créances à terme, des délais supérieurs stipulés par les parties avant l'ouverture de la procédure.<br/>\n<br/>   Les délais peuvent excéder la durée du plan.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 85-98 1985-01-25 art. 24",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000693911",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 85-98 1985-01-25 art. 76 *dérogation*",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000693911",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

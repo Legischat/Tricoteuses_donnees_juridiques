@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327656",
+      "ANCIEN_ID": "FAIMFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/76/LEGIARTI000006327656.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-02-01",
+        "DATE_FIN": "1985-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 janvier 1985 relatif aux conditions d'application du décret n° 85-141 du 30 janvier 1985 relatif à la taxe parafiscale instituée au profit du comité de développement des industries françaises de l'ameublement",
+          "@c_titre_court": "Arrêté du 30 janvier 1985",
+          "@debut": "1985-02-01",
+          "@fin": "1985-12-31",
+          "@id_txt": "LEGITEXT000006069890"
+        }
+      ],
+      "@cid": "LEGITEXT000006069890",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-01-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-02-01",
+          "@etat": "PERIME",
+          "@fin": "1985-12-31",
+          "@id": "LEGIARTI000006327656",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de la taxe créée par le décret n° 71-490 du 23 juin 1971 susvisé est fixé à 0,45 p. 100 du montant hors taxes des ventes.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 71-490 1971-06-23",
+        "@cidtexte": "JORFTEXT000000335236",
+        "@datesignatexte": "1971-06-23",
+        "@id": "JORFTEXT000000335236",
+        "@naturetexte": "DECRET",
+        "@numtexte": "71-490",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 71-490 1971-06-23 modifié par le décret 85-141 1985-01-30",
+        "@cidtexte": "JORFTEXT000000335236",
+        "@datesignatexte": "1971-06-23",
+        "@id": "JORFTEXT000000335236",
+        "@naturetexte": "DECRET",
+        "@numtexte": "71-490",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 85-141 1985-01-30",
+        "@cidtexte": "JORFTEXT000000866862",
+        "@datesignatexte": "1985-01-30",
+        "@id": "JORFTEXT000000866862",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-141",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

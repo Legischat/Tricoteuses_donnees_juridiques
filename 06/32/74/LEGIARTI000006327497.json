@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327497",
+      "ANCIEN_ID": "FAIKGXXXXXX084AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/74/LEGIARTI000006327497.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "84",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-01-01",
+        "DATE_FIN": "2009-06-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 décembre 1983 relatif au régime d'exonération fiscale afférent à certaines importations de biens.",
+          "@c_titre_court": "Arrêté du 30 décembre 1983",
+          "@debut": "1984-01-01",
+          "@fin": "2009-06-25",
+          "@id_txt": "LEGITEXT000006069847"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "EXONERATIONS DIVERSES",
+            "@debut": "1984-01-01",
+            "@fin": "2009-06-25",
+            "@id": "LEGISCTA000006084911"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CARBURANTS *ESSENCE, GAS-OIL* A BORD DES VEHICULES A MOTEUR TERRESTRES",
+              "@debut": "1984-01-01",
+              "@fin": "2009-06-25",
+              "@id": "LEGISCTA000006114990"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069847",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-12-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2009-06-25",
+          "@id": "LEGIARTI000006327497",
+          "@num": "84",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "1. Sont admis en exonération, sous réserve des dispositions des articles 85 à 87 : <br/>\n    a) Le carburant contenu dans les réservoirs normaux des véhicules automobiles de tourisme, des véhicules automobiles utilitaires et des motocycles ; <br/>\n    b) Le carburant contenu dans les réservoirs portatifs se trouvant à bord des véhicules automobiles de tourisme et des motocycles, dans la limite de 10 litres par véhicule et sans préjudice des dispositions nationales en matière de détention et de transport de carburants.<br/>\n   2. Au sens du paragraphe 1, on entend par : <br/>\n    a) \"Véhicule automobile utilitaire\" [*définition*], tout véhicule routier à moteur qui, d'après son type de construction et son équipement, est apte et destiné aux transports avec ou sans rémunération : <br/>\n    - de plus de neuf personnes, y compris le conducteur ; <br/>\n    - de marchandises, <br/>\n ainsi que tout véhicule routier à usage spécial autre que le transport proprement dit ; <br/>\n    b) \"Véhicule automobile de tourisme\" : tout véhicule automobile ne répondant pas aux critères définis sous a ; <br/>\n    c) \"Réservoirs normaux\" [*définition*] : les réservoirs fixés à demeure par le constructeur sur tous les véhicules automobiles du même type que le véhicule concerné et dont l'agencement permanent permet l'utilisation directe du carburant, tant pour la traction des véhicules que, le cas échéant, pour le fonctionnement des systèmes de réfrigération. <br/>\n    Sont également considérés comme réservoirs normaux les réservoirs à gaz adaptés sur des véhicules à moteur qui permettent l'utilisation directe du gaz comme carburant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "\"Le présent arrêté entre en vigueur le 1er janvier 1984\" (art. 94)",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1983-12-30 ART. 85, ART. 86, ART. 87",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 18 juin 2009 - art. 2",
+        "@cidtexte": "JORFTEXT000020782407",
+        "@datesignatexte": "2009-06-18",
+        "@id": "LEGIARTI000020784709",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BCFL0905918A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

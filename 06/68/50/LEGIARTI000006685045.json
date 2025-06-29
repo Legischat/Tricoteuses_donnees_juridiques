@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006685045",
+      "ANCIEN_ID": "SMIAKXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/50/LEGIARTI000006685045.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-05-17",
+        "DATE_FIN": "2015-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 mars 1983 RELATIF A LA MEDAILLE DE LA FAMILLE FRANCAISE",
+          "@c_titre_court": "Arrêté du 15 mars 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000843222"
+        },
+        {
+          "#text": "Arrêté du 15 mars 1983  RELATIF A L'APPLICATION DU DECRET N° 82-938 DU 28 OCTOBRE 1982 CREANT UNE MEDAILLE DE LA FAMILLE FRANCAISE.",
+          "@c_titre_court": "Arrêté du 15 mars 1983",
+          "@debut": "1983-05-17",
+          "@fin": "2015-09-01",
+          "@id_txt": "LEGITEXT000006072654"
+        }
+      ],
+      "@cid": "JORFTEXT000000843222",
+      "@date_publi": "1983-05-17",
+      "@date_signature": "1983-03-15",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-17",
+          "@etat": "ABROGE",
+          "@fin": "2015-09-01",
+          "@id": "LEGIARTI000006685045",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tous les membres de la commission supérieure et des commissions départementales de la médaille de la famille française, ainsi que les personnes assurant le service départemental de la médaille, sont liés par l'obligation de discrétion professionnelle prévue à l'article 10 de l'ordonnance n° 59-244 du 4 février 1959, sous peine de retrait de leur mandat.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 59-244 du 4 février 1959",
+        "@cidtexte": "JORFTEXT000000875201",
+        "@datesignatexte": "1959-02-04",
+        "@id": "JORFTEXT000000875201",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "59-244",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 82-938 1982-10-28",
+        "@cidtexte": "JORFTEXT000000701662",
+        "@datesignatexte": "1982-10-28",
+        "@id": "JORFTEXT000000701662",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-938",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "ARRÊTÉ du 24 juin 2015 - art. 11",
+        "@cidtexte": "JORFTEXT000030852334",
+        "@datesignatexte": "2015-06-24",
+        "@id": "LEGIARTI000030852971",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AFSA1424209A",
+        "@num": "11",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

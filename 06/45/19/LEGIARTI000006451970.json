@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006451970",
+      "ANCIEN_ID": "PFFAAXXXXXX079AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/19/LEGIARTI000006451970.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "79",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1994-02-08",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature",
+          "@c_titre_court": "Ordonnance n° 58-1270 du 22 décembre 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339259"
+        },
+        {
+          "#text": "Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.",
+          "@c_titre_court": "Ordonnance n° 58-1270 du 22 décembre 1958",
+          "@debut": "1958-12-23",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069212"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IX : Cessation des fonctions.",
+            "@debut": "1958-12-23",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006091606"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000339259",
+      "@date_publi": "1958-12-23",
+      "@date_signature": "1958-12-22",
+      "@nature": "ORDONNANCE",
+      "@num": "58-1270"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-12-23",
+          "@etat": "MODIFIE",
+          "@fin": "1994-02-08",
+          "@id": "LEGIARTI000006451969",
+          "@num": "79",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-02-08",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006451970",
+          "@num": "79",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les magistrats honoraires sont tenus à la réserve qui s'impose à leur condition.</p>\n<p>Le retrait de l'honorariat peut être prononcé pour des motifs tirés du comportement du magistrat honoraire depuis son admission à la retraite ou pour des faits constitutifs d'une faute disciplinaire au sens de l'article 43, commis pendant la période d'activité du magistrat s'ils n'ont été connus du ministère de la justice qu'après l'admission à la retraite.</p>\n<p>L'honorariat ne peut être retiré que dans les formes prévues au chapitre VII.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°58-1270 du 22 décembre 1958 - art. 43 (V)",
+        "@cidtexte": "JORFTEXT000000339259",
+        "@datesignatexte": "1958-12-22",
+        "@id": "LEGIARTI000006451894",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "43",
+        "@numtexte": "58-1270",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°94-101 du 5 février 1994 - art. 23 () JORF 8 février 1994",
+        "@cidtexte": "JORFTEXT000000546788",
+        "@datesignatexte": "1994-02-05",
+        "@id": "LEGIARTI000006450918",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "JUSX9300123L",
+        "@num": "23",
+        "@numtexte": "94-101",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006737465",
+      "ANCIEN_ID": "AFHHSXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/73/74/LEGIARTI000006737465.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-05-03",
+        "DATE_FIN": "2005-08-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 96-367 du 2 mai 1996  relatif au livret jeune",
+          "@c_titre_court": "Décret n°96-367 du 2 mai 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000559643"
+        },
+        {
+          "#text": "Décret n°96-367 du 2 mai 1996 relatif au livret jeune",
+          "@c_titre_court": "Décret n°96-367 du 2 mai 1996",
+          "@debut": "1996-05-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005620868"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : De l'ouverture et de la clôture du livret jeune.",
+            "@debut": "1996-05-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006106033"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000559643",
+      "@date_publi": "1996-05-03",
+      "@date_signature": "1996-05-02",
+      "@ministere": "MINISTERE DE L'ECONOMIE ET DES FINANCES",
+      "@nature": "DECRET",
+      "@nor": "ECOT9626159D",
+      "@num": "96-367"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-05-03",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006737465",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-12-31",
+          "@etat": "MODIFIE_MORT_NE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006737466",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE_MORT_NE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le livret jeune peut être ouvert dans les établissements de crédit ou auprès des services financiers de La Poste conventionnés à cet effet dans les conditions prévues à l'article 12, ainsi qu'auprès des comptables du Trésor.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°96-367 du 2 mai 1996 - art. 12 (V)",
+        "@cidtexte": "JORFTEXT000000559643",
+        "@datesignatexte": "1996-05-02",
+        "@id": "LEGIARTI000006737667",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOT9626159D",
+        "@num": "12",
+        "@numtexte": "96-367",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005",
+        "@cidtexte": "JORFTEXT000000451781",
+        "@datesignatexte": "2005-08-02",
+        "@id": "LEGIARTI000006244165",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOX0500001D",
+        "@num": "5",
+        "@numtexte": "2005-1007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. R221-76 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006683490",
+        "@naturetexte": "CODE",
+        "@num": "R221-76",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

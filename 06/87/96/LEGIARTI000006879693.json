@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006879693",
+      "ANCIEN_ID": "UTHADXXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/96/LEGIARTI000006879693.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1968-02-04",
+        "DATE_FIN": "2012-05-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 67-967 du 27 octobre 1967 portant statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Décret n° 67-967 du 27 octobre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000702914"
+        },
+        {
+          "#text": "Décret n°67-967 du 27 octobre 1967 relatif au statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Décret n°67-967 du 27 octobre 1967",
+          "@debut": "1968-02-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061498"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre V : Hypothèques maritimes",
+            "@debut": "1968-02-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006111694"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000702914",
+      "@date_publi": "1967-11-04",
+      "@date_signature": "1967-10-27",
+      "@nature": "DECRET",
+      "@num": "67-967"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-02-04",
+          "@etat": "MODIFIE",
+          "@fin": "2012-05-06",
+          "@id": "LEGIARTI000006879693",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2012-05-06",
+          "@etat": "ABROGE",
+          "@fin": "2023-10-07",
+          "@id": "LEGIARTI000025820261",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "L'acquéreur d'un bâtiment ou d'une portion de bâtiment hypothéqué qui veut se garantir des poursuites autorisées par les articles 55 et 56 de la loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer est tenu avant la poursuite ou dans le délai de quinzaine, de notifier à tous les créanciers inscrits au domicile élu dans leurs inscriptions :<br/>\n    1° Un extrait de son titre, indiquant seulement la date et la nature de l'acte, le nom du vendeur, le nom, l'espèce et le tonnage du bâtiment et les charges faisant partie du prix ;<br/>\n    2° Un tableau sur trois colonnes, dont la première contiendra la date des inscriptions, la seconde le nom des créanciers, la troisième le montant des créances inscrites.<br/>\n    Cette notification contiendra constitution d'avoué.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 67-5 1967-01-03",
+        "@cidtexte": "JORFTEXT000000878026",
+        "@datesignatexte": "1967-01-03",
+        "@id": "JORFTEXT000000878026",
+        "@naturetexte": "LOI",
+        "@numtexte": "67-5",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°67-967 du 27 octobre 1967 - art. 100 (V)",
+        "@cidtexte": "JORFTEXT000000702914",
+        "@datesignatexte": "1967-10-27",
+        "@id": "LEGIARTI000006879778",
+        "@naturetexte": "DECRET",
+        "@num": "100",
+        "@numtexte": "67-967",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

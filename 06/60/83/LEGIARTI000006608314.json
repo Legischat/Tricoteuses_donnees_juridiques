@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006608314",
+      "ANCIEN_ID": "RAIHRXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/83/LEGIARTI000006608314.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-01-27",
+        "DATE_FIN": "2016-05-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 janvier 2001 relatif aux encouragements à l'élevage des équidés",
+          "@c_titre_court": "Arrêté du 10 janvier 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000768175"
+        },
+        {
+          "#text": "Arrêté du 10 janvier 2001 relatif aux encouragements à l'élevage des équidés",
+          "@c_titre_court": "Arrêté du 10 janvier 2001",
+          "@debut": "2001-01-27",
+          "@fin": "2016-05-12",
+          "@id_txt": "LEGITEXT000005630557"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Les subventions.",
+            "@debut": "2001-01-27",
+            "@fin": "2016-05-12",
+            "@id": "LEGISCTA000006098929"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000768175",
+      "@date_publi": "2001-01-27",
+      "@date_signature": "2001-01-10",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "ARRETE",
+      "@nor": "AGRR0100122A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-01-27",
+          "@etat": "ABROGE",
+          "@fin": "2016-05-12",
+          "@id": "LEGIARTI000006608314",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Peuvent faire l'objet d'une subvention spécifique imputée sur les crédits disponibles à cet effet au titre du Fonds national des haras et des activités hippiques :<br/>\n<br/>-la Fédération nationale des courses françaises dans le respect des dispositions des articles 22 à 26 du décret n° 97-456 du 5 mai 1997 ;<br/>\n<br/>-les organismes nationaux habilités à intervenir dans la sélection ;<br/>\n<br/>-les organismes à compétence locale, régionale ou nationale dont les actions visent directement l'identification du cheptel, la sélection des races et appellations reconnues en France, leur mise en valeur ou la mise en marché de leurs produits dans le respect des règles édictées par le ministre de l'agriculture.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n° 97-456 du 5 mai 1997 - art. 22",
+        "@cidtexte": "JORFTEXT000000564628",
+        "@datesignatexte": "1997-05-05",
+        "@id": "LEGIARTI000006521842",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRH9600815D",
+        "@num": "22",
+        "@numtexte": "97-456",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 28 avril 2016 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000032511333",
+        "@datesignatexte": "2016-04-28",
+        "@id": "LEGIARTI000032515536",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRT1611069A",
+        "@num": "7",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

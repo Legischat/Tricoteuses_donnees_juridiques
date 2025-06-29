@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006828569",
+      "ANCIEN_ID": "UCIBSXXXXXX008AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/85/LEGIARTI000006828569.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-10-02",
+        "DATE_FIN": "2001-10-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 mars 1978 relatif aux conditions d'octroi et au montant des prêts conventionnés",
+          "@c_titre_court": "Arrêté du 7 mars 1978",
+          "@debut": "1978-03-23",
+          "@fin": "2001-10-06",
+          "@id_txt": "LEGITEXT000006074144"
+        }
+      ],
+      "@cid": "LEGITEXT000006074144",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1978-03-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-03-23",
+          "@etat": "MODIFIE",
+          "@fin": "1991-10-26",
+          "@id": "LEGIARTI000006828567",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-10-26",
+          "@etat": "MODIFIE",
+          "@fin": "1993-10-02",
+          "@id": "LEGIARTI000006828568",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-10-02",
+          "@etat": "ABROGE",
+          "@fin": "2001-10-06",
+          "@id": "LEGIARTI000006828569",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les opérations visées à l'article R. 331-63 (4o) du code de la construction et de l'habitation, le montant toutes taxes comprises des travaux doit être au minimum égal à 25 000 F.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-09-15 art. 1 JORF 12 octobre 1993",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2001-10-04 art. 13 JORF 6 octobre 2001",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation. - art. R331-63 (M)",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006898669",
+        "@naturetexte": "CODE",
+        "@num": "R331-63",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006678200",
+      "ANCIEN_ID": "SHIGYXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/82/LEGIARTI000006678200.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-08-12",
+        "DATE_FIN": "2013-07-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 août 1982 relatif aux couleurs et signaux de sécurité",
+          "@c_titre_court": "Arrêté du 4 août 1982",
+          "@debut": "1982-08-12",
+          "@fin": "2013-07-07",
+          "@id_txt": "LEGITEXT000006072583"
+        }
+      ],
+      "@cid": "LEGITEXT000006072583",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-08-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-08-12",
+          "@etat": "ABROGE",
+          "@fin": "2013-07-07",
+          "@id": "LEGIARTI000006678200",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>L'application de la norme NF X 08-003 (Couleurs et signaux de sécurité) est, pour ce qui est du chapitre 11 de ladite norme (Signalisation particulière de sécurité), obligatoire à partir du 1er janvier 1983.</p>\n<p>Toutefois, les signaux de sécurité relatifs à la protection contre les rayonnements ionisants et conformes à l'arrêté du 7 juillet 1977 susvisé ou à la norme NF M 60-101 restent autorisés.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-07-07",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 3 juillet 2013 - art. 1",
+        "@cidtexte": "JORFTEXT000027665190",
+        "@datesignatexte": "2013-07-03",
+        "@id": "LEGIARTI000027677801",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "PROI1243069A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

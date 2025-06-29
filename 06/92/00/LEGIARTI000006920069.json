@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006920069",
+      "ANCIEN_ID": "AKHAKXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/00/LEGIARTI000006920069.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1956-03-03",
+        "DATE_FIN": "1975-08-23",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 56-222 du 29 février 1956 portant règlement d'administration publique pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice",
+          "@c_titre_court": "Décret n° 56-222 du 29 février 1956",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000686521"
+        },
+        {
+          "#text": "Décret n°56-222 du 29 février 1956 pris pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice",
+          "@c_titre_court": "Décret n°56-222 du 29 février 1956",
+          "@debut": "1956-03-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060767"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Statut personnel des huissiers de justice",
+            "@debut": "1956-03-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006113015"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section I : Nombre et résidence des huissiers de justice.",
+              "@debut": "2999-01-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006132429"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000686521",
+      "@date_publi": "1956-03-03",
+      "@date_signature": "1956-02-29",
+      "@nature": "DECRET",
+      "@num": "56-222"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-03-03",
+          "@etat": "ABROGE",
+          "@fin": "1975-08-23",
+          "@id": "LEGIARTI000006920069",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Article abrogé</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°75-770 du 14 août 1975 - art. 60 (VT)",
+        "@cidtexte": "JORFTEXT000000876235",
+        "@datesignatexte": "1975-08-14",
+        "@id": "LEGIARTI000006924283",
+        "@naturetexte": "DECRET",
+        "@num": "60",
+        "@numtexte": "75-770",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°75-770 du 14 août 1975 - art. 60 (VT)",
+        "@cidtexte": "JORFTEXT000000876235",
+        "@datesignatexte": "1975-08-14",
+        "@id": "LEGIARTI000006924283",
+        "@naturetexte": "DECRET",
+        "@num": "60",
+        "@numtexte": "75-770",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

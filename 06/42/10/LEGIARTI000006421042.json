@@ -1,0 +1,137 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006421042",
+      "ANCIEN_ID": "ACAXXXXXXXX5X00062BAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/10/LEGIARTI000006421042.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "62-1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2002-01-23",
+        "DATE_FIN": "2006-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Des personnes",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089697"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Des actes de l'état civil",
+              "@debut": "1804-03-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117679"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : Des actes de naissance.",
+                "@debut": "1804-03-21",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006136103"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 3 : De l'acte de reconnaissance.",
+                  "@debut": "2006-07-01",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006150517"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-23",
+          "@etat": "MODIFIE",
+          "@fin": "2006-07-01",
+          "@id": "LEGIARTI000006421042",
+          "@num": "62-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006421043",
+          "@num": "62-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si la transcription de la reconnaissance paternelle s'avère impossible, du fait du secret de son identité opposé par la mère, le père peut en informer le procureur de la République. Celui-ci procède à la recherche des date et lieu d'établissement de l'acte de naissance de l'enfant.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°2002-93 du 22 janvier 2002 - art. 14 () JORF 23 janvier 2002",
+        "@cidtexte": "JORFTEXT000000593077",
+        "@datesignatexte": "2002-01-22",
+        "@id": "LEGIARTI000006207610",
+        "@naturetexte": "LOI",
+        "@nortexte": "MESX0205318L",
+        "@num": "14",
+        "@numtexte": "2002-93",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code civil - art. 2492 (VD)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023264251",
+        "@naturetexte": "CODE",
+        "@num": "2492",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1803-03-11",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

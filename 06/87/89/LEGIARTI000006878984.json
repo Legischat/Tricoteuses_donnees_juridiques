@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006878984",
+      "ANCIEN_ID": "UTEBEXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/89/LEGIARTI000006878984.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-10-26",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°68-917 du 24 octobre 1968 relative au port autonome de Paris",
+          "@c_titre_court": "Loi n°68-917 du 24 octobre 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878369"
+        },
+        {
+          "#text": "Loi n° 68-917 du 24 octobre 1968 relative au port autonome de Paris",
+          "@c_titre_court": "Loi n° 68-917 du 24 octobre 1968",
+          "@debut": "1968-10-26",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068325"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "INSTITUTION ET ATTRIBUTIONS DU PORT DE PARIS",
+            "@debut": "1968-10-26",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006111614"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000878369",
+      "@date_publi": "1968-10-26",
+      "@date_signature": "1968-10-24",
+      "@nature": "LOI",
+      "@num": "68-917"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-10-26",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006878984",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un décret en Conseil d'Etat déterminera les conditions de gestion par le port autonome de Paris, des dépendances du domaine public de l'Etat et fixera les compétences et obligations de l'établissement public gestionnaire à l'égard de l'Etat et des usagers.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 68-917 1968-10-24 ART. 14 (date d'entrée en vigueur)",
+        "@cidtexte": "JORFTEXT000000878369",
+        "@datesignatexte": "1968-10-24",
+        "@id": "JORFTEXT000000878369",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-917",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des transports - art. L4322-12 (VT)",
+        "@cidtexte": "LEGITEXT000023086525",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023082904",
+        "@naturetexte": "CODE",
+        "@num": "L4322-12",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

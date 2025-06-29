@@ -1,0 +1,157 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006645985",
+      "ANCIEN_ID": "SAAXXXXXXXX1X122L14MXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/59/LEGIARTI000006645985.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L122-14-12",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1987-07-31",
+        "DATE_FIN": "1991-01-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Conventions relatives au travail",
+              "@debut": "1973-01-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123870"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Contrat de travail",
+                "@debut": "1973-11-23",
+                "@fin": "2008-05-01",
+                "@id": "LEGISCTA000006139774"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL",
+                  "@debut": "1973-11-23",
+                  "@fin": "2008-05-01",
+                  "@id": "LEGISCTA000006153998"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 2 : Résiliation du contrat de travail à durée indéterminée",
+                    "@debut": "1974-09-29",
+                    "@fin": "2008-05-01",
+                    "@id": "LEGISCTA000006169991"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-07-31",
+          "@etat": "MODIFIE",
+          "@fin": "1991-01-20",
+          "@id": "LEGIARTI000006645985",
+          "@num": "L122-14-12",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-20",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000006645986",
+          "@num": "L122-14-12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions relatives au départ à la retraite des salariés prévues par une convention collective, un accord collectif de travail ou un contrat de travail sont applicables sous réserve qu'elles ne soient pas contraires aux dispositions légales.<br/>\n<br/>    Sont nulles et de nul effet toute disposition d'une convention ou d'un accord collectif de travail et toute clause d'un contrat de travail prévoyant une rupture de plein droit du contrat de travail d'un salarié en raison de son âge ou du fait qu'il serait en droit de bénéficier d'une pension de vieillesse.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°87-588 du 30 juillet 1987 - art. 59 () JORF 31 juillet 1987",
+        "@cidtexte": "JORFTEXT000000687467",
+        "@datesignatexte": "1987-07-30",
+        "@id": "LEGIARTI000006275401",
+        "@naturetexte": "LOI",
+        "@nortexte": "ASEX8700089L",
+        "@num": "59",
+        "@numtexte": "87-588",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code du travail - art. L1237-4 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006901178",
+        "@naturetexte": "CODE",
+        "@num": "L1237-4",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail - art. L1237-4 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006901178",
+        "@naturetexte": "CODE",
+        "@num": "L1237-4",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 73-1046 1973-11-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006552260",
+      "ANCIEN_ID": "ADHFNXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/22/LEGIARTI000006552260.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-02-25",
+        "DATE_FIN": "1988-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°63-695 du 10 juillet 1963 PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE POUR L'APPLICATION DE LA LOI DU 01-08-1905 SUR LA REPRESSION DES FRAUDES,",
+          "@c_titre_court": "Décret n°63-695 du 10 juillet 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000852358"
+        },
+        {
+          "#text": "Décret n°63-695 du 10 juillet 1963 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne les laits fermentés et le yaourt ou yoghourt",
+          "@c_titre_court": "Décret n°63-695 du 10 juillet 1963",
+          "@debut": "1963-07-16",
+          "@fin": "1988-12-31",
+          "@id_txt": "LEGITEXT000006061143"
+        }
+      ],
+      "@cid": "JORFTEXT000000852358",
+      "@date_publi": "1963-07-16",
+      "@date_signature": "1963-07-10",
+      "@nature": "DECRET",
+      "@num": "63-695"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-16",
+          "@etat": "TRANSFERE",
+          "@fin": "1982-02-25",
+          "@id": "LEGIARTI000006552259",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-02-25",
+          "@etat": "ABROGE",
+          "@fin": "1988-12-31",
+          "@id": "LEGIARTI000006552260",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La dénomination yaourt ou yoghourt est réservée au lait fermenté frais obtenu, selon les usages loyaux et constants, par le développement des seules bactéries lactiques thermophiles spécifiques dites lactobacillus bulgaricus et streptococcus thermophilus, qui doivent être ensemencées simultanément et se trouver vivantes dans le produit mis en vente à raison d'au moins 100 millions de bactéries par gramme.<br/>\n<br/>   Le lait utilisé pour la fabrication du yaourt ou yoghourt ne peut avoir fait l'objet d'une reconstitution. Toutefois, il peut être additionné de lait en poudre, écrémé ou non, à la dose maximale de 5 grammes de poudre pour 100 grammes de lait utilisé.<br/>\n<br/>   Le yaourt ou yoghourt ne doit faire l'objet après coagulation du lait d'aucun traitement autre que la réfrigération, et éventuellement le brassage.<br/>\n<br/>   La quantité d'acide lactique libre contenue dans le yaourt ou yoghourt ne doit pas être inférieure à 0,8 gramme pour 100 grammes lors de la vente au consommateur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°63-695 du 10 juillet 1963 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000852358",
+        "@datesignatexte": "1963-07-10",
+        "@id": "LEGIARTI000006552265",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "63-695",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret n°63-695 du 10 juillet 1963 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000852358",
+        "@datesignatexte": "1963-07-10",
+        "@id": "LEGIARTI000006552268",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "63-695",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-1203 du 30 décembre 1988 - art. 8 () JORF 31 décembre 1988",
+        "@cidtexte": "JORFTEXT000000867408",
+        "@datesignatexte": "1988-12-30",
+        "@id": "LEGIARTI000006563561",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOC8800150D",
+        "@num": "8",
+        "@numtexte": "88-1203",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

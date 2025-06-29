@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006465830",
+      "ANCIEN_ID": "ACEALXXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/58/LEGIARTI000006465830.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-10-01",
+        "DATE_FIN": "1985-04-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°49-1098 du 2 août 1949 PORTANT REVISION DE CERTAINES RENTES VIAGERES CONSTITUEES AUPRES DES COMPAGNIES D'ASSURANCES, PAR LA CAISSE NATIONALE DES RETRAITES POUR LA VIEILLESSE OU PAR DES PARTICULIERS MOYENNANT L'ALIENATION DES CAPITAUX EN ESPECE",
+          "@c_titre_court": "Loi n°49-1098 du 2 août 1949",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692192"
+        },
+        {
+          "#text": "Loi n° 49-1098 du 2 août 1949 portant révision de certaines rentes viagères constituées par les compagnies d'assurances, par la Caisse nationale des retraites pour la vieillesse ou par des particuliers moyennant l'aliénation de capitaux en espèces",
+          "@c_titre_court": "Loi n° 49-1098 du 2 août 1949",
+          "@debut": "1949-08-06",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068059"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Dispositions générales.",
+            "@debut": "1949-08-06",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006092427"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000692192",
+      "@date_publi": "1949-08-06",
+      "@date_signature": "1949-08-02",
+      "@nature": "LOI",
+      "@num": "49-1098"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-09-16",
+          "@etat": "MODIFIE",
+          "@fin": "1981-10-01",
+          "@id": "LEGIARTI000006465829",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-10-01",
+          "@etat": "ABROGE",
+          "@fin": "1985-04-13",
+          "@id": "LEGIARTI000006465830",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les contestations relatives à l'application de la présente loi, à l'exception des dispositions du titre II, sont de la compétence du tribunal d'instance lorsque la rente originaire est inférieure ou égale à 3.000 F [*francs*] et, quel que soit le montant de la rente originaire, lorsque la rente effectivement payée au jour de la demande en justice est inférieure ou égale à 10.000 F. Dans les autres cas, les contestations sont portées devant le tribunal de grande instance.<br/>\n<br/>   Le tribunal compétent est celui du domicile du crédirentier.<br/>\n<br/>   Les décisions rendues sont susceptibles d'appel dans les [*conditions de*] formes et délais de droit commun.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 81-818 1981-09-01 art. 12 *champ d'application*",
+        "@cidtexte": "JORFTEXT000000698680",
+        "@datesignatexte": "1981-09-01",
+        "@id": "JORFTEXT000000698680",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-818",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret  n°85-422 du 10 avril 1985  - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000885721",
+        "@datesignatexte": "1985-04-10",
+        "@id": "LEGIARTI000018942016",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "85-422",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-422 1985-04-10 art. 1 JORF 13 avril 1985",
+        "@cidtexte": "JORFTEXT000000885721",
+        "@datesignatexte": "1985-04-10",
+        "@id": "JORFTEXT000000885721",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-422",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

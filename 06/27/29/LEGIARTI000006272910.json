@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006272910",
+      "ANCIEN_ID": "FAEADXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/29/LEGIARTI000006272910.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1974-12-28",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi de finances rectificative pour 1974 (n° 74-1114 du 27 décembre 1974)",
+          "@c_titre_court": "Loi n°74-1114 du 27 décembre 1974",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000333533"
+        },
+        {
+          "#text": "Loi n° 74-1114 du 27 décembre 1974 DE FINANCES RECTIFICATIVE POUR 1974",
+          "@c_titre_court": "Loi n° 74-1114 du 27 décembre 1974",
+          "@debut": "1974-12-28",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068478"
+        }
+      ],
+      "@cid": "JORFTEXT000000333533",
+      "@date_publi": "1974-12-28",
+      "@date_signature": "1974-12-27",
+      "@nature": "LOI",
+      "@num": "74-1114"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-12-28",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006272910",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002293486",
+          "@num": "13",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   LA LIMITE PREVUE A L'ARTICLE 39 4 DU CODE GENERAL DES IMPOTS POUR L'AMORTISSEMENT FISCAL DE CERTAINS VEHICULES AUTOMOBILES S'APPLIQUE A L'ENSEMBLE DES VEHICULES IMMATRICULES DANS LA CATEGORIE DES VOITURES PARTICULIERES. ELLE EST PORTEE A 35 000 F.<br/>\n<br/>   CETTE DISPOSITION S'APPLIQUE AUX EXERCICES CLOS A COMPTER DU 1ER JANVIER 1975.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 39 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 74-1114 1974-12-27 Finances rectificative pour 1974 JORF 28 DECEMBRE",
+        "@cidtexte": "JORFTEXT000000333533",
+        "@datesignatexte": "1974-12-27",
+        "@id": "JORFTEXT000000333533",
+        "@naturetexte": "LOI",
+        "@numtexte": "74-1114",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 39 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006307561",
+        "@naturetexte": "CODE",
+        "@num": "39",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

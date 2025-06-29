@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006863057",
+      "ANCIEN_ID": "UPINBXXXXXX032AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/30/LEGIARTI000006863057.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "32",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-04-09",
+        "DATE_FIN": "1996-06-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 mars 1982 relatif aux règles de construction et d'installation des fosses septiques et appareils utilisés en matière d'assainissement autonome des bâtiments d'habitation",
+          "@c_titre_court": "Arrêté du 3 mars 1982",
+          "@debut": "1982-04-09",
+          "@fin": "1996-06-08",
+          "@id_txt": "LEGITEXT000006074621"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Autres bâtiments d'habitation",
+            "@debut": "1982-04-09",
+            "@fin": "1996-06-08",
+            "@id": "LEGISCTA000006110255"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074621",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-03-03",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-04-09",
+          "@etat": "ABROGE",
+          "@fin": "1996-06-08",
+          "@id": "LEGIARTI000006863057",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les décanteurs digesteurs peuvent être utilisés pour la desserte de populations atteignant au moins 30 habitants soit pour réaliser une simple décantation des effluents, soit en prélude à une épuration poussée.<br/>\n<br/>   Pour des populations inférieures à 150 habitants [*nombre*], la capacité totale du décanteur digesteur est au moins égale à 200 litres par habitant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1996-05-06 art. 17 JORF 8 juin 1996",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation R111-3",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

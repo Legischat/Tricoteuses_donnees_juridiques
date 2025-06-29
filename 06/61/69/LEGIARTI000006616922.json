@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616922",
+      "ANCIEN_ID": "RDHBLXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/69/LEGIARTI000006616922.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-10-13",
+        "DATE_FIN": "2021-07-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°88-964 du 12 octobre 1988 RELATIF A L'INSTAURATION D'UNE TAXE APPLICABLE A CERTAINS VEHICULES ROUTIERS OU ENSEMBLES DE VEHICULES IMMATRICULES EN NORVEGE",
+          "@c_titre_court": "Décret n°88-964 du 12 octobre 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509164"
+        },
+        {
+          "#text": "Décret n°88-964 du 12 octobre 1988 relatif à l'instauration d'une taxe applicable à certains véhicules routiers ou ensembles de véhicules immatriculés en Norvège",
+          "@c_titre_court": "Décret n°88-964 du 12 octobre 1988",
+          "@debut": "1988-10-13",
+          "@fin": "2021-07-29",
+          "@id_txt": "LEGITEXT000006066940"
+        }
+      ],
+      "@cid": "JORFTEXT000000509164",
+      "@date_publi": "1988-10-13",
+      "@date_signature": "1988-10-12",
+      "@nature": "DECRET",
+      "@nor": "ECOD8870011D",
+      "@num": "88-964"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-10-13",
+          "@etat": "ABROGE",
+          "@fin": "2021-07-29",
+          "@id": "LEGIARTI000006616922",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le nombre de jours taxables est décompté comme suit :<br/>\n<br/>   - le jour d'entrée est compté pour une unité quelle qu'en soit l'heure ;<br/>\n<br/>   - les journées suivantes comptent chacune pour une unité de 0 à 24 heures ;<br/>\n<br/>   - le jour de sortie n'est pas compté si la sortie intervient avant 18 heures.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2021-984 du 26 juillet 2021 - art. 6",
+        "@cidtexte": "JORFTEXT000043861727",
+        "@datesignatexte": "2021-07-26",
+        "@id": "LEGIARTI000043863264",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOE2114288D",
+        "@num": "6",
+        "@numtexte": "2021-984",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des douanes 284 bis à 284 sexies bis",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071570",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

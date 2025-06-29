@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006494077",
+      "ANCIEN_ID": "PJEEUXXXXXX020AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/40/LEGIARTI000006494077.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "20",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2004-03-10",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°69-700 du 30 juin 1969 PORTANT AMNISTIE",
+          "@c_titre_court": "Loi n°69-700 du 30 juin 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000321177"
+        },
+        {
+          "#text": "Loi n° 69-700 du 30 juin 1969 portant amnistie (1).",
+          "@c_titre_court": "Loi n° 69-700 du 30 juin 1969",
+          "@debut": "1969-07-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068339"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE IV : Effets de l'amnistie.",
+            "@debut": "1969-07-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006094154"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000321177",
+      "@date_publi": "1969-07-01",
+      "@date_signature": "1969-06-30",
+      "@nature": "LOI",
+      "@num": "69-700"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-07-01",
+          "@etat": "MODIFIE",
+          "@fin": "2004-03-10",
+          "@id": "LEGIARTI000006494076",
+          "@num": "20",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-03-10",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006494077",
+          "@num": "20",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'amnistie ne préjudicie pas aux droits des tiers. En cas d'instance sur les intérêts civils, le dossier pénal est versé aux débats et mis à la disposition des parties.<br/>\n<br/>   Si la juridiction de jugement a été saisie de l'action publique avant la publication de la présente loi, cette juridiction reste compétente pour statuer, le cas échéant, sur les intérêts civils.<br/>\n<br/>   L'amnistie n'est pas applicable aux frais de poursuites et d'instance avancés par l'Etat.<br/>\n<br/>   Toutefois, lorsque la condamnation a sanctionné uniquement des infractions de police, les effets de l'amnistie s'étendent aux frais de poursuites et d'instance non encore recouvrés.<br/>\n<br/>   La contrainte judiciaire ne peut être exercée contre les condamnés ayant bénéficié de l'amnistie.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 2004-204 2004-03-10 art. 198 V JORF 10 mars 2004",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 69-700 1969-06-30 art. 25 : champ d'application",
+        "@cidtexte": "JORFTEXT000000321177",
+        "@datesignatexte": "1969-06-30",
+        "@id": "JORFTEXT000000321177",
+        "@naturetexte": "LOI",
+        "@numtexte": "69-700",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

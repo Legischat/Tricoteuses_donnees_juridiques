@@ -1,0 +1,141 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006581099",
+      "ANCIEN_ID": "RAA0XXXXXXX1142EAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/10/LEGIARTI000006581099.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1142-4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-01-04",
+        "DATE_FIN": "2006-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Mutualité sociale agricole",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121386"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre IV-1 : Assurance vieillesse des personnes non salariées dans les départements d'outre-mer.",
+                "@debut": "1963-12-31",
+                "@fin": "2006-01-01",
+                "@id": "LEGISCTA000006138277"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-12-31",
+          "@etat": "MODIFIE",
+          "@fin": "1985-01-04",
+          "@id": "LEGIARTI000006581098",
+          "@num": "1142-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-04",
+          "@etat": "ABROGE",
+          "@fin": "2006-01-01",
+          "@id": "LEGIARTI000006581099",
+          "@num": "1142-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<br/>   Ordonnance n° 2004-605 du 24 juin 2004, art. 2 : maintien du versement de certaines allocations.<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'allocation n'est due aux personnes continuant leur exploitation que si la superficie pondérée de celle-ci, définie conformément aux dispositions de l'article 1142-13, ne dépasse pas un seuil fixé par décret.<br/>\n<br/>   Des dispositions particulières peuvent être prévues à l'égard des veuves exploitant avec le concours d'un seul salarié.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1142-13",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°85-10 du 3 janvier 1985 - art. 85 () JORF 4 janvier 1985",
+        "@cidtexte": "JORFTEXT000000317282",
+        "@datesignatexte": "1985-01-03",
+        "@id": "LEGIARTI000006756823",
+        "@naturetexte": "LOI",
+        "@num": "85",
+        "@numtexte": "85-10",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2004-605 du 24 juin 2004 - art. 3 (V) JORF 24 juin 2004 en vigueur au plus tard le 1er janvier 2006",
+        "@cidtexte": "JORFTEXT000000616395",
+        "@datesignatexte": "2004-06-24",
+        "@id": "LEGIARTI000006231838",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "SANX0400112R",
+        "@num": "3",
+        "@numtexte": "2004-605",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

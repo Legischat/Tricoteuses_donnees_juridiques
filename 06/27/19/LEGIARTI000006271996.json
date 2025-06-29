@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006271996",
+      "ANCIEN_ID": "AAEAAXXXXXX017ADXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/19/LEGIARTI000006271996.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17-3",
+        "ETAT": "MODIFIE_MORT_NE",
+        "DATE_DEBUT": "1985-03-01",
+        "DATE_FIN": "1985-01-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692245"
+        },
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "1964-04-01",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006068288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Règles de fonctionnement des diverses sociétés commerciales",
+            "@debut": "1964-04-01",
+            "@fin": "2003-01-01",
+            "@id": "LEGISCTA000006083319"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 1 : Sociétés en nom collectif.",
+              "@debut": "1967-04-01",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006113824"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000692245",
+      "@date_publi": "1966-07-26",
+      "@date_signature": "1966-07-24",
+      "@nature": "LOI",
+      "@num": "66-537"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-01",
+          "@etat": "MODIFIE_MORT_NE",
+          "@fin": "1985-01-26",
+          "@id": "LEGIARTI000006271996",
+          "@num": "17-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE_MORT_NE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-26",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006271997",
+          "@num": "17-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions concernant les pouvoirs, les incompatibilités visées à l'article 219-3, les fonctions, les obligations, la responsabilité, la récusation, la révocation, la rémunération des commissaires aux comptes des sociétés anonymes sont applicables aux sociétés en nom collectif, sous réserve des règles propres à celles-ci.<br/>\n<br/>   Le commissaire aux comptes est avisé, au plus tard en même temps que les associés, des assemblées ou consultations. Il a accès aux assemblées.<br/>\n<br/>   Les documents visés à l'article 16, alinéa premier, sont mis à la disposition du commissaire aux comptes dans les conditions et délais fixés par décret en Conseil d'Etat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 16, art. 219-3",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-148 1984-03-01 art. 62 *date d'effet*",
+        "@cidtexte": "JORFTEXT000000501098",
+        "@datesignatexte": "1984-03-01",
+        "@id": "JORFTEXT000000501098",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-148",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°84-148 du 1 mars 1984 - art. 9 () JORF 2 mars 1984 en vigueur le 1er mars 1985",
+        "@cidtexte": "JORFTEXT000000501098",
+        "@datesignatexte": "1984-03-01",
+        "@id": "LEGIARTI000006301082",
+        "@naturetexte": "LOI",
+        "@num": "9",
+        "@numtexte": "84-148",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

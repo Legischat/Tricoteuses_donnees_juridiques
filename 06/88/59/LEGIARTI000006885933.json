@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006885933",
+      "ANCIEN_ID": "UTI5EXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/59/LEGIARTI000006885933.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-02-20",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 mars 1995 relatif à l'équipement    en extincteurs des véhicules de transport de marchandises",
+          "@c_titre_court": "Arrêté du 2 mars 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000734682"
+        },
+        {
+          "#text": "Arrêté du 2 mars 1995 relatif à l'équipement en extincteurs des véhicules de transport de marchandises",
+          "@c_titre_court": "Arrêté du 2 mars 1995",
+          "@debut": "1995-03-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005618018"
+        }
+      ],
+      "@cid": "JORFTEXT000000734682",
+      "@date_publi": "1995-03-12",
+      "@date_signature": "1995-03-02",
+      "@ministere": "MINISTERE DE L'EQUIPEMENT,DES TRANSPORTS ET DU TOURISME",
+      "@nature": "ARRETE",
+      "@nor": "EQUS9500420A",
+      "@num_parution_jo": "0061"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-03-12",
+          "@etat": "MODIFIE",
+          "@fin": "2000-02-20",
+          "@id": "LEGIARTI000006885932",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-02-20",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006885933",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les extincteurs prévus aux articles 1er et 2 doivent être conformes aux dispositions de l'arrêté du 24 octobre 1984 modifié portant mise en application obligatoire de normes ou à des spécifications équivalentes en vigueur dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen. Ils doivent être conçus, ainsi que leur support, pour résister aux conditions de transport dans les véhicules et leurs performances doivent au minimum être les suivantes :<br/>\n<br/>\n GENRE D'EXTINCTEUR<br/>\n FOYERS TYPES ÉTEINTS au minimum (1)<br/>\n<br/>\n Extincteur extérieur (6 kg au moins)<br/>\n 21 A et 113 B <br/>\n Extincteur de cabine (2 kg au moins)<br/>\n 8 A et 34 B <br/>\n<br/>   (1) Ces foyers sont donnés par référence à la norme NF EN 3 visée par l'arrêté du 24 octobre 1984 modifié susvisé.<br/>\n<br/>   Dans le cas d'extincteurs conformes à la norme NF S 61 900, les foyers types éteints doivent être au minimum :<br/>\n<br/>   - pour l'extincteur extérieur (6 kg au moins) : 21 A et 144 B ;<br/>\n<br/>   - pour l'extincteur de cabine (2 kg au moins) : 13 A et 55 B.<br/>\n<br/>   Dans le cas d'extincteurs conformes à d'autres spécifications équivalentes en vigueur dans un Etat membre de l'Union européenne ou un Etat partie à l'accord instituant l'Espace économique européen, il convient de remplacer les foyers indiqués dans ce tableau par les foyers types équivalents prévus par lesdites spécifications.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-10-24",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1995-03-02 art. 1, art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1995-03-02 art. 5",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté du 20 janvier 2000 - art. 2",
+        "@cidtexte": "JORFTEXT000000763553",
+        "@datesignatexte": "2000-01-20",
+        "@id": "LEGIARTI000006894102",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "EQUS0000126A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "MODIFIE"
+      }
+    ]
+  }
+}

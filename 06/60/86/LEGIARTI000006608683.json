@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006608683",
+      "ANCIEN_ID": "ADIDUXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/86/LEGIARTI000006608683.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1965-11-19",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 novembre 1965 relatif aux conditions de collecte et de commercialisation des oeufs",
+          "@c_titre_court": "Arrêté du 4 novembre 1965",
+          "@debut": "1965-11-19",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000006071484"
+        }
+      ],
+      "@cid": "LEGITEXT000006071484",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1965-11-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-11-19",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006608683",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Une étiquette de garantie sera apposée sur les récipients contenant les produits d'oeufs. Elle portera, selon un code fixé par le ministre de l'agriculture, l'indication de la date à laquelle la préparation a été effectuée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 65-116 1965-02-15",
+        "@cidtexte": "JORFTEXT000000493917",
+        "@datesignatexte": "1965-02-15",
+        "@id": "JORFTEXT000000493917",
+        "@naturetexte": "DECRET",
+        "@numtexte": "65-116",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 21 décembre 2009 - art. 9 (V)",
+        "@cidtexte": "JORFTEXT000021573483",
+        "@datesignatexte": "2009-12-21",
+        "@id": "LEGIARTI000021676880",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0927709A",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

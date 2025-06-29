@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006530375",
+      "ANCIEN_ID": "PPHAUXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/03/LEGIARTI000006530375.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2004-04-14",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-79 du 25 janvier 1978 PRIS POUR L'APPLICATION DE LA LOI 77808 DU 19 JUILLET 1977",
+          "@c_titre_court": "Décret n°78-79 du 25 janvier 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000335072"
+        },
+        {
+          "#text": "Décret n°78-79 du 25 janvier 1978 pris pour l'application de la loi n° 77-808 du 19 juillet 1977 relative à la publication et à la diffusion de certains sondages d'opinion",
+          "@c_titre_court": "Décret n°78-79 du 25 janvier 1978",
+          "@debut": "1999-12-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062918"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Composition et fonctionnement de la commission des sondages",
+            "@debut": "1978-01-26",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006096070"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000335072",
+      "@date_publi": "1978-01-26",
+      "@date_signature": "1978-01-25",
+      "@nature": "DECRET",
+      "@num": "78-79"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-01-26",
+          "@etat": "MODIFIE",
+          "@fin": "2004-04-14",
+          "@id": "LEGIARTI000006530374",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-04-14",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006530375",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Ne peuvent être membres de la commission ni rapporteurs les personnes qui perçoivent ou ont perçu dans les trois dernières années précédant leur désignation une rémunération, de quelque nature qu'elle soit, d'une société de sondage d'opinion.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 77-808 1977-07-19",
+        "@cidtexte": "JORFTEXT000000522846",
+        "@datesignatexte": "1977-07-19",
+        "@id": "JORFTEXT000000522846",
+        "@naturetexte": "LOI",
+        "@numtexte": "77-808",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°2004-326 du 9 avril 2004 - art. 2 () JORF 14 avril 2004",
+        "@cidtexte": "JORFTEXT000000610922",
+        "@datesignatexte": "2004-04-09",
+        "@id": "LEGIARTI000006230148",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC0420266D",
+        "@num": "2",
+        "@numtexte": "2004-326",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

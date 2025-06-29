@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006495232",
+      "ANCIEN_ID": "PJFAOXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/52/LEGIARTI000006495232.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1952-12-09",
+        "DATE_FIN": "2015-04-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance du 1er juin 1828 du Roi relative aux conflits d'attribution entre les tribunaux et l'autorité administrative",
+          "@c_titre_court": "Ordonnance du 1er juin 1828",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000501333"
+        },
+        {
+          "#text": "Ordonnance du 1er juin 1828 relative aux conflits d'attribution entre les tribunaux et l'autorité administrative.",
+          "@c_titre_court": "Ordonnance du 1er juin 1828",
+          "@debut": "1828-06-01",
+          "@fin": "2015-04-01",
+          "@id_txt": "LEGITEXT000006071060"
+        }
+      ],
+      "@cid": "JORFTEXT000000501333",
+      "@date_publi": "1828-06-01",
+      "@date_signature": "1828-06-01",
+      "@nature": "ORDONNANCE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1952-12-09",
+          "@etat": "ABROGE",
+          "@fin": "2015-04-01",
+          "@id": "LEGIARTI000006495232",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque le préfet aura élevé le conflit, il sera tenu de faire déposer au greffe du tribunal ou de la cour d'appel ou de lui adresser, par pli recommandé avec demande d'avis de réception, son arrêté et les pièces y visées.<br/>\n<br/>   Si les documents sont déposés au greffe, il en sera donné récépissé sans délai et sans frais. <br/>\n<br/>   S'ils sont adressés par la voie postale, l'accusé de réception fera foi de la remise. Sa date sera mentionnée sur le registre visé à l'article 7.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 52-1306 1952-12-05 art. 1 JORF 9 décembre 1952",
+        "@cidtexte": "JORFTEXT000000687209",
+        "@datesignatexte": "1952-12-05",
+        "@id": "JORFTEXT000000687209",
+        "@naturetexte": "DECRET",
+        "@numtexte": "52-1306",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2015-177 du 16 février 2015 - art. 13 (V)",
+        "@cidtexte": "JORFTEXT000030248562",
+        "@datesignatexte": "2015-02-16",
+        "@id": "LEGIARTI000030249607",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX1326670L",
+        "@num": "13",
+        "@numtexte": "2015-177",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Ordonnance 1828-06-01 Bull. des Lois, 8e S - B 234 - n° 8529",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 1828-06-01 art. 7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

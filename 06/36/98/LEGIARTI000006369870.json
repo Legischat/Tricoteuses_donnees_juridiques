@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006369870",
+      "ANCIEN_ID": "MSHDYXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/98/LEGIARTI000006369870.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-03-16",
+        "DATE_FIN": "2016-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 86-473 du 14 mars 1986 relatif aux conditions générales de notation des fonctionnaires territoriaux",
+          "@c_titre_court": "Décret n° 86-473 du 14 mars 1986",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000332490"
+        },
+        {
+          "#text": "Décret n°86-473 du 14 mars 1986 relatif aux conditions générales de notation des fonctionnaires territoriaux",
+          "@c_titre_court": "Décret n°86-473 du 14 mars 1986",
+          "@debut": "1986-03-16",
+          "@fin": "2016-01-01",
+          "@id_txt": "LEGITEXT000006065541"
+        }
+      ],
+      "@cid": "JORFTEXT000000332490",
+      "@date_publi": "1986-03-16",
+      "@date_signature": "1986-03-14",
+      "@nature": "DECRET",
+      "@num": "86-473"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-16",
+          "@etat": "ABROGE",
+          "@fin": "2016-01-01",
+          "@id": "LEGIARTI000006369870",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>La notation est établie chaque année au cours du dernier trimestre, après que l'intéressé a fait connaître ses voeux relatifs aux fonctions et affectations qui lui paraîtraient les plus conformes à ses aptitudes, et après avis, le cas échéant, des supérieurs hiérarchiques de l'intéressé.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-53 1984-01-26 art. 76",
+        "@cidtexte": "JORFTEXT000000320434",
+        "@datesignatexte": "1984-01-26",
+        "@id": "JORFTEXT000000320434",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-53",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°86-473 du 14 mars 1986 - art. 1 (M)",
+        "@cidtexte": "JORFTEXT000000332490",
+        "@datesignatexte": "1986-03-14",
+        "@id": "LEGIARTI000006369868",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "86-473",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "DÉCRET n°2014-1526 du 16 décembre 2014 - art. 9 (VD)",
+        "@cidtexte": "JORFTEXT000029918006",
+        "@datesignatexte": "2014-12-16",
+        "@id": "LEGIARTI000029919279",
+        "@naturetexte": "DECRET",
+        "@nortexte": "RDFB1419090D",
+        "@num": "9",
+        "@numtexte": "2014-1526",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

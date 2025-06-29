@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006832734",
+      "ANCIEN_ID": "UCIUQXXXXXX030AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/27/LEGIARTI000006832734.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "2007-05-17",
+        "DATE_FIN": "2018-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 mai 2007 relatif aux caractéristiques thermiques et à la performance énergétique des bâtiments existants",
+          "@c_titre_court": "Arrêté du 3 mai 2007",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000822199"
+        },
+        {
+          "#text": "Arrêté du 3 mai 2007 relatif aux caractéristiques thermiques et à la performance énergétique des bâtiments existants.",
+          "@c_titre_court": "Arrêté du 3 mai 2007",
+          "@debut": "2007-05-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006056467"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : Eau chaude sanitaire.",
+            "@debut": "2007-05-17",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108610"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000822199",
+      "@date_publi": "2007-05-17",
+      "@date_signature": "2007-05-03",
+      "@ministere": "MINISTERE DE L'EMPLOI, DE LA COHESION SOCIALE ET DU LOGEMENT",
+      "@nature": "ARRETE",
+      "@nor": "SOCU0751906A",
+      "@num_parution_jo": "0114"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2007-05-17",
+          "@etat": "TRANSFERE",
+          "@fin": "2018-01-01",
+          "@id": "LEGIARTI000006832734",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2018-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000034310730",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les chauffe-eau électriques à accumulation installés ou remplacés, les pertes maximales Qpr exprimées en kWh par 24 heures au sens de la norme NF-EN 60 379 sont les suivantes :<br/>\n<br/>   Chauffe-eau de V inférieur à 75 litres :<br/>\n<br/> 0,147 4 + 0,071 9 V2/3 ;<br/>\n<br/>   Chauffe-eau horizontal de V supérieur ou égal à 75 litres :<br/>\n<br/> 0,75 + 0,008 V ;<br/>\n<br/>   Chauffe-eau vertical de V supérieur ou égal à 75 litres :<br/>\n<br/> 0,22 + 0,057 V 2/3.<br/>\n<br/>   Où V est la capacité de stockage du ballon en litres.<br/>\n<br/>   Ces dispositions peuvent ne pas s'appliquer pour les bâtiments achevés depuis moins de 15 ans par rapport à la date des travaux d'installation ou de remplacement de l'équipement visé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 3 mai 2007 - art. 28 (V)",
+        "@cidtexte": "JORFTEXT000000822199",
+        "@datesignatexte": "2007-05-03",
+        "@id": "LEGIARTI000034310728",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SOCU0751906A",
+        "@num": "28",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Arrêté du 3 mai 2007 - art. 32 (VT)",
+        "@cidtexte": "JORFTEXT000000822199",
+        "@datesignatexte": "2007-05-03",
+        "@id": "LEGIARTI000006832736",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SOCU0751906A",
+        "@num": "32",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Arrêté du 22 mars 2017 - art. 5",
+        "@cidtexte": "JORFTEXT000034271631",
+        "@datesignatexte": "2017-03-22",
+        "@id": "LEGIARTI000034280651",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "LHAL1614615A",
+        "@num": "5",
+        "@sens": "cible",
+        "@typelien": "TRANSFERE"
+      }
+    ]
+  }
+}

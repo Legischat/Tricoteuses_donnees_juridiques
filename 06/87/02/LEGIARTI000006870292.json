@@ -1,0 +1,126 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006870292",
+      "ANCIEN_ID": "AIIFXXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/02/LEGIARTI000006870292.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-05-11",
+        "DATE_FIN": "2004-11-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 février 1990 définissant les critères de classification et les    conditions d'étiquetage et d'emballage des préparations dangereuses",
+          "@c_titre_court": "Arrêté du 21 février 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000349165"
+        },
+        {
+          "#text": "Arrêté du 21 février 1990 définissant les critères de classification et les conditions d'étiquetage et d'emballage des préparations dangereuses",
+          "@c_titre_court": "Arrêté du 21 février 1990",
+          "@debut": "1991-06-01",
+          "@fin": "2004-11-18",
+          "@id_txt": "LEGITEXT000006075600"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Champ d'application.",
+            "@debut": "1991-06-01",
+            "@fin": "2004-11-18",
+            "@id": "LEGISCTA000006110909"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000349165",
+      "@date_publi": "1990-03-24",
+      "@date_signature": "1990-02-21",
+      "@ministere": "MINISTERE DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+      "@nature": "ARRETE",
+      "@nor": "TEFT9003189A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-06-01",
+          "@etat": "MODIFIE",
+          "@fin": "1995-05-11",
+          "@id": "LEGIARTI000006870291",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-05-11",
+          "@etat": "ABROGE",
+          "@fin": "2004-11-18",
+          "@id": "LEGIARTI000006870292",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Au sens du présent arrêté, on entend par \"substances\" les éléments chimiques et leurs composés comme ils se présentent à l'état naturel ou tels qu'ils sont produits par l'industrie, contenant éventuellement tout additif nécessaire à leur mise sur le marché.<br/>\n<br/>   On entend par \"préparations\" les mélanges ou solutions composés de deux substances ou plus.<br/>\n<br/>   Pour l'application du présent arrêté, sont considérées comme substances dangereuses :<br/>\n<br/>   1. Les substances figurant à l'annexe I de l'arrêté du 20 avril 1994 ;<br/>\n<br/>   2. Les substances qui, bien que ne figurant pas encore à cette annexe, présentent des propriétés dangereuses connues au sens de l'arrêté du 20 avril 1994, de l'article R. 5152 du code de la santé publique ou de l'article 1er du décret n° 88-1231 du 29 décembre 1988 susvisé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-04-20 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1995-05-05 art. 1 JORF 11 mai 1995",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2004-11-09 art. 40 JORF 18 novembre 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°88-1231 du 29 décembre 1988 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000868141",
+        "@datesignatexte": "1988-12-29",
+        "@id": "LEGIARTI000006705051",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSM8801465D",
+        "@num": "1",
+        "@numtexte": "88-1231",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. R5152 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006801123",
+        "@naturetexte": "CODE",
+        "@num": "R5152",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

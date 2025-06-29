@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006202588",
+      "ANCIEN_ID": "AKHHIXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/25/LEGIARTI000006202588.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-12-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2000-1156 du 30 novembre 2000 modifiant le décret n° 45-0117 du 19 décembre 1945 relatif au statut du notariat",
+          "@c_titre_court": "Décret n° 2000-1156 du 30 novembre 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000586725"
+        },
+        {
+          "#text": "Décret n°2000-1156 du 30 novembre 2000 modifiant le décret n° 45-0117 du 19 décembre 1945 relatif au statut du notariat",
+          "@c_titre_court": "Décret n°2000-1156 du 30 novembre 2000",
+          "@debut": "2000-12-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005630198"
+        }
+      ],
+      "@cid": "JORFTEXT000000586725",
+      "@date_publi": "2000-12-01",
+      "@date_signature": "2000-11-30",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "DECRET",
+      "@nor": "ECOT0014086D",
+      "@num": "2000-1156"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-12-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006202588",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret du 2 février 1890 relatif au dépôt et au retrait des sommes versées par les notaires à la Caisse des dépôts et consignations est abrogé, à l'exception de son article 13, à compter de la date d'entrée en vigueur de l'arrêté prévu à l'article 1er du présent décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1890-02-02 art. 13",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 45-0117 1945-12-19",
+        "@cidtexte": "JORFTEXT000000682446",
+        "@datesignatexte": "1945-12-19",
+        "@id": "JORFTEXT000000682446",
+        "@naturetexte": "DECRET",
+        "@numtexte": "45-0117",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 2000-1156 2000-11-30 art. 1",
+        "@cidtexte": "JORFTEXT000000586725",
+        "@datesignatexte": "2000-11-30",
+        "@id": "JORFTEXT000000586725",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOT0014086D",
+        "@numtexte": "2000-1156",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

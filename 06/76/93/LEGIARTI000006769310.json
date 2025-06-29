@@ -1,0 +1,148 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769310",
+      "ANCIEN_ID": "SSHAU1XXXXX027AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/93/LEGIARTI000006769310.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 25",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-01-15",
+        "DATE_FIN": "1993-08-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "25° Dermatoses professionnelles consécutives à l'emploi de lubrifiants et de fluides de refroidissement",
+                "@debut": "1985-01-15",
+                "@fin": "1993-08-21",
+                "@id": "LEGISCTA000006142285"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-15",
+          "@etat": "MODIFIE",
+          "@fin": "1993-08-21",
+          "@id": "LEGIARTI000006769310",
+          "@num": "Tableau 25",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-08-21",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769311",
+          "@num": "Tableau 25",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "DESIGNATION DES MALADIES<br/>\n    Papulo-pustules multiples et leurs complications furonculeuses (les lésions sont habituellement localisées à la face dorsale des mains et des bras et à la partie antérieure des cuisses et sont parfois étendues aux régions en contact direct avec les parties des vêtements de travail imprégnées de lubrifiant)<br/>\n    DELAI de prise en charge 7 jours<br/>\n<br/>\n    Lésions eczématiformes (cf. tableau 44)<br/>\n    DELAI de prise en charge : Cf. tableau 44<br/>\n   TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES<br/>\n    Travaux comportant la manipulation ou l'emploi de lubrifiants et de fluides de refroidissement, effectués par toute personne employée de façon habituelle à l'entretien de machines agricoles et par les préposés aux traitements phytosanitaires.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 73-532 1973-05-22 art. 1 JORF 19 juin 1973",
+        "@cidtexte": "JORFTEXT000000307264",
+        "@datesignatexte": "1973-05-22",
+        "@id": "JORFTEXT000000307264",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-532",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 76-74 1976-01-15 art. 18 JORF 27 janvier 1976",
+        "@cidtexte": "JORFTEXT000000503183",
+        "@datesignatexte": "1976-01-15",
+        "@id": "JORFTEXT000000503183",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-74",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 79-55 1979-01-16 art. 3 JORF 21 janvier 1979",
+        "@cidtexte": "JORFTEXT000000516829",
+        "@datesignatexte": "1979-01-16",
+        "@id": "JORFTEXT000000516829",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-55",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 84-1299 1984-12-13 art. 7 JORF 15 janvier 1985",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

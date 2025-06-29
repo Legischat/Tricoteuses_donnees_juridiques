@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006604513",
+      "ANCIEN_ID": "RAHJXXXXXXX041AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/45/LEGIARTI000006604513.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "41",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1942-01-29",
+        "DATE_FIN": "1987-01-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°42-37 du 7 janvier 1942 pris pour l'application de la loi du 9 mars 1941 sur la réorganisation de la propriété foncière et le remembrement",
+          "@c_titre_court": "Décret n°42-37 du 7 janvier 1942",
+          "@debut": "1942-01-29",
+          "@fin": "1987-01-17",
+          "@id_txt": "LEGITEXT000006071389"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VII : Gestion financière",
+            "@debut": "1942-01-29",
+            "@fin": "1987-01-17",
+            "@id": "LEGISCTA000006098651"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Répartition des dépenses et recouvrement des taxes",
+              "@debut": "1942-01-29",
+              "@fin": "1987-01-17",
+              "@id": "LEGISCTA000006121657"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Modification des documents cadastraux.",
+                "@debut": "1942-01-29",
+                "@fin": "1987-01-17",
+                "@id": "LEGISCTA000006138512"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071389",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1942-01-07",
+      "@nature": "DECRET",
+      "@num": "42-37"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1942-01-29",
+          "@etat": "ABROGE",
+          "@fin": "1987-01-17",
+          "@id": "LEGIARTI000006604513",
+          "@num": "41",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A l'exception des travaux que l'article 16 de la loi met à la charge de l'Etat, toutes les opérations, soit de réorganisation foncière, soit de remembrement, sont effectuées aux frais des propriétaires avec participation de l'Etat dans des conditions qui seront fixées par un arrêté concerté du secrétaire d'Etat à l'agriculture et du secrétaire d'Etat à l'économie nationale et aux finances.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°86-1417 du 31 décembre 1986 - art. 29 (Ab) JORF 17 janvier 1987",
+        "@cidtexte": "JORFTEXT000000701455",
+        "@datesignatexte": "1986-12-31",
+        "@id": "LEGIARTI000006604703",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRM8700032D",
+        "@num": "29",
+        "@numtexte": "86-1417",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°42-37 du 7 janvier 1942 - art. 46 (Ab)",
+        "@cidtexte": "LEGITEXT000006071389",
+        "@datesignatexte": "1942-01-07",
+        "@id": "LEGIARTI000006604518",
+        "@naturetexte": "DECRET",
+        "@num": "46",
+        "@numtexte": "42-37",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1941-03-09",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1941-03-09 art. 16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006852954",
+      "ANCIEN_ID": "UPHCQXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/29/LEGIARTI000006852954.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-03-08",
+        "DATE_FIN": "2005-08-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-243 du 6 mars 1978 RELATIF A LA COORDINATION INTERMINISTERIELLE EN MATIERE DE QUALITE DE LA VIE",
+          "@c_titre_court": "Décret n°78-243 du 6 mars 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000329320"
+        },
+        {
+          "#text": "Décret n°78-243 du 6 mars 1978 relatif à la coordination interministérielle en matière de qualité de la vie",
+          "@c_titre_court": "Décret n°78-243 du 6 mars 1978",
+          "@debut": "1978-03-08",
+          "@fin": "2005-08-05",
+          "@id_txt": "LEGITEXT000006062823"
+        }
+      ],
+      "@cid": "JORFTEXT000000329320",
+      "@date_publi": "1978-03-08",
+      "@date_signature": "1978-03-06",
+      "@nature": "DECRET",
+      "@num": "78-243"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-03-08",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-05",
+          "@id": "LEGIARTI000006852954",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les articles 4 et 5 du décret susvisé du 2 février 1971 sont abrogés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 71-94 1971-02-02 ART. 4 ART. 5 abrogés",
+        "@cidtexte": "JORFTEXT000000694553",
+        "@datesignatexte": "1971-02-02",
+        "@id": "JORFTEXT000000694553",
+        "@naturetexte": "DECRET",
+        "@numtexte": "71-94",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2005-935 2005-08-02 art. 4 II JORF 5 août 2005",
+        "@cidtexte": "JORFTEXT000000633739",
+        "@datesignatexte": "2005-08-02",
+        "@id": "JORFTEXT000000633739",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVG0530078D",
+        "@numtexte": "2005-935",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862380",
+      "ANCIEN_ID": "UPIJTXXXXXX056AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/23/LEGIARTI000006862380.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "56",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1998-03-03",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 février 1998 relatif aux prélèvements et à la consommation d'eau ainsi qu'aux émissions de toute nature des installations classées pour la protection de l'environnement soumises à autorisation",
+          "@c_titre_court": "Arrêté du 2 février 1998",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000204891"
+        },
+        {
+          "#text": "Arrêté du 2 février 1998 relatif aux prélèvements et à la consommation d'eau ainsi qu'aux émissions de toute nature des installations classées pour la protection de l'environnement soumises à autorisation",
+          "@c_titre_court": "Arrêté du 2 février 1998",
+          "@debut": "1998-03-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005625281"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre VI : Conditions de rejet",
+            "@debut": "1998-03-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006110204"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section 2 : Dispositions particulières aux rejets à l'atmosphère.",
+              "@debut": "1998-03-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006130228"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000204891",
+      "@date_publi": "1998-03-03",
+      "@date_signature": "1998-02-02",
+      "@ministere": "MINISTERE DE L'AMENAGEMENT DU TERRITOIRE ET DE L'ENVIRONNEMENT",
+      "@nature": "ARRETE",
+      "@nor": "ATEP9870017A",
+      "@num_parution_jo": "0052"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1998-03-03",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006862380",
+          "@num": "56",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   S'il y a dans le voisinage des obstacles naturels ou artificiels de nature à perturber la dispersion des gaz, la hauteur de la cheminée est corrigée comme suit :<br/>\n<br/>   - on calcule la valeur hp définie à l'article 54, en tenant compte des autres rejets lorsqu'il y en a, comme indiqué à l'article 55 ;<br/>\n<br/>   - on considère comme obstacles les structures et les immeubles, et notamment celui abritant l'installation étudiée, remplissant simultanément les conditions suivantes :<br/>\n<br/>      - ils sont situés à une distance horizontale (exprimée en mètres) inférieure à 10 hp + 50 de l'axe de la cheminée considérée ;<br/>\n<br/>      - ils ont une largeur supérieure à 2 mètres ;<br/>\n<br/>      - ils sont vus de la cheminée considérée sous un angle supérieur à 15° dans le plan horizontal ;<br/>\n<br/>   - soit hi l'altitude (exprimée en mètres et prise par rapport au niveau moyen du sol à l'endroit de la cheminée considérée) d'un point d'un obstacle situé à une distance horizontale di (exprimée en mètres) de l'axe de la cheminée considérée, et soit Hi défini comme suit :<br/>\n<br/>      - si di est inférieure ou égale à 2 hp + 10, Hi = hi + 5 ;<br/>\n<br/>      - si di est comprise entre 2 hp + 10 et 10 hp + 50,<br/>\n Hi = 5/4 (hi + 5) (1 - di/[10 hp + 50])<br/>\n<br/>   - soit Hp la plus grande des valeurs Hi calculées pour tous les points de tous les obstacles définis ci-dessus ;<br/>\n<br/>   - la hauteur de la cheminée est supérieure ou égale à la plus grande des valeurs Hp et hp.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1998-02-02 art. 54, art. 55",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

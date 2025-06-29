@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006245106",
+      "ANCIEN_ID": "PGIJUXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/24/51/LEGIARTI000006245106.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-10-01",
+        "DATE_FIN": "2007-02-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 septembre 2005 pris en application du décret n° 2003-1284 du 26 décembre 2003 relatif au régime indemnitaire de certains magistrats de l'ordre judiciaire",
+          "@c_titre_court": "Arrêté du 8 septembre 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000786501"
+        },
+        {
+          "#text": "Arrêté du 8 septembre 2005 pris en application du décret n° 2003-1284 du 26 décembre 2003 relatif au régime indemnitaire de certains magistrats de l'ordre judiciaire.",
+          "@c_titre_court": "Arrêté du 8 septembre 2005",
+          "@debut": "2005-10-01",
+          "@fin": "2007-02-17",
+          "@id_txt": "LEGITEXT000006052424"
+        }
+      ],
+      "@cid": "JORFTEXT000000786501",
+      "@date_publi": "2005-09-16",
+      "@date_signature": "2005-09-08",
+      "@ministere": "MINISTERE DE LA JUSTICE",
+      "@nature": "ARRETE",
+      "@nor": "JUSB0510462A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-02-17",
+          "@id": "LEGIARTI000006245106",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001658401",
+          "@num": "7",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 17 septembre 2004 pris en application du décret n° 2003-1284 du 26 décembre 2003 relatif au régime indemnitaire de certains magistrats de l'ordre judiciaire est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2004-09-17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2007-02-07 art. 7 JORF 17 février 2007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 2003-1284 2003-12-26",
+        "@cidtexte": "JORFTEXT000000611638",
+        "@datesignatexte": "2003-12-26",
+        "@id": "JORFTEXT000000611638",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSB0310640D",
+        "@numtexte": "2003-1284",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

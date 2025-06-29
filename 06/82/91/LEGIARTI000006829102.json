@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006829102",
+      "ANCIEN_ID": "UCIDVXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/91/LEGIARTI000006829102.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-01-01",
+        "DATE_FIN": "2024-01-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 décembre 1987 RELATIF A LA NATURE DES TRAVAUX POUVANT ETRE FINANCES PAR LA SUBVENTION A L'AMELIORATION DES LOGEMENTS LOCATIFS SOCIAUX",
+          "@c_titre_court": "Arrêté du 30 décembre 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000297214"
+        },
+        {
+          "#text": "Arrêté du 30 décembre 1987 relatif à la nature des travaux pouvant être financés par la subvention à l'amélioration des logements locatifs sociaux",
+          "@c_titre_court": "Arrêté du 30 décembre 1987",
+          "@debut": "1988-01-01",
+          "@fin": "2024-01-10",
+          "@id_txt": "LEGITEXT000006057995"
+        }
+      ],
+      "@cid": "JORFTEXT000000297214",
+      "@date_publi": "1988-01-16",
+      "@date_signature": "1987-12-30",
+      "@nature": "ARRETE",
+      "@nor": "EQUC8701110A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2024-01-10",
+          "@id": "LEGIARTI000006829102",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sauf dérogation accordée par le représentant de l'Etat dans le département en fonction de la structure de l'immeuble, les logements doivent satisfaire, après amélioration, aux normes minimales d'habitabilité définies en annexe I A du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-12-30 annexe I A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-12-30 art. 4",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté du 8 janvier 2023 - art. 9",
+        "@cidtexte": "JORFTEXT000048880450",
+        "@datesignatexte": "2024-01-08",
+        "@id": "LEGIARTI000048924936",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "IOMO2328598A",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

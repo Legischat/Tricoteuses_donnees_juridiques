@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006205034",
+      "ANCIEN_ID": "AMHBPXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/50/LEGIARTI000006205034.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-04-01",
+        "DATE_FIN": "1982-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-923 du 16 octobre 1979 INSTITUANT UN CAHIER DES CLAUSES TECHNIQUES GENERALES APPLICABLES AUX MARCHES PUBLICS DE TRAVAUX ET APPROUVANT OU MODIFIANT DIVERS FASCICULES",
+          "@c_titre_court": "Décret n°79-923 du 16 octobre 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000335359"
+        },
+        {
+          "#text": "Décret n°79-923 du 16 octobre 1979 instituant un cahier des clauses techniques générales applicables aux marchés publics de travaux et approuvant ou modifiant divers fascicules",
+          "@c_titre_court": "Décret n°79-923 du 16 octobre 1979",
+          "@debut": "1980-04-01",
+          "@fin": "1982-09-01",
+          "@id_txt": "LEGITEXT000006063144"
+        }
+      ],
+      "@cid": "JORFTEXT000000335359",
+      "@date_publi": "1979-10-30",
+      "@date_signature": "1979-10-16",
+      "@nature": "DECRET",
+      "@num": "79-923"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-04-01",
+          "@etat": "ABROGE",
+          "@fin": "1982-09-01",
+          "@id": "LEGIARTI000006205034",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est interdite l'insertion, dans les marchés de l'Etat et de ses établissements publics autres que ceux ayant le caractère industriel et commercial, de toute référence à des clauses techniques générales propres à un département ministériel et relatives à des prestations couvertes par les fascicules mentionnés dans les annexes II, III et IV au présent décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code des marchés publics 12, 24, 112, 113",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 79-923 1979-10-16 annexe II, annexe III, annexe IV",
+        "@cidtexte": "JORFTEXT000000335359",
+        "@datesignatexte": "1979-10-16",
+        "@id": "JORFTEXT000000335359",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-923",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°82-508 du 14 juin 1982 - art. 9 (V) JORF 16 juin 1982 en vigueur le 1er septembre 1982",
+        "@cidtexte": "JORFTEXT000000698900",
+        "@datesignatexte": "1982-06-14",
+        "@id": "LEGIARTI000006205011",
+        "@naturetexte": "DECRET",
+        "@num": "9",
+        "@numtexte": "82-508",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

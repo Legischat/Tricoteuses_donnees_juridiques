@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006282921",
+      "ANCIEN_ID": "APIARXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/29/LEGIARTI000006282921.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-01-01",
+        "DATE_FIN": "1991-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 décembre 1989 RELATIF AUX TAXES PERCUES PAR L'INSTITUT NATIONAL DE LA PROPRIETE INDUSTRIELLE",
+          "@c_titre_court": "Arrêté du 29 décembre 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000505026"
+        },
+        {
+          "#text": "Arrêté du 29 décembre 1989 relatif aux taxes perçues par l'Institut national de la propriété industrielle",
+          "@c_titre_court": "Arrêté du 29 décembre 1989",
+          "@debut": "1990-01-01",
+          "@fin": "1991-01-01",
+          "@id_txt": "LEGITEXT000006059395"
+        }
+      ],
+      "@cid": "JORFTEXT000000505026",
+      "@date_publi": "1989-12-31",
+      "@date_signature": "1989-12-29",
+      "@nature": "ARRETE",
+      "@nor": "INDA8901023A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1991-01-01",
+          "@id": "LEGIARTI000006282921",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La réduction des taxes prévue à l'article 107 du décret précité est fixée à 60 p. 100.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-12-06 art. 6 JORF 28 décembre 1990 en vigueur le 1er janvier 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°79-822 du 19 septembre 1979 - art. 107 (Ab)",
+        "@cidtexte": "JORFTEXT000000519232",
+        "@datesignatexte": "1979-09-19",
+        "@id": "LEGIARTI000006281895",
+        "@naturetexte": "DECRET",
+        "@num": "107",
+        "@numtexte": "79-822",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006271365",
+      "ANCIEN_ID": "ANHAJXXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/13/LEGIARTI000006271365.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-10-01",
+        "DATE_FIN": "1988-05-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 30 novembre 1944 RAP. APPLICATION DE LA LOI DU 04-07-1837 RELATIF AU SYSTEME METRIQUE ET A LA VERIFICATION DES POIDS ET MESURES",
+          "@c_titre_court": "Décret du 30 novembre 1944",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000505338"
+        },
+        {
+          "#text": "Décret du 30 novembre 1944 relatif au contrôle des instruments de mesure",
+          "@c_titre_court": "Décret du 30 novembre 1944",
+          "@debut": "1944-12-02",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060935"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Vérification primitive",
+            "@debut": "1944-12-02",
+            "@fin": "1988-05-08",
+            "@id": "LEGISCTA000006083305"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Obligations des fabricants et réparateurs.",
+              "@debut": "1944-12-02",
+              "@fin": "1988-05-08",
+              "@id": "LEGISCTA000006113804"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000505338",
+      "@date_publi": "1944-12-02",
+      "@date_signature": "1944-11-30",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1944-12-02",
+          "@etat": "MODIFIE",
+          "@fin": "1986-10-01",
+          "@id": "LEGIARTI000006271364",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-10-01",
+          "@etat": "ABROGE",
+          "@fin": "1988-05-08",
+          "@id": "LEGIARTI000006271365",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les fabricants et les réparateurs d'instruments de mesure contrôlés en vertu de l'article 8 doivent :<br/>\n<br/>   1° Demander au commissaire de la république du département où est situé leur siège social ou leur lieu d'activité principal, l'attribution d'une marque d'identification.<br/>\n<br/>   2° Apposer leur marque d'identification sur tous les instruments neufs ou réparés qu'ils présentent à la vérification primitive.<br/>\n<br/>   3° Présenter eux-mêmes, ou faire présenter en leur nom par un mandataire qualifié, les instruments qu'ils ont fabriqués ou réparés ;<br/>\n<br/>   4° Fournir la main-d'oeuvre nécessaire aux opérations de contrôle et, quand ces opérations ont lieu hors du bureau, les moyens matériels de vérification, notamment les étalons et les instruments de contrôle ;<br/>\n<br/>   5° S'abstenir de tout procédé de nature à provoquer une confusion entre leur entreprise et le service des poids et mesures.<br/>\n<br/>   6° en cas de cessation des activités en vue desquelles a été attribuée une marque, soit volontairement, soit par suite d'un retrait d'agrément lorsqu'il en est prévu par les textes en vigueur, ou en cas d'attribution d'une nouvelle marque, remettre à la direction régionale de l'industrie et de la recherche tous les poinçons et pinces portant l'ancienne marque.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1944-11-30 art. 8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°86-1071 du 24 septembre 1986 - art. 1 () JORF 1 octobre 1986",
+        "@cidtexte": "JORFTEXT000000312595",
+        "@datesignatexte": "1986-09-24",
+        "@id": "LEGIARTI000006271737",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "86-1071",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°88-682 du 6 mai 1988 - art. 50 (Ab) JORF 8 mai 1988",
+        "@cidtexte": "JORFTEXT000000501461",
+        "@datesignatexte": "1988-05-06",
+        "@id": "LEGIARTI000006271256",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDD8800287D",
+        "@num": "50",
+        "@numtexte": "88-682",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

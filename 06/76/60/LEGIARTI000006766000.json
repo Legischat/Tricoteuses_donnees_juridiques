@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006766000",
+      "ANCIEN_ID": "SSHAJQXXXXX020AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/60/LEGIARTI000006766000.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-01-01",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-321 du 14 mars 1978 INSTITUANT UN REGIME COMPLEMENTAIRE FACULTATIF D'ASSURANCE VIEILLESSE DES TRAVAILLEURS NON SALARIES DES PROFESSIONS INDUSTRIELLES ET COMMERCIALES",
+          "@c_titre_court": "Décret n°78-321 du 14 mars 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874392"
+        },
+        {
+          "#text": "Décret n°78-321 du 14 mars 1978  INSTITUANT UN REGIME COMPLEMENTAIRE FACULTATIF D'ASSURANCE VIEILLESSE DES TRAVAILLEURS NON-SALARIES DES PROFESSIONS INDUSTRIELLES ET COMMERCIALES.",
+          "@c_titre_court": "Décret n°78-321 du 14 mars 1978",
+          "@debut": "1978-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062844"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1978-01-01",
+            "@fin": "1985-12-21",
+            "@id": "LEGISCTA000006106844"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "BAREME ANNEXE AU DECRET N° 78-321 DU 14 MARS 1978",
+              "@debut": "1978-01-01",
+              "@fin": "1985-12-21",
+              "@id": "LEGISCTA000006127653"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "APPLICATION DE L'ARTICLE 6.",
+                "@debut": "1978-01-01",
+                "@fin": "1985-12-21",
+                "@id": "LEGISCTA000006142208"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000874392",
+      "@date_publi": "1978-03-16",
+      "@date_signature": "1978-03-14",
+      "@nature": "DECRET",
+      "@num": "78-321"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006766000",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Chaque cotisation versée donne droit à l'attribution d'un nombre de points de retraite calculé d'après la formule :<br/>\n    P = C / S x K<br/>\n    dans laquelle<br/>\n    P représente le nombre de points acquis par le versement de cette cotisation ;<br/>\n    C représente le montant de la cotisation versée ;<br/>\n    K représente un coefficient dépendant de l'âge de l'adhérent lors du versement ;<br/>\n    K = 1 pour les adhérents âgés de moins de quarante-cinq ans ;<br/>\n    K = 1,05 pour les adhérents âgés de quarante-cinq ans à quarante-huit ans ;<br/>\n    K = 1,10 pour les adhérents âgés de quarante-neuf ans à cinquante-deux ans ;<br/>\n    K = 1,20 pour les adhérents âgés de cinquante-trois ans à cinquante-six ans ;<br/>\n    K = 1,30 pour les adhérents âgés de cinquante-sept ans à soixante ans ;<br/>\n    K = 1,40 pour les adhérents âgés de soixante ans à soixante-quatre ans ;<br/>\n    K = 1,50 pour les adhérents âgés de soixante-cinq ans et plus ;<br/>\n    S représente le revenu de référence dont le montant est fixé chaque année par décision du conseil d'administration de la caisse mentionnée à l'article 10, approuvée par arrêté du ministre chargé de la sécurité sociale et du ministre chargé du budget.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-03-14 : fixe le montant du revenu de reference pour l'exercice 1984",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°78-321 du 14 mars 1978 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000874392",
+        "@datesignatexte": "1978-03-14",
+        "@id": "LEGIARTI000006765992",
+        "@naturetexte": "DECRET",
+        "@num": "10",
+        "@numtexte": "78-321",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-1354 1985-12-17 art. 2 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000507924",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000507924",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1354",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327733",
+      "ANCIEN_ID": "FAINFXXXXXX005AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/77/LEGIARTI000006327733.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-01-01",
+        "DATE_FIN": "2011-03-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 août 1985 relatif à la création d'un traitement informatisé pour la simplification des procédures d'imposition",
+          "@c_titre_court": "Arrêté du 7 août 1985",
+          "@debut": "1985-08-13",
+          "@fin": "2011-03-12",
+          "@id_txt": "LEGITEXT000006069913"
+        }
+      ],
+      "@cid": "LEGITEXT000006069913",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-08-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-08-13",
+          "@etat": "MODIFIE",
+          "@fin": "2000-01-07",
+          "@id": "LEGIARTI000006327731",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-01-07",
+          "@etat": "MODIFIE",
+          "@fin": "2005-01-01",
+          "@id": "LEGIARTI000006327732",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2011-03-12",
+          "@id": "LEGIARTI000006327733",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour fiabiliser les informations nominatives d'état civil des personnes physiques (nom de famille, prénoms, sexe, date et lieu de naissance) celles-ci font l'objet de demandes de certification au Répertoire national d'identification des personnes physiques géré par l'Institut national de la statistique et des études économiques (INSEE). En retour, l'I.N.S.E.E., certifie ou infirme l'état civil de la personne. En cas de certification, l'INSEE communique à cette occasion le numéro d'inscription au Répertoire national d'identification des personnes physiques et les informations nominatives manquantes.<br/>\n<br/>   L'I.N.S.E.E. communique également à la direction générale des impôts [*DGI*] les modifications apportées à l'état civil et, le cas échéant, les date et lieu de décès des personnes physiques ayant fait antérieurement l'objet d'une certification.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-08-07",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 2004-1159 2004-10-29 art. 23 : champ d'application",
+        "@cidtexte": "JORFTEXT000000237596",
+        "@datesignatexte": "2004-10-29",
+        "@id": "JORFTEXT000000237596",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC0420812D",
+        "@numtexte": "2004-1159",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°2004-1159 du 29 octobre 2004 - art. 19 (V) JORF 31 octobre 2004 en vigueur le 1er janvier 2005",
+        "@cidtexte": "JORFTEXT000000237596",
+        "@datesignatexte": "2004-10-29",
+        "@id": "LEGIARTI000006286409",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC0420812D",
+        "@num": "19",
+        "@numtexte": "2004-1159",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 17 février 2011 - art. 7",
+        "@cidtexte": "JORFTEXT000023686054",
+        "@datesignatexte": "2011-02-17",
+        "@id": "LEGIARTI000023687277",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BCRE1105981A",
+        "@num": "7",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

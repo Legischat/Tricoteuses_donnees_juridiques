@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006725427",
+      "ANCIEN_ID": "AFHBRXXXXXX027AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/54/LEGIARTI000006725427.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "27",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-05-23",
+        "DATE_FIN": "2005-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 92-456 du 22 mai 1992 pris pour l'application du décret du 30    octobre 1935 modifié par la loi no 91-1382 du 30 décembre 1991 et relatif au    refus de paiement des chèques et à l'interdiction d'émettre des chèques",
+          "@c_titre_court": "Décret n°92-456 du 22 mai 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000175236"
+        },
+        {
+          "#text": "Décret n°92-456 du 22 mai 1992 pris pour l'application du décret du 30 octobre 1935 modifié par la loi n° 91-1382 du 30 décembre 1991 et relatif au refus de paiement des chèques et à l'interdiction d'émettre des chèques",
+          "@c_titre_court": "Décret n°92-456 du 22 mai 1992",
+          "@debut": "1992-05-23",
+          "@fin": "2005-08-25",
+          "@id_txt": "LEGITEXT000006079149"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre VII : De l'information de l'autorité judiciaire par la Banque de France.",
+            "@debut": "1992-05-23",
+            "@fin": "2005-08-25",
+            "@id": "LEGISCTA000006105364"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000175236",
+      "@date_publi": "1992-05-23",
+      "@date_signature": "1992-05-22",
+      "@ministere": "MINISTERE DES AFFAIRES ETRANGERES",
+      "@nature": "DECRET",
+      "@nor": "JUSD9230011D",
+      "@num": "92-456"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-05-23",
+          "@etat": "MODIFIE",
+          "@fin": "2005-01-01",
+          "@id": "LEGIARTI000006725427",
+          "@num": "27",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006725428",
+          "@num": "27",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La demande présentée en application de l'article 26 doit préciser [*contenu*] :<br/>\n<br/>   1° Lorsqu'elle concerne une personne physique, son nom patronymique, ses prénoms, date et lieu de naissance et, en outre, pour une femme mariée ou veuve, les nom et prénoms du mari ;<br/>\n<br/>   2° Lorsqu'elle concerne une personne morale, sa dénomination ou raison sociale, son numéro national d'entreprise si elle en est pourvue, l'adresse de son siège et sa forme juridique.<br/>\n<br/>   Dans sa réponse, la Banque de France indique, s'il y a lieu, que les chèques impayés lui ont été signalés comme ayant été émis en infraction aux dispositions des articles 65-3 ou 68 du décret du 30 octobre 1935 précité. Elle indique également, s'il y a lieu, que la personne qui fait l'objet de la demande est frappée d'une interdiction d'émettre des chèques en application de l'un de ces articles et précise les caractéristiques de cette interdiction.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1935-10-30 art. 65-3, art. 68",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 92-456 1992-05-22 art. 26",
+        "@cidtexte": "JORFTEXT000000175236",
+        "@datesignatexte": "1992-05-22",
+        "@id": "JORFTEXT000000175236",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSD9230011D",
+        "@numtexte": "92-456",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret-loi 1935-10-30",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 91-1382 1991-12-30",
+        "@cidtexte": "JORFTEXT000000721389",
+        "@datesignatexte": "1991-12-30",
+        "@id": "JORFTEXT000000721389",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9100069L",
+        "@numtexte": "91-1382",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

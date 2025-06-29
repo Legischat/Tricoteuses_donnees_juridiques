@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006761604",
+      "ANCIEN_ID": "SSHAC4XXXXX008AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/16/LEGIARTI000006761604.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-07-16",
+        "DATE_FIN": "1988-05-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°63-698 du 13 juillet 1963 RELATIF A L'APPLICATION DE LA LOI 62789 DU 13-07-1962 ACCORDANT A CERTAINES CATEGORIES DE TRAVAILLEURS LA FACULTE D'OPERER DES VERSEMENTS DE RACHAT AU TITRE DE L'ASSURANCE VIEILLESSE",
+          "@c_titre_court": "Décret n°63-698 du 13 juillet 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000679872"
+        },
+        {
+          "#text": "Décret n°63-698 du 13 juillet 1963  RELATIF A L'APPLICATION DE LA LOI N° 62-789 DU 13 JUILLET 1962 ACCORDANT A CERTAINES CATEGORIES DE TRAVAILLEURS LA FACULTE D'OPERER DES VERSEMENTS DE RACHAT AU TITRE DE L'ASSURANCE VIEILLESSE.",
+          "@c_titre_court": "Décret n°63-698 du 13 juillet 1963",
+          "@debut": "1963-07-16",
+          "@fin": "1988-05-10",
+          "@id_txt": "LEGITEXT000006061144"
+        }
+      ],
+      "@cid": "JORFTEXT000000679872",
+      "@date_publi": "1963-07-16",
+      "@date_signature": "1963-07-13",
+      "@nature": "DECRET",
+      "@num": "63-698"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-16",
+          "@etat": "ABROGE",
+          "@fin": "1988-05-10",
+          "@id": "LEGIARTI000006761604",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La mise en paiement des pensions ou rentes correspondant au rachat est ajournée jusqu'au moment [*délai*] où le versement des cotisations de rachat est terminé [*condition*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 62-789 1962-07-13",
+        "@cidtexte": "JORFTEXT000000509277",
+        "@datesignatexte": "1962-07-13",
+        "@id": "JORFTEXT000000509277",
+        "@naturetexte": "LOI",
+        "@numtexte": "62-789",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 88-711 1988-05-09 art. 12 JORF 10 mai 1988",
+        "@cidtexte": "JORFTEXT000000313156",
+        "@datesignatexte": "1988-05-09",
+        "@id": "JORFTEXT000000313156",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ASES8800726D",
+        "@numtexte": "88-711",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

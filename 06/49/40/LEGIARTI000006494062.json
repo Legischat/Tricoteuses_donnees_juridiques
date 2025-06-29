@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006494062",
+      "ANCIEN_ID": "PJEEUXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/40/LEGIARTI000006494062.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1969-07-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°69-700 du 30 juin 1969 PORTANT AMNISTIE",
+          "@c_titre_court": "Loi n°69-700 du 30 juin 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000321177"
+        },
+        {
+          "#text": "Loi n° 69-700 du 30 juin 1969 portant amnistie (1).",
+          "@c_titre_court": "Loi n° 69-700 du 30 juin 1969",
+          "@debut": "1969-07-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068339"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE Ier : Amnistie de droit.",
+            "@debut": "1969-07-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006094151"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000321177",
+      "@date_publi": "1969-07-01",
+      "@date_signature": "1969-06-30",
+      "@nature": "LOI",
+      "@num": "69-700"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-07-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006494062",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont amnistiées les infractions commises avant le 20 juin 1969 qui sont ou seront punies à titre définitif, soit de peines d'amende, soit des peines d'emprisonnement ci-après énumérées, que ces peines soient assorties ou non d'une amende :<br/>\n<br/>   a) Peines d'emprisonnement inférieures ou égales à trois mois sans sursis ou avec application du sursis avec mise à l'épreuve ;<br/>\n<br/>   b) Peines d'emprisonnement inférieures ou égales à un an avec application du sursis simple.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 69-700 1969-06-30 art. 25 : champ d'application",
+        "@cidtexte": "JORFTEXT000000321177",
+        "@datesignatexte": "1969-06-30",
+        "@id": "JORFTEXT000000321177",
+        "@naturetexte": "LOI",
+        "@numtexte": "69-700",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°69-700 du 30 juin 1969 - art. 16 (V)",
+        "@cidtexte": "JORFTEXT000000321177",
+        "@datesignatexte": "1969-06-30",
+        "@id": "LEGIARTI000006494071",
+        "@naturetexte": "LOI",
+        "@num": "16",
+        "@numtexte": "69-700",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

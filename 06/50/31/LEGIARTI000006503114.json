@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006503114",
+      "ANCIEN_ID": "PKH5AXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/31/LEGIARTI000006503114.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1971-05-18",
+        "DATE_FIN": "2006-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°71-365 du 14 mai 1971 RELATIF AU REGIME INDEMNITAIRE DES ELEVES DE L'ECOLE",
+          "@c_titre_court": "Décret n°71-365 du 14 mai 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000331842"
+        },
+        {
+          "#text": "Décret n°71-365 du 14 mai 1971 relatif au régime indemnitaire des élèves de l'école nationale d'administration.",
+          "@c_titre_court": "Décret n°71-365 du 14 mai 1971",
+          "@debut": "1971-05-18",
+          "@fin": "2021-01-01",
+          "@id_txt": "LEGITEXT000006061818"
+        }
+      ],
+      "@cid": "JORFTEXT000000331842",
+      "@date_publi": "1971-05-18",
+      "@date_signature": "1971-05-14",
+      "@nature": "DECRET",
+      "@num": "71-365"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-05-18",
+          "@etat": "MODIFIE",
+          "@fin": "2006-07-01",
+          "@id": "LEGIARTI000006503114",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-01",
+          "@etat": "ABROGE",
+          "@fin": "2021-01-01",
+          "@id": "LEGIARTI000006503115",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'indemnité est allouée mensuellement pendant la durée des études à l'école. Le nombre de mensualités ne peut en aucun cas excéder celui de la durée normale des études.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°71-365 du 14 mai 1971 - art. 1 (VT)",
+        "@cidtexte": "JORFTEXT000000331842",
+        "@datesignatexte": "1971-05-14",
+        "@id": "LEGIARTI000006503113",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "71-365",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 14 janvier 2016 - art. 2 (VT)",
+        "@cidtexte": "JORFTEXT000031879167",
+        "@datesignatexte": "2016-01-14",
+        "@id": "LEGIARTI000041743239",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "RDFF1531426A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

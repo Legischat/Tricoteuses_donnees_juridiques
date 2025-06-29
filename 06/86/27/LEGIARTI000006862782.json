@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862782",
+      "ANCIEN_ID": "UPIMEXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/27/LEGIARTI000006862782.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-09-08",
+        "DATE_FIN": "1983-09-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 août 1961 portant désignation des eaux de la première catégorie classées comme principalement peuplées d'ombres communs.",
+          "@c_titre_court": "Arrêté du 23 août 1961",
+          "@debut": "1961-09-08",
+          "@fin": "1683-09-14",
+          "@id_txt": "LEGITEXT000006074601"
+        }
+      ],
+      "@cid": "LEGITEXT000006074601",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1961-08-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-09-08",
+          "@etat": "ABROGE",
+          "@fin": "1983-09-14",
+          "@id": "LEGIARTI000006862782",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté interministériel du 3 août 1959 est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1959-08-03 abrogé",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1983-08-10 ART. 2 JONC 14 SEPTEMBRE 1983",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°58-874 du 16 septembre 1958 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000503644",
+        "@datesignatexte": "1958-09-16",
+        "@id": "LEGIARTI000006854658",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "58-874",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

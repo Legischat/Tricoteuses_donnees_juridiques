@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006634349",
+      "ANCIEN_ID": "RIICLXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/43/LEGIARTI000006634349.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-02-11",
+        "DATE_FIN": "1995-10-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 janvier 1986 relatif au classement dans la 8e catégorie de certaines armes historiques",
+          "@c_titre_court": "Arrêté du 8 janvier 1986",
+          "@debut": "1986-02-11",
+          "@fin": "1995-10-08",
+          "@id_txt": "LEGITEXT000006071900"
+        }
+      ],
+      "@cid": "LEGITEXT000006071900",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-01-08",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-02-11",
+          "@etat": "ABROGE",
+          "@fin": "1995-10-08",
+          "@id": "LEGIARTI000006634349",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Par dérogation à l'article 1er de l'arrêté du 13 décembre 1978 susvisé, sont classées dans la 8e catégorie, alinéa a, les armes historiques dont la liste est fixée en annexe du présent arrêté, à l'exclusion de toute reproduction.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1978-12-13 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1986-01-08 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1995-09-07 art. 28 JORF 8 octobre 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006318179",
+      "ANCIEN_ID": "FAEFIXXXXXX041AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/81/LEGIARTI000006318179.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "41",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1991-12-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI de finances pour 1992   (n° 91-1322 du 30 décembre 1991)  (1)",
+          "@c_titre_court": "Loi",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000356342"
+        },
+        {
+          "#text": "Loi n° 91-1322 du 30 décembre 1991 de Finances pour 1992",
+          "@c_titre_court": "Loi n° 91-1322 du 30 décembre 1991",
+          "@debut": "1991-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006078468"
+        }
+      ],
+      "@cid": "JORFTEXT000000356342",
+      "@date_publi": "1991-12-31",
+      "@date_signature": "1991-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX9100159L",
+      "@num": "91-1322"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006318179",
+          "@num": "41",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. et II. Paragraphes modificateurs<br/>\n<br/>   III. - Les dispositions des I et II s'appliquent à compter du 15 janvier 1992.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 91-1322 1991-12-30 Finances pour 1992 JORF 31 décembre 1991",
+        "@cidtexte": "JORFTEXT000000356342",
+        "@datesignatexte": "1991-12-30",
+        "@id": "JORFTEXT000000356342",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9100159L",
+        "@numtexte": "91-1322",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 947 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006311146",
+        "@naturetexte": "CODE",
+        "@num": "947",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 949 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006311158",
+        "@naturetexte": "CODE",
+        "@num": "949",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

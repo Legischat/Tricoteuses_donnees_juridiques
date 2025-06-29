@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006886730",
+      "ANCIEN_ID": "UTIACXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/67/LEGIARTI000006886730.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-12-01",
+        "DATE_FIN": "1992-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 novembre 1986 relatif à l'indication des vitesses maximales sur les véhicules automobiles",
+          "@c_titre_court": "Arrêté du 12 novembre 1986",
+          "@debut": "1986-12-01",
+          "@fin": "1992-12-01",
+          "@id_txt": "LEGITEXT000006075001"
+        }
+      ],
+      "@cid": "LEGITEXT000006075001",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-11-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-12-01",
+          "@id": "LEGIARTI000006886730",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les véhicules ou ensembles de véhicules doivent porter, suivant les cas, un ou plusieurs disques correspondant aux vitesses indiquées pour chaque catégorie ci-après : [*obligations*]    1. Véhicules de transport en commun de personnes d'un poids total autorisé en charge supérieur à 10 tonnes possédant les caractéristiques techniques particulières visées à l'article R. 10-3 du code de la route : 100, 90 ;<br/>\n<br/>   2. Véhicules de transport en commun de personnes d'un poids total autorisé en charge supérieur à 10 tonnes autres que les autobus et ceux désignés en 1 : 90 ;<br/>\n<br/>   3. Véhicules d'un poids total autorisé en charge supérieur à 10 tonnes et ensembles de véhicules et tracteurs pour semi-remorque d'un poids total roulant autorisé supérieur à 10 tonnes autres que ceux désignés en 1, 2 et 4 : 90, 80 ;<br/>\n<br/>   4. Véhicules ou ensembles de véhicules d'un poids total autorisé en charge ou d'un poids total roulant autorisé supérieur à 10 tonnes transportant des matières dangereuses, véhicules d'un poids total autorisé en charge supérieur à 19 tonnes et ensembles de véhicules et tracteurs pour semi-remorque d'un poids total roulant autorisé supérieur à 19 tonnes autres que ceux désignés en 1 et 2 : 80, 60.<br/>\n<br/>   Il sera toléré qu'un véhicule ou élément de véhicule remorqué appartenant à un ensemble de véhicules de la catégorie 3 porte le ou les disques correspondant à la catégorie 4, sous réserve que l'ensemble respecte les limitations correspondant à la catégorie 4.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-11-12 art. 3",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1992-11-23 art. 4 JORF 24 novembre 1992 en vigueur le 1er décembre 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "code de la route R10-3",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "code de la route R98",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

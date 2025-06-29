@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006492650",
+      "ANCIEN_ID": "PJECGXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/26/LEGIARTI000006492650.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1995-08-06",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 95-884 du 3 août 1995  portant amnistie (1)",
+          "@c_titre_court": "Loi n°95-884 du 3 août 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000371690"
+        },
+        {
+          "#text": "Loi n° 95-884 du 3 août 1995 portant amnistie",
+          "@c_titre_court": "Loi n° 95-884 du 3 août 1995",
+          "@debut": "1995-08-06",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005619158"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE Ier : Amnistie de droit",
+            "@debut": "1995-08-06",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006094045"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section 2 : Amnistie en raison du quantum ou de la nature de la peine.",
+              "@debut": "1995-08-06",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006119486"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000371690",
+      "@date_publi": "1995-08-06",
+      "@date_signature": "1995-08-03",
+      "@nature": "LOI",
+      "@nor": "JUSX9500089L",
+      "@num": "95-884"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-08-06",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006492650",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont amnistiées les infractions commises avant le 18 mai 1995 qui ont donné ou donneront lieu soit à une mesure d'admonestation, soit à la remise du mineur à ses parents, à son tuteur, ou à la personne qui en avait la garde ou à une personne digne de confiance, soit à la dispense de toute mesure, en application de l'ordonnance n° 45-174 du 2 février 1945 précitée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-174 1945-02-02",
+        "@cidtexte": "JORFTEXT000000517521",
+        "@datesignatexte": "1945-02-02",
+        "@id": "JORFTEXT000000517521",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-174",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°95-884 du 3 août 1995 - art. 18 (V)",
+        "@cidtexte": "JORFTEXT000000371690",
+        "@datesignatexte": "1995-08-03",
+        "@id": "LEGIARTI000006492662",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9500089L",
+        "@num": "18",
+        "@numtexte": "95-884",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

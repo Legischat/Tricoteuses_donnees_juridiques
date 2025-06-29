@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616947",
+      "ANCIEN_ID": "RDHBRXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/69/LEGIARTI000006616947.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-03-04",
+        "DATE_FIN": "2021-07-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°89-142 du 3 mars 1989 PORTANT SUSPENSION DE L'APPLICATION DU DECRET 88964 DU 12-10-1988 RELATIF A LA TAXE DE CIRCULATION OU DE TRANSIT APPLICABLE AUX VEHICULES ROUTIERS",
+          "@c_titre_court": "Décret n°89-142 du 3 mars 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705013"
+        },
+        {
+          "#text": "Décret n°89-142 du 3 mars 1989 portant suspension de l'application du décret n° 88-964 du 12 octobre 1988 relatif à la taxe de circulation ou de transit applicable aux véhicules routiers",
+          "@c_titre_court": "Décret n°89-142 du 3 mars 1989",
+          "@debut": "1989-03-04",
+          "@fin": "2021-07-29",
+          "@id_txt": "LEGITEXT000006066989"
+        }
+      ],
+      "@cid": "JORFTEXT000000705013",
+      "@date_publi": "1989-03-04",
+      "@date_signature": "1989-03-03",
+      "@nature": "DECRET",
+      "@nor": "BUDD8970001D",
+      "@num": "89-142"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-03-04",
+          "@etat": "ABROGE",
+          "@fin": "2021-07-29",
+          "@id": "LEGIARTI000006616947",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'application aux véhicules et ensembles de véhicules routiers immatriculés en Norvège de la taxe instituée par l'article 284 sexies bis est suspendue à compter du 1er mars 1989.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 88-964 1988-10-12",
+        "@cidtexte": "JORFTEXT000000509164",
+        "@datesignatexte": "1988-10-12",
+        "@id": "JORFTEXT000000509164",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOD8870011D",
+        "@numtexte": "88-964",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°2021-984 du 26 juillet 2021 - art. 6",
+        "@cidtexte": "JORFTEXT000043861727",
+        "@datesignatexte": "2021-07-26",
+        "@id": "LEGIARTI000043863264",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOE2114288D",
+        "@num": "6",
+        "@numtexte": "2021-984",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des douanes - art. 284 sexies bis",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615249",
+        "@naturetexte": "CODE",
+        "@num": "284 sexies bis",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

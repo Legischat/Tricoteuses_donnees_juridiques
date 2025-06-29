@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006783109",
+      "ANCIEN_ID": "SSIAGEXXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/31/LEGIARTI000006783109.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1957-07-24",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 juillet 1957 portant fixation de l'assiette à prendre pour base de calcul des cotisations d'assurances sociales pour les écrivains non-salariés.",
+          "@c_titre_court": "Arrêté du 17 juillet 1957",
+          "@debut": "1957-07-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073640"
+        }
+      ],
+      "@cid": "LEGITEXT000006073640",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1957-07-17",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1957-07-24",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006783109",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les cotisations dues au titre des écrivains non-salariés, immatriculés aux assurances sociales dans les conditions fixées par le décret n° 57-409 du 30 mars 1957, sont calculées sur la base d'une rémunération au moins égale aux trois quarts du salaire limite fixé par l'article L. 119 du Code de la sécurité sociale.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 57-409 1957-03-30",
+        "@cidtexte": "JORFTEXT000000868478",
+        "@datesignatexte": "1957-03-30",
+        "@id": "JORFTEXT000000868478",
+        "@naturetexte": "DECRET",
+        "@numtexte": "57-409",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L119",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

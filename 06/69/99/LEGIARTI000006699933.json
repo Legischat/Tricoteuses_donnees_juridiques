@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006699933",
+      "ANCIEN_ID": "AFEBAXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/99/LEGIARTI000006699933.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1940-09-13",
+        "DATE_FIN": "2022-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 12 septembre 1940 sur le financement des fabrications de démarrage faisant l'objet de lettres d’agrément",
+          "@c_titre_court": "Décret-loi du 12 septembre 1940",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868883"
+        },
+        {
+          "#text": "Loi du 12 septembre 1940 sur le financement des fabrications de démarrage faisant l'objet de lettres d'agrément",
+          "@c_titre_court": "Loi du 12 septembre 1940",
+          "@debut": "1940-09-13",
+          "@fin": "2022-01-01",
+          "@id_txt": "LEGITEXT000006072682"
+        }
+      ],
+      "@cid": "JORFTEXT000000868883",
+      "@date_publi": "1940-09-13",
+      "@date_signature": "1940-09-12",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1940-09-13",
+          "@etat": "ABROGE",
+          "@fin": "2022-01-01",
+          "@id": "LEGIARTI000006699933",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si le porteur du warrant industriel fait procéder à la vente, conformément à l'article 10 ci-dessus, il ne peut plus exercer son recours contre les endosseurs ou avalistes et même contre l'emprunteur qu'après avoir fait valoir ses droits sur le prix des produits warrantés.<br/>\n<br/>   En cas d'insuffisance du prix pour le désintéresser, un délai d'un mois lui est imparti à dater du jour où la vente de la marchandise est réalisée, pour exercer son recours contre les endosseurs ou avalistes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1940-09-12 art. 10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2021-1192 du 15 septembre 2021 - art. 32 (V)",
+        "@cidtexte": "JORFTEXT000044044441",
+        "@datesignatexte": "2021-09-15",
+        "@id": "LEGIARTI000044045542",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSC2113814R",
+        "@num": "32",
+        "@numtexte": "2021-1192",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

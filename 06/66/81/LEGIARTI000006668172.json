@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006668172",
+      "ANCIEN_ID": "SEIDVXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/81/LEGIARTI000006668172.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-12-19",
+        "DATE_FIN": "1987-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 18 décembre 1984 pris pour l'application de l'article R322-1 (4°) du code du travail",
+          "@c_titre_court": "Arrêté du 18 décembre 1984",
+          "@debut": "1984-12-19",
+          "@fin": "1987-12-31",
+          "@id_txt": "LEGITEXT000006072170"
+        }
+      ],
+      "@cid": "LEGITEXT000006072170",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-12-18",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-12-19",
+          "@etat": "ABROGE",
+          "@fin": "1987-12-31",
+          "@id": "LEGIARTI000006668172",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "L'Etat peut conclure des conventions de conversion en application de l'article R. 322-1 du code du travail :<br/>\n    - avec des entreprises comprises dans le champ d'application de la convention générale de protection sociale pour le personnel des entreprises sidérurgiques, du 24 juillet 1984 ;<br/>\n    - avec des chantiers compris dans le champ défini par le protocole du 13 novembre 1984 relatif à la mise en oeuvre dans la construction et la réparation navale des conventions de conversion ;<br/>\n    - ces conventions sont conformes à la convention type annexée au présent arrêté.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du travail - art. R322-1 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006809108",
+        "@naturetexte": "CODE",
+        "@num": "R322-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R322-1 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006809108",
+        "@naturetexte": "CODE",
+        "@num": "R322-1",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Convention générale 1984-07-24 entreprises sidérurgiques",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Protocole 1984-11-13",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

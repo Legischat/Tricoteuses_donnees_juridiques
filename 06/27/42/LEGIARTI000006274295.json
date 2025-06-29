@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006274295",
+      "ANCIEN_ID": "FAECWXXXXXX101AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/42/LEGIARTI000006274295.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "101",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-1208 DE FINANCES POUR 1985",
+          "@c_titre_court": "Loi n°84-1208 DE FINANCES POUR 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880778"
+        },
+        {
+          "#text": "Loi n° 84-1208 du 29 décembre 1984 de finances pour 1985",
+          "@c_titre_court": "Loi n° 84-1208 du 29 décembre 1984",
+          "@debut": "1985-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068824"
+        }
+      ],
+      "@cid": "JORFTEXT000000880778",
+      "@date_publi": "1984-12-30",
+      "@date_signature": "1984-12-29",
+      "@nature": "LOI",
+      "@num": "84-1208"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006274295",
+          "@num": "101",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002471437",
+          "@num": "101",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque le produit de la taxe d'habitation perçu l'année précédente par une communauté urbaine en application de l'article 1609 bis du code général des impôts provient, pour plus des trois quarts de son montant total, des impositions à cette taxe établies sur le territoire d'une seule commune membre, le conseil municipal de cette dernière peut, pour l'application du dernier alinéa du paragraphe I de l'article 1636 B sexies du même code, additionner les taux des taxes foncières, de la taxe d'habitation et de la taxe professionnelle perçues au profit de la commune et les taux respectifs des mêmes taxes, votées l'année précédente par la communauté urbaine.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1609 bis, 1636 B sexies I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-1208 1984-12-29 Finances pour 1985 JORF 30 décembre 1984  en vigueur le 1er janvier 1985",
+        "@cidtexte": "JORFTEXT000000880778",
+        "@datesignatexte": "1984-12-29",
+        "@id": "JORFTEXT000000880778",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-1208",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006847028",
+      "ANCIEN_ID": "UPEBQXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/70/LEGIARTI000006847028.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-10-24",
+        "DATE_FIN": "2011-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique",
+          "@c_titre_court": "Loi du 16 octobre 1919",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000498687"
+        },
+        {
+          "#text": "Loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique",
+          "@c_titre_court": "Loi du 16 octobre 1919",
+          "@debut": "1919-10-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074248"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Entreprises concédées",
+            "@debut": "1919-10-18",
+            "@fin": "2222-02-22",
+            "@id": "LEGISCTA000006108794"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000498687",
+      "@date_publi": "1919-10-18",
+      "@date_signature": "1919-10-16",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-10-24",
+          "@etat": "ABROGE",
+          "@fin": "2011-06-01",
+          "@id": "LEGIARTI000006847028",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque l'aménagement de l'entreprise nécessite l'occupation définitive de propriétés privées dans des cas autres que ceux prévus à l'article 4, l'utilité publique de l'entreprise peut être déclarée, soit dans l'acte qui approuve la concession, soit par acte séparé.<br/>\n<br/>   Si, sur une même parcelle, il y a lieu à l'établissement d'une des servitudes prévues à l'article 4 et à l'expropriation, le juge de l'expropriation est compétent pour statuer sur les deux indemnités.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1919-10-16 ART. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 58-997 1958-10-23 ART. 59 JORF 24 OCTOBRE 1958",
+        "@cidtexte": "JORFTEXT000000705504",
+        "@datesignatexte": "1958-10-23",
+        "@id": "JORFTEXT000000705504",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-997",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2011-504\n du 9 mai 2011 - art. 4",
+        "@cidtexte": "JORFTEXT000023974937",
+        "@datesignatexte": "2011-05-09",
+        "@id": "LEGIARTI000023977696",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "INDR1111324R",
+        "@num": "4",
+        "@numtexte": "2011-504",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

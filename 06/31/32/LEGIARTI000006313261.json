@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006313261",
+      "ANCIEN_ID": "FAAACGIXXXX1859AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/32/LEGIARTI000006313261.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1859",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1982-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "RECOUVREMENT DE L'IMPOT",
+            "@debut": "1972-08-30",
+            "@fin": "2006-01-01",
+            "@id": "LEGISCTA000006084262"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "PROCEDURES",
+              "@debut": "1979-07-01",
+              "@fin": "1987-01-01",
+              "@id": "LEGISCTA000006114511"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "CONTRIBUTIONS INDIRECTES.",
+                "@debut": "1979-07-01",
+                "@fin": "1982-01-01",
+                "@id": "LEGISCTA000006133913"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-04-30",
+          "@etat": "MODIFIE",
+          "@fin": "1979-07-01",
+          "@id": "LEGIARTI000049250370",
+          "@num": "1859",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "TRANSFERE",
+          "@fin": "1982-01-01",
+          "@id": "LEGIARTI000006313261",
+          "@num": "1859",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>     Restent toutefois soumises aux règles édictées par les articles 1855 et 1856 les visites ayant pour objet la découverte :<br/>\n<br/>    1° Des fraudes intéressant le monopole des tabacs;<br/>\n<br/>    2° Des fraudes relatives au sucrage, à la fabrication, à la détention, à la vente ou à la mise en vente des vins artificiels;<br/>\n<br/>    3° Des distilleries clandestines dans les villes ayant une population agglomérée de 4.000 habitants et au-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1855",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CGI 1856",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n° 81-859 du 15 septembre 1981 - art. 2, v. init.",
+        "@cidtexte": "JORFTEXT000000701292",
+        "@datesignatexte": "1981-09-15",
+        "@id": "JORFARTI000001496489",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "81-859",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      },
+      {
+        "#text": "EDITION 1979-07-01",
+        "@sens": "source",
+        "@typelien": "HISTO"
+      },
+      {
+        "#text": "Livre des procédures fiscales - Art. L. 42",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

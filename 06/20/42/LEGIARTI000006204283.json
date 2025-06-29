@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006204283",
+      "ANCIEN_ID": "AKIFLXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/42/LEGIARTI000006204283.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-01-01",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 20 juin 2001 portant adaptation de la valeur en euros de certains montants exprimés en francs pour les garanties financières prévues par la loi no 92-645 du 13 juillet 1992 fixant les conditions d'exercice des activités relatives à l'organisation et à la vente de voyages ou de séjours",
+          "@c_titre_court": "Arrêté du 20 juin 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000391163"
+        },
+        {
+          "#text": "Arrêté du 20 juin 2001 portant adaptation de la valeur en euros de certains montants exprimés en francs pour les garanties financières prévues par la loi n° 92-645 du 13 juillet 1992 fixant les conditions d'exercice des activités relatives à l'organisation et à la vente de voyages ou de séjours",
+          "@c_titre_court": "Arrêté du 20 juin 2001",
+          "@debut": "2002-01-01",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000005631133"
+        }
+      ],
+      "@cid": "JORFTEXT000000391163",
+      "@date_publi": "2001-06-30",
+      "@date_signature": "2001-06-20",
+      "@ministere": "MINISTERE DE L'EQUIPEMENT, DES TRANSPORTS ET DU LOGEMENT",
+      "@nature": "ARRETE",
+      "@nor": "EQUZ0100895A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006204283",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent arrêté entrera en vigueur le 1er janvier 2002.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 92-645 1992-07-13",
+        "@cidtexte": "JORFTEXT000000527137",
+        "@datesignatexte": "1992-07-13",
+        "@id": "JORFTEXT000000527137",
+        "@naturetexte": "LOI",
+        "@nortexte": "TOUX9100006L",
+        "@numtexte": "92-645",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 23 décembre 2009 - art. 7",
+        "@cidtexte": "JORFTEXT000021530256",
+        "@datesignatexte": "2009-12-23",
+        "@id": "LEGIARTI000021667833",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECEI0929484A",
+        "@num": "7",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

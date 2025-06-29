@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006430058",
+      "ANCIEN_ID": "PCIMOXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/00/LEGIARTI000006430058.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-09-07",
+        "DATE_FIN": "2015-07-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 20 juin 1990 pris en application de l'article 1er de la loi no    89-468 du 10 juillet 1989 relative à l'enseignement de la danse, portant    composition de la Commission nationale prévue audit article et relatif aux    modalités de délivrance du diplôme d'Etat de professeur de danse",
+          "@c_titre_court": "Arrêté du 20 juin 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000351232"
+        },
+        {
+          "#text": "Arrêté du 20 juin 1990 pris en application de l'article 1er de la loi n° 89-468 du 10 juillet 1989 relative à l'enseignement de la danse, portant composition de la Commission nationale prévue audit article et relatif aux modalités de délivrance du diplôme d'État de professeur de danse",
+          "@c_titre_court": "Arrêté du 20 juin 1990",
+          "@debut": "1990-09-07",
+          "@fin": "2015-07-30",
+          "@id_txt": "LEGITEXT000006076453"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE IV : Evaluation des unités de formation et délivrance du diplôme.",
+            "@debut": "1990-09-07",
+            "@fin": "2015-07-30",
+            "@id": "LEGISCTA000006090235"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000351232",
+      "@date_publi": "1990-09-07",
+      "@date_signature": "1990-06-20",
+      "@ministere": "MINISTERE DE LA CULTURE ET DE LA COMMUNICATION",
+      "@nature": "ARRETE",
+      "@nor": "MCCH9000415A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-09-07",
+          "@etat": "ABROGE",
+          "@fin": "2015-07-30",
+          "@id": "LEGIARTI000006430058",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le diplôme d'Etat de professeur de danse est délivré par le préfet de région qui vérifie, au vu du livret de formation du candidat, que celui-ci a régulièrement obtenu les cinq unités de valeur constitutives du diplôme dans l'option considérée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 89-468 1989-07-10",
+        "@cidtexte": "JORFTEXT000000322091",
+        "@datesignatexte": "1989-07-10",
+        "@id": "JORFTEXT000000322091",
+        "@naturetexte": "LOI",
+        "@nortexte": "MCCX8800035L",
+        "@numtexte": "89-468",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "ARRÊTÉ du 20 juillet 2015 - art. 34 (V)",
+        "@cidtexte": "JORFTEXT000030943923",
+        "@datesignatexte": "2015-07-20",
+        "@id": "LEGIARTI000030946024",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "MCCD1516318A",
+        "@num": "34",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

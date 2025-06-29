@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006831175",
+      "ANCIEN_ID": "UCIMZXXXXXX030AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/11/LEGIARTI000006831175.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-01-01",
+        "DATE_FIN": "2001-03-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 mai 1995 relatif aux subventions de l'Etat et aux prêts pour la    construction, l'acquisition et l'amélioration des logements locatifs aidés",
+          "@c_titre_court": "Arrêté du 5 mai 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000736663"
+        },
+        {
+          "#text": "Arrêté du 5 mai 1995 relatif aux subventions de l'Etat et aux prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés",
+          "@c_titre_court": "Arrêté du 5 mai 1995",
+          "@debut": "1996-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005618745"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : PRÊT LOCATIF AIDÉ DU CRÉDIT FONCIER DE FRANCE.",
+            "@debut": "1996-01-01",
+            "@fin": "2001-03-07",
+            "@id": "LEGISCTA000006108483"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000736663",
+      "@date_publi": "1995-05-07",
+      "@date_signature": "1995-05-05",
+      "@ministere": "MINISTERE DU LOGEMENT",
+      "@nature": "ARRETE",
+      "@nor": "LOGC9500034A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-03-07",
+          "@id": "LEGIARTI000006831175",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Au cours de la période d'amortissement des prêts à taux révisables définis à l'article 28 du présent arrêté, les annuités à la charge des emprunteurs sont déterminées en tenant compte des taux des périodes successives du prêt résultant de chaque révision, de la durée d'amortissement restant à courir et de la progressivité des annuités du prêt.<br/>\n<br/>   Si l'application de la première limite fixée par l'article R. 331-21 du code précité a conduit à différer le règlement d'une fraction des annuités dues par l'emprunteur, les sommes dont le règlement est différé s'ajoutent au capital restant dû à la date de révision et produisent intérêt aux taux contractuels applicables à compter de cette date.<br/>\n<br/>   Si l'application de la seconde limite fixée par l'article R. 331-21 dudit code conduit à mettre à la charge de l'emprunteur une annuité plus élevée que celle qui résulterait de la seule application de la révision aux taux des prêts, la différence vient en diminution du capital restant dû à la date de la révision.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-05-05 art. 28",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1995-05-05 art. 31",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation R. 331-1 à R. 331-28",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

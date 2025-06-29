@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006203515",
+      "ANCIEN_ID": "AKIAVXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/35/LEGIARTI000006203515.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-08-19",
+        "DATE_FIN": "1992-08-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 août 1972 relatif aux documents comptables des personnes inscrites sur la liste des conseils juridiques",
+          "@c_titre_court": "Arrêté du 4 août 1972",
+          "@debut": "1972-08-19",
+          "@fin": "1992-08-06",
+          "@id_txt": "LEGITEXT000005625577"
+        }
+      ],
+      "@cid": "LEGITEXT000005625577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-08-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-08-19",
+          "@etat": "ABROGE",
+          "@fin": "1992-08-06",
+          "@id": "LEGIARTI000006203515",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le livre journal mentionne, par ordre chronologique, sans blancs, ratures ni reports en marge [*conditions de forme*], toutes les opérations visées à l'article 24, qu'elles soient effectuées en espèces, chèques, virements ou autrement.<br/>\n<br/>   Il est à l'avance relié et coté sans discontinuité.<br/>\n<br/>   Il indique notamment pour chaque opération la date, le nom de la partie pour laquelle l'opération est effectuée, le libellé clair et succinct de l'opération et son montant, et, s'il y a lieu, le numéro du reçu délivré [*mentions obligatoires*].<br/>\n<br/>   Lorsqu'il a été ouvert des comptes distincts dans les conditions prévues par l'article 27 du décret susvisé n° 72-671 du 13 juillet 1972, le livre journal mentionne pour chaque opération le ou les comptes par l'intermédiaire desquels elle est effectuée.<br/>\n<br/>   Il peut être tenu plusieurs livres auxiliaires à la condition que les écritures soient centralisées au moins mensuellement dans le livre journal [*périodicité*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1992-07-22 art. 4 JORF 6 août 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 72-671 1972-07-13 art. 24, art. 25",
+        "@cidtexte": "JORFTEXT000000679983",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000679983",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-671",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 72-671 1972-07-13 art. 24, art. 27",
+        "@cidtexte": "JORFTEXT000000679983",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000679983",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-671",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

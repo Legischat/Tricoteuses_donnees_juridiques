@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006450792",
+      "ANCIEN_ID": "PFEANXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/07/LEGIARTI000006450792.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-08-02",
+        "DATE_FIN": "1973-01-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°63-777 du 31 juillet 1963 RELATIVE A CERTAINES MODALITES DE LA GREVE DANS LES SERVICES PUBLICS",
+          "@c_titre_court": "Loi n°63-777 du 31 juillet 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509742"
+        },
+        {
+          "#text": "Loi n°63-777 du 31 juillet 1963 relative à certaines modalités de la grève dans les services publics",
+          "@c_titre_court": "Loi n°63-777 du 31 juillet 1963",
+          "@debut": "1963-08-02",
+          "@fin": "1973-01-03",
+          "@id_txt": "LEGITEXT000006068234"
+        }
+      ],
+      "@cid": "JORFTEXT000000509742",
+      "@date_publi": "1963-08-02",
+      "@date_signature": "1963-07-31",
+      "@nature": "LOI",
+      "@num": "63-777"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-08-02",
+          "@etat": "ABROGE",
+          "@fin": "1973-01-03",
+          "@id": "LEGIARTI000006450792",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'inobservation des dispositions de la présente loi entraîne l'application, sans autre formalité que la communication du dossier, des sanctions prévues par les statuts ou par les règles concernant les personnels intéressés.<br/>\n<br/>   Toutefois, la révocation et la rétrogradation ne peuvent être prononcées qu'en conformité avec la procédure disciplinaire normalement applicable. Lorsque la révocation est prononcée à ce titre, elle ne peut l'être avec perte des droits à la retraite.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°73-4 du 2 janvier 1973 - art. 2 (V) JORF 3 janvier 1973",
+        "@cidtexte": "JORFTEXT000000322331",
+        "@datesignatexte": "1973-01-02",
+        "@id": "LEGIARTI000006272879",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "73-4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. L521-5 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650351",
+        "@naturetexte": "CODE",
+        "@num": "L521-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

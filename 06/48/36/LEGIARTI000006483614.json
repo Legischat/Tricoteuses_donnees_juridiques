@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006483614",
+      "ANCIEN_ID": "ACHBZXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/36/LEGIARTI000006483614.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-11-10",
+        "DATE_FIN": "2002-01-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°68-976 du 9 novembre 1968 AMELIORATION DE L'HABITAT",
+          "@c_titre_court": "Décret n°68-976 du 9 novembre 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000697460"
+        },
+        {
+          "#text": "Décret n°68-976 du 9 novembre 1968 fixant les conditions d'application de la loi n° 67-561 du 12 juillet 1967 relative à l'amélioration de l'habitat",
+          "@c_titre_court": "Décret n°68-976 du 9 novembre 1968",
+          "@debut": "1968-11-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061598"
+        }
+      ],
+      "@cid": "JORFTEXT000000697460",
+      "@date_publi": "1968-11-10",
+      "@date_signature": "1968-11-09",
+      "@nature": "DECRET",
+      "@num": "68-976"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-11-10",
+          "@etat": "ABROGE",
+          "@fin": "2002-01-31",
+          "@id": "LEGIARTI000006483614",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Le présent décret [*objet*] fixe les normes de salubrité, de sécurité, d'équipement et de confort prévues à l'article 1er de la loi du 12 juillet 1967 relative à l'amélioration de l'habitat.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 67-561 1967-07-12",
+        "@cidtexte": "JORFTEXT000000692718",
+        "@datesignatexte": "1967-07-12",
+        "@id": "JORFTEXT000000692718",
+        "@naturetexte": "LOI",
+        "@numtexte": "67-561",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°67-561 du 12 juillet 1967 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000692718",
+        "@datesignatexte": "1967-07-12",
+        "@id": "LEGIARTI000006464779",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "67-561",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2002-120 du 30 janvier 2002 - art. 6 (V) JORF 31 janvier 2002",
+        "@cidtexte": "JORFTEXT000000217471",
+        "@datesignatexte": "2002-01-30",
+        "@id": "LEGIARTI000006207823",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUU0200163D",
+        "@num": "6",
+        "@numtexte": "2002-120",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°2002-120 du 30 janvier 2002 - art. 6 (V)",
+        "@cidtexte": "JORFTEXT000000217471",
+        "@datesignatexte": "2002-01-30",
+        "@id": "LEGIARTI000006207823",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUU0200163D",
+        "@num": "6",
+        "@numtexte": "2002-120",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006312668",
+      "ANCIEN_ID": "FAAACGIXXXX1661AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/26/LEGIARTI000006312668.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1661",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1982-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "RECOUVREMENT DE L'IMPOT",
+            "@debut": "1972-08-30",
+            "@fin": "2006-01-01",
+            "@id": "LEGISCTA000006084262"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "PAIEMENT DE L'IMPOT",
+              "@debut": "1978-06-08",
+              "@fin": "1989-07-14",
+              "@id": "LEGISCTA000006114509"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "IMPOTS DIRECTS ET TAXES ASSIMILEES.",
+                "@debut": "1979-07-01",
+                "@fin": "1989-07-14",
+                "@id": "LEGISCTA000006133902"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-04-30",
+          "@etat": "MODIFIE",
+          "@fin": "1979-07-01",
+          "@id": "LEGIARTI000049234227",
+          "@num": "1661",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "TRANSFERE",
+          "@fin": "1982-01-01",
+          "@id": "LEGIARTI000006312668",
+          "@num": "1661",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>     Un avis d'imposition est transmis à tout contribuable inscrit au rôle. Il mentionne le total par cote des sommes à acquitter, les conditions d'exigibilité ainsi que la date de mise en recouvrement.<br/>\n<br/>    Les avis d'imposition sont adressés aux contribuables sous enveloppe fermée, dans les conditions prévues à l'article 88 de la loi du 16 avril 1930 et à l'article 51 de la loi du 31 décembre 1935.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n° 81-859 du 15 septembre 1981 - art. 2",
+        "@cidtexte": "JORFTEXT000000701292",
+        "@datesignatexte": "1981-09-15",
+        "@id": "LEGIARTI000006272083",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "81-859",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      },
+      {
+        "#text": "EDITION 1979-07-01",
+        "@sens": "source",
+        "@typelien": "HISTO"
+      },
+      {
+        "#text": "LOI 1930-04-16 ART. 88",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 1935-12-31 ART. 51",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Livre des procédures fiscales L253 (1er al. du CGI 1661)",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

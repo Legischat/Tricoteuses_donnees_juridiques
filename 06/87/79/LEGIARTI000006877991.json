@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006877991",
+      "ANCIEN_ID": "URIEIXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/79/LEGIARTI000006877991.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-03-01",
+        "DATE_FIN": "2010-11-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 décembre 2004 relatif aux installations de stockage de déchets industriels inertes provenant d'installations classées",
+          "@c_titre_court": "Arrêté du 31 décembre 2004",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000607028"
+        },
+        {
+          "#text": "Arrêté du 31 décembre 2004 relatif aux installations de stockage de déchets industriels inertes provenant d'installations classées.",
+          "@c_titre_court": "Arrêté du 31 décembre 2004",
+          "@debut": "2005-03-01",
+          "@fin": "2010-11-17",
+          "@id_txt": "LEGITEXT000006051370"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE Ier : DISPOSITIONS GÉNÉRALES.",
+            "@debut": "2005-03-01",
+            "@fin": "2010-11-17",
+            "@id": "LEGISCTA000006111501"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000607028",
+      "@date_publi": "2005-03-01",
+      "@date_signature": "2004-12-31",
+      "@ministere": "MINISTERE DE L'ECOLOGIE ET DU DEVELOPPEMENT DURABLE",
+      "@nature": "ARRETE",
+      "@nor": "DEVP0540039A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2010-11-17",
+          "@id": "LEGIARTI000006877991",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont exclus du champ d'application du présent arrêté :<br/>\n<br/>   - les stockages de déchets radioactifs ;<br/>\n<br/>   - les stockages spécifiques de déchets provenant de l'exploration et de l'exploitation des mines, dans le périmètre concerné par le titre minier ou à proximité de celui-ci, et des carrières, sur le site d'extraction ;<br/>\n<br/>   - les stockages de gravats et déchets inertes issus de l'activité du bâtiment et des travaux publics ainsi que de déchets similaires issus de la fabrication de matériaux de construction ;<br/>\n<br/>   - les stockages dans des cavités naturelles ou artificielles en sous-sol ;<br/>\n<br/>   - les installations ayant fait l'objet d'une cessation d'activité au sens de l'article 34-1 du décret du 21 septembre 1977 susvisé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°77-1133 du 21 septembre 1977 - art. 34-1",
+        "@cidtexte": "JORFTEXT000000518520",
+        "@datesignatexte": "1977-09-21",
+        "@id": "LEGIARTI000006852420",
+        "@naturetexte": "DECRET",
+        "@num": "34-1",
+        "@numtexte": "77-1133",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 28 octobre 2010 - art. 34 (VT)",
+        "@cidtexte": "JORFTEXT000023082021",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000023100704",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVP1022585A",
+        "@num": "34",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

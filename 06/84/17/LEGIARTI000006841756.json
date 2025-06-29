@@ -1,0 +1,160 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006841756",
+      "ANCIEN_ID": "UFAXXXXXXXX2X321R011XXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/17/LEGIARTI000006841756.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R321-11",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2001-06-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la route",
+          "@c_titre_court": "Code de la route.",
+          "@debut": "2001-05-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074228"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "2001-05-27",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108688"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre III : Le véhicule.",
+              "@debut": "2001-05-27",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006129091"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Dispositions administratives.",
+                "@debut": "2001-05-27",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143856"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Réception et homologation",
+                  "@debut": "2001-06-01",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006159585"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 2 : Réception communautaire ou réception CE.",
+                    "@debut": "2001-06-01",
+                    "@fin": "2999-01-01",
+                    "@id": "LEGISCTA000006177096"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074228",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-06-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006841756",
+          "@num": "R321-11",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tout véhicule dont le type a fait l'objet d'une réception CE et qui est muni d'un certificat de conformité valide peut être librement commercialisé et mis en circulation.<br/>\n<br/>   Un arrêté du ministre chargé des transports définit les types de véhicules incomplets qui, bien que munis d'un certificat de conformité valide, ne peuvent être immatriculés qu'après une nouvelle réception du véhicule complété.<br/>\n<br/>   Le certificat de conformité nécessaire pour l'obtention de l'immatriculation d'un véhicule dont le type a fait l'objet d'une réception CE doit être rédigé en français.<br/>\n<br/>   Le ministre chargé des transports peut préciser par arrêté les ajouts à lui apporter de façon à faire apparaître les données nécessaires à l'immatriculation des véhicules.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2001-251 2001-03-22 JORF 25 mars 2001",
+        "@cidtexte": "JORFTEXT000000578193",
+        "@datesignatexte": "2001-03-22",
+        "@id": "JORFTEXT000000578193",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS0100055D",
+        "@numtexte": "2001-251",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 2 mai 2003 - art. 12 (VD)",
+        "@cidtexte": "JORFTEXT000000238140",
+        "@datesignatexte": "2003-05-02",
+        "@id": "LEGIARTI000029044117",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "EQUS0300697A",
+        "@num": "12",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route - art. R109-6 (Ab)",
+        "@cidtexte": "LEGITEXT000006074947",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006875633",
+        "@naturetexte": "CODE",
+        "@num": "R109-6",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code de la route R109-6",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la route. - art. R321-2 (V)",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006841744",
+        "@naturetexte": "CODE",
+        "@num": "R321-2",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

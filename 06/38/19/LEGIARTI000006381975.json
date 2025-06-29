@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006381975",
+      "ANCIEN_ID": "MSIJBXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/19/LEGIARTI000006381975.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-03-01",
+        "DATE_FIN": "1983-08-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 février 1982 TAUX DES INDEMNITES KILOMETRIQUES POUR L'USAGE DE LA VOITURE AUTOMOBILE PERSONNELLE SUR LE TERRITOIRE METROPOLITAIN DE LA FRANCE",
+          "@c_titre_court": "Arrêté du 26 février 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000864642"
+        },
+        {
+          "#text": "Arrêté du 26 février 1982 fixant les taux des indemnités forfaitaires de déplacement prévues aux articles 28 et 29 du décret n° 66-619 du 10 août 1966 modifié.",
+          "@c_titre_court": "Arrêté du 26 février 1982",
+          "@debut": "1982-03-01",
+          "@fin": "1983-08-01",
+          "@id_txt": "LEGITEXT000006070535"
+        }
+      ],
+      "@cid": "JORFTEXT000000864642",
+      "@date_publi": "1982-03-02",
+      "@date_signature": "1982-02-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-03-01",
+          "@etat": "ABROGE",
+          "@fin": "1983-08-01",
+          "@id": "LEGIARTI000006381975",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>   Pour l'application de l'article 28 du décret du 10 août 1966 susvisé, les taux des indemnités kilométriques pour l'usage de la voiture automobile personnelle sur le territoire métropolitain de la France sont fixés conformément au tableau ci-après (les kilomètres étant décomptés du 1er janvier au 31 décembre de chaque année) :</p>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<table>\n<tbody>\n<tr>\n<td> :===============================================================:</td>\n</tr>\n<tr>\n<td> :      CATEGORIES     :   JUSQU'A   :   DE 2.001   :   APRES    :</td>\n</tr>\n<tr>\n<td> : (Puissance fiscale  :  2.000 km   : à 10.000 km  : 10.000 km  :</td>\n</tr>\n<tr>\n<td> :     du véhicule)    :             :              :            :</td>\n</tr>\n<tr>\n<td> :---------------------------------------------------------------:</td>\n</tr>\n<tr>\n<td> : Véhicules :         :   Francs    :    Francs    :   Francs   :</td>\n</tr>\n<tr>\n<td> :                     :             :              :            :</td>\n</tr>\n<tr>\n<td> :  De moins de 4 CV   :    0,75     :     0,84     :    0,49    :</td>\n</tr>\n<tr>\n<td> :  De 4 à 5 CV        :    0,85     :     0,99     :    0,54    :</td>\n</tr>\n<tr>\n<td> :  De 6 CV et plus    :    1        :     1,20     :    0,69    :</td>\n</tr>\n<tr>\n<td> :                     :             :              :            :</td>\n</tr>\n<tr>\n<td> :===============================================================:</td>\n</tr>\n</tbody>\n</table>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 66-619 1966-08-10 ART. 28 et ART. 29",
+        "@cidtexte": "JORFTEXT000000876794",
+        "@datesignatexte": "1966-08-10",
+        "@id": "JORFTEXT000000876794",
+        "@naturetexte": "DECRET",
+        "@numtexte": "66-619",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°66-619 du 10 août 1966 - art. 28 (Ab)",
+        "@cidtexte": "JORFTEXT000000876794",
+        "@datesignatexte": "1966-08-10",
+        "@id": "LEGIARTI000006503050",
+        "@naturetexte": "DECRET",
+        "@num": "28",
+        "@numtexte": "66-619",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 5 août 1983, v. init.",
+        "@cidtexte": "JORFTEXT000000655495",
+        "@datesignatexte": "1983-08-05",
+        "@id": "JORFTEXT000000655495",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

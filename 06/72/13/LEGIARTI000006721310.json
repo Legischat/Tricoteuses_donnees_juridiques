@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721310",
+      "ANCIEN_ID": "AFHAGXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/13/LEGIARTI000006721310.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1952-03-04",
+        "DATE_FIN": "2005-08-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 21 décembre 1936 relatif à l'application de la loi du 13 août 1936 modifiant et complétant l'organisation du crédit au petit et au moyen commerce, à la petite et à la moyenne industrie",
+          "@c_titre_court": "Décret du 21 décembre 1936",
+          "@debut": "1936-12-22",
+          "@fin": "2005-08-25",
+          "@id_txt": "LEGITEXT000006073044"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Constitution et affectation du fonds collectif de garantie",
+            "@debut": "1936-12-22",
+            "@fin": "2005-08-25",
+            "@id": "LEGISCTA000006105116"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Remboursement des avances de l'Etat.",
+              "@debut": "1936-12-22",
+              "@fin": "2005-08-25",
+              "@id": "LEGISCTA000006126322"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006073044",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1936-12-21",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1952-03-04",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006721310",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le prélèvement de 10 % sur les bénéfices nets que les banques populaires sont tenues d'effectuer au profit de la caisse centrale, pour l'alimentation du fonds collectif de garantie, est réalisé sur l'ensemble des bénéfices nets, compte tenu des deux prélèvements dont il est question à l'article précédent.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1936-12-21 art. 17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 52-255 1952-03-03 art. 2 JORF 4 mars 1952",
+        "@cidtexte": "JORFTEXT000000508660",
+        "@datesignatexte": "1952-03-03",
+        "@id": "JORFTEXT000000508660",
+        "@naturetexte": "DECRET",
+        "@numtexte": "52-255",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005",
+        "@cidtexte": "JORFTEXT000000451781",
+        "@datesignatexte": "2005-08-02",
+        "@id": "LEGIARTI000006244165",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOX0500001D",
+        "@num": "5",
+        "@numtexte": "2005-1007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1936-08-13",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

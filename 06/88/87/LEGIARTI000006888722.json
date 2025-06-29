@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888722",
+      "ANCIEN_ID": "UTIGKXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/87/LEGIARTI000006888722.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-09-16",
+        "DATE_FIN": "1999-02-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 juillet 1975 fixant les conditions d'établissement, de délivrance et de validité des permis de conduire",
+          "@c_titre_court": "Arrêté du 31 juillet 1975",
+          "@debut": "1975-09-16",
+          "@fin": "1999-02-20",
+          "@id_txt": "LEGITEXT000006075053"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Examens médicaux.",
+            "@debut": "1975-09-16",
+            "@fin": "1999-02-20",
+            "@id": "LEGISCTA000006112280"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006075053",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1975-07-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-09-16",
+          "@etat": "ABROGE",
+          "@fin": "1999-02-20",
+          "@id": "LEGIARTI000006888722",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Conformément aux prescriptions de l'article R. 128 du code de la route lorsque le titulaire d'un permis de conduire néglige ou refuse de se soumettre dans les délais voulus à l'une des visites médicales qui lui aurait été prescrite par le préfet (cf. § 4.2 ci-dessus) ce dernier peut prononcer ou reconduire la suspension du permis de conduire jusqu'à la production d'un certificat médical favorable délivré par la commission médicale départementale compétente.<br/>\n<br/>   Le refus de se soumettre à la visite médicale est dûment établi dès lors que le conducteur convoqué pour la deuxième fois ne se présente pas devant la commission sans excuse valable.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1999-02-08 art. 16 JORF 20 février 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R128",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

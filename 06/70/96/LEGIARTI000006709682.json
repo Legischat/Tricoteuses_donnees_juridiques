@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006709682",
+      "ANCIEN_ID": "SPHQ8XXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/96/LEGIARTI000006709682.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-08-01",
+        "DATE_FIN": "2011-06-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 90-840 du 21 septembre 1990 relatif au classement indiciaire des    personnels administratifs de la fonction publique hospitalière",
+          "@c_titre_court": "Décret n°90-840 du 21 septembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000717270"
+        },
+        {
+          "#text": "Décret n°90-840 du 21 septembre 1990 relatif au classement indiciaire des personnels administratifs de la fonction publique hospitalière",
+          "@c_titre_court": "Décret n°90-840 du 21 septembre 1990",
+          "@debut": "1990-01-01",
+          "@fin": "2011-06-16",
+          "@id_txt": "LEGITEXT000006076530"
+        }
+      ],
+      "@cid": "JORFTEXT000000717270",
+      "@date_publi": "1990-09-23",
+      "@date_signature": "1990-09-21",
+      "@ministere": "MINISTERE DE LA SOLIDARITE DE LA SANTE ET DE LA PROTECTION SOCIALE",
+      "@nature": "DECRET",
+      "@nor": "SPSH9001847D",
+      "@num": "90-840"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "TRANSFERE",
+          "@fin": "1990-08-01",
+          "@id": "LEGIARTI000006709681",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-08-01",
+          "@etat": "ABROGE",
+          "@fin": "2011-06-16",
+          "@id": "LEGIARTI000006709682",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le classement indiciaire applicable aux agents du corps des adjoints administratifs hospitaliers relevant du grade d'adjoint administratif hospitalier principal est fixé comme suit :<br/>\n<br/>   Indices bruts :<br/>\n<br/>   - adjoint administratif hospitalier principal : 396-449.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°91-435 du 14 mai 1991 - art. 1 () JORF 15 mai 1991 en vigueur le 1er août 1990",
+        "@cidtexte": "JORFTEXT000000870181",
+        "@datesignatexte": "1991-05-14",
+        "@id": "LEGIARTI000006711026",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANH9100430D",
+        "@num": "1",
+        "@numtexte": "91-435",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2011-662\n du 14 juin 2011 - art. 2",
+        "@cidtexte": "JORFTEXT000024169572",
+        "@datesignatexte": "2011-06-14",
+        "@id": "LEGIARTI000024174828",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ETSH1113985D",
+        "@num": "2",
+        "@numtexte": "2011-662",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

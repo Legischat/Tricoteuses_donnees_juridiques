@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006285049",
+      "ANCIEN_ID": "ARFAJXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/50/LEGIARTI000006285049.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1823-11-26",
+        "DATE_FIN": "2017-11-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance du Roi du 26 novembre 1823 portant règlement sur la vérification des registres de l'état civil",
+          "@c_titre_court": "Ordonnance du Roi du 26 novembre 1823",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000021821006"
+        },
+        {
+          "#text": "Ordonnance du 26 novembre 1823 portant règlement sur la vérification des registres de l'état civil.",
+          "@c_titre_court": "Ordonnance du 26 novembre 1823",
+          "@debut": "1823-11-26",
+          "@fin": "2017-11-01",
+          "@id_txt": "LEGITEXT000006069458"
+        }
+      ],
+      "@cid": "JORFTEXT000021821006",
+      "@date_publi": "1823-12-08",
+      "@date_signature": "1823-11-26",
+      "@nature": "ORDONNANCE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1823-11-26",
+          "@etat": "ABROGE",
+          "@fin": "2017-11-01",
+          "@id": "LEGIARTI000006285049",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Nos (les) procureurs pourront, lorsqu'ils le jugeront nécessaire, se transporter sur les lieux et vérifier les registres de l'année courante.<br/>\n<br/>   Ils pourront, dans le même cas, déléguer les juges du tribunal d'instance du canton dans lequel sera située la commune dont les registres devront être vérifiés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2017-890 du 6 mai 2017 - art. 59 (VD)",
+        "@cidtexte": "JORFTEXT000034635327",
+        "@datesignatexte": "2017-05-06",
+        "@id": "LEGIARTI000034708070",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC1703743D",
+        "@num": "59",
+        "@numtexte": "2017-890",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Ordonnance 1823-11-26 Bulletin des lois 7e S, B. 640 n° 15963",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

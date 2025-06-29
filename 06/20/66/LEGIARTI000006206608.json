@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006206608",
+      "ANCIEN_ID": "AMIBMXXXXXX125AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/66/LEGIARTI000006206608.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "125",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-05-12",
+        "DATE_FIN": "1995-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 avril 1984 SUR LES MARCHES DES ORGANISMES DE SECURITE SOCIALE DU REGIME GENERAL",
+          "@c_titre_court": "Arrêté du 4 avril 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000292842"
+        },
+        {
+          "#text": "Arrêté du 4 avril 1984 portant règlement sur les marchés des organismes de sécurité sociale du régime général",
+          "@c_titre_court": "Arrêté du 4 avril 1984",
+          "@debut": "1984-05-12",
+          "@fin": "1995-09-01",
+          "@id_txt": "LEGITEXT000005631340"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Règlement et financement des marchés.",
+            "@debut": "1984-05-12",
+            "@fin": "1995-09-01",
+            "@id": "LEGISCTA000006083231"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre I : Modalités et règlements des marchés",
+              "@debut": "1984-05-12",
+              "@fin": "1995-09-01",
+              "@id": "LEGISCTA000006113699"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section VI : Dispositions relatives aux travaux sur mémoires et achats sur factures.",
+                "@debut": "1984-05-12",
+                "@fin": "1995-09-01",
+                "@id": "LEGISCTA000006133131"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000292842",
+      "@date_publi": "1984-05-12",
+      "@date_signature": "1984-04-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-05-12",
+          "@etat": "ABROGE",
+          "@fin": "1995-09-01",
+          "@id": "LEGIARTI000006206608",
+          "@num": "125",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sommes dues pour les travaux et achats mentionnés à l'article 186 quater du code des marchés publics sont mandatées dans un délai qui ne peut dépasser quarante-cinq jours à compter de la réception de la facture ou du mémoire.<br/>\n<br/>   Le défaut de mandatement dans le délai prévu à l'alinéa précédent fait courir de plein droit et sans autre formalité au bénéfice du titulaire de la commande, des intérêts moratoires qui sont calculés dans les conditions prévues au premier alinéa de l'article 118 à partir du jour suivant l'expiration dudit délai jusqu'au quinzième jour inclus suivant la date de mandatement du principal.<br/>\n<br/>   En cas de désaccord sur le montant du mémoire ou de la facture, le mandatement est effectué sur la base provisoire des sommes admises par l'organisme contractant. Lorsque les sommes ainsi payées sont inférieures à celles qui sont normalement dues au titulaire de la commande, celui-ci a droit à des intérêts moratoires calculés sur la différence.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-04-04 art. 118",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1984-04-04 art. 145 *modalités d'application - date d'effet*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté du 9 mai 1995 - art., v. init.",
+        "@cidtexte": "JORFTEXT000000536790",
+        "@datesignatexte": "1995-05-09",
+        "@id": "JORFARTI000001940594",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SPSS9501561A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L64",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code des marchés publics 186 quater",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

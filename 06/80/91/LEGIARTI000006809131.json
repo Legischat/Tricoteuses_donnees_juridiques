@@ -1,0 +1,154 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006809131",
+      "ANCIEN_ID": "TXXXXXXXXXX0322R0190XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/91/LEGIARTI000006809131.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R322-19",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1983-07-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "EMPLOI",
+              "@debut": "1973-11-21",
+              "@fin": "1986-01-01",
+              "@id": "LEGISCTA000006128498"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "FONDS NATIONAL DE L'EMPLOI .",
+                "@debut": "1973-11-23",
+                "@fin": "1983-07-24",
+                "@id": "LEGISCTA000006143034"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "AIDES A LA MOBILITE GEOGRAPHIQUE",
+                  "@debut": "1973-11-23",
+                  "@fin": "1983-07-24",
+                  "@id": "LEGISCTA000006158080"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "ABROGE",
+          "@fin": "1983-07-24",
+          "@id": "LEGIARTI000006809131",
+          "@num": "R322-19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018515458",
+          "@num": "R322-19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les décisions individuelles pour l'application des articles R. 322-11 à /R/R. 322-15/R/DECR.1048 07-09-1977 : R. 322-14// sont prises par le préfet.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret  1970-03-16 ART. 19",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 83-665 1983-07-22 ART. 3 JORF 24 JUILLET 1983",
+        "@cidtexte": "JORFTEXT000000507441",
+        "@datesignatexte": "1983-07-22",
+        "@id": "JORFTEXT000000507441",
+        "@naturetexte": "DECRET",
+        "@numtexte": "83-665",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. R322-20 (VT)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018515451",
+        "@naturetexte": "CODE",
+        "@num": "R322-20",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail R322-11 A R322-15",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

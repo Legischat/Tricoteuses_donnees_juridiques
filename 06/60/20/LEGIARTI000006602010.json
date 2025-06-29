@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602010",
+      "ANCIEN_ID": "RAHBEXXXXXX019AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/20/LEGIARTI000006602010.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-07-30",
+        "DATE_FIN": "1981-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°63-752 du 27 juillet 1963 PORTANT REFORME DU REGIME FINANCIER ET COMPTABLE DES CHAMBRES D'AGRICULTURE",
+          "@c_titre_court": "Décret n°63-752 du 27 juillet 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000490858"
+        },
+        {
+          "#text": "Décret n°63-752 du 27 juillet 1963 portant réforme du régime financier et comptable des chambres d'agriculture",
+          "@c_titre_court": "Décret n°63-752 du 27 juillet 1963",
+          "@debut": "1963-07-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061146"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Etablissements et services d'utilité agricole.",
+            "@debut": "1963-07-30",
+            "@fin": "1981-03-27",
+            "@id": "LEGISCTA000006098492"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000490858",
+      "@date_publi": "1963-07-30",
+      "@date_signature": "1963-07-27",
+      "@nature": "DECRET",
+      "@num": "63-752"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-30",
+          "@etat": "ABROGE",
+          "@fin": "1981-03-27",
+          "@id": "LEGIARTI000006602010",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le détail des opérations de recettes et de dépenses de tout établissement ou service d'utilité agricole à compétence interdépartementale fait l'objet d'un budget spécial préparé, chaque année, par le président du comité de direction régional et voté par ledit comité dans la limite toutefois du montant maximum des participations annuelles votées par chacune des chambres d'agriculture intéressées.<br/>\n<br/>   Le budget spécial est soumis avant le 30 septembre à l'approbation du ministre de l'agriculture.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural nouveau livre V",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret n°63-752 du 27 juillet 1963 - art. 20 (Ab)",
+        "@cidtexte": "JORFTEXT000000490858",
+        "@datesignatexte": "1963-07-27",
+        "@id": "LEGIARTI000006602012",
+        "@naturetexte": "DECRET",
+        "@num": "20",
+        "@numtexte": "63-752",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-277 1981-03-18 art. 2 JORF 27 mars 1981",
+        "@cidtexte": "JORFTEXT000000685109",
+        "@datesignatexte": "1981-03-18",
+        "@id": "JORFTEXT000000685109",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-277",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

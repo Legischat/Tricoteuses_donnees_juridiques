@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006890531",
+      "ANCIEN_ID": "UTIPFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/05/LEGIARTI000006890531.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-01-01",
+        "DATE_FIN": "2007-04-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 décembre 1991 relatif à l'utilisation des systèmes de retenue    pour enfants dans les véhicules automobiles",
+          "@c_titre_court": "Arrêté du 27 décembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000174754"
+        },
+        {
+          "#text": "Arrêté du 27 décembre 1991 relatif à l'utilisation des systèmes de retenue pour enfants dans les véhicules automobiles",
+          "@c_titre_court": "Arrêté du 27 décembre 1991",
+          "@debut": "1992-01-01",
+          "@fin": "2007-04-17",
+          "@id_txt": "LEGITEXT000006078459"
+        }
+      ],
+      "@cid": "JORFTEXT000000174754",
+      "@date_publi": "1991-12-29",
+      "@date_signature": "1991-12-27",
+      "@ministere": "MINISTERE DES DEPARTEMENTS D'OUTRE-MER",
+      "@nature": "ARRETE",
+      "@nor": "EQUS9101857A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-04-17",
+          "@id": "LEGIARTI000006890531",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les enfants de moins de dix ans, l'utilisation d'un système de retenue pour enfants, homologué, adapté à leur taille et à leur poids, est obligatoire en circulation dans les conditions définies aux alinéas 3, 5 et 6 de l'article R. 53-1 tel que modifié par le décret n° 91-1321 du 27 décembre 1991 et selon les modalités définies ci-après.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2007-03-23 art. 2 JORF 17 avril 2007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 91-1321 1991-12-27",
+        "@cidtexte": "JORFTEXT000000355984",
+        "@datesignatexte": "1991-12-27",
+        "@id": "JORFTEXT000000355984",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS9101240D",
+        "@numtexte": "91-1321",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route R53-1",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

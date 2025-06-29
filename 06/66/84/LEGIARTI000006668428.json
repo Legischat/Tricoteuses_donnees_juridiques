@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006668428",
+      "ANCIEN_ID": "SEIF5XXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/84/LEGIARTI000006668428.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-12-26",
+        "DATE_FIN": "1987-06-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 novembre 1986 fixant la convention type de chômage partiel",
+          "@c_titre_court": "Arrêté du 28 novembre 1986",
+          "@debut": "1986-12-26",
+          "@fin": "1987-06-19",
+          "@id_txt": "LEGITEXT000006072211"
+        }
+      ],
+      "@cid": "LEGITEXT000006072211",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-11-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-26",
+          "@etat": "ABROGE",
+          "@fin": "1987-06-19",
+          "@id": "LEGIARTI000006668428",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Cet arrêté abroge et remplace l'arrêté du 12 août 1985 portant convention type de chômage partiel.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-08-12 (abrogé)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-05-19 art. 2 JORF 19 juin 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. D322-13 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006644733",
+        "@naturetexte": "CODE",
+        "@num": "D322-13",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

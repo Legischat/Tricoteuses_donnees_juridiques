@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006534542",
+      "ANCIEN_ID": "ADHAJXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/45/LEGIARTI000006534542.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-02-27",
+        "DATE_FIN": "1985-05-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-1176 du 29 décembre 1982 RELATIF AUX INFRACTIONS A LA LOI 81766 DU 10-08-1981 CONCERNANT LE PRIX DU LIVRE",
+          "@c_titre_court": "Décret n°82-1176 du 29 décembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000331499"
+        },
+        {
+          "#text": "Décret n°82-1176 du 29 décembre 1982 relatif aux infractions à la loi n° 81-766 du 10 août 1981 concernant le prix du livre",
+          "@c_titre_court": "Décret n°82-1176 du 29 décembre 1982",
+          "@debut": "1983-01-01",
+          "@fin": "1985-05-30",
+          "@id_txt": "LEGITEXT000006063675"
+        }
+      ],
+      "@cid": "JORFTEXT000000331499",
+      "@date_publi": "1983-01-01",
+      "@date_signature": "1982-12-29",
+      "@nature": "DECRET",
+      "@num": "82-1176"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1985-02-27",
+          "@id": "LEGIARTI000006534541",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-02-27",
+          "@etat": "ABROGE",
+          "@fin": "1985-05-30",
+          "@id": "LEGIARTI000006534542",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sera puni de la peine d'amende prévue pour la troisième classe de contraventions :<br/>\n<br/>   1° Quiconque aura édité ou importé un livre sans fixer un prix de vente au public ;<br/>\n<br/>   2° Sous réserve des exceptions prévues par les articles 3 et 5 de la loi du 10 août 1981 relative au prix du livre, tout détaillant qui aura pratiqué un prix effectif de vente non compris entre 95 p. 100 et 100 p. 100 du prix fixé par l'éditeur ou l'importateur ;<br/>\n<br/>   3° Tout importateur qui aura fixé pour un livre édité en France un prix de vente au public inférieur à celui qu'a fixé l'éditeur ;<br/>\n<br/>   4° Quiconque aura fixé, pour un livre publié en vue de sa diffusion par courtage, abonnement ou correspondance moins de neuf mois après sa première édition, un prix de vente au public inférieur à celui de cette première édition.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 81-766 1981-08-10",
+        "@cidtexte": "JORFTEXT000000517179",
+        "@datesignatexte": "1981-08-10",
+        "@id": "JORFTEXT000000517179",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-766",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°81-766 du 10 août 1981 - art. 3 (M)",
+        "@cidtexte": "JORFTEXT000000517179",
+        "@datesignatexte": "1981-08-10",
+        "@id": "LEGIARTI000006510840",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "81-766",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°81-766 du 10 août 1981 - art. 5 (V)",
+        "@cidtexte": "JORFTEXT000000517179",
+        "@datesignatexte": "1981-08-10",
+        "@id": "LEGIARTI000006510847",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "81-766",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-271 1985-02-26 art. 1 JORF 27 février 1985",
+        "@cidtexte": "JORFTEXT000000517959",
+        "@datesignatexte": "1985-02-26",
+        "@id": "JORFTEXT000000517959",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-271",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°85-556 du 29 mai 1985 - art. 2 (V) JORF 30 mai 1985",
+        "@cidtexte": "JORFTEXT000000331778",
+        "@datesignatexte": "1985-05-29",
+        "@id": "LEGIARTI000006546991",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "85-556",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

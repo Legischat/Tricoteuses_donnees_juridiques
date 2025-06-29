@@ -1,0 +1,162 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006313061",
+      "ANCIEN_ID": "FAAACGIXXXX1762AFXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/30/LEGIARTI000006313061.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1762 quinquies",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1987-07-09",
+        "DATE_FIN": "1992-07-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Recouvrement de l'impôt",
+            "@debut": "1969-12-27",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084265"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Pénalités",
+              "@debut": "1977-12-30",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006114518"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section II : Dispositions particulières",
+                "@debut": "1977-12-30",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006133937"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "A : Impôts directs et taxes assimilées",
+                  "@debut": "1979-07-01",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006147258"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "1 : Majorations de droits",
+                    "@debut": "1979-07-01",
+                    "@fin": "2999-01-01",
+                    "@id": "LEGISCTA000006162918"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1987-07-09",
+          "@id": "LEGIARTI000006313060",
+          "@num": "1762 quinquies",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-07-09",
+          "@etat": "MODIFIE",
+          "@fin": "1992-07-04",
+          "@id": "LEGIARTI000006313061",
+          "@num": "1762 quinquies",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-07-04",
+          "@etat": "ABROGE",
+          "@fin": "2006-01-01",
+          "@id": "LEGIARTI000006313062",
+          "@num": "1762 quinquies",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas d'irrégularités affectant la détermination du montant de la créance définie à l'article 220 quinquies, son imputation ou son remboursement, l'intérêt de retard et, s'il y a lieu, les majorations prévus à l'article 1729 sont applicables au titre de l'exercice d'imputation ou de remboursement.<br/>\n<br/>   (La modification édictée par la loi 87-502 n'a pas été codifiée et le texte inclut le second paragraphe jusqu'à l'édition du 4 juillet 1992).<br/>\n<br/>   En cas de remboursement indu, les seuils d'application des majorations prévues à l'article 1729 sont appréciés en comparant le montant du remboursement indu au montant du remboursement auquel avait droit le redevable.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1729",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CGI 220 quinquies",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 87-502 1987-07-08 art. 2 III, VI JORF 9 juillet 1987",
+        "@cidtexte": "JORFTEXT000000321412",
+        "@datesignatexte": "1987-07-08",
+        "@id": "JORFTEXT000000321412",
+        "@naturetexte": "LOI",
+        "@numtexte": "87-502",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 88-1001 1988-10-20",
+        "@cidtexte": "JORFTEXT000000509838",
+        "@datesignatexte": "1988-10-20",
+        "@id": "JORFTEXT000000509838",
+        "@naturetexte": "DECRET",
+        "@nortexte": "BUDF8800011D",
+        "@numtexte": "88-1001",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

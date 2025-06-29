@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006319483",
+      "ANCIEN_ID": "FAEHEXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/94/LEGIARTI000006319483.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1995-12-31",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI de finances rectificative pour 1995 (n° 95-1347 du 30 décembre 1995) (1)",
+          "@c_titre_court": "Loi",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000555740"
+        },
+        {
+          "#text": "Loi n° 95-1347 du 30 décembre 1995 de finances rectificative pour 1995 (1)",
+          "@c_titre_court": "Loi n° 95-1347 du 30 décembre 1995",
+          "@debut": "1995-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005620087"
+        }
+      ],
+      "@cid": "JORFTEXT000000555740",
+      "@date_publi": "1995-12-31",
+      "@date_signature": "1995-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX9500162L",
+      "@num": "95-1347"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-12-31",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006319483",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A l'état F annexé à la loi de finances pour 1995 (n° 94-1162 du 29 décembre 1994), fixant la liste des chapitres sur lesquels s'imputent des crédits évaluatifs autres que ceux limitativement énumérés à l'article 9 de l'ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances, sont ajoutés les chapitres suivants du compte d'affectation des produits de cessions de titres du secteur public au désendettement de l'Etat (n° 902-27) ;<br/>\n<br/> Chapitre 01. Versements à la caisse d'amortissement de la dette publique.<br/>\n<br/> Chapitre 02. Versements au fonds de soutien des rentes.<br/>\n<br/> Chapitre 03. Dépenses afférentes aux ventes de titres, de parts ou de droits de sociétés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°59-2 du 2 janvier 1959 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000000339591",
+        "@datesignatexte": "1959-01-02",
+        "@id": "LEGIARTI000006530084",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "9",
+        "@numtexte": "59-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 94-1162 1994-12-29",
+        "@cidtexte": "JORFTEXT000000367398",
+        "@datesignatexte": "1994-12-29",
+        "@id": "JORFTEXT000000367398",
+        "@naturetexte": "LOI",
+        "@nortexte": "BUDX9400125L",
+        "@numtexte": "94-1162",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 95-1347 1995-12-30 Finances rectificative pour 1995 JORF 31 décembre 1995",
+        "@cidtexte": "JORFTEXT000000555740",
+        "@datesignatexte": "1995-12-30",
+        "@id": "JORFTEXT000000555740",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9500162L",
+        "@numtexte": "95-1347",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

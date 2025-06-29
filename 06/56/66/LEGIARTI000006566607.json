@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006566607",
+      "ANCIEN_ID": "PUHEKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/66/LEGIARTI000006566607.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-953 du 5 septembre 1985 MODIFIANT LE DECRET 71234 DU 30-03-1971 RELATIF AU STATUT DU CORPS DES INGENIEURS DE L'AVIATION CIVILE",
+          "@c_titre_court": "Décret n°85-953 du 5 septembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000688998"
+        },
+        {
+          "#text": "Décret n°85-953 du 5 septembre 1985 modifiant le décret n° 71-234 du 30 mars 1971 relatif au statut du corps des ingénieurs de l'aviation civile.",
+          "@c_titre_court": "Décret n°85-953 du 5 septembre 1985",
+          "@debut": "1985-09-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006065153"
+        }
+      ],
+      "@cid": "JORFTEXT000000688998",
+      "@date_publi": "1985-09-10",
+      "@date_signature": "1985-09-05",
+      "@nature": "DECRET",
+      "@num": "85-953"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006566607",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 71-234 1971-03-30",
+        "@cidtexte": "JORFTEXT000000520634",
+        "@datesignatexte": "1971-03-30",
+        "@id": "JORFTEXT000000520634",
+        "@naturetexte": "DECRET",
+        "@numtexte": "71-234",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°71-234 du 30 mars 1971 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000520634",
+        "@datesignatexte": "1971-03-30",
+        "@id": "LEGIARTI000006566573",
+        "@naturetexte": "DECRET",
+        "@num": "7",
+        "@numtexte": "71-234",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

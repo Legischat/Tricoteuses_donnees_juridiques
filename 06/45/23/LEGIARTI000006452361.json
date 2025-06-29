@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006452361",
+      "ANCIEN_ID": "PFH4EXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/23/LEGIARTI000006452361.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-10-01",
+        "DATE_FIN": "2010-04-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-117 du 27 janvier 1978 ECOLES NATIONALES VETERINAIRES",
+          "@c_titre_court": "Décret n°78-117 du 27 janvier 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000696937"
+        },
+        {
+          "#text": "Décret n°78-117 du 27 janvier 1978 relatif aux structures des écoles nationales vétérinaires.",
+          "@c_titre_court": "Décret n°78-117 du 27 janvier 1978",
+          "@debut": "1977-10-01",
+          "@fin": "2010-04-10",
+          "@id_txt": "LEGITEXT000006062784"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE Ier : La direction.",
+            "@debut": "1977-10-01",
+            "@fin": "2010-04-10",
+            "@id": "LEGISCTA000006091651"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000696937",
+      "@date_publi": "1978-02-05",
+      "@date_signature": "1978-01-27",
+      "@nature": "DECRET",
+      "@num": "78-117"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2010-04-10",
+          "@id": "LEGIARTI000006452361",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La direction de chaque école nationale vétérinaire est confiée pour une période de cinq ans à un directeur nommé dans les conditions fixées par un décret pris dans les formes prévues par l'article 2, alinéa deux, de l'ordonnance n° 59-244 du 4 février 1959 relative au statut général des fonctionnaires.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 59-244 du 4 février 1959",
+        "@cidtexte": "JORFTEXT000000875201",
+        "@datesignatexte": "1959-02-04",
+        "@id": "JORFTEXT000000875201",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "59-244",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2010-362\n du 8 avril 2010 - art. 12",
+        "@cidtexte": "JORFTEXT000022078854",
+        "@datesignatexte": "2010-04-08",
+        "@id": "LEGIARTI000022079282",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS0925668D",
+        "@num": "12",
+        "@numtexte": "2010-362",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

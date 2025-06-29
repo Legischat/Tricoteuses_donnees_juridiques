@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006600323",
+      "ANCIEN_ID": "RAEALXXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/03/LEGIARTI000006600323.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1991-01-06",
+        "DATE_FIN": "1995-02-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 91-5 du 3 janvier 1991 modifiant diverses dispositions intéressant    l'agriculture et la forêt  (1)",
+          "@c_titre_court": "Loi n°91-5 du 3 janvier 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000533880"
+        },
+        {
+          "#text": "Loi n° 91-5 du 3 janvier 1991 modifiant diverses dispositions intéressant l'agriculture et la forêt",
+          "@c_titre_court": "Loi n° 91-5 du 3 janvier 1991",
+          "@debut": "1991-01-06",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006077044"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions relatives aux forêts",
+            "@debut": "1991-01-06",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006098373"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Autres dispositions relatives aux forêts.",
+              "@debut": "1991-01-06",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006121537"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000533880",
+      "@date_publi": "1991-01-06",
+      "@date_signature": "1991-01-03",
+      "@nature": "LOI",
+      "@nor": "AGRX9000138L",
+      "@num": "91-5"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-06",
+          "@etat": "MODIFIE",
+          "@fin": "1995-02-03",
+          "@id": "LEGIARTI000006600323",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-02-03",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006600324",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le représentant de l'Etat dans le département élabore, en concertation avec les conseils régionaux et les conseils généraux et après consultation des communes intéressées, et met en application des plans de zones sensibles aux incendies.<br/>\n<br/>   Ces plans déterminent les zones dans lesquelles les travaux, constructions ou installations peuvent être soit interdits, soit soumis à des conditions particulières de sécurité qu'ils définissent ainsi que les mesures de prévention à mettre en oeuvre dans les secteurs construits, tant par les propriétaires que par les collectivités ou les établissements publics.<br/>\n<br/>   Ils valent servitude d'utilité publique affectant l'utilisation du sol et sont annexés aux plans d'occupation des sols ou aux documents d'urbanisme en tenant lieu.<br/>\n<br/>   Un décret en Conseil d'Etat détermine les conditions d'application du présent article.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 91-5 1991-01-03 annexe",
+        "@cidtexte": "JORFTEXT000000533880",
+        "@datesignatexte": "1991-01-03",
+        "@id": "JORFTEXT000000533880",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9000138L",
+        "@numtexte": "91-5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'environnement - art. L562-6 (V)",
+        "@cidtexte": "LEGITEXT000006074220",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006834582",
+        "@naturetexte": "CODE",
+        "@num": "L562-6",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

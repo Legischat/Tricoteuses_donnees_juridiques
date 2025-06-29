@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006403827",
+      "ANCIEN_ID": "MWEABXXXXXX011AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/38/LEGIARTI000006403827.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-07-13",
+        "DATE_FIN": "1994-12-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°67-483 du 22 juin 1967 RELATIVE A LA COUR DES COMPTES",
+          "@c_titre_court": "Loi n°67-483 du 22 juin 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878024"
+        },
+        {
+          "#text": "Loi n°67-483 du 22 juin 1967 relative à la Cour des comptes.",
+          "@c_titre_court": "Loi n°67-483 du 22 juin 1967",
+          "@debut": "1967-06-23",
+          "@fin": "1994-12-06",
+          "@id_txt": "LEGITEXT000006068305"
+        }
+      ],
+      "@cid": "JORFTEXT000000878024",
+      "@date_publi": "1967-06-23",
+      "@date_signature": "1967-06-22",
+      "@nature": "LOI",
+      "@num": "67-483"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1982-07-13",
+          "@id": "LEGIARTI000006403826",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-07-13",
+          "@etat": "ABROGE",
+          "@fin": "1994-12-06",
+          "@id": "LEGIARTI000006403827",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La Cour des comptes adresse au Président de la République et présente au Parlement un rapport annuel, dans lequel elle expose ses observations et dégage les enseignements qui peuvent en être tirés.<br/>\n<br/>   Ce rapport, auquel sont jointes les réponses des ministres et des représentants des collectivités territoriales, des établissements, sociétés, groupements et organismes intéressés, est publié au Journal officiel de la République française. Ces réponses engagent la seule responsabilité de leurs auteurs. Le délai de leur transmission à la Cour des comptes et les conditions de leur insertion dans le rapport sont fixés par décret en Conseil d'Etat.<br/>\n<br/>   Le rapport public de la Cour des comptes porte à la fois sur les services, organismes et entreprises directement contrôlés par elle, et sur les collectivités, établissements, sociétés, groupements et organismes qui relèvent de la compétence des chambres régionales des comptes en vertu des dispositions de l'article 87 de la loi n° 82-213 du 2 mars 1982 précitée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 82-594 1982-07-10 ART. 19 I ET II JORF 13 JUILLET 1982",
+        "@cidtexte": "JORFTEXT000000691743",
+        "@datesignatexte": "1982-07-10",
+        "@id": "JORFTEXT000000691743",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-594",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°85-199 du 11 février 1985 - art. 49 (Ab)",
+        "@cidtexte": "JORFTEXT000000884998",
+        "@datesignatexte": "1985-02-11",
+        "@id": "LEGIARTI000006359677",
+        "@naturetexte": "DECRET",
+        "@num": "49",
+        "@numtexte": "85-199",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 94-1040 1994-12-02 art. 8 jorf 6 décembre 1994",
+        "@cidtexte": "JORFTEXT000000733681",
+        "@datesignatexte": "1994-12-02",
+        "@id": "JORFTEXT000000733681",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9300187L",
+        "@numtexte": "94-1040",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

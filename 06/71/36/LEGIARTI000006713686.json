@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006713686",
+      "ANCIEN_ID": "SPI18XXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/36/LEGIARTI000006713686.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-12-28",
+        "DATE_FIN": "1995-05-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 décembre 1990 concernant la procédure à suivre devant les    commissions prévues par l'article L. 356 du code de la santé publique",
+          "@c_titre_court": "Arrêté du 16 décembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000343211"
+        },
+        {
+          "#text": "Arrêté du 16 décembre 1990 concernant la procédure à suivre devant les commissions prévues par l'article L. 356 du code de la santé publique",
+          "@c_titre_court": "Arrêté du 16 décembre 1990",
+          "@debut": "1990-12-28",
+          "@fin": "1995-05-04",
+          "@id_txt": "LEGITEXT000006076941"
+        }
+      ],
+      "@cid": "JORFTEXT000000343211",
+      "@date_publi": "1990-12-28",
+      "@date_signature": "1990-12-16",
+      "@ministere": "MINISTERE DE LA SOLIDARITE DE LA SANTE ET DE LA PROTECTION SOCIALE",
+      "@nature": "ARRETE",
+      "@nor": "SANP9002544A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-12-28",
+          "@etat": "ABROGE",
+          "@fin": "1995-05-04",
+          "@id": "LEGIARTI000006713686",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 4 décembre 1975 modifié est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1975-12-04",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1995-04-18 art. 5 JORF 4 mai 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L356 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692951",
+        "@naturetexte": "CODE",
+        "@num": "L356",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

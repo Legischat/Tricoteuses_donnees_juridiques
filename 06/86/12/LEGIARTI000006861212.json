@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861212",
+      "ANCIEN_ID": "UPIFAXXXXXX011BAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/12/LEGIARTI000006861212.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11-1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1998-06-21",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 novembre 1963 FUMEES PRODUITES PAR LES VEHICULES AUTOMOBILES",
+          "@c_titre_court": "Arrêté du 12 novembre 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000625718"
+        },
+        {
+          "#text": "Arrêté du 12 novembre 1963 relatif aux fumées produites par les véhicules automobiles",
+          "@c_titre_court": "Arrêté du 12 novembre 1963",
+          "@debut": "1963-11-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074457"
+        }
+      ],
+      "@cid": "JORFTEXT000000625718",
+      "@date_publi": "1963-11-19",
+      "@date_signature": "1963-11-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-01-22",
+          "@etat": "MODIFIE",
+          "@fin": "1998-06-21",
+          "@id": "LEGIARTI000006861211",
+          "@num": "11-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1998-06-21",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006861212",
+          "@num": "11-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les véhicules relevant de l'article 11 du présent arrêté et mis en circulation postérieurement au 1er janvier 1980, l'opacité de la fumée est mesurée lors de contrôles routiers, conformément à la méthode de contrôle définie dans la norme NF R 10-025-3, sous réserve des dérogations explicitement prévues par le ministre chargé de l'industrie.<br/>\n<br/>   Ce contrôle doit être réalisé à l'aide d'un opacimètre conforme à un modèle approuvé par le ministre chargé de l'industrie.<br/>\n<br/>   La valeur mesurée ne doit pas dépasser la valeur limite déterminée au moment de la réception du véhicule et indiquée sur une plaque apposée à l'intérieur du compartiment moteur. Cette condition est présumée satisfaite lorsque l'opacité de la fumée n'excède pas :<br/>\n<br/>   2,5 m-1 pour les véhicules équipés de moteur Diesel à aspiration naturelle ;<br/>\n<br/>   3,0 m-1 pour les véhicules équipés de moteur Diesel turbocompressé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1963-11-12 art. 11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1998-05-13 art. 1 JORF 21 juin 1998",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la route 71",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006454269",
+      "ANCIEN_ID": "PFHBOXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/42/LEGIARTI000006454269.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1990-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°86-1355 du 26 décembre 1986 RELATIF AU STATUT PARTICULIER DU CORPS DES ENQUETEURS DE LA POLICE NATIONALE",
+          "@c_titre_court": "Décret n°86-1355 du 26 décembre 1986",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517983"
+        },
+        {
+          "#text": "Décret n°86-1355 du 26 décembre 1986 relatif au statut particulier du corps des enquêteurs de la police nationale",
+          "@c_titre_court": "Décret n°86-1355 du 26 décembre 1986",
+          "@debut": "1986-01-01",
+          "@fin": "1992-08-01",
+          "@id_txt": "LEGITEXT000006065348"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section III : Avancement.",
+            "@debut": "1986-01-01",
+            "@fin": "1992-08-01",
+            "@id": "LEGISCTA000006091888"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000517983",
+      "@date_publi": "1986-12-31",
+      "@date_signature": "1986-12-26",
+      "@nature": "DECRET",
+      "@num": "86-1355"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1990-01-01",
+          "@id": "LEGIARTI000006454269",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-08-01",
+          "@id": "LEGIARTI000006454270",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La durée du temps passé dans chaque échelon des grades d'enquêteur de 1re et de 2e classe pour accéder à l'échelon supérieur est fixée à deux ans ; toutefois dans le grade d'enquêteur de 2e classe cette durée est fixée à trois ans pour les 1er, 4e et 5e échelons.<br/>\n<br/>   La durée du stage, à l'exclusion de sa prolongation éventuelle, est prise en compte pour l'avancement d'échelon dans le grade d'enquêteur de 2e classe.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°86-1355 du 26 décembre 1986 - art. 19 (Ab)",
+        "@cidtexte": "JORFTEXT000000517983",
+        "@datesignatexte": "1986-12-26",
+        "@id": "LEGIARTI000006454259",
+        "@naturetexte": "DECRET",
+        "@num": "19",
+        "@numtexte": "86-1355",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°86-1355 du 26 décembre 1986 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000517983",
+        "@datesignatexte": "1986-12-26",
+        "@id": "LEGIARTI000006454266",
+        "@naturetexte": "DECRET",
+        "@num": "7",
+        "@numtexte": "86-1355",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

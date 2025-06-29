@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006564460",
+      "ANCIEN_ID": "ADHKAXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/44/LEGIARTI000006564460.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1957-03-30",
+        "DATE_FIN": "1999-03-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°57-404 du 28 mars 1957 RAP. SUR LA POLICE ET SURVEILLANCE DES EAUX MINERALES",
+          "@c_titre_court": "Décret n°57-404 du 28 mars 1957",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868477"
+        },
+        {
+          "#text": "Décret n°57-404 du 28 mars 1957 relatif à la police et à la surveillance des eaux minérales",
+          "@c_titre_court": "Décret n°57-404 du 28 mars 1957",
+          "@debut": "1957-03-30",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006060796"
+        }
+      ],
+      "@cid": "JORFTEXT000000868477",
+      "@date_publi": "1957-03-30",
+      "@date_signature": "1957-03-28",
+      "@nature": "DECRET",
+      "@num": "57-404"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1957-03-30",
+          "@etat": "MODIFIE",
+          "@fin": "1999-03-28",
+          "@id": "LEGIARTI000006564460",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-03-28",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006564461",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute variation constatée dans les caractéristiques de l'eau ou du gaz d'une source minérale autorisée nécessite un nouvel examen des propriétés de l'eau par l'académie nationale de médecine.<br/>\n<br/>   A la suite de cet examen, ou bien il est simplement procédé à l'inscription au bulletin de l'académie des nouvelles caractéristiques de l'eau, ou bien, si l'académie le juge nécessaire, il est procédé à la révision de l'autorisation.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 57-404 1957-03-28 JORF 30 mars 1957 rectificatif JORF 12 avril 1957",
+        "@cidtexte": "JORFTEXT000000868477",
+        "@datesignatexte": "1957-03-28",
+        "@id": "JORFTEXT000000868477",
+        "@naturetexte": "DECRET",
+        "@numtexte": "57-404",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. R1322-15 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006909694",
+        "@naturetexte": "CODE",
+        "@num": "R1322-15",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 1856-07-14 art. 14 à art. 19",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

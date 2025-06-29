@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006785076",
+      "ANCIEN_ID": "SSIATAXXXXX005AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/50/LEGIARTI000006785076.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-08-13",
+        "DATE_FIN": "2012-04-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 juillet 1987 FIXANT UNE ASSIETTE FORFAITAIRE POUR LES COTISATIONS DE SECURITE SOCIALE DUES POUR LES TRAVAILLEURS OCCASIONNELS ET LES DEMANDEURS D'EMPLOI",
+          "@c_titre_court": "Arrêté du 24 juillet 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000847001"
+        },
+        {
+          "#text": "Arrêté du 24 juillet 1987 fixant une assiette forfaitaire pour les cotisations de sécurité sociale dues pour les travailleurs occasionnels et les demandeurs d'emploi",
+          "@c_titre_court": "Arrêté du 24 juillet 1987",
+          "@debut": "1987-08-01",
+          "@fin": "2012-04-08",
+          "@id_txt": "LEGITEXT000006057609"
+        }
+      ],
+      "@cid": "JORFTEXT000000847001",
+      "@date_publi": "1987-08-01",
+      "@date_signature": "1987-07-24",
+      "@nature": "ARRETE",
+      "@nor": "AGRS8701396A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-08-01",
+          "@etat": "MODIFIE",
+          "@fin": "1989-08-13",
+          "@id": "LEGIARTI000006785075",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-08-13",
+          "@etat": "ABROGE",
+          "@fin": "2012-04-08",
+          "@id": "LEGIARTI000006785076",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les employeurs sont tenus de déclarer à la caisse de mutualité sociale agricole dont ils relèvent les salariés mentionnés à l'article 2, au plus tard dans les soixante-douze heures de l'embauche [*délai*], au moyen d'un imprimé individuel devant obligatoirement comporter les mentions suivantes :<br/>\n<br/>   1.   Employeur : numéro d'identification, nom, prénom, secteur d'activité professionnelle, adresse ;<br/>\n<br/>   2. Salarié, nom, prénom, nom de jeune fille pour les femmes, profession habituelle avant l'emploi en qualité de travailleur occasionnel (ou régime habituel de sécurité sociale), numéro d'immatriculation à la sécurité sociale ou à la mutualité sociale agricole (à défaut, date et lieu de naissance), date d'embauche, durée du contrat.<br/>\n<br/>   Ces imprimés sont fournis aux employeurs par la caisse de mutualité sociale agricole de leur circonscription.<br/>\n<br/>   Si cette déclaration n'est pas effectuée dans le délai prescrit, les cotisations dues pour l'emploi de ces travailleurs sont calculées sur la base des rémunérations réelles qui leur sont versées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-07-24 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1989-08-03 art. 1 JORF 13 août 1989",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 27 mars 2012 - art. 2",
+        "@cidtexte": "JORFTEXT000025641208",
+        "@datesignatexte": "2012-03-27",
+        "@id": "LEGIARTI000025642279",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRS1209096A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

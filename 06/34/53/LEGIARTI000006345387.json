@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006345387",
+      "ANCIEN_ID": "AAHHWXXXXXX303AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/53/LEGIARTI000006345387.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "303",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1967-04-01",
+        "DATE_FIN": "2005-02-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-236 du 23 mars 1967 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Décret n°67-236 du 23 mars 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000674772"
+        },
+        {
+          "#text": "Décret n°67-236 du 23 mars 1967 sur les sociétés commerciales",
+          "@c_titre_court": "Décret n°67-236 du 23 mars 1967",
+          "@debut": "1967-04-01",
+          "@fin": "2007-03-27",
+          "@id_txt": "LEGITEXT000006061426"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dispositions diverses et transitoires.",
+            "@debut": "1967-04-01",
+            "@fin": "2007-03-27",
+            "@id": "LEGISCTA000006085622"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000674772",
+      "@date_publi": "1967-03-24",
+      "@date_signature": "1967-03-23",
+      "@nature": "DECRET",
+      "@num": "67-236"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "2005-02-12",
+          "@id": "LEGIARTI000006345387",
+          "@num": "303",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-02-12",
+          "@etat": "ABROGE",
+          "@fin": "2007-03-27",
+          "@id": "LEGIARTI000006345388",
+          "@num": "303",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si une société se trouve dans une situation prohibée par l'article 359, alinéas 1er et 3, de la loi sur les sociétés commerciales à la date à laquelle ladite loi lui sera applicable, les actions qu'elle est tenue d'aliéner devront l'être dans le délai d'un an à compter de cette date.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°66-537 du 24 juillet 1966 - art. 359 (Ab)",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "LEGIARTI000006281150",
+        "@naturetexte": "LOI",
+        "@num": "359",
+        "@numtexte": "66-537",
+        "@sens": "cible",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 359",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006852801",
+      "ANCIEN_ID": "UPHBTXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/28/LEGIARTI000006852801.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1985-02-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-35 du 15 janvier 1979 SUR LE CONTROLE DES PRODUITS CHIMIQUES",
+          "@c_titre_court": "Décret n°79-35 du 15 janvier 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000702827"
+        },
+        {
+          "#text": "Décret n°79-35 du 15 janvier 1979 sur le contrôle des produits chimiques",
+          "@c_titre_court": "Décret n°79-35 du 15 janvier 1979",
+          "@debut": "1979-07-01",
+          "@fin": "1985-02-17",
+          "@id_txt": "LEGITEXT000006063033"
+        }
+      ],
+      "@cid": "JORFTEXT000000702827",
+      "@date_publi": "1979-01-17",
+      "@date_signature": "1979-01-15",
+      "@nature": "DECRET",
+      "@num": "79-35"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1985-02-17",
+          "@id": "LEGIARTI000006852801",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La déclaration prévue à l'article 3, 1er ou 2ème alinéa, ou à l'article 7, 2ème alinéa, de la loi du 12 juillet 1977, doit être adressée au ministre chargé de l'environnement par le producteur qui fabrique sur le territoire français la substance faisant l'objet de cette déclaration ou par l'importateur de la substance, quelle que soit la forme sous laquelle elle est importée, à l'état pur ou incorporée dans des préparations, incluse ou non dans des matériels, articles ou appareillages.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 77-771 1977-07-12",
+        "@cidtexte": "JORFTEXT000000522708",
+        "@datesignatexte": "1977-07-12",
+        "@id": "JORFTEXT000000522708",
+        "@naturetexte": "LOI",
+        "@numtexte": "77-771",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "LOI 77-771 1977-07-12 ART. 7 AL. 2, ART. 3 AL. 1, AL. 2",
+        "@cidtexte": "JORFTEXT000000522708",
+        "@datesignatexte": "1977-07-12",
+        "@id": "JORFTEXT000000522708",
+        "@naturetexte": "LOI",
+        "@numtexte": "77-771",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-217 1985-02-13 ART. 22 JORF 17 FEVRIER 1985",
+        "@cidtexte": "JORFTEXT000000699382",
+        "@datesignatexte": "1985-02-13",
+        "@id": "JORFTEXT000000699382",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-217",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

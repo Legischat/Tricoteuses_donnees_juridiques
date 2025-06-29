@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006338480",
+      "ANCIEN_ID": "MCEAAXXXXXX053AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/84/LEGIARTI000006338480.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "53",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-03-24",
+        "DATE_FIN": "1994-12-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions",
+          "@c_titre_court": "Loi n° 82-213 du 2 mars 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880039"
+        },
+        {
+          "#text": "Loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions",
+          "@c_titre_court": "Loi n° 82-213 du 2 mars 1982",
+          "@debut": "1982-03-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068736"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Des droits et libertés du département",
+            "@debut": "1982-03-24",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085280"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre IV : De la suppression des tutelles administratives et financières.",
+              "@debut": "1982-03-24",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006115160"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000880039",
+      "@date_publi": "1982-03-03",
+      "@date_signature": "1982-03-02",
+      "@nature": "LOI",
+      "@num": "82-213"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-03-24",
+          "@etat": "ABROGE",
+          "@fin": "1994-12-06",
+          "@id": "LEGIARTI000006338480",
+          "@num": "53",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A défaut de mandatement d'une dépense obligatoire par le président du conseil général dans le mois suivant la mise en demeure qui lui en a été faite par le représentant de l'Etat dans le département, celui-ci y procède d'office.<br/>\n<br/>   Le délai prévu à l'alinéa précédent est porté à deux mois si la dépense est égale ou supérieure à 5 p. 100 de la section de fonctionnement du budget primitif.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°82-213 du 2 mars 1982 - art. 108 (V) JORF 3 mars 1982 en vigueur le 24 mars 1982",
+        "@cidtexte": "JORFTEXT000000880039",
+        "@datesignatexte": "1982-03-02",
+        "@id": "LEGIARTI000006338556",
+        "@naturetexte": "LOI",
+        "@num": "108",
+        "@numtexte": "82-213",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°82-213 du 2 mars 1982 - art. 83 (Ab)",
+        "@cidtexte": "JORFTEXT000000880039",
+        "@datesignatexte": "1982-03-02",
+        "@id": "LEGIARTI000006338508",
+        "@naturetexte": "LOI",
+        "@num": "83",
+        "@numtexte": "82-213",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°82-213 du 2 mars 1982 - art. 98 (M)",
+        "@cidtexte": "JORFTEXT000000880039",
+        "@datesignatexte": "1982-03-02",
+        "@id": "LEGIARTI000006338541",
+        "@naturetexte": "LOI",
+        "@num": "98",
+        "@numtexte": "82-213",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 94-1040 1994-12-02 art. 8 JORF 6 décembre 1994",
+        "@cidtexte": "JORFTEXT000000733681",
+        "@datesignatexte": "1994-12-02",
+        "@id": "JORFTEXT000000733681",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9300187L",
+        "@numtexte": "94-1040",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

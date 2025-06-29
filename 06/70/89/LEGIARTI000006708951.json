@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006708951",
+      "ANCIEN_ID": "SPHP8XXXXXX024AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/89/LEGIARTI000006708951.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-05-20",
+        "DATE_FIN": "1977-03-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°41-5050 du 31 décembre 1941 codifiant les textes relatifs aux opérations d'inhumation, d'exhumation, d'incinération et de transport des corps.",
+          "@c_titre_court": "Décret n°41-5050 du 31 décembre 1941",
+          "@debut": "1942-01-27",
+          "@fin": "1977-03-18",
+          "@id_txt": "LEGITEXT000006072702"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Exhumations",
+            "@debut": "1976-05-20",
+            "@fin": "1977-03-18",
+            "@id": "LEGISCTA000006104319"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072702",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1941-12-31",
+      "@nature": "DECRET",
+      "@num": "41-5050"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-05-20",
+          "@etat": "ABROGE",
+          "@fin": "1977-03-18",
+          "@id": "LEGIARTI000006708951",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Toute demande d'exhumation doit être faite par le plus proche parent de la personne défunte. Celui-ci doit justifier de son état civil, de son domicile et de la qualité en vertu de laquelle il formule sa demande.<br/>\n    L'autorisation d'exhumer un corps est délivrée par le maire de la commune où doit avoir lieu l'exhumation et, à Paris, par le préfet de police.<br/>\n    L'exhumation est faite en présence d'un parent ou d'un mandataire de la famille.<br/>\n    Si le parent ou le mandataire dûment avisé n'est pas présent à l'heure indiquée, l'opération n'a pas lieu, mais les vacations dues aux fonctionnaires désignés par l'article 473 du code de l'administration communale leur sont versées comme si l'opération avait été exécutée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de l'administration communale 473",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 77-241 1977-03-07 art. 8 JORF 18 mars 1977",
+        "@cidtexte": "JORFTEXT000000883225",
+        "@datesignatexte": "1977-03-07",
+        "@id": "JORFTEXT000000883225",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-241",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

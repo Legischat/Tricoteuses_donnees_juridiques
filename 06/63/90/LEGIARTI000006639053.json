@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006639053",
+      "ANCIEN_ID": "RLIBJXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/90/LEGIARTI000006639053.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-03-06",
+        "DATE_FIN": "1996-04-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 février 1977 relatif à l'entrée en France de viandes fraîches de volaille en provenance des Etats membres de la Communauté économique européenne",
+          "@c_titre_court": "Arrêté du 4 février 1977",
+          "@debut": "1977-03-06",
+          "@fin": "1996-04-03",
+          "@id_txt": "LEGITEXT000006072021"
+        }
+      ],
+      "@cid": "LEGITEXT000006072021",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-02-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-03-06",
+          "@etat": "ABROGE",
+          "@fin": "1996-04-03",
+          "@id": "LEGIARTI000006639053",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Ne sont admises à l'entrée en France que les viandes fraîches de volaille accompagnées d'un certificat de salubrité, conformément au chapitre XI de l'annexe I.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-02-04 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1996-03-11 art. 16 JORF 3 avril 1996",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 71-636 1971-07-21",
+        "@cidtexte": "JORFTEXT000000335914",
+        "@datesignatexte": "1971-07-21",
+        "@id": "JORFTEXT000000335914",
+        "@naturetexte": "DECRET",
+        "@numtexte": "71-636",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

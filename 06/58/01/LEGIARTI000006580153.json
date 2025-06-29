@@ -1,0 +1,146 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580153",
+      "ANCIEN_ID": "RAA0XXXXXXX0387AAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/01/LEGIARTI000006580153.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "387",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-06-30",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : La chasse et la pêche",
+            "@debut": "1955-04-19",
+            "@fin": "1994-01-01",
+            "@id": "LEGISCTA000006098250"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : De la chasse",
+              "@debut": "1955-04-19",
+              "@fin": "1994-01-01",
+              "@id": "LEGISCTA000006121371"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : Des pénalités.",
+                "@debut": "1955-04-19",
+                "@fin": "1990-01-25",
+                "@id": "LEGISCTA000006138233"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-06-20",
+          "@etat": "MODIFIE",
+          "@fin": "1984-06-30",
+          "@id": "LEGIARTI000006580152",
+          "@num": "387",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-06-30",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006580153",
+          "@num": "387",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les gardes-chasse particulier assermentés constatent par procès-verbaux les infractions aux dispositions du présent titre et des textes pris pour son application qui portent préjudice aux détenteurs de droits de chasse qui les emploient.<br/>\n<br/>   Les dispositions de l'article 29 du code de procédure pénale sont sont applicables à ces procès-verbaux qui font foi jusqu'à preuve du contraire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L228-28",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "CODE DE PROCEDURE PENALE - art. 29 (V)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006574907",
+        "@naturetexte": "CODE",
+        "@num": "29",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1844-05-03 art. 25",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 89-804 1989-10-27 art. 3 JORF 4 novembre 1989",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°84-512 du 29 juin 1984 - art. 5 () JORF 30 juin 1984",
+        "@cidtexte": "JORFTEXT000000692732",
+        "@datesignatexte": "1984-06-29",
+        "@id": "LEGIARTI000006274363",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "84-512",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

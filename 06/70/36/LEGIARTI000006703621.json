@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006703621",
+      "ANCIEN_ID": "AFEBVXXXXXX009ABXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/36/LEGIARTI000006703621.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9-1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1994-01-05",
+        "DATE_FIN": "1999-06-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-46 du 24 janvier 1984 BANCAIRE RELATIVE A L'ACTIVITE ET AU CONTROLE DES ETABLISSEMENTS DE CREDIT",
+          "@c_titre_court": "Loi n°84-46 du 24 janvier 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000504724"
+        },
+        {
+          "#text": "Loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit",
+          "@c_titre_court": "Loi n° 84-46 du 24 janvier 1984",
+          "@debut": "1984-07-25",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068837"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Définition des établissements de crédit et conditions d'exercice de leur activité",
+            "@debut": "1984-07-25",
+            "@fin": "2005-05-07",
+            "@id": "LEGISCTA000006103992"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Définition des établissements de crédit et des opérations de banque.",
+              "@debut": "1984-07-25",
+              "@fin": "2001-01-01",
+              "@id": "LEGISCTA000006125680"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000504724",
+      "@date_publi": "1984-01-25",
+      "@date_signature": "1984-01-24",
+      "@nature": "LOI",
+      "@num": "84-46"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-01-05",
+          "@etat": "MODIFIE",
+          "@fin": "1999-06-29",
+          "@id": "LEGIARTI000006703621",
+          "@num": "9-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-06-29",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006703622",
+          "@num": "9-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont considérés comme filiales, pour l'application de la présente loi, les établissements sur lesquels la commission bancaire constate qu'est exercé un contrôle exclusif au sens de l'article 357-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 357-1",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 93-1444 1993-12-31 art. 2 III JORF 5 janvier 1994",
+        "@cidtexte": "JORFTEXT000000361988",
+        "@datesignatexte": "1993-12-31",
+        "@id": "JORFTEXT000000361988",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9300149L",
+        "@numtexte": "93-1444",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L511-20 (M)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006654333",
+        "@naturetexte": "CODE",
+        "@num": "L511-20",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

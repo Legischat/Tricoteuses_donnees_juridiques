@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580570",
+      "ANCIEN_ID": "RAA0XXXXXXX0858AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/05/LEGIARTI000006580570.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "858",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-04-19",
+        "DATE_FIN": "1983-03-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VI : Baux ruraux",
+            "@debut": "1955-04-19",
+            "@fin": "1983-03-22",
+            "@id": "LEGISCTA000006098254"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : Statut du fermage et du métayage",
+              "@debut": "1955-04-19",
+              "@fin": "1983-03-22",
+              "@id": "LEGISCTA000006121383"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : Dispositions diverses.",
+                "@debut": "1955-04-19",
+                "@fin": "1983-03-22",
+                "@id": "LEGISCTA000006138262"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "ABROGE",
+          "@fin": "1983-03-22",
+          "@id": "LEGIARTI000006580570",
+          "@num": "858",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le preneur a le droit de chasser sur le fonds loué.<br/>\n<br/>   S'il ne désire pas exercer ce droit, il doit le faire connaître au bailleur par lettre recommandée avec accusé de réception.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-2380 1945-10-17 art. 42 bis",
+        "@cidtexte": "JORFTEXT000000333772",
+        "@datesignatexte": "1945-10-17",
+        "@id": "JORFTEXT000000333772",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2380",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 83-212 1982-03-16 art. 3 JORF 22 mars 1983",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

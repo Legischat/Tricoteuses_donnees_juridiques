@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006732377",
+      "ANCIEN_ID": "SQIU4XXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/73/23/LEGIARTI000006732377.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-11-01",
+        "DATE_FIN": "2014-08-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 octobre 1996  fixant la liste des spécialités vétérinaires",
+          "@c_titre_court": "Arrêté du 17 octobre 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000380731"
+        },
+        {
+          "#text": "Arrêté du 17 octobre 1996 fixant la liste des spécialités vétérinaires",
+          "@c_titre_court": "Arrêté du 17 octobre 1996",
+          "@debut": "1996-11-14",
+          "@fin": "2014-08-16",
+          "@id_txt": "LEGITEXT000005622071"
+        }
+      ],
+      "@cid": "JORFTEXT000000380731",
+      "@date_publi": "1996-11-14",
+      "@date_signature": "1996-10-17",
+      "@ministere": "MINISTERE DE L'AGRICULTURE, DE LA PECHE ET DE L'ALIMENTATION",
+      "@nature": "ARRETE",
+      "@nor": "AGRE9602189A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-11-14",
+          "@etat": "MODIFIE",
+          "@fin": "1997-11-01",
+          "@id": "LEGIARTI000006732376",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-11-01",
+          "@etat": "ABROGE",
+          "@fin": "2014-08-16",
+          "@id": "LEGIARTI000006732377",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La liste des spécialités vétérinaires dans lesquelles s'inscrivent les formations conduisant à la délivrance des diplômes nationaux de spécialisation vétérinaire prévus à l'article R. 812-38 du code rural, accessibles et suivies dans des conditions déterminées pour chacune d'entre elles par arrêté, est fixée comme suit :<br/>\n<br/>   - anatomie pathologique vétérinaire ;<br/>\n<br/>   - hygiène et technologie alimentaires ;<br/>\n<br/>   - santé publique vétérinaire ;<br/>\n<br/>   - gestion de la santé et de la qualité en production laitière ;<br/>\n<br/>   - gestion de la santé et de la qualité en production porcine ;<br/>\n<br/>   - gestion de la santé et de la qualité en productions avicoles et cunicoles ;<br/>\n<br/>   - médecine interne des animaux de compagnie ;<br/>\n<br/>   - chirurgie des animaux de compagnie ;<br/>\n<br/>   - élevage et pathologie des équidés ;<br/>\n<br/>   - santé et productions animales en régions chaudes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "ARRÊTÉ du 31 juillet 2014 - art. 3",
+        "@cidtexte": "JORFTEXT000029362024",
+        "@datesignatexte": "2014-07-31",
+        "@id": "LEGIARTI000029369592",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRE1418730A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Arrêté 1997-10-21 art. 1 JORF 1er novembre 1997",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code rural R812-38",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

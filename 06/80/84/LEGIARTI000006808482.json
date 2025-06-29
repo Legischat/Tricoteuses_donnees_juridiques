@@ -1,0 +1,152 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006808482",
+      "ANCIEN_ID": "TXXXXXXXXXX0241R0120XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/84/LEGIARTI000006808482.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R241-12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1974-09-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "REGLEMENTATION DU TRAVAIL",
+              "@debut": "1973-11-23",
+              "@fin": "1985-09-14",
+              "@id": "LEGISCTA000006128494"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "MEDECINE DU TRAVAIL",
+                "@debut": "1973-11-23",
+                "@fin": "1985-09-08",
+                "@id": "LEGISCTA000006143020"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "SERVICE MEDICAL DU TRAVAIL .",
+                  "@debut": "1973-11-23",
+                  "@fin": "1980-04-01",
+                  "@id": "LEGISCTA000006158056"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "ABROGE",
+          "@fin": "1974-09-29",
+          "@id": "LEGIARTI000006808482",
+          "@num": "R241-12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-09-08",
+          "@etat": "MODIFIE",
+          "@fin": "1987-01-01",
+          "@id": "LEGIARTI000006808483",
+          "@num": "R241-12",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2004-07-30",
+          "@id": "LEGIARTI000006808484",
+          "@num": "R241-12",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-07-30",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018510256",
+          "@num": "R241-12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le médecin du travail peut être convoqué avec voix consultative aux séances du comité ou des commissions spéciales lorsque l'ordre du jour comporte des questions relatives à la médecine du travail, à l'hygiène industrielle ou à la sécurité.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail - art. R241-10 (VT)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018510264",
+        "@naturetexte": "CODE",
+        "@num": "R241-10",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

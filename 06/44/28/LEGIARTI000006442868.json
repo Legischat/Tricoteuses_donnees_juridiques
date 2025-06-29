@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006442868",
+      "ANCIEN_ID": "PEHOGXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/28/LEGIARTI000006442868.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-02-27",
+        "DATE_FIN": "1999-04-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 97-167 du 25 février 1997 portant création et organisation    provisoire de l'université thématique d'Agen",
+          "@c_titre_court": "Décret n°97-167 du 25 février 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000564555"
+        },
+        {
+          "#text": "Décret n°97-167 du 25 février 1997 portant création et organisation provisoire de l'université thématique d'Agen",
+          "@c_titre_court": "Décret n°97-167 du 25 février 1997",
+          "@debut": "1997-02-27",
+          "@fin": "1999-04-13",
+          "@id_txt": "LEGITEXT000005622903"
+        }
+      ],
+      "@cid": "JORFTEXT000000564555",
+      "@date_publi": "1997-02-27",
+      "@date_signature": "1997-02-25",
+      "@ministere": "MINISTERE DE L'EDUCATION NATIONALE, DE L'ENSEIGNEMENT SUPERIEUR, ET DE LA RECHERCHE",
+      "@nature": "DECRET",
+      "@nor": "MENU9700305D",
+      "@num": "97-167"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-02-27",
+          "@etat": "ABROGE",
+          "@fin": "1999-04-13",
+          "@id": "LEGIARTI000006442868",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est ajouté à la liste figurant à l'article 1er du décret du 17 juillet 1984 susvisé la mention suivante : Agen.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 84-723 1984-07-17 art. 1",
+        "@cidtexte": "JORFTEXT000000503527",
+        "@datesignatexte": "1984-07-17",
+        "@id": "JORFTEXT000000503527",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-723",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°97-167 du 25 février 1997 - art. 13 (Ab)",
+        "@cidtexte": "JORFTEXT000000564555",
+        "@datesignatexte": "1997-02-25",
+        "@id": "LEGIARTI000006442869",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENU9700305D",
+        "@num": "13",
+        "@numtexte": "97-167",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°99-273 du 12 avril 1999 - art. 1 (V) JORF 13 avril 1999",
+        "@cidtexte": "JORFTEXT000000760063",
+        "@datesignatexte": "1999-04-12",
+        "@id": "LEGIARTI000006443229",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENS9802754D",
+        "@num": "1",
+        "@numtexte": "99-273",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

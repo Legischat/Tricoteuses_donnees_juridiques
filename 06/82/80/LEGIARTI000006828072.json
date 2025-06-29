@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006828072",
+      "ANCIEN_ID": "UCIAWXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/80/LEGIARTI000006828072.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-10-31",
+        "DATE_FIN": "1992-03-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 octobre 1986 relatif aux conditions d'utilisation des sommes recueillies au titre de la participation des employeurs à l'effort de construction en application de l'article R. 313-19 du code de la construction et de l'habitation",
+          "@c_titre_court": "Arrêté du 17 octobre 1986",
+          "@debut": "1986-10-31",
+          "@fin": "1992-03-29",
+          "@id_txt": "LEGITEXT000006074121"
+        }
+      ],
+      "@cid": "LEGITEXT000006074121",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-10-17",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-10-31",
+          "@etat": "ABROGE",
+          "@fin": "1992-03-29",
+          "@id": "LEGIARTI000006828072",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A titre provisoire et en tant qu'elles concernent des opérations entreprises en application de la réglementation sur les habitations à loyer modéré ou sur les primes à la construction, les bonifications d'intérêt et les prêts à la construction, les dispositions des arrêtés du 29 août 1972 restent en vigueur.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1972-08-29",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation. - art. R*313-19 (M)",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006898160",
+        "@naturetexte": "CODE",
+        "@num": "R*313-19",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "arrêté 1992-03-16 art. 15 JORF 29 mars 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

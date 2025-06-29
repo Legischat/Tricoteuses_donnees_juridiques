@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006912048",
+      "ANCIEN_ID": "AKFABXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/20/LEGIARTI000006912048.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1989-12-31",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-2339 du 13 octobre 1945 RELATIVE AUX SPECTACLES (CLASSEMENT DES ENTREPRISES,REGLEMENTATION DES SALLES,STATUT DES DIRECTEURS,ARTISTES ET PERSONNEL POLICE)",
+          "@c_titre_court": "Ordonnance n°45-2339 du 13 octobre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000888967"
+        },
+        {
+          "#text": "Ordonnance n° 45-2339 du 13 octobre 1945 relative aux spectacles",
+          "@c_titre_court": "Ordonnance n° 45-2339 du 13 octobre 1945",
+          "@debut": "1945-10-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069167"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre III : Directeurs, artistes et personnels de spectacles.",
+            "@debut": "1945-10-14",
+            "@fin": "1999-03-19",
+            "@id": "LEGISCTA000006112953"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000888967",
+      "@date_publi": "1945-10-14",
+      "@date_signature": "1945-10-13",
+      "@nature": "ORDONNANCE",
+      "@num": "45-2339"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-12-31",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006912048",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "1999-03-19",
+          "@id": "LEGIARTI000006912049",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute création d'une entreprise de spectacles doit être précédée d'une déclaration au ministère de l'éducation nationale (direction générale des arts et des lettres) ainsi qu'à la préfecture dans les départements et à la préfecture de police à Paris [*formalités administratives - compétence*]. Le défaut de déclaration sera puni d'une amende de 600 à 1300 F [*francs - sanctions pénales*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-2339 1945-10-13 JORF 14 octobre 1945 rectificatif JORF 20 octobre 1945",
+        "@cidtexte": "JORFTEXT000000888967",
+        "@datesignatexte": "1945-10-13",
+        "@id": "JORFTEXT000000888967",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2339",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°45-2339 du 13 octobre 1945 - art. 10 (M)",
+        "@cidtexte": "JORFTEXT000000888967",
+        "@datesignatexte": "1945-10-13",
+        "@id": "LEGIARTI000006912077",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "10",
+        "@numtexte": "45-2339",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 72-473 1972-06-12 art. 1 JORF 13 juin 1972",
+        "@cidtexte": "JORFTEXT000000677639",
+        "@datesignatexte": "1972-06-12",
+        "@id": "JORFTEXT000000677639",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-473",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

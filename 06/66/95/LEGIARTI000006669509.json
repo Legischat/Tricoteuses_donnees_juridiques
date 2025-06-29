@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006669509",
+      "ANCIEN_ID": "SEIL1XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/95/LEGIARTI000006669509.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1977-04-01",
+        "DATE_FIN": "1984-01-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 mars 1977 PRIX LIMITE DU REPAS PAYE A L'AIDE D'UN TITRE-RESTAURANT",
+          "@c_titre_court": "Arrêté du 23 mars 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000312012"
+        },
+        {
+          "#text": "Arrêté du 23 mars 1977  RELATIF AU PRIX LIMITE DU REPAS PAYE A L'AIDE D'UN TITRE-RESTAURANT.",
+          "@c_titre_court": "Arrêté du 23 mars 1977",
+          "@debut": "1977-04-01",
+          "@fin": "1984-01-29",
+          "@id_txt": "LEGITEXT000006072267"
+        }
+      ],
+      "@cid": "JORFTEXT000000312012",
+      "@date_publi": "1977-04-08",
+      "@date_signature": "1977-03-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-04-01",
+          "@etat": "PERIME",
+          "@fin": "1984-01-29",
+          "@id": "LEGIARTI000006669509",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le prix limite des repas mentionné à l'article 2 de l'arrêté du 22 décembre 1967 susvisé est porté uniformément à 17 F à compter du 1er avril 1977.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté  1967-12-22 ART. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 24 janvier 1984, v. init.",
+        "@cidtexte": "JORFTEXT000000674523",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000674523",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      }
+    ]
+  }
+}

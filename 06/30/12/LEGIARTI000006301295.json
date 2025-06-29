@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006301295",
+      "ANCIEN_ID": "FAAEXXXXXXX0030AGXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/30/12/LEGIARTI000006301295.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1981-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts, annexe IV",
+          "@c_titre_court": "Code général des impôts, annexe IV, CGIANIV.",
+          "@debut": "1975-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069576"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "ASSIETTE ET LIQUIDATION DE L'IMPOT",
+            "@debut": "1979-03-11",
+            "@fin": "2007-09-01",
+            "@id": "LEGISCTA000006084216"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "IMPOTS D'ETAT",
+              "@debut": "1979-03-11",
+              "@fin": "1989-08-22",
+              "@id": "LEGISCTA000006114471"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "TAXES SUR LE CHIFFRE D'AFFAIRES",
+                "@debut": "1979-07-01",
+                "@fin": "1989-07-14",
+                "@id": "LEGISCTA000006133797"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "TAXE SUR LA VALEUR AJOUTEE",
+                  "@debut": "1979-07-01",
+                  "@fin": "1989-07-14",
+                  "@id": "LEGISCTA000006146955"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "CALCUL DE LA TAXE",
+                    "@debut": "1979-07-01",
+                    "@fin": "1984-12-02",
+                    "@id": "LEGISCTA000006162460"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069576",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "MODIFIE",
+          "@fin": "1981-07-01",
+          "@id": "LEGIARTI000006301295",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-07-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006301296",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   1. Pour l'application de l'article 279-a du code général des impôts la base d'imposition au taux réduit de la taxe sur la valeur ajoutée est constituée par les trois quarts du prix de pension ou de demi-pension.<br/>\n<br/>   2. Pour l'application du 1, les prix de pension et de demi-pension sont diminués  le cas échéant  de la fraction représentative de prestations autres que la nourriture et le logement.<br/>\n<br/>   3. Les villages de vacances agréés visés à l'article 279-a du code général des impôts sont ceux qui ont fait l'objet d'une décision de classement en application des dispositions du décret no 68-476 du 25 mai 1968.<br/>\n<br/>   4. Le taux réduit de la taxe sur la valeur ajoutée est applicable dans les conditions prévues aux 1 et 2, aux opérations réalisées à compter de la date de la décision de classement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 279 a",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 68-476 1968-05-25",
+        "@cidtexte": "JORFTEXT000000330511",
+        "@datesignatexte": "1968-05-25",
+        "@id": "JORFTEXT000000330511",
+        "@naturetexte": "DECRET",
+        "@numtexte": "68-476",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du tourisme. - art. D421-1 (V)",
+        "@cidtexte": "LEGITEXT000006074073",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006813670",
+        "@naturetexte": "CODE",
+        "@num": "D421-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "EDITION 1979-07-01",
+        "@sens": "source",
+        "@typelien": "HISTO"
+      }
+    ]
+  }
+}

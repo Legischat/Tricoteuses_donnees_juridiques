@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006600824",
+      "ANCIEN_ID": "RAEAYXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/08/LEGIARTI000006600824.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-07-13",
+        "DATE_FIN": "1998-07-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°74-639 du 12 juillet 1974 RELATIVE A L'ORGANISATION INTERPROFESSIONNELLE LAITIERE",
+          "@c_titre_court": "Loi n°74-639 du 12 juillet 1974",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000888774"
+        },
+        {
+          "#text": "Loi n°74-639 du 12 juillet 1974 relative à l'organisation interprofessionnelle laitière",
+          "@c_titre_court": "Loi n°74-639 du 12 juillet 1974",
+          "@debut": "1974-07-13",
+          "@fin": "1998-07-09",
+          "@id_txt": "LEGITEXT000006068483"
+        }
+      ],
+      "@cid": "JORFTEXT000000888774",
+      "@date_publi": "1974-07-13",
+      "@date_signature": "1974-07-12",
+      "@nature": "LOI",
+      "@num": "74-639"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-07-13",
+          "@etat": "ABROGE",
+          "@fin": "1998-07-09",
+          "@id": "LEGIARTI000006600824",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les accords nationaux ou régionaux conclus dans le cadre de l'organisation interprofessionnelle constituée entre les producteurs de lait, les groupements coopératifs agricoles laitiers et les industries de transformation du lait par les organisations les plus représentatives de ces professions peuvent être homologués par arrêtés conjoints du ministre de l'agriculture et du ministre de l'économie et des finances.<br/>\n<br/>   Si l'homologation est prononcée, les mesures ainsi arrêtées par l'organisation interprofessionnelle sont obligatoires pour tous les producteurs et transformateurs de la zone concernée. Tout contrat de fourniture de lait entre producteurs et transformateurs doit être conforme aux accords conclus, à peine de nullité pouvant être prononcée notamment à la demande de l'organisation interprofessionnelle et sans préjudice des sanctions qui pourront être prévues.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L632-12",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi n°74-639 du 12 juillet 1974 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000888774",
+        "@datesignatexte": "1974-07-12",
+        "@id": "LEGIARTI000006600825",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "74-639",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°98-565 du 8 juillet 1998 - art. 6 (V) JORF 9 juillet 1998",
+        "@cidtexte": "JORFTEXT000000754945",
+        "@datesignatexte": "1998-07-08",
+        "@id": "LEGIARTI000006600929",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9500132L",
+        "@num": "6",
+        "@numtexte": "98-565",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. L632-12 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006584648",
+        "@naturetexte": "CODE",
+        "@num": "L632-12",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

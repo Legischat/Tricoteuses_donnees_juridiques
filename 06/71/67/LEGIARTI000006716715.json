@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006716715",
+      "ANCIEN_ID": "SPICIXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/67/LEGIARTI000006716715.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-01-03",
+        "DATE_FIN": "1995-05-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 décembre 1986 relatif au règlement intérieur type fixant organisation des services médico-psychologiques régionaux relevant des secteurs de psychiatrie en milieu pénitentiaire",
+          "@c_titre_court": "Arrêté du 14 décembre 1986",
+          "@debut": "1987-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072823"
+        }
+      ],
+      "@cid": "LEGITEXT000006072823",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-12-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-03",
+          "@etat": "ABROGE",
+          "@fin": "1995-05-12",
+          "@id": "LEGIARTI000006716715",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La sortie du détenu pris en charge par le service peut être prononcée sous forme :<br/>\n<br/>   - d'un retour à la détention ordinaire comportant éventuellement les aménagements ou les dérogations proposées par le praticien hospitalier responsable du service ;<br/>\n<br/>   - d'une hospitalisation dans un établissement hospitalier habilité à recevoir des patients mentionnés au chapitre III du titre IV du code de la santé publique, si le patient relève des dispositions de l'article D. 398 du code de procédure pénale ;<br/>\n<br/>   - d'une hospitalisation dans une unité pour malades difficiles, s'il s'agit d'un patient présentant les caractéristiques mentionnées à l'article 12 du décret du 14 mars 1986 susvisé ;<br/>\n<br/>   - d'une libération, si celle-ci arrive à échéance, sans préjudice de la poursuite éventuelle d'une prise en charge thérapeutique dans le respect du libre choix du patient.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-05-10 art. 14 JORF 12 mai 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°86-602 du 14 mars 1986 - art. 12 (Ab)",
+        "@cidtexte": "JORFTEXT000000522452",
+        "@datesignatexte": "1986-03-14",
+        "@id": "LEGIARTI000006701096",
+        "@naturetexte": "DECRET",
+        "@num": "12",
+        "@numtexte": "86-602",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE DE PROCEDURE PENALE - art. D398 (M)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006516294",
+        "@naturetexte": "CODE",
+        "@num": "D398",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

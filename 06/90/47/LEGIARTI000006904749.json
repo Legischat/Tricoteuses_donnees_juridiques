@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006904749",
+      "ANCIEN_ID": "AKEAQXXXXXX032AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/47/LEGIARTI000006904749.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "32",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-01-05",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°72-6 du 3 janvier 1972 RELATIVE AU DEMARCHAGE FINANCIER ET A DES OPERATIONS DE PLACEMENT ET D'ASSURANCE",
+          "@c_titre_court": "Loi n°72-6 du 3 janvier 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000684516"
+        },
+        {
+          "#text": "Loi n° 72-6 du 3 janvier 1972 relative au démarchage financier et à des opérations de placement et d'assurance",
+          "@c_titre_court": "Loi n° 72-6 du 3 janvier 1972",
+          "@debut": "1972-01-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068443"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section IV : Dispositions relatives aux opérations d'assurance et de capitalisation.",
+            "@debut": "1972-01-05",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006112897"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000684516",
+      "@date_publi": "1972-01-05",
+      "@date_signature": "1972-01-03",
+      "@nature": "LOI",
+      "@num": "72-6"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-01-05",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006904749",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des décrets détermineront en tant que de besoin les modalités d'application de la présente section.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Rapport - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000574489",
+        "@datesignatexte": "2000-12-14",
+        "@id": "LEGIARTI000006716763",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOX0000098R",
+        "@num": "4",
+        "@numtexte": "2000-1223",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L342-21 (Ab)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006652257",
+        "@naturetexte": "CODE",
+        "@num": "L342-21",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

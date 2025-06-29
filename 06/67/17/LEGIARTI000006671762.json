@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006671762",
+      "ANCIEN_ID": "SFHBNXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/17/LEGIARTI000006671762.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-03-30",
+        "DATE_FIN": "2015-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 85-378 du 27 mars 1985 relatif à la formation professionnelle maritime",
+          "@c_titre_court": "Décret n° 85-378 du 27 mars 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000699923"
+        },
+        {
+          "#text": "Décret n°85-378 du 27 mars 1985 relatif à la formation professionnelle maritime.",
+          "@c_titre_court": "Décret n°85-378 du 27 mars 1985",
+          "@debut": "1985-03-30",
+          "@fin": "2015-09-01",
+          "@id_txt": "LEGITEXT000006064969"
+        }
+      ],
+      "@cid": "JORFTEXT000000699923",
+      "@date_publi": "1985-03-30",
+      "@date_signature": "1985-03-27",
+      "@nature": "DECRET",
+      "@num": "85-378"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-30",
+          "@etat": "ABROGE",
+          "@fin": "2015-09-01",
+          "@id": "LEGIARTI000006671762",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 67-307 du 31 mars 1967 relatif à la formation professionnelle maritime est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°67-307 du 31 mars 1967",
+        "@cidtexte": "JORFTEXT000000306243",
+        "@datesignatexte": "1967-03-31",
+        "@id": "JORFTEXT000000306243",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-307",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "DÉCRET n°2015-723 du 24 juin 2015 - art. 44",
+        "@cidtexte": "JORFTEXT000030780124",
+        "@datesignatexte": "2015-06-24",
+        "@id": "LEGIARTI000030781937",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVT1502017D",
+        "@num": "44",
+        "@numtexte": "2015-723",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

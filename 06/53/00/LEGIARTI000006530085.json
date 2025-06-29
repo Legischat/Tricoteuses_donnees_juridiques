@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006530085",
+      "ANCIEN_ID": "PPFAKXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/00/LEGIARTI000006530085.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-03",
+        "DATE_FIN": "2005-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances",
+          "@c_titre_court": "Ordonnance n° 59-2 du 2 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339591"
+        },
+        {
+          "#text": "Ordonnance n°59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances.",
+          "@c_titre_court": "Ordonnance n°59-2 du 2 janvier 1959",
+          "@debut": "1959-01-03",
+          "@fin": "2005-01-01",
+          "@id_txt": "LEGITEXT000006069252"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Des dispositions de lois de finances",
+            "@debut": "1959-01-03",
+            "@fin": "2005-01-01",
+            "@id": "LEGISCTA000006096050"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : De la détermination des ressources et des charges de l'Etat.",
+              "@debut": "1959-01-03",
+              "@fin": "2005-01-01",
+              "@id": "LEGISCTA000006120495"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000339591",
+      "@date_publi": "1959-01-03",
+      "@date_signature": "1959-01-02",
+      "@nature": "ORDONNANCE",
+      "@num": "59-2"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-03",
+          "@etat": "ABROGE",
+          "@fin": "2005-01-01",
+          "@id": "LEGIARTI000006530085",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les crédits provisionnels s'appliquent aux dépenses dont le montant ne peut correspondre exactement à la dotation inscrite dans la loi de finances parce que les dépenses afférentes à ces crédits sont engagées en vertu d'une loi ou d'un règlement contresigné par le ministre des finances. La liste des chapitres dont les dotations ont un caractère provisionnel est donnée chaque année par la loi de finances.<br/>\n<br/>   Les dépenses sur crédits provisionnels ne peuvent être ordonnancées que dans la limite des crédits ouverts. S'il est constaté en cours d'année que ces crédits sont insuffisants, ils peuvent être complétés, par arrêté du ministre des finances, par prélèvements sur le crédit global pour dépenses éventuelles. En cas d'urgence, si ces prélèvements sont eux-mêmes insuffisants, des crédits supplémentaires peuvent être ouverts par décrets d'avance pris sur le rapport du ministre des finances et dont la ratification est demandée au Parlement dans la plus prochaine loi de finances.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°59-2 du 2 janvier 1959 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000000339591",
+        "@datesignatexte": "1959-01-02",
+        "@id": "LEGIARTI000006530086",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "11",
+        "@numtexte": "59-2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°2001-692 du 1 août 2001 - art. 67 (VT) JORF 2 août 2001 en vigueur le 1er janvier 2005",
+        "@cidtexte": "JORFTEXT000000394028",
+        "@datesignatexte": "2001-08-01",
+        "@id": "LEGIARTI000006321099",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "ECOX0104681L",
+        "@num": "67",
+        "@numtexte": "2001-692",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

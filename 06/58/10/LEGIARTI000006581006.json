@@ -1,0 +1,169 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006581006",
+      "ANCIEN_ID": "RAA0XXXXXXX1120CAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/10/LEGIARTI000006581006.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1120-2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-01-08",
+        "DATE_FIN": "1995-02-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Mutualité sociale agricole",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121386"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre IV : Assurance vieillesse des personnes non salariées",
+                "@debut": "1955-04-19",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006138276"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 1 : Prestations",
+                  "@debut": "1955-04-19",
+                  "@fin": "2006-01-01",
+                  "@id": "LEGISCTA000006152113"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Paragraphe 2 : Retraite.",
+                    "@debut": "1978-07-18",
+                    "@fin": "2004-08-25",
+                    "@id": "LEGISCTA000006167569"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-08",
+          "@etat": "MODIFIE",
+          "@fin": "1995-02-02",
+          "@id": "LEGIARTI000006581006",
+          "@num": "1120-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-02-02",
+          "@etat": "ABROGE",
+          "@fin": "2004-08-25",
+          "@id": "LEGIARTI000006581007",
+          "@num": "1120-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La pension de retraite peut être accordée à partir de l'âge de soixante ans aux assurés reconnus inaptes au travail dans les conditions prévues aux articles 1122-3 et 1122-4 ainsi qu'à ceux qui sont mentionnés au c et au e de l'article L. 332 du code de la sécurité sociale, dans des conditions fixées par décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. L732-23 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006585538",
+        "@naturetexte": "CODE",
+        "@num": "L732-23",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale L332",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural 1122-3, 1122-4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural L732-23",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 86-19 1986-01-06 art. 1 JORF 8 janvier 1986",
+        "@cidtexte": "JORFTEXT000000317530",
+        "@datesignatexte": "1986-01-06",
+        "@id": "JORFTEXT000000317530",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-19",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

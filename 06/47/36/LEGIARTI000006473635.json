@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006473635",
+      "ANCIEN_ID": "ACECAXXXXXX028AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/47/36/LEGIARTI000006473635.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "28",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1803-03-16",
+        "DATE_FIN": "1971-12-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 16 mars 1803 contenant organisation du notariat",
+          "@c_titre_court": "Loi du 16 mars 1803",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000882738"
+        },
+        {
+          "#text": "Loi contenant organisation du notariat (loi 25 ventôse an XI)",
+          "@c_titre_court": "Loi du 16 mars 1803",
+          "@debut": "1803-03-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070994"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Des notaires et des actes notariés",
+            "@debut": "1803-03-16",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006092864"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section II : Des actes, de leur forme, des minutes, grosses, expéditions et répertoires.",
+              "@debut": "1803-03-16",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118860"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000882738",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1803-03-16",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1803-03-16",
+          "@etat": "ABROGE",
+          "@fin": "1971-12-03",
+          "@id": "LEGIARTI000006473635",
+          "@num": "28",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les actes notariés seront légalisés, savoir, ceux des notaires à la résidence des tribunaux d'appel, lorsqu'on s'en servira hors de leur ressort ; et ceux des autres notaires, lorsqu'on s'en servira hors de leur département.<br/>\n<br/>   La légalisation sera faite par le président du tribunal de première instance de la résidence du notaire, ou du lieu où sera délivré l'acte ou l'expédition.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°71-941 du 26 novembre 1971 - art. 1 (V) JORF 3 décembre 1971",
+        "@cidtexte": "JORFTEXT000000511476",
+        "@datesignatexte": "1971-11-26",
+        "@id": "LEGIARTI000006489972",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "71-941",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1803-03-16 Bulletin des Lois, 3è S, B. 258, n° 2440",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

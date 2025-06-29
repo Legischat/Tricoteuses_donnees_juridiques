@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006450716",
+      "ANCIEN_ID": "PFEACXXXXXX092AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/07/LEGIARTI000006450716.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "92",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-01-12",
+        "DATE_FIN": "2022-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat",
+          "@c_titre_court": "LOI n° 84-16 du 11 janvier 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000501099"
+        },
+        {
+          "#text": "Loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat (1).",
+          "@c_titre_court": "Loi n° 84-16 du 11 janvier 1984",
+          "@debut": "1984-01-12",
+          "@fin": "2222-02-22",
+          "@id_txt": "LEGITEXT000006068830"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre X Dispositions transitoires et finales.",
+            "@debut": "1984-01-12",
+            "@fin": "2222-02-22",
+            "@id": "LEGISCTA000006091534"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000501099",
+      "@date_publi": "1984-01-12",
+      "@date_signature": "1984-01-11",
+      "@nature": "LOI",
+      "@num": "84-16"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-01-12",
+          "@etat": "ABROGE",
+          "@fin": "2022-03-01",
+          "@id": "LEGIARTI000006450716",
+          "@num": "92",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les anciens fonctionnaires du corps autonome des administrateurs de la France d'outre-mer, intégrés dans le corps des conseillers du Commissariat général du Plan en application de l'ordonnance n° 58-1036 du 29 octobre 1958, en activité à la date de promulgation de la présente loi, peuvent solliciter, dans un délai de trois mois à compter de la publication du décret prévu ci-dessous, leur intégration dans le corps des administrateurs civils. <br/>Les intégrations sont prononcées à grade équivalent, dans un échelon doté d'un indice égal ou immédiatement supérieur. <br/>Un décret en Conseil d'Etat précisera les conditions de cette intégration.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°58-1036 du 29 octobre 1958",
+        "@cidtexte": "JORFTEXT000000338927",
+        "@datesignatexte": "1958-10-29",
+        "@id": "JORFTEXT000000338927",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1036",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2021-1574 du 24 novembre 2021 - art. 3",
+        "@cidtexte": "JORFTEXT000044411525",
+        "@datesignatexte": "2021-11-24",
+        "@id": "LEGIARTI000044415246",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "TFPF2121004R",
+        "@num": "3",
+        "@numtexte": "2021-1574",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

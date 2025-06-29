@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579847",
+      "ANCIEN_ID": "RAA0XXXXXXX0275JAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/98/LEGIARTI000006579847.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "275-9",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1994-02-11",
+        "DATE_FIN": "1999-07-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre IV bis : Des importations, échanges intracommunautaires et exportations d'animaux vivants, de produits et denrées animales ou d'origine animale",
+              "@debut": "1994-02-11",
+              "@fin": "2000-06-22",
+              "@id": "LEGISCTA000006121360"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre IV : Dispositions diverses.",
+                "@debut": "1994-02-11",
+                "@fin": "2000-06-22",
+                "@id": "LEGISCTA000006138215"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-02-11",
+          "@etat": "MODIFIE",
+          "@fin": "1999-07-10",
+          "@id": "LEGIARTI000006579847",
+          "@num": "275-9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-07-10",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006579848",
+          "@num": "275-9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque les animaux vivants ou leurs produits, les denrées animales ou d'origine animale ne répondent pas aux conditions fixées en application de l'article 275-1, les agents chargés des contrôles prévus aux articles 275-1 à 275-5 et 275-8 peuvent prescrire :<br/>\n<br/>   - la mise en quarantaine des animaux, leur abattage, la consigne des produits, la destruction ou la réexpédition des animaux ou de leurs produits ;<br/>\n<br/>   - la consigne, la saisie et la destruction des denrées ou leur utilisation à d'autres fins, y compris leur réexpédition ;<br/>\n<br/>   - l'immobilisation et la désinfection des moyens de transport.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 275-1 à 275-5, 275-8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°94-114 du 10 février 1994 - art. 7 () JORF 11 février 1994",
+        "@cidtexte": "JORFTEXT000000165175",
+        "@datesignatexte": "1994-02-10",
+        "@id": "LEGIARTI000006848361",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9300158L",
+        "@num": "7",
+        "@numtexte": "94-114",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

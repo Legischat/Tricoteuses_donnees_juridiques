@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006830384",
+      "ANCIEN_ID": "UCIIBXXXXXX030AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/03/LEGIARTI000006830384.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-11-19",
+        "DATE_FIN": "2002-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 juin 1983 portant classification des matériaux de construction et d'aménagement selon leur réaction au feu et définition des méthodes d'essais.",
+          "@c_titre_court": "Arrêté du 30 juin 1983",
+          "@debut": "1983-12-01",
+          "@fin": "2002-12-31",
+          "@id_txt": "LEGITEXT000006074201"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE II : DESCRIPTION DES ESSAIS",
+            "@debut": "1983-12-01",
+            "@fin": "2002-12-31",
+            "@id": "LEGISCTA000006108423"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "SECTION II : Essai par rayonnement (Matériaux rigides de toute épaisseur et matériaux souples d'épaisseur supérieure à 5 mm).",
+              "@debut": "1983-12-01",
+              "@fin": "2002-12-31",
+              "@id": "LEGISCTA000006128912"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "A. - Appareillage.",
+                "@debut": "1983-12-01",
+                "@fin": "2002-12-31",
+                "@id": "LEGISCTA000006143707"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074201",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-06-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-12-01",
+          "@etat": "MODIFIE",
+          "@fin": "1991-11-19",
+          "@id": "LEGIARTI000006830383",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-11-19",
+          "@etat": "ABROGE",
+          "@fin": "2002-12-31",
+          "@id": "LEGIARTI000006830384",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le récepteur destiné à l'étalonnage du rayonnement est constitué d'un disque de cuivre de 100 mm de diamètre, de 10 mm d'épaisseur, encastré dans un bloc en matériau incombustible isolant de caractéristiques suivantes :<br/>\n<br/>   [*formules non reproduites cf JORF du 19 novembre 1991 p. 15042*]<br/>\n<br/>   \" Un thermocouple soudé au disque de cuivre est relié à un enregistreur potentiométrique. La surface du disque de cuivre est enduite d'une couche de peinture spéciale à base de graphite colloïdal [coefficient d'émissivité : e = (0,96 + ou - 0,02)].<br/>\n<br/>   \" Pour effectuer l'étalonnage, le radiateur étalon étant en régime à sa puissance de référence, sa face rayonnante tournée vers le bas, amener au-dessous de lui le disque de cuivre parallèlement à la surface radiante à une distance de 30 mm de celle-ci et de façon que leurs axes coïncident. Au moment de la mesure, le récepteur de rayonnement doit être à une température de (20 + ou - 3) °C.<br/>\n<br/>   \" Enregistrer la courbe de variation de température du récepteur pendant une minute environ.<br/>\n<br/>   \" Après refroidissement à (20 + ou - 3) °C, recommencer l'opération avec le radiateur à étalonner.<br/>\n<br/>   \" L'étalonnage consiste à chercher, par la comparaison des courbes ainsi obtenues, la puissance électrique nécessaire au radiateur, pour que la vitesse d'échauffement du disque soit identique à celle obtenue avec le radiateur étalon (0,64 à 0,67 °C/s). \"<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-08-28 art. 18 JORF 19 novembre 1991",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2002-11-21 art. 10 JORF 31 décembre 2002",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

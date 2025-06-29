@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006638622",
+      "ANCIEN_ID": "RLIALXXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/86/LEGIARTI000006638622.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-07-16",
+        "DATE_FIN": "1990-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 mai 1963 fixant certaines mesures financières prises pour l'application du décret n° 63-301 du 19 mars 1963 relatif à la prophylaxie de la tuberculose bovine",
+          "@c_titre_court": "Arrêté du 29 mai 1963",
+          "@debut": "1963-07-16",
+          "@fin": "1990-07-01",
+          "@id_txt": "LEGITEXT000006072008"
+        }
+      ],
+      "@cid": "LEGITEXT000006072008",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1963-05-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-16",
+          "@etat": "ABROGE",
+          "@fin": "1990-07-01",
+          "@id": "LEGIARTI000006638622",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant de la participation à l'achat de matériel de désinfection qui peut être accordée en application de l'article 20 du présent arrêté est au maximum de 50 p. 100 de la facture acquittée, qui devra être fournie à l'appui de la demande.<br/>\n<br/>   Pour les organismes dont la vocation n'est pas exclusivement zoo sanitaire, ce taux est ramené à 30 p. 100.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1963-05-29 art. 20",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1990-07-06 art. 19 JORF 10 août 1990 en vigueur le 1er juillet 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 63-301 1963-03-19",
+        "@cidtexte": "JORFTEXT000000504068",
+        "@datesignatexte": "1963-03-19",
+        "@id": "JORFTEXT000000504068",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-301",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

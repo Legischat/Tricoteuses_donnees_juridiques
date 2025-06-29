@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006878355",
+      "ANCIEN_ID": "UTEABXXXXXX045AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/83/LEGIARTI000006878355.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "45",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-02-04",
+        "DATE_FIN": "2016-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Loi n° 67-5 du 3 janvier 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878026"
+        },
+        {
+          "#text": "Loi n° 67-5 du 3 janvier 1967 portant statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Loi n° 67-5 du 3 janvier 1967",
+          "@debut": "1968-02-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068306"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre VI : Hypothèques maritimes",
+            "@debut": "1968-02-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006111567"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000878026",
+      "@date_publi": "1967-01-04",
+      "@date_signature": "1967-01-03",
+      "@nature": "LOI",
+      "@num": "67-5"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-02-04",
+          "@etat": "ABROGE",
+          "@fin": "2016-06-22",
+          "@id": "LEGIARTI000006878355",
+          "@num": "45",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'hypothèque peut être constituée sur un bâtiment de mer en construction.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°67-5 du 3 janvier 1967 - art. 73 (V)",
+        "@cidtexte": "JORFTEXT000000878026",
+        "@datesignatexte": "1967-01-03",
+        "@id": "LEGIARTI000006878388",
+        "@naturetexte": "LOI",
+        "@num": "73",
+        "@numtexte": "67-5",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 67-967 1967-10-27",
+        "@cidtexte": "JORFTEXT000000702914",
+        "@datesignatexte": "1967-10-27",
+        "@id": "JORFTEXT000000702914",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-967",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "LOI n°2016-816 du 20 juin 2016 - art. 10",
+        "@cidtexte": "JORFTEXT000032728685",
+        "@datesignatexte": "2016-06-20",
+        "@id": "LEGIARTI000032730701",
+        "@naturetexte": "LOI",
+        "@nortexte": "DEVX1600975L",
+        "@num": "10",
+        "@numtexte": "2016-816",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

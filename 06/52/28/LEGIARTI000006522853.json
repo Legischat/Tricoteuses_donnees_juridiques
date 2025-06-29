@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006522853",
+      "ANCIEN_ID": "PLIAEXXXXXX085AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/28/LEGIARTI000006522853.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "85",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-11-01",
+        "DATE_FIN": "1997-05-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 décembre 1959 portant réglementation des jeux dans les casinos",
+          "@c_titre_court": "Arrêté du 23 décembre 1959",
+          "@debut": "1959-12-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071187"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Comptabilité et prélèvement progressif",
+            "@debut": "1959-12-29",
+            "@fin": "2007-05-17",
+            "@id": "LEGISCTA000006095716"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre IV : Questions particulières",
+              "@debut": "1969-09-19",
+              "@fin": "2007-05-17",
+              "@id": "LEGISCTA000006120314"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section I : Fourniture et remboursement des carnets de tickets.",
+                "@debut": "1986-11-01",
+                "@fin": "2007-05-17",
+                "@id": "LEGISCTA000006137568"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071187",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1959-12-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-11-01",
+          "@etat": "MODIFIE",
+          "@fin": "1997-05-31",
+          "@id": "LEGIARTI000006522853",
+          "@num": "85",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-05-31",
+          "@etat": "ABROGE",
+          "@fin": "2007-05-17",
+          "@id": "LEGIARTI000006522854",
+          "@num": "85",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Restitution par les casinos des carnets ou de leurs souches et remboursement du prix des carnets utilisés.<br/>\n<br/>      Le prix des carnets, fixé par arrêté du ministre des finances et des affaires économiques, est remboursé à l'administration par le casino.<br/>\n<br/>   Au fur et à mesure qu'ils sont terminés, les carnets ne comprenant plus que leurs souches sont remis à la recette des finances par l'intermédiaire du percepteur. Ce dernier perçoit en même temps le prix réglementaire et délivre une quittance à souche.<br/>\n<br/>   En fin de saison, les casinos remettent également au percepteur les carnets non encore commencés ou non terminés. Les carnets neufs sont repris contre restitution du reçu donné par le directeur ou un membre du comité de direction. Tout carnet commencé est payé intégralement comme s'il était terminé, mais il peut être rendu à l'établissement et utilisé par lui au commencement de la saison suivante.<br/>\n<br/>    En cas de perte ou de détournement de tickets, le casino est tenu de payer, outre le prix des carnets, le montant du prélèvement progressif correspondant à la valeur nominale des tickets non représentés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1959-12-23 JORF 29 décembre 1959 rectificatif JORF 26 janvier et 2 mars 1960",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 1986-11-07 art. 3 et art. 4 JORF 20 novembre 1986 en vigueur le 1er novembre 1986",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1986-11-07 art. 4",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 59-1489 1959-12-22",
+        "@cidtexte": "JORFTEXT000000851347",
+        "@datesignatexte": "1959-12-22",
+        "@id": "JORFTEXT000000851347",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-1489",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

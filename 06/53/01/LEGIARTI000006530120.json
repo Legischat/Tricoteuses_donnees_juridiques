@@ -1,0 +1,145 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006530120",
+      "ANCIEN_ID": "PPFAKXXXXXX038AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/01/LEGIARTI000006530120.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "38",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-12-20",
+        "DATE_FIN": "2005-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances",
+          "@c_titre_court": "Ordonnance n° 59-2 du 2 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339591"
+        },
+        {
+          "#text": "Ordonnance n°59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances.",
+          "@c_titre_court": "Ordonnance n°59-2 du 2 janvier 1959",
+          "@debut": "1959-01-03",
+          "@fin": "2005-01-01",
+          "@id_txt": "LEGITEXT000006069252"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : De la présentation et du vote des projets de lois de finances",
+            "@debut": "1959-01-03",
+            "@fin": "2005-01-01",
+            "@id": "LEGISCTA000006096051"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : De la procédure d'élaboration des lois de finances.",
+              "@debut": "1959-01-03",
+              "@fin": "2005-01-01",
+              "@id": "LEGISCTA000006120498"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000339591",
+      "@date_publi": "1959-01-03",
+      "@date_signature": "1959-01-02",
+      "@nature": "ORDONNANCE",
+      "@num": "59-2"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-03",
+          "@etat": "MODIFIE",
+          "@fin": "1995-12-20",
+          "@id": "LEGIARTI000006530119",
+          "@num": "38",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-12-20",
+          "@etat": "ABROGE",
+          "@fin": "2005-01-01",
+          "@id": "LEGIARTI000006530120",
+          "@num": "38",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le projet de loi de finances de l'année y compris le rapport et les annexes explicatives prévus à l'article 32 est déposé et distribué au plus tard le premier mardi d'octobre de l'année qui précède l'année d'exécution du budget. Il est immédiatement renvoyé à l'examen d'une commission parlementaire.<br/>\n<br/>   Le projet de loi de règlement est déposé et distribué au plus tard à la fin de l'année qui suit l'année d'exécution du budget.<br/>\n<br/>   Si aucun projet de loi de finances rectificative n'est déposé avant le 1er juin, le Gouvernement adresse au Parlement, au plus tard à cette date, un rapport sur l'évolution de l'économie nationale et des finances publiques.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°59-2 du 2 janvier 1959 - art. 32 (Ab)",
+        "@cidtexte": "JORFTEXT000000339591",
+        "@datesignatexte": "1959-01-02",
+        "@id": "LEGIARTI000006530107",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "32",
+        "@numtexte": "59-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°87-1061 du 30 décembre 1987 - art. 32 (Ab)",
+        "@cidtexte": "JORFTEXT000000687676",
+        "@datesignatexte": "1987-12-30",
+        "@id": "LEGIARTI000006275226",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700165L",
+        "@num": "32",
+        "@numtexte": "87-1061",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°95-1292 du 16 décembre 1995 - art. 3 () JORF 20 décembre 1995",
+        "@cidtexte": "JORFTEXT000000556884",
+        "@datesignatexte": "1995-12-16",
+        "@id": "LEGIARTI000006528859",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "JUSX9500119L",
+        "@num": "3",
+        "@numtexte": "95-1292",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°2001-692 du 1 août 2001 - art. 67 (VT) JORF 2 août 2001 en vigueur le 1er janvier 2005",
+        "@cidtexte": "JORFTEXT000000394028",
+        "@datesignatexte": "2001-08-01",
+        "@id": "LEGIARTI000006321099",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "ECOX0104681L",
+        "@num": "67",
+        "@numtexte": "2001-692",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006711504",
+      "ANCIEN_ID": "SPHTGXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/15/LEGIARTI000006711504.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1978-03-23",
+        "DATE_FIN": "1992-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-397 du 17 mars 1978 APPLICATION DE LA LOI 771411 DU 23 décembre 1977 (EXAMEN PRENATAL)",
+          "@c_titre_court": "Décret n°78-397 du 17 mars 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000863905"
+        },
+        {
+          "#text": "Décret n°78-397 du 17 mars 1978 pris pour l'application de la loi n° 77-1411 du 23 décembre 1977 relative à la protection de la maternité dans les départements d'outre-mer",
+          "@c_titre_court": "Décret n°78-397 du 17 mars 1978",
+          "@debut": "1978-03-23",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006062862"
+        }
+      ],
+      "@cid": "JORFTEXT000000863905",
+      "@date_publi": "1978-03-23",
+      "@date_signature": "1978-03-17",
+      "@nature": "DECRET",
+      "@num": "78-397"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-03-23",
+          "@etat": "MODIFIE",
+          "@fin": "1992-02-16",
+          "@id": "LEGIARTI000006711504",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-02-16",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006711505",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Cette prime est versée à la femme par la direction départementale des affaires sanitaires et sociales à l'occasion de chacun des examens prénataux et de l'examen postnatal institués en application de l'article L. 159 du code de la santé publique.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 77-1411 1977-12-23",
+        "@cidtexte": "JORFTEXT000000522544",
+        "@datesignatexte": "1977-12-23",
+        "@id": "JORFTEXT000000522544",
+        "@naturetexte": "LOI",
+        "@numtexte": "77-1411",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L159 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692427",
+        "@naturetexte": "CODE",
+        "@num": "L159",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

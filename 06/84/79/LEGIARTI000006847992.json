@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006847992",
+      "ANCIEN_ID": "UPEEGXXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/79/LEGIARTI000006847992.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-10-31",
+        "DATE_FIN": "1990-06-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 68-943 du 30 octobre 1968 relative à la responsabilité civile dans le domaine de l'énergie nucléaire",
+          "@c_titre_court": "Loi n° 68-943 du 30 octobre 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000501105"
+        },
+        {
+          "#text": "Loi n° 68-943 du 30 octobre 1968 relative à la responsabilité civile dans le domaine de l'énergie nucléaire.",
+          "@c_titre_court": "Loi n° 68-943 du 30 octobre 1968",
+          "@debut": "1968-10-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068327"
+        }
+      ],
+      "@cid": "JORFTEXT000000501105",
+      "@date_publi": "1968-10-31",
+      "@date_signature": "1968-10-30",
+      "@nature": "LOI",
+      "@num": "68-943"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-10-31",
+          "@etat": "ABROGE",
+          "@fin": "1990-06-17",
+          "@id": "LEGIARTI000006847992",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La présente loi entrera en vigueur dès la publication de la Convention de Paris au Journal officiel de la République française ; à cette date, les dispositions de la loi n° 65-955 du 12 novembre 1965, instituant à titre transitoire un régime spécial de responsabilité en ce qui concerne les accidents d'origine nucléaire, seront abrogées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 65-955 1965-11-12",
+        "@cidtexte": "JORFTEXT000000503951",
+        "@datesignatexte": "1965-11-12",
+        "@id": "JORFTEXT000000503951",
+        "@naturetexte": "LOI",
+        "@numtexte": "65-955",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°90-488 du 16 juin 1990 - art. 13 (P)",
+        "@cidtexte": "JORFTEXT000000525148",
+        "@datesignatexte": "1990-06-16",
+        "@id": "LEGIARTI000006848013",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX8900169L",
+        "@num": "13",
+        "@numtexte": "90-488",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 90-488 1990-06-16 art. 14",
+        "@cidtexte": "JORFTEXT000000525148",
+        "@datesignatexte": "1990-06-16",
+        "@id": "JORFTEXT000000525148",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX8900169L",
+        "@numtexte": "90-488",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°90-488 du 16 juin 1990 - art. 13 (P) JORF 17 juin 1990",
+        "@cidtexte": "JORFTEXT000000525148",
+        "@datesignatexte": "1990-06-16",
+        "@id": "LEGIARTI000006848013",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX8900169L",
+        "@num": "13",
+        "@numtexte": "90-488",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

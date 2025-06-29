@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006566589",
+      "ANCIEN_ID": "PUHEGXXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/65/LEGIARTI000006566589.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1970-01-01",
+        "DATE_FIN": "2002-04-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°71-234 du 30 mars 1971 RELATIF AU STATUT DU CORPS DES INGENIEURS DE L'AVIATION CIVILE",
+          "@c_titre_court": "Décret n°71-234 du 30 mars 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000520634"
+        },
+        {
+          "#text": "Décret n°71-234 du 30 mars 1971 relatif au statut du corps des ingénieurs de l'aviation civile.",
+          "@c_titre_court": "Décret n°71-234 du 30 mars 1971",
+          "@debut": "1970-01-01",
+          "@fin": "2002-04-16",
+          "@id_txt": "LEGITEXT000006061802"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Avancement.",
+            "@debut": "1970-01-01",
+            "@fin": "2002-04-16",
+            "@id": "LEGISCTA000006097612"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000520634",
+      "@date_publi": "1971-03-31",
+      "@date_signature": "1971-03-30",
+      "@nature": "DECRET",
+      "@num": "71-234"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2002-04-16",
+          "@id": "LEGIARTI000006566589",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La durée du temps normalement passé dans chaque échelon pour accéder à l'échelon supérieur est fixée à deux ans dans le grade d'ingénieur général. Dans le grade d'ingénieur en chef, cette durée moyenne est de deux ans dans les quatre premiers échelons et de trois ans dans le cinquième.<br/>\n<br/>   Dans le grade d'ingénieur, la durée moyenne du temps normalement passé dans chaque échelon de la 1re classe est uniformément de deux ans.<br/>\n<br/>   La durée moyenne dans les échelons de la 2e classe est de un an dans les deux premiers échelons, dix-huit mois dans les 3e, 4e et 5e échelons et de deux ans dans les 6e et 7e échelons.<br/>\n<br/>   Ces durées peuvent être réduites ou majorées dans les conditions prévues par le décret n° 59-308 du 14 février 1959, sauf lorsqu'elles sont égales ou inférieures à dix-huit mois, sans pouvoir être inférieures à dix-huit mois lorsqu'elles sont de deux ans et à deux ans trois mois lorsqu'elles sont de trois ans.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 59-308 1959-02-14",
+        "@cidtexte": "JORFTEXT000000856758",
+        "@datesignatexte": "1959-02-14",
+        "@id": "JORFTEXT000000856758",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-308",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°71-234 du 30 mars 1971 - art. 16 (Ab)",
+        "@cidtexte": "JORFTEXT000000520634",
+        "@datesignatexte": "1971-03-30",
+        "@id": "LEGIARTI000006566583",
+        "@naturetexte": "DECRET",
+        "@num": "16",
+        "@numtexte": "71-234",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2002-523 du 16 avril 2002 - art. 42 (V) JORF 16 avril 2002",
+        "@cidtexte": "JORFTEXT000000772696",
+        "@datesignatexte": "2002-04-16",
+        "@id": "LEGIARTI000006571027",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUP0200172D",
+        "@num": "42",
+        "@numtexte": "2002-523",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

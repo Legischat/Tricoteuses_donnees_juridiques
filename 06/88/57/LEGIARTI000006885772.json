@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006885772",
+      "ANCIEN_ID": "UTI4DXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/57/LEGIARTI000006885772.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-12-31",
+        "DATE_FIN": "2009-04-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 septembre 1994 relatif à la réception communautaire (C.E.) des    types de véhicules, de systèmes ou d'équipements",
+          "@c_titre_court": "Arrêté du 16 septembre 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000349198"
+        },
+        {
+          "#text": "Arrêté du 16 septembre 1994 relatif à la réception communautaire (C.E.) des types de véhicules, de systèmes ou d'équipements",
+          "@c_titre_court": "Arrêté du 16 septembre 1994",
+          "@debut": "1994-12-31",
+          "@fin": "2009-04-29",
+          "@id_txt": "LEGITEXT000005617380"
+        }
+      ],
+      "@cid": "JORFTEXT000000349198",
+      "@date_publi": "1994-12-31",
+      "@date_signature": "1994-09-16",
+      "@ministere": "MINISTERE DE L'EQUIPEMENT,DES TRANSPORTS ET DU TOURISME",
+      "@nature": "ARRETE",
+      "@nor": "EQUS9401513A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2009-04-29",
+          "@id": "LEGIARTI000006885772",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 10 mars 1972 relatif à la réception C.E.E. des véhicules et homologation C.E.E. des dispositifs d'équipements pour véhicules est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1972-03-10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 4 mai 2009 - art. 32",
+        "@cidtexte": "JORFTEXT000020581309",
+        "@datesignatexte": "2009-05-04",
+        "@id": "LEGIARTI000020583323",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVE0909959A",
+        "@num": "32",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

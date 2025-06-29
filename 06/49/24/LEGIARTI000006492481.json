@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006492481",
+      "ANCIEN_ID": "PJEBYXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/24/LEGIARTI000006492481.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1971-06-30",
+        "DATE_FIN": "2004-02-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires",
+          "@c_titre_court": "Loi n° 71-498 du 29 juin 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874942"
+        },
+        {
+          "#text": "Loi n° 71-498 du 29 juin 1971 relative aux experts judiciaires",
+          "@c_titre_court": "Loi n° 71-498 du 29 juin 1971",
+          "@debut": "1971-06-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068401"
+        }
+      ],
+      "@cid": "JORFTEXT000000874942",
+      "@date_publi": "1971-06-30",
+      "@date_signature": "1971-06-29",
+      "@nature": "LOI",
+      "@num": "71-498"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-06-30",
+          "@etat": "MODIFIE",
+          "@fin": "2004-02-12",
+          "@id": "LEGIARTI000006492481",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-02-12",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006492482",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lors de leur inscription sur l'une des listes prévues à l'article 2 ci-dessus, les experts prêtent, devant la cour d'appel du ressort de leur domicile, serment d'accomplir leur mission, de faire leur rapport et de donner leur avis en leur honneur et conscience. Ce serment les dispensera de celui prévu à l'article 308 du code de procédure civile pendant la durée de leur inscription.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 71-498 du 29 juin 1971 - art. 8 (M)",
+        "@cidtexte": "JORFTEXT000000874942",
+        "@datesignatexte": "1971-06-29",
+        "@id": "LEGIARTI000023822290",
+        "@naturetexte": "LOI",
+        "@num": "8",
+        "@numtexte": "71-498",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°71-498 du 29 juin 1971 - art. 2 (M)",
+        "@cidtexte": "JORFTEXT000000874942",
+        "@datesignatexte": "1971-06-29",
+        "@id": "LEGIARTI000006492474",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "71-498",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de procédure civile 308",
+        "@cidtexte": "LEGITEXT000006070680",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070680",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

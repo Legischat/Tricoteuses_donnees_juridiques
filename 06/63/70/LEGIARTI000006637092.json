@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006637092",
+      "ANCIEN_ID": "ADIYTXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/70/LEGIARTI000006637092.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-11-29",
+        "DATE_FIN": "2012-10-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 août 1985 relatif aux normes d'hygiène et de salubrité auxquelles doit répondre le lait cru livré en l'état et destiné à la consommation humaine",
+          "@c_titre_court": "Arrêté du 6 août 1985",
+          "@debut": "1985-11-29",
+          "@fin": "2012-10-01",
+          "@id_txt": "LEGITEXT000006071982"
+        }
+      ],
+      "@cid": "LEGITEXT000006071982",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-08-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-11-29",
+          "@etat": "ABROGE",
+          "@fin": "2012-10-01",
+          "@id": "LEGIARTI000006637092",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le lait cru doit être conservé, pendant le transport et sur les lieux de vente, à une température inférieure ou égale à plus 4° C.<br/>\n    Toutefois, compte tenu des équipements et des installations existants, la température de plus 6° C est admise pour une durée de cinq ans à compter de la publication du présent arrêté pour la conservation du lait cru conditionné.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-295 1967-03-31",
+        "@cidtexte": "JORFTEXT000000305784",
+        "@datesignatexte": "1967-03-31",
+        "@id": "JORFTEXT000000305784",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-295",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 13 juillet 2012 - art. 10",
+        "@cidtexte": "JORFTEXT000026208547",
+        "@datesignatexte": "2012-07-13",
+        "@id": "LEGIARTI000026209852",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG1229148A",
+        "@num": "10",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

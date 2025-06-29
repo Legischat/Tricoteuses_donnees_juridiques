@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006620354",
+      "ANCIEN_ID": "RFHAAXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/03/LEGIARTI000006620354.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-08-27",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-1140 du 20 août 1955 DE RECOLTE,ENGAGEMENT DE LIVRAISON",
+          "@c_titre_court": "Décret n°55-1140 du 20 août 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000300723"
+        },
+        {
+          "#text": "Décret n°55-1140 du 20 août 1955 relatif aux déclarations exigées des producteurs de blé et des personnes qui reçoivent du blé en paiement de fermages ou de services",
+          "@c_titre_court": "Décret n°55-1140 du 20 août 1955",
+          "@debut": "1955-08-27",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006060711"
+        }
+      ],
+      "@cid": "JORFTEXT000000300723",
+      "@date_publi": "1955-08-27",
+      "@date_signature": "1955-08-20",
+      "@nature": "DECRET",
+      "@num": "55-1140"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-08-27",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006620354",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les déclarants qui, sous réserve des dispositions du septième alinéa de l'article 5 du texte annexé au décret de codification du 23 novembre 1937 modifié par le décret-loi du 17 juin 1938, ainsi que du cinquième alinéa de l'article 6 du même texte, désirent livrer leur blé à un organisme stockeur autre que celui désigné à leur déclaration doivent en faire la déclaration à la recette buraliste des contributions indirectes quinze jours au moins avant de commencer les livraisons audit organisme.<br/>\n<br/>   Il est interdit dans ce cas à l'organisme stockeur précédemment désigné d'accepter de nouvelles livraisons dudit déclarant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1937-11-23 annexe art. 5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°55-1140 du 20 août 1955 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000300723",
+        "@datesignatexte": "1955-08-20",
+        "@id": "LEGIARTI000006620355",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "55-1140",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret-loi 1938-06-17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

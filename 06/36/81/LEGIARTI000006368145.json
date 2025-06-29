@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006368145",
+      "ANCIEN_ID": "AAHNZXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/81/LEGIARTI000006368145.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-09-07",
+        "DATE_FIN": "1984-07-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°80-693 du 5 septembre 1980 RELATIF A LA SOCIETE NATIONALE D'EXPLOITATION INDUSTRIELLE DES TABACS ET ALLUMETTES (SEITA)",
+          "@c_titre_court": "Décret n°80-693 du 5 septembre 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000862226"
+        },
+        {
+          "#text": "Décret n°80-693 du 5 septembre 1980 relatif à la Société nationale d'exploitation industrielle des tabacs et allumettes.",
+          "@c_titre_court": "Décret n°80-693 du 5 septembre 1980",
+          "@debut": "1980-09-07",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006063308"
+        }
+      ],
+      "@cid": "JORFTEXT000000862226",
+      "@date_publi": "1980-09-07",
+      "@date_signature": "1980-09-05",
+      "@nature": "DECRET",
+      "@num": "80-693"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-09-07",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-07",
+          "@id": "LEGIARTI000006368145",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Article abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 80-495 1980-07-02",
+        "@cidtexte": "JORFTEXT000000516991",
+        "@datesignatexte": "1980-07-02",
+        "@id": "JORFTEXT000000516991",
+        "@naturetexte": "LOI",
+        "@numtexte": "80-495",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 84-569 1984-07-04 art. 1 JORF 7 juillet 1984",
+        "@cidtexte": "JORFTEXT000000332473",
+        "@datesignatexte": "1984-07-04",
+        "@id": "JORFTEXT000000332473",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-569",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

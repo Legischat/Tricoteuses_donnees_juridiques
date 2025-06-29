@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006530081",
+      "ANCIEN_ID": "PPFAKXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/00/LEGIARTI000006530081.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-03",
+        "DATE_FIN": "2005-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances",
+          "@c_titre_court": "Ordonnance n° 59-2 du 2 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339591"
+        },
+        {
+          "#text": "Ordonnance n°59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances.",
+          "@c_titre_court": "Ordonnance n°59-2 du 2 janvier 1959",
+          "@debut": "1959-01-03",
+          "@fin": "2005-01-01",
+          "@id_txt": "LEGITEXT000006069252"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Des dispositions de lois de finances",
+            "@debut": "1959-01-03",
+            "@fin": "2005-01-01",
+            "@id": "LEGISCTA000006096050"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : De la détermination des ressources et des charges de l'Etat.",
+              "@debut": "1959-01-03",
+              "@fin": "2005-01-01",
+              "@id": "LEGISCTA000006120495"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000339591",
+      "@date_publi": "1959-01-03",
+      "@date_signature": "1959-01-02",
+      "@nature": "ORDONNANCE",
+      "@num": "59-2"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-03",
+          "@etat": "ABROGE",
+          "@fin": "2005-01-01",
+          "@id": "LEGIARTI000006530081",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les charges permanentes de l'Etat comprennent *définition* :<br/>\n<br/>   Les dépenses ordinaires ;<br/>\n<br/>   Les dépenses en capital ;<br/>\n<br/>   Les prêts et avances.<br/>\n<br/>   Les dépenses ordinaires sont groupées sous quatre titres :<br/>\n<br/>   Charges de la dette publique ainsi que de la dette viagère et dépenses en atténuation de recettes ;<br/>\n<br/>   Dotation des pouvoirs publics ;<br/>\n<br/>   Dépenses de personnel et de matériel applicables au fonctionnement des services ;<br/>\n<br/>   Interventions de l'Etat, notamment en matière économique, sociale et culturelle.<br/>\n<br/>   Les dépenses en capital sont groupées sous trois titres :<br/>\n<br/>   Investissements exécutés par l'Etat ;<br/>\n<br/>   Subventions d'investissement accordées par l'Etat ;<br/>\n<br/>   Réparation des dommages de guerre.<br/>\n<br/>   Les prêts et avances de l'Etat sont groupés sous quatre titres ;<br/>\n<br/>   Prêts du fonds de développement économique et social ;<br/>\n<br/>   Prêts intéressant le logement ;<br/>\n<br/>   Prêts divers consentis par l'Etat ;<br/>\n<br/>   Avances de l'Etat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°59-2 du 2 janvier 1959 - art. 15 (Ab)",
+        "@cidtexte": "JORFTEXT000000339591",
+        "@datesignatexte": "1959-01-02",
+        "@id": "LEGIARTI000006530090",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "15",
+        "@numtexte": "59-2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°2001-692 du 1 août 2001 - art. 67 (VT) JORF 2 août 2001 en vigueur le 1er janvier 2005",
+        "@cidtexte": "JORFTEXT000000394028",
+        "@datesignatexte": "2001-08-01",
+        "@id": "LEGIARTI000006321099",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "ECOX0104681L",
+        "@num": "67",
+        "@numtexte": "2001-692",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

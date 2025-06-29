@@ -1,0 +1,142 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006899964",
+      "ANCIEN_ID": "AJAXXXXXXXX2X010R00AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/99/LEGIARTI000006899964.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-07-20",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code des débits de boissons et des mesures contre l'alcoolisme",
+          "@c_titre_court": "Code des débits de boissons et des mesures contre l'alcoolisme",
+          "@debut": "1955-05-21",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006075115"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire - Décrets en Conseil d'Etat",
+            "@debut": "1959-01-09",
+            "@fin": "2003-05-27",
+            "@id": "LEGISCTA000006112860"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre IV : Répression de l'ivresse publique et protection des mineurs contre l'alcoolisme",
+              "@debut": "1959-01-09",
+              "@fin": "2003-05-27",
+              "@id": "LEGISCTA000006132280"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : Protection des mineurs contre l'alcoolisme",
+                "@debut": "1959-01-09",
+                "@fin": "2003-05-27",
+                "@id": "LEGISCTA000006145362"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006075115",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-10-07",
+          "@etat": "MODIFIE",
+          "@fin": "1993-07-20",
+          "@id": "LEGIARTI000006899963",
+          "@num": "R*10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-07-20",
+          "@etat": "ABROGE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006899964",
+          "@num": "R10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de première récidive, l'amende sera de 3.000 à 6.000 F [*sanctions pénales*].<br/>\n<br/>   Il y a récidive lorsque depuis moins de douze mois, le contrevenant a subi une condamnation pour des faits prévus au titre IV du présent code (première et deuxième parties).<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 58-346 1958-04-03 *validation*",
+        "@cidtexte": "JORFTEXT000000511672",
+        "@datesignatexte": "1958-04-03",
+        "@id": "JORFTEXT000000511672",
+        "@naturetexte": "LOI",
+        "@numtexte": "58-346",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 93-913 1993-07-19 art. 1 JORF 20 juillet 1993",
+        "@cidtexte": "JORFTEXT000000363212",
+        "@datesignatexte": "1993-07-19",
+        "@id": "JORFTEXT000000363212",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9300093L",
+        "@numtexte": "93-913",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000729725",
+        "@datesignatexte": "1993-03-29",
+        "@id": "JORFTEXT000000729725",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX9300012Z",
+        "@numtexte": "93-726",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des débits de boissons et des mesures contre  - art. R*11 (Ab)",
+        "@cidtexte": "LEGITEXT000006075115",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006899980",
+        "@naturetexte": "CODE",
+        "@num": "R*11",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

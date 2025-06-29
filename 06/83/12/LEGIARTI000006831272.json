@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006831272",
+      "ANCIEN_ID": "UCINLXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/12/LEGIARTI000006831272.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-04-01",
+        "DATE_FIN": "2012-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 septembre 1995 relatif à la classification et aux règles de construction parasismique applicables aux ponts de la catégorie dite « à risque normal » telle que définie par le décret n° 91-461 du 14 mai 1991 relatif à la prévention du risque sismique",
+          "@c_titre_court": "Arrêté du 15 septembre 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000188676"
+        },
+        {
+          "#text": "Arrêté du 15 septembre 1995 relatif à la classification et aux règles de construction parasismique applicables aux ponts de la catégorie dite « à risque normal » telle que définie par le décret n° 91-461 du 14 mai 1991 relatif à la prévention du risque sismique",
+          "@c_titre_court": "Arrêté du 15 septembre 1995",
+          "@debut": "1996-04-01",
+          "@fin": "2012-01-01",
+          "@id_txt": "LEGITEXT000005619571"
+        }
+      ],
+      "@cid": "JORFTEXT000000188676",
+      "@date_publi": "1995-10-07",
+      "@date_signature": "1995-09-15",
+      "@ministere": "MINISTERE DE L'ENVIRONNEMENT",
+      "@nature": "ARRETE",
+      "@nor": "ENVP9540193A",
+      "@num_parution_jo": "0234"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-04-01",
+          "@etat": "ABROGE",
+          "@fin": "2012-01-01",
+          "@id": "LEGIARTI000006831272",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les règles de construction à appliquer aux ponts nouveaux définitifs mentionnées à l'article 3 du présent arrêté sont celles du document \" Guide A.F.P.S. 1992 pour la protection parasismique des ponts, publié par l'Association française du génie parasismique (presse de l'E.N.P.C., 1995), ou celles du document d'application nationale de l'Eurocode 8, partie 2, Ponts.<br/>\n<br/>   Ces règles doivent être appliquées au moyen d'une accélération nominale notée \" a n, qui caractérise l'action sismique à prendre en compte et dont la valeur résulte à la fois de la situation du pont au regard de la zone sismique et de la classe du pont.<br/>\n<br/>   Les valeurs de \" a n exprimées en m/s2 sont données par le tableau suivant :<br/>\n ZONES : IA<br/>\n CLASSES : B 1,0<br/>\n CLASSES : C 1,5<br/>\n CLASSES : D 2,0<br/>\n<br/>\n ZONES : IB<br/>\n CLASSES : B 1,5<br/>\n CLASSES : C 2,0<br/>\n CLASSES : D 2,5<br/>\n<br/>\n ZONES : II<br/>\n CLASSES : B 2,5<br/>\n CLASSES : C 3<br/>\n CLASSES : D 3,5<br/>\n<br/>\n ZONES : III<br/>\n CLASSES : B 3,5<br/>\n CLASSES : C 4,0<br/>\n CLASSES : D 4,5<br/>\n<br/>\n<br/>\n<br/>   Toutefois, pour les ponts classés B ou C pour lesquels la surface utile de la brèche est inférieure à 150 mètres carrés ou pour lesquels la valeur \" a n, telle qu'elle ressort du tableau ci-dessus, n'excède pas 1,5, l'application des règles définies dans le Guide A.F.P.S. 1992 pour la protection parasismique des ponts peut être limitée à celle des mesures constructives définies par ledit document.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-09-15 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1995-09-15 art. 5",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 91-461 1991-05-14",
+        "@cidtexte": "JORFTEXT000000504342",
+        "@datesignatexte": "1991-05-14",
+        "@id": "JORFTEXT000000504342",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ENVP9161913D",
+        "@numtexte": "91-461",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 26 octobre 2011 - art. 6",
+        "@cidtexte": "JORFTEXT000024771861",
+        "@datesignatexte": "2011-10-26",
+        "@id": "LEGIARTI000024775276",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVP1125429A",
+        "@num": "6",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

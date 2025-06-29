@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006668155",
+      "ANCIEN_ID": "SEIDRXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/81/LEGIARTI000006668155.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-12-28",
+        "DATE_FIN": "1987-02-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 décembre 1977 relatif aux établissements assujettis à la réglementation sur le contrôle de l'emploi",
+          "@c_titre_court": "Arrêté du 15 décembre 1977",
+          "@debut": "1977-12-28",
+          "@fin": "1987-02-28",
+          "@id_txt": "LEGITEXT000006072166"
+        }
+      ],
+      "@cid": "LEGITEXT000006072166",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-12-15",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-12-28",
+          "@etat": "ABROGE",
+          "@fin": "1987-02-28",
+          "@id": "LEGIARTI000006668155",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont soumis aux obligations prévues aux articles L. 321-2 et R. 321-5 du Code du travail les établissements visés à l'article 3 (1er alinéa) du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-12-15 ART. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-02-27 art. 3 JORF 28 février 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Circulaire CDE n° 2 1978-01-10 : concernant les modalités d'application de l'arrêté du 15 décembre 1977",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code du travail - art. L321-2 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006648719",
+        "@naturetexte": "CODE",
+        "@num": "L321-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R321-5 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006809082",
+        "@naturetexte": "CODE",
+        "@num": "R321-5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

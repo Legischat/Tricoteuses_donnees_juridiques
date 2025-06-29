@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006473381",
+      "ANCIEN_ID": "ACECAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/47/33/LEGIARTI000006473381.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1803-03-16",
+        "DATE_FIN": "1945-11-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 16 mars 1803 contenant organisation du notariat",
+          "@c_titre_court": "Loi du 16 mars 1803",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000882738"
+        },
+        {
+          "#text": "Loi contenant organisation du notariat (loi 25 ventôse an XI)",
+          "@c_titre_court": "Loi du 16 mars 1803",
+          "@debut": "1803-03-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070994"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Des notaires et des actes notariés",
+            "@debut": "1803-03-16",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006092864"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section I : Des fonctions, ressort et devoirs des notaires.",
+              "@debut": "1803-03-16",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118859"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000882738",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1803-03-16",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1803-03-16",
+          "@etat": "ABROGE",
+          "@fin": "1945-11-03",
+          "@id": "LEGIARTI000006473381",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les notaires sont les fonctionnaires publics établis pour recevoir tous les actes et contrats auxquels les parties doivent ou veulent faire donner le caractère d'authenticité attaché aux actes de l'autorité publique, et pour en assurer la date, en conserver le dépôt, en délivrer les grosses et expéditions.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1803-03-16 Bulletin des Lois, 3è S, B. 258, n° 2440",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°45-2590 du 2 novembre 1945 - art. 10 (V) JORF 3 novembre 1945",
+        "@cidtexte": "JORFTEXT000000699572",
+        "@datesignatexte": "1945-11-02",
+        "@id": "LEGIARTI000006915332",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "10",
+        "@numtexte": "45-2590",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

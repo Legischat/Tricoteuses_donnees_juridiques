@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006317232",
+      "ANCIEN_ID": "AAGABXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/72/LEGIARTI000006317232.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1949-07-26",
+        "DATE_FIN": "2001-05-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 30 octobre 1935 organisant le contrôle de l'Etat sur les sociétés, syndicats et associations ou entreprises de toute nature ayant fait appel au concours financier de l'Etat",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000295216"
+        },
+        {
+          "#text": "Décret-loi du 30 octobre 1935 organisant le contrôle de l'Etat sur les sociétés, syndicats et associations ou entreprises de toute nature ayant fait appel au concours financier de l'Etat",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "1935-10-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069587"
+        }
+      ],
+      "@cid": "JORFTEXT000000295216",
+      "@date_publi": "1935-10-31",
+      "@date_signature": "1935-10-30",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1935-10-31",
+          "@etat": "MODIFIE",
+          "@fin": "1949-07-26",
+          "@id": "LEGIARTI000006317231",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1949-07-26",
+          "@etat": "MODIFIE",
+          "@fin": "2001-05-16",
+          "@id": "LEGIARTI000006317232",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-05-16",
+          "@etat": "ABROGE",
+          "@fin": "2014-08-24",
+          "@id": "LEGIARTI000006317233",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est réservé à l'Etat au sein des conseils d'administration, [*conseils*] de gérance ou [*conseils*] de surveillance, des sociétés qui ont fait appel ou feront appel à son concours sous forme d'apports en capital, ainsi que des sociétés dans lesquelles il détient une participation au moins égale à 10 p. 100 [*pourcentage*] en capital, un nombre de siège proportionnel à sa participation, sans que ce nombre puisse être supérieur aux deux tiers du conseil, ni, dans les conseils d'administration des sociétés anonymes, inférieur à deux.<br/>\n<br/>   Un décret contresigné par le ministre des finances fixera le statut des administrateurs d'Etat [*représentants de l'Etat*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-733 1955-05-26 art. 13 *abrogation du présent article en tant qu'il concerne les entreprises et organismes auxquels le décret du 26 mai 1955 est applicable*",
+        "@cidtexte": "JORFTEXT000000866794",
+        "@datesignatexte": "1955-05-26",
+        "@id": "JORFTEXT000000866794",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-733",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret-loi 1935-10-30 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 49-985 1949-07-25 art. 12 JORF 26 juillet 1949",
+        "@cidtexte": "JORFTEXT000000878178",
+        "@datesignatexte": "1949-07-25",
+        "@id": "JORFTEXT000000878178",
+        "@naturetexte": "LOI",
+        "@numtexte": "49-985",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

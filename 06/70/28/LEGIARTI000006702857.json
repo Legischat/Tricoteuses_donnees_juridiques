@@ -1,0 +1,128 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006702857",
+      "ANCIEN_ID": "SPHCPXXXXXX045AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/28/LEGIARTI000006702857.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "45",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-01-01",
+        "DATE_FIN": "1988-03-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°84-131 du 24 février 1984 PORTANT STATUT DES PRATICIENS HOSPITALIERS",
+          "@c_titre_court": "Décret n°84-131 du 24 février 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868588"
+        },
+        {
+          "#text": "Décret n°84-131 du 24 février 1984 portant statut des praticiens hospitaliers",
+          "@c_titre_court": "Décret n°84-131 du 24 février 1984",
+          "@debut": "1985-01-01",
+          "@fin": "2005-07-26",
+          "@id_txt": "LEGITEXT000006064372"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VIII : Exercice de fonctions - Positions",
+            "@debut": "1985-01-01",
+            "@fin": "2005-07-26",
+            "@id": "LEGISCTA000006103935"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 1er : Activité - Congés",
+              "@debut": "1985-01-01",
+              "@fin": "2005-07-26",
+              "@id": "LEGISCTA000006125647"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section II : Congés.",
+                "@debut": "1985-01-01",
+                "@fin": "2005-07-26",
+                "@id": "LEGISCTA000006140858"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000868588",
+      "@date_publi": "1984-02-25",
+      "@date_signature": "1984-02-24",
+      "@nature": "DECRET",
+      "@num": "84-131"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1988-03-02",
+          "@id": "LEGIARTI000006702857",
+          "@num": "45",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-02",
+          "@etat": "ABROGE",
+          "@fin": "2005-07-26",
+          "@id": "LEGIARTI000006702858",
+          "@num": "45",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les praticiens relevant du présent statut peuvent être placés par le commissaire de la République du département, à leur demande, en position de mission temporaire pour une durée maximum de trois mois, par période de deux ans.<br/>\n    Ils conservent, dans cette position, le bénéfice des émoluments mentionnés au 1. de l'article 28, lorsque la mission est effectuée dans l'intérêt de l'hôpital.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 84-131 1984-02-24 art. 28",
+        "@cidtexte": "JORFTEXT000000868588",
+        "@datesignatexte": "1984-02-24",
+        "@id": "JORFTEXT000000868588",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-131",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. R6152-48 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006918238",
+        "@naturetexte": "CODE",
+        "@num": "R6152-48",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

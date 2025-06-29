@@ -1,0 +1,157 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006581190",
+      "ANCIEN_ID": "RAA0XXXXXXX1154AAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/11/LEGIARTI000006581190.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1154",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1991-01-01",
+        "DATE_FIN": "1999-12-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre III : Accidents du travail et risques agricoles",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121394"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles",
+                "@debut": "1955-04-19",
+                "@fin": "2000-06-22",
+                "@id": "LEGISCTA000006138281"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 4 : Organisation administrative et financière.",
+                  "@debut": "1972-10-26",
+                  "@fin": "2000-06-22",
+                  "@id": "LEGISCTA000006152119"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-10-26",
+          "@etat": "MODIFIE",
+          "@fin": "1991-01-01",
+          "@id": "LEGIARTI000006581189",
+          "@num": "1154",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1999-12-30",
+          "@id": "LEGIARTI000006581190",
+          "@num": "1154",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-12-30",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006581191",
+          "@num": "1154",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La cotisation due à la caisse de mutualité sociale agricole par chaque employeur est assise, sur les rémunérations soumises à cotisations d'assurances sociales agricoles, qui sont perçues par ses ouvriers, employés ou assimilés bénéficiant du régime.<br/>\n<br/>   Cette cotisation est versée auprès de la caisse de mutualité sociale agricole.<br/>\n<br/>   Un décret en Conseil d'Etat précisera, en tant que de besoin, les conditions d'application du présent article.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L751-13",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 90-86 1990-01-23 art. 1 VI, VIII JORF 25 janvier 1990 en vigueur le 1er janvier 1991",
+        "@cidtexte": "JORFTEXT000000707200",
+        "@datesignatexte": "1990-01-23",
+        "@id": "JORFTEXT000000707200",
+        "@naturetexte": "LOI",
+        "@nortexte": "SPSX8900124L",
+        "@numtexte": "90-86",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code rural - art. L751-13 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006585756",
+        "@naturetexte": "CODE",
+        "@num": "L751-13",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

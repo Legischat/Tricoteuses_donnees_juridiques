@@ -1,0 +1,137 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006437349",
+      "ANCIEN_ID": "ACAXXXXXXXX5X01274AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/73/LEGIARTI000006437349.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1274",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1804-03-21",
+        "DATE_FIN": "2016-10-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : Des différentes manières dont on acquiert la propriété",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006090271"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre III : Des contrats ou des obligations conventionnelles en général",
+              "@debut": "1804-03-21",
+              "@fin": "2016-10-01",
+              "@id": "LEGISCTA000006118032"
+            },
+            {
+              "#text": "Titre III : Des sources d'obligations",
+              "@debut": "2016-10-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000032040794"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre V : De l'extinction des obligations.",
+                "@debut": "1804-03-21",
+                "@fin": "2016-10-01",
+                "@id": "LEGISCTA000006136348"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 2 : De la novation.",
+                  "@debut": "1804-03-21",
+                  "@fin": "2016-10-01",
+                  "@id": "LEGISCTA000006150259"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1804-03-21",
+          "@etat": "ABROGE",
+          "@fin": "2016-10-01",
+          "@id": "LEGIARTI000006437349",
+          "@num": "1274",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La novation par la substitution d'un nouveau débiteur peut s'opérer sans le concours du premier débiteur.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code civil - art. 1332 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000032042090",
+        "@naturetexte": "CODE",
+        "@num": "1332",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 1804-02-07",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1804-02-07 promulguée le 17 février 1804",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°2016-131 du 10 février 2016 - art. 2",
+        "@cidtexte": "JORFTEXT000032004939",
+        "@datesignatexte": "2016-02-10",
+        "@id": "LEGIARTI000032006591",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSC1522466R",
+        "@num": "2",
+        "@numtexte": "2016-131",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

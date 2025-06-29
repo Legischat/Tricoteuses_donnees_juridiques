@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006715890",
+      "ANCIEN_ID": "AFFADXXXXXX020AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/58/LEGIARTI000006715890.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "20",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1953-10-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-1744 du 6 août 1945 RELATIVE AUX MAGASINS GENERAUX",
+          "@c_titre_court": "Ordonnance n°45-1744 du 6 août 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000701432"
+        },
+        {
+          "#text": "Ordonnance n°45-1744 du 6 août 1945 relative aux magasins généraux",
+          "@c_titre_court": "Ordonnance n°45-1744 du 6 août 1945",
+          "@debut": "1945-08-07",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069159"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Récépissés, warrants.",
+            "@debut": "1945-08-07",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006104774"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000701432",
+      "@date_publi": "1945-08-07",
+      "@date_signature": "1945-08-06",
+      "@nature": "ORDONNANCE",
+      "@num": "45-1744"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1953-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006715890",
+          "@num": "20",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est délivré à chaque déposant un ou plusieurs récépissés. Ces récépissés énoncent les nom, profession et domicile du déposant ainsi que la nature de la marchandise déposée et les indications propres à en établir l'identité et à en déterminer la valeur [*mentions obligatoires - spécialisation du gage*].<br/>\n<br/>   Les marchandises fongibles déposées en magasin général et sur lesquelles il a été délivré un récépissé et un warrant peuvent être remplacées par des marchandises de même nature, de même espèce et de même qualité. La possibilité de cette substitution doit être mentionnée à la fois sur le récépissé et sur le warrant.<br/>\n<br/>   Les droits et privilèges du porteur du récépissé et du porteur du warrant sont reportés sur les marchandises substituées.<br/>\n<br/>   Il peut être délivré un récépissé et un warrant sur un lot de marchandises fongibles à prendre dans un lot plus important.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-1744 1945-08-06 JORF 7 août 1945 rectificatif JORF 9 août, 18 octobre 1945",
+        "@cidtexte": "JORFTEXT000000701432",
+        "@datesignatexte": "1945-08-06",
+        "@id": "JORFTEXT000000701432",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1744",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L522-24 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234033",
+        "@naturetexte": "CODE",
+        "@num": "L522-24",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de commerce. - art. L522-24 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234033",
+        "@naturetexte": "CODE",
+        "@num": "L522-24",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

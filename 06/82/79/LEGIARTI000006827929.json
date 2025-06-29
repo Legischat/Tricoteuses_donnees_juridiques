@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006827929",
+      "ANCIEN_ID": "UCIAGXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/79/LEGIARTI000006827929.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-03-19",
+        "DATE_FIN": "1988-04-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 mars 1976 relatif à l'isolation thermique des bâtiments autres que les bâtiments d'habitation",
+          "@c_titre_court": "Arrêté du 12 mars 1976",
+          "@debut": "1976-03-19",
+          "@fin": "1988-04-15",
+          "@id_txt": "LEGITEXT000006074105"
+        }
+      ],
+      "@cid": "LEGITEXT000006074105",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1976-03-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-03-19",
+          "@etat": "ABROGE",
+          "@fin": "1988-04-15",
+          "@id": "LEGIARTI000006827929",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "[*Arrêté abrogé une seconde fois par les arrêtés du 6 mai 1988 articles 42 et 43 JORF du 8 mai 1988)*].<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Le coefficient G1 [*volumique de déperditions thermiques*] d'un bâtiment ou d'une partie de bâtiment chauffé, auquel s'applique le présent arrêté, ne doit pas dépasser la valeur donnée par la formule [*calcul*] :<br/>\n<br/>       a(S1/V) + b(S2/V) + c(P/V) + d(S3/V) + e            dans laquelle S1 et S2 sont les surfaces des parois opaques en contact avec l'extérieur ou les locaux non chauffés, y compris celles sous combles et sur vide sanitaire mais non compris celles sur terre-plein et enterrées. S1 correspond aux parois verticales ou faisant avec le plan horizontal un angle supérieur à 60 degrés. S2 correspond aux parois horizontales ou faisant partie avec le plan horizontal un angle inférieur ou égal à 60 degrés ; P est le pourtour extérieur des locaux chauffés sur terre-plein ou enterrés ; S3 est la surface des parois transparentes ou translucides en contact avec l'extérieur ou les locaux non chauffés ; V est le volume intérieur ; a, b, c, d et e sont les coefficients dont les valeurs sont données dans le tableau ci-après en fonction de la catégorie du bâtiment ou de la partie de bâtiment considéré et de la zone climatique où ce bâtiment est construit :<br/>\n<br/>                    CATEGORIES DE BATIMENT                   I1                     I2              (bâtiments hospitaliers)  (autres bâtiments) Zone climatique    A      B     C       A     B    C Valeur de a ...    1,05   1,15  1,35   1,15  1,35  1,55 Valeur de b ...    0,50   0,60  0,80   0,60  0,80  1,00 Valeur de c ...    1,50   1,50  1,75   1,50  1,75  1,75 Valeur de d ...    1,60   2,30  3,00   3,10  3,90  4,70 Valeur de e ...    0,12   0,12  0,12   0,15  0,15  0,15        Une paroi est dite transparente ou translucide si son facteur de transmission lumineuse est égal ou supérieur à 0,2. Dans le cas contraire, elle est dite opaque.<br/>\n<br/>       S1, S2 et P sont comptés de l'intérieur des locaux. S3 est compté \"en tableau\", c'est-à-dire menuiserie comprise. P est exprimé en mètres. S1, S2 et S3 en mètres carrés et V en mètres cubes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-04-13 art. 43 JORF 15 avril 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 76-246 1976-03-12 art. 2",
+        "@cidtexte": "JORFTEXT000000505873",
+        "@datesignatexte": "1976-03-12",
+        "@id": "JORFTEXT000000505873",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-246",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation. - art. R*111-21 (M)",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006896363",
+        "@naturetexte": "CODE",
+        "@num": "R*111-21",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

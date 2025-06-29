@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006624330",
+      "ANCIEN_ID": "RHEAGXXXXXX009AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/43/LEGIARTI000006624330.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-07-09",
+        "DATE_FIN": "2010-05-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 1 mars 1888 AYANT POUR OBJET D'INTERDIRE LA PECHE AUX ETRANGERS DANS LES EAUX TERRITORIALES DE FRANCE ET D'ALGERIE",
+          "@c_titre_court": "Loi du 1 mars 1888",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000314386"
+        },
+        {
+          "#text": "Loi du 1er mars 1888 relative à l'exercice de la pêche dans les eaux sous souveraineté ou juridiction française s'étendant au large des côtes des territoires d'outre-mer",
+          "@c_titre_court": "Loi du 1er mars 1888",
+          "@debut": "1996-07-09",
+          "@fin": "2010-05-08",
+          "@id_txt": "LEGITEXT000006071741"
+        }
+      ],
+      "@cid": "JORFTEXT000000314386",
+      "@date_publi": "1888-03-02",
+      "@date_signature": "1888-03-01",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1888-03-02",
+          "@etat": "ABROGE",
+          "@fin": "1985-05-24",
+          "@id": "LEGIARTI000006624329",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-09",
+          "@etat": "ABROGE",
+          "@fin": "2010-05-08",
+          "@id": "LEGIARTI000006624330",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les procès-verbaux des officiers ou agents chargés de constater les contraventions, comme il est dit à l'article 5, font foi jusqu'à inscription de faux.<br/>\n<br/>   A défaut de procès-verbaux, la contravention peut être prouvée par témoins.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°96-609 du 5 juillet 1996 - art. 1 () JORF 9 juillet 1996",
+        "@cidtexte": "JORFTEXT000000377215",
+        "@datesignatexte": "1996-07-05",
+        "@id": "LEGIARTI000006302126",
+        "@naturetexte": "LOI",
+        "@nortexte": "DOMX9400139L",
+        "@num": "1",
+        "@numtexte": "96-609",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2010-462 du 6 mai 2010 - art. 4",
+        "@cidtexte": "JORFTEXT000022176680",
+        "@datesignatexte": "2010-05-06",
+        "@id": "LEGIARTI000022195076",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRS1007353R",
+        "@num": "4",
+        "@numtexte": "2010-462",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

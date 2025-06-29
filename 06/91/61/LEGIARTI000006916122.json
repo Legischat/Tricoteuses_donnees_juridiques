@@ -1,0 +1,128 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006916122",
+      "ANCIEN_ID": "AKFAGXXXXXX011AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/61/LEGIARTI000006916122.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-07-11",
+        "DATE_FIN": "2022-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance du Roi du 26 juin 1816, qui établit, en exécution de la loi du 28 avril 1816, des commissaires-priseurs dans les villes chefs-lieux d'arrondissement, ou qui sont le siège d'un tribunal de première instance, et dans celles qui, n'ayant ni sous-préfecture, ni tribunal, renferment une population de cinq mille âmes et au-dessus.",
+          "@c_titre_court": "Ordonnance du 26 juin 1816",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878069"
+        },
+        {
+          "#text": "Ordonnance du 26 juin 1816 qui établit, en exécution de la loi du 28 avril 1816, des commissaires-priseurs judiciaires dans les villes chefs-lieux d'arrondissement, ou qui sont le siège d'un tribunal de grande instance, et dans celles qui, n'ayant ni sous-préfecture ni tribunal, renferment une population de cinq mille âmes et au-dessus",
+          "@c_titre_court": "Ordonnance du 26 juin 1816",
+          "@debut": "2000-07-11",
+          "@fin": "2022-07-01",
+          "@id_txt": "LEGITEXT000006075136"
+        }
+      ],
+      "@cid": "JORFTEXT000000878069",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1816-06-26",
+      "@nature": "ORDONNANCE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1822-08-06",
+          "@etat": "MODIFIE",
+          "@fin": "1992-03-01",
+          "@id": "LEGIARTI000006916120",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-03-01",
+          "@etat": "MODIFIE",
+          "@fin": "2000-07-11",
+          "@id": "LEGIARTI000006916121",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-07-11",
+          "@etat": "ABROGE",
+          "@fin": "2022-07-01",
+          "@id": "LEGIARTI000006916122",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les fonctions de commissaire-priseur judiciaire sont incompatibles avec celles des autres officiers publics et ministériels. Toutefois, les commissaires-priseurs judiciaires qui, avant la date d'entrée en vigueur du décret n° 92-194 du 27 février 1992, exerçaient en outre les activités d'huissier de justice sont autorisés à poursuivre ces activités.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°92-194 du 27 février 1992",
+        "@cidtexte": "JORFTEXT000000712639",
+        "@datesignatexte": "1992-02-27",
+        "@id": "JORFTEXT000000712639",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC9220095D",
+        "@numtexte": "92-194",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1816-04-28",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°2000-642 du 10 juillet 2000 - art. 65 () JORF 11 juillet 2000",
+        "@cidtexte": "JORFTEXT000000751735",
+        "@datesignatexte": "2000-07-10",
+        "@id": "LEGIARTI000006478181",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9800056L",
+        "@num": "65",
+        "@numtexte": "2000-642",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2016-728 du 2 juin 2016 - art. 24",
+        "@cidtexte": "JORFTEXT000032623732",
+        "@datesignatexte": "2016-06-02",
+        "@id": "LEGIARTI000032624475",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSC1611688R",
+        "@num": "24",
+        "@numtexte": "2016-728",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

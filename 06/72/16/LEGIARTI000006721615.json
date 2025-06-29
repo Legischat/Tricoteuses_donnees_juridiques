@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721615",
+      "ANCIEN_ID": "SPIV5XXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/16/LEGIARTI000006721615.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-05-18",
+        "DATE_FIN": "1989-11-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 avril 1973 relatif au certificat de capacité d'ambulancier.",
+          "@c_titre_court": "Arrêté du 26 avril 1973",
+          "@debut": "1973-05-18",
+          "@fin": "1989-11-03",
+          "@id_txt": "LEGITEXT000006073105"
+        }
+      ],
+      "@cid": "LEGITEXT000006073105",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1973-04-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-05-18",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-03",
+          "@id": "LEGIARTI000006721615",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le chef du service régional de l'action sanitaire et sociale délivre le certificat de capacité d'ambulancier aux candidats déclarés reçus à l'examen.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1989-03-21 art. 20 JORF 3 mai 1989 en vigueur le 3 novembre 1989",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 73-384 1973-03-27",
+        "@cidtexte": "JORFTEXT000000858207",
+        "@datesignatexte": "1973-03-27",
+        "@id": "JORFTEXT000000858207",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-384",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

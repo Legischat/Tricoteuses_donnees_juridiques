@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006447315",
+      "ANCIEN_ID": "PEIJDXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/73/LEGIARTI000006447315.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-10-01",
+        "DATE_FIN": "1991-07-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 juin 1988 PORTANT FIXATION DU MONTANT DES ALLOCATIONS DE RECHERCHE",
+          "@c_titre_court": "Arrêté du 21 juin 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000498972"
+        },
+        {
+          "#text": "Arrêté du 21 juin 1988 portant fixation du montant des allocations de recherche",
+          "@c_titre_court": "Arrêté du 21 juin 1988",
+          "@debut": "1988-10-01",
+          "@fin": "1991-07-20",
+          "@id_txt": "LEGITEXT000006058431"
+        }
+      ],
+      "@cid": "JORFTEXT000000498972",
+      "@date_publi": "1988-06-30",
+      "@date_signature": "1988-06-21",
+      "@nature": "ARRETE",
+      "@nor": "RESY8800725A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-10-01",
+          "@etat": "ABROGE",
+          "@fin": "1991-07-20",
+          "@id": "LEGIARTI000006447315",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 15 janvier 1988 portant fixation du montant des allocations de recherche est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-01-15 abrogé",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1991-07-08 art. 2 JORF 20 juillet 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 85-402 1985-04-03",
+        "@cidtexte": "JORFTEXT000000334682",
+        "@datesignatexte": "1985-04-03",
+        "@id": "JORFTEXT000000334682",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-402",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

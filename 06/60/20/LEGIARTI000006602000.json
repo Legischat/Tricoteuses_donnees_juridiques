@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602000",
+      "ANCIEN_ID": "RAHBEXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/20/LEGIARTI000006602000.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-07-30",
+        "DATE_FIN": "1981-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°63-752 du 27 juillet 1963 PORTANT REFORME DU REGIME FINANCIER ET COMPTABLE DES CHAMBRES D'AGRICULTURE",
+          "@c_titre_court": "Décret n°63-752 du 27 juillet 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000490858"
+        },
+        {
+          "#text": "Décret n°63-752 du 27 juillet 1963 portant réforme du régime financier et comptable des chambres d'agriculture",
+          "@c_titre_court": "Décret n°63-752 du 27 juillet 1963",
+          "@debut": "1963-07-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061146"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Services généraux.",
+            "@debut": "1963-07-30",
+            "@fin": "1981-03-27",
+            "@id": "LEGISCTA000006098491"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000490858",
+      "@date_publi": "1963-07-30",
+      "@date_signature": "1963-07-27",
+      "@nature": "DECRET",
+      "@num": "63-752"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-30",
+          "@etat": "ABROGE",
+          "@fin": "1981-03-27",
+          "@id": "LEGIARTI000006602000",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le président et l'agent comptable rendent compte de leur gestion dans un document commun, le compte financier, qui constate les résultats du budget de la chambre d'agriculture et décrit l'évolution du patrimoine.<br/>\n<br/>   Le compte financier établi par l'agent comptable dans les conditions prévues par le décret n° 62-1587 du 29 décembre 1962 et visé par le président est soumis par ce dernier à la chambre d'agriculture, qui en délibère.<br/>\n<br/>   Il est transmis, pour approbation, au ministre de l'agriculture par les soins du président avant le 1er juillet de l'année qui suit la clôture de l'exercice.<br/>\n<br/>   L'agent comptable le remet après son adoption par la chambre d'agriculture au trésorier-payeur général, qui, après l'avoir mis en état d'examen, le transmet à la Cour des comptes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural nouveau livre V",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 62-1587 1962-12-29",
+        "@cidtexte": "JORFTEXT000000299367",
+        "@datesignatexte": "1962-12-29",
+        "@id": "JORFTEXT000000299367",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1587",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°63-752 du 27 juillet 1963 - art. 21 (Ab)",
+        "@cidtexte": "JORFTEXT000000490858",
+        "@datesignatexte": "1963-07-27",
+        "@id": "LEGIARTI000006602013",
+        "@naturetexte": "DECRET",
+        "@num": "21",
+        "@numtexte": "63-752",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-277 1981-03-18 art. 2 JORF 27 mars 1981",
+        "@cidtexte": "JORFTEXT000000685109",
+        "@datesignatexte": "1981-03-18",
+        "@id": "JORFTEXT000000685109",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-277",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

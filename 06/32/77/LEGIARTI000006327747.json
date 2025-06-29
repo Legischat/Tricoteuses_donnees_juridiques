@@ -1,0 +1,75 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327747",
+      "ANCIEN_ID": "FAINHXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/77/LEGIARTI000006327747.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-09-01",
+        "DATE_FIN": "1987-01-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 août 1985 du 29 août 1985 portant fixation du prix de revente de l'alcool de betterave acheté par l'Etat",
+          "@c_titre_court": "Arrêté du 29 août 1985",
+          "@debut": "1985-09-01",
+          "@fin": "1987-01-27",
+          "@id_txt": "LEGITEXT000006069914"
+        }
+      ],
+      "@cid": "LEGITEXT000006069914",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-08-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-09-01",
+          "@etat": "ABROGE",
+          "@fin": "1987-01-27",
+          "@id": "LEGIARTI000006327747",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "L'alcool de betterave est vendu par l'Etat aux revendeurs à un prix situé dans une fourchette :<br/>\n    - de 270 F à 300 F l'hectolitre pour l'alcool brut ;<br/>\n    - de 365 F à 405 F l'hectolitre pour l'alcool neutre.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-08-29 JORF 31 août 1985 en vigueur le 1er septembre 1985) A(Arrêté 1987-01-19 art. 2 JORF 27 janvier 1987",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°85-695 du 11 juillet 1985 - art. 19, v. init.",
+        "@cidtexte": "JORFTEXT000000693456",
+        "@datesignatexte": "1985-07-11",
+        "@id": "JORFARTI000002104820",
+        "@naturetexte": "LOI",
+        "@num": "19",
+        "@numtexte": "85-695",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

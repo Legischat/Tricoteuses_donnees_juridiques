@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006671767",
+      "ANCIEN_ID": "SFHBPXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/17/LEGIARTI000006671767.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-07-12",
+        "DATE_FIN": "1985-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-701 du 9 juillet 1985 RELATIF A LA COTISATION PROFESSIONNELLE DESTINEE AUX FORMATIONS INITIALES DANS LES METIERS DU BATIMENT ET DES TRAVAUX PUBLICS",
+          "@c_titre_court": "Décret n°85-701 du 9 juillet 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000322690"
+        },
+        {
+          "#text": "Décret n°85-701 du 9 juillet 1985 relatif à la cotisation professionnelle destinée aux formations initiales dans les métiers du bâtiment et des travaux publics",
+          "@c_titre_court": "Décret n°85-701 du 9 juillet 1985",
+          "@debut": "1985-07-12",
+          "@fin": "1985-12-31",
+          "@id_txt": "LEGITEXT000006065074"
+        }
+      ],
+      "@cid": "JORFTEXT000000322690",
+      "@date_publi": "1985-07-12",
+      "@date_signature": "1985-07-09",
+      "@nature": "DECRET",
+      "@num": "85-701"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-12",
+          "@etat": "PERIME",
+          "@fin": "1985-12-31",
+          "@id": "LEGIARTI000006671767",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>La cotisation est assise sur le total des salaires bruts retenus pour les cotisations de sécurité sociale ainsi que les cotisations prévues à l'article D. 732-5 du code du travail.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-701 1985-07-09 art. 10 : dispositions non applicables dans le Bas-Rhin, Haut-Rhin, Moselle ainsi que dans les DOM",
+        "@cidtexte": "JORFTEXT000000322690",
+        "@datesignatexte": "1985-07-09",
+        "@id": "JORFTEXT000000322690",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-701",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code du travail - art. D732-5 (V)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006645015",
+        "@naturetexte": "CODE",
+        "@num": "D732-5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

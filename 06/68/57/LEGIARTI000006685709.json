@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006685709",
+      "ANCIEN_ID": "SNAXXXXXXXX5X067000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/57/LEGIARTI000006685709.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "67",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-06-30",
+        "DATE_FIN": "1995-09-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de déontologie des médecins",
+          "@c_titre_court": "Code de déontologie des médecins",
+          "@debut": "1979-06-30",
+          "@fin": "1995-09-08",
+          "@id_txt": "LEGITEXT000006072664"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 4 : Règles particulières à certains modes d'exercice",
+            "@debut": "1979-06-30",
+            "@fin": "1995-09-08",
+            "@id": "LEGISCTA000006103416"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Exercice en clientèle privée",
+              "@debut": "1979-06-30",
+              "@fin": "1995-09-08",
+              "@id": "LEGISCTA000006125340"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072664",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-06-30",
+          "@etat": "ABROGE",
+          "@fin": "1995-09-08",
+          "@id": "LEGIARTI000006685709",
+          "@num": "67",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les seules indications qu'un médecin est autorisé à mentionner sur ses feuilles d'ordonnance ou dans un annuaire professionnel sont :<br/>\n    1° Ses nom, prénoms, adresse, numéro de téléphone, heures de consultations ;<br/>\n    2° Si le médecin exerce en association, les noms des médecins associés ;<br/>\n    3° Sa situation vis-à-vis des organismes d'assurance maladie ;<br/>\n    4° La qualification qui lui aura été reconnue dans les conditions déterminées par l'ordre national des médecins avec l'approbation du ministre chargé de la santé ;<br/>\n    5° Ses titres et fonctions lorsqu'ils ont été reconnus par le conseil national de l'ordre ;<br/>\n    6° Ses distinctions honorifiques reconnues par la République française.<br/>\n    Les décisions prises pour l'application du 5° peuvent être déférées au ministre de la santé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-506 1979-06-28 JORF 30 juin 1979",
+        "@cidtexte": "JORFTEXT000000703112",
+        "@datesignatexte": "1979-06-28",
+        "@id": "JORFTEXT000000703112",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-506",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 95-1000 1995-09-06 art. 113 JORF 8 septembre 1995",
+        "@cidtexte": "JORFTEXT000000555170",
+        "@datesignatexte": "1995-09-06",
+        "@id": "JORFTEXT000000555170",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9502310D",
+        "@numtexte": "95-1000",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

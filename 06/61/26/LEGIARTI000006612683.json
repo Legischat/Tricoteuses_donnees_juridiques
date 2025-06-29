@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006612683",
+      "ANCIEN_ID": "RBAXXXXXXXX2X311R08AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/26/LEGIARTI000006612683.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R*311-8",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-02-07",
+        "DATE_FIN": "1997-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099186"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre III : Conservation et police des bois et forêts en général.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121952"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre Ier : Défrichements.",
+                "@debut": "1979-02-07",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138725"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Bois des particuliers.",
+                  "@debut": "1979-02-07",
+                  "@fin": "2003-01-05",
+                  "@id": "LEGISCTA000006152928"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "1997-12-21",
+          "@id": "LEGIARTI000006612683",
+          "@num": "R*311-8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-12-21",
+          "@etat": "ABROGE",
+          "@fin": "2003-01-05",
+          "@id": "LEGIARTI000006612684",
+          "@num": "R*311-8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque l'autorisation est accordée, le droit de défricher ne peut être exercé que pendant dix ans à compter de cette autorisation.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-114 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880704",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880704",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-114",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code forestier 157 al. 6",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071514",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

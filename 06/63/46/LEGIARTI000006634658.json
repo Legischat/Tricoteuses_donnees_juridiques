@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006634658",
+      "ANCIEN_ID": "ADIVZXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/46/LEGIARTI000006634658.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-03-30",
+        "DATE_FIN": "1990-06-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 mars 1985 relatif à la publicité des prix de certains services",
+          "@c_titre_court": "Arrêté du 29 mars 1985",
+          "@debut": "1985-03-30",
+          "@fin": "1990-06-10",
+          "@id_txt": "LEGITEXT000006071911"
+        }
+      ],
+      "@cid": "LEGITEXT000006071911",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-03-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-30",
+          "@etat": "ABROGE",
+          "@fin": "1990-06-10",
+          "@id": "LEGIARTI000006634658",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les dispositions du présent arrêté s'appliquent :</p>\n<p>a) Aux prestations d'entretien, de dépannage, de réparation énumérées à l'annexe du présent arrêté, dès lors qu'elles sont effectuées dans les locaux d'habitation, dans les locaux mixtes d'habitation et d'activité professionnelle, commerciale ou agricole, y compris dans les annexes et parties communes ;</p>\n<p>b) Aux prestations d'entretien, de dépannage, de réparation, portant sur des équipements électroménagers, appareils de radio-télévision, d'enregistrement et de reproduction du son et de l'image, quel que soit le lieu d'exécution ;</p>\n<p>c) Aux opérations courantes de raccordement effectuées en vue de l'installation d'un appareil ménager.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 26/A 1985-03-29 BOCC n° 5, 30 mars 1985",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 85-81/A 1985-12-30 art. 1 et art. 2",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 2 mars 1990, v. init.",
+        "@cidtexte": "JORFTEXT000000158562",
+        "@datesignatexte": "1990-03-02",
+        "@id": "JORFTEXT000000158562",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC9000034A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

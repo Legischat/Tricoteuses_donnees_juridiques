@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006718277",
+      "ANCIEN_ID": "SPIHRXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/82/LEGIARTI000006718277.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1965-08-12",
+        "DATE_FIN": "1984-08-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 juillet 1965 relatif à la vaccination obligatoire selon les dispositions de l'article L. 10 du code de la santé publique",
+          "@c_titre_court": "Arrêté du 28 juillet 1965",
+          "@debut": "1965-08-12",
+          "@fin": "1984-08-29",
+          "@id_txt": "LEGITEXT000006072869"
+        }
+      ],
+      "@cid": "LEGITEXT000006072869",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1965-07-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-08-12",
+          "@etat": "ABROGE",
+          "@fin": "1984-08-29",
+          "@id": "LEGIARTI000006718277",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La preuve de l'immunisation est constituée obligatoirement, sauf dans le cas prévu à l'article 14 ci-après, par attestation médicale dûment certifiée.<br/>\n<br/>   Cette attestation doit comporter l'indication de la nature du vaccin utilisé, des dates et des doses des injections vaccinales ou, le cas échéant, pour la vaccination antipoliomyélitique, des prises orales et, pour la vaccination antivariolique, la mention du résultat constaté.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1965-07-28 art. 14",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1984-08-17 art. 1 JONC 29 août 1984",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L10 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692166",
+        "@naturetexte": "CODE",
+        "@num": "L10",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

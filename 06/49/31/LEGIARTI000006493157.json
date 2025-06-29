@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006493157",
+      "ANCIEN_ID": "PJED9XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/31/LEGIARTI000006493157.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1971-01-01",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 70-1321 du 31 décembre 1970 relative aux actes de disposition afférents à certains biens ayant appartenu à des contumax",
+          "@c_titre_court": "LOI n° 70-1321 du 31 décembre 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693657"
+        },
+        {
+          "#text": "Loi n° 70-1321 du 31 décembre 1970 relative aux actes de dispositions afférents à certains biens ayant appartenu à des contumax (1).",
+          "@c_titre_court": "Loi n° 70-1321 du 31 décembre 1970",
+          "@debut": "1971-01-01",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068357"
+        }
+      ],
+      "@cid": "JORFTEXT000000693657",
+      "@date_publi": "1971-01-03",
+      "@date_signature": "1970-12-31",
+      "@nature": "LOI",
+      "@num": "70-1321"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006493157",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les ventes faites par l'Etat, avant l'entrée en vigueur de l'article 639 du Code de procédure pénale, d'immeubles confisqués en vertu d'une condamnation prononcée par contumace, dont la résolution a été, avant la publication de la présente loi, judiciairement constatée en raison de la représentation du contumax, sont validées sous la seule condition que les acquéreurs ou leurs ayants droit occupent encore matériellement les lieux.<br/>\n<br/>   La résolution est, dans ce cas, réputée n'avoir jamais produit effet.<br/>\n<br/>   Les dispositions des alinéas précédents ne s'appliquent pas lorsque les droits respectifs des parties sur l'immeuble ont été réglés par un accord conclu entre l'acquéreur ou ses ayants droit et l'ancien contumax.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 70-1321 du 31 décembre 1970 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000693657",
+        "@datesignatexte": "1970-12-31",
+        "@id": "LEGIARTI000006493159",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "70-1321",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de procédure pénale - art. 639",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006577140",
+        "@naturetexte": "CODE",
+        "@num": "639",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

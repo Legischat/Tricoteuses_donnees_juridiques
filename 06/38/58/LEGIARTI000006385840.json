@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006385840",
+      "ANCIEN_ID": "MTEBHXXXXXX023AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/58/LEGIARTI000006385840.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-07-01",
+        "DATE_FIN": "2008-08-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 93-1 du 4 janvier 1993 portant dispositions diverses relatives aux départements d'outre-mer, aux territoires d'outre-mer et aux collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon (1)",
+          "@c_titre_court": "Loi n° 93-1 du 4 janvier 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000726939"
+        },
+        {
+          "#text": "Loi n° 93-1 du 4 janvier 1993 portant dispositions diverses relatives aux départements d'outre-mer, aux territoires d'outre-mer et aux collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon (1)",
+          "@c_titre_court": "Loi n° 93-1 du 4 janvier 1993",
+          "@debut": "1993-01-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006080749"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions applicables dans le territoire de la Polynésie française",
+            "@debut": "1993-07-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006087754"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000726939",
+      "@date_publi": "1993-01-04",
+      "@date_signature": "1993-01-04",
+      "@nature": "LOI",
+      "@nor": "DOMX9200114L",
+      "@num": "93-1"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-07-01",
+          "@etat": "ABROGE",
+          "@fin": "2008-08-30",
+          "@id": "LEGIARTI000006385840",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'application de la loi du 29 décembre 1892 précitée et conformément à la loi n° 84-820 du 6 septembre 1984 portant statut du territoire de la Polynésie française, il y a lieu de lire :<br/>\n<br/>   I. - \" territoire \" au lieu de \" département \" ;<br/>\n<br/>   II. - 1° Lorsque les travaux sont exécutés pour le compte du territoire :<br/>\n<br/>   - \" arrêté de l'autorité territoriale compétente \" au lieu de \" arrêté préfectoral \" ;<br/>\n<br/>   - \" l'autorité territoriale compétente \" au lieu de \" le préfet \".<br/>\n<br/>   2° Lorsque les travaux sont exécutés pour le compte de l'Etat ou des communes :<br/>\n<br/>   - \" arrêté du haut-commissaire \" au lieu de \" arrêté préfectoral \" ;<br/>\n<br/>   - \" haut-commissaire \" au lieu de \" préfet \".<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1892-12-29",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°84-820 du 6 septembre 1984",
+        "@cidtexte": "JORFTEXT000000320666",
+        "@datesignatexte": "1984-09-06",
+        "@id": "JORFTEXT000000320666",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-820",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 93-1 1993-01-04 art. 66 IV",
+        "@cidtexte": "JORFTEXT000000726939",
+        "@datesignatexte": "1993-01-04",
+        "@id": "JORFTEXT000000726939",
+        "@naturetexte": "LOI",
+        "@nortexte": "DOMX9200114L",
+        "@numtexte": "93-1",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi 93-1 1993-01-04 jorf 5 janvier 1993 en        vigueur le 1er juillet 1993",
+        "@cidtexte": "JORFTEXT000000726939",
+        "@datesignatexte": "1993-01-04",
+        "@id": "JORFTEXT000000726939",
+        "@naturetexte": "LOI",
+        "@nortexte": "DOMX9200114L",
+        "@numtexte": "93-1",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2008-858\n du 28 août 2008 - art. 3",
+        "@cidtexte": "JORFTEXT000019386482",
+        "@datesignatexte": "2008-08-28",
+        "@id": "LEGIARTI000019387514",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "IOCX0818057R",
+        "@num": "3",
+        "@numtexte": "2008-858",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006702699",
+      "ANCIEN_ID": "SPHCPXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/26/LEGIARTI000006702699.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-01-01",
+        "DATE_FIN": "1999-07-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°84-131 du 24 février 1984 PORTANT STATUT DES PRATICIENS HOSPITALIERS",
+          "@c_titre_court": "Décret n°84-131 du 24 février 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868588"
+        },
+        {
+          "#text": "Décret n°84-131 du 24 février 1984 portant statut des praticiens hospitaliers",
+          "@c_titre_court": "Décret n°84-131 du 24 février 1984",
+          "@debut": "1985-01-01",
+          "@fin": "2005-07-26",
+          "@id_txt": "LEGITEXT000006064372"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1er : Dispositions générales",
+            "@debut": "1985-01-01",
+            "@fin": "2005-07-26",
+            "@id": "LEGISCTA000006103927"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000868588",
+      "@date_publi": "1984-02-25",
+      "@date_signature": "1984-02-24",
+      "@nature": "DECRET",
+      "@num": "84-131"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1999-07-08",
+          "@id": "LEGIARTI000006702699",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-07-08",
+          "@etat": "MODIFIE",
+          "@fin": "2003-09-09",
+          "@id": "LEGIARTI000006702700",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-09-09",
+          "@etat": "ABROGE",
+          "@fin": "2005-07-26",
+          "@id": "LEGIARTI000006702701",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les praticiens hospitaliers sont nommés à titre permanent et exercent leurs fonctions à temps plein. Ils assurent les actes médicaux de diagnostic, de traitement, de soins d'urgence dispensés par le service public hospitalier, tels qu'ils sont définis au 1er alinéa de l'article 2 de la loi du 31 décembre 1970 susvisée.<br/>\n<br/>   Ils peuvent participer aux actions d'enseignement, de prévention et de recherche définies au 2e alinéa du même article.<br/>\n<br/>   Ils participent aux tâches de gestion qu'impliquent leurs fonctions.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 70-1318 1970-12-31 art. 2",
+        "@cidtexte": "JORFTEXT000000874228",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000874228",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1318",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. R6152-2 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006918109",
+        "@naturetexte": "CODE",
+        "@num": "R6152-2",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

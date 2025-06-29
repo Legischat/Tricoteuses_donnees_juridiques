@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273279",
+      "ANCIEN_ID": "AAEAUXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/32/LEGIARTI000006273279.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-12-31",
+        "DATE_FIN": "1988-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°79-12 du 3 janvier 1979 RELATIVE AUX SOCIETES D'INVESTISSEMENT A CAPITAL VARIABLE (SICAV)",
+          "@c_titre_court": "Loi n°79-12 du 3 janvier 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339250"
+        },
+        {
+          "#text": "Loi n° 79-12 du 3 janvier 1979 relative aux sociétés d'investissement à capital variable",
+          "@c_titre_court": "Loi n° 79-12 du 3 janvier 1979",
+          "@debut": "1979-01-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068659"
+        }
+      ],
+      "@cid": "JORFTEXT000000339250",
+      "@date_publi": "1979-01-04",
+      "@date_signature": "1979-01-03",
+      "@nature": "LOI",
+      "@num": "79-12"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-04-25",
+          "@etat": "MODIFIE",
+          "@fin": "1981-12-31",
+          "@id": "LEGIARTI000006273278",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-12-31",
+          "@etat": "ABROGE",
+          "@fin": "1988-12-31",
+          "@id": "LEGIARTI000006273279",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001884368",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sociétés d'investissement à capital variable dites \"SICAV\" sont des sociétés anonymes qui ont pour objet la gestion d'un portefeuille de valeurs mobilières. Le montant du capital est égal à tout moment à la valeur de l'actif net de la société, déduction faite des sommes distribuables définies à l'article 9 ci-après. Il peut être émis des actions nouvelles sans droit préférentiel des actionnaires.<br/>\n<br/>   Le capital initial d'une SICAV ne peut être inférieur à un montant fixé par décret.<br/>\n<br/>   Les statuts déterminent les limites minimale et maximale, du montant du capital, hors desquelles il ne peut être procédé à l'émission ou au rachat d'actions.<br/>\n<br/>   Dans tous les documents émanant d'une société d'investissement à capital variable doit figurer la mention \"Société d'investissement à capital variable\" accompagnée ou non du terme \"S.I.C.A.V.\".<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°79-12 du 3 janvier 1979 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000000339250",
+        "@datesignatexte": "1979-01-03",
+        "@id": "LEGIARTI000006290613",
+        "@naturetexte": "LOI",
+        "@num": "9",
+        "@numtexte": "79-12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 81-1162 1981-12-30 : mise en harmonie du droit des sociétés commerciales avec la deuxième directive adoptée par le conseil des communautés européennes",
+        "@cidtexte": "JORFTEXT000000888624",
+        "@datesignatexte": "1981-12-30",
+        "@id": "JORFTEXT000000888624",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-1162",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°88-1201 du 23 décembre 1988 - art. 44 () JORF 31 décembre 1988",
+        "@cidtexte": "JORFTEXT000000509065",
+        "@datesignatexte": "1988-12-23",
+        "@id": "LEGIARTI000006275532",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8800123L",
+        "@num": "44",
+        "@numtexte": "88-1201",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

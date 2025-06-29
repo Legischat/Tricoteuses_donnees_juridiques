@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006482491",
+      "ANCIEN_ID": "ACHBUXXXXXX041AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/24/LEGIARTI000006482491.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "41",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-10-01",
+        "DATE_FIN": "1981-05-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°80-354 du 14 mai 1980 RELATIF A L'ARBITRAGE ET DESTINE A S'INTEGRER DANS LE NOUVEAU CODE DE PROCEDURE CIVILE",
+          "@c_titre_court": "Décret n°80-354 du 14 mai 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518652"
+        },
+        {
+          "#text": "Décret n°80-354 du 14 mai 1980 relatif à l'arbitrage et destiné à s'intégrer dans le nouveau code de procédure civile",
+          "@c_titre_court": "Décret n°80-354 du 14 mai 1980",
+          "@debut": "1980-10-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006063243"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Première partie : L'arbitrage",
+            "@debut": "1980-10-01",
+            "@fin": "1981-05-14",
+            "@id": "LEGISCTA000006093460"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre IV : Les voies de recours.",
+              "@debut": "1980-10-01",
+              "@fin": "1981-05-14",
+              "@id": "LEGISCTA000006119130"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000518652",
+      "@date_publi": "1980-05-18",
+      "@date_signature": "1980-05-14",
+      "@nature": "DECRET",
+      "@num": "80-354"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-10-01",
+          "@etat": "ABROGE",
+          "@fin": "1981-05-14",
+          "@id": "LEGIARTI000006482491",
+          "@num": "41",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La sentence arbitrale n'est pas susceptible d'opposition ni de pourvoi en cassation.<br/>\n<br/>   Elle peut être frappée de tierce opposition devant la juridiction qui eût été compétente à défaut d'arbitrage, sous réserve des dispositions de l'article 588 (alinéa 1) du nouveau code de procédure civile.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 81-500 1981-05-12 JORF 14 mai 1981 rectificatif JORF 21 mai 1981",
+        "@cidtexte": "JORFTEXT000000329213",
+        "@datesignatexte": "1981-05-12",
+        "@id": "JORFTEXT000000329213",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-500",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Nouveau code de procédure civile - art. 1481 (V)",
+        "@cidtexte": "LEGITEXT000006070716",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006412677",
+        "@naturetexte": "CODE",
+        "@num": "1481",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de procédure civile 1481",
+        "@cidtexte": "LEGITEXT000006070680",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070680",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code de procédure civile 588",
+        "@cidtexte": "LEGITEXT000006070680",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070680",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

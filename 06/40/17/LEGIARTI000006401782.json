@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006401782",
+      "ANCIEN_ID": "ABEACXXXXXX237AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/17/LEGIARTI000006401782.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "237",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-01-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°85-98 du 25 janvier 1985 RELATIVE AU REDRESSEMENT ET A LA LIQUIDATION JUDICIAIRE DES ENTREPRISES",
+          "@c_titre_court": "Loi n°85-98 du 25 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693911"
+        },
+        {
+          "#text": "Loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises",
+          "@c_titre_court": "Loi n° 85-98 du 25 janvier 1985",
+          "@debut": "1985-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068923"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VIII : Dispositions diverses.",
+            "@debut": "1985-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006088259"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000693911",
+      "@date_publi": "1985-01-26",
+      "@date_signature": "1985-01-25",
+      "@nature": "LOI",
+      "@num": "85-98"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006401782",
+          "@num": "237",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Par exception aux dispositions de l'article 33 de la loi n° 81-1162 du 30 décembre 1981, relative à la mise en harmonie du droit des sociétés commerciales avec la deuxième directive adoptée par le Conseil des communautés européennes, le 13 décembre 1976, les sociétés anonymes qui sont à la date du 1er janvier 1985 en état de suspension provisoire des poursuites ou de règlement judiciaire ne sont pas dissoutes de plein droit du seul fait qu'elles n'ont pas porté leur capital au montant minimal de 250.000 F ou de 1.500.000 F, selon le cas, à cette date. Il en est de même pour les sociétés à l'égard desquelles une décision acceptant un plan de redressement économique et financier assorti d'un plan d'apurement du passif ou homologuant un concordat est intervenue entre le 1er juillet 1984 et le 1er janvier 1985.<br/>\n<br/>   Ces sociétés disposent d'un délai d'un an à compter de la décision acceptant le plan de redressement économique et financier assorti d'un plan d'apurement du passif ou homologuant le concordat pour porter leur capital au montant minimal prévu par la loi. A défaut, elles seront dissoutes de plein droit à l'expiration de ce délai.<br/>\n<br/>   Les dispositions du présent article entreront en vigueur le 1er janvier 1985.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Directive CEE 1976-12-13 Conseil",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°81-1162 du 30 décembre 1981 - art. 33, v. init.",
+        "@cidtexte": "JORFTEXT000000888624",
+        "@datesignatexte": "1981-12-30",
+        "@id": "JORFARTI000001908876",
+        "@naturetexte": "LOI",
+        "@num": "33",
+        "@numtexte": "81-1162",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°85-98 du 25 janvier 1985 - art. 243 (Ab)",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "LEGIARTI000006401819",
+        "@naturetexte": "LOI",
+        "@num": "243",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret-loi du 8 août 1935 - art. 13 (Ab)",
+        "@cidtexte": "LEGITEXT000006070676",
+        "@datesignatexte": "1935-08-08",
+        "@id": "LEGIARTI000006403608",
+        "@naturetexte": "DECRET_LOI",
+        "@num": "13",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

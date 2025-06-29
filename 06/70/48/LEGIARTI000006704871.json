@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006704871",
+      "ANCIEN_ID": "AFEBVXXXXXX068AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/48/LEGIARTI000006704871.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "68",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-07-04",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-46 du 24 janvier 1984 BANCAIRE RELATIVE A L'ACTIVITE ET AU CONTROLE DES ETABLISSEMENTS DE CREDIT",
+          "@c_titre_court": "Loi n°84-46 du 24 janvier 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000504724"
+        },
+        {
+          "#text": "Loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit",
+          "@c_titre_court": "Loi n° 84-46 du 24 janvier 1984",
+          "@debut": "1984-07-25",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068837"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Protection des déposants et des emprunteurs",
+            "@debut": "1984-07-25",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006104036"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre VI : Intermédiaires en opérations de banque.",
+              "@debut": "1984-07-25",
+              "@fin": "2005-05-07",
+              "@id": "LEGISCTA000006125719"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000504724",
+      "@date_publi": "1984-01-25",
+      "@date_signature": "1984-01-24",
+      "@nature": "LOI",
+      "@num": "84-46"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-07-25",
+          "@etat": "MODIFIE",
+          "@fin": "1996-07-04",
+          "@id": "LEGIARTI000006704870",
+          "@num": "68",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-04",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006704871",
+          "@num": "68",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les intermédiaires en opérations de banque exercent leur activité en vertu d'un mandat délivré par l'établissement de crédit. Ce mandat mentionne la nature et les conditions des opérations que l'intermédiaire est habilité à accomplir.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°96-597 du 2 juillet 1996 - art. 95 () JORF 4 juillet 1996",
+        "@cidtexte": "JORFTEXT000000193847",
+        "@datesignatexte": "1996-07-02",
+        "@id": "LEGIARTI000006710396",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9500164L",
+        "@num": "95",
+        "@numtexte": "96-597",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L519-1 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006657007",
+        "@naturetexte": "CODE",
+        "@num": "L519-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

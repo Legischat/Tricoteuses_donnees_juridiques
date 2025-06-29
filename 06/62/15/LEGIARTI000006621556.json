@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006621556",
+      "ANCIEN_ID": "RGHBIXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/15/LEGIARTI000006621556.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1993-12-28",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°93-1340 du 27 décembre 1993 RELATIF AU MARCHE DES VINS DOUX NATURELS A APPELLATION CONTROLEE",
+          "@c_titre_court": "Décret n°93-1340 du 27 décembre 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000699747"
+        },
+        {
+          "#text": "Décret n°93-1340 du 27 décembre 1993 relatif au marché des vins doux naturels à appellation contrôlée",
+          "@c_titre_court": "Décret n°93-1340 du 27 décembre 1993",
+          "@debut": "1993-12-28",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006067949"
+        }
+      ],
+      "@cid": "JORFTEXT000000699747",
+      "@date_publi": "1993-12-28",
+      "@date_signature": "1993-12-27",
+      "@nature": "DECRET",
+      "@nor": "AGRP9301744D",
+      "@num": "93-1340"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-12-28",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006621556",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 65-1067 du 9 décembre 1965 portant organisation du marché des vins doux naturels à appellation d'origine contrôlée est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 65-1067 1965-12-09",
+        "@cidtexte": "JORFTEXT000000493452",
+        "@datesignatexte": "1965-12-09",
+        "@id": "JORFTEXT000000493452",
+        "@naturetexte": "DECRET",
+        "@numtexte": "65-1067",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 178 bis (Ab)",
+        "@cidtexte": "LEGITEXT000006069574",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006299076",
+        "@naturetexte": "CODE",
+        "@num": "178 bis",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

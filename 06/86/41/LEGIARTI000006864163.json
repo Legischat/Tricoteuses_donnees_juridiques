@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006864163",
+      "ANCIEN_ID": "UPIUTXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/41/LEGIARTI000006864163.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-06-16",
+        "DATE_FIN": "1990-11-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 mai 1984 relatif à l'interdiction d'utiliser les avions à réaction subsoniques dépourvus de certificat de limitation de nuisances",
+          "@c_titre_court": "Arrêté du 28 mai 1984",
+          "@debut": "1984-06-16",
+          "@fin": "1990-11-28",
+          "@id_txt": "LEGITEXT000006074745"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Conditions techniques applicables aux aéronefs inscrits au registre français",
+            "@debut": "1984-06-16",
+            "@fin": "1990-11-28",
+            "@id": "LEGISCTA000006110319"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074745",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-05-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-06-16",
+          "@etat": "ABROGE",
+          "@fin": "1990-11-28",
+          "@id": "LEGIARTI000006864163",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les conditions techniques de délivrance du certificat de limitation de nuisances de type sont celles définies dans l'arrêté du 26 novembre 1981 relatif aux certificats de limitation de nuisances destinés aux avions à réaction subsoniques et seront au moins équivalentes à celles applicables aux avions de catégorie 2, telles que définies dans cet arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1981-11-26",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1990-11-16 art. 13 JORF 28 novembre 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

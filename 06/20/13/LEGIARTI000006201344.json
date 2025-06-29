@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006201344",
+      "ANCIEN_ID": "AKHFTXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/13/LEGIARTI000006201344.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1978-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°77-1480 du 28 décembre 1977 SOCIETE CIVILE PROFESSIONNELLE DES ARCHITECTES",
+          "@c_titre_court": "Décret n°77-1480 du 28 décembre 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000331123"
+        },
+        {
+          "#text": "Décret n°77-1480 du 28 décembre 1977 pris pour l'application à la profession d'architecte de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles",
+          "@c_titre_court": "Décret n°77-1480 du 28 décembre 1977",
+          "@debut": "1978-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062620"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CONSTITUTION DE LA SOCIETE.",
+            "@debut": "1978-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006082948"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "STATUTS.",
+              "@debut": "1978-01-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006113385"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000331123",
+      "@date_publi": "1978-01-01",
+      "@date_signature": "1977-12-28",
+      "@nature": "DECRET",
+      "@num": "77-1480"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006201344",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Si les statuts sont établis par acte sous seing privé, il est établi autant  d'originaux qu'il est nécessaire pour la remise d'un exemplaire à chaque associé et pour satisfaire aux dispositions de l'article 14 ci-dessous.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-879 1966-11-29",
+        "@cidtexte": "JORFTEXT000000692471",
+        "@datesignatexte": "1966-11-29",
+        "@id": "JORFTEXT000000692471",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-879",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 77-1480 1977-12-28 art. 14",
+        "@cidtexte": "JORFTEXT000000331123",
+        "@datesignatexte": "1977-12-28",
+        "@id": "JORFTEXT000000331123",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-1480",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

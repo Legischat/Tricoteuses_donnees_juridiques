@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006404844",
+      "ANCIEN_ID": "PAEBGXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/48/LEGIARTI000006404844.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1950-03-19",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°50-340 du 18 mars 1950 MODALITES DE L'APPEL SOUS LES DRAPEAUX EN 1950 DES JEUNES GENS",
+          "@c_titre_court": "Loi n°50-340 du 18 mars 1950",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000332622"
+        },
+        {
+          "#text": "Loi n° 50-340 du 18 mars 1950 concernant l'appel en 1950 des jeunes gens sous les drapeaux.",
+          "@c_titre_court": "Loi n° 50-340 du 18 mars 1950",
+          "@debut": "1950-03-19",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068075"
+        }
+      ],
+      "@cid": "JORFTEXT000000332622",
+      "@date_publi": "1950-03-19",
+      "@date_signature": "1950-03-18",
+      "@nature": "LOI",
+      "@num": "50-340"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-03-19",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006404844",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions d'allégement et de dispense prévues aux bénéfice de certaines de catégories de jeunes gens de la classe 1949 (victimes de la guerre, anciens combattants de la Résistance et de la Libération, Alsaciens, et Lorrains) par l'article 8 de la loi n° 49-519 du 15 avril 1949, seront applicables sur leur demande aux recrues incorporées en 1950.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°49-519 du 15 avril 1949",
+        "@cidtexte": "JORFTEXT000000692673",
+        "@datesignatexte": "1949-04-15",
+        "@id": "JORFTEXT000000692673",
+        "@naturetexte": "LOI",
+        "@numtexte": "49-519",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n° 50-340 du 18 mars 1950 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000000332622",
+        "@datesignatexte": "1950-03-18",
+        "@id": "LEGIARTI000006404845",
+        "@naturetexte": "LOI",
+        "@num": "9",
+        "@numtexte": "50-340",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

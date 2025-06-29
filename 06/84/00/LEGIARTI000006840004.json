@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006840004",
+      "ANCIEN_ID": "AHEAGXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/00/LEGIARTI000006840004.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-07-14",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-600 du 13 juillet 1982 RELATIVE A L'INDEMNISATION DES VICTIMES DE CATASTROPHES NATURELLES",
+          "@c_titre_court": "Loi n°82-600 du 13 juillet 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000691989"
+        },
+        {
+          "#text": "Loi n° 82-600 du 13 juillet 1982 relative à l'indemnisation des victimes de catastrophes naturelles",
+          "@c_titre_court": "Loi n° 82-600 du 13 juillet 1982",
+          "@debut": "1982-07-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068755"
+        }
+      ],
+      "@cid": "JORFTEXT000000691989",
+      "@date_publi": "1982-07-14",
+      "@date_signature": "1982-07-13",
+      "@nature": "LOI",
+      "@num": "82-600"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-07-14",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006840004",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Dans un délai d'un mois à compter de la date de publication de la présente loi, les contrats      visés à l'article 1er sont réputés, nonobstant toute disposition contraire, contenir une telle clause. <br/>\n<br/>Des clauses types réputées écrites dans ces contrats sont déterminées par arrêté avant cette date.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°82-600 du 13 juillet 1982 - art. 1, v. init.",
+        "@cidtexte": "JORFTEXT000000691989",
+        "@datesignatexte": "1982-07-13",
+        "@id": "JORFARTI000001294683",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "82-600",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°82-600 du 13 juillet 1982 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000691989",
+        "@datesignatexte": "1982-07-13",
+        "@id": "LEGIARTI000006273974",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "82-600",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 90-509 1990-06-25 art. 3 II *la loi n° 82-600 du 13 juillet 1982 est applicable dans la collectivité territorial de Mayotte et dans la collectivité territorial de Saint-Pierre-et-Miquelon*",
+        "@cidtexte": "JORFTEXT000000525712",
+        "@datesignatexte": "1990-06-25",
+        "@id": "JORFTEXT000000525712",
+        "@naturetexte": "LOI",
+        "@nortexte": "DOMX9010206L",
+        "@numtexte": "90-509",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

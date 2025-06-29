@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006523343",
+      "ANCIEN_ID": "PLIEUXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/33/LEGIARTI000006523343.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-01-01",
+        "DATE_FIN": "1996-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 mars 1995 fixant la répartition des sommes misées sur les jeux    exploités par La Française des jeux",
+          "@c_titre_court": "Arrêté du 22 mars 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000553041"
+        },
+        {
+          "#text": "Arrêté du 22 mars 1995 fixant la répartition des sommes misées sur les jeux exploités par La Française des jeux",
+          "@c_titre_court": "Arrêté du 22 mars 1995",
+          "@debut": "1995-01-01",
+          "@fin": "1996-01-01",
+          "@id_txt": "LEGITEXT000005618130"
+        }
+      ],
+      "@cid": "JORFTEXT000000553041",
+      "@date_publi": "1995-03-26",
+      "@date_signature": "1995-03-22",
+      "@ministere": "MINISTERE DU BUDGET",
+      "@nature": "ARRETE",
+      "@nor": "BUDB9510025A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1996-01-01",
+          "@id": "LEGIARTI000006523343",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sommes misées en loteries instantanées sont affectées aux gagnants après déduction d'un prélèvement, inférieur à 50 p. 100 de la valeur nominale de chacune des émissions, réparti entre les frais d'organisation et de placement à hauteur de 15,75 p. 100 augmentés de la taxe sur la valeur ajoutée au taux en vigueur, le droit de timbre prévu à l'article 919 C du code général des impôts, le Fonds national pour le développement du sport en application de l'article 48 modifié de la loi de finances pour 1994, et les recettes non fiscales du budget général pour le solde.<br/>\n<br/>   La part du prélèvement affectée aux frais d'organisation et de placement est fixé à 15,55 p. 100 à partir du 1er janvier 1996, et à 15,35 p. 100 à partir du 1er janvier 1998.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-12-29 art. 7 JORF 4 janvier 1996 en vigueur le 1er janvier 1996",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "CGI 919 C",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 93-1352 1993-12-30 art. 48 Finances pour 1994",
+        "@cidtexte": "JORFTEXT000000509319",
+        "@datesignatexte": "1993-12-30",
+        "@id": "JORFTEXT000000509319",
+        "@naturetexte": "LOI",
+        "@nortexte": "BUDX9300137L",
+        "@numtexte": "93-1352",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006527945",
+      "ANCIEN_ID": "PPEAQXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/79/LEGIARTI000006527945.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1995-01-24",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité",
+          "@c_titre_court": "Loi n° 95-73 du 21 janvier 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000369046"
+        },
+        {
+          "#text": "Loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité",
+          "@c_titre_court": "Loi n° 95-73 du 21 janvier 1995",
+          "@debut": "1995-01-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005617582"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE Ier : Les orientations de la politique de sécurité et la programmation des moyens de la police nationale.",
+            "@debut": "1995-01-24",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006095876"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000369046",
+      "@date_publi": "1995-01-24",
+      "@date_signature": "1995-01-21",
+      "@nature": "LOI",
+      "@nor": "INTX9400063L",
+      "@num": "95-73"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-01-24",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006527945",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont approuvées les orientations de la politique de sécurité figurant à l'annexe I.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 95-73 1995-01-21 annexe I",
+        "@cidtexte": "JORFTEXT000000369046",
+        "@datesignatexte": "1995-01-21",
+        "@id": "JORFTEXT000000369046",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9400063L",
+        "@numtexte": "95-73",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité intérieure - art. L111-2 (VD)",
+        "@cidtexte": "LEGITEXT000025503132",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000025504923",
+        "@naturetexte": "CODE",
+        "@num": "L111-2",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

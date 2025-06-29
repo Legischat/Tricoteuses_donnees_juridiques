@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006463197",
+      "ANCIEN_ID": "PFINQXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/31/LEGIARTI000006463197.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-03-03",
+        "DATE_FIN": "2013-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 11 juillet 1995 portant création de l'Ecole nationale supérieure    des officiers de police de Cannes-Ecluse",
+          "@c_titre_court": "Arrêté du 11 juillet 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000188333"
+        },
+        {
+          "#text": "Arrêté du 11 juillet 1995 portant création de l'Ecole nationale supérieure des officiers de police de Cannes-Ecluse",
+          "@c_titre_court": "Arrêté du 11 juillet 1995",
+          "@debut": "1995-07-25",
+          "@fin": "2013-01-01",
+          "@id_txt": "LEGITEXT000005619088"
+        }
+      ],
+      "@cid": "JORFTEXT000000188333",
+      "@date_publi": "1995-07-25",
+      "@date_signature": "1995-07-11",
+      "@nature": "ARRETE",
+      "@nor": "INTC9500371A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-07-25",
+          "@etat": "MODIFIE",
+          "@fin": "2006-03-03",
+          "@id": "LEGIARTI000006463196",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-03-03",
+          "@etat": "ABROGE",
+          "@fin": "2013-01-01",
+          "@id": "LEGIARTI000006463197",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Cette école assure également des actions de formation continue. Elle peut aussi recevoir tout autre stagiaire ou auditeur, français ou étranger.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2006-02-17 art. 3 JORF 3 mars 2006",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 24 décembre 2012 - art. 1",
+        "@cidtexte": "JORFTEXT000026835662",
+        "@datesignatexte": "2012-12-24",
+        "@id": "LEGIARTI000026839053",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "INTC1242194A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

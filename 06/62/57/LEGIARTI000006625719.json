@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006625719",
+      "ANCIEN_ID": "RHHDKXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/57/LEGIARTI000006625719.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-07-05",
+        "DATE_FIN": "2010-05-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 9 janvier 1852 fixant les conditions générales d'exercice de la pêche maritime",
+          "@c_titre_court": "Décret du 9 janvier 1852",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000296130"
+        },
+        {
+          "#text": "Décret du 9 janvier 1852 sur l'exercice de la pêche maritime",
+          "@c_titre_court": "Décret du 9 janvier 1852",
+          "@debut": "1971-01-01",
+          "@fin": "2010-05-08",
+          "@id_txt": "LEGITEXT000006071755"
+        }
+      ],
+      "@cid": "JORFTEXT000000296130",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1852-01-09",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1991-07-05",
+          "@id": "LEGIARTI000006625718",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-07-05",
+          "@etat": "ABROGE",
+          "@fin": "2010-05-08",
+          "@id": "LEGIARTI000006625719",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Aucun établissement d'élevage des animaux marins de quelque nature qu'il soit, aucune exploitation de cultures marines ni dépôt de coquillages ne peuvent être implantés sur le rivage de la mer, le long des côtes ni dans la partie des fleuves, rivières, étangs et canaux où les eaux sont salées sans une autorisation spéciale délivrée par l'autorité administrative.<br/>\n<br/>   Un décret en Conseil d'Etat détermine les formes suivant lesquelles cette autorisation est accordée ou retirée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°91-627 du 3 juillet 1991 - art. 2 () JORF 5 juillet 1991",
+        "@cidtexte": "JORFTEXT000000172425",
+        "@datesignatexte": "1991-07-03",
+        "@id": "LEGIARTI000006624466",
+        "@naturetexte": "LOI",
+        "@nortexte": "EQUX9000050L",
+        "@num": "2",
+        "@numtexte": "91-627",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2010-462 du 6 mai 2010 - art. 4",
+        "@cidtexte": "JORFTEXT000022176680",
+        "@datesignatexte": "2010-05-06",
+        "@id": "LEGIARTI000022195076",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRS1007353R",
+        "@num": "4",
+        "@numtexte": "2010-462",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code général des collectivités territoriales - art. L4433-15-1 (V)",
+        "@cidtexte": "LEGITEXT000006070633",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000032748418",
+        "@naturetexte": "CODE",
+        "@num": "L4433-15-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006332128",
+      "ANCIEN_ID": "FBIFZXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/21/LEGIARTI000006332128.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1991-09-20",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 septembre 1991 PRIS POUR L'APPLICATION DE L'ARTICLE L47-A DU LIVRE DES PROCEDURES FISCALES FIXANT LES NORMES DES COPIES DE FICHIERS PRODUITES SUR SUPPORT INFORMATIQUE",
+          "@c_titre_court": "Arrêté du 13 septembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000480306"
+        },
+        {
+          "#text": "Arrêté du 13 septembre 1991 pris pour l'application de l'article L. 47 A du livre des procédures fiscales fixant les normes des copies de fichiers produites sur support informatique",
+          "@c_titre_court": "Arrêté du 13 septembre 1991",
+          "@debut": "1991-09-20",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006059758"
+        }
+      ],
+      "@cid": "JORFTEXT000000480306",
+      "@date_publi": "1991-09-20",
+      "@date_signature": "1991-09-13",
+      "@nature": "ARRETE",
+      "@nor": "BUDF9100026A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-09-20",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006332128",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le format des données doit être conforme aux spécifications suivantes :<br/>\n<br/>   Les nombres entiers codés en numérique binaire (complémentés à deux avec bit de signe) et les nombres réels codés en virgule flottante sont convertis en code caractère. Le point sépare la fraction entière de la partie décimale. Les zones numériques sont cadrées à droite et complétées à gauche par des zéros. Elles sont signées (1er caractère à partir de la gauche) et non compactées ;<br/>\n<br/>   Les zones alphanumériques sont cadrées à gauche et complétées à droite par des espaces. Seuls les caractères alphabétiques en majuscule peuvent être utilisés. Les caractères minuscules ou accentués sont donc prohibés ;<br/>\n<br/>   Les dates sont exprimées au format A.A.M.M.J.J. sans séparateur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Livre des procédures fiscales L47 A",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

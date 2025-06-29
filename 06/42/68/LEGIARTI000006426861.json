@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006426861",
+      "ANCIEN_ID": "PCHRCXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/68/LEGIARTI000006426861.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-02-29",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2000-165 du 28 février 2000  relatif au cahier des charges de La Poste",
+          "@c_titre_court": "Décret n°2000-165 du 28 février 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000386006"
+        },
+        {
+          "#text": "Décret n°2000-165 du 28 février 2000 relatif au cahier des charges de La Poste",
+          "@c_titre_court": "Décret n°2000-165 du 28 février 2000",
+          "@debut": "2000-02-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005629147"
+        }
+      ],
+      "@cid": "JORFTEXT000000386006",
+      "@date_publi": "2000-02-29",
+      "@date_signature": "2000-02-28",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "DECRET",
+      "@nor": "ECOT9951832D",
+      "@num": "2000-165"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-02-29",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006426861",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont approuvées les modifications du cahier des charges de La Poste figurant en annexe au présent décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 90-1214 1990-12-29",
+        "@cidtexte": "JORFTEXT000000168942",
+        "@datesignatexte": "1990-12-29",
+        "@id": "JORFTEXT000000168942",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PTTC9001029D",
+        "@numtexte": "90-1214",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°90-1214 du 29 décembre 1990 - art. Annexe (M)",
+        "@cidtexte": "JORFTEXT000000168942",
+        "@datesignatexte": "1990-12-29",
+        "@id": "LEGIARTI000006424058",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PTTC9001029D",
+        "@num": "Annexe",
+        "@numtexte": "90-1214",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2000-165 2000-02-28 annexe",
+        "@cidtexte": "JORFTEXT000000386006",
+        "@datesignatexte": "2000-02-28",
+        "@id": "JORFTEXT000000386006",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOT9951832D",
+        "@numtexte": "2000-165",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006495239",
+      "ANCIEN_ID": "PJFAOXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/52/LEGIARTI000006495239.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1828-06-01",
+        "DATE_FIN": "2015-04-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance du 1er juin 1828 du Roi relative aux conflits d'attribution entre les tribunaux et l'autorité administrative",
+          "@c_titre_court": "Ordonnance du 1er juin 1828",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000501333"
+        },
+        {
+          "#text": "Ordonnance du 1er juin 1828 relative aux conflits d'attribution entre les tribunaux et l'autorité administrative.",
+          "@c_titre_court": "Ordonnance du 1er juin 1828",
+          "@debut": "1828-06-01",
+          "@fin": "2015-04-01",
+          "@id_txt": "LEGITEXT000006071060"
+        }
+      ],
+      "@cid": "JORFTEXT000000501333",
+      "@date_publi": "1828-06-01",
+      "@date_signature": "1828-06-01",
+      "@nature": "ORDONNANCE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1828-06-01",
+          "@etat": "ABROGE",
+          "@fin": "2015-04-01",
+          "@id": "LEGIARTI000006495239",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Au cas où le conflit serait élevé dans les matières correctionnelles comprises dans l'exception prévue par l'article 2 de la présente ordonnance, il sera procédé conformément aux articles 6, 7 et 8.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2015-177 du 16 février 2015 - art. 13 (V)",
+        "@cidtexte": "JORFTEXT000030248562",
+        "@datesignatexte": "2015-02-16",
+        "@id": "LEGIARTI000030249607",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX1326670L",
+        "@num": "13",
+        "@numtexte": "2015-177",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Ordonnance 1828-06-01 Bull. des Lois, 8e S - B 234 - n° 8529",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 1828-06-01 art. 6, art. 7, art. 8, art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

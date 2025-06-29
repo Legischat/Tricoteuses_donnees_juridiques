@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006438685",
+      "ANCIEN_ID": "PEHCYXXXXXX023AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/86/LEGIARTI000006438685.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-01-01",
+        "DATE_FIN": "2005-09-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  n° 90-788 du 6 septembre 1990 relatif à l'organisation et au    fonctionnement des écoles maternelles et élémentaires",
+          "@c_titre_court": "Décret n° 90-788 du 6 septembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000352635"
+        },
+        {
+          "#text": "Décret n°90-788 du 6 septembre 1990 relatif à l'organisation et au fonctionnement des écoles maternelles et élémentaires",
+          "@c_titre_court": "Décret n°90-788 du 6 septembre 1990",
+          "@debut": "1992-02-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006076461"
+        }
+      ],
+      "@cid": "JORFTEXT000000352635",
+      "@date_publi": "1990-09-08",
+      "@date_signature": "1990-09-06",
+      "@ministere": "MINISTERE DE L'EDUCATION NATIONALE",
+      "@nature": "DECRET",
+      "@nor": "MENE9001978D",
+      "@num": "90-788"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2005-09-02",
+          "@id": "LEGIARTI000006438685",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-09-02",
+          "@etat": "ABROGE",
+          "@fin": "2006-05-24",
+          "@id": "LEGIARTI000006438686",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Une éducation spéciale est dispensée, sur prescription, révisée périodiquement, des commissions prévues par la loi du 30 juin 1975 susvisée. Elle s'adresse aux élèves dont la nature ou la gravité du handicap rend indispensable, au moins pour un temps, la mise en oeuvre de pratiques pédagogiques spécifiques et, s'il y a lieu, thérapeutiques. Elle est dispensée dans des structures d'accueil particulières, qui peuvent être annexées à des écoles, regroupées en écoles spéciales ou intégrées à des établissements médico-éducatifs.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 75-534 1975-06-30",
+        "@cidtexte": "JORFTEXT000000333976",
+        "@datesignatexte": "1975-06-30",
+        "@id": "JORFTEXT000000333976",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-534",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 90-788 1990-09-06 art. 26",
+        "@cidtexte": "JORFTEXT000000352635",
+        "@datesignatexte": "1990-09-06",
+        "@id": "JORFTEXT000000352635",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENE9001978D",
+        "@numtexte": "90-788",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

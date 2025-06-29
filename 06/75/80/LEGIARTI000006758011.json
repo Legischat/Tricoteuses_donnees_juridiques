@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006758011",
+      "ANCIEN_ID": "SSEAE8XXXXX005AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/80/LEGIARTI000006758011.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-07-09",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°60-768 du 30 juillet 1960 RELATIVE A L'ACCESSION DES TRAVAILLEURS FRANCAIS NON SALARIES DU MAROC, DE LA TUNISIE, D'EGYPTE ET D'INDOCHINE AUX REGIMES D'ALLOCATION VIEILLESSE ET D'ASSURANCE VIEILLESSE",
+          "@c_titre_court": "Loi n°60-768 du 30 juillet 1960",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874913"
+        },
+        {
+          "#text": "Loi n° 60-768 du 30 juillet 1960 relative à l'accession des travailleurs français non salariés du Maroc, de la Tunisie, d'Égypte et d'Indochine aux régimes d'allocation vieillesse et d'assurance vieillesse (1).",
+          "@c_titre_court": "Loi n° 60-768 du 30 juillet 1960",
+          "@debut": "1960-08-02",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068201"
+        }
+      ],
+      "@cid": "JORFTEXT000000874913",
+      "@date_publi": "1960-08-02",
+      "@date_signature": "1960-07-30",
+      "@nature": "LOI",
+      "@num": "60-768"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-08-02",
+          "@etat": "MODIFIE",
+          "@fin": "1980-07-09",
+          "@id": "LEGIARTI000006758010",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-09",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006758011",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un décret en Conseil d'Etat déterminera les modalités d'application de la présente loi et précisera notamment les délais dans lesquels les intéressés devront demander leur affiliation.<br/>\n<br/>   Un décret fixera les conditions dans lesquelles seront prises en compte pour l'attribution des allocations de vieillesse, les périodes d'exercice par les personnes visées à l'article 2, d'une activité non salariée, antérieures au 1er janvier 1949 ou, dans les professions agricoles, au 1er juillet 1952.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 60-768 du 30 juillet 1960 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000874913",
+        "@datesignatexte": "1960-07-30",
+        "@id": "LEGIARTI000006758007",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "60-768",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

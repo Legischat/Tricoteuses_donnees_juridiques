@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006668153",
+      "ANCIEN_ID": "SEIDRXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/81/LEGIARTI000006668153.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-12-28",
+        "DATE_FIN": "1987-02-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 décembre 1977 relatif aux établissements assujettis à la réglementation sur le contrôle de l'emploi",
+          "@c_titre_court": "Arrêté du 15 décembre 1977",
+          "@debut": "1977-12-28",
+          "@fin": "1987-02-28",
+          "@id_txt": "LEGITEXT000006072166"
+        }
+      ],
+      "@cid": "LEGITEXT000006072166",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-12-15",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-12-28",
+          "@etat": "ABROGE",
+          "@fin": "1987-02-28",
+          "@id": "LEGIARTI000006668153",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont soumis aux obligations prévues à l'article L. 321-1 (1°) du Code du travail dans les conditions fixées à l'article R. 321-1 du même code les établissements agricoles, industriels ou commerciaux publics ou privés, les offices publics et ministériels, les professions libérales, les sociétés civiles, les syndicats professionnels et les associations de quelque nature que ce soit employant au moins cinquante salariés [*effectif*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-02-27 art. 3 JORF 28 février 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Circulaire CDE n° 2 1978-01-10 : concernant les modalités d'application de l'arrêté du 15 décembre 1977",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code du travail - art. L321-1 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006648595",
+        "@naturetexte": "CODE",
+        "@num": "L321-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R321-1 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006809064",
+        "@naturetexte": "CODE",
+        "@num": "R321-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

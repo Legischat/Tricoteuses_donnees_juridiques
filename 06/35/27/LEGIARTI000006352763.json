@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006352763",
+      "ANCIEN_ID": "MDIAKXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/27/LEGIARTI000006352763.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-02-03",
+        "DATE_FIN": "1986-01-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 décembre 1984 relatif au montant des charges et des ajustements résultant des transferts de compétences.",
+          "@c_titre_court": "Arrêté du 31 décembre 1984",
+          "@debut": "1985-02-03",
+          "@fin": "1986-01-17",
+          "@id_txt": "LEGITEXT000006070233"
+        }
+      ],
+      "@cid": "LEGITEXT000006070233",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-12-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-02-03",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-17",
+          "@id": "LEGIARTI000006352763",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Pour l'année 1984, conformément à l'article 102 de la loi du 2 mars 1982 susvisée, le montant des ajustements mentionnés à l'article 1er ci-dessus est le suivant : <br/>\n    Alpes-Maritimes ...      79.518.767 F <br/>\n    Savoie ...                8.042.439 F <br/>\n    Haute-Savoie ...         55.088.617 F <br/>\n    Var ...                  17.928.489 F <br/>\n    Paris ...               349.936.877 F <br/>\n    Hauts-de-Seine ...       49.772.662 F <br/>\n                             -----------    Soit au total ...       560.287.851 F.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-12-31 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 82-213 1982-03-02 art. 102",
+        "@cidtexte": "JORFTEXT000000880039",
+        "@datesignatexte": "1982-03-02",
+        "@id": "JORFTEXT000000880039",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-213",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 83-8 1983-01-07 art. 95",
+        "@cidtexte": "JORFTEXT000000320197",
+        "@datesignatexte": "1983-01-07",
+        "@id": "JORFTEXT000000320197",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-8",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

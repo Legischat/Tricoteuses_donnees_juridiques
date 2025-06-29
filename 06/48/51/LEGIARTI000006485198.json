@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006485198",
+      "ANCIEN_ID": "ACHCEXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/51/LEGIARTI000006485198.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-07-04",
+        "DATE_FIN": "1966-01-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°59-790 du 3 juillet 1959 RELATIF A LA REVISION DES LOYERS COMMERCIAUX",
+          "@c_titre_court": "Décret n°59-790 du 3 juillet 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000493247"
+        },
+        {
+          "#text": "Décret n°59-790 du 3 juillet 1959 relatif à la révision des loyers commerciaux",
+          "@c_titre_court": "Décret n°59-790 du 3 juillet 1959",
+          "@debut": "1959-07-04",
+          "@fin": "1966-01-07",
+          "@id_txt": "LEGITEXT000006060918"
+        }
+      ],
+      "@cid": "JORFTEXT000000493247",
+      "@date_publi": "1959-07-04",
+      "@date_signature": "1959-07-03",
+      "@nature": "DECRET",
+      "@num": "59-790"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-07-04",
+          "@etat": "ABROGE",
+          "@fin": "1966-01-07",
+          "@id": "LEGIARTI000006485198",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Le décret du 16 février 1959 modifiant l'article 27 du décret du 30 septembre 1953 réglant les rapports entre bailleurs et locataires en ce qui concerne le renouvellement des baux commerciaux est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°53-960 du 30 septembre 1953 - art. 27 (M)",
+        "@cidtexte": "JORFTEXT000000675530",
+        "@datesignatexte": "1953-09-30",
+        "@id": "LEGIARTI000006484487",
+        "@naturetexte": "DECRET",
+        "@num": "27",
+        "@numtexte": "53-960",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 59-297 1959-02-16",
+        "@cidtexte": "JORFTEXT000000491614",
+        "@datesignatexte": "1959-02-16",
+        "@id": "JORFTEXT000000491614",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-297",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Les dispositions du décret 59-790 du 3 juillet 1959 continuent à recevoir application dans tous les cas où le montant du loyer a été fixé antérieurement à la publication du décret n° 66-12 du 3 janvier 1966",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006610420",
+      "ANCIEN_ID": "RBAXXXXXXXX1X145L03AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/04/LEGIARTI000006610420.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L145-3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-07-11",
+        "DATE_FIN": "2012-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099185"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Régime forestier.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121939"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IV : Forêts et terrains à boiser non domaniaux relevant du régime forestier.",
+                "@debut": "2001-07-11",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138672"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre V : Coupes délivrées pour l'affouage.",
+                  "@debut": "2001-07-11",
+                  "@fin": "2012-07-01",
+                  "@id": "LEGISCTA000006152861"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "2001-07-11",
+          "@id": "LEGIARTI000006610419",
+          "@num": "L145-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-07-11",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006610420",
+          "@num": "L145-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de partage par feu et par tête, ou seulement de partage par tête, le conseil municipal a la faculté de décider que, pour avoir droit de participer au partage par tête de l'affouage, il est nécessaire, au moment de la publication du rôle, de posséder depuis un temps qu'il détermine, mais qui n'excède pas six mois, un domicile réel et fixe dans la commune.<br/>\n<br/>   Les usages contraires à ces modes de partage sont et demeurent abolis.<br/>\n<br/>   Le conseil municipal peut aussi décider la vente de tout ou partie de l'affouage au profit de la caisse communale ou des affouagistes. Dans ce dernier cas, la vente a lieu dans les conditions prévues au titre III, chapitre IV du présent livre, par les soins de l'Office national des forêts.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°79-113 du 25 janvier 1979",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°2001-602 du 9 juillet 2001 - art. 47 () JORF 11 juillet 2001",
+        "@cidtexte": "JORFTEXT000000223691",
+        "@datesignatexte": "2001-07-09",
+        "@id": "LEGIARTI000006613793",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX0000026L",
+        "@num": "47",
+        "@numtexte": "2001-602",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2012-92\n du 26 janvier 2012 - art. 5",
+        "@cidtexte": "JORFTEXT000025213462",
+        "@datesignatexte": "2012-01-26",
+        "@id": "LEGIARTI000025243152",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRX1121770R",
+        "@num": "5",
+        "@numtexte": "2012-92",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code forestier (nouveau) - art. L243-3 (VD)",
+        "@cidtexte": "LEGITEXT000025244092",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000025246892",
+        "@naturetexte": "CODE",
+        "@num": "L243-3",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

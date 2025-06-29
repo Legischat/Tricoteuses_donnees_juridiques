@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888495",
+      "ANCIEN_ID": "UTIGGXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/84/LEGIARTI000006888495.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-10-26",
+        "DATE_FIN": "1987-11-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 juin 1971 FEUX SPECIAUX DES VEHICULES D'INTERVENTION URGENTE",
+          "@c_titre_court": "Arrêté du 30 juin 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000284303"
+        },
+        {
+          "#text": "Arrêté du 30 juin 1971 relatif aux feux spéciaux des véhicules d'intervention urgente.",
+          "@c_titre_court": "Arrêté du 30 juin 1971",
+          "@debut": "1971-07-09",
+          "@fin": "1987-11-21",
+          "@id_txt": "LEGITEXT000006075051"
+        }
+      ],
+      "@cid": "JORFTEXT000000284303",
+      "@date_publi": "1971-07-09",
+      "@date_signature": "1971-06-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-10-26",
+          "@etat": "ABROGE",
+          "@fin": "1987-11-21",
+          "@id": "LEGIARTI000006888495",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les feux spéciaux utilisés par les véhicules de la catégorie A seront les feux tournants à éclats émettant une lumière bleue.<br/>\n    Ils seront placés dans la partie supérieure des véhicules et devront être visibles dans tous les azimuts pour un observateur situé à 150 mètres.<br/>\n    Ces feux pourront continuer à être utilisés lorsque les véhicules de la catégorie A stationneront sur les lieux de leur intervention.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1972-10-16 art. 1 JORF 26 octobre 1972",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 30 octobre 1987, v. init.",
+        "@cidtexte": "JORFTEXT000000322497",
+        "@datesignatexte": "1987-10-30",
+        "@id": "JORFTEXT000000322497",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "EQUS8700991A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

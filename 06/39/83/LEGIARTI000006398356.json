@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006398356",
+      "ANCIEN_ID": "ABEAAXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/39/83/LEGIARTI000006398356.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-10-16",
+        "DATE_FIN": "1986-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°67-563 du 13 juillet 1967 SUR LE REGLEMENT JUDICIAIRE,LA LIQUIDATION DES BIENS,LA FAILLITE PERSONNELLE ET LES BANQUEROUTES",
+          "@c_titre_court": "Loi n°67-563 du 13 juillet 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878028"
+        },
+        {
+          "#text": "Loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes",
+          "@c_titre_court": "Loi n° 67-563 du 13 juillet 1967",
+          "@debut": "1968-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068312"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Règlement judiciaire et liquidation des biens",
+            "@debut": "1968-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006088040"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Cessation des paiements.",
+              "@debut": "1968-01-01",
+              "@fin": "1986-01-01",
+              "@id": "LEGISCTA000006116680"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000878028",
+      "@date_publi": "1967-07-14",
+      "@date_signature": "1967-07-13",
+      "@nature": "LOI",
+      "@num": "67-563"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1981-10-16",
+          "@id": "LEGIARTI000006398355",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-10-16",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006398356",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'un commerçant est mort en état de cessation des paiements, le tribunal de commerce est saisi dans le délai d'un an à partir du décès, soit sur la déclaration d'un héritier, soit sur l'assignation d'un créancier.<br/>\n<br/>   Le tribunal peut se saisir d'office ou être saisi par le procureur de la République dans le même délai, les héritiers connus étant entendus ou dûment appelés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°67-1120 du 22 décembre 1967 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000499360",
+        "@datesignatexte": "1967-12-22",
+        "@id": "LEGIARTI000006403740",
+        "@naturetexte": "DECRET",
+        "@num": "7",
+        "@numtexte": "67-1120",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°85-98 du 25 janvier 1985 - art. 238 (Ab) JORF 26 janvier 1986 en vigueur le 1er janvier 1986",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "LEGIARTI000006401791",
+        "@naturetexte": "LOI",
+        "@num": "238",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°85-98 du 25 janvier 1985 - art. 243 (Ab)",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "LEGIARTI000006401819",
+        "@naturetexte": "LOI",
+        "@num": "243",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

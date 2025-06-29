@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006720145",
+      "ANCIEN_ID": "AFGAAXXXXXX077AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/01/LEGIARTI000006720145.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "77",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-01-01",
+        "DATE_FIN": "1976-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "1992-01-01",
+          "@fin": "2006-04-01",
+          "@id_txt": "LEGITEXT000006072897"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre XI : Dispositions générales et pénales.",
+            "@debut": "1935-10-31",
+            "@fin": "2006-04-01",
+            "@id": "LEGISCTA000006105014"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072897",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1935-10-30",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1976-01-01",
+          "@id": "LEGIARTI000006720145",
+          "@num": "77",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La Banque de France assure la centralisation des déclarations d'incidents de paiement de chèques et est habilitée à diffuser ces renseignements auprès des établissements et personnes sur qui les chèques peuvent être tirés.<br/>\n<br/>   Elle informe le procureur de la République de tout refus de paiement total ou partiel d'un chèque motivé par l'absence, l'insuffisance ou l'indisponibilité de la provision, sauf si, en application de l'article 74, l'action publique ne peut être exercée.    Elle centralise et diffuse les interdictions prononcées en application de l'article 70 (alinéa 2).<br/>\n<br/>   Elle centralise également les renseignements concernant les infractions réprimées par l'article 71 et les communique au procureur de la République.<br/>\n<br/>   Les attributions dévolues par les alinéas ci-dessus à la Banque de France sont, dans les départements et territoires d'outre-mer, exercées par les établissements ayant reçu le privilège d'émission.    Les mesures d'application du présent article sont déterminées par décret en Conseil d'Etat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret-loi 1935-10-30 art. 70, art. 71, art. 74",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 75-4 1975-01-03 art. 5 JORF 4 janvier 1975 rectificatif JORF 16 novembre 1975 en vigueur le 1er janvier 1976",
+        "@cidtexte": "JORFTEXT000000333973",
+        "@datesignatexte": "1975-01-03",
+        "@id": "JORFTEXT000000333973",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006704979",
+      "ANCIEN_ID": "AFEBVXXXXXX075AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/49/LEGIARTI000006704979.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "75",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1994-03-01",
+        "DATE_FIN": "1996-07-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-46 du 24 janvier 1984 BANCAIRE RELATIVE A L'ACTIVITE ET AU CONTROLE DES ETABLISSEMENTS DE CREDIT",
+          "@c_titre_court": "Loi n°84-46 du 24 janvier 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000504724"
+        },
+        {
+          "#text": "Loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit",
+          "@c_titre_court": "Loi n° 84-46 du 24 janvier 1984",
+          "@debut": "1984-07-25",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068837"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VI : Sanctions pénales.",
+            "@debut": "1984-07-25",
+            "@fin": "2005-05-07",
+            "@id": "LEGISCTA000006104058"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000504724",
+      "@date_publi": "1984-01-25",
+      "@date_signature": "1984-01-24",
+      "@nature": "LOI",
+      "@num": "84-46"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-07-25",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006704978",
+          "@num": "75",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "MODIFIE",
+          "@fin": "1996-07-04",
+          "@id": "LEGIARTI000006704979",
+          "@num": "75",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-04",
+          "@etat": "ABROGE",
+          "@fin": "2005-05-07",
+          "@id": "LEGIARTI000006704980",
+          "@num": "75",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est passible d'un emprisonnement de trois ans et d'une amende de 500.000 F toute personne, agissant soit pour son compte, soit pour le compte d'une personne morale, qui méconnaît l'une des interdictions prescrites par les articles 10, 13 ou 14 de la présente loi.<br/>\n<br/>   Le tribunal pourra, en outre, ordonner la fermeture de l'établissement où aura été commise une infraction à l'article 10 ou à l'article 14.<br/>\n<br/>   Il peut également ordonner que le jugement soit publié intégralement ou par extraits dans les journaux qu'il désigne et qu'il soit affiché dans les lieux qu'il détermine, aux frais du condamné sans que ceux-ci puissent excéder le montant maximum de l'amende encourue.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 76 *sanctions pénales applicables aux dirigeants*",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491860",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "322",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la mutualité - art. L114-21 (V)",
+        "@cidtexte": "LEGITEXT000006074067",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000027782611",
+        "@naturetexte": "CODE",
+        "@num": "L114-21",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

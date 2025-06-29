@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006854408",
+      "ANCIEN_ID": "UPHHWXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/44/LEGIARTI000006854408.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1965-09-05",
+        "DATE_FIN": "2005-11-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°65-749 du 3 septembre 1965 RELATIF AU COMITE NATIONAL DE L'EAU",
+          "@c_titre_court": "Décret n°65-749 du 3 septembre 1965",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000304273"
+        },
+        {
+          "#text": "Décret n°65-749 du 3 septembre 1965 portant création du comité national de l'eau",
+          "@c_titre_court": "Décret n°65-749 du 3 septembre 1965",
+          "@debut": "1965-09-05",
+          "@fin": "2007-03-23",
+          "@id_txt": "LEGITEXT000006061306"
+        }
+      ],
+      "@cid": "JORFTEXT000000304273",
+      "@date_publi": "1965-09-05",
+      "@date_signature": "1965-09-03",
+      "@nature": "DECRET",
+      "@num": "65-749"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-09-05",
+          "@etat": "MODIFIE",
+          "@fin": "2005-11-10",
+          "@id": "LEGIARTI000006854408",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-11-10",
+          "@etat": "ABROGE",
+          "@fin": "2007-03-23",
+          "@id": "LEGIARTI000006854409",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dépenses résultant de l'application des dispositions de l'article 7 ci-dessus sont à la charge du budget du Premier ministre [*indemnités des membres du comité*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°64-1245 du 16 décembre 1964 - art. 15 (M)",
+        "@cidtexte": "JORFTEXT000000509753",
+        "@datesignatexte": "1964-12-16",
+        "@id": "LEGIARTI000006846627",
+        "@naturetexte": "LOI",
+        "@num": "15",
+        "@numtexte": "64-1245",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°65-749 du 3 septembre 1965 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000304273",
+        "@datesignatexte": "1965-09-03",
+        "@id": "LEGIARTI000006854402",
+        "@naturetexte": "DECRET",
+        "@num": "7",
+        "@numtexte": "65-749",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'environnement - art. D213-12 (V)",
+        "@cidtexte": "LEGITEXT000006074220",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006837008",
+        "@naturetexte": "CODE",
+        "@num": "D213-12",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006870045",
+      "ANCIEN_ID": "AIIFSXXXXXXA00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/00/LEGIARTI000006870045.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe I",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-11-09",
+        "DATE_FIN": "1992-06-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 juillet 1977 relatif aux ovoproduits destinés à la consommation humaine",
+          "@c_titre_court": "Arrêté du 8 juillet 1977",
+          "@debut": "1977-11-09",
+          "@fin": "1992-06-14",
+          "@id_txt": "LEGITEXT000006074897"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1977-11-09",
+            "@fin": "1992-06-14",
+            "@id": "LEGISCTA000006110890"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Critères bactériologiques des ovoproduits.",
+              "@debut": "1977-11-09",
+              "@fin": "1992-06-14",
+              "@id": "LEGISCTA000006130596"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074897",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-07-08",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-11-09",
+          "@etat": "ABROGE",
+          "@fin": "1992-06-14",
+          "@id": "LEGIARTI000006870045",
+          "@num": "Annexe I",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour être reconnus propres à la consommation humaine, conformément à l'article 3 du décret n° 71-636 du 21 juillet 1971, les ovoproduits doivent satisfaire aux critères bactériologiques suivants :<br/>\n<br/>   1. Ovoproduits pasteurisés.<br/>\n<br/>   Flore aérobie mésophile : moins de 10 puissance 5 germes par gramme de produit.<br/>\n<br/>   Entérobactériacées : moins de 10 germes par gramme de produit.<br/>\n<br/>   Staphylococcus aureus : moins de 10 puissance 2 germes par gramme de produit.<br/>\n<br/>   Salmonella : absence dans vingt-cinq grammes de produit.<br/>\n<br/>   2. Blanc d'oeuf ou albumine d'oeuf non pasteurisé.<br/>\n<br/>   Absence de salmonella dans vingt-cinq grammes de produit.<br/>\n<br/>\n<br/>   Examen des lots : Interprétation des résultats.<br/>\n<br/>   Pour les salmonella on utilisera un plan à deux classes, pour les autres critères un plan à trois classes.<br/>\n<br/>   1. Définitions.<br/>\n<br/>   n = nombre d'échantillons à examiner ;<br/>\n<br/>   m = valeur seuil des dénombrements microbiens au-dessous de laquelle l'examen est considéré comme satisfaisant, les valeurs de m figurent aux paragraphes 1 et 2 ci-dessus.<br/>\n<br/>   M = valeur plafond des dénombrements microbiens au-delà de laquelle le produit ne peut pas être accepté.<br/>\n<br/>   Les valeurs de M sont les suivantes :<br/>\n<br/>   Flore aérobie mésophile : 10 puissance 6 germes par gramme de produit.<br/>\n<br/>   Entérobactériacées : 10 puissance 2 germes par gramme de produit.<br/>\n<br/>   Staphylococcus aureus : 10 puissance 3 germes par gramme de produit.<br/>\n<br/>   c = nombre d'échantillons donnant des valeurs situées entre m et M.<br/>\n<br/>   2. Application.<br/>\n<br/>   Salmonella : aucun échantillon ne doit contenir de Salmonella dans vingt-cinq grammes de produit.<br/>\n<br/>   Autres critères : le lot sera accepté si c / n est inférieur ou égal à 1 / 3 et si aucun échantillon ne dépasse les valeurs admises pour M.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1992-04-15 art. 8 JORF 14 juin 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°71-636 du 21 juillet 1971 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000335914",
+        "@datesignatexte": "1971-07-21",
+        "@id": "LEGIARTI000006638191",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "71-636",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

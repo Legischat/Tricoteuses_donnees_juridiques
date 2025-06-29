@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006569324",
+      "ANCIEN_ID": "PUHOBXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/93/LEGIARTI000006569324.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-10-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2001-1051 du 12 novembre 2001 relatif à la nouvelle bonification indiciaire au titre de la mise en œuvre de la politique de la ville dans les services du ministère de l'intérieur",
+          "@c_titre_court": "Décret n°2001-1051 du 12 novembre 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000403851"
+        },
+        {
+          "#text": "Décret n°2001-1051 du 12 novembre 2001 relatif à la nouvelle bonification indiciaire au titre de la mise en oeuvre de la politique de la ville dans les services du ministère de l'intérieur.",
+          "@c_titre_court": "Décret n°2001-1051 du 12 novembre 2001",
+          "@debut": "2000-10-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005631661"
+        }
+      ],
+      "@cid": "JORFTEXT000000403851",
+      "@date_publi": "2001-11-13",
+      "@date_signature": "2001-11-12",
+      "@ministere": "MINISTERE DE L'INTERIEUR",
+      "@nature": "DECRET",
+      "@nor": "INTA0100278D",
+      "@num": "2001-1051"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-10-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006569324",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Une nouvelle bonification indiciaire au titre de la mise en oeuvre de la politique de la ville, prise en compte et soumise à cotisation pour le calcul de la pension de retraite, peut être versée mensuellement, dans la limite des crédits disponibles, aux fonctionnaires titulaires du ministère de l'intérieur exerçant une des fonctions figurant en annexe au présent décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 12 novembre 2001 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000403852",
+        "@datesignatexte": "2001-11-12",
+        "@id": "LEGIARTI000019645864",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "INTA0100616A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2001-1051 2001-11-12 annexe",
+        "@cidtexte": "JORFTEXT000000403851",
+        "@datesignatexte": "2001-11-12",
+        "@id": "JORFTEXT000000403851",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTA0100278D",
+        "@numtexte": "2001-1051",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

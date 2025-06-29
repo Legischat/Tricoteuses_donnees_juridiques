@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006302030",
+      "ANCIEN_ID": "AAECBXXXXXX059AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/30/20/LEGIARTI000006302030.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "59",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-03-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-148 du 1 mars 1984 RELATIVE A LA PREVENTION ET AU REGLEMENT AMIABLE DES DIFFICULTES DES ENTREPRISES",
+          "@c_titre_court": "Loi n°84-148 du 1 mars 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000501098"
+        },
+        {
+          "#text": "Loi n° 84-148 du 1 mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises",
+          "@c_titre_court": "Loi n° 84-148 du 1 mars 1984",
+          "@debut": "1985-01-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068829"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre XI : Dispositions diverses.",
+            "@debut": "1985-01-16",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084225"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000501098",
+      "@date_publi": "1984-03-02",
+      "@date_signature": "1984-03-01",
+      "@nature": "LOI",
+      "@num": "84-148"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-01",
+          "@etat": "MODIFIE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006302030",
+          "@num": "59",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-09-21",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006302031",
+          "@num": "59",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un décret en conseil d'Etat adaptera, pour les banques et les entreprises de réassurance, les dispositions des articles 340-1, 341-1 et 341-2 de la loi du 24 juillet 1966 précitée, en particulier la forme et le contenu des documents qui doivent être établis.<br/>\n<br/>   L'application de la présente loi aux entreprises d'assurance et de capitalisation s'effectue dans les conditions prévues par l'article L. 310-3 du code des assurances.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 340-1, art. 341-1, art. 341-2",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-148 1984-03-01 art. 62 *date d'effet - décrets d'application*",
+        "@cidtexte": "JORFTEXT000000501098",
+        "@datesignatexte": "1984-03-01",
+        "@id": "JORFTEXT000000501098",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-148",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code des assurances - art. L310-3 (M)",
+        "@cidtexte": "LEGITEXT000006073984",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006796304",
+        "@naturetexte": "CODE",
+        "@num": "L310-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

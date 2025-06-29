@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006564708",
+      "ANCIEN_ID": "PUHA5XXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/47/LEGIARTI000006564708.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-10-01",
+        "DATE_FIN": "2002-05-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°77-1020 du 1 septembre 1977 RELATIF AUX DISPOSITIONS STATUTAIRES APPLICABLES AUX GARDES-MAGASINS",
+          "@c_titre_court": "Décret n°77-1020 du 1 septembre 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000337404"
+        },
+        {
+          "#text": "Décret n°77-1020 du 1 septembre 1977 relatif aux dispositions statutaires applicables aux gardes-magasin.",
+          "@c_titre_court": "Décret n°77-1020 du 1 septembre 1977",
+          "@debut": "1975-10-01",
+          "@fin": "2002-05-05",
+          "@id_txt": "LEGITEXT000006062555"
+        }
+      ],
+      "@cid": "JORFTEXT000000337404",
+      "@date_publi": "1977-09-11",
+      "@date_signature": "1977-09-01",
+      "@nature": "DECRET",
+      "@num": "77-1020"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2002-05-05",
+          "@id": "LEGIARTI000006564708",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont abrogées les dispositions de l'article 1er et de l'article 8 du décret du 16 décembre 1938 relatives aux gardes-magasin.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1938-12-16 art. 8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°77-1020 du 1 septembre 1977 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000337404",
+        "@datesignatexte": "1977-09-01",
+        "@id": "LEGIARTI000006564705",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "77-1020",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2002-764 du 3 mai 2002 - art. 4 (V) JORF 5 mai 2002",
+        "@cidtexte": "JORFTEXT000000226239",
+        "@datesignatexte": "2002-05-03",
+        "@id": "LEGIARTI000006211853",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMG0270271D",
+        "@num": "4",
+        "@numtexte": "2002-764",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006272817",
+      "ANCIEN_ID": "UTEAZXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/28/LEGIARTI000006272817.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1970-07-10",
+        "DATE_FIN": "2001-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°70-597 du 9 juillet 1970 INSTITUANT LE TAUX LEGAL D'ALCOOLEMIE ET GENERALISANT LE DEPISTAGE PAR L'AIR EXPIRE",
+          "@c_titre_court": "Loi n°70-597 du 9 juillet 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874690"
+        },
+        {
+          "#text": "Loi n° 70-597 du 9 juillet 1970 instituant un taux légal d'alcoolémie et généralisant le dépistage par l'air expiré",
+          "@c_titre_court": "Loi n° 70-597 du 9 juillet 1970",
+          "@debut": "1970-07-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068374"
+        }
+      ],
+      "@cid": "JORFTEXT000000874690",
+      "@date_publi": "1970-07-09",
+      "@date_signature": "1970-07-09",
+      "@nature": "LOI",
+      "@num": "70-597"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-07-10",
+          "@etat": "ABROGE",
+          "@fin": "2001-06-01",
+          "@id": "LEGIARTI000006272817",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002469315",
+          "@num": "4",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les examens organisés en vue de l'obtention du permis de conduire comprendront à une interrogation portant sur les effets de l'absorption d'alcool ou d'autres substances modificatives du comportement des conducteurs.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°2000-930 du 22 septembre 2000 - art. 5 (V) JORF 24 septembre 2000 en vigueur le 1er juin 2001",
+        "@cidtexte": "JORFTEXT000000218883",
+        "@datesignatexte": "2000-09-22",
+        "@id": "LEGIARTI000006879575",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "EQUX0000053R",
+        "@num": "5",
+        "@numtexte": "2000-930",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route. - art. R221-3 (V)",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006841364",
+        "@naturetexte": "CODE",
+        "@num": "R221-3",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

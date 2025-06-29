@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006685194",
+      "ANCIEN_ID": "SMIAUXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/51/LEGIARTI000006685194.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-12-23",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 mars 1986 modifiant l'arrêté du 16 mai 1980 relatif aux conditions d'admission dans les établissements de formation au diplôme d'Etat d'assistant de service social.",
+          "@c_titre_court": "Arrêté du 7 mars 1986",
+          "@debut": "1986-03-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072661"
+        }
+      ],
+      "@cid": "LEGITEXT000006072661",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-03-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-19",
+          "@etat": "MODIFIE",
+          "@fin": "2000-12-23",
+          "@id": "LEGIARTI000006685193",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-12-23",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006685194",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Peuvent entreprendre les études préparatoires au diplôme d'Etat d'assistant de service social prévu aux articles L. 411-1 et L. 411-6 du code de l'action sociale et des familles les candidats remplissant les conditions fixées par le présent arrêté et ayant réussi les épreuves d'admission prévues à l'article 7 ci-dessous.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1980-05-16 (périmé)",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code de l'action sociale et des familles - art. L411-1 (M)",
+        "@cidtexte": "LEGITEXT000006074069",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006797831",
+        "@naturetexte": "CODE",
+        "@num": "L411-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'action sociale et des familles - art. L411-6 (AbD)",
+        "@cidtexte": "LEGITEXT000006074069",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006797843",
+        "@naturetexte": "CODE",
+        "@num": "L411-6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

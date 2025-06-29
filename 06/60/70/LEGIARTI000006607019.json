@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607019",
+      "ANCIEN_ID": "RAICRXXXXXX027AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/70/LEGIARTI000006607019.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "27",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-07-30",
+        "DATE_FIN": "1987-11-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 juillet 1963 fixant le règlement de comptabilité applicable aux chambres départementales d'agriculture",
+          "@c_titre_court": "Arrêté du 27 juillet 1963",
+          "@debut": "1963-07-30",
+          "@fin": "1987-11-15",
+          "@id_txt": "LEGITEXT000006071433"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dépenses.",
+            "@debut": "1963-07-30",
+            "@fin": "1987-11-15",
+            "@id": "LEGISCTA000006098822"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071433",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1963-07-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-30",
+          "@etat": "ABROGE",
+          "@fin": "1987-11-15",
+          "@id": "LEGIARTI000006607019",
+          "@num": "27",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sans préjudice des dispositions prévues au code du domaine de l'Etat et afférentes aux opérations immobilières poursuivies par les services publics ou d'intérêt public, les acquisitions et échanges d'immeubles sont autorisés par une délibération de la chambre d'agriculture.<br/>\n<br/>   Les contrats sont passés par le président soit par-devant notaire, soit en la forme administrative.<br/>\n<br/>   La dispense d'accomplissement des formalités de purge des privilèges et hypothèques inscrits est autorisée par une délibération spéciale du bureau de la chambre dans la limite du prix d'acquisition fixé par l'article R. 9 du code du domaine de l'Etat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-10-27 art. 26 JORF 15 novembre 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 63-752 1963-07-27",
+        "@cidtexte": "JORFTEXT000000490858",
+        "@datesignatexte": "1963-07-27",
+        "@id": "JORFTEXT000000490858",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-752",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code du domaine de l'Etat - art. R9 (M)",
+        "@cidtexte": "LEGITEXT000006070208",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006350509",
+        "@naturetexte": "CODE",
+        "@num": "R9",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

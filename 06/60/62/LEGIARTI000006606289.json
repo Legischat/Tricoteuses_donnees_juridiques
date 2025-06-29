@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006606289",
+      "ANCIEN_ID": "RAIAIXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/62/LEGIARTI000006606289.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-06-28",
+        "DATE_FIN": "2005-12-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1 juin 1987 RELATIF A L'IDENTIFICATION DES ANIMAUX DE L'ESPECE OVINE",
+          "@c_titre_court": "Arrêté du 1 juin 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000291481"
+        },
+        {
+          "#text": "Arrêté du 1 juin 1987 relatif à l'identification des animaux de l'espèce ovine",
+          "@c_titre_court": "Arrêté du 1 juin 1987",
+          "@debut": "1987-06-28",
+          "@fin": "2005-12-24",
+          "@id_txt": "LEGITEXT000006057553"
+        }
+      ],
+      "@cid": "JORFTEXT000000291481",
+      "@date_publi": "1987-06-28",
+      "@date_signature": "1987-06-01",
+      "@nature": "ARRETE",
+      "@nor": "AGRP8701097A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-06-28",
+          "@etat": "ABROGE",
+          "@fin": "2005-12-24",
+          "@id": "LEGIARTI000006606289",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 18 juillet 1969 relatif à l'identification des animaux de l'espèce ovine est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1969-07-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2005-12-19 art. 39 JORF 24 décembre 2005",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 69-422 1969-05-06",
+        "@cidtexte": "JORFTEXT000000695429",
+        "@datesignatexte": "1969-05-06",
+        "@id": "JORFTEXT000000695429",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-422",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

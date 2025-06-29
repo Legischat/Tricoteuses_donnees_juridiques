@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855214",
+      "ANCIEN_ID": "UPHKAXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/52/LEGIARTI000006855214.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-03-31",
+        "DATE_FIN": "2009-04-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-378 du 27 mars 1973 CREATION DU PARC NATIONAL DES ECRINS",
+          "@c_titre_court": "Décret n°73-378 du 27 mars 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000306560"
+        },
+        {
+          "#text": "Décret n°73-378 du 27 mars 1973 créant le parc national des Ecrins",
+          "@c_titre_court": "Décret n°73-378 du 27 mars 1973",
+          "@debut": "1973-03-31",
+          "@fin": "2009-04-24",
+          "@id_txt": "LEGITEXT000006062095"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : Réglementation générale du parc",
+            "@debut": "1973-03-31",
+            "@fin": "2009-04-24",
+            "@id": "LEGISCTA000006109531"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section 2 : Pêche.",
+              "@debut": "1973-03-31",
+              "@fin": "2009-04-24",
+              "@id": "LEGISCTA000006129508"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000306560",
+      "@date_publi": "1973-03-31",
+      "@date_signature": "1973-03-27",
+      "@nature": "DECRET",
+      "@num": "73-378"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-03-31",
+          "@etat": "ABROGE",
+          "@fin": "2009-04-24",
+          "@id": "LEGIARTI000006855214",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La réglementation applicable à l'exercice de la pêche dans tous les cours d'eau ou plans d'eau est celle fixée par le livre troisième, titre deuxième, du code rural.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 60-708 1960-07-22",
+        "@cidtexte": "JORFTEXT000000512209",
+        "@datesignatexte": "1960-07-22",
+        "@id": "JORFTEXT000000512209",
+        "@naturetexte": "LOI",
+        "@numtexte": "60-708",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 73-378 1973-03-27 JORF 31 MARS 1973 Rectificatif JORF 13 MAI 1973",
+        "@cidtexte": "JORFTEXT000000306560",
+        "@datesignatexte": "1973-03-27",
+        "@id": "JORFTEXT000000306560",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-378",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°73-378 du 27 mars 1973 - art. 20 (Ab)",
+        "@cidtexte": "JORFTEXT000000306560",
+        "@datesignatexte": "1973-03-27",
+        "@id": "LEGIARTI000006855222",
+        "@naturetexte": "DECRET",
+        "@num": "20",
+        "@numtexte": "73-378",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2009-448\n du 21 avril 2009 - art. 30",
+        "@cidtexte": "JORFTEXT000020542722",
+        "@datesignatexte": "2009-04-21",
+        "@id": "LEGIARTI000020544174",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVN0826311D",
+        "@num": "30",
+        "@numtexte": "2009-448",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

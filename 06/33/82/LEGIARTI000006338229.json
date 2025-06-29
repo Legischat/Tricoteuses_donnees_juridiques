@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006338229",
+      "ANCIEN_ID": "MCE04XXXXXX024AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/82/LEGIARTI000006338229.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1970-07-12",
+        "DATE_FIN": "1996-02-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°70-610 du 10 juillet 1970 BOSCHER",
+          "@c_titre_court": "Loi n°70-610 du 10 juillet 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000512446"
+        },
+        {
+          "#text": "Loi n° 70-610 du 10 juillet 1970 tendant à faciliter la création d'agglomérations nouvelles.",
+          "@c_titre_court": "Loi n° 70-610 du 10 juillet 1970",
+          "@debut": "1970-07-12",
+          "@fin": "2017-01-01",
+          "@id_txt": "LEGITEXT000006068379"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : De l'ensemble urbain.",
+            "@debut": "1970-07-12",
+            "@fin": "2017-01-01",
+            "@id": "LEGISCTA000006085272"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000512446",
+      "@date_publi": "1970-07-12",
+      "@date_signature": "1970-07-10",
+      "@nature": "LOI",
+      "@num": "70-610"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-07-12",
+          "@etat": "MODIFIE",
+          "@fin": "1996-02-24",
+          "@id": "LEGIARTI000006338229",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-02-24",
+          "@etat": "ABROGE",
+          "@fin": "2017-01-01",
+          "@id": "LEGIARTI000006338230",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Jusqu'à la publication des résultats du recensement complémentaire prévu à l'article 20 ci-dessus *délai*, les impôts, dont la quotité ou les modalités d'établissement varient en fonction de l'importance de la population du lieu d'imposition, restent calculés dans chaque fraction de l'ensemble urbain correspondant à une commune donnée, d'après l'importance de la population de cette commune déterminée par le dernier décret de dénombrement *recensement*.<br/>\n<br/>       L'ensemble urbain est soumis au même régime que les communes en ce qui concerne les attributions et répartitions du versement représentatif de la part locale de la taxe sur les salaires *recettes*.<br/>\n<br/>       Les dispositions des alinéas 4 et 5 du II de l'article 15 ci-dessus sont applicables à l'ensemble urbain.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 70-610 1970-07-10 ART. 15 et 20",
+        "@cidtexte": "JORFTEXT000000512446",
+        "@datesignatexte": "1970-07-10",
+        "@id": "JORFTEXT000000512446",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-610",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des communes L256-3 *Alinéa 1 de l'article 24 de la loi du 10 juillet 1970*",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070162",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

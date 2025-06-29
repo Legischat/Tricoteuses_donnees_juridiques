@@ -1,0 +1,73 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006716242",
+      "ANCIEN_ID": "SPIAEXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/62/LEGIARTI000006716242.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-08-31",
+        "DATE_FIN": "1988-02-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 août 1984 relatif au dossier guide prévu par l'article L. 162-3 du code de la santé publique.",
+          "@c_titre_court": "Arrêté du 22 août 1984",
+          "@debut": "1984-08-31",
+          "@fin": "1988-02-03",
+          "@id_txt": "LEGITEXT000006072764"
+        }
+      ],
+      "@cid": "LEGITEXT000006072764",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-08-22",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-08-31",
+          "@etat": "ABROGE",
+          "@fin": "1988-02-03",
+          "@id": "LEGIARTI000006716242",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est procédé à la mise à jour du dossier guide au 1er janvier de chaque année [*périodicité*] à partir de documents préparés par les services du ministère des affaires sociales et de la solidarité nationale.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-12-29 art. 4 JORF 3 février 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique L162-3 : interruption volontaire de grossesse",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

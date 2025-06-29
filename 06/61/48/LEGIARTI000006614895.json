@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006614895",
+      "ANCIEN_ID": "ADIILXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/48/LEGIARTI000006614895.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1983-02-10",
+        "DATE_FIN": "1986-01-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1 septembre 1982 relatif au commerce des épices et aromates irradiés",
+          "@c_titre_court": "Arrêté du 1 septembre 1982",
+          "@debut": "1983-02-10",
+          "@fin": "2002-09-07",
+          "@id_txt": "LEGITEXT000006071566"
+        }
+      ],
+      "@cid": "LEGITEXT000006071566",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-09-01",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-02-10",
+          "@etat": "MODIFIE",
+          "@fin": "1986-01-28",
+          "@id": "LEGIARTI000006614895",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-28",
+          "@etat": "ABROGE",
+          "@fin": "2002-09-07",
+          "@id": "LEGIARTI000006614896",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont autorisées dans les conditions définies ci-après la détention en vue de la vente, la mise en vente et la vente des épices et aromates cités en annexe dont la décontamination microbienne a été obtenue par exposition aux rayonnements gamma du cobalt 60 ou du césium 137.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-09-01 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 70-392 1970-05-08",
+        "@cidtexte": "JORFTEXT000000304045",
+        "@datesignatexte": "1970-05-08",
+        "@id": "JORFTEXT000000304045",
+        "@naturetexte": "DECRET",
+        "@numtexte": "70-392",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

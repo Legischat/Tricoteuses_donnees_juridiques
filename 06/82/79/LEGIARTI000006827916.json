@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006827916",
+      "ANCIEN_ID": "UCIAEXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/79/LEGIARTI000006827916.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-10-30",
+        "DATE_FIN": "1982-09-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 octobre 1969 RELATIF A L'AERATION DES LOGEMENTS",
+          "@c_titre_court": "Arrêté du 22 octobre 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000826659"
+        },
+        {
+          "#text": "Arrêté du 22 octobre 1969 relatif à l'aération des logements",
+          "@c_titre_court": "Arrêté du 22 octobre 1969",
+          "@debut": "1969-10-30",
+          "@fin": "1982-09-28",
+          "@id_txt": "LEGITEXT000006074103"
+        }
+      ],
+      "@cid": "JORFTEXT000000826659",
+      "@date_publi": "1969-10-30",
+      "@date_signature": "1969-10-22",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-10-30",
+          "@etat": "ABROGE",
+          "@fin": "1982-09-28",
+          "@id": "LEGIARTI000006827916",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le directeur de la construction et le directeur de l'aménagement foncier et de l'urbanisme sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 69-596 1969-06-14 art. 8",
+        "@cidtexte": "JORFTEXT000000697837",
+        "@datesignatexte": "1969-06-14",
+        "@id": "JORFTEXT000000697837",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-596",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 24 mars 1982 - art. 18 (V)",
+        "@cidtexte": "JORFTEXT000000862344",
+        "@datesignatexte": "1982-03-24",
+        "@id": "LEGIARTI000006830572",
+        "@naturetexte": "ARRETE",
+        "@num": "18",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation R111-9",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

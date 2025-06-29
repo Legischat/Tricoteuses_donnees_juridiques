@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006364445",
+      "ANCIEN_ID": "MREADXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/44/LEGIARTI000006364445.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-07-13",
+        "DATE_FIN": "1994-12-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-595 du 10 juillet 1982 RELATIVE AUX PRESIDENTS DES CHAMBRES REGIONALES DES COMPTES ET AU STATUT DES MEMBRES DES CHAMBRES REGIONALES DES COMPTES",
+          "@c_titre_court": "Loi n°82-595 du 10 juillet 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000504201"
+        },
+        {
+          "#text": "Loi n°82-595 du 10 juillet 1982 relative aux présidents des chambres régionales des comptes et au statut des membres des chambres régionales des comptes.",
+          "@c_titre_court": "Loi n°82-595 du 10 juillet 1982",
+          "@debut": "1982-07-13",
+          "@fin": "1994-12-06",
+          "@id_txt": "LEGITEXT000006068751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions générales.",
+            "@debut": "1982-07-13",
+            "@fin": "1994-12-06",
+            "@id": "LEGISCTA000006086181"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000504201",
+      "@date_publi": "1982-07-13",
+      "@date_signature": "1982-07-10",
+      "@nature": "LOI",
+      "@num": "82-595"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-07-13",
+          "@etat": "ABROGE",
+          "@fin": "1994-12-06",
+          "@id": "LEGIARTI000006364445",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Nul ne peut être nommé magistrat [*incompatibilité*] dans une chambre régionale des comptes s'il a été déclaré comptable de fait et s'il ne lui a pas été donné quitus.<br/>\n<br/>   Si la déclaration intervient postérieurement à sa nomination, le magistrat est suspendu de ses fonctions, selon le cas par le président de la chambre régionale ou le procureur général près la Cour des comptes, dans les conditions prévues au deuxième alinéa de l'article 25 ci-après, jusqu'à ce que quitus lui soit donné.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 82-595 1982-07-10 ART. 25",
+        "@cidtexte": "JORFTEXT000000504201",
+        "@datesignatexte": "1982-07-10",
+        "@id": "JORFTEXT000000504201",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-595",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°83-224 du 22 mars 1983 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000315625",
+        "@datesignatexte": "1983-03-22",
+        "@id": "LEGIARTI000006365195",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "83-224",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 94-1040 1994-12-02 art. 8 jorf 6 décembre 1994",
+        "@cidtexte": "JORFTEXT000000733681",
+        "@datesignatexte": "1994-12-02",
+        "@id": "JORFTEXT000000733681",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9300187L",
+        "@numtexte": "94-1040",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

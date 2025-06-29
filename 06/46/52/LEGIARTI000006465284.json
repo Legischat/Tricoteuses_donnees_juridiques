@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006465284",
+      "ANCIEN_ID": "ACEAJXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/52/LEGIARTI000006465284.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1958-10-28",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°49-458 du 2 avril 1949 E LE MAINTIEN DANS LES LIEUX A CERTAINS CLIENTS DES HOTELS, PENSIONS DE FAMILLE ET MEUBLES",
+          "@c_titre_court": "Loi n°49-458 du 2 avril 1949",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880736"
+        },
+        {
+          "#text": "Loi n° 49-458 du 2 avril 1949 accordant le bénéfice du maintien dans les lieux à certains clients des hôtels, pensions de famille et meublés",
+          "@c_titre_court": "Loi n° 49-458 du 2 avril 1949",
+          "@debut": "1949-04-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068063"
+        }
+      ],
+      "@cid": "JORFTEXT000000880736",
+      "@date_publi": "1949-04-03",
+      "@date_signature": "1949-04-02",
+      "@nature": "LOI",
+      "@num": "49-458"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-10-28",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006465284",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans toutes les communes, les prix des chambres ou des logements dont le bailleur exerce la profession de loueur en meublé, au sens défini par la présente loi, restent soumis aux dispositions de l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°49-458 du 2 avril 1949 - art. 8 (V)",
+        "@cidtexte": "JORFTEXT000000880736",
+        "@datesignatexte": "1949-04-02",
+        "@id": "LEGIARTI000006465286",
+        "@naturetexte": "LOI",
+        "@num": "8",
+        "@numtexte": "49-458",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

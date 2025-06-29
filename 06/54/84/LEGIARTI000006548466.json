@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006548466",
+      "ANCIEN_ID": "ADHDRXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/84/LEGIARTI000006548466.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-05-31",
+        "DATE_FIN": "2016-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°68-485 du 29 mai 1968 NOIX DE GRENOBLE",
+          "@c_titre_court": "Décret n°68-485 du 29 mai 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868604"
+        },
+        {
+          "#text": "Décret n°68-485 du 29 mai 1968 pris pour l'application, en ce qui concerne la noix de Grenoble, de la loi du 1er août 1905 sur la répression des fraudes et relatif à la création d'un comité interprofessionnel de la noix de Grenoble",
+          "@c_titre_court": "Décret n°68-485 du 29 mai 1968",
+          "@debut": "1968-05-31",
+          "@fin": "2016-07-01",
+          "@id_txt": "LEGITEXT000006061563"
+        }
+      ],
+      "@cid": "JORFTEXT000000868604",
+      "@date_publi": "1968-05-31",
+      "@date_signature": "1968-05-29",
+      "@nature": "DECRET",
+      "@num": "68-485"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-05-31",
+          "@etat": "ABROGE",
+          "@fin": "2016-07-01",
+          "@id": "LEGIARTI000006548466",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Hors des magasins de stockage et des ateliers de traitement ou de conditionnement, la vente, la mise en vente, la détention en vue de la vente des noix produites sous l'appellation \"Noix de Grenoble\", telle qu'elle est définie par le décret susvisé du 17 juin 1938 ne peut s'effectuer qu'en emballage portant une vignette de contrôle dont le modèle est déposé dans les conditions prévues par la loi susvisée du 31 décembre 1964.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°64-1360 du 31 décembre 1964",
+        "@cidtexte": "JORFTEXT000000509985",
+        "@datesignatexte": "1964-12-31",
+        "@id": "JORFTEXT000000509985",
+        "@naturetexte": "LOI",
+        "@numtexte": "64-1360",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°68-485 du 29 mai 1968 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000868604",
+        "@datesignatexte": "1968-05-29",
+        "@id": "LEGIARTI000006548477",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "68-485",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 21 octobre 1968 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000441741",
+        "@datesignatexte": "1968-10-21",
+        "@id": "LEGIARTI000006636995",
+        "@naturetexte": "ARRETE",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2016-884 du 29 juin 2016 - art. 8",
+        "@cidtexte": "JORFTEXT000032797752",
+        "@datesignatexte": "2016-06-29",
+        "@id": "LEGIARTI000032803154",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EINC1608218D",
+        "@num": "8",
+        "@numtexte": "2016-884",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Décret-loi 1938-06-17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

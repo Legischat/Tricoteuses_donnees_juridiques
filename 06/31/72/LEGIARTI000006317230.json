@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006317230",
+      "ANCIEN_ID": "FAEBHXXXXXX073AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/72/LEGIARTI000006317230.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "73",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1980-01-19",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°80-30 du 18 janvier 1980 DE FINANCES POUR 1980",
+          "@c_titre_court": "Loi n°80-30 du 18 janvier 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705191"
+        },
+        {
+          "#text": "Loi n° 80-30 du 18 janvier 1980 de finances pour 1980 (1)",
+          "@c_titre_court": "Loi n° 80-30 du 18 janvier 1980",
+          "@debut": "1980-01-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068686"
+        }
+      ],
+      "@cid": "JORFTEXT000000705191",
+      "@date_publi": "1980-01-19",
+      "@date_signature": "1980-01-18",
+      "@nature": "LOI",
+      "@num": "80-30"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-01-19",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006317230",
+          "@num": "73",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Alinéa modificateur<br/>\n<br/>   Il ne sera pas fait application des dispositions précédentes aux litiges pour lesquels une réclamation accompagnée d'un sursis de paiement a été déposée avant la date d'entrée en vigueur de la présente loi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 80-30 1980-01-18 Finances pour 1980 JORF 19 JANVIER 1980",
+        "@cidtexte": "JORFTEXT000000705191",
+        "@datesignatexte": "1980-01-18",
+        "@id": "JORFTEXT000000705191",
+        "@naturetexte": "LOI",
+        "@numtexte": "80-30",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Livre des procédures fiscales - art. L209 (M)",
+        "@cidtexte": "LEGITEXT000006069583",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006315980",
+        "@naturetexte": "CODE",
+        "@num": "L209",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

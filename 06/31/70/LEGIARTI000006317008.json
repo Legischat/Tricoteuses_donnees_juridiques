@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006317008",
+      "ANCIEN_ID": "FAEAQXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/70/LEGIARTI000006317008.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1977-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°76-1234 du 29 décembre 1976 MODIFIANT LES REGLES DE TERRITORIALITE ET LES CONDITIONS D'IMPOSITION DES FRANCAIS A L'ETRANGER AINSI QUE DES AUTRES PERSONNES NON DOMICILIEES EN FRANCE",
+          "@c_titre_court": "Loi n°76-1234 du 29 décembre 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000699569"
+        },
+        {
+          "#text": "Loi n° 76-1234 du 29 décembre 1976 MODIFIANT LES REGLES DE TERRITORIALITE ET LES CONDITIONS D'IMPOSITION DES FRANCAIS DE L'ETRANGER AINSI QUE DES AUTRES PERSONNES NON DOMICILIEES EN FRANCE.",
+          "@c_titre_court": "Loi n° 76-1234 du 29 décembre 1976",
+          "@debut": "1977-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068541"
+        }
+      ],
+      "@cid": "JORFTEXT000000699569",
+      "@date_publi": "1976-12-30",
+      "@date_signature": "1976-12-29",
+      "@nature": "LOI",
+      "@num": "76-1234"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006317008",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sommes versées en rémunération d'une activité déployée en France dans l'exercice de l'une des professions mentionnées à l'article 92 du code général des impôts ainsi que les produits ou sommes définis aux b et c de l'article 6 donnent lieu à l'application d'une retenue à la source lorsqu'ils sont payés par un débiteur établi en France à des personnes ou des sociétés relevant de l'impôt sur le revenu ou de l'impôt sur les sociétés, qui n'ont pas dans ce pays d'installation professionnelle permanente.<br/>\n<br/>   Le taux de la retenue est fixé à 33 1/3 p. 100.<br/>\n<br/>   La retenue s'impute sur le montant de l'impôt sur le revenu établi dans les conditions prévues à l'article 4, ou de l'impôt sur les sociétés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 92",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 76-1234 1976-12-29 art. 6 b, c, art. 4",
+        "@cidtexte": "JORFTEXT000000699569",
+        "@datesignatexte": "1976-12-29",
+        "@id": "JORFTEXT000000699569",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-1234",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°76-1234 du 29 décembre 1976 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000699569",
+        "@datesignatexte": "1976-12-29",
+        "@id": "LEGIARTI000006317002",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@numtexte": "76-1234",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006553082",
+      "ANCIEN_ID": "PRIGGXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/30/LEGIARTI000006553082.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2008-01-01",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 mars 1995 portant organisation du comité de coordination des    commissariats",
+          "@c_titre_court": "Arrêté du 17 mars 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000735129"
+        },
+        {
+          "#text": "Arrêté du 17 mars 1995 portant organisation du comité de coordination des commissariats",
+          "@c_titre_court": "Arrêté du 17 mars 1995",
+          "@debut": "1995-04-12",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000005618269"
+        }
+      ],
+      "@cid": "JORFTEXT000000735129",
+      "@date_publi": "1995-04-12",
+      "@date_signature": "1995-03-17",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "ARRETE",
+      "@nor": "DEFD9501341A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-04-12",
+          "@etat": "MODIFIE",
+          "@fin": "2008-01-01",
+          "@id": "LEGIARTI000006553081",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2008-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006553082",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des comités régionaux du comité de coordination des commissariats peuvent être constitués à raison d'un comité pour l'ensemble des circonscriptions militaires de défense, régions maritimes et régions aériennes situées dans les limites territoriales d'une région militaire de défense.<br/>\n<br/>   Ils réunissent les directeurs locaux des services du commissariat de l'armée de terre, du commissariat de la marine et service de l'administration générale et des finances de l'armée de l'air et des représentants du commandant de la région de gendarmerie. Les directeurs locaux dont le ressort territorial est dans la circonscription militaire d'Ile-de-France sont rattachés au comité décentralisé Nord-Est.<br/>\n<br/>   Ils sont présidés par un directeur appartenant à la même armée que le président en exercice du comité de coordination des commissariats.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2007-600 du 26 avril 2007 - art. 4 (VD) JORF 27 avril 2007 en vigueur le 1er janvier 2008",
+        "@cidtexte": "JORFTEXT000000649836",
+        "@datesignatexte": "2007-04-26",
+        "@id": "LEGIARTI000006263106",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFX0750541D",
+        "@num": "4",
+        "@numtexte": "2007-600",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 14 décembre 2009 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000021504807",
+        "@datesignatexte": "2009-12-14",
+        "@id": "LEGIARTI000021505926",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEFD0930219A",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

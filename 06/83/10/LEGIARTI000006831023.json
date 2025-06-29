@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006831023",
+      "ANCIEN_ID": "UCIMKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/10/LEGIARTI000006831023.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-01-10",
+        "DATE_FIN": "2003-05-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 janvier 1995 relatif à la limitation du bruit    dans les établissements d'enseignement",
+          "@c_titre_court": "Arrêté du 9 janvier 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000550722"
+        },
+        {
+          "#text": "Arrêté du 9 janvier 1995 relatif à la limitation du bruit dans les établissements d'enseignement",
+          "@c_titre_court": "Arrêté du 9 janvier 1995",
+          "@debut": "1996-01-10",
+          "@fin": "2003-05-28",
+          "@id_txt": "LEGITEXT000005617460"
+        }
+      ],
+      "@cid": "JORFTEXT000000550722",
+      "@date_publi": "1995-01-10",
+      "@date_signature": "1995-01-09",
+      "@ministere": "MINISTERE DE L'ENVIRONNEMENT",
+      "@nature": "ARRETE",
+      "@nor": "ENVP9430388A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-01-10",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-28",
+          "@id": "LEGIARTI000006831023",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Conformément aux dispositions de l'article R. 111-23-2 du code de la construction et de l'habitation, le présent arrêté fixe les seuils de bruit et les exigences techniques applicables aux établissements d'enseignement.<br/>\n<br/>   On entend par établissements d'enseignement les écoles maternelles, les écoles élémentaires, les collèges, les lycées, les universités et établissements d'enseignement supérieur, d'enseignement général, technique ou professionnel, publics ou privés.<br/>\n<br/>   Les logements restent soumis à la réglementation concernant les bâtiments à usage d'habitation, au regard de laquelle les autres locaux de l'établissement d'enseignement sont alors considérés comme des locaux d'activités.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-01-09 art. 9",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 2003-04-25 art. 11 JORF 28 mai 2003",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation R.111-23-1 à R.111-23-3",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation. - art. R111-23-2 (V)",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006895980",
+        "@naturetexte": "CODE",
+        "@num": "R111-23-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

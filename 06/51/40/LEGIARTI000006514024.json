@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006514024",
+      "ANCIEN_ID": "ADEDXXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/40/LEGIARTI000006514024.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1956-08-07",
+        "DATE_FIN": "1990-01-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°51-676 du 24 mai 1951 CULTURE ET PRIX DE LA CHICOREE A CAFE",
+          "@c_titre_court": "Loi n°51-676 du 24 mai 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517493"
+        },
+        {
+          "#text": "Loi n°51-676 du 24 mai 1951 relative à la culture et au prix de la chicorée à café",
+          "@c_titre_court": "Loi n°51-676 du 24 mai 1951",
+          "@debut": "1951-06-01",
+          "@fin": "1990-01-25",
+          "@id_txt": "LEGITEXT000006068100"
+        }
+      ],
+      "@cid": "JORFTEXT000000517493",
+      "@date_publi": "1951-06-01",
+      "@date_signature": "1951-05-24",
+      "@nature": "LOI",
+      "@num": "51-676"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-08-07",
+          "@etat": "ABROGE",
+          "@fin": "1990-01-25",
+          "@id": "LEGIARTI000006514024",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un décret, pris sur le rapport du secrétaire d'Etat à l'agriculture et du ministre des affaires économiques et financières, établira les mesures de contingentement et d'écoulement de la production des racines vertes et séchées, notamment par voie de blocage et de contrôle, nécessaires à l'application de l'article 1er.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°51-676 du 24 mai 1951 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000517493",
+        "@datesignatexte": "1951-05-24",
+        "@id": "LEGIARTI000006514023",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "51-676",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°51-676 du 24 mai 1951 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000517493",
+        "@datesignatexte": "1951-05-24",
+        "@id": "LEGIARTI000006514032",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "51-676",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°90-85 du 23 janvier 1990 - art. 50 () JORF 25 janvier 1990",
+        "@cidtexte": "JORFTEXT000000525219",
+        "@datesignatexte": "1990-01-23",
+        "@id": "LEGIARTI000006600148",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX8900045L",
+        "@num": "50",
+        "@numtexte": "90-85",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

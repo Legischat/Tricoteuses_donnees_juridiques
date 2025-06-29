@@ -1,0 +1,141 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006920097",
+      "ANCIEN_ID": "AKHAKXXXXXX017AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/00/LEGIARTI000006920097.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-05-13",
+        "DATE_FIN": "2022-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 56-222 du 29 février 1956 portant règlement d'administration publique pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice",
+          "@c_titre_court": "Décret n° 56-222 du 29 février 1956",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000686521"
+        },
+        {
+          "#text": "Décret n°56-222 du 29 février 1956 pris pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice",
+          "@c_titre_court": "Décret n°56-222 du 29 février 1956",
+          "@debut": "1956-03-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060767"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Statut personnel des huissiers de justice",
+            "@debut": "1956-03-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006113015"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section II : Attributions et obligations des huissiers de justice",
+              "@debut": "1956-03-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006132430"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Paragraphe III : Obligations professionnelles.",
+                "@debut": "1956-03-03",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006145535"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000686521",
+      "@date_publi": "1956-03-03",
+      "@date_signature": "1956-02-29",
+      "@nature": "DECRET",
+      "@num": "56-222"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-03-03",
+          "@etat": "MODIFIE",
+          "@fin": "1986-05-13",
+          "@id": "LEGIARTI000006920096",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-05-13",
+          "@etat": "ABROGE",
+          "@fin": "2022-07-01",
+          "@id": "LEGIARTI000006920097",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Dans l'exercice de leurs fonctions, les huissiers de justice justifient de leur qualité en présentant une carte professionnelle dont le modèle et le mode de délivrance sont fixés par arrêté du garde des sceaux, ministre de la justice.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-2592 1945-11-02",
+        "@cidtexte": "JORFTEXT000000699573",
+        "@datesignatexte": "1945-11-02",
+        "@id": "JORFTEXT000000699573",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2592",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°86-734 du 2 mai 1986 - art. 2 () JORF 13 mai 1986",
+        "@cidtexte": "JORFTEXT000000885547",
+        "@datesignatexte": "1986-05-02",
+        "@id": "LEGIARTI000006924622",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "86-734",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2021-1625 du 10 décembre 2021 - art. 33 (VD)",
+        "@cidtexte": "JORFTEXT000044472061",
+        "@datesignatexte": "2021-12-10",
+        "@id": "LEGIARTI000044476259",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC2108275D",
+        "@num": "33",
+        "@numtexte": "2021-1625",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

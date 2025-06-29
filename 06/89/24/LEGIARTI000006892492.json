@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006892492",
+      "ANCIEN_ID": "UUICWXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/24/LEGIARTI000006892492.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-27",
+        "DATE_FIN": "2021-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 novembre 1973 CONDITIONS D'UTILISATION DE L'AERODROME DE TOUSSUS-LE-NOBLE",
+          "@c_titre_court": "Arrêté du 23 novembre 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000835166"
+        },
+        {
+          "#text": "Arrêté du 23 novembre 1973 fixant les conditions d'utilisation de l'aérodrome de Toussus-le-Noble",
+          "@c_titre_court": "Arrêté du 23 novembre 1973",
+          "@debut": "1973-11-27",
+          "@fin": "2021-07-01",
+          "@id_txt": "LEGITEXT000006075112"
+        }
+      ],
+      "@cid": "JORFTEXT000000835166",
+      "@date_publi": "1973-11-27",
+      "@date_signature": "1973-11-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-27",
+          "@etat": "ABROGE",
+          "@fin": "2021-07-01",
+          "@id": "LEGIARTI000006892492",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Au cas où l'exposition globale au bruit définie à l'article 1er dépasse les valeurs à respecter, le secrétaire général à l'aviation civile notifie à l'Aéroport de Paris les mesures à prendre pour faire cesser ce dépassement, notamment en matière de trajectoire, de procédure d'envol et d'atterrissage ou de limitation de trafic.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1973-11-23 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 11 juin 2021 - art. 4",
+        "@cidtexte": "JORFTEXT000043679298",
+        "@datesignatexte": "2021-06-11",
+        "@id": "LEGIARTI000043682304",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TRAA2115677A",
+        "@num": "4",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de l'aviation civile - art. R221-3 (V)",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006844715",
+        "@naturetexte": "CODE",
+        "@num": "R221-3",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

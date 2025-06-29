@@ -1,0 +1,63 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006536889",
+      "ANCIEN_ID": "PPIIIXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/68/LEGIARTI000006536889.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1988-05-10",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 mai 1988 PORTANT CREATION D'UN TRAITEMENT AUTOMATISE RELATIF A L'UTILISATION DE CARTES BANCAIRES A MICROPROCESSEUR DANS LES PUBLIPHONES",
+          "@c_titre_court": "Arrêté du 6 mai 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000663350"
+        },
+        {
+          "#text": "Arrêté du 6 mai 1988 portant création d'un traitement automatisé relatif à l'utilisation de cartes bancaires à microprocesseur dans les publiphones",
+          "@c_titre_court": "Arrêté du 6 mai 1988",
+          "@debut": "1988-05-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006058377"
+        }
+      ],
+      "@cid": "JORFTEXT000000663350",
+      "@date_publi": "1988-05-10",
+      "@date_signature": "1988-05-06",
+      "@nature": "ARRETE",
+      "@nor": "PTTT8800427A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-05-10",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006536889",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le numéro de carte bancaire constitue la seule information permettant d'identifier le porteur de la carte.<br/>\n<br/>   A chaque utilisation de la carte bancaire dans les publiphones, et après contrôle du code confidentiel du porteur, le système procède au rapprochement du numéro de la carte avec :<br/>\n<br/>   1. Une liste de plages de numéros autorisés au service publiphone (liste jaune) ;<br/>\n<br/>   2. Une liste de numéros de cartes bancaires volées, perdues, ou de payeurs défaillants (liste noire).<br/>\n<br/>   Ces listes sont établies et fournies par le groupement d'intérêt économique Cartes bancaires.<br/>\n<br/>   A chaque opération de téléchargement d'une carte bancaire, le publiphone inscrit à titre de certificat d'ouverture des zones dans la mémoire de la carte le nombre d'unités Télécom achetées, l'année, le mois et le jour de l'opération. Le publiphone saisit le numéro de la carte, le nombre d'unités Télécom achetées, l'année, le mois et le jour de l'opération, et transmet au réseau bancaire le numéro de la carte, le nombre d'unités Télécom achetées, l'année, le mois et le jour de l'opération.<br/>"
+  }
+}

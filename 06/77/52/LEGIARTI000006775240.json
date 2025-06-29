@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006775240",
+      "ANCIEN_ID": "AGAXXXXXXXX5X00031AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/77/52/LEGIARTI000006775240.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "31",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1952-07-01",
+        "DATE_FIN": "1963-07-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code des caisses d'épargne",
+          "@c_titre_court": "Code des caisses d'épargne",
+          "@debut": "1952-07-01",
+          "@fin": "2005-08-25",
+          "@id_txt": "LEGITEXT000006073422"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions spéciales à la Caisse nationale d'épargne",
+            "@debut": "1952-07-01",
+            "@fin": "2005-08-25",
+            "@id": "LEGISCTA000006107320"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre I : Rapports avec les déposants.",
+              "@debut": "1952-07-01",
+              "@fin": "2005-08-25",
+              "@id": "LEGISCTA000006127907"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006073422",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1952-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1963-07-16",
+          "@id": "LEGIARTI000006775240",
+          "@num": "31",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-08-05",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006775241",
+          "@num": "31",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   (article abrogé).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 52-759 1952-06-27",
+        "@cidtexte": "JORFTEXT000000688448",
+        "@datesignatexte": "1952-06-27",
+        "@id": "JORFTEXT000000688448",
+        "@naturetexte": "DECRET",
+        "@numtexte": "52-759",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 58-346 1958-04-03 (validation)",
+        "@cidtexte": "JORFTEXT000000511672",
+        "@datesignatexte": "1958-04-03",
+        "@id": "JORFTEXT000000511672",
+        "@naturetexte": "LOI",
+        "@numtexte": "58-346",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R652-2 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006751863",
+        "@naturetexte": "CODE",
+        "@num": "R652-2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 63-692 1963-07-10 art. 2 JORF 16 juillet 1963",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

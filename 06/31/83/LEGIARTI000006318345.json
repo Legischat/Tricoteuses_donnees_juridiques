@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006318345",
+      "ANCIEN_ID": "FAEFJXXXXXX059AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/83/LEGIARTI000006318345.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "59",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1991-12-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI de finances rectificative pour 1991  (n° 91-1323 du 30 décembre 1991)  (1)",
+          "@c_titre_court": "Loi",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000355987"
+        },
+        {
+          "#text": "Loi n° 91-1323 du 30 décembre 1991 de finances rectificative pour 1991 (1)",
+          "@c_titre_court": "Loi n° 91-1323 du 30 décembre 1991",
+          "@debut": "1991-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006078469"
+        }
+      ],
+      "@cid": "JORFTEXT000000355987",
+      "@date_publi": "1991-12-31",
+      "@date_signature": "1991-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX9100184L",
+      "@num": "91-1323"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006318345",
+          "@num": "59",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. et II. Paragraphes modificateurs<br/>\n<br/>   III. - Les dispositions des I et II s'appliquent aux successions ouvertes et aux donations consenties à compter du 1er juillet 1992.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 91-1323 1991-12-30 Finances rectificative pour 1992 JORF 31 décembre 1991",
+        "@cidtexte": "JORFTEXT000000355987",
+        "@datesignatexte": "1991-12-30",
+        "@id": "JORFTEXT000000355987",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9100184L",
+        "@numtexte": "91-1323",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 793 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006310406",
+        "@naturetexte": "CODE",
+        "@num": "793",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 793 bis (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006305467",
+        "@naturetexte": "CODE",
+        "@num": "793 bis",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

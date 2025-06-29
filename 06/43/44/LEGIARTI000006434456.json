@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006434456",
+      "ANCIEN_ID": "PEAXXXXXXXX1X349L00AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/44/LEGIARTI000006434456.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "349",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1983-05-01",
+        "DATE_FIN": "1999-11-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de justice militaire",
+          "@c_titre_court": "Code de justice militaire",
+          "@debut": "1983-05-01",
+          "@fin": "2007-05-12",
+          "@id_txt": "LEGITEXT000006070884"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1983-05-01",
+            "@fin": "2007-05-12",
+            "@id": "LEGISCTA000006090526"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Procédure pénale militaire",
+              "@debut": "1983-05-01",
+              "@fin": "2007-05-12",
+              "@id": "LEGISCTA000006117975"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre V : Des procédures particulières et des procédures d'exécution",
+                "@debut": "1983-05-01",
+                "@fin": "2007-05-12",
+                "@id": "LEGISCTA000006136301"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre VI : De l'exécution des jugements",
+                  "@debut": "1983-05-01",
+                  "@fin": "2007-05-12",
+                  "@id": "LEGISCTA000006150191"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070884",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-01",
+          "@etat": "MODIFIE",
+          "@fin": "1999-11-11",
+          "@id": "LEGIARTI000006434456",
+          "@num": "349",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-11-11",
+          "@etat": "ABROGE",
+          "@fin": "2007-05-12",
+          "@id": "LEGIARTI000006434457",
+          "@num": "349",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque le jugement concerne un militaire, dans les trois jours de sa mise à exécution, le commissaire du Gouvernement est tenu d'adresser un extrait du jugement au chef de corps, de la formation ou du service auquel appartenait le condamné.<br/>\n<br/>   Si le condamné est membre de l'ordre de la Légion d'honneur ou de celui du Mérite ou est décoré de la médaille militaire ou de toute autre décoration relevant de la grande chancellerie de la Légion d'honneur, il est également adressé une expédition du jugement à celle-ci.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 82-621 1982-07-21 JORF 22 juillet 1982 rectificatif JORF 3 août 1982 en vigueur le 1er mai 1983",
+        "@cidtexte": "JORFTEXT000000504202",
+        "@datesignatexte": "1982-07-21",
+        "@id": "JORFTEXT000000504202",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-621",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 82-984 1982-11-19",
+        "@cidtexte": "JORFTEXT000000331734",
+        "@datesignatexte": "1982-11-19",
+        "@id": "JORFTEXT000000331734",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-984",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

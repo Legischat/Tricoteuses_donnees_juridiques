@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006663717",
+      "ANCIEN_ID": "SEHHKXXXXXXA00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/37/LEGIARTI000006663717.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1987-02-20",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°87-112 du 18 février 1987 FIXANT,EN APPLICATION DE L'ART. R513-30 DU CODE DU TRAVAIL,LES NORMES TECHNIQUES ET LES MODELES TECHNIQUES DES ETATS RELATIFS AUX DECLARATIONS NOMINATIVES DES SALARIES INVOLONTAIREMENT PRIVES D'EMPLOI EN VUE DE L'ETABLISSEMENT DES LISTES ELECTORALES PRUD'HOMALES",
+          "@c_titre_court": "Décret n°87-112 du 18 février 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000884856"
+        },
+        {
+          "#text": "Décret n°87-112 du 18 février 1987 fixant, en application de l'article R. 513-30 du code du travail, les normes techniques et les modèles des états relatifs aux déclarations nominatives des salariés et des employeurs et aux demandes des salariés involontairement privés d'emploi *chômeurs* en vue de l'établissement des listes électorales prud'homales",
+          "@c_titre_court": "Décret n°87-112 du 18 février 1987",
+          "@debut": "1987-02-20",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006065806"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1987-02-20",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101778"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "NORMES TECHNIQUES DES DECLARATIONS SUR SUPPORT MAGNETIQUE (BANDE OU DISQUETTE) EN VUE DE L'ETABLISSEMENT DES LISTES ELECTORALES PRUD'HOMALES",
+              "@debut": "1987-02-20",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006124156"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000884856",
+      "@date_publi": "1987-02-20",
+      "@date_signature": "1987-02-18",
+      "@nature": "DECRET",
+      "@nor": "ASET8703110D",
+      "@num": "87-112"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-02-20",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006663717",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Déclaration sur bande magnétique<br/>\n Le support :<br/>\n - Bandes 9 pistes (standard).<br/>\n - Codification EBCDIC ou ASCII.<br/>\n - Sans aucun label.<br/>\n - Densité : 1 600 ou 6 250 bpi.<br/>\n - Facteur de blocage inférieur à 10.<br/>\n - Un seul fichier physique par bande.<br/>\n - Les fichiers multi-volumes sont acceptés.<br/>\n Structure du fichier :<br/>\n Pour chaque établissement :<br/>\n 1 enregistrement en tête (020).<br/>\n N enregistrements détails (200).<br/>\n 1 enregistrement fin (300).<br/>\n Plusieurs établissements possibles par bande.<br/>\n Dessins des enregistrements :<br/>\n Lrecl : 300.<br/>\n Organisation séquentielle.<br/>\n Détail des formats dans le tableau ci-après.<br/>\n<br/>   Déclaration sur disquette 8 pouces<br/>\n Le support :<br/>\n - 8 pouces au format 3740.<br/>\n - Double face, double densité.<br/>\n - Label raison sociale.<br/>\n - Un seul fichier physique par disquette.<br/>\n Structure du fichier :<br/>\n Pour chaque établissement :<br/>\n 1 enregistrement en tête (020).<br/>\n N enregistrements détails (200).<br/>\n 1 enregistrement fin (300).<br/>\n Tous ces enregistrements sont tronçonnés en 3 secteurs de 128 octets.<br/>\n Chaque enregistrement est complété à 384 par ajout de 84 blancs qui se retrouvent en fin de 3e secteur.<br/>\n Plusieurs établissements possibles par disquette.<br/>\n Dessins des enregistrements :<br/>\n Lrecl: 384.<br/>\n Organisation séquentielle.<br/>\n Détail des formats dans le tableau ci-après.<br/>\n<br/>   Déclaration sur disquette 5 pouces 1/4<br/>\n Le support :<br/>\n - 5J 1/4 au format IBM/PC ou vrai compatible.<br/>\n - DOS 2.1. et au-dessus.<br/>\n - Densité 360 Ko ou 120 Ko.<br/>\n Structure du fichier :<br/>\n Pour chaque établissement :<br/>\n 1 enregistrement en tête (020).<br/>\n N enregistrements détails (200).<br/>\n 1 enregistrement fin (300).<br/>\n Plusieurs établissements possibles par disquettes.<br/>\n Dessins des enregistrements :<br/>\n Lrecl : 300.<br/>\n Organisation séquentielle.<br/>\n Détail des formats dans le tableau ci-après.<br/>\n<br/>   Codification des informations spécifiques<br/>\n<br/>   pour les élections prud'homales<br/>\n Suffixe de l'identifiant :<br/>\n<br/>   Pour le cas où l'identifiant de l'entreprise est commun à plusieurs établissements, distinguez chaque établissement à l'aide de ce suffixe, en adoptant une classification numérique et/ou alphabétique.<br/>\n Type d'employeur :<br/>\n Blanc : Etablissement.<br/>\n 01 : Exploitation agricole.<br/>\n 02 : Particulier.<br/>\n 03 : Autres.<br/>\n Collège électoral (pour chaque électeur) :<br/>\n 1 : Salariés de l'encadrement et autres salariés.<br/>\n 2 : Employeurs et salariés assimilés à des employeurs.<br/>\n Section (pour chaque électeur) :<br/>\n 1 : Industrie.<br/>\n 2 : Commerce et services commerciaux.<br/>\n 3 : Agriculture.<br/>\n 4 : Activités diverses.<br/>\n 5 : Encadrement.<br/>\n Lieu de vote (pour chaque électeur) :<br/>\n 1 : Commune de l'établissement.<br/>\n 2 : Commune du domicile du salarié.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du travail - art. R513-30 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006805099",
+        "@naturetexte": "CODE",
+        "@num": "R513-30",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

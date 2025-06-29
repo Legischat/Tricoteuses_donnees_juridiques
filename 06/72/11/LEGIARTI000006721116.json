@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721116",
+      "ANCIEN_ID": "SPIQVXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/11/LEGIARTI000006721116.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1956-01-25",
+        "DATE_FIN": "1995-10-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 janvier 1956 portant création d'un certificat d'aptitude aux fonctions d'aide soignant et d'aide soignante dans les hôpitaux et hospices publics ou privés.",
+          "@c_titre_court": "Arrêté du 23 janvier 1956",
+          "@debut": "1956-01-25",
+          "@fin": "1995-10-15",
+          "@id_txt": "LEGITEXT000006073055"
+        }
+      ],
+      "@cid": "LEGITEXT000006073055",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1956-01-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-01-25",
+          "@etat": "ABROGE",
+          "@fin": "1995-10-15",
+          "@id": "LEGIARTI000006721116",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est institué un certificat d'aptitude à l'emploi d'aide soignant hospitalier et d'aide soignante hospitalière destiné à sanctionner la formation reçue selon les conditions fixées aux articles 2 et 3.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1956-01-23 art. 2, art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1994-07-22 art. 74 JORF 24 juillet 1994 en vigueur le 15 octobre 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique 477, 478",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

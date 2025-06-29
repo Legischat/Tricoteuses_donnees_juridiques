@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006737614",
+      "ANCIEN_ID": "AFHHSXXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/73/76/LEGIARTI000006737614.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-07-04",
+        "DATE_FIN": "2005-08-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 96-367 du 2 mai 1996  relatif au livret jeune",
+          "@c_titre_court": "Décret n°96-367 du 2 mai 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000559643"
+        },
+        {
+          "#text": "Décret n°96-367 du 2 mai 1996 relatif au livret jeune",
+          "@c_titre_court": "Décret n°96-367 du 2 mai 1996",
+          "@debut": "1996-05-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005620868"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : Des opérations effectuées sur le livret jeune et de sa rémunération.",
+            "@debut": "1996-05-03",
+            "@fin": "2005-08-25",
+            "@id": "LEGISCTA000006106034"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000559643",
+      "@date_publi": "1996-05-03",
+      "@date_signature": "1996-05-02",
+      "@ministere": "MINISTERE DE L'ECONOMIE ET DES FINANCES",
+      "@nature": "DECRET",
+      "@nor": "ECOT9626159D",
+      "@num": "96-367"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-05-03",
+          "@etat": "MODIFIE",
+          "@fin": "1996-07-04",
+          "@id": "LEGIARTI000006737613",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-04",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006737614",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de l'intérêt servi au déposant est fixé, en application de l'article 30 de la loi du 24 janvier 1984 susvisée, par le Comité de la réglementation bancaire et financière.<br/>\n<br/>   Les versements portent intérêt à compter du premier jour de la quinzaine suivant le dépôt. Ils cessent de courir à la fin de la quinzaine qui précède le jour du remboursement.<br/>\n<br/>   Au 31 décembre de chaque année, l'intérêt acquis s'ajoute au capital et devient lui-même productif d'intérêts.<br/>\n<br/>   Si, en raison des dates d'opération de dépôt et de retrait, le montant comptabilisé au titre de l'intérêt est négatif, ce montant n'est pas pris en compte pour le calcul du solde du compte.<br/>\n<br/>   En cas de clôture du compte en cours d'année, l'intérêt acquis est crédité au jour de la clôture du compte.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 30",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996",
+        "@cidtexte": "JORFTEXT000000193847",
+        "@datesignatexte": "1996-07-02",
+        "@id": "LEGIARTI000006709241",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9500164L",
+        "@num": "10",
+        "@numtexte": "96-597",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005",
+        "@cidtexte": "JORFTEXT000000451781",
+        "@datesignatexte": "2005-08-02",
+        "@id": "LEGIARTI000006244165",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOX0500001D",
+        "@num": "5",
+        "@numtexte": "2005-1007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier R221-93 (2e alinéa)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072026",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273426",
+      "ANCIEN_ID": "FAEBHXXXXXX075AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/34/LEGIARTI000006273426.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "75",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1980-01-19",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°80-30 du 18 janvier 1980 DE FINANCES POUR 1980",
+          "@c_titre_court": "Loi n°80-30 du 18 janvier 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705191"
+        },
+        {
+          "#text": "Loi n° 80-30 du 18 janvier 1980 de finances pour 1980 (1)",
+          "@c_titre_court": "Loi n° 80-30 du 18 janvier 1980",
+          "@debut": "1980-01-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068686"
+        }
+      ],
+      "@cid": "JORFTEXT000000705191",
+      "@date_publi": "1980-01-19",
+      "@date_signature": "1980-01-18",
+      "@nature": "LOI",
+      "@num": "80-30"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-01-19",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006273426",
+          "@num": "75",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001696579",
+          "@num": "75",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les administrations publiques, les établissements ou organismes soumis au contrôle de l'autorité administrative et toutes personnes qui reçoivent habituellement en dépôt des valeurs mobilières, titres ou espèces doivent déclarer à l'administration des impôts l'ouverture et la clôture des comptes de toute nature.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 80-30 1980-01-18 Finances pour 1980 JORF 19 janvier 1980",
+        "@cidtexte": "JORFTEXT000000705191",
+        "@datesignatexte": "1980-01-18",
+        "@id": "JORFTEXT000000705191",
+        "@naturetexte": "LOI",
+        "@numtexte": "80-30",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1649 A (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006306931",
+        "@naturetexte": "CODE",
+        "@num": "1649 A",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 808 (V)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006310450",
+        "@naturetexte": "CODE",
+        "@num": "808",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

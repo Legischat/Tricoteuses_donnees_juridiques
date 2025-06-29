@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006763546",
+      "ANCIEN_ID": "SSHAH2XXXXX001AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/35/LEGIARTI000006763546.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-01-31",
+        "DATE_FIN": "1985-10-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-515 du 23 juin 1983 MODIFIANT LE TAUX DES COTISATIONS VERSEES A LA CAISSE DE RETRAITE ET DE PREVOYANCE DES CLERCS ET EMPLOYES DE NOTAIRE",
+          "@c_titre_court": "Décret n°83-515 du 23 juin 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503740"
+        },
+        {
+          "#text": "Décret n°83-515 du 23 juin 1983  MODIFIANT LE TAUX DES COTISATIONS VERSEES A LA CAISSE DE RETRAITE ET DE PREVOYANCE DES CLERCS ET EMPLOYES DE NOTAIRES.",
+          "@c_titre_court": "Décret n°83-515 du 23 juin 1983",
+          "@debut": "1984-01-31",
+          "@fin": "1985-10-12",
+          "@id_txt": "LEGITEXT000006064152"
+        }
+      ],
+      "@cid": "JORFTEXT000000503740",
+      "@date_publi": "1983-06-24",
+      "@date_signature": "1983-06-23",
+      "@nature": "DECRET",
+      "@num": "83-515"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-06-24",
+          "@etat": "MODIFIE",
+          "@fin": "1984-01-31",
+          "@id": "LEGIARTI000006763545",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-01-31",
+          "@etat": "ABROGE",
+          "@fin": "1985-10-12",
+          "@id": "LEGIARTI000006763546",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er janvier 1984 et jusqu'au 31 décembre 1985, les taux des cotisations mentionnées aux 1°, 2° et 3° du paragraphe 1 de l'article 3 de la loi du 12 juillet 1937 susvisée sont respectivement fixés à 20,78 p. 100, 4 p. 100 et 15,17 p. 100<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 84-66 1984-01-26 ART. 2 : les dispositions du présent décret sont applicables aux cotisations assises sur les rémunérations dues aux clercs et employés salariés à compter du 1er janvier 1984",
+        "@cidtexte": "JORFTEXT000000503280",
+        "@datesignatexte": "1984-01-26",
+        "@id": "JORFTEXT000000503280",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-66",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 85-1093 1985-10-11 art. 22 JORF 12 octobre 1985",
+        "@cidtexte": "JORFTEXT000000316791",
+        "@datesignatexte": "1985-10-11",
+        "@id": "JORFTEXT000000316791",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1093",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "LOI 1937-07-12 ART. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769695",
+      "ANCIEN_ID": "AFIRUXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/96/LEGIARTI000006769695.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-01-01",
+        "DATE_FIN": "2005-08-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 juillet 1999 fixant le solde maximum d'un compte sur livret d'épargne populaire",
+          "@c_titre_court": "Arrêté du 23 juillet 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000395947"
+        },
+        {
+          "#text": "Arrêté du 23 juillet 1999 fixant le solde maximum d'un compte sur livret d'épargne populaire",
+          "@c_titre_court": "Arrêté du 23 juillet 1999",
+          "@debut": "1999-07-24",
+          "@fin": "2005-08-25",
+          "@id_txt": "LEGITEXT000005628251"
+        }
+      ],
+      "@cid": "JORFTEXT000000395947",
+      "@date_publi": "1999-07-24",
+      "@date_signature": "1999-07-23",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOX9903685A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-07-24",
+          "@etat": "MODIFIE",
+          "@fin": "2002-01-01",
+          "@id": "LEGIARTI000006769694",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006769695",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er août 1999, le solde maximum que peut présenter un compte sur livret d'épargne populaire est fixé à 7700 euros.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2001-09-03 art. 3 XXXVIII JORF 11 septembre 2001 en vigueur le 1er janvier 2002",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°82-454 du 28 mai 1982 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000000879675",
+        "@datesignatexte": "1982-05-28",
+        "@id": "LEGIARTI000006730858",
+        "@naturetexte": "DECRET",
+        "@num": "11",
+        "@numtexte": "82-454",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005",
+        "@cidtexte": "JORFTEXT000000451781",
+        "@datesignatexte": "2005-08-02",
+        "@id": "LEGIARTI000006244165",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOX0500001D",
+        "@num": "5",
+        "@numtexte": "2005-1007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. D221-46 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006640080",
+        "@naturetexte": "CODE",
+        "@num": "D221-46",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

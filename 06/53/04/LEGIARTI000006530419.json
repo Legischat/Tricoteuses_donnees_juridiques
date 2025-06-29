@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006530419",
+      "ANCIEN_ID": "PPHAYXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/04/LEGIARTI000006530419.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-08-08",
+        "DATE_FIN": "2001-03-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°64-231 du 14 mars 1964 PORTANT RAP POUR L'APPLICATION DE LA LOI 621292 DU 6-11-1962 RELATIVE A L'ELECTION DU PRESIDENT DE LA REPUBLIQUE AU SUFFRAGE UNIVERSEL",
+          "@c_titre_court": "Décret n°64-231 du 14 mars 1964",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509645"
+        },
+        {
+          "#text": "Décret n°64-231 du 14 mars 1964 portant règlement d'administration publique pour l'application de la loi n° 62-1292, relative à l'élection du Président de la République au suffrage universel.",
+          "@c_titre_court": "Décret n°64-231 du 14 mars 1964",
+          "@debut": "1964-03-17",
+          "@fin": "2001-03-09",
+          "@id_txt": "LEGITEXT000006061194"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Déclarations et candidatures.",
+            "@debut": "1964-03-17",
+            "@fin": "2001-03-09",
+            "@id": "LEGISCTA000006096073"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000509645",
+      "@date_publi": "1964-03-17",
+      "@date_signature": "1964-03-14",
+      "@nature": "DECRET",
+      "@num": "64-231"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-03-17",
+          "@etat": "MODIFIE",
+          "@fin": "1976-08-08",
+          "@id": "LEGIARTI000006530418",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1976-08-08",
+          "@etat": "ABROGE",
+          "@fin": "2001-03-09",
+          "@id": "LEGIARTI000006530419",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les citoyens mentionnés au deuxième alinéa de l'article 3-1 de la loi susvisée du 6 novembre 1962 ne peuvent faire de présentation que pour un seul candidat [*nombre*].<br/>\n    En aucun cas, les présentations ne peuvent faire l'objet d'un retrait après leur envoi ou leur dépôt.    Le nom et la qualité des citoyens qui ont présenté un candidat inscrit sur la liste prévue à l'article 6 ci-dessous sont publiés au Journal officiel.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 62-1292 1962-11-06 art. 3-1 al. 2",
+        "@cidtexte": "JORFTEXT000000684037",
+        "@datesignatexte": "1962-11-06",
+        "@id": "JORFTEXT000000684037",
+        "@naturetexte": "LOI",
+        "@numtexte": "62-1292",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 76-738 1976-08-04 art. 2 JORF 8 août 1976",
+        "@cidtexte": "JORFTEXT000000680138",
+        "@datesignatexte": "1976-08-04",
+        "@id": "JORFTEXT000000680138",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-738",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2001-213 2001-03-08 art. 34 JORF 9 mars 2001",
+        "@cidtexte": "JORFTEXT000000769091",
+        "@datesignatexte": "2001-03-08",
+        "@id": "JORFTEXT000000769091",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTX0100031D",
+        "@numtexte": "2001-213",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

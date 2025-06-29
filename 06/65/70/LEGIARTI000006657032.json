@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006657032",
+      "ANCIEN_ID": "SEEBLXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/70/LEGIARTI000006657032.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1987-07-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 87-588 du 30 juillet 1987 portant diverses mesures d'ordre social (1)",
+          "@c_titre_court": "Loi n° 87-588 du 30 juillet 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687467"
+        },
+        {
+          "#text": "Loi n° 87-588 du 30 juillet 1987 portant diverses mesures d'ordre social",
+          "@c_titre_court": "Loi n° 87-588 du 30 juillet 1987",
+          "@debut": "1987-07-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069017"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE Ier : DISPOSITIONS RELATIVES A LA PROTECTION SOCIALE.",
+            "@debut": "1987-07-31",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101440"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000687467",
+      "@date_publi": "1987-07-31",
+      "@date_signature": "1987-07-30",
+      "@nature": "LOI",
+      "@nor": "ASEX8700089L",
+      "@num": "87-588"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-07-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006657032",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. - (paragraphe modificateur).<br/>\n<br/>   II - (paragraphe modificateur).<br/>\n<br/>   III. - L'article 1033 du code rural est abrogé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1033 (abrogé)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural ancien - art. 1031 (M)",
+        "@cidtexte": "LEGITEXT000006071366",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006580761",
+        "@naturetexte": "CODE",
+        "@num": "1031",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code rural ancien - art. 1033 (Ab)",
+        "@cidtexte": "LEGITEXT000006071366",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006580777",
+        "@naturetexte": "CODE",
+        "@num": "1033",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural ancien - art. 1143-5 (Ab)",
+        "@cidtexte": "LEGITEXT000006071366",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006581157",
+        "@naturetexte": "CODE",
+        "@num": "1143-5",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

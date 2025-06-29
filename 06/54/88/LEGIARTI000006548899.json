@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006548899",
+      "ANCIEN_ID": "PRHBXXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/88/LEGIARTI000006548899.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-04-04",
+        "DATE_FIN": "2005-09-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2000-289 du 30 mars 2000  fixant les attributions du service du génie",
+          "@c_titre_court": "Décret n°2000-289 du 30 mars 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000399214"
+        },
+        {
+          "#text": "Décret n°2000-289 du 30 mars 2000 fixant les attributions du service du génie",
+          "@c_titre_court": "Décret n°2000-289 du 30 mars 2000",
+          "@debut": "2000-04-04",
+          "@fin": "2005-09-14",
+          "@id_txt": "LEGITEXT000005629266"
+        }
+      ],
+      "@cid": "JORFTEXT000000399214",
+      "@date_publi": "2000-04-04",
+      "@date_signature": "2000-03-30",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "DECRET",
+      "@nor": "DEFD0001378D",
+      "@num": "2000-289"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-04-04",
+          "@etat": "ABROGE",
+          "@fin": "2005-09-14",
+          "@id": "LEGIARTI000006548899",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le service du génie est le service de soutien chargé de l'infrastructure de l'armée de terre ainsi que, après avis des comités de coordination cités aux articles 19 et 20 du décret du 30 mars 2000 susvisé, de tout ou partie de l'infrastructure relevant d'autres attributaires du ministère.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2000-289 du 30 mars 2000 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000399214",
+        "@datesignatexte": "2000-03-30",
+        "@id": "LEGIARTI000006548900",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFD0001378D",
+        "@num": "2",
+        "@numtexte": "2000-289",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2005-1151 du 12 septembre 2005 - art. 4 (V) JORF 14 septembre 2005",
+        "@cidtexte": "JORFTEXT000000785825",
+        "@datesignatexte": "2005-09-12",
+        "@id": "LEGIARTI000006244933",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFD0501156D",
+        "@num": "4",
+        "@numtexte": "2005-1151",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

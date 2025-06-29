@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006528748",
+      "ANCIEN_ID": "PPECDXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/87/LEGIARTI000006528748.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1992-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 91-1384 du 31 décembre 1991 modifiant le tableau no 7 annexé au code    électoral relatif à l'effectif des conseils régionaux et à la répartition des    sièges entre les départements (1)",
+          "@c_titre_court": "Loi n°91-1384 du 31 décembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000720684"
+        },
+        {
+          "#text": "Loi n° 91-1384 du 31 décembre 1991 modifiant le tableau n° 7 annexé au code électoral relatif à l'effectif des conseils régionaux et à la répartition des sièges entre les départements",
+          "@c_titre_court": "Loi n° 91-1384 du 31 décembre 1991",
+          "@debut": "1992-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006078481"
+        }
+      ],
+      "@cid": "JORFTEXT000000720684",
+      "@date_publi": "1992-01-01",
+      "@date_signature": "1991-12-31",
+      "@nature": "LOI",
+      "@nor": "INTX9100086L",
+      "@num": "91-1384"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006528748",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le tableau n° 7 annexé au code électoral est remplacé par le tableau annexé à la présente loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code électoral annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 91-1384 1991-12-31 annexe",
+        "@cidtexte": "JORFTEXT000000720684",
+        "@datesignatexte": "1991-12-31",
+        "@id": "JORFTEXT000000720684",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9100086L",
+        "@numtexte": "91-1384",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 91-1384 1991-12-31 art. 3",
+        "@cidtexte": "JORFTEXT000000720684",
+        "@datesignatexte": "1991-12-31",
+        "@id": "JORFTEXT000000720684",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9100086L",
+        "@numtexte": "91-1384",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code électoral - art. Annexe tableau n° 7 (V)",
+        "@cidtexte": "LEGITEXT000006070239",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006354328",
+        "@naturetexte": "CODE",
+        "@num": "Annexe tableau n° 7",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

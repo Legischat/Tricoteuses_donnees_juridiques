@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006622219",
+      "ANCIEN_ID": "RGHDZXXXXXX005AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/22/LEGIARTI000006622219.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-04-22",
+        "DATE_FIN": "2009-10-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 13 avril 1981 définissant l'appellation d'origine contrôlée \"Blanquette de Limoux\"",
+          "@c_titre_court": "Décret du 13 avril 1981",
+          "@debut": "1981-04-23",
+          "@fin": "2009-10-17",
+          "@id_txt": "LEGITEXT000006071677"
+        }
+      ],
+      "@cid": "LEGITEXT000006071677",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1981-04-13",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-04-23",
+          "@etat": "MODIFIE",
+          "@fin": "2004-08-03",
+          "@id": "LEGIARTI000006622217",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-08-03",
+          "@etat": "MODIFIE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006622218",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-04-22",
+          "@etat": "ABROGE",
+          "@fin": "2009-10-17",
+          "@id": "LEGIARTI000006622219",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le rendement de base des vins de base visé à l'article D. 641-73 du code rural est fixé à 7500 kilogrammes de vendange à l'hectare.<br/>\n<br/>   Le rendement butoir prévu à l'article D. 641-76 du code rural est fixé à 9000 kilogrammes de vendange à l'hectare.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural D641-73, D641-76",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2005-368 du 19 avril 2005 - art. 12 (V) JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "LEGIARTI000006240382",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@num": "12",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2009-1237\n du 14 octobre 2009 - art. 2 (P)",
+        "@cidtexte": "JORFTEXT000021158801",
+        "@datesignatexte": "2009-10-14",
+        "@id": "LEGIARTI000021159689",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRT0917378D",
+        "@num": "2",
+        "@numtexte": "2009-1237",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

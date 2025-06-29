@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006812311",
+      "ANCIEN_ID": "AHAXXXXXXXX2X243R008XXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/81/23/LEGIARTI000006812311.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R243-8",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-08-15",
+        "DATE_FIN": "1992-04-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code des assurances",
+          "@c_titre_court": "Code des assurances",
+          "@debut": "1976-07-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073984"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1976-07-11",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107986"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Assurances obligatoires",
+              "@debut": "1976-07-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128518"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IV : L'assurance des travaux de bâtiment.",
+                "@debut": "1978-11-21",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143141"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006073984",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-08-15",
+          "@etat": "MODIFIE",
+          "@fin": "1992-04-01",
+          "@id": "LEGIARTI000006812311",
+          "@num": "R243-8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-04-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-11-28",
+          "@id": "LEGIARTI000006812312",
+          "@num": "R243-8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le bureau central de tarification peut être saisi par toute personne assujettie à l'obligation d'assurance, lorsqu'un assureur oppose un refus à une proposition tendant soit à la souscription d'un contrat nouveau, soit à la modification d'un contrat déjà existant, lorsque cette proposition est faite pour satisfaire à l'obligation d'assurance.<br/>\n<br/>   Lorsqu'il s'agit de la souscription d'un contrat nouveau, l'absence d'acceptation par l'assureur pendant plus de 90 jours après réception de la proposition initiale est considérée comme un refus implicite d'assurance. Lorsqu'il s'agit de la modification d'un contrat déjà existant, il est fait application des dispositions du 2e alinéa de l'article L. 112-2.<br/>\n<br/>   Est assimilé à un refus le fait par l'assureur, saisi d'une proposition d'assurance en application du titre IV du livre II, de subordonner son acceptation à la couverture de risques non visés par ces dispositions ou dont l'étendue excéderait les limites de l'obligation d'assurance.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-864 1985-08-02 art. 2 JORF 15 août 1985",
+        "@cidtexte": "JORFTEXT000000323151",
+        "@datesignatexte": "1985-08-02",
+        "@id": "JORFTEXT000000323151",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-864",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      },
+      {
+        "#text": "Code des assurances - art. L112-2 (M)",
+        "@cidtexte": "LEGITEXT000006073984",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006791884",
+        "@naturetexte": "CODE",
+        "@num": "L112-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des assurances - art. R241-8 (T)",
+        "@cidtexte": "LEGITEXT000006073984",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006812294",
+        "@naturetexte": "CODE",
+        "@num": "R241-8",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

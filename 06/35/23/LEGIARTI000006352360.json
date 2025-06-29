@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006352360",
+      "ANCIEN_ID": "MDHBYXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/23/LEGIARTI000006352360.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1991-09-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 91-665 du 14 juillet 1991 modifiant le décret no 83-321 du 20    avril 1983 relatif aux pouvoirs des préfets en matière de défense de    caractère non militaire",
+          "@c_titre_court": "Décret n°91-665 du 14 juillet 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000537129"
+        },
+        {
+          "#text": "Décret n°91-665 du 14 juillet 1991 modifiant le décret n° 83-321 du 20 avril 1983 relatif aux pouvoirs des préfets en matière de défense de caractère non militaire",
+          "@c_titre_court": "Décret n°91-665 du 14 juillet 1991",
+          "@debut": "1991-09-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006077794"
+        }
+      ],
+      "@cid": "JORFTEXT000000537129",
+      "@date_publi": "1991-07-19",
+      "@date_signature": "1991-07-14",
+      "@nature": "DECRET",
+      "@nor": "PRMX9100102D",
+      "@num": "91-665"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-09-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006352360",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 10 du décret du 20 avril 1983 susvisé est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°83-321 du 20 avril 1983 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000315126",
+        "@datesignatexte": "1983-04-20",
+        "@id": "LEGIARTI000006351995",
+        "@naturetexte": "DECRET",
+        "@num": "10",
+        "@numtexte": "83-321",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°83-321 du 20 avril 1983 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000315126",
+        "@datesignatexte": "1983-04-20",
+        "@id": "LEGIARTI000006351995",
+        "@naturetexte": "DECRET",
+        "@num": "10",
+        "@numtexte": "83-321",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 91-665 1991-07-14 art. 11",
+        "@cidtexte": "JORFTEXT000000537129",
+        "@datesignatexte": "1991-07-14",
+        "@id": "JORFTEXT000000537129",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX9100102D",
+        "@numtexte": "91-665",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

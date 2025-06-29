@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006786008",
+      "ANCIEN_ID": "SSIAXKXXXXX001AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/60/LEGIARTI000006786008.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-12-28",
+        "DATE_FIN": "1991-01-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 mars 1981 INDEMNITES ET VACATIONS SUSCEPTIBLES D'ETRE ALLOUEES AUX MEMBRES DE LA COMMISSION NATIONALE ET DES COMMISSIONS REGIONALES TECHNIQUES DE LA SECURITE SOCIALE",
+          "@c_titre_court": "Arrêté du 9 mars 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000463456"
+        },
+        {
+          "#text": "Arrêté du 9 mars 1981 relatif aux indemnités et vacations susceptibles d'être attribuées aux membres de la commission nationale et des commissions régionales techniques de la sécurité sociale",
+          "@c_titre_court": "Arrêté du 9 mars 1981",
+          "@debut": "1981-03-11",
+          "@fin": "1991-01-10",
+          "@id_txt": "LEGITEXT000006073998"
+        }
+      ],
+      "@cid": "JORFTEXT000000463456",
+      "@date_publi": "1981-03-11",
+      "@date_signature": "1981-03-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-03-11",
+          "@etat": "MODIFIE",
+          "@fin": "1984-12-28",
+          "@id": "LEGIARTI000006786007",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-12-28",
+          "@etat": "ABROGE",
+          "@fin": "1991-01-10",
+          "@id": "LEGIARTI000006786008",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le président de la commission nationale technique prévue à l'article L. 195 du code de la sécurité sociale perçoit une indemnité annuelle de 14.046 F [*montant*].<br/>\n    Les présidents de section, autres que le président de la commission, perçoivent pour chaque audience qu'ils ont effectivement présidée une indemnité de 156 F sans que leur rémunération annuelle puisse excéder 14.046 F [*plafond*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-12-17 art. 1 JORF 28 décembre 1984",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1990-12-20 art. 5 JORF 10 janvier 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 71-40 1971-01-06",
+        "@cidtexte": "JORFTEXT000000695936",
+        "@datesignatexte": "1971-01-06",
+        "@id": "JORFTEXT000000695936",
+        "@naturetexte": "DECRET",
+        "@numtexte": "71-40",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale L195",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006548761",
+      "ANCIEN_ID": "PRHAXXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/87/LEGIARTI000006548761.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 99-829 du 22 septembre 1999 portant modification du décret no 97-766 du 22 juillet 1997 portant création du Conseil d'analyse économique",
+          "@c_titre_court": "Décret n°99-829 du 22 septembre 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000761964"
+        },
+        {
+          "#text": "Décret n°99-829 du 22 septembre 1999 portant modification du décret n° 97-766 du 22 juillet 1997 portant création du Conseil d'analyse économique",
+          "@c_titre_court": "Décret n°99-829 du 22 septembre 1999",
+          "@debut": "1999-09-23",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005628559"
+        }
+      ],
+      "@cid": "JORFTEXT000000761964",
+      "@date_publi": "1999-09-23",
+      "@date_signature": "1999-09-22",
+      "@nature": "DECRET",
+      "@nor": "PRMX9903758D",
+      "@num": "99-829"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006548761",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 97-766 1997-07-22",
+        "@cidtexte": "JORFTEXT000000201191",
+        "@datesignatexte": "1997-07-22",
+        "@id": "JORFTEXT000000201191",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX9702222D",
+        "@numtexte": "97-766",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°97-766 du 22 juillet 1997 - art. 2 (M)",
+        "@cidtexte": "JORFTEXT000000201191",
+        "@datesignatexte": "1997-07-22",
+        "@id": "LEGIARTI000006543304",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX9702222D",
+        "@num": "2",
+        "@numtexte": "97-766",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

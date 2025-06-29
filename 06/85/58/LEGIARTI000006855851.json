@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855851",
+      "ANCIEN_ID": "UPHLUXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/58/LEGIARTI000006855851.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-10-05",
+        "DATE_FIN": "1985-03-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-908 du 2 octobre 1976 AGENCE DES ESPACES VERTS DE LA REGION D'ILE-DE-FRANCE",
+          "@c_titre_court": "Décret n°76-908 du 2 octobre 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000306866"
+        },
+        {
+          "#text": "Décret n°76-908 du 2 octobre 1976 relatif à l'organisation et au fonctionnement de l'agence des espaces verts de la région d'Ile-de-France",
+          "@c_titre_court": "Décret n°76-908 du 2 octobre 1976",
+          "@debut": "1976-10-05",
+          "@fin": "1985-03-10",
+          "@id_txt": "LEGITEXT000006062538"
+        }
+      ],
+      "@cid": "JORFTEXT000000306866",
+      "@date_publi": "1976-10-05",
+      "@date_signature": "1976-10-02",
+      "@nature": "DECRET",
+      "@num": "76-908"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-10-05",
+          "@etat": "ABROGE",
+          "@fin": "1985-03-10",
+          "@id": "LEGIARTI000006855851",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le directeur de l'agence [*attributions*] est nommé par arrêté du préfet de région.<br/>\n   Il assure le fonctionnement des services, recrute et gère le personnel. Il prépare les réunions du conseil d'administration, fait appliquer les décisions de celui-ci et le tient informé de leur exécution. <br/>\n    Il prépare le budget et les décisions modificatives.<br/>\n    Il est ordonnateur des recettes et des dépenses de l'établissement et, à ce titre, il signe les contrats, accords ou conventions passés au nom de l'agence. <br/>\n    Il représente l'agence en justice et dans tous les actes de la vie civile.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 76-394 1976-05-06 ART. 5",
+        "@cidtexte": "JORFTEXT000000522258",
+        "@datesignatexte": "1976-05-06",
+        "@id": "JORFTEXT000000522258",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-394",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 85-317 1985-03-08 art. 17 JORF 10 mars 1985",
+        "@cidtexte": "JORFTEXT000000518092",
+        "@datesignatexte": "1985-03-08",
+        "@id": "JORFTEXT000000518092",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-317",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

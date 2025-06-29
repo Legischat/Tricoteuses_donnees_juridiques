@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006287425",
+      "ANCIEN_ID": "ASIAXXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/74/LEGIARTI000006287425.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1984-05-11",
+        "DATE_FIN": "1985-05-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 mai 1984 VALEUR DE REMBOURSEMENT DE LA FRACTION DU CAPITAL DE L'EMPRUNT D'ETAT 8,80% 1977 AMORTIE LE 23-05-1984: 1226,80FRS PAR OBLIGATION DE 1000FRS",
+          "@c_titre_court": "Arrêté du 4 mai 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000653981"
+        },
+        {
+          "#text": "Arrêté du 4 mai 1984 relatif à la valeur de remboursement de la fraction du capital de l'emprunt d'Etat 8,80 p. 100 1977 amortie le 23 mai 1984",
+          "@c_titre_court": "Arrêté du 4 mai 1984",
+          "@debut": "1984-05-11",
+          "@fin": "1985-05-12",
+          "@id_txt": "LEGITEXT000006069494"
+        }
+      ],
+      "@cid": "JORFTEXT000000653981",
+      "@date_publi": "1984-05-11",
+      "@date_signature": "1984-05-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-05-11",
+          "@etat": "PERIME",
+          "@fin": "1985-05-12",
+          "@id": "LEGIARTI000006287425",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le directeur de la comptabilité publique est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 77-520 1977-05-20 art. 7, art. 8",
+        "@cidtexte": "JORFTEXT000000514386",
+        "@datesignatexte": "1977-05-20",
+        "@id": "JORFTEXT000000514386",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-520",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 6 mai 1985 (V)",
+        "@cidtexte": "LEGITEXT000006069502",
+        "@datesignatexte": "1985-05-06",
+        "@id": "LEGITEXT000006069502",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      }
+    ]
+  }
+}

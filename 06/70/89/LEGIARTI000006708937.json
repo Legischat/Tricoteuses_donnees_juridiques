@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006708937",
+      "ANCIEN_ID": "SPHP8XXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/89/LEGIARTI000006708937.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-05-20",
+        "DATE_FIN": "1977-03-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°41-5050 du 31 décembre 1941 codifiant les textes relatifs aux opérations d'inhumation, d'exhumation, d'incinération et de transport des corps.",
+          "@c_titre_court": "Décret n°41-5050 du 31 décembre 1941",
+          "@debut": "1942-01-27",
+          "@fin": "1977-03-18",
+          "@id_txt": "LEGITEXT000006072702"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Transport de corps",
+            "@debut": "1976-05-20",
+            "@fin": "1977-03-18",
+            "@id": "LEGISCTA000006104316"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre III : Dépôts temporaires",
+              "@debut": "1976-05-20",
+              "@fin": "1977-03-18",
+              "@id": "LEGISCTA000006125819"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072702",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1941-12-31",
+      "@nature": "DECRET",
+      "@num": "41-5050"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-05-20",
+          "@etat": "ABROGE",
+          "@fin": "1977-03-18",
+          "@id": "LEGIARTI000006708937",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sous réserve des dispositions de l'article 17, le corps doit être placé, quel que soit le lieu du dépôt temporaire, dans un cercueil d'un modèle prévu à l'article 16 (1er al.).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 77-241 1977-03-07 art. 8 JORF 18 mars 1977",
+        "@cidtexte": "JORFTEXT000000883225",
+        "@datesignatexte": "1977-03-07",
+        "@id": "JORFTEXT000000883225",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-241",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°41-5050 du 31 décembre 1941 - art. 16 (Ab)",
+        "@cidtexte": "LEGITEXT000006072702",
+        "@datesignatexte": "1941-12-31",
+        "@id": "LEGIARTI000006708931",
+        "@naturetexte": "DECRET",
+        "@num": "16",
+        "@numtexte": "41-5050",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°41-5050 du 31 décembre 1941 - art. 17 (Ab)",
+        "@cidtexte": "LEGITEXT000006072702",
+        "@datesignatexte": "1941-12-31",
+        "@id": "LEGIARTI000006708932",
+        "@naturetexte": "DECRET",
+        "@num": "17",
+        "@numtexte": "41-5050",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

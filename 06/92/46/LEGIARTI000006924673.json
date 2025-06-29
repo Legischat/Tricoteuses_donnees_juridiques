@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006924673",
+      "ANCIEN_ID": "RIEAKXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/46/LEGIARTI000006924673.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1993-01-01",
+        "DATE_FIN": "2002-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier (1)",
+          "@c_titre_court": "Loi n°92-1443 du 31 décembre 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000542540"
+        },
+        {
+          "#text": "Loi n° 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier",
+          "@c_titre_court": "Loi n° 92-1443 du 31 décembre 1992",
+          "@debut": "1993-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006080705"
+        }
+      ],
+      "@cid": "JORFTEXT000000542540",
+      "@date_publi": "1993-01-01",
+      "@date_signature": "1992-12-31",
+      "@nature": "LOI",
+      "@nor": "INDX9200147L",
+      "@num": "92-1443"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2002-01-01",
+          "@id": "LEGIARTI000006924673",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "ABROGE_DIFF",
+          "@fin": "2222-02-22",
+          "@id": "LEGIARTI000006924674",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE_DIFF"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001321701",
+          "@num": "13",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de manquement aux obligations prescrites par l'article 6, un procès-verbal de manquement est dressé par les agents assermentés désignés par le ministre chargé des hydrocarbures ou le ministre chargé de la marine marchande.<br/>\n<br/>   Les agents désignés par le ministre chargé de la marine marchande sont assermentés dans des conditions fixées par décret en Conseil d'Etat.<br/>\n<br/>   Une copie de ce procès-verbal est remise à la personne physique ou morale qui en fait l'objet. Cette personne a accès au dossier et est mise à même de présenter ses observations écrites dans un délai d'un mois sur les manquements relevés.<br/>\n<br/>   Le ministre chargé de la marine marchande peut prendre, sur le vu de ce procès-verbal et des observations susmentionnées, une décision ordonnant le paiement, par la personne qui a commis le manquement, d'une amende au plus égale à 10 F par tonne de pétrole brut entrée dans l'usine exercée de raffinage en méconnaissance des dispositions de l'article 6.<br/>\n<br/>   La décision du ministre chargé de la marine marchande est susceptible d'un recours de pleine juridiction.<br/>\n<br/>   Le montant maximum de cette amende est réévalué chaque année dans la même proportion que la limite inférieure de la septième tranche de l'impôt sur le revenu.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 92-1443 1992-12-31 art. 6",
+        "@cidtexte": "JORFTEXT000000542540",
+        "@datesignatexte": "1992-12-31",
+        "@id": "JORFTEXT000000542540",
+        "@naturetexte": "LOI",
+        "@nortexte": "INDX9200147L",
+        "@numtexte": "92-1443",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 93-161 1993-02-03",
+        "@cidtexte": "JORFTEXT000000346960",
+        "@datesignatexte": "1993-02-03",
+        "@id": "JORFTEXT000000346960",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ENEH9300061D",
+        "@numtexte": "93-161",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

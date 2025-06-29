@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273615",
+      "ANCIEN_ID": "FAEBXXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/36/LEGIARTI000006273615.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°81-1180 du 31 décembre 1981 DE FINANCES RECTIFICATIVE POUR 1981",
+          "@c_titre_court": "Loi n°81-1180 du 31 décembre 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000515871"
+        },
+        {
+          "#text": "Loi n° 81-1180 du 31 décembre 1981 DE FINANCES RECTIFICATIVE POUR 1981 (1)",
+          "@c_titre_court": "Loi n° 81-1180 du 31 décembre 1981",
+          "@debut": "1982-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068711"
+        }
+      ],
+      "@cid": "JORFTEXT000000515871",
+      "@date_publi": "1982-01-01",
+      "@date_signature": "1981-12-31",
+      "@nature": "LOI",
+      "@num": "81-1180"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006273615",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001310005",
+          "@num": "10",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'application des dispositions de l'article 18, paragraphe II, de la loi de finances pour 1967, n° 66-935 du 17 décembre 1966, est suspendue pour quatre années à compter du 1er janvier 1982.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 66-935 1966-12-17 ART. 18 II FINANCES POUR 1967",
+        "@cidtexte": "JORFTEXT000000320872",
+        "@datesignatexte": "1966-12-17",
+        "@id": "JORFTEXT000000320872",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-935",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 81-1180 1981-12-31 Finances rectificative pour 1981 JORF 1er JANVIER 1982",
+        "@cidtexte": "JORFTEXT000000515871",
+        "@datesignatexte": "1981-12-31",
+        "@id": "JORFTEXT000000515871",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-1180",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

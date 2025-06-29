@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006891150",
+      "ANCIEN_ID": "UTITRXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/11/LEGIARTI000006891150.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-12-27",
+        "DATE_FIN": "1993-02-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 décembre 1992 fixant le taux de redevance pour les visites    techniques de véhicules automobiles effectuées en application des articles R.    119-1 et R. 120 du code de la route",
+          "@c_titre_court": "Arrêté du 17 décembre 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000543032"
+        },
+        {
+          "#text": "Arrêté du 17 décembre 1992 fixant le taux de redevance pour les visites techniques de véhicules automobiles effectuées en application des articles R. 119-1 et R. 120 du code de la route",
+          "@c_titre_court": "Arrêté du 17 décembre 1992",
+          "@debut": "1993-02-01",
+          "@fin": "2000-01-01",
+          "@id_txt": "LEGITEXT000006080585"
+        }
+      ],
+      "@cid": "JORFTEXT000000543032",
+      "@date_publi": "1992-12-27",
+      "@date_signature": "1992-12-17",
+      "@ministere": "MINISTERE DE LA CULTURE ET DE LA COMMUNICATION",
+      "@nature": "ARRETE",
+      "@nor": "BUDB9240050A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-12-27",
+          "@etat": "MODIFIE",
+          "@fin": "1993-02-01",
+          "@id": "LEGIARTI000006891150",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-02-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-01-01",
+          "@id": "LEGIARTI000006891151",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les redevances fixées par les articles ci-dessus sont versées par les réseaux de contrôle agréés au titre de l'article 7 du décret n° 91-370 du 15 avril 1991, à la régie de recettes de la direction régionale de l'industrie, de la recherche et de l'environnement d'Ile-de-France et par les centres de contrôle non rattachés à un réseau, agréés au titre de l'article 4 du décret n° 91-370 du 15 avril 1991, aux régies de recettes instituées auprès des directions régionales de l'industrie, de la recherche et de l'environnement par arrêté du 5 juillet 1984 modifié, pour être affectées au fonds de concours n° 21.2.2.060 du ministère de l'industrie et du commerce extérieur.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-07-05",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 91-370 1991-04-15 art. 7, art. 4",
+        "@cidtexte": "JORFTEXT000000526954",
+        "@datesignatexte": "1991-04-15",
+        "@id": "JORFTEXT000000526954",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS9100391D",
+        "@numtexte": "91-370",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route R.119-1, R.120",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

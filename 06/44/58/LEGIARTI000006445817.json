@@ -1,0 +1,161 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006445817",
+      "ANCIEN_ID": "ACAXXXXXXXX5X02092DAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/58/LEGIARTI000006445817.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2092-3",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1992-08-01",
+        "DATE_FIN": "2006-03-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : Des différentes manières dont on acquiert la propriété",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006090271"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre XVIII : Des privilèges et hypothèques.",
+              "@debut": "1804-03-21",
+              "@fin": "2006-03-24",
+              "@id": "LEGISCTA000006118179"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre I : Dispositions générales.",
+                "@debut": "1804-03-21",
+                "@fin": "2006-03-24",
+                "@id": "LEGISCTA000006136422"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-07-09",
+          "@etat": "MODIFIE",
+          "@fin": "1992-08-01",
+          "@id": "LEGIARTI000006445816",
+          "@num": "2092-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-08-01",
+          "@etat": "TRANSFERE",
+          "@fin": "2006-03-24",
+          "@id": "LEGIARTI000006445817",
+          "@num": "2092-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les baux consentis par le saisi sont, quelle que soit leur durée, inopposables aux créanciers poursuivants.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1804-03-19",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°91-650 du 9 juillet 1991 - art. 91 () JORF 14 juillet 1991 en vigueur le 1er août 1992",
+        "@cidtexte": "JORFTEXT000000172847",
+        "@datesignatexte": "1991-07-09",
+        "@id": "LEGIARTI000006491478",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX8900065L",
+        "@num": "91",
+        "@numtexte": "91-650",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n° 91-650 du 9 juillet 1991 - art. 94 (VT)",
+        "@cidtexte": "JORFTEXT000000172847",
+        "@datesignatexte": "1991-07-09",
+        "@id": "LEGIARTI000006491481",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX8900065L",
+        "@num": "94",
+        "@numtexte": "91-650",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2006-346 du 23 mars 2006 - art. 50 () JORF 24 mars 2006",
+        "@cidtexte": "JORFTEXT000000639090",
+        "@datesignatexte": "2006-03-23",
+        "@id": "LEGIARTI000006532926",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0600032R",
+        "@num": "50",
+        "@numtexte": "2006-346",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      },
+      {
+        "#text": "Code civil - art. 2205 (Ab)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006447068",
+        "@naturetexte": "CODE",
+        "@num": "2205",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code civil - art. 2205 (AbD)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006447070",
+        "@naturetexte": "CODE",
+        "@num": "2205",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

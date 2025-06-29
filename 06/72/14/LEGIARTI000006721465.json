@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721465",
+      "ANCIEN_ID": "SPIT1XXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/14/LEGIARTI000006721465.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-12-07",
+        "DATE_FIN": "1990-10-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 décembre 1972 fixant la procédure des élections aux commissions médicales consultatives des établissements d'hospitalisation publics.",
+          "@c_titre_court": "Arrêté du 6 décembre 1972",
+          "@debut": "1972-12-07",
+          "@fin": "1990-10-27",
+          "@id_txt": "LEGITEXT000006073095"
+        }
+      ],
+      "@cid": "LEGITEXT000006073095",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-12-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-12-07",
+          "@etat": "ABROGE",
+          "@fin": "1990-10-27",
+          "@id": "LEGIARTI000006721465",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Passé le délai des six jours prévu au premier alinéa de l'article 9 ci-dessus, le directeur de l'établissement proclame les résultats du scrutin au vu du procès-verbal et convoque les membres de la commission médicale consultative en vue de l'élection de son président.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1972-12-06 art. 9",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1990-10-26 art. 19 JORF 27 octobre 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 72-1079 1972-12-06",
+        "@cidtexte": "JORFTEXT000000514949",
+        "@datesignatexte": "1972-12-06",
+        "@id": "JORFTEXT000000514949",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-1079",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

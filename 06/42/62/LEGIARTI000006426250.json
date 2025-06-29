@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006426250",
+      "ANCIEN_ID": "PCHPZXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/62/LEGIARTI000006426250.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 98-678 du 30 juillet 1998 modifiant le décret no 45-2075 du 31 août 1945 modifié portant application de l'ordonnance relative à l'organisation provisoire des musées des beaux-arts",
+          "@c_titre_court": "Décret n°98-678 du 30 juillet 1998",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000740411"
+        },
+        {
+          "#text": "Décret n°98-678 du 30 juillet 1998 modifiant le décret n° 45-2075 du 31 août 1945 modifié portant application de l'ordonnance relative à l'organisation provisoire des musées des beaux-arts",
+          "@c_titre_court": "Décret n°98-678 du 30 juillet 1998",
+          "@debut": "1998-08-06",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005626336"
+        }
+      ],
+      "@cid": "JORFTEXT000000740411",
+      "@date_publi": "1998-08-06",
+      "@date_signature": "1998-07-30",
+      "@nature": "DECRET",
+      "@nor": "MCCB9800083D",
+      "@num": "98-678"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006426250",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 45-2075 1945-08-31",
+        "@cidtexte": "JORFTEXT000000495879",
+        "@datesignatexte": "1945-08-31",
+        "@id": "JORFTEXT000000495879",
+        "@naturetexte": "DECRET",
+        "@numtexte": "45-2075",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°45-2075 du 31 août 1945 - art. 2 (M)",
+        "@cidtexte": "JORFTEXT000000495879",
+        "@datesignatexte": "1945-08-31",
+        "@id": "LEGIARTI000006427575",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "45-2075",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

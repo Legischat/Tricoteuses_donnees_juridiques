@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006529207",
+      "ANCIEN_ID": "PPEDQXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/92/LEGIARTI000006529207.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-11-01",
+        "DATE_FIN": "2016-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations (1)",
+          "@c_titre_court": "Loi n° 2000-321 du 12 avril 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000215117"
+        },
+        {
+          "#text": "Loi n° 2000-321 du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec les administrations",
+          "@c_titre_court": "Loi n° 2000-321 du 12 avril 2000",
+          "@debut": "2000-04-13",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005629288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : Dispositions relatives aux relations des citoyens avec les administrations",
+            "@debut": "2000-04-13",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006095971"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Dispositions relatives au régime des décisions prises par les autorités administratives.",
+              "@debut": "2000-04-13",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006120455"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000215117",
+      "@date_publi": "2000-04-13",
+      "@date_signature": "2000-04-12",
+      "@nature": "LOI",
+      "@nor": "FPPX9800029L",
+      "@num": "2000-321"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-11-01",
+          "@etat": "ABROGE",
+          "@fin": "2016-01-01",
+          "@id": "LEGIARTI000006529207",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Sont considérées comme des demandes au sens du présent chapitre les demandes et les réclamations, y compris les recours gracieux ou hiérarchiques, adressées aux autorités administratives.</p>\n<br/>\n<p>A l'exception de celles de l'article 21, les dispositions des articles 19 à 24 ne s'appliquent pas aux relations entre les autorités administratives et leurs agents.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 2000-321 du 12 avril 2000",
+        "@cidtexte": "JORFTEXT000000215117",
+        "@datesignatexte": "2000-04-12",
+        "@id": "JORFTEXT000000215117",
+        "@naturetexte": "LOI",
+        "@nortexte": "FPPX9800029L",
+        "@numtexte": "2000-321",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n° 2000-321 du 12 avril 2000 - art. 21",
+        "@cidtexte": "JORFTEXT000000215117",
+        "@datesignatexte": "2000-04-12",
+        "@id": "LEGIARTI000006529211",
+        "@naturetexte": "LOI",
+        "@nortexte": "FPPX9800029L",
+        "@num": "21",
+        "@numtexte": "2000-321",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des relations entre le public et l'adminis... - art. L110-1 (VD)",
+        "@cidtexte": "LEGITEXT000031366350",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000031367314",
+        "@naturetexte": "CODE",
+        "@num": "L110-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 6",
+        "@cidtexte": "JORFTEXT000031360943",
+        "@datesignatexte": "2015-10-23",
+        "@id": "LEGIARTI000031365130",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "PRMX1516009R",
+        "@num": "6",
+        "@numtexte": "2015-1341",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006695588",
+      "ANCIEN_ID": "SPEACXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/55/LEGIARTI000006695588.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-07-17",
+        "DATE_FIN": "1999-07-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-609 du 16 juillet 1984 RELATIVE A L'USAGE VETERINAIRE DE SUBSTANCES ANABOLISANTES ET A L'INTERDICTION DE DIVERSES AUTRES SUBSTANCES",
+          "@c_titre_court": "Loi n°84-609 du 16 juillet 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000501343"
+        },
+        {
+          "#text": "Loi n° 84-609 du 16 juillet 1984 relative à l'usage vétérinaire de substances anabolisantes et à l'interdiction de diverses autres substances.",
+          "@c_titre_court": "Loi n° 84-609 du 16 juillet 1984",
+          "@debut": "1984-07-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068857"
+        }
+      ],
+      "@cid": "JORFTEXT000000501343",
+      "@date_publi": "1984-07-17",
+      "@date_signature": "1984-07-16",
+      "@nature": "LOI",
+      "@num": "84-609"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-07-17",
+          "@etat": "ABROGE",
+          "@fin": "1999-07-10",
+          "@id": "LEGIARTI000006695588",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est interdit d'administrer, de mettre sur le marché et de détenir en vue d'administrer, même dans un but thérapeutique, aux animaux de toute espèce des produits contenant des stilbènes, leurs dérivés, sels ou esters, ainsi que des substances à action thyréostatique.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°84-609 du 16 juillet 1984 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000501343",
+        "@datesignatexte": "1984-07-16",
+        "@id": "LEGIARTI000006695590",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "84-609",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°84-609 du 16 juillet 1984 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000501343",
+        "@datesignatexte": "1984-07-16",
+        "@id": "LEGIARTI000006695593",
+        "@naturetexte": "LOI",
+        "@num": "6",
+        "@numtexte": "84-609",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°99-574 du 9 juillet 1999 - art. 98 () JORF 10 juillet 1999",
+        "@cidtexte": "JORFTEXT000000395813",
+        "@datesignatexte": "1999-07-09",
+        "@id": "LEGIARTI000006600440",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9800053L",
+        "@num": "98",
+        "@numtexte": "99-574",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

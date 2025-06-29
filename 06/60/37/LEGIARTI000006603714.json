@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006603714",
+      "ANCIEN_ID": "RAHHJXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/37/LEGIARTI000006603714.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-01-23",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 96-47 du 22 janvier 1996 relatif au transfert des quantités de    référence laitières",
+          "@c_titre_court": "Décret n°96-47 du 22 janvier 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000557485"
+        },
+        {
+          "#text": "Décret n°96-47 du 22 janvier 1996 relatif au transfert des quantités de référence laitières",
+          "@c_titre_court": "Décret n°96-47 du 22 janvier 1996",
+          "@debut": "1996-01-23",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000005620204"
+        }
+      ],
+      "@cid": "JORFTEXT000000557485",
+      "@date_publi": "1996-01-23",
+      "@date_signature": "1996-01-22",
+      "@ministere": "MINISTERE DE L'AGRICULTURE, DE LA PECHE ET DE L'ALIMENTATION",
+      "@nature": "DECRET",
+      "@nor": "AGRS9502551D",
+      "@num": "96-47"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-01-23",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006603714",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque la personne physique ou morale qui reprend les terres ne poursuit pas la production laitière, la quantité de référence correspondante est ajoutée en totalité à la réserve.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 96-47 1996-01-22 art. 15 (modalités d'application)",
+        "@cidtexte": "JORFTEXT000000557485",
+        "@datesignatexte": "1996-01-22",
+        "@id": "JORFTEXT000000557485",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS9502551D",
+        "@numtexte": "96-47",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006328166",
+      "ANCIEN_ID": "FAISGXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/81/LEGIARTI000006328166.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-01-09",
+        "DATE_FIN": "2012-10-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 octobre 1986 relatif à la création de traitements informatisés d'aide à la gestion administrative et au suivi du contrôle fiscal à la direction générale des finances publiques",
+          "@c_titre_court": "Arrêté du 7 octobre 1986",
+          "@debut": "2009-06-27",
+          "@fin": "2012-10-21",
+          "@id_txt": "LEGITEXT000020796166"
+        },
+        {
+          "#text": "Arrêté du 7 octobre 1986 relatif à la création de traitements informatisés d'aide à la gestion administrative et au suivi du contrôle fiscal à la direction générale des impôts",
+          "@c_titre_court": "Arrêté du 7 octobre 1986",
+          "@debut": "2002-01-09",
+          "@fin": "2009-06-27",
+          "@id_txt": "LEGITEXT000026528089"
+        },
+        {
+          "#text": "Arrêté du 7 octobre 1986 autorisant la création de traitements informatisés d'aide à la gestion administrative au sein des directions des services extérieurs de la direction générale des impôts",
+          "@c_titre_court": "Arrêté du 7 octobre 1986",
+          "@debut": "1986-10-15",
+          "@fin": "2002-01-09",
+          "@id_txt": "LEGITEXT000006070007"
+        }
+      ],
+      "@cid": "LEGITEXT000006070007",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-10-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-10-15",
+          "@etat": "MODIFIE",
+          "@fin": "2002-01-09",
+          "@id": "LEGIARTI000006328165",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-09",
+          "@etat": "ABROGE",
+          "@fin": "2012-10-21",
+          "@id": "LEGIARTI000006328166",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les traitements relatifs à l'organisation et au suivi des opérations de contrôle fiscal sont mis en oeuvre sur des micro-ordinateurs autonomes installés dans les services extérieurs de la direction générale des impôts.</p>\n<br/>\n<p>Le module Alpage est mis en oeuvre dans les services visés à l'article 1er sur des micro-ordinateurs reliés en réseau local. </p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 78-17 1978-01-06 art. 34",
+        "@cidtexte": "JORFTEXT000000886460",
+        "@datesignatexte": "1978-01-06",
+        "@id": "JORFTEXT000000886460",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-17",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 28 décembre 2001 - art. 4, v. init.",
+        "@cidtexte": "JORFTEXT000000409646",
+        "@datesignatexte": "2001-12-28",
+        "@id": "JORFARTI000002042579",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOL0100210A",
+        "@num": "4",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 2 octobre 2012 - art. 7",
+        "@cidtexte": "JORFTEXT000026511731",
+        "@datesignatexte": "2012-10-02",
+        "@id": "LEGIARTI000026513867",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BUDE1236382A",
+        "@num": "7",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

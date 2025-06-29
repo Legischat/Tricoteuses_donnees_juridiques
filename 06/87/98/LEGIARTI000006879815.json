@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006879815",
+      "ANCIEN_ID": "UTHAFXXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/98/LEGIARTI000006879815.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-06-23",
+        "DATE_FIN": "2022-02-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°59-1091 du 23 septembre 1959 PORTANT STATUT DE LA RATP",
+          "@c_titre_court": "Décret n°59-1091 du 23 septembre 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000493219"
+        },
+        {
+          "#text": "Décret n°59-1091 du 23 septembre 1959 portant statut de la Régie autonome des transports parisiens.",
+          "@c_titre_court": "Décret n°59-1091 du 23 septembre 1959",
+          "@debut": "1959-09-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060854"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : PRÉSIDENT-DIRECTEUR GÉNÉRAL",
+            "@debut": "1989-06-23",
+            "@fin": "2022-02-27",
+            "@id": "LEGISCTA000006111706"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000493219",
+      "@date_publi": "1959-09-24",
+      "@date_signature": "1959-09-23",
+      "@nature": "DECRET",
+      "@num": "59-1091"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-09-24",
+          "@etat": "MODIFIE",
+          "@fin": "1989-06-23",
+          "@id": "LEGIARTI000006879814",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-06-23",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-27",
+          "@id": "LEGIARTI000006879815",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le président-directeur général est assisté de directeurs généraux adjoints qu'il nomme après avis du conseil d'administration et sous réserve de l'agrément du ministre chargé des transports. \"<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 89-410 1989-06-20 art. 2 III, V JORF 23 juin 1989",
+        "@cidtexte": "JORFTEXT000000517287",
+        "@datesignatexte": "1989-06-20",
+        "@id": "JORFTEXT000000517287",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUT8900659D",
+        "@numtexte": "89-410",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2022-251 du 24 février 2022 - art. 16",
+        "@cidtexte": "JORFTEXT000045243945",
+        "@datesignatexte": "2022-02-24",
+        "@id": "LEGIARTI000045246702",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TRAT2130567D",
+        "@num": "16",
+        "@numtexte": "2022-251",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006881392",
+      "ANCIEN_ID": "UTHDFXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/13/LEGIARTI000006881392.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1966-03-20",
+        "DATE_FIN": "1993-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°66-155 du 15 mars 1966 RELATIF A LA CONDUITE EN MER DES NAVIRES DE PLAISANCE A MOTEUR",
+          "@c_titre_court": "Décret n°66-155 du 15 mars 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000695198"
+        },
+        {
+          "#text": "Décret n°66-155 du 15 mars 1966 relatif à la conduite en mer des navires de plaisance à moteur",
+          "@c_titre_court": "Décret n°66-155 du 15 mars 1966",
+          "@debut": "1966-03-20",
+          "@fin": "1993-01-01",
+          "@id_txt": "LEGITEXT000006061344"
+        }
+      ],
+      "@cid": "JORFTEXT000000695198",
+      "@date_publi": "1966-03-20",
+      "@date_signature": "1966-03-15",
+      "@nature": "DECRET",
+      "@num": "66-155"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1993-01-01",
+          "@id": "LEGIARTI000006881392",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Il existe trois catégories de permis de conduire en mer les navires de plaisance à moteur :<br/>\n    Le permis A, valable pour la navigation accomplie à bord des embarcations à moteur visées par le décret n° 62-784 du 9 juillet 1962 ou à bord de tous autres navires ne s'éloignant pas à plus de 5 milles de la côte la plus proche ;<br/>\n    Le permis B, valable pour la navigation accomplie à bord des navires à moteur d'une jauge brute inférieure à 25 tonneaux ;<br/>\n    Le permis C, valable pour la navigation accomplie à bord des navires de plaisance à moteur de tout tonnage.<br/>\n    Ce dernier permis prend le titre de \"certificat d'aptitude au commandement des navires de plaisance à moteur\".<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 62-784 1962-07-09",
+        "@cidtexte": "JORFTEXT000000490406",
+        "@datesignatexte": "1962-07-09",
+        "@id": "JORFTEXT000000490406",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-784",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°66-155 du 15 mars 1966 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000695198",
+        "@datesignatexte": "1966-03-15",
+        "@id": "LEGIARTI000006881397",
+        "@naturetexte": "DECRET",
+        "@num": "10",
+        "@numtexte": "66-155",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°92-1166 du 21 octobre 1992 - art. 15 (AbD) JORF 27 octobre 1992 en vigueur le 1er janvier 1993",
+        "@cidtexte": "JORFTEXT000000360669",
+        "@datesignatexte": "1992-10-21",
+        "@id": "LEGIARTI000006882320",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MERR9200030D",
+        "@num": "15",
+        "@numtexte": "92-1166",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

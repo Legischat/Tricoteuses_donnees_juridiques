@@ -1,0 +1,135 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006647749",
+      "ANCIEN_ID": "SAAXXXXXXXX1X265L01AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/77/LEGIARTI000006647749.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L265-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-21",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Réglementation du travail",
+              "@debut": "1973-01-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123874"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre VI : Pénalités.",
+                "@debut": "1973-07-11",
+                "@fin": "2008-05-01",
+                "@id": "LEGISCTA000006139798"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre V : Service social du travail.",
+                  "@debut": "1973-11-21",
+                  "@fin": "1994-03-01",
+                  "@id": "LEGISCTA000006154086"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-21",
+          "@etat": "ABROGE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006647749",
+          "@num": "L265-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les chefs d'établissement, directeurs, gérants ou préposés qui, occupant dans leurs établissements d'une façon habituelle deux cent cinquante salariés au moins, n'ont pas organisé des services sociaux du travail seront passibles, en cas de récidive dans un délai de trois ans, d'une amende de 6.000 à 15.000 F (1).<br/>\n (1) Amende applicable depuis le 1er janvier 1990.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du travail R250",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1046 1973-11-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°72-617 du 5 juillet 1972 - art. 27, v. init.",
+        "@cidtexte": "JORFTEXT000000684296",
+        "@datesignatexte": "1972-07-05",
+        "@id": "JORFARTI000001681488",
+        "@naturetexte": "LOI",
+        "@num": "27",
+        "@numtexte": "72-617",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000729725",
+        "@datesignatexte": "1993-03-29",
+        "@id": "JORFTEXT000000729725",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX9300012Z",
+        "@numtexte": "93-726",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006239711",
+      "ANCIEN_ID": "PAHJ1XXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/23/97/LEGIARTI000006239711.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-07-01",
+        "DATE_FIN": "2008-11-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2005-274 du 24 mars 2005 portant organisation générale de la gendarmerie nationale",
+          "@c_titre_court": "Décret n°2005-274 du 24 mars 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000259233"
+        },
+        {
+          "#text": "Décret n°2005-274 du 24 mars 2005 portant organisation générale de la gendarmerie nationale.",
+          "@c_titre_court": "Décret n°2005-274 du 24 mars 2005",
+          "@debut": "2005-07-01",
+          "@fin": "2008-11-28",
+          "@id_txt": "LEGITEXT000006051451"
+        }
+      ],
+      "@cid": "JORFTEXT000000259233",
+      "@date_publi": "2005-03-26",
+      "@date_signature": "2005-03-24",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "DECRET",
+      "@nor": "DEFX0400288D",
+      "@num": "2005-274"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-07-01",
+          "@etat": "ABROGE",
+          "@fin": "2008-11-28",
+          "@id": "LEGIARTI000006239711",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001136534",
+          "@num": "7",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le commandant de région de gendarmerie est directement subordonné au directeur général de la gendarmerie nationale. Il exerce son commandement sur toutes les unités qui lui sont subordonnées à titre permanent ou temporaire dans les conditions prévues par le décret n° 91-668 du 14 juillet 1991 susvisé.<br/>\n<br/>   Le commandant de la région de gendarmerie situé au siège de la zone de défense dispose d'attributions particulières définies par arrêté. Il prend l'appellation de \" commandant la région de gendarmerie, commandant la gendarmerie pour la zone de défense \". Il reçoit les réquisitions des autorités civiles pour les formations appartenant à la gendarmerie mobile.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°91-668 du 14 juillet 1991",
+        "@cidtexte": "JORFTEXT000000536339",
+        "@datesignatexte": "1991-07-14",
+        "@id": "JORFTEXT000000536339",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFX9100123D",
+        "@numtexte": "91-668",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2008-1218\n du 25 novembre 2008 - art. 3",
+        "@cidtexte": "JORFTEXT000019808482",
+        "@datesignatexte": "2008-11-25",
+        "@id": "LEGIARTI000019813363",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFD0814146D",
+        "@num": "3",
+        "@numtexte": "2008-1218",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

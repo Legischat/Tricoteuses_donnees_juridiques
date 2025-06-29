@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006567452",
+      "ANCIEN_ID": "ADHKWXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/74/LEGIARTI000006567452.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-11-03",
+        "DATE_FIN": "1981-05-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°68-955 du 29 octobre 1968 RAP POUR L'APPLICATION DE LA LOI DU 1 août 1905 SUR LA REPRESSION DES FRAUDES EN CE QUI CONCERNE LE COMMERCE DES SEMENCES ET PLANTS",
+          "@c_titre_court": "Décret n°68-955 du 29 octobre 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000695048"
+        },
+        {
+          "#text": "Décret n°68-955 du 29 octobre 1968 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne le commerce des semences et plants",
+          "@c_titre_court": "Décret n°68-955 du 29 octobre 1968",
+          "@debut": "1968-11-03",
+          "@fin": "1981-05-20",
+          "@id_txt": "LEGITEXT000006061595"
+        }
+      ],
+      "@cid": "JORFTEXT000000695048",
+      "@date_publi": "1968-11-03",
+      "@date_signature": "1968-10-29",
+      "@nature": "DECRET",
+      "@num": "68-955"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-11-03",
+          "@etat": "ABROGE",
+          "@fin": "1981-05-20",
+          "@id": "LEGIARTI000006567452",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La dénomination Semences ou Plants suivie éventuellement d'un qualificatif fixé par arrêté du ministre de l'agriculture est réservée pour l'application de l'article 11 de la loi du 1er août 1905 aux végétaux ou parties de végétaux de toute nature destinés à la production ou à la multiplication et présentant les caractéristiques génétiques, physiologiques, technologiques et sanitaires prévues par arrêté du même ministre.<br/>\n<br/>   La dénomination Semences certifiées ou Plants certifiés est réservée aux semences et plants répondant aux conditions prévues à l'article 2.<br/>\n<br/>   La dénomination Semences de base ou Plants de base est réservée aux semences et plants répondant aux conditions prévues à l'article 2 et aptes à la production des semences et plants.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 68-955 1968-10-29 art. 6-1 *champ d'application*",
+        "@cidtexte": "JORFTEXT000000695048",
+        "@datesignatexte": "1968-10-29",
+        "@id": "JORFTEXT000000695048",
+        "@naturetexte": "DECRET",
+        "@numtexte": "68-955",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°68-955 du 29 octobre 1968 - art. 6-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000695048",
+        "@datesignatexte": "1968-10-29",
+        "@id": "LEGIARTI000006567505",
+        "@naturetexte": "DECRET",
+        "@num": "6-1",
+        "@numtexte": "68-955",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°71-765 du 9 septembre 1971 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000336379",
+        "@datesignatexte": "1971-09-09",
+        "@id": "LEGIARTI000006282103",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "71-765",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1905-08-01 art. 11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 68-955 1968-10-29 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

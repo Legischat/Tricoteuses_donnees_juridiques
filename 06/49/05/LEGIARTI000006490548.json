@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006490548",
+      "ANCIEN_ID": "PJAXXXXXXXX2X041R10AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/05/LEGIARTI000006490548.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R41-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-03-24",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code pénal (ancien)",
+          "@c_titre_court": "CODE PENAL",
+          "@debut": "1810-02-12",
+          "@fin": "1994-03-01",
+          "@id_txt": "LEGITEXT000006071029"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1810-02-12",
+            "@fin": "1994-03-01",
+            "@id": "LEGISCTA000006093904"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre IV : Contraventions de police et peines",
+              "@debut": "1810-03-02",
+              "@fin": "1994-03-01",
+              "@id": "LEGISCTA000006119342"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : Contraventions et peines",
+                "@debut": "1958-12-24",
+                "@fin": "1994-03-01",
+                "@id": "LEGISCTA000006136901"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section V : Cinquième classe.",
+                  "@debut": "1988-03-24",
+                  "@fin": "1994-03-01",
+                  "@id": "LEGISCTA000006150854"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071029",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-24",
+          "@etat": "ABROGE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006490548",
+          "@num": "R41-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans le cas prévu au 3° de l'article R. 40, les uniformes, insignes ou emblèmes seront saisis et confisqués.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°88-271 du 18 mars 1988 - art. 2 () JORF 24 mars 1988",
+        "@cidtexte": "JORFTEXT000000509134",
+        "@datesignatexte": "1988-03-18",
+        "@id": "LEGIARTI000006495901",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSD8830028D",
+        "@num": "2",
+        "@numtexte": "88-271",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 93-726 1993-03-29 art. 9 JORF 30 mars 1993 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000729725",
+        "@datesignatexte": "1993-03-29",
+        "@id": "JORFTEXT000000729725",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX9300012Z",
+        "@numtexte": "93-726",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code pénal R40 3°",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

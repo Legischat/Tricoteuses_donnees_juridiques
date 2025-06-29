@@ -1,0 +1,149 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006434381",
+      "ANCIEN_ID": "PEAXXXXXXXX1X311L00AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/43/LEGIARTI000006434381.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "311",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1983-05-01",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de justice militaire",
+          "@c_titre_court": "Code de justice militaire",
+          "@debut": "1983-05-01",
+          "@fin": "2007-05-12",
+          "@id_txt": "LEGITEXT000006070884"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1983-05-01",
+            "@fin": "2007-05-12",
+            "@id": "LEGISCTA000006090526"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Procédure pénale militaire",
+              "@debut": "1983-05-01",
+              "@fin": "2007-05-12",
+              "@id": "LEGISCTA000006117975"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre V : Des procédures particulières et des procédures d'exécution",
+                "@debut": "1983-05-01",
+                "@fin": "2007-05-12",
+                "@id": "LEGISCTA000006136301"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : Du séquestre et de la confiscation des biens",
+                  "@debut": "1983-05-01",
+                  "@fin": "1999-11-11",
+                  "@id": "LEGISCTA000006150187"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070884",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-01",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006434381",
+          "@num": "311",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "1999-11-11",
+          "@id": "LEGIARTI000006434382",
+          "@num": "311",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La confiscation des biens est exécutée sans les formes prévues aux articles 38 et 39 du code pénal, sous les réserves ci-après.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 82-621 1982-07-21 JORF 22 juillet 1982 rectificatif JORF 3 août 1982 en vigueur le 1er mai 1983",
+        "@cidtexte": "JORFTEXT000000504202",
+        "@datesignatexte": "1982-07-21",
+        "@id": "JORFTEXT000000504202",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-621",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 82-984 1982-11-19",
+        "@cidtexte": "JORFTEXT000000331734",
+        "@datesignatexte": "1982-11-19",
+        "@id": "JORFTEXT000000331734",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-984",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code pénal 38, 39",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du domaine de l'Etat et des collectivités pub - art. L122-7 (Ab)",
+        "@cidtexte": "LEGITEXT000006074235",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006845371",
+        "@naturetexte": "CODE",
+        "@num": "L122-7",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

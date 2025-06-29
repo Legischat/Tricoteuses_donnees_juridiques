@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006856297",
+      "ANCIEN_ID": "UPHNBXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/62/LEGIARTI000006856297.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-02-19",
+        "DATE_FIN": "1992-10-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-233 du 12 février 1985 RELATIF A L'UTILISATION DES PEINTURES MARINES ANTISALISSURES",
+          "@c_titre_court": "Décret n°85-233 du 12 février 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000337200"
+        },
+        {
+          "#text": "Décret n°85-233 du 12 février 1985 relatif à l'utilisation des peintures marines antisalissures",
+          "@c_titre_court": "Décret n°85-233 du 12 février 1985",
+          "@debut": "1985-02-19",
+          "@fin": "1992-10-04",
+          "@id_txt": "LEGITEXT000006064900"
+        }
+      ],
+      "@cid": "JORFTEXT000000337200",
+      "@date_publi": "1985-02-19",
+      "@date_signature": "1985-02-12",
+      "@nature": "DECRET",
+      "@num": "85-233"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-02-19",
+          "@etat": "ABROGE",
+          "@fin": "1992-10-04",
+          "@id": "LEGIARTI000006856297",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est interdit de recouvrir les coques des navires et des embarcations dont la longueur est inférieure à 25 mètres hors tout de peintures marines antisalissures contenant des composés organostanniques.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 77-771 1977-07-12 art. 5 II",
+        "@cidtexte": "JORFTEXT000000522708",
+        "@datesignatexte": "1977-07-12",
+        "@id": "JORFTEXT000000522708",
+        "@naturetexte": "LOI",
+        "@numtexte": "77-771",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 79-35 1979-01-15",
+        "@cidtexte": "JORFTEXT000000702827",
+        "@datesignatexte": "1979-01-15",
+        "@id": "JORFTEXT000000702827",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-35",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 85-233 1985-02-22 art. 4",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°85-233 du 12 février 1985 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000337200",
+        "@datesignatexte": "1985-02-12",
+        "@id": "LEGIARTI000006856298",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "85-233",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "décret 92-1047 1992-10-02 art. 19 JORF 4 octobre 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

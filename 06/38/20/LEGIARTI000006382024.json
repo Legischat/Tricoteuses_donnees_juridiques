@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006382024",
+      "ANCIEN_ID": "MSIJMXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/20/LEGIARTI000006382024.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-09-17",
+        "DATE_FIN": "2000-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 septembre 1978 fixant le régime des indemnités de stage susceptibles d'être allouées aux personnels civils de l'Etat.",
+          "@c_titre_court": "Arrêté du 6 septembre 1978",
+          "@debut": "1978-09-17",
+          "@fin": "2000-01-01",
+          "@id_txt": "LEGITEXT000006070546"
+        }
+      ],
+      "@cid": "LEGITEXT000006070546",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1978-09-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-09-17",
+          "@etat": "ABROGE",
+          "@fin": "2000-01-01",
+          "@id": "LEGIARTI000006382024",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les fonctionnaires civils et agents des services de l'Etat appelés à suivre des stages de formation ou de perfectionnement reçoivent, lorsque le stage s'effectue hors de la commune de leur résidence administrative (s'il s'agit d'un stage en cours de carrière) ou hors de la commune de leur domicile (s'il s'agit d'un stage en début de carrière), des indemnités de stage dans les conditions précisées aux articles ci-après :<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-02-25 ART. 13 : *les dispositions du présent arrêté sont applicables aux agents communaux*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°66-619 du 10 août 1966 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000876794",
+        "@datesignatexte": "1966-08-10",
+        "@id": "LEGIARTI000006503026",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "66-619",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 31 décembre 1999 - art. 11 (V)",
+        "@cidtexte": "JORFTEXT000000386238",
+        "@datesignatexte": "1999-12-31",
+        "@id": "LEGIARTI000019431543",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "FPPA0000013A",
+        "@num": "11",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

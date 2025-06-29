@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006762587",
+      "ANCIEN_ID": "AFIMEXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/25/LEGIARTI000006762587.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-05-10",
+        "DATE_FIN": "1991-09-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 juillet 1986 relatif au taux nominal des prêts aidés à l'artisanat",
+          "@c_titre_court": "Arrêté du 16 juillet 1986",
+          "@debut": "1986-07-24",
+          "@fin": "1991-09-25",
+          "@id_txt": "LEGITEXT000006073391"
+        }
+      ],
+      "@cid": "LEGITEXT000006073391",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-07-16",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-07-24",
+          "@etat": "MODIFIE",
+          "@fin": "1988-05-10",
+          "@id": "LEGIARTI000006762586",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-05-10",
+          "@etat": "ABROGE",
+          "@fin": "1991-09-25",
+          "@id": "LEGIARTI000006762587",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant maximum des prêts visés à l'article 1er est fixé à :<br/>\n<br/>   - 100 000 F par emploi créé dans la limite de cinq emplois ;<br/>\n<br/>   - 200 000 F ou 1 000 000 F respectivement pour la création d'entreprise ou de groupements.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-07-16 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1986-07-16 art. 2 *zones de montagne*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1988-05-09 art. 1 JORF 10 mai 1988",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1991-09-17 art. 5 JORF 25 septembre 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 83-216 1983-04-15",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888502",
+      "ANCIEN_ID": "UTIGGXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/85/LEGIARTI000006888502.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1971-07-30",
+        "DATE_FIN": "1987-11-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 juin 1971 FEUX SPECIAUX DES VEHICULES D'INTERVENTION URGENTE",
+          "@c_titre_court": "Arrêté du 30 juin 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000284303"
+        },
+        {
+          "#text": "Arrêté du 30 juin 1971 relatif aux feux spéciaux des véhicules d'intervention urgente.",
+          "@c_titre_court": "Arrêté du 30 juin 1971",
+          "@debut": "1971-07-09",
+          "@fin": "1987-11-21",
+          "@id_txt": "LEGITEXT000006075051"
+        }
+      ],
+      "@cid": "JORFTEXT000000284303",
+      "@date_publi": "1971-07-09",
+      "@date_signature": "1971-06-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-07-30",
+          "@etat": "ABROGE",
+          "@fin": "1987-11-21",
+          "@id": "LEGIARTI000006888502",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 24 février 1960 relatif aux avertisseurs lumineux spéciaux des véhicules des services de police, de gendarmerie et de lutte contre l'incendie est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1960-02-24",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 30 octobre 1987, v. init.",
+        "@cidtexte": "JORFTEXT000000322497",
+        "@datesignatexte": "1987-10-30",
+        "@id": "JORFTEXT000000322497",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "EQUS8700991A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006858604",
+      "ANCIEN_ID": "UPHWXXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/86/LEGIARTI000006858604.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-05-01",
+        "DATE_FIN": "2007-10-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 90-267 du 23 mars 1990 relatif à l'importation, à l'exportation et    au transit de déchets générateurs de nuisances.",
+          "@c_titre_court": "Décret n°90-267 du 23 mars 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000349606"
+        },
+        {
+          "#text": "Décret n°90-267 du 23 mars 1990 relatif à l'importation, à l'exportation et au transit de déchets générateurs de nuisances",
+          "@c_titre_court": "Décret n°90-267 du 23 mars 1990",
+          "@debut": "1990-05-01",
+          "@fin": "2007-10-16",
+          "@id_txt": "LEGITEXT000006075611"
+        }
+      ],
+      "@cid": "JORFTEXT000000349606",
+      "@date_publi": "1990-03-27",
+      "@date_signature": "1990-03-23",
+      "@nature": "DECRET",
+      "@nor": "PRME9061077D",
+      "@num": "90-267"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-05-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-10-16",
+          "@id": "LEGIARTI000006858604",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Au sens du présent décret, on entend par *définition*:<br/>\n<br/>   a) \" Détenteur initial \", la personne qui détient légalement le déchet dans l'Etat d'expédition ;<br/>\n<br/>   b) \" Destinataire \", la personne chargée d'effectuer dans l'Etat de destination le traitement, le prétraitement ou la mise en décharge du déchet ;<br/>\n<br/>   c) \" Prétraitement \", une opération qui modifie la composition chimique ou les caractéristiques physiques d'un déchet sans supprimer la nécessité d'un traitement ultérieur du déchet en résultant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-03-23",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi 75-633 1975-07-15",
+        "@cidtexte": "JORFTEXT000000888298",
+        "@datesignatexte": "1975-07-15",
+        "@id": "JORFTEXT000000888298",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-633",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 90-267 1990-03-23 art. 40",
+        "@cidtexte": "JORFTEXT000000349606",
+        "@datesignatexte": "1990-03-23",
+        "@id": "JORFTEXT000000349606",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRME9061077D",
+        "@numtexte": "90-267",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 2007-1467 2007-10-12 art. 4 JORF 16 octobre 2007",
+        "@cidtexte": "JORFTEXT000000825108",
+        "@datesignatexte": "2007-10-12",
+        "@id": "JORFTEXT000000825108",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVG0750611D",
+        "@numtexte": "2007-1467",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

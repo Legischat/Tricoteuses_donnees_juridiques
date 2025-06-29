@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006381144",
+      "ANCIEN_ID": "MSIDGXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/11/LEGIARTI000006381144.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-04-01",
+        "DATE_FIN": "1982-03-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 février 1969 instituant une indemnité exceptionnelle pour le personnel des collectivités locales victimes d'un accident aérien ou maritime dans l'exécution d'une mission.",
+          "@c_titre_court": "Arrêté du 28 février 1969",
+          "@debut": "1969-04-01",
+          "@fin": "1982-03-07",
+          "@id_txt": "LEGITEXT000006070422"
+        }
+      ],
+      "@cid": "LEGITEXT000006070422",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1969-02-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-04-01",
+          "@etat": "ABROGE",
+          "@fin": "1982-03-07",
+          "@id": "LEGIARTI000006381144",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'indemnité exceptionnelle définie à l'article précédent est octroyée lorsque la responsabilité du transporteur se trouve limitée soit en application des conventions internationales de Varsovie et de Bruxelles concernant les transports aériens ou maritimes internationaux, soit en application des lois n° 57-529 du 2 mars 1967 et n° 66-420 du 18 juin 1966, soit en application de toute autre disposition, en particulier les accords conclus entre les compagnies de transport aérien.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Convention 1929-10-12 VARSOVIE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Convention 1957-10-10 BRUXELLES",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 66-420 1966-06-18",
+        "@cidtexte": "JORFTEXT000000692464",
+        "@datesignatexte": "1966-06-18",
+        "@id": "JORFTEXT000000692464",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-420",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 67-529 1967-03-02",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

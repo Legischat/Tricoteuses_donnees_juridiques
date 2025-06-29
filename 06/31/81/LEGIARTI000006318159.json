@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006318159",
+      "ANCIEN_ID": "FAEFIXXXXXX025AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/81/LEGIARTI000006318159.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1991-12-31",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI de finances pour 1992   (n° 91-1322 du 30 décembre 1991)  (1)",
+          "@c_titre_court": "Loi",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000356342"
+        },
+        {
+          "#text": "Loi n° 91-1322 du 30 décembre 1991 de Finances pour 1992",
+          "@c_titre_court": "Loi n° 91-1322 du 30 décembre 1991",
+          "@debut": "1991-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006078468"
+        }
+      ],
+      "@cid": "JORFTEXT000000356342",
+      "@date_publi": "1991-12-31",
+      "@date_signature": "1991-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX9100159L",
+      "@num": "91-1322"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-12-31",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006318159",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du 2° de l'article 733 du code général des impôts ne sont pas applicables aux ventes réalisées entre le 15 septembre et le 31 décembre 1991.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 733",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 91-1322 1991-12-30 Finances pour 1992 JORF 31 décembre 1991",
+        "@cidtexte": "JORFTEXT000000356342",
+        "@datesignatexte": "1991-12-30",
+        "@id": "JORFTEXT000000356342",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9100159L",
+        "@numtexte": "91-1322",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1734 ter (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006313710",
+        "@naturetexte": "CODE",
+        "@num": "1734 ter",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 54 septies (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006302455",
+        "@naturetexte": "CODE",
+        "@num": "54 septies",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

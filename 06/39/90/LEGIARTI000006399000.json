@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006399000",
+      "ANCIEN_ID": "MVEAAXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/39/90/LEGIARTI000006399000.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-13",
+        "DATE_FIN": "1989-06-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°79-591 du 12 juillet 1979 RELATIVE A CERTAINS OUVRAGES RELIANT LES VOIES NATIONALES OU DEPARTEMENTALES",
+          "@c_titre_court": "Loi n°79-591 du 12 juillet 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339351"
+        },
+        {
+          "#text": "Loi n° 79-591 du 12 juillet 1979 relative à certains ouvrages reliant les voies nationales ou départementales.",
+          "@c_titre_court": "Loi n° 79-591 du 12 juillet 1979",
+          "@debut": "1979-07-13",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068676"
+        }
+      ],
+      "@cid": "JORFTEXT000000339351",
+      "@date_publi": "1979-07-13",
+      "@date_signature": "1979-07-12",
+      "@nature": "LOI",
+      "@num": "79-591"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-13",
+          "@etat": "ABROGE",
+          "@fin": "1989-06-24",
+          "@id": "LEGIARTI000006399000",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dispositions abrogées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°79-591 du 12 juillet 1979 - art. 6 (V)",
+        "@cidtexte": "JORFTEXT000000339351",
+        "@datesignatexte": "1979-07-12",
+        "@id": "LEGIARTI000006273340",
+        "@naturetexte": "LOI",
+        "@num": "6",
+        "@numtexte": "79-591",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°89-413 du 22 juin 1989 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000684529",
+        "@datesignatexte": "1989-06-22",
+        "@id": "LEGIARTI000006878728",
+        "@naturetexte": "LOI",
+        "@nortexte": "EQUX8800040L",
+        "@num": "2",
+        "@numtexte": "89-413",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°89-413 du 22 juin 1989 - art. 2 (V) JORF 24 juin 1989",
+        "@cidtexte": "JORFTEXT000000684529",
+        "@datesignatexte": "1989-06-22",
+        "@id": "LEGIARTI000006878728",
+        "@naturetexte": "LOI",
+        "@nortexte": "EQUX8800040L",
+        "@num": "2",
+        "@numtexte": "89-413",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

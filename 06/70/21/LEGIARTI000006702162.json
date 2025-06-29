@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006702162",
+      "ANCIEN_ID": "AFEBRXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/21/LEGIARTI000006702162.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-05-01",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°81-1 du 2 janvier 1981 DITE DAILLY FACILITANT LE CREDIT AUX ENTREPRISES",
+          "@c_titre_court": "Loi n°81-1 du 2 janvier 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705348"
+        },
+        {
+          "#text": "Loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises",
+          "@c_titre_court": "Loi n° 81-1 du 2 janvier 1981",
+          "@debut": "1981-05-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068704"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section 2 : De la mobilisation des crédits.",
+            "@debut": "1981-05-01",
+            "@fin": "2001-01-01",
+            "@id": "LEGISCTA000006103878"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000705348",
+      "@date_publi": "1981-01-03",
+      "@date_signature": "1981-01-02",
+      "@nature": "LOI",
+      "@num": "81-1"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-05-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006702162",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les opérations de crédit à court terme n'ayant pas entraîné une cession ou un nantissement de créances professionnelles en faveur de l'établissement de crédit prêteur peuvent donner lieu à l'émission par celui-ci de titres destinés à la mobilisation de tout ou partie des crédits consentis.<br/>\n<br/>   Les porteurs successifs de ces titres bénéficient des droits énumérés aux articles suivants sous la condition que les bordereaux constatant ces crédits aient été mis à la disposition de l'organisme qui assure le financement, conformément aux conventions intervenues entre celui-ci et l'établissement prêteur ; ces bordereaux qui sont dénommés \"actes de cession de créances financières\" sont soumis, en tant que de besoin, aux dispositions des articles 1er à 6 de la présente loi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 81-1 1981-01-02 art. 1 à 6",
+        "@cidtexte": "JORFTEXT000000705348",
+        "@datesignatexte": "1981-01-02",
+        "@id": "JORFTEXT000000705348",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°81-1 du 2 janvier 1981 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000705348",
+        "@datesignatexte": "1981-01-02",
+        "@id": "LEGIARTI000006702163",
+        "@naturetexte": "LOI",
+        "@num": "10",
+        "@numtexte": "81-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n° 2000-1223 du 14 décembre 2000 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000574489",
+        "@datesignatexte": "2000-12-14",
+        "@id": "LEGIARTI000006716763",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOX0000098R",
+        "@num": "4",
+        "@numtexte": "2000-1223",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L313-31 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006652149",
+        "@naturetexte": "CODE",
+        "@num": "L313-31",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006533451",
+      "ANCIEN_ID": "ADHAAXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/34/LEGIARTI000006533451.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1930-05-10",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 8 septembre 1856 portant règlement sur la conservation et l'aménagement des sources d'eaux minérales",
+          "@c_titre_court": "Décret du 8 septembre 1856",
+          "@debut": "1856-09-08",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006071225"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Demande en déclaration d'utilité publique.",
+            "@debut": "1856-09-08",
+            "@fin": "2003-05-27",
+            "@id": "LEGISCTA000006096207"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071225",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1856-09-08",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1930-05-10",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006533451",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret est publié au Journal officiel. Il est, en outre, aux frais du demandeur, publié dans les journaux du département et affiché dans la commune où se trouve l'exploitation, ainsi qu'à la porte de l'établissement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1856-09-08 Bulletin des lois, 2e S., B. 428, n° 4017",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 5 1° JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1856-07-14",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

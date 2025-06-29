@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006411157",
+      "ANCIEN_ID": "PBAXXXXXXXX5X0726AAAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/41/11/LEGIARTI000006411157.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "726",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1976-01-01",
+        "DATE_FIN": "2017-05-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de procédure civile",
+          "@c_titre_court": "Code de procédure civile",
+          "@debut": "1976-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070716"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Dispositions communes à toutes les juridictions",
+            "@debut": "1976-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089127"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre XIX : Le secrétariat de la juridiction.",
+              "@debut": "1976-01-01",
+              "@fin": "2017-05-11",
+              "@id": "LEGISCTA000006117244"
+            },
+            {
+              "#text": "Titre XIX : Le greffe de la juridiction",
+              "@debut": "2017-05-11",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000034747766"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006070716",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2017-05-11",
+          "@id": "LEGIARTI000006411157",
+          "@num": "726",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2017-05-11",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000034747813",
+          "@num": "726",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le secrétariat tient un répertoire général des affaires dont la juridiction est saisie.</p>\n<p>Le répertoire général indique la date de la saisine, le numéro d'inscription, le nom des parties, la nature de l'affaire, s'il y a lieu la chambre à laquelle celle-ci est distribuée, la nature et la date de la décision.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 75-1123 1975-12-05 JORF 9 décembre 1975 rectificatif JORF 27 janvier 1976",
+        "@cidtexte": "JORFTEXT000000507244",
+        "@datesignatexte": "1975-12-05",
+        "@id": "JORFTEXT000000507244",
+        "@naturetexte": "DECRET",
+        "@numtexte": "75-1123",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 25 juin 2021 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000043771614",
+        "@datesignatexte": "2021-06-25",
+        "@id": "LEGIARTI000043774147",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUST2118072A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

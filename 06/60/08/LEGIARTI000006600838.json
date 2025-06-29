@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006600838",
+      "ANCIEN_ID": "RAEAZXXXXXX011AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/08/LEGIARTI000006600838.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-09-21",
+        "DATE_FIN": "2009-05-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 99-5 du 6 janvier 1999 relative aux animaux dangereux et errants et à la protection des animaux (1)",
+          "@c_titre_court": "Loi n°99-5 du 6 janvier 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000558336"
+        },
+        {
+          "#text": "Loi n° 99-5 du 6 janvier 1999 relative aux animaux dangereux et errants et à la protection des animaux",
+          "@c_titre_court": "Loi n° 99-5 du 6 janvier 1999",
+          "@debut": "1999-01-07",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005627341"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Des animaux dangereux et errants.",
+            "@debut": "1999-01-07",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098407"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000558336",
+      "@date_publi": "1999-01-07",
+      "@date_signature": "1999-01-06",
+      "@nature": "LOI",
+      "@nor": "AGRX9800014L",
+      "@num": "99-5"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-01-07",
+          "@etat": "MODIFIE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006600837",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-09-21",
+          "@etat": "ABROGE",
+          "@fin": "2009-05-14",
+          "@id": "LEGIARTI000006600838",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le Gouvernement déposera sur le bureau des assemblées dans les deux ans qui suivent la promulgation de la présente loi un rapport dressant un bilan sur la portée de cette loi concernant les deux catégories de chiens mentionnées à l'article L. 211-12 du code rural.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L211-12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000401865",
+        "@datesignatexte": "2000-09-18",
+        "@id": "LEGIARTI000006849361",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ATEX0000087R",
+        "@num": "11",
+        "@numtexte": "2000-914",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2009-526\n du 12 mai 2009 - art. 80",
+        "@cidtexte": "JORFTEXT000020604162",
+        "@datesignatexte": "2009-05-12",
+        "@id": "LEGIARTI000020606544",
+        "@naturetexte": "LOI",
+        "@nortexte": "BCFX0824886L",
+        "@num": "80",
+        "@numtexte": "2009-526",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

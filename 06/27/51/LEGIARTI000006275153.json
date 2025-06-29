@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275153",
+      "ANCIEN_ID": "FAEDXXXXXXX070AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/51/LEGIARTI000006275153.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "70",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1988-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°87-1060 du 30 décembre 1987 de finances pour 1988",
+          "@c_titre_court": "Loi n°87-1060 du 30 décembre 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317543"
+        },
+        {
+          "#text": "Loi n° 87-1060 du 30 décembre 1987 de finances pour 1988 (1)",
+          "@c_titre_court": "Loi n° 87-1060 du 30 décembre 1987",
+          "@debut": "1987-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068983"
+        }
+      ],
+      "@cid": "JORFTEXT000000317543",
+      "@date_publi": "1987-12-31",
+      "@date_signature": "1987-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX8700122L",
+      "@num": "87-1060"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006275153",
+          "@num": "70",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002072433",
+          "@num": "70",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. Paragraphes modificateurs<br/>\n<br/>   II. - Les dispositions des deux premiers alinéas du paragraphe I ter du même article sont applicables aux opérations d'apport de titres à une société soumise à l'impôt sur les sociétés.<br/>\n<br/>   III. - Les dispositions du troisième alinéa du paragraphe I ter du même article sont applicables aux échanges de droits sociaux résultant d'un apport à une société soumise à l'impôt sur les sociétés de droits sociaux représentant ensemble 50 p. 100 au moins du capital de la société dont les titres sont apportés.<br/>\n<br/>   IV. - Les dispositions des paragraphes I, II et III sont applicables aux échanges réalisés à compter du 1er janvier 1988.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 87-1060 1987-12-30 Finances pour 1988 JORF 31 décembre 1987 en vigueur le 1er janvier 1988",
+        "@cidtexte": "JORFTEXT000000317543",
+        "@datesignatexte": "1987-12-30",
+        "@id": "JORFTEXT000000317543",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700122L",
+        "@numtexte": "87-1060",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 160 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006308016",
+        "@naturetexte": "CODE",
+        "@num": "160",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

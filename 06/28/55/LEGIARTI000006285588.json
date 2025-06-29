@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006285588",
+      "ANCIEN_ID": "ARHAMXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/55/LEGIARTI000006285588.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1960-11-25",
+        "DATE_FIN": "2005-05-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 18 novembre 1924 RELATIF A LA TENUE DU LIVRE FONCIER DANS LES DEPARTEMENTS DU HAUT-RHIN, DU BAS-RHIN ET DE LA MOSELLE",
+          "@c_titre_court": "Décret du 18 novembre 1924",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000848306"
+        },
+        {
+          "#text": "Décret du 18 novembre 1924 relatif à la tenue du livre foncier dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+          "@c_titre_court": "Décret du 18 novembre 1924",
+          "@debut": "1924-06-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069461"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Dispositions générales",
+            "@debut": "1924-06-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006083929"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre I : Des livres fonciers des immeubles",
+              "@debut": "1924-06-03",
+              "@fin": "2009-10-10",
+              "@id": "LEGISCTA000006114174"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section I : Bureaux fonciers - Circonscriptions foncières - Livres fonciers.",
+                "@debut": "1924-06-03",
+                "@fin": "2009-10-10",
+                "@id": "LEGISCTA000006133435"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000848306",
+      "@date_publi": "1924-11-20",
+      "@date_signature": "1924-11-18",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-11-25",
+          "@etat": "MODIFIE",
+          "@fin": "2005-05-28",
+          "@id": "LEGIARTI000006285588",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-05-28",
+          "@etat": "ABROGE",
+          "@fin": "2009-10-10",
+          "@id": "LEGIARTI000006285589",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour chaque propriétaire il est établi, sauf prescription contraire, un feuillet du livre foncier destiné à l'inscription de tous les immeubles lui appartenant dans la même circonscription foncière.<br/>\n<br/>   Toute propriété commune ou indivise est inscrite sur un feuillet distinct, à moins qu'il ne s'agisse d'immeubles soumis au régime de la copropriété prévue par la loi du 28 juin 1938 tendant à régler le statut de la copropriété des immeubles divisés par appartements. Dans ce cas, sur présentation d'un état descriptif adopté par tous les copropriétaires, portant division du bâtiment à construire et contenu dans un règlement de copropriété ou un autre acte, la quote-part de chaque copropriétaire est inscrite sur son feuillet personnel, avec référence audit état descriptif. Après achèvement de la construction et sur présentation de l'esquisse prévue à l'article 13 du décret du 14 janvier 1927, l'inscription de la copropriété du sol est remplacée par l'inscription de la propriété d'étage.<br/>\n<br/>   Des feuillets distincts doivent également être tenus pour les immeubles de l'Etat en tant qu'ils ressortissent à différentes administrations. Il en est de même des immeubles appartenant aux autres personnes juridiques.<br/>\n<br/>   Il peut être tenu des feuillets distincts pour des immeubles appartenant à une même personne morale si cela paraît utile en raison de ce que ces immeubles ont des destinations différentes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1927-01-14 art. 1 JORF 15 janvier 1927",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 1927-01-14 art. 13",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 60-1236 1960-11-21 art. 1 JORF 25 novembre 1960",
+        "@cidtexte": "JORFTEXT000000306954",
+        "@datesignatexte": "1960-11-21",
+        "@id": "JORFTEXT000000306954",
+        "@naturetexte": "DECRET",
+        "@numtexte": "60-1236",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 1938-06-28",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

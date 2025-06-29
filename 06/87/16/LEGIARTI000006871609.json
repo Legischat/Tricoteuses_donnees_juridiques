@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006871609",
+      "ANCIEN_ID": "UQICTXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/16/LEGIARTI000006871609.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-02-07",
+        "DATE_FIN": "1992-08-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 mai 1988 RELATIF AUX EXIGENCES EN MATIERE DE CARBURANT DU MOTEUR DES VEHICULES AUTOMOBILES",
+          "@c_titre_court": "Arrêté du 6 mai 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000479716"
+        },
+        {
+          "#text": "Arrêté du 6 mai 1988 relatif aux exigences en matière de carburant du moteur des véhicules automobiles",
+          "@c_titre_court": "Arrêté du 6 mai 1988",
+          "@debut": "1988-05-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006058363"
+        }
+      ],
+      "@cid": "JORFTEXT000000479716",
+      "@date_publi": "1988-05-08",
+      "@date_signature": "1988-05-06",
+      "@nature": "ARRETE",
+      "@nor": "ENVP8800109A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-05-08",
+          "@etat": "MODIFIE",
+          "@fin": "1990-02-07",
+          "@id": "LEGIARTI000006871608",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-02-07",
+          "@etat": "ABROGE",
+          "@fin": "1992-08-01",
+          "@id": "LEGIARTI000006871609",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   \" Le fonctionnement à l'essence sans plomb doit être clairement indiqué à l'utilisateur du véhicule lors des opérations de remplissage du réservoir conformément aux prescriptions de l'annexe II de la directive n° 89-491 C.E.E. du 17 juillet 1989 qui modifie l'annexe I de la directive n° 70-220 C.E.E. \"<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-01-25 art. 2 JORF 7 février 1990",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1992-07-01 art. 2 JORF 1er août 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Directive CEE 70-220 1970-03-20 annexe II",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Directive CEE 89-491 1989-07-17 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

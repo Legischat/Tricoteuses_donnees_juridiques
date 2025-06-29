@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006250665",
+      "ANCIEN_ID": "SEFBMXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/25/06/LEGIARTI000006250665.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2006-04-14",
+        "DATE_FIN": "2007-03-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 2006-433 du 13 avril 2006 relative à l'expérimentation du contrat de transition professionnelle",
+          "@c_titre_court": "Ordonnance n° 2006-433 du 13 avril 2006",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000240999"
+        },
+        {
+          "#text": "Ordonnance n° 2006-433 du 13 avril 2006 relative à l'expérimentation du contrat de transition professionnelle.",
+          "@c_titre_court": "Ordonnance n° 2006-433 du 13 avril 2006",
+          "@debut": "2006-04-14",
+          "@fin": "2012-12-31",
+          "@id_txt": "LEGITEXT000006053560"
+        }
+      ],
+      "@cid": "JORFTEXT000000240999",
+      "@date_publi": "2006-04-14",
+      "@date_signature": "2006-04-13",
+      "@ministere": "MINISTERE DE L'EMPLOI, DE LA COHESION SOCIALE ET DU LOGEMENT",
+      "@nature": "ORDONNANCE",
+      "@nor": "SOCX0600050R",
+      "@num": "2006-433"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-04-14",
+          "@etat": "MODIFIE",
+          "@fin": "2007-03-06",
+          "@id": "LEGIARTI000006250665",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-03-06",
+          "@etat": "ABROGE",
+          "@fin": "2012-12-31",
+          "@id": "LEGIARTI000006250666",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001723199",
+          "@num": "4",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le contrat de transition professionnelle est conclu pour une durée de douze mois. Ce contrat a pour objet l'organisation et le déroulement d'un parcours, qui peut comprendre des mesures d'accompagnement, des périodes de formation et des périodes de travail pour le compte de tout employeur à l'exception des particuliers.<br/>\n<br/>   Les périodes de travail prévues à l'alinéa précédent sont accomplies avec l'accord ou sur la proposition de la filiale de l'organisme mentionné à l'article 2, dans le cadre de contrats de travail à durée déterminée conclus en application du 1° de l'article L. 122-2 du code du travail. Ces contrats sont d'une durée inférieure à six mois, renouvelable une fois avec le même employeur dans la limite d'une durée totale elle-même inférieure à six mois. Ces périodes de travail ne peuvent excéder au total neuf mois.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°2006-433 du 13 avril 2006 - art. 2, v. init.",
+        "@cidtexte": "JORFTEXT000000240999",
+        "@datesignatexte": "2006-04-13",
+        "@id": "JORFARTI000001662253",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "SOCX0600050R",
+        "@num": "2",
+        "@numtexte": "2006-433",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. L122-2 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646693",
+        "@naturetexte": "CODE",
+        "@num": "L122-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

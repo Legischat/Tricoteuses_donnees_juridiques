@@ -1,0 +1,138 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652508",
+      "ANCIEN_ID": "SBAXXXXXXXX5X04800AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/25/LEGIARTI000006652508.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "48",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1926-12-15",
+        "DATE_FIN": "1993-09-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 4 : Obligations de l'armateur envers le marin",
+            "@debut": "1926-12-15",
+            "@fin": "1997-11-19",
+            "@id": "LEGISCTA000006101381"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 1 : Salaires fixes, profits éventuels et autres rémunérations",
+              "@debut": "1926-12-15",
+              "@fin": "1997-11-19",
+              "@id": "LEGISCTA000006123917"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 2 : Suspension et rétention des salaires",
+                "@debut": "1926-12-15",
+                "@fin": "1997-11-19",
+                "@id": "LEGISCTA000006139991"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-12-15",
+          "@etat": "MODIFIE",
+          "@fin": "1993-09-02",
+          "@id": "LEGIARTI000006652508",
+          "@num": "48",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-09-02",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006652509",
+          "@num": "48",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le marin qui, étant de service, s'absente sans autorisation ou qui se trouve absent, sans autorisation, au moment où il doit prendre son service, perd le droit aux salaires afférents au temps de son absence. <br/>\n<br/>\n   L'armateur peut, s'il y a lieu, réclamer des dommages-intérêts pour le préjudice qu'aura pu lui causer le marin qui, étant de service, s'absente du bord sans autorisation, ou le marin qui n'étant pas de service, s'absente du bord en inobservation des mesures prises par le capitaine, conformément aux dispositions de l'article 19.<br/>\n    Le marin perd son salaire à partir du moment où il a été privé de sa liberté comme inculpé en raison d'une infraction à la loi pénale.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail maritime - art. 105 (V)",
+        "@cidtexte": "LEGITEXT000006072051",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006652616",
+        "@naturetexte": "CODE",
+        "@num": "105",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail maritime - art. 19 (V)",
+        "@cidtexte": "LEGITEXT000006072051",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006652405",
+        "@naturetexte": "CODE",
+        "@num": "19",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail maritime 105 : non application au capitaine",
+        "@cidtexte": "LEGITEXT000006072051",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072051",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

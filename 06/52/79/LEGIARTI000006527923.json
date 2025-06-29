@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006527923",
+      "ANCIEN_ID": "PPEAPXXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/79/LEGIARTI000006527923.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-01-14",
+        "DATE_FIN": "2011-03-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°73-6 du 3 janvier 1973 INSTITUANT UN MEDIATEUR",
+          "@c_titre_court": "Loi n°73-6 du 3 janvier 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509998"
+        },
+        {
+          "#text": "Loi n°73-6 du 3 janvier 1973 instituant un médiateur",
+          "@c_titre_court": "Loi n°73-6 du 3 janvier 1973",
+          "@debut": "1973-01-04",
+          "@fin": "1989-01-15",
+          "@id_txt": "LEGITEXT000006068469"
+        },
+        {
+          "#text": "Loi n°73-6 du 3 janvier 1973 instituant un Médiateur de la République",
+          "@c_titre_court": "Loi n°73-6 du 3 janvier 1973",
+          "@debut": "1989-01-15",
+          "@fin": "2011-03-31",
+          "@id_txt": "LEGITEXT000022034354"
+        }
+      ],
+      "@cid": "JORFTEXT000000509998",
+      "@date_publi": "1973-01-04",
+      "@date_signature": "1973-01-03",
+      "@nature": "LOI",
+      "@num": "73-6"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-01-04",
+          "@etat": "MODIFIE",
+          "@fin": "1989-01-14",
+          "@id": "LEGIARTI000006527922",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-01-14",
+          "@etat": "ABROGE",
+          "@fin": "2011-03-31",
+          "@id": "LEGIARTI000006527923",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A défaut de l'autorité compétente, le Médiateur de la République peut, au lieu et place de celle-ci, engager contre tout agent responsable une procédure disciplinaire ou, le cas échéant, saisir d'une plainte la juridiction répressive.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°89-18 du 13 janvier 1989 - art. 69 () JORF 14 janvier 1989",
+        "@cidtexte": "JORFTEXT000000321867",
+        "@datesignatexte": "1989-01-13",
+        "@id": "LEGIARTI000006756559",
+        "@naturetexte": "LOI",
+        "@nortexte": "SPSX8800135L",
+        "@num": "69",
+        "@numtexte": "89-18",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2011-334\n du 29 mars 2011 - art. 22",
+        "@cidtexte": "JORFTEXT000023781252",
+        "@datesignatexte": "2011-03-29",
+        "@id": "LEGIARTI000023782598",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX0918102L",
+        "@num": "22",
+        "@numtexte": "2011-334",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

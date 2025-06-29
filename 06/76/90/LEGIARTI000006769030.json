@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769030",
+      "ANCIEN_ID": "SSHAT1XXXXX015AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/90/LEGIARTI000006769030.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1952-07-01",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°52-645 du 3 juin 1952 RELATIF AU REGIME DES COTISATIONS DUES AUX CAISSES MUTUELLES D'ALLOCATIONS FAMILIALES AGRICOLES",
+          "@c_titre_court": "Décret n°52-645 du 3 juin 1952",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000328547"
+        },
+        {
+          "#text": "Décret n°52-645 du 3 juin 1952 relatif au régime des cotisations dues aux caisses mutuelles d'allocations familiales agricoles",
+          "@c_titre_court": "Décret n°52-645 du 3 juin 1952",
+          "@debut": "1952-07-01",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060638"
+        }
+      ],
+      "@cid": "JORFTEXT000000328547",
+      "@date_publi": "1952-06-05",
+      "@date_signature": "1952-06-03",
+      "@nature": "DECRET",
+      "@num": "52-645"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1952-07-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769030",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les dispositions de l'article 4 du présent texte seront applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle au plus tard dix-huit mois après la date de l'entrée en vigueur [*date limite*] dans lesdits départements des résultats de la révision accélérée des évaluations des propriétés non bâties prescrite par les articles 1405 et 1406 du Code général des impôts, telle que cette date aura été fixée en application de l'article 75 de la loi n° 52-401 du 14 avril 1952.<br/>\n    Pendant cette période transitoire, les cotisations pourront être assises dans les conditions définies à l'article 5 ci-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1405, 1406",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°52-401 du 14 avril 1952 - art. 75 (V)",
+        "@cidtexte": "JORFTEXT000000516428",
+        "@datesignatexte": "1952-04-14",
+        "@id": "LEGIARTI000006319277",
+        "@naturetexte": "LOI",
+        "@num": "75",
+        "@numtexte": "52-401",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°52-645 du 3 juin 1952 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000328547",
+        "@datesignatexte": "1952-06-03",
+        "@id": "LEGIARTI000006769019",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "52-645",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°52-645 du 3 juin 1952 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000328547",
+        "@datesignatexte": "1952-06-03",
+        "@id": "LEGIARTI000006769019",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "52-645",
+        "@sens": "cible",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°52-645 du 3 juin 1952 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000328547",
+        "@datesignatexte": "1952-06-03",
+        "@id": "LEGIARTI000006769021",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "52-645",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

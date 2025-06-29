@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006832726",
+      "ANCIEN_ID": "UCIUQXXXXXX022AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/27/LEGIARTI000006832726.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2007-05-17",
+        "DATE_FIN": "2018-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 mai 2007 relatif aux caractéristiques thermiques et à la performance énergétique des bâtiments existants",
+          "@c_titre_court": "Arrêté du 3 mai 2007",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000822199"
+        },
+        {
+          "#text": "Arrêté du 3 mai 2007 relatif aux caractéristiques thermiques et à la performance énergétique des bâtiments existants.",
+          "@c_titre_court": "Arrêté du 3 mai 2007",
+          "@debut": "2007-05-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006056467"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre III : Chauffage.",
+            "@debut": "2007-05-17",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108609"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000822199",
+      "@date_publi": "2007-05-17",
+      "@date_signature": "2007-05-03",
+      "@ministere": "MINISTERE DE L'EMPLOI, DE LA COHESION SOCIALE ET DU LOGEMENT",
+      "@nature": "ARRETE",
+      "@nor": "SOCU0751906A",
+      "@num_parution_jo": "0114"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2007-05-17",
+          "@etat": "MODIFIE",
+          "@fin": "2018-01-01",
+          "@id": "LEGIARTI000006832726",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2018-01-01",
+          "@etat": "ABROGE_DIFF",
+          "@fin": "2027-01-01",
+          "@id": "LEGIARTI000034310717",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE_DIFF"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2027-01-01",
+          "@etat": "VIGUEUR_DIFF",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000047684800",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR_DIFF"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les pompes à chaleur utilisant l'électricité à destination de chauffage, installées ou remplacées, doivent satisfaire à un coefficient de performance (COP), au sens de la norme NF EN 14-511, supérieur ou égal à la valeur donnée dans le tableau suivant, pour les températures indiquées :</p>\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"643\">\n<tbody>\n<tr>\n<td rowspan=\"2\" width=\"197\">\n<p align=\"center\">TYPE</p>\n<p align=\"center\">d'équipement</p>\n</td>\n<td rowspan=\"2\" width=\"125\">\n<p align=\"center\">COEFFICIENT</p>\n<p align=\"center\">de performance</p>\n<p align=\"center\">(COP) minimal</p>\n<p align=\"center\">mode chauffage</p>\n</td>\n<td colspan=\"2\" width=\"321\">\n<p align=\"center\">TEMPÉRATURE DE SOURCE</p>\n</td>\n</tr>\n<tr>\n<td width=\"161\">\n<p align=\"center\">Extérieure</p>\n</td>\n<td width=\"161\">\n<p align=\"center\">Intérieure</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Air extérieur-air</p>\n</td>\n<td rowspan=\"8\" valign=\"top\" width=\"125\">\n<p align=\"center\">3,2</p>\n</td>\n<td valign=\"top\" width=\"161\">\n<p align=\"center\">7 <sup>o</sup>C</p>\n</td>\n<td rowspan=\"2\" valign=\"top\" width=\"161\">\n<p align=\"center\">20 <sup>o</sup>C</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Eau-air (sur boucle)</p>\n</td>\n<td valign=\"top\" width=\"161\">\n<p align=\"center\">15 <sup>o</sup>C</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Air extérieur-eau</p>\n</td>\n<td valign=\"top\" width=\"161\">\n<p align=\"center\">7 <sup>o</sup>C</p>\n</td>\n<td rowspan=\"5\" valign=\"top\" width=\"161\">\n<p align=\"center\">35 <sup>o</sup>C</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Eau-eau sur nappe phréatique</p>\n</td>\n<td valign=\"top\" width=\"161\">\n<p align=\"center\">10 <sup>o</sup>C</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Eau-eau avec capteurs enterrés</p>\n</td>\n<td valign=\"top\" width=\"161\">\n<p align=\"center\">0/- 3 <sup>o</sup>C</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Sol-eau</p>\n</td>\n<td rowspan=\"3\" valign=\"top\" width=\"161\">\n<p align=\"center\">- 5 <sup>o</sup>C</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Sol-sol</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Sol-air</p>\n</td>\n<td valign=\"top\" width=\"161\">\n<p align=\"center\">20 <sup>o</sup>C</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Les pompes à chaleur présentant les COP minimaux suivants pour les températures indiquées sont réputées satisfaire à l'exigence du premier alinéa de l'article 22.</p>\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"643\">\n<tbody>\n<tr>\n<td rowspan=\"2\" width=\"197\">\n<p align=\"center\">TYPE</p>\n<p align=\"center\">d'équipement</p>\n</td>\n<td rowspan=\"2\" width=\"138\">\n<p align=\"center\">COEFFICIENT</p>\n<p align=\"center\">de performance</p>\n<p align=\"center\">(COP) minimal</p>\n<p align=\"center\">mode chauffage</p>\n</td>\n<td colspan=\"2\" width=\"308\">\n<p align=\"center\">TEMPÉRATURE DE SOURCE</p>\n</td>\n</tr>\n<tr>\n<td width=\"147\">\n<p align=\"center\">Extérieure</p>\n</td>\n<td width=\"161\">\n<p align=\"center\">Intérieure</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Air extérieur-eau</p>\n</td>\n<td valign=\"top\" width=\"138\">\n<p align=\"center\">2,7</p>\n</td>\n<td valign=\"top\" width=\"147\">\n<p align=\"center\">7 <sup>o</sup>C</p>\n</td>\n<td valign=\"top\" width=\"161\">\n<p align=\"center\">45 <sup>o</sup>C</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Eau-eau sur nappe phréatique</p>\n</td>\n<td valign=\"top\" width=\"138\">\n<p align=\"center\">3,2</p>\n</td>\n<td valign=\"top\" width=\"147\">\n<p align=\"center\">10 <sup>o</sup>C</p>\n</td>\n<td valign=\"top\" width=\"161\">\n<p align=\"center\">45 <sup>o</sup>C</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Eau-eau avec capteurs enterrés</p>\n</td>\n<td valign=\"top\" width=\"138\">\n<p align=\"center\">2,7</p>\n</td>\n<td valign=\"top\" width=\"147\">\n<p align=\"center\">0/- 3 <sup>o</sup>C</p>\n</td>\n<td valign=\"top\" width=\"161\">\n<p align=\"center\">45 <sup>o</sup>C</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"197\">\n<p>Sol-eau</p>\n</td>\n<td valign=\"top\" width=\"138\">\n<p align=\"center\">2,7</p>\n</td>\n<td valign=\"top\" width=\"147\">\n<p align=\"center\">- 5 <sup>o</sup>C</p>\n</td>\n<td valign=\"top\" width=\"161\">\n<p align=\"center\">45 <sup>o</sup>C</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Ces dispositions peuvent ne pas s'appliquer pour les bâtiments achevés depuis moins de 15 ans par rapport à la date des travaux d'installation ou de remplacement de l'équipement visé.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2007-05-03 art. 22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

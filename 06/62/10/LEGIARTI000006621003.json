@@ -1,0 +1,134 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006621003",
+      "ANCIEN_ID": "RGAXXXXXXXX5X00331AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/10/LEGIARTI000006621003.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "331",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1936-12-24",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du vin",
+          "@c_titre_court": "Code du vin",
+          "@debut": "1936-12-24",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006071657"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Circulation",
+            "@debut": "1936-12-24",
+            "@fin": "2003-09-06",
+            "@id": "LEGISCTA000006099623"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Mentions qui doivent obligatoirement figurer sur les titres de mouvement.",
+              "@debut": "1936-12-24",
+              "@fin": "2003-09-06",
+              "@id": "LEGISCTA000006122601"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071657",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1936-12-24",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006621003",
+          "@num": "331",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'expédition de régie délivrée à la sortie des pressoirs, celliers et caves indique soit l'appellation d'origine figurant dans la déclaration de récolte ou celle, plus générale, résultant des usages locaux, loyaux et constants, soit, pour les vins de pays, l'indication du lieu de production dans les conditions précisées aux articles 304 et 305.<br/>\n<br/>   D'autre part, les titres de mouvement applicables à des vins importés tels qu'ils sont définis à l'article 306, doivent indiquer le pays d'origine desdits vins, ainsi que leur degré alcoolique. Enfin, pour les vins importés dont le coupage avec des vins français est autorisé, les titres de mouvement doivent porter la mention \"vins importés propres au coupage avec des vins français\".<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du vin - art. 345 (Ab)",
+        "@cidtexte": "LEGITEXT000006071657",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006621018",
+        "@naturetexte": "CODE",
+        "@num": "345",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du vin 304 à 306",
+        "@cidtexte": "LEGITEXT000006071657",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071657",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 1930-02-08 art. 5, art. 6",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 1931-08-02 art. 2",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 1936-12-01",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1919-05-06 art. 13",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 1930-01-01 art. 2",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

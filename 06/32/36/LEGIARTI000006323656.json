@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006323656",
+      "ANCIEN_ID": "FAHCFXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/36/LEGIARTI000006323656.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1983-01-01",
+        "DATE_FIN": "1985-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°80-1014 du 15 décembre 1980 RELATIF A LA TAXE PARAFISCALE DU SECTEUR DE L'HABILLEMENT",
+          "@c_titre_court": "Décret n°80-1014 du 15 décembre 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000861052"
+        },
+        {
+          "#text": "Décret n°80-1014 du 15 décembre 1980  relatif à la taxe parafiscale du secteur de l'habillement",
+          "@c_titre_court": "Décret n°80-1014 du 15 décembre 1980",
+          "@debut": "1981-01-01",
+          "@fin": "1985-12-31",
+          "@id_txt": "LEGITEXT000006063161"
+        }
+      ],
+      "@cid": "JORFTEXT000000861052",
+      "@date_publi": "1980-12-18",
+      "@date_signature": "1980-12-15",
+      "@nature": "DECRET",
+      "@num": "80-1014"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1983-01-01",
+          "@id": "LEGIARTI000006323655",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-01",
+          "@etat": "PERIME",
+          "@fin": "1985-12-31",
+          "@id": "LEGIARTI000006323656",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont soumises à cette taxe les ventes et les livraisons à soi-même réalisées par les fabricants et les transformateurs, les opérations à façon et les importations pour la consommation portant sur les produits en maille et les articles d'habillement relevant respectivement des groupes 44-20 à 44-25 et de la classe 47 de la nomenclature d'activités et de produits approuvée par le décret susvisé du 9 novembre 1973 susvisé.<br/>\n<br/>   La taxe n'est pas perçue sur les articles originaires des Etats membres de la Communauté économique européenne ou mis en libre pratique dans l'un de ceux-ci.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°80-1014 du 15 décembre 1980 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000861052",
+        "@datesignatexte": "1980-12-15",
+        "@id": "LEGIARTI000006323657",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "80-1014",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 82-1243 1982-12-31 art. 1 JORF 13 janvier 1983 en vigueur le 1er janvier 1983",
+        "@cidtexte": "JORFTEXT000000702431",
+        "@datesignatexte": "1982-12-31",
+        "@id": "JORFTEXT000000702431",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-1243",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

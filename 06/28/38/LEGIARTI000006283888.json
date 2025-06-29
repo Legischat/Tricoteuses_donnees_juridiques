@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283888",
+      "ANCIEN_ID": "AREAXXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/38/LEGIARTI000006283888.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1968-11-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°68-5 du 3 janvier 1968 PORTANT REFORME DU DROIT DES INCAPABLES MAJEURS",
+          "@c_titre_court": "Loi n°68-5 du 3 janvier 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317513"
+        },
+        {
+          "#text": "Loi n° 68-5 du 3 janvier 1968 portant réforme du droit des incapables majeurs",
+          "@c_titre_court": "Loi n° 68-5 du 3 janvier 1968",
+          "@debut": "1968-11-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068319"
+        }
+      ],
+      "@cid": "JORFTEXT000000317513",
+      "@date_publi": "1968-01-04",
+      "@date_signature": "1968-01-03",
+      "@nature": "LOI",
+      "@num": "68-5"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-11-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006283888",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les règles édictées pour la tutelle des majeurs sont applicables à l'interdiction légale prévue par l'article 29 du code pénal.<br/>\n<br/>   Toutefois, le condamné en état d'interdiction légale reste capable de tester et il peut se marier sans les autorisations particulières prévues à l'article 506 du code civil.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 68-696 1968-07-31 art. 14 : spécificités d'application",
+        "@cidtexte": "JORFTEXT000000317516",
+        "@datesignatexte": "1968-07-31",
+        "@id": "JORFTEXT000000317516",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-696",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code pénal 29",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code civil - art. 506 (AbD)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006428302",
+        "@naturetexte": "CODE",
+        "@num": "506",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

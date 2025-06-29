@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006272774",
+      "ANCIEN_ID": "PFECEXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/27/LEGIARTI000006272774.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-08-01",
+        "DATE_FIN": "2005-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°68-688 du 31 juillet 1968 DEFINISSANT LE REGIME D'ENGAGEMENT DANS LES ARMEES",
+          "@c_titre_court": "Loi n°68-688 du 31 juillet 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878204"
+        },
+        {
+          "#text": "Loi n°68-688 du 31 juillet 1968 définissant le régime de l'engagement dans les armées (1).",
+          "@c_titre_court": "Loi n°68-688 du 31 juillet 1968",
+          "@debut": "1968-08-01",
+          "@fin": "2005-07-01",
+          "@id_txt": "LEGITEXT000006068322"
+        }
+      ],
+      "@cid": "JORFTEXT000000878204",
+      "@date_publi": "1968-08-01",
+      "@date_signature": "1968-07-31",
+      "@nature": "LOI",
+      "@num": "68-688"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-08-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-07-01",
+          "@id": "LEGIARTI000006272774",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002069482",
+          "@num": "7",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont abrogées toutes dispositions contraires à la présente loi et notamment les articles 61 et 62 de la loi du 31 mars 1928, les articles 6 et 7 de la loi du 13 décembre 1932, les articles 15, 16 et 17 de la loi du 11 avril 1935, ainsi que l'article 25 de la loi n° 65-550 du 9 juillet 1965.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1928-03-31 art. 61, art. 62",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1932-12-13 art. 6, art. 7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1935-04-11 art. 15, art. 16, art. 17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 65-550 1965-07-09 art. 25",
+        "@cidtexte": "JORFTEXT000000691971",
+        "@datesignatexte": "1965-07-09",
+        "@id": "JORFTEXT000000691971",
+        "@naturetexte": "LOI",
+        "@numtexte": "65-550",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 2005-270 2005-03-24 art. 92 16° JORF 26 mars 2005 en vigueur au 1er juillet 2005",
+        "@cidtexte": "JORFTEXT000000808186",
+        "@datesignatexte": "2005-03-24",
+        "@id": "JORFTEXT000000808186",
+        "@naturetexte": "LOI",
+        "@nortexte": "DEFX0400144L",
+        "@numtexte": "2005-270",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°1935-04-11 du 11 avril 1935 - art. 15, 16, 17 (Ab)",
+        "@cidtexte": "LEGITEXT000006070681",
+        "@datesignatexte": "1935-04-11",
+        "@id": "LEGIARTI000006404306",
+        "@naturetexte": "LOI",
+        "@num": "15, 16, 17",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

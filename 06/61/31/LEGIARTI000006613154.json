@@ -1,0 +1,159 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006613154",
+      "ANCIEN_ID": "RBAXXXXXXXX2X421R12AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/31/LEGIARTI000006613154.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R421-12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-07-14",
+        "DATE_FIN": "2012-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099186"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre IV : Forêts de protection - Lutte contre l'érosion.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121953"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Conservation et restauration des terrains en montagne.",
+                "@debut": "1979-02-07",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138732"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Mise en défens.",
+                  "@debut": "1979-02-07",
+                  "@fin": "2012-07-01",
+                  "@id": "LEGISCTA000006152946"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "2006-07-14",
+          "@id": "LEGIARTI000006613153",
+          "@num": "R421-12",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006613154",
+          "@num": "R421-12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans le cas où le délai fixé par le décret ou l'arrêté prononçant la mise en défens serait inférieur à dix ans, si l'administration chargée des forêts croit nécessaire de maintenir les terrains en défens jusqu'à l'expiration du délai de dix ans, elle notifie sa décision aux propriétaires de ces terrains avant la fin de la dernière année du délai fixé par le décret ou l'arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°79-114 du 25 janvier 1979",
+        "@cidtexte": "JORFTEXT000000880704",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880704",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-114",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2006-871 du 12 juillet 2006 - art. 12 () JORF 14 juillet 2006",
+        "@cidtexte": "JORFTEXT000000609862",
+        "@datesignatexte": "2006-07-12",
+        "@id": "LEGIARTI000006253082",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRF0601025D",
+        "@num": "12",
+        "@numtexte": "2006-871",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code forestier (nouveau) - art. R142-12 (V)",
+        "@cidtexte": "LEGITEXT000025244092",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000026127737",
+        "@naturetexte": "CODE",
+        "@num": "R142-12",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 1882-07-11 art. 22 al. 1",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret n°2012-836\n du 29 juin 2012 - art. 6",
+        "@cidtexte": "JORFTEXT000026120331",
+        "@datesignatexte": "2012-06-29",
+        "@id": "LEGIARTI000026124107",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS1202581D",
+        "@num": "6",
+        "@numtexte": "2012-836",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

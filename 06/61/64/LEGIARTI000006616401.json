@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616401",
+      "ANCIEN_ID": "RDFACXXXXXX039AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/64/LEGIARTI000006616401.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "39",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-12-31",
+        "DATE_FIN": "1982-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°58-1372 du 29 décembre 1958 RELATIVE A DIVERSES DISPOSITIONS D'ORDRE FISCAL ET DOUANIER",
+          "@c_titre_court": "Ordonnance n°58-1372 du 29 décembre 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705345"
+        },
+        {
+          "#text": "Ordonnance n°58-1372 du 29 décembre 1958 relative à diverses dispositions d'ordre fiscal et douanier",
+          "@c_titre_court": "Ordonnance n°58-1372 du 29 décembre 1958",
+          "@debut": "1958-12-31",
+          "@fin": "1982-01-01",
+          "@id_txt": "LEGITEXT000006069230"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Ajustement de l'assiette.",
+            "@debut": "1958-12-31",
+            "@fin": "1982-01-01",
+            "@id": "LEGISCTA000006099299"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000705345",
+      "@date_publi": "1958-12-31",
+      "@date_signature": "1958-12-29",
+      "@nature": "ORDONNANCE",
+      "@num": "58-1372"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-12-31",
+          "@etat": "ABROGE",
+          "@fin": "1982-01-01",
+          "@id": "LEGIARTI000006616401",
+          "@num": "39",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   1. Le tarif de 1,40 p. 100 édicté par le paragraphe 2 de l'article 726 du code général des impôts est ramené à 1 p. 100 en ce qui concerne les ventes publiques en gros de cuirs et peaux bruts.<br/>\n<br/>   2. En compensation de l'abaissement du tarif du droit d'enregistrement sur les ventes publiques en gros de cuirs et peaux bruts, et par dérogation aux dispositions des articles 15 et 17 de la loi n° 51-598 du 24 mai 1951, il est institué une taxe de 1 p. 100 sur les ventes aux tanneries ou aux industries transformatrices de cuirs et peaux bruts n'ayant pas été soumises au droit d'enregistrement précité.<br/>\n<br/>   Cette taxe est assise et recouvrée suivant les mêmes règles, les mêmes garanties et sous les mêmes sanctions que les taxes sur le chiffre d'affaires.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 726",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 51-598 1951-05-24 art. 15, art. 17",
+        "@cidtexte": "JORFTEXT000000705617",
+        "@datesignatexte": "1951-05-24",
+        "@id": "JORFTEXT000000705617",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-598",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°51-598 du 24 mai 1951 - art. 15, v. init.",
+        "@cidtexte": "JORFTEXT000000705617",
+        "@datesignatexte": "1951-05-24",
+        "@id": "JORFARTI000001309296",
+        "@naturetexte": "LOI",
+        "@num": "15",
+        "@numtexte": "51-598",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°81-859 du 15 septembre 1981 - art. 1 (V) JORF 18 septembre 1981 en vigueur le 1er janvier 1982",
+        "@cidtexte": "JORFTEXT000000701292",
+        "@datesignatexte": "1981-09-15",
+        "@id": "LEGIARTI000006272082",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "81-859",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006628430",
+      "ANCIEN_ID": "ADIRAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/84/LEGIARTI000006628430.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-04-05",
+        "DATE_FIN": "1986-04-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 avril 1984 relatif aux prix pratiqués par certaines entreprises de commerce de gros interindustriel",
+          "@c_titre_court": "Arrêté du 4 avril 1984",
+          "@debut": "1984-04-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071806"
+        }
+      ],
+      "@cid": "LEGITEXT000006071806",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-04-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-04-05",
+          "@etat": "ABROGE",
+          "@fin": "1986-04-18",
+          "@id": "LEGIARTI000006628430",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont entérinées par le présent arrêté les conventions nationales suivantes dont le texte est joint en annexe au présent arrêté :<br/>\n<br/>   Convention en date du 28 février 1984 souscrite par le syndicat général des commerces et industries du caoutchouc et des plastiques ;    Convention en date du 14 mars 1984 souscrite par la fédération nationale des chambres syndicales des distributeurs ensembliers en équipement sanitaire, chauffage et canalisations et la fédération nationale des négociants en matériaux de construction ;<br/>\n<br/>   Convention en date du 22 mars 1984 souscrite par la fédération française du négoce de bois d'oeuvre et produits dérivés ;<br/>\n<br/>   Convention en date du 22 mars 1984 souscrite par la fédération des syndicats de négociants techniques.<br/>\n<br/>   Les dispositions de ces conventions sont applicables à toutes les entreprises exerçant les activités couvertes par les conventions.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 35/A 1984-04-04 BOCC n° 7, 5 avril 1984",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 35/A 1984-04-04 art. 2 *sanctions*, art. 3 *champ d'application*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 86-20/A 1986-04-16 art. 2 BOCC n° 7 18 avril 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

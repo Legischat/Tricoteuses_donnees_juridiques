@@ -1,0 +1,147 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006696992",
+      "ANCIEN_ID": "AFEANXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/69/LEGIARTI000006696992.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1999-01-01",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 93-980 du 4 août 1993 relative au statut de la Banque de France et à l'activité et au contrôle des établissements de crédit (1)",
+          "@c_titre_court": "Loi n°93-980 du 4 août 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000180850"
+        },
+        {
+          "#text": "Loi n° 93-980 du 4 août 1993 relative au statut de la Banque de France et à l'activité et au contrôle des établissements de crédit",
+          "@c_titre_court": "Loi n° 93-980 du 4 août 1993",
+          "@debut": "1994-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006082477"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Statut de la Banque de France",
+            "@debut": "1993-08-06",
+            "@fin": "2001-01-01",
+            "@id": "LEGISCTA000006103523"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Missions fondamentales de la Banque de France.",
+              "@debut": "1994-01-01",
+              "@fin": "2001-01-01",
+              "@id": "LEGISCTA000006125455"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000180850",
+      "@date_publi": "1993-08-06",
+      "@date_signature": "1993-08-04",
+      "@nature": "LOI",
+      "@nor": "ECOX9300075L",
+      "@num": "93-980"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1999-01-01",
+          "@id": "LEGIARTI000006696991",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006696992",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La Banque de France veille au bon fonctionnement et à la sécurité des systèmes de paiement, dans le cadre de la mission du Système européen de banques centrales relative à la promotion du bon fonctionnement des systèmes de paiement prévue par l'article 105, paragraphe 2, du traité instituant la Communauté européenne. <br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CEE Traité 1957-03-25, signé à Rome, *Traité de Rome* art. 105 par. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 98-357 1998-05-12 art 13 *modalités d'application*",
+        "@cidtexte": "JORFTEXT000000191444",
+        "@datesignatexte": "1998-05-12",
+        "@id": "JORFTEXT000000191444",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9800017L",
+        "@numtexte": "98-357",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°98-357 du 12 mai 1998 - art. 3 () JORF 13 mai 1998 en vigueur le 1er janvier 1999",
+        "@cidtexte": "JORFTEXT000000191444",
+        "@datesignatexte": "1998-05-12",
+        "@id": "LEGIARTI000006700635",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9800017L",
+        "@num": "3",
+        "@numtexte": "98-357",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L141-4 (M)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006645648",
+        "@naturetexte": "CODE",
+        "@num": "L141-4",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

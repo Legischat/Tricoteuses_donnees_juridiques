@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006253451",
+      "ANCIEN_ID": "SHIRLXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/25/34/LEGIARTI000006253451.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-07-29",
+        "DATE_FIN": "2016-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 juillet 2006 pris pour l'application des articles R. 231-126, R. 231-128 et R. 231-129 du code du travail",
+          "@c_titre_court": "Arrêté du 19 juillet 2006",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000607391"
+        },
+        {
+          "#text": "Arrêté du 19 juillet 2006 pris pour l'application des articles R. 231-126, R. 231-128 et R. 231-129 du code du travail",
+          "@c_titre_court": "Arrêté du 19 juillet 2006",
+          "@debut": "2006-07-29",
+          "@fin": "2016-01-01",
+          "@id_txt": "LEGITEXT000006054110"
+        }
+      ],
+      "@cid": "JORFTEXT000000607391",
+      "@date_publi": "2006-07-29",
+      "@date_signature": "2006-07-19",
+      "@ministere": "MINISTERE DE L'EMPLOI, DE LA COHESION SOCIALE ET DU LOGEMENT",
+      "@nature": "ARRETE",
+      "@nor": "SOCT0611646A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-29",
+          "@etat": "ABROGE",
+          "@fin": "2016-01-01",
+          "@id": "LEGIARTI000006253451",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001084582",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Définition des paramètres physiques indicateurs du risque.<br/>\n<br/>   1. Le niveau d'exposition quotidienne au bruit, LEX,8h est la valeur du niveau de pression acoustique continu équivalent pondéré A évalué pendant la durée totale effective de la journée de travail TE, normalisé par la durée de référence TO de 8 heures. Il est donné en dB(A) par la formule :<br/>\n LEX,8h = LAeq,TE + 10 lg (TE/TO)<br/>\n où :<br/>\n<br/>   TE est la durée totale effective de la journée de travail ;<br/>\n<br/>   TO est la durée de référence, fixée à 8 heures ;<br/>\n<br/>   LAeq,TE est le niveau de pression acoustique continu équivalent pondéré A.<br/>\n<br/>   2. Le niveau de pression acoustique de crête Lpc est donné en décibels pondérés C par la formule :<br/>\n Lpc = 10 lg (Pc/Po)2<br/>\n où :<br/>\n<br/>   Pc est la valeur maximale durant la journée de travail de la pression acoustique instantanée, mesurée avec la pondération fréquentielle C, au niveau de l'oreille des travailleurs sans tenir compte du port éventuel d'une protection individuelle.<br/>\n<br/>   3. Le niveau d'exposition hebdomadaire au bruit, LEX,40h, est évalué à l'aide des niveaux d'exposition quotidienne au bruit. Il est donné en dB(A) par la formule :<br/>\n<br/>   où :<br/>\n<br/>   S est le nombre de journées de travail durant la semaine ;<br/>\n<br/>   (LEX,8h)i est le niveau d'exposition quotidienne au bruit de la ième journée de travail.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 11 décembre 2015 - art. 6",
+        "@cidtexte": "JORFTEXT000031740889",
+        "@datesignatexte": "2015-12-11",
+        "@id": "LEGIARTI000031857675",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ETST1514140A",
+        "@num": "6",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

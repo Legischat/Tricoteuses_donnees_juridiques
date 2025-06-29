@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006462542",
+      "ANCIEN_ID": "PFICXXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/25/LEGIARTI000006462542.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1987-06-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 décembre 1986 relatif à la liquidation des avantages de retraite institués par la loi n° 85-489 du 9 mai 1985 relative aux conditions de cessation d'activité de maîtres de l'enseignement public ayant exercé dans certains établissements d'enseignement privés et le décret n° 86-999 du 27 août 1986 pris pour son application",
+          "@c_titre_court": "Arrêté du 12 décembre 1986",
+          "@debut": "1986-12-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070971"
+        }
+      ],
+      "@cid": "LEGITEXT000006070971",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-12-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-24",
+          "@etat": "MODIFIE",
+          "@fin": "1987-06-01",
+          "@id": "LEGIARTI000006462541",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-06-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006462542",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'association pour la prévoyance collective est désignée comme organisme chargé d'assurer la liquidation et le paiement des avantages de retraite instituées par la loi n° 85-489 du 9 mai 1985 et le décret n° 86-999 du 27 août 1986 pris pour son application.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-03-27 art. 1 JORF 27 mars 1987 en vigueur le 1er juin 1987",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 85-489 1985-05-09",
+        "@cidtexte": "JORFTEXT000000521301",
+        "@datesignatexte": "1985-05-09",
+        "@id": "JORFTEXT000000521301",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-489",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 86-999 1986-08-27",
+        "@cidtexte": "JORFTEXT000000700343",
+        "@datesignatexte": "1986-08-27",
+        "@id": "JORFTEXT000000700343",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-999",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 86-999 1986-08-27",
+        "@cidtexte": "JORFTEXT000000700343",
+        "@datesignatexte": "1986-08-27",
+        "@id": "JORFTEXT000000700343",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-999",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

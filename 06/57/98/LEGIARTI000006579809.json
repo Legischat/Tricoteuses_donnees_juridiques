@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579809",
+      "ANCIEN_ID": "RAA0XXXXXXX0268AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/98/LEGIARTI000006579809.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "268",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1976-01-03",
+        "DATE_FIN": "1996-12-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre IV : Du contrôle sanitaire des animaux et des viandes, de l'équarrissage des animaux",
+              "@debut": "1955-04-19",
+              "@fin": "2000-06-22",
+              "@id": "LEGISCTA000006121359"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : De l'équarrissage des animaux.",
+                "@debut": "1955-04-19",
+                "@fin": "2000-06-22",
+                "@id": "LEGISCTA000006138210"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-03",
+          "@etat": "MODIFIE",
+          "@fin": "1996-12-27",
+          "@id": "LEGIARTI000006579809",
+          "@num": "268",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-12-27",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006579810",
+          "@num": "268",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'ouverture d'un atelier destiné à la fabrication de farines animales en annexe d'un abattoir ne peut être autorisée par le préfet que dans le cas où les abattages annuels effectués dans cet établissement dépassent un tonnage minimum de viande fixé par arrêté du ministre de l'agriculture et sous réserve de l'pplication des dispositions du deuxième alinéa de l'article 267.<br/>\n<br/>   Lorsque l'abattoir se trouve dans le périmètre d'un équarrissage dont les aménagements et les équipements sont reconnus suffisants pour recueillir et traiter en tous temps, dans les conditions réglementaires, la totalité des viandes et abats saisis, des sous-produits divers et des déchets provenant de cet abattoir, l'autorisation prévue à l'alinéa premier est accordée par arrêté du ministre de l'agriculture.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural annexe, 267",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1942-02-02 art. 9",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 75-1336 1975-12-31 art. 5 JORF 3 janvier 1976",
+        "@cidtexte": "JORFTEXT000000699210",
+        "@datesignatexte": "1975-12-31",
+        "@id": "JORFTEXT000000699210",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-1336",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006699449",
+      "ANCIEN_ID": "AFEAXXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/94/LEGIARTI000006699449.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1932-04-22",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 21 avril 1932 créant des warrants pétroliers",
+          "@c_titre_court": "Loi du 21 avril 1932",
+          "@debut": "1932-04-22",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072679"
+        }
+      ],
+      "@cid": "LEGITEXT000006072679",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1932-04-21",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1932-04-22",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006699449",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La radiation de l'inscription sera opérée sur la justification, soit du remboursement de la créance garantie par le warrant pétrolier, soit d'une mainlevée régulière.<br/>\n<br/>   L'emprunteur qui aura remboursé son warrant en fera constater le remboursement par le greffe du tribunal de commerce ; mention du remboursement ou de la mainlevée sera faite sur le registre prévu à l'article 2 ci-dessus. Certificat lui sera donné de la radiation de l'inscription.<br/>\n<br/>   L'inscription sera radiée d'office après cinq ans, si elle n'a pas été renouvelée avant l'expiration du délai. Si elle est inscrite à nouveau après la radiation d'office, elle ne vaudra, à l'égard des tiers, que du jour de la nouvelle date.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L524-5 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234536",
+        "@naturetexte": "CODE",
+        "@num": "L524-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code de commerce. - art. L524-5 (VT)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234536",
+        "@naturetexte": "CODE",
+        "@num": "L524-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 1932-04-21 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

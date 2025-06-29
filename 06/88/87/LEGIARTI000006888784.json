@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888784",
+      "ANCIEN_ID": "UTIGPXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/87/LEGIARTI000006888784.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-06-24",
+        "DATE_FIN": "2012-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 mars 1973 COMMISSION MEDICALE D'EXAMENS POUR LA DELIVRANCE DU PERMIS DE CONDUIRE",
+          "@c_titre_court": "Arrêté du 7 mars 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000856621"
+        },
+        {
+          "#text": "Arrêté du 7 mars 1973 relatif aux commissions médicales départementales chargées d'apprécier l'aptitude physique des candidats au permis de conduire et des conducteurs",
+          "@c_titre_court": "Arrêté du 7 mars 1973",
+          "@debut": "1973-06-24",
+          "@fin": "2013-01-01",
+          "@id_txt": "LEGITEXT000006075057"
+        }
+      ],
+      "@cid": "JORFTEXT000000856621",
+      "@date_publi": "1973-06-24",
+      "@date_signature": "1973-03-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-06-24",
+          "@etat": "ABROGE",
+          "@fin": "2012-09-01",
+          "@id": "LEGIARTI000006888784",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les examens médicaux prescrits par le code de la route et les arrêtés d'application, notamment l'arrêté du 30 mai 1969 modifié, sont passés devant la commission médicale primaire dont relève la résidence du conducteur ou du candidat intéressé.<br/>\n<br/>   S'il s'agit d'un examen médical prescrit par les dispositions du 3e alinéa de l'article R. 128 du code de la route, cet examen pourra avoir lieu soit devant la commission primaire du département où a eu lieu l'infraction, soit devant celle du département où le contrevenant réside habituellement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1969-05-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 31 juillet 2012 - art. 16 (VD)",
+        "@cidtexte": "JORFTEXT000026310765",
+        "@datesignatexte": "2012-07-31",
+        "@id": "LEGIARTI000026313757",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "INTS1232113A",
+        "@num": "16",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la route.",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

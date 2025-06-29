@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006513377",
+      "ANCIEN_ID": "PKHWCXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/33/LEGIARTI000006513377.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2000-112 du 9 février 2000 modifiant le décret n° 75-173 du 17 mars 1975 relatif aux conseillers du Gouvernement pour la défense",
+          "@c_titre_court": "Décret n°2000-112 du 9 février 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000750337"
+        },
+        {
+          "#text": "Décret n°2000-112 du 9 février 2000 modifiant le décret n° 75-173 du 17 mars 1975 relatif aux conseillers du Gouvernement pour la défense.",
+          "@c_titre_court": "Décret n°2000-112 du 9 février 2000",
+          "@debut": "2000-02-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005629090"
+        }
+      ],
+      "@cid": "JORFTEXT000000750337",
+      "@date_publi": "2000-02-12",
+      "@date_signature": "2000-02-09",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "DECRET",
+      "@nor": "DEFX0000004D",
+      "@num": "2000-112"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006513377",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 75-173 1975-03-17",
+        "@cidtexte": "JORFTEXT000000337607",
+        "@datesignatexte": "1975-03-17",
+        "@id": "JORFTEXT000000337607",
+        "@naturetexte": "DECRET",
+        "@numtexte": "75-173",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°75-173 du 17 mars 1975 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000337607",
+        "@datesignatexte": "1975-03-17",
+        "@id": "LEGIARTI000006407507",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "75-173",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

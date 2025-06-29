@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006490963",
+      "ANCIEN_ID": "PJEATXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/09/LEGIARTI000006490963.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1989-07-12",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°89-473 du 10 juillet 1989 PORTANT AMNISTIE",
+          "@c_titre_court": "Loi n°89-473 du 10 juillet 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509312"
+        },
+        {
+          "#text": "Loi n° 89-473 du 10 juillet 1989 portant amnistie",
+          "@c_titre_court": "Loi n° 89-473 du 10 juillet 1989",
+          "@debut": "1989-07-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069114"
+        }
+      ],
+      "@cid": "JORFTEXT000000509312",
+      "@date_publi": "1989-07-12",
+      "@date_signature": "1989-07-10",
+      "@nature": "LOI",
+      "@nor": "JUSX8900063L",
+      "@num": "89-473"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-07-12",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006490963",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Sont amnistiées les infractions commises avant le 14 juillet 1988 à l'occasion d'événements d'ordre politique ou social en relation avec une entreprise tendant à soustraire à l'autorité de la République le département de la Guadeloupe ou celui de la Martinique, à condition que ces infractions n'aient pas entraîné la mort ou des infirmités permanentes au sens de l'article 310 du code pénal ou qu'elles ne soient pas constituées, sur la personne d'agents de la force publique, dans l'exercice ou à l'occasion de l'exercice de leurs fonctions, par des coups et blessures volontaires ou des tentatives d'homicide volontaire.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°89-473 du 10 juillet 1989 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000509312",
+        "@datesignatexte": "1989-07-10",
+        "@id": "LEGIARTI000006490964",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX8900063L",
+        "@num": "2",
+        "@numtexte": "89-473",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code pénal 310",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006880503",
+      "ANCIEN_ID": "UTHBIXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/05/LEGIARTI000006880503.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-03-20",
+        "DATE_FIN": "1992-04-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°88-263 du 18 mars 1988 APPROUVANT LE SCHEMA DIRECTEUR NATIONAL",
+          "@c_titre_court": "Décret n°88-263 du 18 mars 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000508902"
+        },
+        {
+          "#text": "Décret n°88-263 du 18 mars 1988 approuvant le schéma directeur routier national",
+          "@c_titre_court": "Décret n°88-263 du 18 mars 1988",
+          "@debut": "1988-03-20",
+          "@fin": "1992-04-04",
+          "@id_txt": "LEGITEXT000006066488"
+        }
+      ],
+      "@cid": "JORFTEXT000000508902",
+      "@date_publi": "1988-03-20",
+      "@date_signature": "1988-03-18",
+      "@nature": "DECRET",
+      "@nor": "EQUR8800209D",
+      "@num": "88-263"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1992-04-04",
+          "@id": "LEGIARTI000006880503",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 86-217 du 14 février 1986 approuvant le schéma directeur est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 86-217 1986-02-14",
+        "@cidtexte": "JORFTEXT000000700914",
+        "@datesignatexte": "1986-02-14",
+        "@id": "JORFTEXT000000700914",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-217",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°92-379 du 1 avril 1992 - art. 4 (V) JORF 4 avril 1992",
+        "@cidtexte": "JORFTEXT000000175695",
+        "@datesignatexte": "1992-04-01",
+        "@id": "LEGIARTI000006882177",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUR9200013D",
+        "@num": "4",
+        "@numtexte": "92-379",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

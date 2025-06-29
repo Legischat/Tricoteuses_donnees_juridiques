@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006317228",
+      "ANCIEN_ID": "AAGABXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/72/LEGIARTI000006317228.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1935-10-31",
+        "DATE_FIN": "1955-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 30 octobre 1935 organisant le contrôle de l'Etat sur les sociétés, syndicats et associations ou entreprises de toute nature ayant fait appel au concours financier de l'Etat",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000295216"
+        },
+        {
+          "#text": "Décret-loi du 30 octobre 1935 organisant le contrôle de l'Etat sur les sociétés, syndicats et associations ou entreprises de toute nature ayant fait appel au concours financier de l'Etat",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "1935-10-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069587"
+        }
+      ],
+      "@cid": "JORFTEXT000000295216",
+      "@date_publi": "1935-10-31",
+      "@date_signature": "1935-10-30",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1935-10-31",
+          "@etat": "ABROGE",
+          "@fin": "1955-06-01",
+          "@id": "LEGIARTI000006317228",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sociétés, syndicats, associations ou entreprises de toute nature qui ont fait appel ou feront appel au concours de l'Etat sous forme d'apport en capital, de prêts, d'avances ou de garanties d'intérêts, sont soumis au contrôle de l'Etat.<br/>\n<br/>   Peuvent également être soumis à ce contrôle, sur décision rendue par décret contresigné du ministre des finances et du ministre intéressé, les sociétés, syndicats, associations ou entreprises de toute nature qui bénéficient ou bénéficieront de subventions de l'Etat ou de tous autres avantages d'ordre financier du chef de l'Etat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-733 1955-05-26 art. 13 *abrogation du présent article en tant qu'il concerne les entreprises et organismes auxquels le décret du 26 mai 1955 est applicable*",
+        "@cidtexte": "JORFTEXT000000866794",
+        "@datesignatexte": "1955-05-26",
+        "@id": "JORFTEXT000000866794",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-733",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 55-733 1955-05-26 art. 13 JORF 1er juin 1955",
+        "@cidtexte": "JORFTEXT000000866794",
+        "@datesignatexte": "1955-05-26",
+        "@id": "JORFTEXT000000866794",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-733",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

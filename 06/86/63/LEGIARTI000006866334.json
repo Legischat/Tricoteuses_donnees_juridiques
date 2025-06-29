@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006866334",
+      "ANCIEN_ID": "AIICIXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/63/LEGIARTI000006866334.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1998-07-28",
+        "DATE_FIN": "2013-10-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 juillet 1998 relatif aux règles d'hygiène applicables aux établissements d'entreposage de certaines denrées alimentaires",
+          "@c_titre_court": "Arrêté du 6 juillet 1998",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000375459"
+        },
+        {
+          "#text": "Arrêté du 6 juillet 1998 relatif aux règles d'hygiène applicables aux établissements d'entreposage de certaines denrées alimentaires",
+          "@c_titre_court": "Arrêté du 6 juillet 1998",
+          "@debut": "1998-07-28",
+          "@fin": "2013-10-19",
+          "@id_txt": "LEGITEXT000005626268"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE III : Dispositions spécifiques",
+            "@debut": "1998-07-28",
+            "@fin": "2013-10-19",
+            "@id": "LEGISCTA000006110503"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Locaux de conditionnement des aliments.",
+              "@debut": "1998-07-28",
+              "@fin": "2013-10-19",
+              "@id": "LEGISCTA000006130382"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000375459",
+      "@date_publi": "1998-07-28",
+      "@date_signature": "1998-07-06",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOC9800057A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1998-07-28",
+          "@etat": "ABROGE",
+          "@fin": "2013-10-19",
+          "@id": "LEGIARTI000006866334",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les opérations de déconditionnement et de reconditionnement doivent être organisées de telle façon qu'elles ne constituent pas un risque de contamination des denrées alimentaires.<br/>\n<br/>   De plus, conformément aux dispositions de l'article 11, alinéa 2, ci-dessus, et sans préjudice des dispositions relatives à l'étiquetage des denrées alimentaires prescrites par les articles R. 112-9, R. 112-22, R. 112-23 et R. 112-24 du code de la consommation, un système doit être mis en place afin d'assurer la relation entre le produit reconditionné et le produit d'origine.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1998-07-06 art. 11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 8 octobre 2013 - art. 6",
+        "@cidtexte": "JORFTEXT000028081402",
+        "@datesignatexte": "2013-10-08",
+        "@id": "LEGIARTI000028082109",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ESSC1325344A",
+        "@num": "6",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la consommation",
+        "@cidtexte": "LEGITEXT000006069565",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006069565",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la consommation R112-9, R112-22, R112-23 et R112-24",
+        "@cidtexte": "LEGITEXT000006069565",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006069565",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

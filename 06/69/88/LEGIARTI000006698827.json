@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006698827",
+      "ANCIEN_ID": "AFEATXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/88/LEGIARTI000006698827.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1913-08-10",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 8 août 1913 relative au warrant hôtelier.",
+          "@c_titre_court": "Loi du 8 août 1913",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518746"
+        },
+        {
+          "#text": "Loi du 8 août 1913 relative au warrant hôtelier",
+          "@c_titre_court": "Loi du 8 août 1913",
+          "@debut": "1913-08-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072675"
+        }
+      ],
+      "@cid": "JORFTEXT000000518746",
+      "@date_publi": "1913-08-10",
+      "@date_signature": "1913-08-08",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1913-08-10",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006698827",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le warrant hôtelier est délivré par le greffier du tribunal de commerce dans le ressort duquel est exploité l'hôtel. L'emprunteur qui le reçoit donne décharge de la remise du titre, en apposant sa signature avec la date sur le registre. Il ne peut être délivré qu'un seul warrant pour les mêmes objets. Le warrant est transféré par l'emprunteur au prêteur par voie d'endossement daté et signé.<br/>\n<br/>   Le prêteur doit, dans un délai de cinq jours, faire transcrire sur le registre le premier endossement : mention de cette transcription est également énoncée sur le warrant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L523-4 (VT)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234293",
+        "@naturetexte": "CODE",
+        "@num": "L523-4",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de commerce. - art. L523-4 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234293",
+        "@naturetexte": "CODE",
+        "@num": "L523-4",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

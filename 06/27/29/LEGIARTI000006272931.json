@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006272931",
+      "ANCIEN_ID": "FAEAEXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/29/LEGIARTI000006272931.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1974-12-31",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°74-1129 du 30 décembre 1974 DE FINANCES POUR 1975",
+          "@c_titre_court": "Loi n°74-1129 du 30 décembre 1974",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000889172"
+        },
+        {
+          "#text": "Loi n° 74-1129 du 30 décembre 1974 DE FINANCES POUR 1975",
+          "@c_titre_court": "Loi n° 74-1129 du 30 décembre 1974",
+          "@debut": "1974-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068480"
+        }
+      ],
+      "@cid": "JORFTEXT000000889172",
+      "@date_publi": "1974-12-31",
+      "@date_signature": "1974-12-30",
+      "@nature": "LOI",
+      "@num": "74-1129"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-12-31",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006272931",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001884184",
+          "@num": "17",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   LES QUANTITES DE CARBURANT POUVANT DONNER LIEU, EN 1975, AU DEGREVEMENT INSTITUE PAR L' ARTICLE 6 DE LA LOI N- 51-588 DU 23 MAI 1951 MODIFIEE, SONT FIXEES A 120 000 METRES CUBES D' ESSENCE ET A 700 METRES CUBES DE PETROLE LAMPANT .<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°51-588 du 23 mai 1951 - art. 6, v. init.",
+        "@cidtexte": "JORFTEXT000000517343",
+        "@datesignatexte": "1951-05-23",
+        "@id": "JORFARTI000001883808",
+        "@naturetexte": "LOI",
+        "@num": "6",
+        "@numtexte": "51-588",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 74-1129 1974-12-30 Finances pour 1975 JORF 31 DECEMBRE 1974",
+        "@cidtexte": "JORFTEXT000000889172",
+        "@datesignatexte": "1974-12-30",
+        "@id": "JORFTEXT000000889172",
+        "@naturetexte": "LOI",
+        "@numtexte": "74-1129",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

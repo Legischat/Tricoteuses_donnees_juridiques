@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006637579",
+      "ANCIEN_ID": "RKIABXXXXXX006AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/75/LEGIARTI000006637579.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1980-07-11",
+        "DATE_FIN": "1987-07-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 août 1973 relatif à la fixation de certaines modalités d'application du décret n° 68-1021 du 24 novembre 1968 réglementant les relations financières avec l'étranger",
+          "@c_titre_court": "Arrêté du 9 août 1973",
+          "@debut": "1973-08-10",
+          "@fin": "1988-06-04",
+          "@id_txt": "LEGITEXT000006071993"
+        }
+      ],
+      "@cid": "LEGITEXT000006071993",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1973-08-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-08-10",
+          "@etat": "MODIFIE",
+          "@fin": "1980-07-11",
+          "@id": "LEGIARTI000006637578",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-11",
+          "@etat": "MODIFIE",
+          "@fin": "1987-07-11",
+          "@id": "LEGIARTI000006637579",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-07-11",
+          "@etat": "ABROGE",
+          "@fin": "1988-06-04",
+          "@id": "LEGIARTI000006637580",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le régime des comptes et dossiers de valeurs mobilières ouverts en France au nom de non-résidents est défini par circulaire du ministre de l'économie et des finances.<br/>\n<br/>   A l'exception des comptes d'attente et des comptes des correspondants étrangers des intermédiaires agréés, les comptes ouverts en France au nom de non-résidents ne peuvent pas, sauf autorisation du ministre de l'économie, être alimentés par versement de billets de banque français.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-11-27 art. 2",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1986-11-27 art. 2 JORF 28 novembre 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 68-1021 1968-11-24",
+        "@cidtexte": "JORFTEXT000000695040",
+        "@datesignatexte": "1968-11-24",
+        "@id": "JORFTEXT000000695040",
+        "@naturetexte": "DECRET",
+        "@numtexte": "68-1021",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

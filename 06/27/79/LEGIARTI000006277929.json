@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006277929",
+      "ANCIEN_ID": "ANIEWXXXXXX035AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/79/LEGIARTI000006277929.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "35",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1946-01-01",
+        "DATE_FIN": "1990-03-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 octobre 1945 fixant les modalités d'application de certaines dispositions du décret du 30 novembre 1944 relatif au contrôle des instruments de mesure",
+          "@c_titre_court": "Arrêté du 30 octobre 1945",
+          "@debut": "1946-01-01",
+          "@fin": "1990-03-24",
+          "@id_txt": "LEGITEXT000006069404"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Vérification périodique",
+            "@debut": "1946-01-01",
+            "@fin": "1990-03-24",
+            "@id": "LEGISCTA000006083561"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Présentation à la vérification périodique des instruments neufs ou réajustés.",
+              "@debut": "1946-01-01",
+              "@fin": "1990-03-24",
+              "@id": "LEGISCTA000006113978"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069404",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1945-10-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1946-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1990-03-24",
+          "@id": "LEGIARTI000006277929",
+          "@num": "35",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le fabricant ou le réparateur qui présente des instruments neufs ou rajustés à la vérification périodique doit remettre à l'agent chargé du contrôle soit le bulletin de refus délivré par le service des poids et mesures et visé à l'article 33, soit un bulletin de présentation à la vérification périodique indiquant les instruments présentés et les nom, profession et adresse de l'assujetti destinataire. Ce dernier bulletin est daté et signé par le fabricant ou réparateur.<br/>\n<br/>   L'agent du contrôle transmet les bulletins susvisés au bureau des poids et mesures dans le ressort duquel les instruments doivent être installés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1945-10-30 art. 33",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1945-10-30 art. 43",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1990-03-01 art. 37 JORF 24 mars 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 1944-11-30",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

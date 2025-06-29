@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006631247",
+      "ANCIEN_ID": "RIHFSXXXXXX007AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/12/LEGIARTI000006631247.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-08-20",
+        "DATE_FIN": "2016-03-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 70-878 du 29 septembre 1970 relatif au commissariat à l'énergie atomique ‎",
+          "@c_titre_court": "Décret n° 70-878 du 29 septembre 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000695940"
+        },
+        {
+          "#text": "Décret n° 70-878 du 29 septembre 1970 relatif au commissariat à l'énergie atomique",
+          "@c_titre_court": "Décret n° 70-878 du 29 septembre 1970",
+          "@debut": "1970-10-01",
+          "@fin": "2016-03-19",
+          "@id_txt": "LEGITEXT000006061776"
+        }
+      ],
+      "@cid": "JORFTEXT000000695940",
+      "@date_publi": "1970-10-01",
+      "@date_signature": "1970-09-29",
+      "@nature": "DECRET",
+      "@num": "70-878"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-10-01",
+          "@etat": "MODIFIE",
+          "@fin": "1981-08-20",
+          "@id": "LEGIARTI000006631246",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-08-20",
+          "@etat": "ABROGE",
+          "@fin": "2016-03-19",
+          "@id": "LEGIARTI000006631247",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>L'administrateur général adresse au Premier ministre, au ministre de la recherche et de la technologie, au ministre de l'industrie, au ministre de la défense et au ministre de l'économie et des finances un rapport annuel sur l'activité et la gestion du commissariat.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 81-789 1981-08-18 art. 2 JORF 20 août 1981",
+        "@cidtexte": "JORFTEXT000000698678",
+        "@datesignatexte": "1981-08-18",
+        "@id": "JORFTEXT000000698678",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-789",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2016-311 du 17 mars 2016 - art. 16",
+        "@cidtexte": "JORFTEXT000032242719",
+        "@datesignatexte": "2016-03-17",
+        "@id": "LEGIARTI000032255059",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVR1531005D",
+        "@num": "16",
+        "@numtexte": "2016-311",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

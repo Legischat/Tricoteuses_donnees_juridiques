@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006338218",
+      "ANCIEN_ID": "MCE04XXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/82/LEGIARTI000006338218.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1970-07-12",
+        "DATE_FIN": "2017-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°70-610 du 10 juillet 1970 BOSCHER",
+          "@c_titre_court": "Loi n°70-610 du 10 juillet 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000512446"
+        },
+        {
+          "#text": "Loi n° 70-610 du 10 juillet 1970 tendant à faciliter la création d'agglomérations nouvelles.",
+          "@c_titre_court": "Loi n° 70-610 du 10 juillet 1970",
+          "@debut": "1970-07-12",
+          "@fin": "2017-01-01",
+          "@id_txt": "LEGITEXT000006068379"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Du syndicat communautaire d'aménagement.",
+            "@debut": "1970-07-12",
+            "@fin": "2017-01-01",
+            "@id": "LEGISCTA000006085271"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000512446",
+      "@date_publi": "1970-07-12",
+      "@date_signature": "1970-07-10",
+      "@nature": "LOI",
+      "@num": "70-610"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-07-12",
+          "@etat": "ABROGE",
+          "@fin": "2017-01-01",
+          "@id": "LEGIARTI000006338218",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Pour les professions dont le droit fixe de la contribution des patentes varie en fonction de la population du lieu où elles sont exercées et jusqu'à la publication des résultats d'un recensement complémentaire dont les modalités seront fixées par décret, les tarifs demeurent appliqués, dans chaque fraction du syndicat correspondant à une commune donnée et incluse à l'intérieur de la zone prévue à l'article 6 ci-dessus     , d'après l'importance de la population de cette commune déterminée par le dernier décret de dénombrement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 70-610 du 10 juillet 1970 - art. 6 (VT)",
+        "@cidtexte": "JORFTEXT000000512446",
+        "@datesignatexte": "1970-07-10",
+        "@id": "LEGIARTI000006338204",
+        "@naturetexte": "LOI",
+        "@num": "6",
+        "@numtexte": "70-610",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n° 2015-991 du 7 août 2015 - art. 44 (VD)",
+        "@cidtexte": "JORFTEXT000030985460",
+        "@datesignatexte": "2015-08-07",
+        "@id": "LEGIARTI000031217120",
+        "@naturetexte": "LOI",
+        "@nortexte": "RDFX1412429L",
+        "@num": "44",
+        "@numtexte": "2015-991",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006450483",
+      "ANCIEN_ID": "ACAXXXXXXXX5X02494AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/04/LEGIARTI000006450483.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2494",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-03-24",
+        "DATE_FIN": "2006-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre V : Dispositions applicables à Mayotte",
+            "@debut": "2006-03-24",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006091523"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : Dispositions relatives au livre Ier",
+              "@debut": "2006-03-24",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118228"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-03-24",
+          "@etat": "ABROGE",
+          "@fin": "2006-07-25",
+          "@id": "LEGIARTI000006450483",
+          "@num": "2494",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2019-03-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000037398560",
+          "@num": "2494",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour son application à Mayotte, le premier alinéa de l'article 55 est ainsi rédigé :<br/>\n<br/>   \"Les déclarations de naissance seront faites dans les quinze jours de l'accouchement à l'officier d'état civil du lieu. \"<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006",
+        "@cidtexte": "JORFTEXT000000639090",
+        "@datesignatexte": "2006-03-23",
+        "@id": "LEGIARTI000006532323",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0600032R",
+        "@num": "1",
+        "@numtexte": "2006-346",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°2006-911 du 24 juillet 2006 - art. 108 () JORF 25 juillet 2006",
+        "@cidtexte": "JORFTEXT000000266495",
+        "@datesignatexte": "2006-07-24",
+        "@id": "LEGIARTI000006398982",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX0600037L",
+        "@num": "108",
+        "@numtexte": "2006-911",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code civil - art. 2289 (T)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006448095",
+        "@naturetexte": "CODE",
+        "@num": "2289",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code civil - art. 2289 (T)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006448095",
+        "@naturetexte": "CODE",
+        "@num": "2289",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code civil 55 al. 1",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070721",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1804-03-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

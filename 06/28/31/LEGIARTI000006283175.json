@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283175",
+      "ANCIEN_ID": "APICBXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/31/LEGIARTI000006283175.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-01-01",
+        "DATE_FIN": "2005-08-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 décembre 2001 relatif aux redevances de procédures perçues par l'Institut national de la propriété industrielle",
+          "@c_titre_court": "Arrêté du 24 décembre 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000225977"
+        },
+        {
+          "#text": "Arrêté du 24 décembre 2001 relatif aux redevances de procédures perçues par l'Institut national de la propriété industrielle.",
+          "@c_titre_court": "Arrêté du 24 décembre 2001",
+          "@debut": "2002-01-01",
+          "@fin": "2005-08-26",
+          "@id_txt": "LEGITEXT000005631967"
+        }
+      ],
+      "@cid": "JORFTEXT000000225977",
+      "@date_publi": "2001-12-30",
+      "@date_signature": "2001-12-24",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOI0100662A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-26",
+          "@id": "LEGIARTI000006283175",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant des redevances de procédures prévues à l'article R. 411-17 du code de la propriété intellectuelle susvisé est fixé conformément au tableau annexé au présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2001-12-24 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2005-08-02 art. 6 : Spécificité d'application",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 2005-08-02 art. 6 JORF 26 août 2005",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la propriété intellectuelle - art. R411-17 (M)",
+        "@cidtexte": "LEGITEXT000006069414",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006280088",
+        "@naturetexte": "CODE",
+        "@num": "R411-17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

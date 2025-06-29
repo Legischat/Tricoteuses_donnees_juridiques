@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860659",
+      "ANCIEN_ID": "UPIDMXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/06/LEGIARTI000006860659.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1967-10-06",
+        "DATE_FIN": "2010-11-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 septembre 1967 relatif aux règles d'aménagement et d'exploitation des usines de traitement de pétrole brut, de ses dérivés et résidus",
+          "@c_titre_court": "Arrêté du 4 septembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000850487"
+        },
+        {
+          "#text": "Arrêté du 4 septembre 1967 relatif aux règles d'aménagement et d'exploitation des usines de traitement de pétrole brut de ses dérivés et résidus *raffinerie*",
+          "@c_titre_court": "Arrêté du 4 septembre 1967",
+          "@debut": "1967-10-06",
+          "@fin": "2010-11-17",
+          "@id_txt": "LEGITEXT000006074416"
+        }
+      ],
+      "@cid": "JORFTEXT000000850487",
+      "@date_publi": "1967-10-06",
+      "@date_signature": "1967-09-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-10-06",
+          "@etat": "ABROGE",
+          "@fin": "2010-11-17",
+          "@id": "LEGIARTI000006860659",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le matériel électrique autre que le câblage utilisant un mode de sécurité pour lequel n'ont pas encore été fixées les spécifications et la procédure d'agrément prévues à l'article 3 du décret n° 60-295 du 28 mars 1960 peut, sous la responsabilité de l'exploitant et sauf opposition de l'inspecteur des établissements classés, dans le cas où il est manifeste qu'il ne présente pas une sécurité suffisante, être assimilé à du matériel \"de sûreté\" au sens de l'article 34.11 des règles ci-annexées.<br/>\n<br/>   Un an après la mise en application des spécifications et de la procédure d'agrément relatives à un nouveau mode de sécurité, l'assimilation ci-dessus cessera d'être admise pour la mise en service de matériel électrique utilisant ce mode de sécurité [*délai*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1967-09-04 annexe art. 34.11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°60-295 du 28 mars 1960",
+        "@cidtexte": "JORFTEXT000000334956",
+        "@datesignatexte": "1960-03-28",
+        "@id": "JORFTEXT000000334956",
+        "@naturetexte": "DECRET",
+        "@numtexte": "60-295",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 3 octobre 2010 - art. 64",
+        "@cidtexte": "JORFTEXT000023081678",
+        "@datesignatexte": "2010-10-03",
+        "@id": "LEGIARTI000023100877",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVP1025848A",
+        "@num": "64",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

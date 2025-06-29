@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006331438",
+      "ANCIEN_ID": "FBHWIXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/14/LEGIARTI000006331438.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-12-30",
+        "DATE_FIN": "2003-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2000-1344 du 26 décembre 2000 instituant une taxe parafiscale forfaitaire au profit de l'Association nationale pour le développement agricole",
+          "@c_titre_court": "Décret n° 2000-1344 du 26 décembre 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000586926"
+        },
+        {
+          "#text": "Décret n°2000-1344 du 26 décembre 2000 instituant une taxe parafiscale forfaitaire au profit de l'Association nationale pour le développement agricole",
+          "@c_titre_court": "Décret n°2000-1344 du 26 décembre 2000",
+          "@debut": "2000-12-30",
+          "@fin": "2003-01-01",
+          "@id_txt": "LEGITEXT000005630417"
+        }
+      ],
+      "@cid": "JORFTEXT000000586926",
+      "@date_publi": "2000-12-30",
+      "@date_signature": "2000-12-26",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "DECRET",
+      "@nor": "AGRB0002366D",
+      "@num": "2000-1344"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-12-30",
+          "@etat": "ABROGE",
+          "@fin": "2003-01-01",
+          "@id": "LEGIARTI000006331438",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er janvier 2001 et jusqu'au 31 décembre 2003, il est institué une taxe parafiscale forfaitaire due par les exploitants agricoles au titre de leurs activités agricoles. Les exploitants agricoles placés sous le régime du remboursement forfaitaire agricole mentionné aux articles 298 quater et 298 quinquies du code général des impôts sont exonérés de la taxe.<br/>\n<br/>   Cette taxe est perçue au profit de l'Association nationale de développement agricole pour être versée au Fonds national de développement agricole.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 298 quater, 298 quinquies",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 2002-1576 2002-12-30 art. 43 C Finances rectificative pour 2002 JORF 31 décembre 2002 en vigueur le 1er janvier 2003",
+        "@cidtexte": "JORFTEXT000000781906",
+        "@datesignatexte": "2002-12-30",
+        "@id": "JORFTEXT000000781906",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX0200157L",
+        "@numtexte": "2002-1576",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 363 DA (P)",
+        "@cidtexte": "LEGITEXT000006069569",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006294982",
+        "@naturetexte": "CODE",
+        "@num": "363 DA",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

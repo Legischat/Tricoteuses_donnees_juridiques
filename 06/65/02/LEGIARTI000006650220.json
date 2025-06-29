@@ -1,0 +1,140 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006650220",
+      "ANCIEN_ID": "SAAXXXXXXXX1X514L09AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/02/LEGIARTI000006650220.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L514-9",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1979-01-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CONFLITS DU TRAVAIL",
+              "@debut": "1973-11-23",
+              "@fin": "1987-07-16",
+              "@id": "LEGISCTA000006123889"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "CONFLITS INDIVIDUELS - CONSEILS DE PRUD'HOMMES",
+                "@debut": "1973-11-23",
+                "@fin": "1986-12-31",
+                "@id": "LEGISCTA000006139847"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "DISCIPLINE DES CONSEILS DE PRUD'HOMMES .",
+                  "@debut": "1973-11-23",
+                  "@fin": "1979-01-19",
+                  "@id": "LEGISCTA000006154208"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "MODIFIE",
+          "@fin": "1979-01-19",
+          "@id": "LEGIARTI000006650220",
+          "@num": "L514-9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-01-19",
+          "@etat": "ABROGE",
+          "@fin": "1979-05-07",
+          "@id": "LEGIARTI000006650221",
+          "@num": "L514-9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de plainte en prévarication contre les conseillers prud'hommes il est procédé contre eux suivant la forme établie à l'égard des juges par l'article 681 du code de procédure pénale.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 58-1292 1958-12-22 ART. 51",
+        "@cidtexte": "JORFTEXT000000670726",
+        "@datesignatexte": "1958-12-22",
+        "@id": "JORFTEXT000000670726",
+        "@naturetexte": "DECRET",
+        "@numtexte": "58-1292",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1047 1973-11-15",
+        "@cidtexte": "JORFTEXT000000514726",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000514726",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1047",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "CODE DE PROCEDURE PENALE - art. 681 (M)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006577242",
+        "@naturetexte": "CODE",
+        "@num": "681",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

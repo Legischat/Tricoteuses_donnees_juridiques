@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006225311",
+      "ANCIEN_ID": "PSI1WXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/22/53/LEGIARTI000006225311.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-11-23",
+        "DATE_FIN": "2009-04-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 novembre 2003 portant organisation du service des moyens généraux",
+          "@c_titre_court": "Arrêté du 10 novembre 2003",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000610719"
+        },
+        {
+          "#text": "Arrêté du 10 novembre 2003 portant organisation du service des moyens généraux.",
+          "@c_titre_court": "Arrêté du 10 novembre 2003",
+          "@debut": "2003-11-13",
+          "@fin": "2009-04-09",
+          "@id_txt": "LEGITEXT000005689695"
+        }
+      ],
+      "@cid": "JORFTEXT000000610719",
+      "@date_publi": "2003-11-13",
+      "@date_signature": "2003-11-10",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "ARRETE",
+      "@nor": "DEFD0302157A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-11-13",
+          "@etat": "MODIFIE",
+          "@fin": "2005-11-23",
+          "@id": "LEGIARTI000006225310",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-11-23",
+          "@etat": "ABROGE",
+          "@fin": "2009-04-09",
+          "@id": "LEGIARTI000006225311",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002452817",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le service des moyens généraux comprend :<br/>\n<br/>   - la sous-direction de l'action logistique ;<br/>\n<br/>   - la sous-direction des affaires financières ;<br/>\n<br/>   - la sous-direction des systèmes d'information d'administration et de gestion ;<br/>\n<br/>   - la sous-direction des achats publics ;<br/>\n<br/>   - la sous-direction du soutien du personnel ;<br/>\n<br/>   - le centre automobile de la défense.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2005-11-10 art. 1 I JORF 23 novembre 2005",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 6 avril 2009 - art. 8",
+        "@cidtexte": "JORFTEXT000020492402",
+        "@datesignatexte": "2009-04-06",
+        "@id": "LEGIARTI000020494030",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEFD0905940A",
+        "@num": "8",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

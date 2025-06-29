@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006864800",
+      "ANCIEN_ID": "UPIWUXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/48/LEGIARTI000006864800.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-03-11",
+        "DATE_FIN": "1997-06-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 janvier 1986 relatif à la limitation du niveau sonore des bruits aériens émis par les grues à tour",
+          "@c_titre_court": "Arrêté du 2 janvier 1986",
+          "@debut": "1986-01-26",
+          "@fin": "1997-06-03",
+          "@id_txt": "LEGITEXT000006074795"
+        }
+      ],
+      "@cid": "LEGITEXT000006074795",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-01-02",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-26",
+          "@etat": "MODIFIE",
+          "@fin": "1988-03-11",
+          "@id": "LEGIARTI000006864799",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-11",
+          "@etat": "ABROGE",
+          "@fin": "1997-06-03",
+          "@id": "LEGIARTI000006864800",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sur chaque grue à tour, construite conformément au type attesté par un examen C.E.E. de type, doit figurer de façon bien visible et indélébile :<br/>\n<br/>   - une mention indiquant le niveau de puissance acoustique en décibels pondéré A par rapport à 1 pW, garanti par le fabricant et déterminé dans les conditions prévues au premier tiret du deuxième alinéa de l'article 3 du présent arrêté, ainsi que la mention e (epsilon),<br/>\n<br/>   - pour les grues à tour équipées d'un poste de conduite fixé à la structure, une mention indiquant le niveau de pression acoustique en dB (A) par rapport à 20 mPa, garanti par le fabricant et déterminé selon les conditions prévues au deuxième tiret de l'article 3 du présent arrêté, ainsi que le signe e (epsilon).<br/>\n<br/>   Les modèles de ces mentions figurent à l'annexe V du présent arrêté.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-01-02 art. 3, annexe V",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1988-01-13 art. 3 JORF 11 mars 1988",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1997-05-12 art. 6 JORF 3 juin 1997",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°69-380 du 18 avril 1969 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000500110",
+        "@datesignatexte": "1969-04-18",
+        "@id": "LEGIARTI000006854022",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "69-380",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006700957",
+      "ANCIEN_ID": "AFEBKXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/09/LEGIARTI000006700957.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-12-31",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°59-1511 du 30 décembre 1959 NOUVEAU FRANC",
+          "@c_titre_court": "Loi n°59-1511 du 30 décembre 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000313742"
+        },
+        {
+          "#text": "Loi n° 59-1511 du 30 décembre 1959 modifiant et complétant l'ordonnance n° 58-1341 du 27 décembre 1958 instituant une nouvelle unité monétaire",
+          "@c_titre_court": "Loi n° 59-1511 du 30 décembre 1959",
+          "@debut": "1959-12-31",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068189"
+        }
+      ],
+      "@cid": "JORFTEXT000000313742",
+      "@date_publi": "1959-12-31",
+      "@date_signature": "1959-12-30",
+      "@nature": "LOI",
+      "@num": "59-1511"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006700957",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Les dispositions de l'ordonnance n° 58-1341 du 27 décembre 1958 seront étendues aux territoires des îles Saint-Pierre-et-Miquelon à une date qui sera fixée par décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°58-1341 du 27 décembre 1958",
+        "@cidtexte": "JORFTEXT000000339269",
+        "@datesignatexte": "1958-12-27",
+        "@id": "JORFTEXT000000339269",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1341",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 76-664 1976-07-19 (Saint-Pierre-et-Miquelon : statut de département d'outre-mer)",
+        "@cidtexte": "JORFTEXT000000684772",
+        "@datesignatexte": "1976-07-19",
+        "@id": "JORFTEXT000000684772",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-664",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

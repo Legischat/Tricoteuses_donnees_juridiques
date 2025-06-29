@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006761049",
+      "ANCIEN_ID": "SSHAAYXXXXX005AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/10/LEGIARTI000006761049.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1975-04-01",
+        "DATE_FIN": "1981-04-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-117 du 3 février 1976 PORTANT APPLICATION DE L'ARTICLE 3 DE LA LOI 75-6 DU 3 JANVIER 1975",
+          "@c_titre_court": "Décret n°76-117 du 3 février 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000307312"
+        },
+        {
+          "#text": "Décret n°76-117 du 3 février 1976  PORTANT APPLICATION DE L'ARTICLE 3 DE LA LOI 75-6 DU 3 JANVIER 1975 COMPLETANT L'ARTICLE L. 543 DU CODE DE LA SECURITE SOCIALE INSTITUANT DES PRETS AUX JEUNES MENAGES.",
+          "@c_titre_court": "Décret n°76-117 du 3 février 1976",
+          "@debut": "1975-04-01",
+          "@fin": "1985-05-16",
+          "@id_txt": "LEGITEXT000006062430"
+        }
+      ],
+      "@cid": "JORFTEXT000000307312",
+      "@date_publi": "1976-02-05",
+      "@date_signature": "1976-02-03",
+      "@nature": "DECRET",
+      "@num": "76-117"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1981-04-24",
+          "@id": "LEGIARTI000006761049",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-04-24",
+          "@etat": "ABROGE",
+          "@fin": "1985-05-16",
+          "@id": "LEGIARTI000006761050",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La demande de prêt n'est recevable que si l'âge moyen des conjoints ne dépasse pas vingt-six ans [*âge maximum*], les années accomplies étant seules prises en considération.<br/>\n<br/>   Pour bénéficier des prêts aux jeunes ménages, l'un ou l'autre des conjoints doit exercer une activité professionnelle susceptible d'ouvrir droit aux prestations familiales.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°76-117 du 3 février 1976 - art. 12 (Ab) JORF 5 FEVRIER date d'entrée en vigueur 1 AVRIL 1975",
+        "@cidtexte": "JORFTEXT000000307312",
+        "@datesignatexte": "1976-02-03",
+        "@id": "LEGIARTI000006761060",
+        "@naturetexte": "DECRET",
+        "@num": "12",
+        "@numtexte": "76-117",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°76-117 du 3 février 1976 - art. 6 (M)",
+        "@cidtexte": "JORFTEXT000000307312",
+        "@datesignatexte": "1976-02-03",
+        "@id": "LEGIARTI000006761051",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "76-117",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L543 AL. 2",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

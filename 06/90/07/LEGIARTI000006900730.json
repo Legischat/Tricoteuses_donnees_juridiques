@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006900730",
+      "ANCIEN_ID": "AKEADXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/07/LEGIARTI000006900730.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1930-06-20",
+        "DATE_FIN": "1984-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 19 juin 1930 portant interdiction de l'exercice de la profession de banquier aux individus frappés de certaines condamnations et aux faillis non réhabilités",
+          "@c_titre_court": "Loi du 19 juin 1930",
+          "@debut": "1930-06-20",
+          "@fin": "1984-07-25",
+          "@id_txt": "LEGITEXT000006075119"
+        }
+      ],
+      "@cid": "LEGITEXT000006075119",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1930-06-19",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1930-06-20",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006900730",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction constituant, d'après la loi française, un des crimes ou des délits spécifiés à l'article précédent, le tribunal correctionnel du domicile de l'individu dont il s'agit déclare, à la requête du ministère public, après vérification de la régularité et de la légalité de la condamnation, l'intéressé dûment appelé en la chambre du conseil, qu'il y a lieu à l'application de la susdite interdiction [*procédure*].<br/>\n<br/>   Elle s'applique aux faillis non réhabilités dont la faillite a été déclarée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande d'exequatur peut être à cette fin seulement formée devant le tribunal de grande instance du domicile du failli [*juridiction compétente*] par le ministère public.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1930-06-19 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

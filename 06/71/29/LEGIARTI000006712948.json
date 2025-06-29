@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006712948",
+      "ANCIEN_ID": "AFECHXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/29/LEGIARTI000006712948.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1857-06-19",
+        "DATE_FIN": "2019-12-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI du 19 juin 1857 concernant les avances sur dépôts d'obligations foncières faites par la société du Crédit foncier de France",
+          "@c_titre_court": "LOI du 19 juin 1857",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000021778120"
+        },
+        {
+          "#text": "Loi du 19 juin 1857 concernant les avances sur dépôts d'obligations foncières faites par la société du Crédit foncier de France.",
+          "@c_titre_court": "Loi du 19 juin 1857",
+          "@debut": "1857-06-19",
+          "@fin": "2019-12-13",
+          "@id_txt": "LEGITEXT000006072707"
+        }
+      ],
+      "@cid": "JORFTEXT000021778120",
+      "@date_publi": "1857-06-25",
+      "@date_signature": "1857-06-19",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1857-06-19",
+          "@etat": "ABROGE",
+          "@fin": "2019-12-13",
+          "@id": "LEGIARTI000006712948",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le privilège de la société du Crédit foncier sur l'obligation donnée en nantissement résulte de l'engagement souscrit par l'emprunteur dans la forme prescrite par les articles 3 et 5 de l'ordonnance royale du 15 juin 1834 relative aux avances faites sur effets publics par la Banque de France.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2019-1332 du 11 décembre 2019 - art. 1",
+        "@cidtexte": "JORFTEXT000039480074",
+        "@datesignatexte": "2019-12-11",
+        "@id": "LEGIARTI000039482898",
+        "@naturetexte": "LOI",
+        "@nortexte": "CPAX1907946L",
+        "@num": "1",
+        "@numtexte": "2019-1332",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1857-06-19 Bulletin des lois 11e S, B. 512, n° 4683",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 1834-06-15 art. 3, art. 5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

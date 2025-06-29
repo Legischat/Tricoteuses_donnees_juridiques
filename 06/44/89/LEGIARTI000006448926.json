@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006448926",
+      "ANCIEN_ID": "PEIYVXXXXXX017AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/89/LEGIARTI000006448926.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-08-08",
+        "DATE_FIN": "2013-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 mars 1997 relatif à l'organisation des études conduisant au    diplôme national d'arts et techniques et au diplôme national supérieur    d'expression plastique",
+          "@c_titre_court": "Arrêté du 6 mars 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000199135"
+        },
+        {
+          "#text": "Arrêté du 6 mars 1997 relatif à l'organisation des études conduisant au diplôme national d'arts et techniques et au diplôme national supérieur d'expression plastique",
+          "@c_titre_court": "Arrêté du 6 mars 1997",
+          "@debut": "1997-04-12",
+          "@fin": "2013-07-25",
+          "@id_txt": "LEGITEXT000005623233"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE III : LE CYCLE COURT.",
+            "@debut": "1997-04-12",
+            "@fin": "2013-07-25",
+            "@id": "LEGISCTA000006091504"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000199135",
+      "@date_publi": "1997-04-12",
+      "@date_signature": "1997-03-06",
+      "@ministere": "MINISTERE DE LA CULTURE",
+      "@nature": "ARRETE",
+      "@nor": "MCCI9700163A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-04-12",
+          "@etat": "MODIFIE",
+          "@fin": "1997-08-08",
+          "@id": "LEGIARTI000006448925",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-08-08",
+          "@etat": "ABROGE",
+          "@fin": "2013-07-25",
+          "@id": "LEGIARTI000006448926",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les épreuves du diplôme national d'arts et techniques consistent en :<br/>\n<br/>   - l'examen du dossier pédagogique du candidat ;<br/>\n<br/>   - la présentation d'un rapport personnel ;<br/>\n<br/>   - une large sélection des travaux réalisés ;<br/>\n<br/>   - un entretien avec le jury.<br/>\n<br/>   Aucun candidat ne peut se présenter plus de deux fois aux épreuves du diplôme national d'arts et techniques.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1997-03-06 art. 46, art. 47",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté du 10 juillet 1997 - art. 6",
+        "@cidtexte": "JORFTEXT000000201413",
+        "@datesignatexte": "1997-07-10",
+        "@id": "LEGIARTI000006449112",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "MCCI9700601A",
+        "@num": "6",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 16 juillet 2013 - art. 37",
+        "@cidtexte": "JORFTEXT000027745448",
+        "@datesignatexte": "2013-07-16",
+        "@id": "LEGIARTI000027746362",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "MCCB1313796A",
+        "@num": "37",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

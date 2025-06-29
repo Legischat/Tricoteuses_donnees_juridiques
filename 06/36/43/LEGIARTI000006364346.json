@@ -1,0 +1,140 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006364346",
+      "ANCIEN_ID": "MREABXXXXXX021AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/43/LEGIARTI000006364346.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-04-15",
+        "DATE_FIN": "1986-01-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°76-394 du 6 mai 1976 PORTANT CREATION ET ORGANISATION DE LA REGION D'ILE-DE-FRANCE (ETABLISSEMENT PUBLIC DOTE DE LA PERSONNALITE MORALE ET DE L'AUTONOMIE FINANCIERE)",
+          "@c_titre_court": "Loi n°76-394 du 6 mai 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000522258"
+        },
+        {
+          "#text": "Loi n° 76-394 du 6 mai 1976 portant création et organisation de la région d'Ile-de-France.",
+          "@c_titre_court": "Loi n° 76-394 du 6 mai 1976",
+          "@debut": "1976-05-07",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068543"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Organes de la région.",
+            "@debut": "1976-05-07",
+            "@fin": "1996-02-24",
+            "@id": "LEGISCTA000006086174"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000522258",
+      "@date_publi": "1976-05-07",
+      "@date_signature": "1976-05-06",
+      "@nature": "LOI",
+      "@num": "76-394"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-05-07",
+          "@etat": "MODIFIE",
+          "@fin": "1982-04-15",
+          "@id": "LEGIARTI000006364345",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-04-15",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-08",
+          "@id": "LEGIARTI000006364346",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Chaque année, le représentant de l'Etat dans la région rend compte au conseil régional de l'exécution du Plan dans la région ainsi que des investissements d'intérêt national ou régional réalisés par l'Etat ou avec son concours.<br/>\n<br/>   Le rapport du représentant de l'Etat dans la région est transmis au gouvernement avec les observations du conseil régional.<br/>\n<br/>   Ce rapport et ces observations sont pris en considération dans l'élaboration du document de synthèse que le gouvernement présente au Parlement en application de l'article 10, 3è alinéa, de la loi n° 72-619 du 5 juillet 1972.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 72-619 1972-07-05 ART. 10 AL. 3",
+        "@cidtexte": "JORFTEXT000000684297",
+        "@datesignatexte": "1972-07-05",
+        "@id": "JORFTEXT000000684297",
+        "@naturetexte": "LOI",
+        "@numtexte": "72-619",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°76-394 du 6 mai 1976 - art. 25 (Ab)",
+        "@cidtexte": "JORFTEXT000000522258",
+        "@datesignatexte": "1976-05-06",
+        "@id": "LEGIARTI000006364356",
+        "@naturetexte": "LOI",
+        "@num": "25",
+        "@numtexte": "76-394",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 82-213 1982-03-02 ART. 58 XII JORF 3 MARS 1982 date d'entrée en vigueur 15 AVRIL 1982",
+        "@cidtexte": "JORFTEXT000000880039",
+        "@datesignatexte": "1982-03-02",
+        "@id": "JORFTEXT000000880039",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-213",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 86-16 1986-01-06 art. 37 2° JORF 8 janvier 1986",
+        "@cidtexte": "JORFTEXT000000512456",
+        "@datesignatexte": "1986-01-06",
+        "@id": "JORFTEXT000000512456",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-16",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°86-16 du 6 janvier 1986 - art. 32 (V)",
+        "@cidtexte": "JORFTEXT000000512456",
+        "@datesignatexte": "1986-01-06",
+        "@id": "LEGIARTI000006364524",
+        "@naturetexte": "LOI",
+        "@num": "32",
+        "@numtexte": "86-16",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

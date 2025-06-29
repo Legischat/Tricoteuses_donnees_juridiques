@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579984",
+      "ANCIEN_ID": "RAA0XXXXXXX0328AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/99/LEGIARTI000006579984.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "328",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1990-01-01",
+        "DATE_FIN": "1991-12-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre IX : Des pénalités.",
+              "@debut": "1955-04-19",
+              "@fin": "2000-06-22",
+              "@id": "LEGISCTA000006121365"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1991-12-29",
+          "@id": "LEGIARTI000006579984",
+          "@num": "328",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-12-29",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006579985",
+          "@num": "328",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute infraction aux articles 226, 228, 229, 231, 232, 233, alinéa 2, sera punie d'un emprisonnement de six jours à deux mois et d'une amende de 3.000 à 6.000 F.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 226, 228, 229, 231, 232, 233",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1881-07-21 art. 30",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°85-835 du 7 août 1985 - art. 8 (VT) JORF 8 août 1985 en vigueur le 1er octobre 1985",
+        "@cidtexte": "JORFTEXT000000317524",
+        "@datesignatexte": "1985-08-07",
+        "@id": "LEGIARTI000006451450",
+        "@naturetexte": "LOI",
+        "@num": "8",
+        "@numtexte": "85-835",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°89-469 du 10 juillet 1989 - art. 7 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990",
+        "@cidtexte": "JORFTEXT000000509311",
+        "@datesignatexte": "1989-07-10",
+        "@id": "LEGIARTI000006490974",
+        "@naturetexte": "LOI",
+        "@nortexte": "EQUX8900038L",
+        "@num": "7",
+        "@numtexte": "89-469",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

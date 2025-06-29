@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351940",
+      "ANCIEN_ID": "MDHAGXXXXXX007AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/19/LEGIARTI000006351940.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-06-21",
+        "DATE_FIN": "1988-05-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-694 du 4 août 1982 RELATIF A L'ORGANISATION DEPARTEMENTALE DES SERVICES D'INCENDIE ET DE SECOURS",
+          "@c_titre_court": "Décret n°82-694 du 4 août 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000883636"
+        },
+        {
+          "#text": "Décret n°82-694 du 4 août 1982 relatif à l'organisation départementale des services d'incendie et de secours.",
+          "@c_titre_court": "Décret n°82-694 du 4 août 1982",
+          "@debut": "1982-08-06",
+          "@fin": "1988-05-08",
+          "@id_txt": "LEGITEXT000006063862"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "LE SERVICE DEPARTEMENTAL D'INCENDIE ET DE SECOURS.",
+            "@debut": "1982-08-06",
+            "@fin": "1988-05-08",
+            "@id": "LEGISCTA000006085692"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000883636",
+      "@date_publi": "1982-08-06",
+      "@date_signature": "1982-08-04",
+      "@nature": "DECRET",
+      "@num": "82-694"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-08-06",
+          "@etat": "MODIFIE",
+          "@fin": "1983-06-21",
+          "@id": "LEGIARTI000006351939",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-06-21",
+          "@etat": "ABROGE",
+          "@fin": "1988-05-08",
+          "@id": "LEGIARTI000006351940",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les dépenses du service départemental comprennent notamment : <br/>\n    Les dépenses d'organisation et de fonctionnement du service ;<br/>\n    Les frais d'assurance du personnel et du matériel des centres de secours et éventuellement d'autres corps de sapeurs-pompiers ;<br/>\n    Les frais d'instruction ;<br/>\n    Le remboursement aux centres de secours de l'ensemble des dépenses occasionnées par leurs interventions dans le cadre du service départemental ainsi que les remboursements éventuels à d'autres corps de sapeurs-pompiers.<br/>\n    Les dépenses peuvent également comprendre, lorsque le règlement du service le prévoit :<br/>\n    Des subventions aux communes centres de secours à titre de participation aux traitements des sapeurs-pompiers professionnels ainsi que pour l'achat et le renouvellement du matériel en service et pour l'exécution des améliorations reconnues nécessaires ;<br/>\n    Des subventions pour l'acquisition de matériel de première intervention destiné aux communes qui ne sont pas centres de secours ;<br/>\n    Des indemnités de fonctions prévues par les textes réglementaires et notamment les indemnités de fonctions aux chefs des centres de secours et aux chefs de corps ainsi qu'aux gradés mécaniciens ;<br/>\n    Les dépenses d'acquisition du matériel susceptible d'être mis à la disposition des communes centres de secours.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 82-213 1982-03-02 ART. 56 AL. 4",
+        "@cidtexte": "JORFTEXT000000880039",
+        "@datesignatexte": "1982-03-02",
+        "@id": "JORFTEXT000000880039",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-213",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°88-623 du 6 mai 1988 - art. 50 (Ab) JORF 8 mai 1988",
+        "@cidtexte": "JORFTEXT000000312664",
+        "@datesignatexte": "1988-05-06",
+        "@id": "LEGIARTI000006372004",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTE8800170D",
+        "@num": "50",
+        "@numtexte": "88-623",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

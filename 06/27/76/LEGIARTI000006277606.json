@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006277606",
+      "ANCIEN_ID": "ANIDXXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/76/LEGIARTI000006277606.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-02-05",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 février 1974 relatif à la construction du circuit primaire principal des chaudières nucléaires à eau.",
+          "@c_titre_court": "Arrêté du 26 février 1974",
+          "@debut": "1974-03-12",
+          "@fin": "2000-02-05",
+          "@id_txt": "LEGITEXT000006069384"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Dispositions générales.",
+            "@debut": "1974-03-12",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006083539"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006069384",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-02-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-03-12",
+          "@etat": "MODIFIE",
+          "@fin": "2000-02-05",
+          "@id": "LEGIARTI000006277605",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-02-05",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006277606",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Ne sont pas applicables à l'appareil soumis aux dispositions du présent arrêté :<br/>\n<br/>   - les articles 3, 5 à 36 et 38 à 43 du décret susvisé du 2 avril 1926 ;<br/>\n<br/>   - les articles 3 et 6 de l'arrêté susvisé du 2 octobre 1941 ;<br/>\n<br/>   - l'arrêté susvisé du 18 septembre 1967.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1941-10-02 art. 3, art. 6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1967-09-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1999-11-10 art. 18 II JORF 5 janvier 2000 en vigueur le 5 février 2000",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 1926-04-02",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 1926-04-02 art. 3, art. 5 à art. 36, art. 38 à art. 43",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

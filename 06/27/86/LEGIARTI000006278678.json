@@ -1,0 +1,128 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006278678",
+      "ANCIEN_ID": "AAEAAXXXXXX220AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/86/LEGIARTI000006278678.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "220",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1967-04-01",
+        "DATE_FIN": "1985-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692245"
+        },
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "1964-04-01",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006068288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Règles de fonctionnement des diverses sociétés commerciales",
+            "@debut": "1964-04-01",
+            "@fin": "2003-01-01",
+            "@id": "LEGISCTA000006083319"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 4 : Sociétés par actions",
+              "@debut": "1967-01-06",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006113844"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 6 : Contrôle des sociétés anonymes.",
+                "@debut": "1967-04-01",
+                "@fin": "2000-09-21",
+                "@id": "LEGISCTA000006133321"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000692245",
+      "@date_publi": "1966-07-26",
+      "@date_signature": "1966-07-24",
+      "@nature": "LOI",
+      "@num": "66-537"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1985-03-01",
+          "@id": "LEGIARTI000006278678",
+          "@num": "220",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006278679",
+          "@num": "220",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Ne peuvent être commissaires aux comptes d'une société déterminée [*interdictions - incompatibilités*] :<br/>\n<br/>   1° Les fondateurs, apporteurs en nature, bénéficiaires d'avantages particuliers, administrateurs ou, le cas échéant, membres du directoire ou du conseil de surveillance de la société ou de ses filiales [*groupe de sociétés*] telles qu'elles sont définies à l'article 354 ;<br/>\n<br/>   2° Les parents et alliés, jusqu'au quatrième degré inclusivement, des personnes visées au 1° ;<br/>\n<br/>   3° Les administrateurs, les membres du directoire ou du conseil de surveillance [*dirigeants sociaux*], les conjoints des administrateurs ainsi que, le cas échéant, des membres du directoire ou du conseil de surveillance des sociétés possédant le dixième du capital de la société ou dont celle-ci possède le dixième du capital [*proportion*] ;    4° Les personnes et les conjoints des personnes qui reçoivent de celles visées au 1°, de la société ou de toute société visée au 3°, un salaire ou une rémunération quelconque à raison de fonctions autres que celles de commissaire aux comptes ;<br/>\n<br/>   5° Les sociétés de commissaires dont l'un des associés se trouve dans une des situations prévues aux alinéas précédents.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-537 1966-07-24 JORF 26 juillet 1966 rectificatif JORF 19 octobre 1966 en vigueur le 1er avril 1967",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 354",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

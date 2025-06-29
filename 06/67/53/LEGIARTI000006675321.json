@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006675321",
+      "ANCIEN_ID": "SHHCNXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/53/LEGIARTI000006675321.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-09-01",
+        "DATE_FIN": "2001-02-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°86-269 du 13 février 1986 RELATIF A LA PROTECTION DES TRAVAILLEURS EXPOSES AU BENZENE",
+          "@c_titre_court": "Décret n°86-269 du 13 février 1986",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000333200"
+        },
+        {
+          "#text": "Décret n°86-269 du 13 février 1986 relatif à la protection des travailleurs exposés au benzène",
+          "@c_titre_court": "Décret n°86-269 du 13 février 1986",
+          "@debut": "1986-09-01",
+          "@fin": "2001-02-03",
+          "@id_txt": "LEGITEXT000006065452"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : Contrôle de l'exposition des travailleurs aux vapeurs de Benzène.",
+            "@debut": "1986-09-01",
+            "@fin": "2001-02-03",
+            "@id": "LEGISCTA000006102579"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000333200",
+      "@date_publi": "1986-02-27",
+      "@date_signature": "1986-02-13",
+      "@nature": "DECRET",
+      "@num": "86-269"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-09-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-02-03",
+          "@id": "LEGIARTI000006675321",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "En cas d'incident de fonctionnement, le personnel non indispensable à la sécurité de marche des installations ou aux interventions nécessaires pour remédier à la contamination doit être évacué.<br/>\n    Ce personnel ne peut être autorisé à revenir sur les lieux que si les concentrations de benzène dans l'air sont de nouveau inférieures aux valeurs fixées à l'article 3 ci-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°86-269 du 13 février 1986 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000333200",
+        "@datesignatexte": "1986-02-13",
+        "@id": "LEGIARTI000006675323",
+        "@naturetexte": "DECRET",
+        "@num": "10",
+        "@numtexte": "86-269",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°86-269 du 13 février 1986 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000333200",
+        "@datesignatexte": "1986-02-13",
+        "@id": "LEGIARTI000006675316",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "86-269",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2001-97 du 1 février 2001 - art. 15 (V) JORF 3 février 2001",
+        "@cidtexte": "JORFTEXT000000220917",
+        "@datesignatexte": "2001-02-01",
+        "@id": "LEGIARTI000006676076",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MEST0110001D",
+        "@num": "15",
+        "@numtexte": "2001-97",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

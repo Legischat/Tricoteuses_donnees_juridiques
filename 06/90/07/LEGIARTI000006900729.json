@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006900729",
+      "ANCIEN_ID": "AKEADXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/07/LEGIARTI000006900729.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1930-06-20",
+        "DATE_FIN": "1984-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 19 juin 1930 portant interdiction de l'exercice de la profession de banquier aux individus frappés de certaines condamnations et aux faillis non réhabilités",
+          "@c_titre_court": "Loi du 19 juin 1930",
+          "@debut": "1930-06-20",
+          "@fin": "1984-07-25",
+          "@id_txt": "LEGITEXT000006075119"
+        }
+      ],
+      "@cid": "LEGITEXT000006075119",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1930-06-19",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1930-06-20",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006900729",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute condamnation pour crime de droit commun pour faux en écriture privée, de commerce ou de banque prévues par les articles 150 et 151 du Code pénal, pour vol, pour abus de confiance, pour escroquerie ou pour délit puni par les lois des peines de l'escroquerie, pour soustraction commise par dépositaire public, pour extorsion de fonds ou valeurs, pour émission de mauvaise foi de chèques sans provision, pour atteinte au crédit de l'Etat, pour des choses obtenues à l'aide de ces infractions, emporte de plein droit [*effets - sanctions*] interdiction du droit de faire à titre professionnel des opérations de placement de bourse sur valeurs mobilières, et de diriger, administrer, gérer à un titre quelconque une société ou une agence de société ayant ces opérations pour objet, ou encore de signer pour elles.<br/>\n<br/>   Toute condamnation pour tentative ou complicité des infractions ci-dessus entraînera la même incapacité.<br/>\n<br/>   La même interdiction est encourue par les faillis non réhabilités.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code pénal 150, 151",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

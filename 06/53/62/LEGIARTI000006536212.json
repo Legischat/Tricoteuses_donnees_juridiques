@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006536212",
+      "ANCIEN_ID": "PPIECXXXXXX014AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/62/LEGIARTI000006536212.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-12-05",
+        "DATE_FIN": "2002-02-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 octobre 1985 portant organisation et attributions de la direction générale de l'administration territoriale",
+          "@c_titre_court": "Arrêté du 3 octobre 1985",
+          "@debut": "1985-10-05",
+          "@fin": "2002-02-23",
+          "@id_txt": "LEGITEXT000006071276"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section III : Direction des personnels, de la formation et de l'action sociale.",
+            "@debut": "1985-10-05",
+            "@fin": "2002-02-23",
+            "@id": "LEGISCTA000006096339"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071276",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-10-03",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-10-05",
+          "@etat": "MODIFIE",
+          "@fin": "1990-12-05",
+          "@id": "LEGIARTI000006536211",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-12-05",
+          "@etat": "ABROGE",
+          "@fin": "2002-02-23",
+          "@id": "LEGIARTI000006536212",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La sous-direction du recrutement et de la formation est chargée du recrutement des personnels relevant du ministère de l'intérieur, à l'exception du corps de l'inspection générale de l'administration, du corps préfectoral et des administrateurs civils, ainsi que des personnels administratifs et actifs de police.<br/>\n<br/>   Elle est chargée de l'accueil, de la formation et de la préparation aux concours de l'ensemble des personnels relevant du ministère de l'intérieur, à l'exception des personnels administratifs et actifs de la police, et sous réserve des attributions de formation confiées à la direction de la sécurité civile.<br/>\n<br/>   Elle comprend :<br/>\n<br/>   - le bureau du Centre national de formation ;<br/>\n<br/>   - le bureau des formations ;<br/>\n<br/>   - le bureau du recrutement et de la promotion professionnelle ;<br/>\n<br/>   - le bureau des actions locales et externes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-12-04 art. 1 JORF 5 décembre 1990",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2002-02-20 art. 10 JORF 23 février 2002",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 85-1057 1985-10-02",
+        "@cidtexte": "JORFTEXT000000871537",
+        "@datesignatexte": "1985-10-02",
+        "@id": "JORFTEXT000000871537",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1057",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

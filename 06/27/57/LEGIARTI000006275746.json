@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275746",
+      "ANCIEN_ID": "ANIAJXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/57/LEGIARTI000006275746.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1994-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1 août 1985 relatif aux modalités d'application du décret n° 80-17 du 7 janvier 1980 réglementant la catégorie d'instruments de mesure :  Ensemble de mesurage volumétrique de carburants pour véhicules routiers",
+          "@c_titre_court": "Arrêté du 1 août 1985",
+          "@debut": "1992-02-08",
+          "@fin": "1994-01-01",
+          "@id_txt": "LEGITEXT000006069030"
+        }
+      ],
+      "@cid": "LEGITEXT000006069030",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-08-01",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1994-01-01",
+          "@id": "LEGIARTI000006275746",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les ensembles de mesurage de précision ordinaire sont dispensés de la vérification primitive après réparation, sous la double réserve qu'ils ne soient pas utilisés pour les opérations mentionnées à l'article 12 du décret du 30 novembre 1944 susvisé et qu'ils soient détenus dans des lieux non ouverts au public.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-03-22 art. 16 JORF 28 mars 1993 en vigueur le 1er janvier 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 1993-03-22 art. 16, art. 17",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 1944-11-30 art. 12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 80-17 1980-01-07",
+        "@cidtexte": "JORFTEXT000000879154",
+        "@datesignatexte": "1980-01-07",
+        "@id": "JORFTEXT000000879154",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-17",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

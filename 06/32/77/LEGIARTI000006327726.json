@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327726",
+      "ANCIEN_ID": "FAINFXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/77/LEGIARTI000006327726.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-08-13",
+        "DATE_FIN": "2011-03-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 août 1985 relatif à la création d'un traitement informatisé pour la simplification des procédures d'imposition",
+          "@c_titre_court": "Arrêté du 7 août 1985",
+          "@debut": "1985-08-13",
+          "@fin": "2011-03-12",
+          "@id_txt": "LEGITEXT000006069913"
+        }
+      ],
+      "@cid": "LEGITEXT000006069913",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-08-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-08-13",
+          "@etat": "ABROGE",
+          "@fin": "2011-03-12",
+          "@id": "LEGIARTI000006327726",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   S.P.I. assure sur le plan national, dans les conditions et limites prévues aux articles 3, 4 et 7, la gestion d'informations concernant les personnes physiques ou morales entrant dans le champ d'application de tous impôts, taxes, droits ou cotisations relevant de la compétence de la direction générale des impôts. Il gère également les informations de même nature concernant les personnes appartenant ou rattachées au foyer fiscal d'un contribuable.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-08-07 art. 3, art. 4, art. 7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-855 1985-08-07",
+        "@cidtexte": "JORFTEXT000000871545",
+        "@datesignatexte": "1985-08-07",
+        "@id": "JORFTEXT000000871545",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-855",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 17 février 2011 - art. 7",
+        "@cidtexte": "JORFTEXT000023686054",
+        "@datesignatexte": "2011-02-17",
+        "@id": "LEGIARTI000023687277",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BCRE1105981A",
+        "@num": "7",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

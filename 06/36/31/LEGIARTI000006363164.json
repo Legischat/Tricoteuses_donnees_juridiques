@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006363164",
+      "ANCIEN_ID": "MPEAAXXXXXX030AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/31/LEGIARTI000006363164.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1964-07-12",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 64-707 du 10 juillet 1964 portant réorganisation de la région parisienne",
+          "@c_titre_court": "Loi n° 64-707 du 10 juillet 1964",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000319965"
+        },
+        {
+          "#text": "Loi n° 64-707 du 10 juillet 1964 portant réorganisation de la région parisienne",
+          "@c_titre_court": "Loi n° 64-707 du 10 juillet 1964",
+          "@debut": "1964-07-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068249"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Dispositions relatives aux personnels",
+            "@debut": "1964-07-12",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006086082"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Personnels de l'enseignement",
+              "@debut": "1964-07-12",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006115661"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000319965",
+      "@date_publi": "1964-07-12",
+      "@date_signature": "1964-07-10",
+      "@nature": "LOI",
+      "@num": "64-707"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-07-12",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006363164",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les agents du cadre unique de professeurs spéciaux d'enseignement primaire de la Seine deviennent des fonctionnaires de l'Etat.<br/>\n    Ils demeurent régis par les dispositions statutaires actuellement en vigueur jusqu'à ce qu'ils aient été soumis à un statut particulier pris en application de l'article 2 de l'ordonnance n° 59-244 du 4 février 1959.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 59-244 1959-02-04 ART. 2",
+        "@cidtexte": "JORFTEXT000000875201",
+        "@datesignatexte": "1959-02-04",
+        "@id": "JORFTEXT000000875201",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "59-244",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°64-707 du 10 juillet 1964 - art. 42 (V)",
+        "@cidtexte": "JORFTEXT000000319965",
+        "@datesignatexte": "1964-07-10",
+        "@id": "LEGIARTI000006363172",
+        "@naturetexte": "LOI",
+        "@num": "42",
+        "@numtexte": "64-707",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

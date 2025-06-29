@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006404533",
+      "ANCIEN_ID": "PAEAIXXXXXX032AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/45/LEGIARTI000006404533.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "32",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1938-07-13",
+        "DATE_FIN": "1993-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi  du 11 juillet 1938 sur l'organisation générale de la nation pour le temps de guerre.",
+          "@c_titre_court": "Loi du 11 juillet 1938",
+          "@debut": "1938-07-13",
+          "@fin": "2007-04-24",
+          "@id_txt": "LEGITEXT000006070686"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : DE L'EMPLOI DES PERSONNES ET DES RESSOURCES",
+            "@debut": "1938-07-13",
+            "@fin": "2004-12-21",
+            "@id": "LEGISCTA000006088685"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006070686",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1938-07-11",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1938-07-13",
+          "@etat": "MODIFIE",
+          "@fin": "1993-09-01",
+          "@id": "LEGIARTI000006404533",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-09-01",
+          "@etat": "ABROGE",
+          "@fin": "2004-12-21",
+          "@id": "LEGIARTI000006404534",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Tout fonctionnaire ou agent de l'autorité publique qui aura sciemment procédé à des réquisitions illégales [*abus de pouvoirs*] sera passible des peines [*sanctions*] prévues :<br/>\n    A l'article 174 du Code pénal en ce qui concerne le personnel civil ;<br/>\n    A l'article 443 du Code de justice militaire en ce qui concerne le personnel militaire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 50-244 1950-02-28 ART. 2 : texte provisoirement maintenu en vigueur",
+        "@cidtexte": "JORFTEXT000000878360",
+        "@datesignatexte": "1950-02-28",
+        "@id": "JORFTEXT000000878360",
+        "@naturetexte": "LOI",
+        "@numtexte": "50-244",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code pénal 174",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de justice militaire - art. 443 (M)",
+        "@cidtexte": "LEGITEXT000006070884",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006434616",
+        "@naturetexte": "CODE",
+        "@num": "443",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

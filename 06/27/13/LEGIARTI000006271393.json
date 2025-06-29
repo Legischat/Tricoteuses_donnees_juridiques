@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006271393",
+      "ANCIEN_ID": "RDHAAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/13/LEGIARTI000006271393.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1962-07-22",
+        "DATE_FIN": "2004-10-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°62-827 du 21 juillet 1962 ANT L'IMPORTATION DE CERTAINS PRODUITS AVICOLES. APPLICATION DU DECRET 59450 DU 20 MARS 1959",
+          "@c_titre_court": "Décret n°62-827 du 21 juillet 1962",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692102"
+        },
+        {
+          "#text": "Décret n°62-827 du 21 juillet 1962 réglementant l'importation de certains produits avicoles",
+          "@c_titre_court": "Décret n°62-827 du 21 juillet 1962",
+          "@debut": "1962-07-22",
+          "@fin": "2004-10-02",
+          "@id_txt": "LEGITEXT000006061107"
+        }
+      ],
+      "@cid": "JORFTEXT000000692102",
+      "@date_publi": "1962-07-22",
+      "@date_signature": "1962-07-21",
+      "@nature": "DECRET",
+      "@num": "62-827"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1962-07-22",
+          "@etat": "ABROGE",
+          "@fin": "2004-10-02",
+          "@id": "LEGIARTI000006271393",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001689629",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est interdite, sous tous régimes douaniers autres que le transit, l'importation des produits avicoles originaires ou en provenance de pays dans lesquels l'emploi de substances arsenicales, antimoniales ou oestrogènes n'est pas prohibé pour l'alimentation et l'élevage des volailles.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1998-04-30 art. 1 (liste des pays ayant interdit l'emploi de certaines substances)",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°2004-1037 du 30 septembre 2004 - art. 1 (V) JORF 2 octobre 2004",
+        "@cidtexte": "JORFTEXT000000443937",
+        "@datesignatexte": "2004-09-30",
+        "@id": "LEGIARTI000006234869",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRG0401631D",
+        "@num": "1",
+        "@numtexte": "2004-1037",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des douanes - art. 38 (M)",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615358",
+        "@naturetexte": "CODE",
+        "@num": "38",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

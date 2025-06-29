@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006532599",
+      "ANCIEN_ID": "PPHLLXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/25/LEGIARTI000006532599.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-05-13",
+        "DATE_FIN": "2007-10-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°89-306 du 11 mai 1989 PORTANT CREATION D'UNE COMMISSION DE GENIE GENETIQUE.",
+          "@c_titre_court": "Décret n°89-306 du 11 mai 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705439"
+        },
+        {
+          "#text": "Décret n°89-306 du 11 mai 1989 portant création d'une commission de génie génétique",
+          "@c_titre_court": "Décret n°89-306 du 11 mai 1989",
+          "@debut": "1989-05-13",
+          "@fin": "2007-10-16",
+          "@id_txt": "LEGITEXT000006067077"
+        }
+      ],
+      "@cid": "JORFTEXT000000705439",
+      "@date_publi": "1989-05-13",
+      "@date_signature": "1989-05-11",
+      "@nature": "DECRET",
+      "@nor": "RESY8900064D",
+      "@num": "89-306"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-05-13",
+          "@etat": "ABROGE",
+          "@fin": "2007-10-16",
+          "@id": "LEGIARTI000006532599",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La commission de génie génétique peut être consultée sur toute question qui se rapporte au transfert d'éléments génétiques, dans des hôtes naturels ou non à ces éléments, permettant d'obtenir des organismes biologiques génétiquement modifiés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°89-306 du 11 mai 1989 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000705439",
+        "@datesignatexte": "1989-05-11",
+        "@id": "LEGIARTI000006532601",
+        "@naturetexte": "DECRET",
+        "@nortexte": "RESY8900064D",
+        "@num": "3",
+        "@numtexte": "89-306",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2007-1467 2007-10-12 art. 4 JORF 16 octobre 2007",
+        "@cidtexte": "JORFTEXT000000825108",
+        "@datesignatexte": "2007-10-12",
+        "@id": "JORFTEXT000000825108",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVG0750611D",
+        "@numtexte": "2007-1467",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'environnement - art. D531-8 (Ab)",
+        "@cidtexte": "LEGITEXT000006074220",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006839052",
+        "@naturetexte": "CODE",
+        "@num": "D531-8",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006680690",
+      "ANCIEN_ID": "SKAXXXXXXXX5X002800AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/06/LEGIARTI000006680690.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "28",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1949-10-05",
+        "DATE_FIN": "1991-08-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de déontologie des sages-femmes",
+          "@c_titre_court": "Code de déontologie des sages-femmes",
+          "@debut": "1949-10-05",
+          "@fin": "2004-08-08",
+          "@id_txt": "LEGITEXT000006072635"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Devoirs des sages-femmes envers les patientes",
+            "@debut": "1949-10-05",
+            "@fin": "1991-08-14",
+            "@id": "LEGISCTA000006103067"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072635",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1949-10-05",
+          "@etat": "ABROGE",
+          "@fin": "1991-08-14",
+          "@id": "LEGIARTI000006680690",
+          "@num": "28",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-08-14",
+          "@etat": "ABROGE",
+          "@fin": "2004-08-08",
+          "@id": "LEGIARTI000006680691",
+          "@num": "28",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Du fait de la mission qu'elle a accepté de remplir, la sage-femme, dès l'instant qu'elle a accepté de donner ses soins à une femme, doit [*obligations*] :<br/>\n    1° Lui assurer tous les soins en son pouvoir et désirables en la circonstance ;<br/>\n    2° Faire appel aussitôt à un médecin si les circonstances dépassent les limites légales de sa capacité professionnelle ;<br/>\n    3° Eviter au contraire cet appel s'il n'est pas strictement indiqué afin de ne pas engager la patiente dans des dépenses inutiles, à moins que celle-ci ou son entourage ne le réclame expressément ;<br/>\n    4° Avoir un égal souci de la vie de l'enfant et de celle de la mère ;<br/>\n    5° Suivre régulièrement l'évolution de la grossesse jusqu'à son terme par les examens obstétricaux, sans que toutefois le nombre de ces examens soit tel qu'il puisse être considéré comme un abus ;<br/>\n    6° Faire ponctuellement les visites de suites de couches qui lui sont prescrites par les règlements en vigueur en s'assurant que la mère et l'enfant sont en bonne condition physiologique, sous réserve de signaler au médecin toute anomalie ;    7° Agir toujours avec correction et aménité envers ses patientes et se monter humaine et compatissante envers elles.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 49-1351 1949-09-30 JORF 5 octobre 1949",
+        "@cidtexte": "JORFTEXT000000873143",
+        "@datesignatexte": "1949-09-30",
+        "@id": "JORFTEXT000000873143",
+        "@naturetexte": "DECRET",
+        "@numtexte": "49-1351",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 91-779 1991-08-08 art. 68 JORF 14 août 1991",
+        "@cidtexte": "JORFTEXT000000571498",
+        "@datesignatexte": "1991-08-08",
+        "@id": "JORFTEXT000000571498",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9101297D",
+        "@numtexte": "91-779",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

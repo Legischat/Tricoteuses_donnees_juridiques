@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006341006",
+      "ANCIEN_ID": "MCF01XXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/10/LEGIARTI000006341006.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-06",
+        "DATE_FIN": "1977-02-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°59-30 du 5 janvier 1959 TENDANT A INSTITUER DES DISTRICTS URBAINS DANS LES GRANDES AGGLOMERATIONS",
+          "@c_titre_court": "Ordonnance n°59-30 du 5 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687698"
+        },
+        {
+          "#text": "Ordonnance n°59-30 du 5 janvier 1959 tendant à instituer des districts *ancien intitulé modifié par la loi du 31 décembre 1970 : ordonnance tendant à instituer des districts urbains dans les grandes agglomérations*.",
+          "@c_titre_court": "Ordonnance n°59-30 du 5 janvier 1959",
+          "@debut": "1959-01-06",
+          "@fin": "2007-09-01",
+          "@id_txt": "LEGITEXT000006069262"
+        }
+      ],
+      "@cid": "JORFTEXT000000687698",
+      "@date_publi": "1959-01-06",
+      "@date_signature": "1959-01-05",
+      "@nature": "ORDONNANCE",
+      "@num": "59-30"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-06",
+          "@etat": "MODIFIE",
+          "@fin": "1971-01-01",
+          "@id": "LEGIARTI000006341005",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-06",
+          "@etat": "ABROGE",
+          "@fin": "1977-02-03",
+          "@id": "LEGIARTI000006341006",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Le district est un établissement public groupant plusieurs communes [*définition*.<br/>\n<br/>       Il peut être créé sur la demande des deux tiers au moins *]proportion[* des conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci, ou de la moitié des conseils municipaux des communes comptant les deux tiers de la population, par arrêté du préfet *]compétence[* lorsque les communes font partie du même département, par arrêté conjoint des préfets intéressés dans le cas contraire.<br/>\n<br/>        Sur l'initiative d'un ou plusieurs conseils municipaux demandant la création d'un district, le ou les préfets fixent, après avis conforme du ou des conseils généraux *]conditions de forme*, la liste des communes intéressées.<br/>\n<br/>        La décision institutive détermine le siège du district.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 77-91 1977-01-27",
+        "@cidtexte": "JORFTEXT000000335057",
+        "@datesignatexte": "1977-01-27",
+        "@id": "JORFTEXT000000335057",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-91",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 77-91 1977-01-27 ART. 2 : *abrogation des dispositions réglementaires du présent article reprises sous l'article R164-1 du code des communes",
+        "@cidtexte": "JORFTEXT000000335057",
+        "@datesignatexte": "1977-01-27",
+        "@id": "JORFTEXT000000335057",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-91",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "CODE DES COMMUNES. - art. L164-1 (M)",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006345602",
+        "@naturetexte": "CODE",
+        "@num": "L164-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code des communes R164-1",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070162",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Les dispositions législatives demeurent en vigueur en l'absence de la loi de validation*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006730303",
+      "ANCIEN_ID": "SQIK1XXXXXXA06AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/73/03/LEGIARTI000006730303.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-01-01",
+        "DATE_FIN": "1999-12-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 novembre 1994 relatif à la bonne exécution    des analyses de biologie médicale",
+          "@c_titre_court": "Arrêté du 2 novembre 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000184973"
+        },
+        {
+          "#text": "Arrêté du 2 novembre 1994 relatif à la bonne exécution des analyses de biologie médicale",
+          "@c_titre_court": "Arrêté du 2 novembre 1994",
+          "@debut": "1995-01-01",
+          "@fin": "1999-12-12",
+          "@id_txt": "LEGITEXT000005617113"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1995-01-01",
+            "@fin": "1999-12-12",
+            "@id": "LEGISCTA000006105703"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Guide de bonne exécution des analyses de biologie médicale",
+              "@debut": "1995-01-01",
+              "@fin": "1999-12-12",
+              "@id": "LEGISCTA000006126635"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "II  - Règles de fonctionnement",
+                "@debut": "1995-01-01",
+                "@fin": "1999-12-12",
+                "@id": "LEGISCTA000006141340"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "II - 5 Informatique.",
+                  "@debut": "1995-01-01",
+                  "@fin": "1999-12-12",
+                  "@id": "LEGISCTA000006155622"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000184973",
+      "@date_publi": "1994-12-04",
+      "@date_signature": "1994-11-02",
+      "@ministere": "MINISTERE DES AFFAIRES SOCIALES, DE LA SANTE ET DE LA VILLE",
+      "@nature": "ARRETE",
+      "@nor": "SPSP9403408A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1999-12-12",
+          "@id": "LEGIARTI000006730303",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>      Pour les laboratoires possédant un système informatique, celui-ci doit être conçu et réalisé de façon à éviter les erreurs et à respecter la confidentialité des données qu'il contient.<br/>\n<br/>   L'accès total ou partiel aux données doit être limité au personnel autorisé. Toute modification des informations ou des programmes ne peut être effectuée que par une personne autorisée et être répertoriée.<br/>\n<br/>   Une procédure doit être établie pour permettre d'éviter la perte des informations en cas de panne du système informatique.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 93-354 1993-03-15 art. 9-1",
+        "@cidtexte": "JORFTEXT000000362731",
+        "@datesignatexte": "1993-03-15",
+        "@id": "JORFTEXT000000362731",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9300553D",
+        "@numtexte": "93-354",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 26 novembre 1999 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000580061",
+        "@datesignatexte": "1999-11-26",
+        "@id": "LEGIARTI000028679208",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "MESP9923609A",
+        "@num": "2",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

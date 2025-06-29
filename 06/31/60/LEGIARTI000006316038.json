@@ -1,0 +1,163 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006316038",
+      "ANCIEN_ID": "FAAALPFXXXXL275AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/60/LEGIARTI000006316038.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L275",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1982-01-01",
+        "DATE_FIN": "1985-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Livre des procédures fiscales",
+          "@c_titre_court": "Livre des procédures fiscales",
+          "@debut": "1938-06-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069583"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1938-06-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084350"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LE RECOUVREMENT DE L'IMPOT",
+              "@debut": "1982-01-01",
+              "@fin": "1987-12-31",
+              "@id": "LEGISCTA000006114557"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "LES PROCEDURES DE RECOUVREMENT.",
+                "@debut": "1982-01-01",
+                "@fin": "1987-12-31",
+                "@id": "LEGISCTA000006133981"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "PRESCRIPTION DE L'ACTION EN VUE DU RECOUVREMENT.",
+                  "@debut": "1982-01-01",
+                  "@fin": "1985-01-01",
+                  "@id": "LEGISCTA000006147376"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069583",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1985-01-01",
+          "@id": "LEGIARTI000006316038",
+          "@num": "L275",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2011-10-01",
+          "@id": "LEGIARTI000006316039",
+          "@num": "L275",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La notification d'un avis de mise en recouvrement interrompt la prescription courant contre l'administration et y substitue la prescription décennale.<br/>\n<br/>   Le délai de dix ans mentionné au premier alinéa est interrompu dans les conditions indiquées à l'article L. 274.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1975 (AL. 1 P., AL. 2)",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "CGI L274",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 63-1316 1963-12-27 ART. 19",
+        "@cidtexte": "JORFTEXT000000509287",
+        "@datesignatexte": "1963-12-27",
+        "@id": "JORFTEXT000000509287",
+        "@naturetexte": "LOI",
+        "@numtexte": "63-1316",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°84-1208 du 29 décembre 1984 - art. 103 (V)",
+        "@cidtexte": "JORFTEXT000000880778",
+        "@datesignatexte": "1984-12-29",
+        "@id": "LEGIARTI000006274297",
+        "@naturetexte": "LOI",
+        "@num": "103",
+        "@numtexte": "84-1208",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°87-571 du 23 juillet 1987 - art. 25 (V)",
+        "@cidtexte": "JORFTEXT000000874956",
+        "@datesignatexte": "1987-07-23",
+        "@id": "LEGIARTI000006477221",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700093L",
+        "@num": "25",
+        "@numtexte": "87-571",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Livre des procédures fiscales - art. R*275-1 (Ab)",
+        "@cidtexte": "LEGITEXT000006069583",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006316515",
+        "@naturetexte": "CODE",
+        "@num": "R*275-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

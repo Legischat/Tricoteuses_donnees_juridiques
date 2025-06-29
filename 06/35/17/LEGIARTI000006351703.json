@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351703",
+      "ANCIEN_ID": "AAHJEXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/17/LEGIARTI000006351703.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1952-12-16",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°52-1327 du 15 décembre 1952 SOCIETES DE CREDIT DIFFERE",
+          "@c_titre_court": "Décret n°52-1327 du 15 décembre 1952",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687211"
+        },
+        {
+          "#text": "Décret n°52-1327 du 15 décembre 1952 pris pour l'application de la loi n° 52-332 du 24 mars 1952 et relatif au montant minimum du capital social des entreprises de crédit différé",
+          "@c_titre_court": "Décret n°52-1327 du 15 décembre 1952",
+          "@debut": "1952-12-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060628"
+        }
+      ],
+      "@cid": "JORFTEXT000000687211",
+      "@date_publi": "1952-12-16",
+      "@date_signature": "1952-12-15",
+      "@nature": "DECRET",
+      "@num": "52-1327"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1952-12-16",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006351703",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le montant minimum du capital social des sociétés de crédit différé, que ces sociétés soient constituées sous forme de société anonyme ou de société anonyme à capital et personnel variables, et non compris les apports en nature est fixé à 500.000 F dont un quart versé. Les actions doivent être libérées de moitié dans un délai de deux ans à compter de la constitution définitive de la société.</p>\n<br/>\n<p>Toutefois, pour les sociétés qui, à la date du 24 mars 1952, pratiquaient des opérations de crédit différé, le montant minimum est de 250.000 F francs, dont moitié versée, sans que leur capital social versé, diminué des pertes figurant à l'actif de leur bilan au 31 décembre 1951, puisse être inférieur à 125.000 F.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 52-332 1952-03-24",
+        "@cidtexte": "JORFTEXT000000888671",
+        "@datesignatexte": "1952-03-24",
+        "@id": "JORFTEXT000000888671",
+        "@naturetexte": "LOI",
+        "@numtexte": "52-332",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°52-1327 du 15 décembre 1952 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000687211",
+        "@datesignatexte": "1952-12-15",
+        "@id": "LEGIARTI000006351712",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "52-1327",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

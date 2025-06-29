@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006363105",
+      "ANCIEN_ID": "MPE01XXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/31/LEGIARTI000006363105.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-03-20",
+        "DATE_FIN": "1983-03-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 75-1331 du 31 décembre 1975 portant réforme du régime administratif de la ville de Paris",
+          "@c_titre_court": "Loi n° 75-1331 du 31 décembre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000699208"
+        },
+        {
+          "#text": "Loi n° 75-1331 du 31 décembre 1975 portant réforme du régime administratif de la ville de Paris",
+          "@c_titre_court": "Loi n° 75-1331 du 31 décembre 1975",
+          "@debut": "1977-03-20",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068497"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Le département de Paris.",
+            "@debut": "1977-03-20",
+            "@fin": "1983-03-13",
+            "@id": "LEGISCTA000006086070"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000699208",
+      "@date_publi": "1976-01-03",
+      "@date_signature": "1975-12-31",
+      "@nature": "LOI",
+      "@num": "75-1331"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1983-03-13",
+          "@id": "LEGIARTI000006363105",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil de Paris, exerçant pour le département de Paris les attributions dévolues aux conseils généraux dans les conditions du droit commun, est présidé par le maire de Paris.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°82-623 du 22 juillet 1982 - art. 15 (M)",
+        "@cidtexte": "JORFTEXT000000504203",
+        "@datesignatexte": "1982-07-22",
+        "@id": "LEGIARTI000006273994",
+        "@naturetexte": "LOI",
+        "@num": "15",
+        "@numtexte": "82-623",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 82-1169 1982-12-31 art. 42 I 1er janvier 1983 date d'entrée en vigueur 13 mars 1983",
+        "@cidtexte": "JORFTEXT000000880033",
+        "@datesignatexte": "1982-12-31",
+        "@id": "JORFTEXT000000880033",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1169",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

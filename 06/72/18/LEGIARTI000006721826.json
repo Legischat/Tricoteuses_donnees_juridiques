@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721826",
+      "ANCIEN_ID": "SPIXSXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/18/LEGIARTI000006721826.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-09-03",
+        "DATE_FIN": "1994-10-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 octobre 1985 autorisant l'informatisation des résumés de sortie standardisés dans les établissements d'hospitalisation publics et privés participant au service public hospitalier.",
+          "@c_titre_court": "Arrêté du 3 octobre 1985",
+          "@debut": "1985-10-16",
+          "@fin": "1994-10-18",
+          "@id_txt": "LEGITEXT000006073148"
+        }
+      ],
+      "@cid": "LEGITEXT000006073148",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-10-03",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-10-16",
+          "@etat": "MODIFIE",
+          "@fin": "1988-09-03",
+          "@id": "LEGIARTI000006721825",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-09-03",
+          "@etat": "ABROGE",
+          "@fin": "1994-10-18",
+          "@id": "LEGIARTI000006721826",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est constitué, sous la responsabilité du médecin désigné à l'article 3, des fichiers anonymes de résumés de sorties standardisés et, quand leur production est assurée, de fiches de consommation standardisées ; ces fichiers sont obtenus par suppression de toutes les informations d'identification visées à l'article 2 ci-dessus, à l'exception de l'année de naissance, et par attribution, à chaque résumé de sortie standardisé et, le cas échéant, à chaque fiche de consommation standardisée, du numéro de l'établissement ainsi que tout organisme extérieur à celui-ci ne peuvent être destinataires que de ces fichiers anonymes.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-10-03 art. 3, art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1994-09-20 art. 8 JORF 18 octobre 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 70-1318 1970-12-31",
+        "@cidtexte": "JORFTEXT000000874228",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000874228",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1318",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

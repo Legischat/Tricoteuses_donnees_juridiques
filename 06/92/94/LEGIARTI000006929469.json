@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006929469",
+      "ANCIEN_ID": "PKHBFXXXXXX024AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/94/LEGIARTI000006929469.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1993-03-27",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 93-490 du 25 mars 1993 modifiant le décret n° 67-290 du 28 mars 1967 fixant les modalités de calcul des émoluments des personnels de l'Etat et des établissements publics de l'Etat à caractère administratif en service à l'étranger",
+          "@c_titre_court": "Décret n°93-490 du 26 mars 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000360967"
+        },
+        {
+          "#text": "Décret n°93-490 du 25 mars 1993 modifiant le décret n° 67-290 du 28 mars 1967 fixant les modalités de calcul des émoluments des personnels de l'Etat et des établissements publics de l'Etat à caractère administratif en service à l'étranger",
+          "@c_titre_court": "Décret n°93-490 du 25 mars 1993",
+          "@debut": "1993-03-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006081659"
+        }
+      ],
+      "@cid": "JORFTEXT000000360967",
+      "@date_publi": "1993-03-27",
+      "@date_signature": "1993-03-26",
+      "@nature": "DECRET",
+      "@nor": "MAEA9320167D",
+      "@num": "93-490"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-27",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006929469",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001128729",
+          "@num": "24",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les articles 34 et 35 du décret du 28 mars 1967 susvisé sont abrogés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-290 1967-03-28 art. 34, art. 35",
+        "@cidtexte": "JORFTEXT000000305783",
+        "@datesignatexte": "1967-03-28",
+        "@id": "JORFTEXT000000305783",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-290",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°67-290 du 28 mars 1967 - art. 35 (Ab)",
+        "@cidtexte": "JORFTEXT000000305783",
+        "@datesignatexte": "1967-03-28",
+        "@id": "LEGIARTI000028026350",
+        "@naturetexte": "DECRET",
+        "@num": "35",
+        "@numtexte": "67-290",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 93-490 1993-03-25 art. 26 et 30",
+        "@cidtexte": "JORFTEXT000000555869",
+        "@datesignatexte": "1993-03-25",
+        "@id": "JORFTEXT000000555869",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MAEX9501146S",
+        "@numtexte": "93-490",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

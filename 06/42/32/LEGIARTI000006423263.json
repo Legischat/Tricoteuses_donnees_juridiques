@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006423263",
+      "ANCIEN_ID": "PCHFAXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/32/LEGIARTI000006423263.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1987-07-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°87-596 du 30 juillet 1987 PORTANT REAMENAGEMENT DES TAXES DES SERVICES POSTAUX ET FINANCIERS DU REGIME INTERIEUR",
+          "@c_titre_court": "Décret n°87-596 du 30 juillet 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705540"
+        },
+        {
+          "#text": "Décret n°87-596 du 30 juillet 1987 portant réaménagement des taxes des services postaux et financiers du régime intérieur",
+          "@c_titre_court": "Décret n°87-596 du 30 juillet 1987",
+          "@debut": "1987-07-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006066072"
+        }
+      ],
+      "@cid": "JORFTEXT000000705540",
+      "@date_publi": "1987-07-31",
+      "@date_signature": "1987-07-30",
+      "@nature": "DECRET",
+      "@nor": "PTTP8700536D",
+      "@num": "87-596"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-07-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006423263",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les droits et taxes des services postaux pour les correspondances circulant à l'intérieur de Saint-Pierre-et-Miquelon sont prévus par l'arrêté du ministre délégué auprès du ministre de l'industrie, des P. et T. et du tourisme, chargé des P. et T., pris conformément aux dispositions de l'article 9 du décret du 12 mai 1978.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code des postes et télécommunications R56",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 78-591 1978-05-12 art. 9",
+        "@cidtexte": "JORFTEXT000000516432",
+        "@datesignatexte": "1978-05-12",
+        "@id": "JORFTEXT000000516432",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-591",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 87-596 1987-07-30 art. 9 date d'application",
+        "@cidtexte": "JORFTEXT000000705540",
+        "@datesignatexte": "1987-07-30",
+        "@id": "JORFTEXT000000705540",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PTTP8700536D",
+        "@numtexte": "87-596",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

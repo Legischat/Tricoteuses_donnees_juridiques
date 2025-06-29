@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769364",
+      "ANCIEN_ID": "SSHAU1XXXXX040AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/93/LEGIARTI000006769364.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "38",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-01-27",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Tableaux des maladies professionnelles",
+            "@debut": "1976-01-27",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107085"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "38° Poliomyélite",
+              "@debut": "1976-01-27",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127783"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-27",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769364",
+          "@num": "38",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "CARACTERISATION DE LA MALADIE<br/>\n    Toutes manifestations de la poliomyélite antérieure aiguë.<br/>\n    DELAI de prise en charge : 30 jours<br/>\n   TRAVAUX SUSCEPTIBLES DE PROVOQUER LA MALADIE<br/>\n    Travaux exposant au contact de malades atteints de poliomyélite antérieure aiguë.<br/>\n    Tous travaux tels que manutention, entretien, lavage, stérilisation mettant le personnel en contact avec le matériel ou le linge utilisés dans les services où sont effectués les travaux ci-dessus et relevant du régime agricole de protection sociale.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 76-74 1976-01-15 art. 1 JORF 27 janvier 1976",
+        "@cidtexte": "JORFTEXT000000503183",
+        "@datesignatexte": "1976-01-15",
+        "@id": "JORFTEXT000000503183",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-74",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

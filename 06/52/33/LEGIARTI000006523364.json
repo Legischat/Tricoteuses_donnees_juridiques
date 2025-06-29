@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006523364",
+      "ANCIEN_ID": "PLIFBXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/33/LEGIARTI000006523364.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 avril 1995 modifiant l'arrêté du 13 septembre 1985 portant    règlement du pari mutuel",
+          "@c_titre_court": "Arrêté du 27 avril 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000735539"
+        },
+        {
+          "#text": "Arrêté du 27 avril 1995 modifiant l'arrêté du 13 septembre 1985 portant règlement du pari mutuel",
+          "@c_titre_court": "Arrêté du 27 avril 1995",
+          "@debut": "1995-05-07",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005618716"
+        }
+      ],
+      "@cid": "JORFTEXT000000735539",
+      "@date_publi": "1995-05-07",
+      "@date_signature": "1995-04-27",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "ARRETE",
+      "@nor": "AGRH9500874A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006523364",
+          "@num": "9",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-09-13",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 13 septembre 1985 - art. 101 (M)",
+        "@cidtexte": "JORFTEXT000000494091",
+        "@datesignatexte": "1985-09-13",
+        "@id": "LEGIARTI000023755306",
+        "@naturetexte": "ARRETE",
+        "@num": "101",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

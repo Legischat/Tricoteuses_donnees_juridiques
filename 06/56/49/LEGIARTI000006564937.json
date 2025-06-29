@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006564937",
+      "ANCIEN_ID": "PUHAJXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/49/LEGIARTI000006564937.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1981-05-14",
+        "DATE_FIN": "2004-11-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°81-505 du 12 mai 1981 RELATIF A L'INSTITUT GEOGRAPHIQUE NATIONAL",
+          "@c_titre_court": "Décret n°81-505 du 12 mai 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517222"
+        },
+        {
+          "#text": "Décret n°81-505 du 12 mai 1981 relatif à l'Institut géographique national *IGN*.",
+          "@c_titre_court": "Décret n°81-505 du 12 mai 1981",
+          "@debut": "1981-05-14",
+          "@fin": "2012-01-01",
+          "@id_txt": "LEGITEXT000006063526"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Missions",
+            "@debut": "1981-05-14",
+            "@fin": "2012-01-01",
+            "@id": "LEGISCTA000006097477"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000517222",
+      "@date_publi": "1981-05-14",
+      "@date_signature": "1981-05-12",
+      "@nature": "DECRET",
+      "@num": "81-505"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-05-14",
+          "@etat": "MODIFIE",
+          "@fin": "2004-11-24",
+          "@id": "LEGIARTI000006564937",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-11-24",
+          "@etat": "ABROGE",
+          "@fin": "2012-01-01",
+          "@id": "LEGIARTI000006564938",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'institut peut apporter son concours, par convention, à des administrations, collectivités et services publics, à des organismes internationaux et à des Etats étrangers ou, si les services ou travaux présentent un caractère d'intérêt général, à des organismes et personnes privées.<br/>\n<br/>   Pour faciliter ses activités à l'étranger, il peut prendre du participations financières.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°81-505 du 12 mai 1981 - art. 10 (M)",
+        "@cidtexte": "JORFTEXT000000517222",
+        "@datesignatexte": "1981-05-12",
+        "@id": "LEGIARTI000006564953",
+        "@naturetexte": "DECRET",
+        "@num": "10",
+        "@numtexte": "81-505",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°85-342 du 15 mars 1985 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000885356",
+        "@datesignatexte": "1985-03-15",
+        "@id": "LEGIARTI000006564977",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "85-342",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

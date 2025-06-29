@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006846783",
+      "ANCIEN_ID": "UPEAMXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/67/LEGIARTI000006846783.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1966-06-17",
+        "DATE_FIN": "2012-05-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-383 du 16 juin 1966 relative aux opérations de déminage poursuivies par l'Etat",
+          "@c_titre_court": "Loi n°66-383 du 16 juin 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692230"
+        },
+        {
+          "#text": "Loi n° 66-383 du 16 juin 1966 relative aux opérations de déminage poursuivies par l'état",
+          "@c_titre_court": "Loi n° 66-383 du 16 juin 1966",
+          "@debut": "1966-06-17",
+          "@fin": "2012-05-01",
+          "@id_txt": "LEGITEXT000006068275"
+        }
+      ],
+      "@cid": "JORFTEXT000000692230",
+      "@date_publi": "1966-06-17",
+      "@date_signature": "1966-06-16",
+      "@nature": "LOI",
+      "@num": "66-383"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-06-17",
+          "@etat": "ABROGE",
+          "@fin": "2012-05-01",
+          "@id": "LEGIARTI000006846783",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Indépendamment de l'application de la loi du 29 décembre 1892 sur les dommages causés à la propriété privée par l'exécution des travaux publics, les agents du service chargé des travaux visés à l'article 1er peuvent pénétrer, avec leur matériel, sur les propriétés publiques et privées même habitées, après que les propriétaires, locataires, exploitants ou occupants en ont été préalablement avisés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 1892-12-29",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°66-383 du 16 juin 1966 - art. 1",
+        "@cidtexte": "JORFTEXT000000692230",
+        "@datesignatexte": "1966-06-16",
+        "@id": "LEGIARTI000006846782",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "66-383",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2012-351\n du 12 mars 2012 - art. 19 (V)",
+        "@cidtexte": "JORFTEXT000025498645",
+        "@datesignatexte": "2012-03-12",
+        "@id": "LEGIARTI000025501190",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "IOCD1129997R",
+        "@num": "19",
+        "@numtexte": "2012-351",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la sécurité intérieure - art. L733-2 (V)",
+        "@cidtexte": "LEGITEXT000025503132",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000025506856",
+        "@naturetexte": "CODE",
+        "@num": "L733-2",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

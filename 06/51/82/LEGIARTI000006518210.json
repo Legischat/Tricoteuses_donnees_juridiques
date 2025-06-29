@@ -1,0 +1,76 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006518210",
+      "ANCIEN_ID": "ADEEOXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/82/LEGIARTI000006518210.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1867-01-01",
+        "DATE_FIN": "2007-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 13 juin 1866 concernant les usages commerciaux.",
+          "@c_titre_court": "Loi du 13 juin 1866",
+          "@debut": "1867-01-01",
+          "@fin": "2007-03-27",
+          "@id_txt": "LEGITEXT000006071156"
+        }
+      ],
+      "@cid": "LEGITEXT000006071156",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1866-06-13",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1867-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-03-27",
+          "@id": "LEGIARTI000006518210",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les ventes commerciales, les conditions, tares et autres usages indiqués dans le tableau annexé à la présente loi sont applicables dans toute l'étendue de l'Empire du territoire français, à défaut de convention contraire.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007",
+        "@cidtexte": "JORFTEXT000000820567",
+        "@datesignatexte": "2007-03-25",
+        "@id": "LEGIARTI000006261692",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX0600197D",
+        "@num": "3",
+        "@numtexte": "2007-431",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1866-06-13 Bulletin des lois 11e S, B. 1397, n° 14282 en vigueur le 1er janvier 1867",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006605811",
+      "ANCIEN_ID": "ADIBLXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/58/LEGIARTI000006605811.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1972-12-12",
+        "DATE_FIN": "2001-11-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 novembre 1972 relatif au commerce des pommes de terre irradiées",
+          "@c_titre_court": "Arrêté du 8 novembre 1972",
+          "@debut": "1972-12-12",
+          "@fin": "2001-11-23",
+          "@id_txt": "LEGITEXT000006071397"
+        }
+      ],
+      "@cid": "LEGITEXT000006071397",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-11-08",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-12-12",
+          "@etat": "PERIME",
+          "@fin": "2001-11-23",
+          "@id": "LEGIARTI000006605811",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La \"dose absorbée\" délivrée aux pommes de terre au cours de ce traitement doit être comprise entre 7.500 rads et 15.000 rads.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 70-392 1970-05-08",
+        "@cidtexte": "JORFTEXT000000304045",
+        "@datesignatexte": "1970-05-08",
+        "@id": "JORFTEXT000000304045",
+        "@naturetexte": "DECRET",
+        "@numtexte": "70-392",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°2001-1097 du 16 novembre 2001 (V)",
+        "@cidtexte": "JORFTEXT000000580693",
+        "@datesignatexte": "2001-11-16",
+        "@id": "LEGITEXT000005631706",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOC0100071D",
+        "@numtexte": "2001-1097",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      }
+    ]
+  }
+}

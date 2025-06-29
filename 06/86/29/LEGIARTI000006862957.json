@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862957",
+      "ANCIEN_ID": "UPIMWXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/29/LEGIARTI000006862957.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-04-10",
+        "DATE_FIN": "2008-04-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 avril 1981 relatif aux dispositions administratives applicables aux piscines et aux baignades aménagées",
+          "@c_titre_court": "Arrêté du 7 avril 1981",
+          "@debut": "1981-04-10",
+          "@fin": "2008-04-30",
+          "@id_txt": "LEGITEXT000006074616"
+        }
+      ],
+      "@cid": "LEGITEXT000006074616",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1981-04-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-04-10",
+          "@etat": "ABROGE",
+          "@fin": "2008-04-30",
+          "@id": "LEGIARTI000006862957",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les piscines, un dossier technique complet et à jour comportant plans et descriptifs des installations est tenu à la disposition des agents visés à l'article L. 25-4 du code de la santé publique.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1981-04-07 (dispositions techniques)",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 81-324 1981-04-07",
+        "@cidtexte": "JORFTEXT000000857791",
+        "@datesignatexte": "1981-04-07",
+        "@id": "JORFTEXT000000857791",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-324",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Arrêté du 28 février 2008 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000018730866",
+        "@datesignatexte": "2008-02-28",
+        "@id": "LEGIARTI000018732063",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SJSV0805704A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L25-4",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692195",
+        "@naturetexte": "CODE",
+        "@num": "L25-4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

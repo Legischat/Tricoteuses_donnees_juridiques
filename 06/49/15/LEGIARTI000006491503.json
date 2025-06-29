@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006491503",
+      "ANCIEN_ID": "PJEBJXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/15/LEGIARTI000006491503.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1994-03-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n°92-683 du 22 juillet 1992 portant réforme    des dispositions générales du code pénal (1)",
+          "@c_titre_court": "Loi n° 92-683 du 22 juillet 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000359434"
+        },
+        {
+          "#text": "Loi n° 92-683 du 22 juillet 1992 portant réforme des dispositions générales du code pénal",
+          "@c_titre_court": "Loi n° 92-683 du 22 juillet 1992",
+          "@debut": "1994-03-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006079509"
+        }
+      ],
+      "@cid": "JORFTEXT000000359434",
+      "@date_publi": "1992-07-23",
+      "@date_signature": "1992-07-22",
+      "@nature": "LOI",
+      "@nor": "JUSX8900136L",
+      "@num": "92-683"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006491503",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions générales du code pénal sont fixées par le livre Ier annexé à la présente loi.<br/>\n<br/>   Ces dispositions entreront en vigueur à la date qui sera fixée par la loi relative à l'entrée en vigueur du nouveau code pénal et à la modification de certaines dispositions de droit pénal et de procédure pénale rendue nécessaire par cette entrée en vigueur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 92-683 1992-07-22 annexe",
+        "@cidtexte": "JORFTEXT000000359434",
+        "@datesignatexte": "1992-07-22",
+        "@id": "JORFTEXT000000359434",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX8900136L",
+        "@numtexte": "92-683",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Livre des procédures fiscales - art. L141 A (V)",
+        "@cidtexte": "LEGITEXT000006069583",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006315307",
+        "@naturetexte": "CODE",
+        "@num": "L141 A",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

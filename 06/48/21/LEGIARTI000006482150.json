@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006482150",
+      "ANCIEN_ID": "PHHNIXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/21/LEGIARTI000006482150.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-10-27",
+        "DATE_FIN": "2015-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 96-338 du 17 avril 1996 portant statut d'emploi du président de l’Établissement public du musée du Louvre",
+          "@c_titre_court": "Décret n° 96-338 du 17 avril 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000559143"
+        },
+        {
+          "#text": "Décret n°96-338 du 17 avril 1996 portant statut d'emploi du président de l'Etablissement public du musée du Louvre",
+          "@c_titre_court": "Décret n°96-338 du 17 avril 1996",
+          "@debut": "1994-10-27",
+          "@fin": "2015-09-21",
+          "@id_txt": "LEGITEXT000005620805"
+        }
+      ],
+      "@cid": "JORFTEXT000000559143",
+      "@date_publi": "1996-04-23",
+      "@date_signature": "1996-04-17",
+      "@ministere": "MINISTERE DE LA CULTURE",
+      "@nature": "DECRET",
+      "@nor": "MCCB9600042D",
+      "@num": "96-338"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-10-27",
+          "@etat": "ABROGE",
+          "@fin": "2015-09-21",
+          "@id": "LEGIARTI000006482150",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le fonctionnaire nommé dans l'emploi de président de l'Etablissement public du musée du Louvre est placé en position de détachement de son corps d'origine. Il est classé à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont il bénéficiait dans son grade d'origine.<br/>\n<br/>   Dans la limite de l'ancienneté exigée à l'article 1er ci-dessus pour accéder au second échelon, il conserve l'ancienneté d'échelon acquise dans son grade d'origine si sa nomination lui procure un gain indiciaire inférieur soit au gain résultant du prochain avancement d'échelon à intervenir dans son grade d'origine, soit, s'il est classé au dernier échelon de ce grade, au gain ayant résulté de son élévation à cet échelon.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°96-338 du 17 avril 1996 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000559143",
+        "@datesignatexte": "1996-04-17",
+        "@id": "LEGIARTI000006482149",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCB9600042D",
+        "@num": "1",
+        "@numtexte": "96-338",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "DÉCRET n°2015-1164 du 17 septembre 2015 - art. 1",
+        "@cidtexte": "JORFTEXT000031184399",
+        "@datesignatexte": "2015-09-17",
+        "@id": "LEGIARTI000031185334",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCB1507352D",
+        "@num": "1",
+        "@numtexte": "2015-1164",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

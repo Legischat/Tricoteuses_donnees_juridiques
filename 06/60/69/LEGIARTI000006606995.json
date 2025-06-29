@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006606995",
+      "ANCIEN_ID": "RAICRXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/69/LEGIARTI000006606995.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-07-30",
+        "DATE_FIN": "1987-11-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 juillet 1963 fixant le règlement de comptabilité applicable aux chambres départementales d'agriculture",
+          "@c_titre_court": "Arrêté du 27 juillet 1963",
+          "@debut": "1963-07-30",
+          "@fin": "1987-11-15",
+          "@id_txt": "LEGITEXT000006071433"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Budgets et crédits.",
+            "@debut": "1963-07-30",
+            "@fin": "1987-11-15",
+            "@id": "LEGISCTA000006098820"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071433",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1963-07-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-30",
+          "@etat": "ABROGE",
+          "@fin": "1987-11-15",
+          "@id": "LEGIARTI000006606995",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans le cas où le budget primitif n'est pas approuvé à l'ouverture de l'exercice, les opérations de recettes et de dépenses sont effectuées temporairement sur la base des prévisions budgétaires de l'exercice précédent, déduction faite, le cas échéant, des crédits affectés à des dépenses non renouvelables.<br/>\n<br/>   En ce qui concerne les dépenses de personnel, la base retenue est le montant des traitements ou salaires et indemnités payés au titre du dernier mois de l'exercice.<br/>\n<br/>   Toutefois, il peut être tenu compte après accord du ministre de l'agriculture, des prévisions retenues par la chambre d'agriculture, pour procéder à l'engagement des dépenses de fonctionnement et poursuivre les opérations d'investissement entreprises en exécution de programmes antérieurement approuvés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-10-27 art. 26 JORF 15 novembre 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 63-752 1963-07-27",
+        "@cidtexte": "JORFTEXT000000490858",
+        "@datesignatexte": "1963-07-27",
+        "@id": "JORFTEXT000000490858",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-752",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

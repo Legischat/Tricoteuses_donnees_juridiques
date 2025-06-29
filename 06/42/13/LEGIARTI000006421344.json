@@ -1,0 +1,156 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006421344",
+      "ANCIEN_ID": "ACAXXXXXXXX5X00089AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/13/LEGIARTI000006421344.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "89",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1958-08-30",
+        "DATE_FIN": "2011-05-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Des personnes",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089697"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Des actes de l'état civil",
+              "@debut": "1804-03-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117679"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre IV : Des actes de décès.",
+                "@debut": "1804-03-21",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006136105"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-08-30",
+          "@etat": "MODIFIE",
+          "@fin": "2011-05-19",
+          "@id": "LEGIARTI000006421344",
+          "@num": "89",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2011-05-19",
+          "@etat": "MODIFIE",
+          "@fin": "2020-01-01",
+          "@id": "LEGIARTI000024040273",
+          "@num": "89",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2020-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000039367547",
+          "@num": "89",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La requête est présentée au tribunal de grande instance du lieu de la mort ou de la disparition, si celle-ci s'est produite sur un territoire relevant de l'autorité de la France, sinon au tribunal du domicile ou de la dernière résidence du défunt ou du disparu ou, à défaut, au tribunal du lieu du port d'attache de l'aéronef ou du bâtiment qui le transportait. A défaut de tout autre, le tribunal de grande instance de Paris est compétent.<br/>\n<br/>   Si plusieurs personnes ont disparu au cours du même événement, une requête collective peut être présentée au tribunal du lieu de la disparition, à celui du port d'attache du bâtiment ou de l'aéronef ou, à défaut, au tribunal de grande instance de Paris.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code civil - art. 92 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006421376",
+        "@naturetexte": "CODE",
+        "@num": "92",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des pensions militaires d'invalidité et de... - art. R171 (Ab)",
+        "@cidtexte": "LEGITEXT000006074068",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006795215",
+        "@naturetexte": "CODE",
+        "@num": "R171",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1803-03-11",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1803-03-11 promulguée le 21 mars 1803",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 1945-10-30 art. 1",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 58-779 1958-08-23 art. 1 JORF 30 août 1958",
+        "@cidtexte": "JORFTEXT000000886781",
+        "@datesignatexte": "1958-08-23",
+        "@id": "JORFTEXT000000886781",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-779",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

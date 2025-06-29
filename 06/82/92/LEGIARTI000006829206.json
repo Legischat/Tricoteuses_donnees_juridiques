@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006829206",
+      "ANCIEN_ID": "UCIENXXXXXXB00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/92/LEGIARTI000006829206.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE II",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1988-04-08",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 avril 1988 RELATIF AUX EQUIPEMENTS ET AUX CARACTERISTIQUES THERMIQUES DES BATIMENTS D'HABITATION",
+          "@c_titre_court": "Arrêté du 5 avril 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000322499"
+        },
+        {
+          "#text": "Arrêté du 5 avril 1988 relatif aux équipements et aux caractéristiques thermiques des bâtiments d'habitation",
+          "@c_titre_court": "Arrêté du 5 avril 1988",
+          "@debut": "1988-04-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006058198"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1988-04-08",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108331"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CALCUL DE GV ref, BV ref et Cref",
+              "@debut": "1988-04-08",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128879"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000322499",
+      "@date_publi": "1988-04-08",
+      "@date_signature": "1988-04-05",
+      "@nature": "ARRETE",
+      "@nor": "EQUC8800232A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-04-08",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006829206",
+          "@num": "ANNEXE II",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "1. Calcul de GV ref<br/>\n<br/>   GV ref est égal à la somme des déperditions de référence par les parois, DP ref, et par renouvellement d'air, DR ref, ainsi calculés :<br/>\n 1.1. Calcul de DP ref<br/>\n 1.1.1. Maison individuelle<br/>\n<br/>   DP ref est donné par la formule :<br/>\n DP ref = aUS1 + bUS2 + cUS3 + dUS4 + eUS5 (RCL + 0,3)<br/>\n<br/>   S1, S2, S3, S4 et S5 sont les surfaces des parois en contact avec l'extérieur, un comble, un vide sanitaire, un local non chauffé ou le sol, exprimées en mètres carrés et concernant respectivement :<br/>\n<br/>   S1 la toiture, y compris les rampants de comble aménagé ;<br/>\n<br/>   S2 le plancher bas ;<br/>\n<br/>   S3 les murs, y compris les parois verticales de comble aménagé ;<br/>\n<br/>   S4 les portes, et<br/>\n<br/>   S5 les fenêtres et les portes-fenêtres.<br/>\n<br/>   S1, S2 et S3 sont comptées de l'intérieur des locaux. S4 et S5 sont comptées en tableau.<br/>\n<br/>   RCL est le rapport de la surface de clair des fenêtres et portes-fenêtres à leur surface en tableau. Si le logement comporte plusieurs types de fenêtres et portes-fenêtres, RCL est la moyenne pondérée suivant la surface en tableau de chaque type.<br/>\n<br/>   a, b, c, d et e sont des coefficients dépendant du type de chauffage et de la zone climatique. En voici les valeurs :<br/>\n<table>\n<tr>\n<td>:-----------------------------:</td>\n</tr>\n<tr>\n<td> :       TYPE DE CHAUFFAGE     :</td>\n</tr>\n<tr>\n<td> :              I              :</td>\n</tr>\n<tr>\n<td> :-----------------------------:</td>\n</tr>\n<tr>\n<td> :        :   ZONE CLIMATIQUE  :</td>\n</tr>\n<tr>\n<td> :        :--------------------:</td>\n</tr>\n<tr>\n<td> :Valeurs :  H1  :  H2  :  H3  :</td>\n</tr>\n<tr>\n<td> : de     :--------------------:</td>\n</tr>\n<tr>\n<td> :    a   : 0,25 : 0,25 : 0,25 :</td>\n</tr>\n<tr>\n<td> :    b   : 0,40 : 0,40 : 0,45 :</td>\n</tr>\n<tr>\n<td> :    c   : 0,60 : 0,60 : 0,60 :</td>\n</tr>\n<tr>\n<td> :    d   : 1,50 : 1,50 : 1,50 :</td>\n</tr>\n<tr>\n<td> :    e   : 2,25 : 2,45 : 2,45 :</td>\n</tr>\n<tr>\n<td> :-----------------------------:</td>\n</tr>\n<tr>\n<td> :-----------------------------:</td>\n</tr>\n<tr>\n<td> :       TYPE DE CHAUFFAGE     :</td>\n</tr>\n<tr>\n<td> :             II              :</td>\n</tr>\n<tr>\n<td> :-----------------------------:</td>\n</tr>\n<tr>\n<td> :        :   ZONE CLIMATIQUE  :</td>\n</tr>\n<tr>\n<td> :        :--------------------:</td>\n</tr>\n<tr>\n<td> :Valeurs :  H1  :  H2  :  H3  :</td>\n</tr>\n<tr>\n<td> : de     :--------------------:</td>\n</tr>\n<tr>\n<td> :    a   : 0,30 : 0,30 : 0,30 :</td>\n</tr>\n<tr>\n<td> :    b   : 0,45 : 0,50 : 0,55 :</td>\n</tr>\n<tr>\n<td> :    c   : 0,65 : 0,70 : 0,80 :</td>\n</tr>\n<tr>\n<td> :    d   : 3,50 : 3,50 : 3,50 :</td>\n</tr>\n<tr>\n<td> :    e   : 2,45 : 2,45 : 2,45 :</td>\n</tr>\n<tr>\n<td> :-----------------------------:</td>\n</tr>\n</table>\n<br/>\n<br/>   Si la surface des fenêtres et portes-fenêtres, S5, multipliée par RCL/0,7, est supérieure au cinquième de la surface habitable du logement, elle est comptée comme égale à cette limite et la différence est ajoutée à la surface des murs, S3. 1.1.2. Logement en immeuble collectif<br/>   DP ref est donné par la formule : DP ref = fU(S1 + S2) + gUS3 + hUS4 + iUS5U(RCL + 0,3) + jUS6 dont les termes diffèrent de ceux définis plus haut sur les points suivants :<br/>   S3, S4 et S5 concernent exclusivement les parois en contact avec l'extérieur ;<br/>   S6 concerne les murs et les portes en contact avec un escalier, une circulation commune ou tout autre local non chauffé.<br/>   f, g, h, i et j ont les valeurs suivantes :<table>\n<tr>\n<td>:-----------------------------:</td>\n</tr>\n<tr>\n<td> :       TYPE DE CHAUFFAGE     :</td>\n</tr>\n<tr>\n<td> :              I              :</td>\n</tr>\n<tr>\n<td> :-----------------------------:</td>\n</tr>\n<tr>\n<td> :        :   ZONE CLIMATIQUE  :</td>\n</tr>\n<tr>\n<td> :        :--------------------:</td>\n</tr>\n<tr>\n<td> :Valeurs :  H1  :  H2  :  H3  :</td>\n</tr>\n<tr>\n<td> : de     :--------------------:</td>\n</tr>\n<tr>\n<td> :    f   : 0,40 : 0,45 : 0,50 :</td>\n</tr>\n<tr>\n<td> :    g   : 0,65 : 0,65 : 0,75 :</td>\n</tr>\n<tr>\n<td> :    h   : 1,50 : 1,50 : 1,50 :</td>\n</tr>\n<tr>\n<td> :    i   : 2,25 : 2,45 : 2,45 :</td>\n</tr>\n<tr>\n<td> :    j   : 0,45 : 0,45 : 0,45 :</td>\n</tr>\n<tr>\n<td> :-----------------------------:</td>\n</tr>\n<tr>\n<td> :-----------------------------:</td>\n</tr>\n<tr>\n<td> :       TYPE DE CHAUFFAGE     :</td>\n</tr>\n<tr>\n<td> :             II              :</td>\n</tr>\n<tr>\n<td> :-----------------------------:</td>\n</tr>\n<tr>\n<td> :        :   ZONE CLIMATIQUE  :</td>\n</tr>\n<tr>\n<td> :        :--------------------:</td>\n</tr>\n<tr>\n<td> :Valeurs :  H1  :  H2  :  H3  :</td>\n</tr>\n<tr>\n<td> : de     :--------------------:</td>\n</tr>\n<tr>\n<td> :    f   : 0,50 : 0,50 : 0,60 :</td>\n</tr>\n<tr>\n<td> :    g   : 0,80 : 0,85 : 0,90 :</td>\n</tr>\n<tr>\n<td> :    h   : 3,50 : 3,50 : 3,50 :</td>\n</tr>\n<tr>\n<td> :    i   : 2,45 : 2,45 : 2,45 :</td>\n</tr>\n<tr>\n<td> :    j   : 0,45 : 0,45 : 0,45 :</td>\n</tr>\n<tr>\n<td> :-----------------------------:</td>\n</tr>\n</table>\n<br/>\n<br/>   La valeur de S5 pour les fenêtres et les portes-fenêtres de grandes dimensions est calculée comme ci-dessus pour les maisons individuelles.<br/>\n 1.1.3. Cas particulier du chauffage utilisant à la fois l'électricité<br/>\n et une autre source d'énergie<br/>\n<br/>   Si la partie électrique assure plus des trois quarts de la puissance utile, le chauffage est considéré comme de type I et DP ref se calcule avec les coefficients correspondant au type I dans les tableaux ci-dessus.<br/>\n<br/>   Si la partie électrique assure moins du quart de la puissance utile, le chauffage est considéré comme de type II et DP ref se calcule avec les coefficients correspondant au type II dans les tableaux ci-dessus.<br/>\n<br/>   Dans les autres cas, DP ref est égal à la moyenne arithmétique des valeurs obtenues avec les coefficients correspondant d'une part au type I et d'autre part au type II dans les tableaux ci-dessus.<br/>\n 1.2. Calcul de DR ref<br/>\n<br/>   DR ref est calculé en adoptant les hypothèses suivantes :<br/>\n<br/>   Le débit spécifique de ventilation correspond aux valeurs figurant dans la réglementation sur l'aération des logements ;<br/>\n<br/>   Le débit supplémentaire lié à l'exposition au vent correspond aux valeurs de référence figurant dans la méthode de calcul de GV agréée par le ministre chargé de la construction.<br/>\n 2. Calcul de BV ref<br/>\n<br/>   BV ref est calculé en adoptant les hypothèses suivantes :<br/>\n<br/>   Le coefficient GV est égal à GV ref ;<br/>\n<br/>   Le rayonnement solaire correspond à l'\"ensoleillement quelconque\" défini dans la méthode de calcul de BV, agréée par le ministre chargé de la construction ;<br/>\n<br/>   L'inertie thermique est l'inertie moyenne définie dans cette méthode.<br/>\n 3. Calcul de Cref<br/>\n<br/>   Cref est calculé en adoptant les hypothèses suivantes :<br/>\n<br/>   Les coefficients GV et BV sont égaux respectivement à GV ref et BV ref ;<br/>\n<br/>   Le système de référence de chauffage et de production d'eau chaude est défini en annexe III du présent arrêté par type de logement (maison individuelle ou immeuble collectif), par nature d'installation (individuelle ou collective) et selon l'énergie utilisée (électricité, combustible gazeux, combustible liquide, combustible solide ou réseau de chaleur).<br/>\n<br/>   S'il est fait appel, pour le chauffage et pour l'eau chaude, à deux systèmes différents du point de vue de la nature de l'installation ou de l'énergie utilisée, les deux systèmes de référence correspondants sont appliqués. Il en est de même s'il est fait appel pour le chauffage (ou pour l'eau chaude) à diverses natures d'installations ou à plusieurs énergies. Les modalités d'application sont définies dans la méthode de calcul de C.<br/>"
+  }
+}

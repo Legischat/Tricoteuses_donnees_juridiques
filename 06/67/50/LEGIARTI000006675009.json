@@ -1,0 +1,143 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006675009",
+      "ANCIEN_ID": "SHHC6XXXXXX022CAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/50/LEGIARTI000006675009.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22-2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-08-01",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-397 du 11 mai 1982 RELATIF A L'ORGANISATION ET AU FONCTIONNEMENT DES SERVICES MEDICAUX DU TRAVAIL EN AGRICULTURE",
+          "@c_titre_court": "Décret n°82-397 du 11 mai 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000336033"
+        },
+        {
+          "#text": "Décret n°82-397 du 11 mai 1982  RELATIF A L'ORGANISATION ET AU FONCTIONNEMENT DES SERVICES DE SANTE AU TRAVAIL EN AGRICULTURE",
+          "@c_titre_court": "Décret n°82-397 du 11 mai 1982",
+          "@debut": "2004-08-01",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006063765"
+        },
+        {
+          "#text": "Décret n°82-397 du 11 mai 1982  RELATIF A L'ORGANISATION ET AU FONCTIONNEMENT DES SERVICES DE SANTE AU TRAVAIL EN AGRICULTURE",
+          "@c_titre_court": "Décret n°82-397 du 11 mai 1982",
+          "@debut": "1982-12-01",
+          "@fin": "2004-08-01",
+          "@id_txt": "LEGITEXT000006063764"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "SECTION 4 : DES MISSIONS DES SERVICES DE SANTE AU TRAVAIL",
+            "@debut": "2004-08-01",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006102560"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "SOUS-SECTION I : ACTION SUR LE MILIEU DU TRAVAIL",
+              "@debut": "2004-08-01",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006124619"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000336033",
+      "@date_publi": "1982-05-13",
+      "@date_signature": "1982-05-11",
+      "@nature": "DECRET",
+      "@num": "82-397"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-05-01",
+          "@etat": "MODIFIE",
+          "@fin": "2004-08-01",
+          "@id": "LEGIARTI000006675008",
+          "@num": "22-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-08-01",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006675009",
+          "@num": "22-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le médecin du travail a libre accès aux lieux de travail. Il effectue la visite des entreprises et établissements dont il a la charge soit à son initiative, soit à la demande de l'employeur ou du comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, des délégués du personnel.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural R717-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret n°2004-782 du 29 juillet 2004 - art. 1 () JORF 1er août 2004",
+        "@cidtexte": "JORFTEXT000000421381",
+        "@datesignatexte": "2004-07-29",
+        "@id": "LEGIARTI000006233080",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRF0400944D",
+        "@num": "1",
+        "@numtexte": "2004-782",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. R717-5 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006596609",
+        "@naturetexte": "CODE",
+        "@num": "R717-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

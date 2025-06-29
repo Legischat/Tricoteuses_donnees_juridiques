@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006631140",
+      "ANCIEN_ID": "RIHFMXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/11/LEGIARTI000006631140.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-11-29",
+        "DATE_FIN": "2012-01-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2000-1149 du 27 novembre 2000 relatif aux groupements d'intérêt public constitués en application de l'article L. 812-5 du code rural",
+          "@c_titre_court": "Décret n° 2000-1149 du 27 novembre 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000220670"
+        },
+        {
+          "#text": "Décret n°2000-1149 du 27 novembre 2000 relatif aux groupements d'intérêt public constitués en application de l'article L. 812-5 du code rural",
+          "@c_titre_court": "Décret n°2000-1149 du 27 novembre 2000",
+          "@debut": "2000-11-29",
+          "@fin": "2012-01-28",
+          "@id_txt": "LEGITEXT000005630191"
+        }
+      ],
+      "@cid": "JORFTEXT000000220670",
+      "@date_publi": "2000-11-29",
+      "@date_signature": "2000-11-27",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "DECRET",
+      "@nor": "AGRE0001457D",
+      "@num": "2000-1149"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-11-29",
+          "@etat": "ABROGE",
+          "@fin": "2012-01-28",
+          "@id": "LEGIARTI000006631140",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La comptabilité du groupement est tenue et sa gestion effectuée selon les règles du droit public ou du droit privé en fonction des dispositions prévues par la convention constitutive du groupement.<br/>\n<br/>   Toutefois, lorsque le groupement est constitué exclusivement de personnes morales de droit public, les dispositions du décret du 29 décembre 1962 susvisé lui sont applicables.<br/>\n<br/>   Dans ce cas, l'agent comptable du groupement est nommé par arrêté conjoint du ministre de l'agriculture et du ministre chargé du budget. Il assiste aux séances de délibération et d'administration du groupement avec voix consultative.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L812-5",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n° 62-1587 du 29 décembre 1962",
+        "@cidtexte": "JORFTEXT000000299367",
+        "@datesignatexte": "1962-12-29",
+        "@id": "JORFTEXT000000299367",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1587",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2012-91\n du 26 janvier 2012 - art. 13",
+        "@cidtexte": "JORFTEXT000025202222",
+        "@datesignatexte": "2012-01-26",
+        "@id": "LEGIARTI000025203689",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EFIX1201366D",
+        "@num": "13",
+        "@numtexte": "2012-91",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

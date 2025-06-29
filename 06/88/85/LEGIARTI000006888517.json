@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888517",
+      "ANCIEN_ID": "UTIGHXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/85/LEGIARTI000006888517.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-01-01",
+        "DATE_FIN": "2004-05-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 août 1989 FIXANT LES CONDITIONS D'APPLICATION DE L'ART. R43-4 (AL. 5) DU CODE DE LA ROUTE",
+          "@c_titre_court": "Arrêté du 22 août 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000661546"
+        },
+        {
+          "#text": "Arrêté du 22 août 1989 fixant les conditions d'application de l'article R. 43-4 (5e alinéa) du code de la route",
+          "@c_titre_court": "Arrêté du 22 août 1989",
+          "@debut": "1990-01-01",
+          "@fin": "2004-05-21",
+          "@id_txt": "LEGITEXT000006059177"
+        }
+      ],
+      "@cid": "JORFTEXT000000661546",
+      "@date_publi": "1989-09-16",
+      "@date_signature": "1989-08-22",
+      "@nature": "ARRETE",
+      "@nor": "EQUS8900380A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2004-05-21",
+          "@id": "LEGIARTI000006888517",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Ces dispositions entreront en vigueur quatre mois après la publication du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2003-11-26 art. 21 JORF 21 mars 2004 en vigueur le 21 mai 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R43-4",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

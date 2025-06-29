@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006203520",
+      "ANCIEN_ID": "AKIAVXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/35/LEGIARTI000006203520.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-08-19",
+        "DATE_FIN": "1992-08-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 août 1972 relatif aux documents comptables des personnes inscrites sur la liste des conseils juridiques",
+          "@c_titre_court": "Arrêté du 4 août 1972",
+          "@debut": "1972-08-19",
+          "@fin": "1992-08-06",
+          "@id_txt": "LEGITEXT000005625577"
+        }
+      ],
+      "@cid": "LEGITEXT000005625577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-08-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-08-19",
+          "@etat": "ABROGE",
+          "@fin": "1992-08-06",
+          "@id": "LEGIARTI000006203520",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les locaux affectés à la réception de la clientèle, il doit être apposé, en évidence, une affiche comportant [*formalités de publicité - mentions obligatoires*] :<br/>\n<br/>   1° les prescriptions suivantes de l'article 25 du décret susvisé n° 72-671 du 13 juillet 1972 :<br/>\n<br/>   \"Tous les versements de fonds et remises d'effets ou valeurs faits à un conseil juridique donnent lieu à la délivrance d'un reçu\".<br/>\n<br/>   2° La reproduction intégrale du texte de l'article 6 (alinéa 1) du présent arrêté.<br/>\n<br/>   Ces indications doivent être portées en caractères très apparents.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1972-08-04 art. 6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1992-07-22 art. 4 JORF 6 août 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 72-671 1972-07-13 art. 24, art. 25",
+        "@cidtexte": "JORFTEXT000000679983",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000679983",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-671",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 72-671 1972-07-13 art. 25",
+        "@cidtexte": "JORFTEXT000000679983",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000679983",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-671",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

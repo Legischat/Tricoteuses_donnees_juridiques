@@ -1,0 +1,128 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006490636",
+      "ANCIEN_ID": "PJAXXXXXXXX5X068000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/06/LEGIARTI000006490636.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "68",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1960-06-08",
+        "DATE_FIN": "1975-04-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code pénal (ancien)",
+          "@c_titre_court": "CODE PENAL",
+          "@debut": "1810-02-12",
+          "@fin": "1994-03-01",
+          "@id_txt": "LEGITEXT000006071029"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1810-02-12",
+            "@fin": "1994-03-01",
+            "@id": "LEGISCTA000006093904"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LIVRE II",
+              "@debut": "1960-06-08",
+              "@fin": "1975-04-25",
+              "@id": "LEGISCTA000006119349"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "DES PERSONNES PUNISSABLES, EXCUSABLES OU RESPONSABLES POUR CRIMES OU POUR DELITS",
+                "@debut": "1960-06-08",
+                "@fin": "1975-04-25",
+                "@id": "LEGISCTA000006136905"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071029",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-06-08",
+          "@etat": "ABROGE",
+          "@fin": "1975-04-25",
+          "@id": "LEGIARTI000006490636",
+          "@num": "68",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Abrogé par l'article 1er de la loi n° 75-285 du 24 avril 1975.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1810-02-13",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1810-02-13 promulguée le 23 février 1810",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 60-529 1960-06-04 art. 9 JORF 8 juin 1960",
+        "@cidtexte": "JORFTEXT000000517670",
+        "@datesignatexte": "1960-06-04",
+        "@id": "JORFTEXT000000517670",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "60-529",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 75-285 1975-04-24 art. 1 JORF 25 avril 1975",
+        "@cidtexte": "JORFTEXT000000333966",
+        "@datesignatexte": "1975-04-24",
+        "@id": "JORFTEXT000000333966",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-285",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code pénal 73",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

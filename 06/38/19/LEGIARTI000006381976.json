@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006381976",
+      "ANCIEN_ID": "MSIJBXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/19/LEGIARTI000006381976.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-03-01",
+        "DATE_FIN": "1983-08-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 février 1982 TAUX DES INDEMNITES KILOMETRIQUES POUR L'USAGE DE LA VOITURE AUTOMOBILE PERSONNELLE SUR LE TERRITOIRE METROPOLITAIN DE LA FRANCE",
+          "@c_titre_court": "Arrêté du 26 février 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000864642"
+        },
+        {
+          "#text": "Arrêté du 26 février 1982 fixant les taux des indemnités forfaitaires de déplacement prévues aux articles 28 et 29 du décret n° 66-619 du 10 août 1966 modifié.",
+          "@c_titre_court": "Arrêté du 26 février 1982",
+          "@debut": "1982-03-01",
+          "@fin": "1983-08-01",
+          "@id_txt": "LEGITEXT000006070535"
+        }
+      ],
+      "@cid": "JORFTEXT000000864642",
+      "@date_publi": "1982-03-02",
+      "@date_signature": "1982-02-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-03-01",
+          "@etat": "ABROGE",
+          "@fin": "1983-08-01",
+          "@id": "LEGIARTI000006381976",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'application de l'article 29 du décret du 10 août 1966 susvisé, les taux des indemnités kilométriques pour l'usage d'une motocyclette, d'un vélomoteur ou d'une bicyclette à moteur auxiliaire sur le territoire métropolitain de la France sont les suivants :<br/>\n<br/>   Motocyclette (cylindrée supérieure à 125 centimètres cubes) :<br/>\n<br/>   0,41 F ;<br/>\n<br/>   Vélomoteur (cylindrée de 50 à 125 centimètres cubes) : 0,30 F ;<br/>\n<br/>   Bicyclette à moteur auxiliaire (cylindrée inférieure à    50 centimètres cubes) : 0,24 F.<br/>\n<br/>   Pour les vélomoteurs et les bicyclettes à moteur auxiliaire, le montant mensuel des indemnités kilométriques ne pourra être inférieur à une somme forfaitaire de 24 F.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 66-619 1966-08-10 ART. 28 et ART. 29",
+        "@cidtexte": "JORFTEXT000000876794",
+        "@datesignatexte": "1966-08-10",
+        "@id": "JORFTEXT000000876794",
+        "@naturetexte": "DECRET",
+        "@numtexte": "66-619",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°66-619 du 10 août 1966 - art. 29 (Ab)",
+        "@cidtexte": "JORFTEXT000000876794",
+        "@datesignatexte": "1966-08-10",
+        "@id": "LEGIARTI000006503051",
+        "@naturetexte": "DECRET",
+        "@num": "29",
+        "@numtexte": "66-619",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 5 août 1983, v. init.",
+        "@cidtexte": "JORFTEXT000000655495",
+        "@datesignatexte": "1983-08-05",
+        "@id": "JORFTEXT000000655495",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

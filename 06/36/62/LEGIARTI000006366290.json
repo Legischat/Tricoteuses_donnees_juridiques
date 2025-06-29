@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006366290",
+      "ANCIEN_ID": "MRIABXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/62/LEGIARTI000006366290.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-02-03",
+        "DATE_FIN": "1986-12-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 janvier 1983 relatif aux taux des prêts et avances consentis ou bonifiés par les régions.",
+          "@c_titre_court": "Arrêté du 14 janvier 1983",
+          "@debut": "1983-02-03",
+          "@fin": "1986-12-11",
+          "@id_txt": "LEGITEXT000006070312"
+        }
+      ],
+      "@cid": "LEGITEXT000006070312",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-01-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-02-03",
+          "@etat": "ABROGE",
+          "@fin": "1986-12-11",
+          "@id": "LEGIARTI000006366290",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent arrêté annule et remplace l'arrêté du 18 novembre 1982 relatif aux taux des prêts et avances consentis ou bonifiés par les régions.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-11-18",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1986-12-09 art. 2 jorf 11 décembre 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°82-6 du 7 janvier 1982 - art. 4, v. init.",
+        "@cidtexte": "JORFTEXT000000691744",
+        "@datesignatexte": "1982-01-07",
+        "@id": "JORFARTI000002280410",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@numtexte": "82-6",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 82-808 1982-09-22",
+        "@cidtexte": "JORFTEXT000000334632",
+        "@datesignatexte": "1982-09-22",
+        "@id": "JORFTEXT000000334632",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-808",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

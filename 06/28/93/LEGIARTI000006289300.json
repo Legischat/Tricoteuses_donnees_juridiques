@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006289300",
+      "ANCIEN_ID": "ASIRIXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/93/LEGIARTI000006289300.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1997-03-02",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 février 1997 relatif à la création d'obligations assimilables du    Trésor à taux variable 25 janvier 2009",
+          "@c_titre_court": "Arrêté du 27 février 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000565197"
+        },
+        {
+          "#text": "Arrêté du 27 février 1997 relatif à la création d'obligations assimilables du Trésor à taux variable 25 janvier 2009",
+          "@c_titre_court": "Arrêté du 27 février 1997",
+          "@debut": "1997-03-02",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005622933"
+        }
+      ],
+      "@cid": "JORFTEXT000000565197",
+      "@date_publi": "1997-03-02",
+      "@date_signature": "1997-02-27",
+      "@ministere": "MINISTERE DE L'ECONOMIE ET DES FINANCES",
+      "@nature": "ARRETE",
+      "@nor": "ECOT9710297A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-03-02",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006289300",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est créé une nouvelle ligne d'obligations assimilables du Trésor à taux variable d'échéance 25 janvier 2009.<br/>\n<br/>   Ces obligations ont une valeur nominale de 2 000 F. Elles sont remboursées le 25 janvier 2009 à un prix égal au pair, soit 2 000 F.<br/>\n<br/>   L'intérêt nominal est préfixé et payable à terme échu les 25 avril, juillet, octobre et janvier de chaque année. Il est payable pour la première fois le 25 avril 1997.<br/>\n<br/>   Cet intérêt est fixé par référence au taux de l'échéance constante à 10 ans (TEC 10) constaté 5 jours ouvrés avant le début de la période d'intérêt. Son montant est calculé par application de la formule suivante :<br/>\n<br/>   F 2 000 x <(1 + TEC 10 - 1 %)1/4 - 1>, arrondi au centime supérieur.<br/>\n<br/>   Le taux de l'échéance constante à 10 ans est publié quotidiennement par le ministère de l'économie et des finances.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1999-01-20 art. 1 *valeur du coupon à échéance*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1999-04-21 art. 1 *intérêt à verser*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

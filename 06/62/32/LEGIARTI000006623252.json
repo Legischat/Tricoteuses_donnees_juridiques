@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006623252",
+      "ANCIEN_ID": "RGHICXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/32/LEGIARTI000006623252.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-01-01",
+        "DATE_FIN": "2009-10-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 3 décembre 1971 concernant la définition de l'appellation d'origine contrôlée \"Collioure\"",
+          "@c_titre_court": "Décret du 3 décembre 1971",
+          "@debut": "1971-12-12",
+          "@fin": "2009-10-31",
+          "@id_txt": "LEGITEXT000006071712"
+        }
+      ],
+      "@cid": "LEGITEXT000006071712",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1971-12-03",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-12-12",
+          "@etat": "MODIFIE",
+          "@fin": "2007-01-01",
+          "@id": "LEGIARTI000006623251",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2009-10-31",
+          "@id": "LEGIARTI000006623252",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Seuls ont droit à l'appellation contrôlée \"Collioure\" les vins rouges qui, répondant aux conditions ci-après, ont été récoltés sur les territoires des communes suivantes du département des Pyrénées-Orientales : Banyuls, Cerbère, Collioure et Port-Vendres, à l'exception des terrains qui, par la nature de leur sol ou leur situation, sont impropres à produire le vin de l'appellation.<br/>\n<br/>   Les limites de l'aire de production ainsi définie seront reportées sur les plans cadastraux de ces communes par les experts désignés par le comité directeur de l'institut national de l'origine et de la qualité, et les plans établis par leurs soins seront, après approbation de l'institut national de l'origine et de la qualité, déposés à la mairie des communes intéressées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 2006-11 2006-01-05 art. 73 IV, VI JORF 6 janvier 2006 en vigueur au plus tard le 1er janvier 2007",
+        "@cidtexte": "JORFTEXT000000264992",
+        "@datesignatexte": "2006-01-05",
+        "@id": "JORFTEXT000000264992",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX0500091L",
+        "@numtexte": "2006-11",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2009-1338 du 28 octobre 2009 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000021214105",
+        "@datesignatexte": "2009-10-28",
+        "@id": "LEGIARTI000021227881",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRT0919706D",
+        "@num": "2",
+        "@numtexte": "2009-1338",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

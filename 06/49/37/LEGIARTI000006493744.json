@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006493744",
+      "ANCIEN_ID": "ACHFDXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/37/LEGIARTI000006493744.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1953-10-01",
+        "DATE_FIN": "2008-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°53-968 du 30 septembre 1953 NOUVELLE REGLEMENTATION DE LA VENTE A CREDIT DES VEHICULES AUTOMOBILES",
+          "@c_titre_court": "Décret n°53-968 du 30 septembre 1953",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000299708"
+        },
+        {
+          "#text": "Décret n°53-968 du 30 septembre 1953 relatif à la vente à crédit des véhicules automobiles",
+          "@c_titre_court": "Décret n°53-968 du 30 septembre 1953",
+          "@debut": "1953-10-01",
+          "@fin": "2008-07-01",
+          "@id_txt": "LEGITEXT000006060677"
+        }
+      ],
+      "@cid": "JORFTEXT000000299708",
+      "@date_publi": "1953-10-01",
+      "@date_signature": "1953-09-30",
+      "@nature": "DECRET",
+      "@num": "53-968"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1953-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2008-07-01",
+          "@id": "LEGIARTI000006493744",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La réalisation du gage se fera, quelle que soit la qualité du débiteur, conformément aux dispositions de l'article 93 du code de commerce.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Date de fin de vigueur indéterminée",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°53-968 du 30 septembre 1953 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000299708",
+        "@datesignatexte": "1953-09-30",
+        "@id": "LEGIARTI000006493753",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "53-968",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 92-755 1992-07-31 art. 107, 108, 177 *faculté de vente amiable pour le débiteur*",
+        "@cidtexte": "JORFTEXT000000541408",
+        "@datesignatexte": "1992-07-31",
+        "@id": "JORFTEXT000000541408",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC9220234D",
+        "@numtexte": "92-755",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Ordonnance n°2006-346 du 23 mars 2006 - art. 58, v. init.",
+        "@cidtexte": "JORFTEXT000000639090",
+        "@datesignatexte": "2006-03-23",
+        "@id": "JORFARTI000001296231",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0600032R",
+        "@num": "58",
+        "@numtexte": "2006-346",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce 93",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000005634379",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

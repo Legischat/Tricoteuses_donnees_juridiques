@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006636954",
+      "ANCIEN_ID": "ADIYQXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/69/LEGIARTI000006636954.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-08-08",
+        "DATE_FIN": "1985-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 août 1985 relatif aux prix des places de cinéma",
+          "@c_titre_court": "Arrêté du 8 août 1985",
+          "@debut": "1985-08-08",
+          "@fin": "1985-12-31",
+          "@id_txt": "LEGITEXT000006071979"
+        }
+      ],
+      "@cid": "LEGITEXT000006071979",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-08-08",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-08-08",
+          "@etat": "PERIME",
+          "@fin": "1985-12-31",
+          "@id": "LEGIARTI000006636954",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les dispositions du présent arrêté ne s'appliquent pas aux prestations de services faisant l'objet de mesures spécifiques prises par les préfets en vertu de l'article 6 de l'arrêté n° 82-96 / A du 22 octobre 1982.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 82-96/A 1982-10-22 art. 6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 84-74/A 1984-11-19",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté 85-52/A 1985-08-08 BOCC n° 13, 9 août 1985",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

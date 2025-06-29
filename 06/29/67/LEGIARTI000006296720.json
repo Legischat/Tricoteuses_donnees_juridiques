@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006296720",
+      "ANCIEN_ID": "AAEBSXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/67/LEGIARTI000006296720.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-05-18",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-409 du 17 mai 1982 PORTANT STATUT DES SOCIETES COOPERATIVES DE BANQUES",
+          "@c_titre_court": "Loi n°82-409 du 17 mai 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503963"
+        },
+        {
+          "#text": "Loi n° 82-409 du 17 mai 1982 portant statut des sociétés coopératives de banque",
+          "@c_titre_court": "Loi n° 82-409 du 17 mai 1982",
+          "@debut": "1982-05-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068743"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Dispositions générales.",
+            "@debut": "1982-05-18",
+            "@fin": "2001-01-01",
+            "@id": "LEGISCTA000006084182"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000503963",
+      "@date_publi": "1982-05-18",
+      "@date_signature": "1982-05-17",
+      "@nature": "LOI",
+      "@num": "82-409"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-18",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006296720",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sociétés coopératives de banque sont des banques inscrites et soumises comme telles aux dispositions législatives et réglementaires applicables à ces banques [*régime juridique*].<br/>\n<br/>   Elles peuvent recevoir des dépôts de toute personne physique ou morale.<br/>\n<br/>   Elles doivent accorder 80 p. 100 au moins [*pourcentage minimum*] de leurs concours à leurs sociétaires, aux membres de ceux-ci, à des sociétés coopératives, à des sociétés mutualistes ou des sociétés à forme mutuelle régies par le code des assurances, à des associations sans but lucratif régies par la loi du 1er juillet 1901 ou la loi locale applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle [*Alsace et Lorraine*] ainsi qu'à des collectivités ou établissements publics et des sociétés d'économie mixte en application de l'article 9 de la loi de finances rectificative pour 1975 (n° 75-1242 du 27 décembre 1975) [*bénéficiaires - conditions*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1901-07-01",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°82-409 du 17 mai 1982 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000503963",
+        "@datesignatexte": "1982-05-17",
+        "@id": "LEGIARTI000006296790",
+        "@naturetexte": "LOI",
+        "@num": "7",
+        "@numtexte": "82-409",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L512-63 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006655537",
+        "@naturetexte": "CODE",
+        "@num": "L512-63",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

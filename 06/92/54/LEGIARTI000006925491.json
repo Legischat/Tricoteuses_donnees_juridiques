@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006925491",
+      "ANCIEN_ID": "AKHEDXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/54/LEGIARTI000006925491.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1995-08-24",
+        "DATE_FIN": "2009-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 95-935 du 17 août 1995 portant application de la loi n° 95-66 du 20 janvier 1995 relative à l'accès à l'activité de conducteur et à la profession d'exploitant de taxi",
+          "@c_titre_court": "Décret n° 95-935 du 17 août 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000737295"
+        },
+        {
+          "#text": "Décret n°95-935 du 17 août 1995 portant application de la loi n° 95-66 du 20 janvier 1995 relative à l'accès à l'activité de conducteur et à la profession d'exploitant de taxi",
+          "@c_titre_court": "Décret n°95-935 du 17 août 1995",
+          "@debut": "1995-08-24",
+          "@fin": "2017-01-01",
+          "@id_txt": "LEGITEXT000005619273"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : L'activité de conducteur de taxi.",
+            "@debut": "1995-08-24",
+            "@fin": "2015-01-01",
+            "@id": "LEGISCTA000006113223"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000737295",
+      "@date_publi": "1995-08-24",
+      "@date_signature": "1995-08-17",
+      "@nature": "DECRET",
+      "@nor": "INTD9500216D",
+      "@num": "95-935"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-08-24",
+          "@etat": "MODIFIE",
+          "@fin": "2009-07-01",
+          "@id": "LEGIARTI000006925491",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2009-07-01",
+          "@etat": "MODIFIE",
+          "@fin": "2010-10-21",
+          "@id": "LEGIARTI000020136300",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2010-10-21",
+          "@etat": "ABROGE",
+          "@fin": "2015-01-01",
+          "@id": "LEGIARTI000022931324",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Nul ne peut exercer la profession de conducteur de taxi [*conditions requises - interdictions*] lorsqu'il a fait l'objet d'une condamnation définitive mentionnée au bulletin n° 2 du casier judiciaire pour l'un des délits définis aux articles L. 1er, L. 2, L. 4, L. 9, L. 12 ou L. 19 du code de la route ou d'une condamnation à une peine d'au moins six mois fermes d'emprisonnement pour vol, escroquerie, abus de confiance, outrage public à la pudeur, infraction à la législation en matière de stupéfiants ou pour atteinte volontaire à l'intégrité de la personne.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 95-66 1995-01-20",
+        "@cidtexte": "JORFTEXT000000369243",
+        "@datesignatexte": "1995-01-20",
+        "@id": "JORFTEXT000000369243",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9400061L",
+        "@numtexte": "95-66",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°95-935 du 17 août 1995 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000737295",
+        "@datesignatexte": "1995-08-17",
+        "@id": "LEGIARTI000006925536",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTD9500216D",
+        "@num": "7",
+        "@numtexte": "95-935",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route L1, L2, L4, L9, L12, L19",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

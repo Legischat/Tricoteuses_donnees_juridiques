@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861785",
+      "ANCIEN_ID": "UPIIBXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/17/LEGIARTI000006861785.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-05-02",
+        "DATE_FIN": "1986-03-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 11 avril 1972 relatif à la limitation du niveau sonore des bruits aériens émis par les groupes moto-compresseurs.",
+          "@c_titre_court": "Arrêté du 11 avril 1972",
+          "@debut": "1972-05-02",
+          "@fin": "1986-03-26",
+          "@id_txt": "LEGITEXT000006074519"
+        }
+      ],
+      "@cid": "LEGITEXT000006074519",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-04-11",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-05-02",
+          "@etat": "ABROGE",
+          "@fin": "1986-03-26",
+          "@id": "LEGIARTI000006861785",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "[*L'arrêté du 2 janvier 1986 abroge l' arrêté du 11 avril 1972 en ce qui concerne les dispositions relatives à la construction et à la mise en vente.*]<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La commande du démarrage ou de l'arrêt et le fonctionnement des groupes moto-compresseurs construits ou importés après le 1er octobre 1972 doivent s'effectuer sans démontage ou déplacement des dispositifs d'insonorisation.<br/>\n<br/>   Les appareils de contrôle doivent être visibles de l'extérieur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1972-04-11 ART. 1 *date d'application*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1986-01-02 art. 8 JORF 26 janvier 1986 en vigueur le 26 mars 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 69-380 1969-04-18",
+        "@cidtexte": "JORFTEXT000000500110",
+        "@datesignatexte": "1969-04-18",
+        "@id": "JORFTEXT000000500110",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-380",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

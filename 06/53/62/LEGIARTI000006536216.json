@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006536216",
+      "ANCIEN_ID": "PPIECXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/62/LEGIARTI000006536216.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-10-05",
+        "DATE_FIN": "2002-02-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 octobre 1985 portant organisation et attributions de la direction générale de l'administration territoriale",
+          "@c_titre_court": "Arrêté du 3 octobre 1985",
+          "@debut": "1985-10-05",
+          "@fin": "2002-02-23",
+          "@id_txt": "LEGITEXT000006071276"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section IV",
+            "@debut": "1985-10-05",
+            "@fin": "2002-02-23",
+            "@id": "LEGISCTA000006096340"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071276",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-10-03",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-10-05",
+          "@etat": "ABROGE",
+          "@fin": "2002-02-23",
+          "@id": "LEGIARTI000006536216",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>      L'article 3 de l'arrêté du 3 août 1974 relatif à l'organisation et aux attributions du haut fonctionnaire de défense est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-08-03 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2002-02-20 art. 10 JORF 23 février 2002",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 85-1057 1985-10-02",
+        "@cidtexte": "JORFTEXT000000871537",
+        "@datesignatexte": "1985-10-02",
+        "@id": "JORFTEXT000000871537",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1057",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

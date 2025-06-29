@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721944",
+      "ANCIEN_ID": "SPIZ4XXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/19/LEGIARTI000006721944.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-01-01",
+        "DATE_FIN": "2011-06-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 septembre 1990 relatif à l'échelonnement indiciaire des    personnels administratifs de la fonction publique hospitalière",
+          "@c_titre_court": "Arrêté du 21 septembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000533073"
+        },
+        {
+          "#text": "Arrêté du 21 septembre 1990 relatif à l'échelonnement indiciaire des personnels administratifs de la fonction publique hospitalière",
+          "@c_titre_court": "Arrêté du 21 septembre 1990",
+          "@debut": "1990-01-01",
+          "@fin": "2011-06-16",
+          "@id_txt": "LEGITEXT000006076532"
+        }
+      ],
+      "@cid": "JORFTEXT000000533073",
+      "@date_publi": "1990-09-23",
+      "@date_signature": "1990-09-21",
+      "@ministere": "MINISTERE DE LA SOLIDARITE DE LA SANTE ET DE LA PROTECTION SOCIALE",
+      "@nature": "ARRETE",
+      "@nor": "SPSH9001848A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2011-06-16",
+          "@id": "LEGIARTI000006721944",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'échelle indiciaire applicable au corps des adjoints des cadres hospitaliers et au corps des secrétaires médicaux des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée est fixée conformément au tableau II annexé au présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-09-21 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n° 86-33 du 9 janvier 1986",
+        "@cidtexte": "JORFTEXT000000512459",
+        "@datesignatexte": "1986-01-09",
+        "@id": "JORFTEXT000000512459",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-33",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 14 juin 2011 - art. 3",
+        "@cidtexte": "JORFTEXT000024169595",
+        "@datesignatexte": "2011-06-14",
+        "@id": "LEGIARTI000024181046",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ETSH1113981A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

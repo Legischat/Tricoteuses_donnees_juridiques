@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006730753",
+      "ANCIEN_ID": "SQILJXXXXXXA21AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/73/07/LEGIARTI000006730753.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-01-31",
+        "DATE_FIN": "2003-10-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 janvier 1995 portant homologation du règlement de l'Agence    française du sang relatif aux bonnes pratiques de qualification biologique du    don et pris en application de l'article L. 668-3 du code de la santé publique",
+          "@c_titre_court": "Arrêté du 4 janvier 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000551221"
+        },
+        {
+          "#text": "Arrêté du 4 janvier 1995 portant homologation du règlement de l'Agence française du sang relatif aux bonnes pratiques de qualification biologique du don et pris en application de l'article L. 668-3 du code de la santé publique",
+          "@c_titre_court": "Arrêté du 4 janvier 1995",
+          "@debut": "1995-01-31",
+          "@fin": "2003-10-01",
+          "@id_txt": "LEGITEXT000005617649"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1995-01-31",
+            "@fin": "2003-10-01",
+            "@id": "LEGISCTA000006105722"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Bonnes pratiques de qualification biologique du don",
+              "@debut": "1995-01-31",
+              "@fin": "2003-10-01",
+              "@id": "LEGISCTA000006126649"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "IV  - AUTOMATION ET INFORMATISATION.",
+                "@debut": "1995-01-31",
+                "@fin": "2003-10-01",
+                "@id": "LEGISCTA000006141383"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "IV.2. Traitement des informations et des échantillons durant l'analyse.",
+                  "@debut": "1995-01-31",
+                  "@fin": "2003-10-01",
+                  "@id": "LEGISCTA000006155688"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000551221",
+      "@date_publi": "1995-01-31",
+      "@date_signature": "1995-01-04",
+      "@ministere": "MINISTERE DES AFFAIRES SOCIALES, DE LA SANTE ET DE LA VILLE",
+      "@nature": "ARRETE",
+      "@nor": "SANP9500024A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-01-31",
+          "@etat": "ABROGE",
+          "@fin": "2003-10-01",
+          "@id": "LEGIARTI000006730753",
+          "@num": "Annexe",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>      Pour toute analyse automatisée, l'identification positive des échantillons à tester doit être réalisée au moyen d'un automate de distribution, par lecture du code à barres imprimé sur l'étiquette de chaque échantillon.<br/>\n<br/>   Lorsque le laboratoire traite des échantillons en provenance d'autres établissements de transfusion sanguine, leur identification et leur enregistrement doivent permettre de remonter au donneur et aux résultats des analyses biologiques et tests de dépistage pratiqués sur les dons antérieurs.<br/>\n<br/>   L'automate d'identification positive des échantillons et les lecteurs de réactions doivent être connectés à un ordinateur associant de façon automatique et univoque le code à barres précédemment identifié et le résultat brut de l'échantillon correspondant. La lecture de l'identifiant doit être contrôlée et auto-validée.<br/>\n IV.2.1. Pour les analyses immuno-hématologiques<br/>\n<br/>      Le logiciel doit interpréter les résultats en fonction des valeurs seuils, valider chaque série de réactions à l'aide des témoins et des contrôles, valider le déroulement effectif de la réaction et interpréter les échantillons en terme de résultats nets. Ces résultats sont de type Cohérent, Incohérent ou Invalide.<br/>\n<br/>   Un résultat d'analyse est considéré comme Incohérent par le système informatique, en cas d'anomalie. Par exemple, la présence simultanée d'un antigène et de l'anticorps correspondant (groupage ABO et identification des anticorps antiérythrocytaires) ou l'absence de deux antigènes antithétiques (phénotypage Rh-K et autres phénotypages) génère un signal de type Incohérent.<br/>\n<br/>   Un résultat d'analyse est considéré comme Invalide par le système informatique lorsque le déroulement effectif de la réaction n'est pas validé.<br/>\n<br/>   Le logiciel doit constituer un fichier imprimable permettant d'associer pour chaque échantillon : le numéro de don, le type d'analyse, la date de l'analyse, les noms et les numéros de lots des réactifs, la référence du distributeur et du lecteur utilisés, le résultat brut et le résultat net. Ce fichier sert au transfert des résultats et à leur archivage.<br/>\n IV.2.2 Pour les tests de dépistage des maladies transmissibles<br/>\n<br/>      Le logiciel doit calculer les valeurs seuils, valider chaque support de réaction à l'aide des témoins et des contrôles, valider le déroulement effectif de la réaction et interpréter les échantillons en terme de résultats nets. Ces résultats nets sont de type Négatif, Réactif initial ou Invalide.<br/>\n<br/>   Un résultat d'analyse est considéré comme Invalide par le système informatique lorsqu'il n'est pas validé soit en raison du déroulement de l'analyse biologique, soit par l'analyse des témoins et contrôles précités.<br/>\n<br/>   Un résultat d'analyse est considéré comme Réactif initial par le système informatique lorsque le résultat du test mis en oeuvre pour un marqueur donné est dans la zone des positifs.<br/>\n<br/>   Le logiciel doit constituer un fichier imprimable permettant d'associer pour chaque échantillon : le numéro de don, le type d'analyse, la date de l'analyse, le nom et le numéro de lot du réactif, la référence du distributeur et du lecteur utilisés, la valeur seuil, le résultat brut et le résultat net. Ce fichier sert au transfert des résultats et à leur archivage.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 10 septembre 2003, v. init.",
+        "@cidtexte": "JORFTEXT000000797574",
+        "@datesignatexte": "2003-09-10",
+        "@id": "JORFTEXT000000797574",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SANP0323558A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006502512",
+      "ANCIEN_ID": "PKH3BXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/25/LEGIARTI000006502512.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-01-01",
+        "DATE_FIN": "1991-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-280 du 18 mars 1976 RELATIF A L'ATTRIBUTION DE DIVERSES INDEMNITES A CERTAINS AGENTS DE L'INSTITUTION NATIONALE DES INVALIDES",
+          "@c_titre_court": "Décret n°76-280 du 18 mars 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000304155"
+        },
+        {
+          "#text": "Décret n°76-280 du 18 mars 1976 relatif à l'attribution de diverses indemnités à certains agents de l'institution nationale des invalides.",
+          "@c_titre_court": "Décret n°76-280 du 18 mars 1976",
+          "@debut": "1975-01-01",
+          "@fin": "2006-08-04",
+          "@id_txt": "LEGITEXT000006062468"
+        }
+      ],
+      "@cid": "JORFTEXT000000304155",
+      "@date_publi": "1976-03-30",
+      "@date_signature": "1976-03-18",
+      "@nature": "DECRET",
+      "@num": "76-280"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1991-01-01",
+          "@id": "LEGIARTI000006502512",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 72-1031 1992-09-25 art. 4 JORF 26 septembre 1992 en vigueur le 1er août 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°76-280 du 18 mars 1976 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000304155",
+        "@datesignatexte": "1976-03-18",
+        "@id": "LEGIARTI000006502515",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "76-280",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°92-1032 du 25 septembre 1992 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000542804",
+        "@datesignatexte": "1992-09-25",
+        "@id": "LEGIARTI000006469159",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ACVA9210089D",
+        "@num": "4",
+        "@numtexte": "92-1032",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

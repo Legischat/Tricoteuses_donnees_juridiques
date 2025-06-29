@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006791170",
+      "ANCIEN_ID": "SSICDWXXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/79/11/LEGIARTI000006791170.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1998-04-15",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 avril 1998 relatif aux spécifications physiques et logiques de la carte d'assurance maladie et aux données qu'elle contient",
+          "@c_titre_court": "Arrêté du 9 avril 1998",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000388332"
+        },
+        {
+          "#text": "Arrêté du 9 avril 1998 relatif aux spécifications physiques et logiques de la carte d'assurance maladie et aux données qu'elle contient",
+          "@c_titre_court": "Arrêté du 9 avril 1998",
+          "@debut": "1998-04-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005625616"
+        }
+      ],
+      "@cid": "JORFTEXT000000388332",
+      "@date_publi": "1998-04-15",
+      "@date_signature": "1998-04-09",
+      "@ministere": "MINISTERE DE L'EMPLOI ET DE LA SOLIDARITE",
+      "@nature": "ARRETE",
+      "@nor": "MESS9821496A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1998-04-15",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006791170",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La carte d'assurance maladie mentionnée à l'article R. 161-33-1 du code de la sécurité sociale est une carte à microprocesseur, conforme aux normes ISO 7816, tirets 1 à 4, de technologie réinscriptible.<br/>\n<br/>   Les données administratives de la carte ne sont pas protégées en lecture par un dispositif technique. L'écriture dans la carte nécessite la présentation d'une clé émetteur.<br/>\n<br/>   Un dispositif de blocage de la carte peut être mis en oeuvre lors d'une mise à jour de la carte, permettant d'en interdire l'utilisation. Ce dispositif de blocage est réversible.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de la sécurité sociale. - art. R161-33-1 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006747408",
+        "@naturetexte": "CODE",
+        "@num": "R161-33-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

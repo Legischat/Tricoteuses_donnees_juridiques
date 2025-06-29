@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862441",
+      "ANCIEN_ID": "UPIJXXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/24/LEGIARTI000006862441.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-10-27",
+        "DATE_FIN": "1994-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 mars 1972 relatif à la réception CEE (Communauté économique européenne) des véhicules et homologation CEE des dispositifs d'équipement pour véhicules",
+          "@c_titre_court": "Arrêté du 10 mars 1972",
+          "@debut": "1972-06-09",
+          "@fin": "1994-12-31",
+          "@id_txt": "LEGITEXT000006074554"
+        }
+      ],
+      "@cid": "LEGITEXT000006074554",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-03-10",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-06-09",
+          "@etat": "MODIFIE",
+          "@fin": "1987-10-27",
+          "@id": "LEGIARTI000006862440",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-10-27",
+          "@etat": "ABROGE",
+          "@fin": "1994-12-31",
+          "@id": "LEGIARTI000006862441",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le directeur régional de l'industrie et de la recherche d'Ile-de-France adresse dans le délai d'un mois aux autorités compétentes des autres Etats membres de la Communauté économique européenne, copie des fiches de renseignements et de réception établies pour chaque type de véhicule qu'il réceptionne ou refuse de réceptionner.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-10-13 art. 3 jorf 27 octobre 1987",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1994-09-16 art. 12 JORF 31 décembre 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R109-1 R109-2",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Directive CEE 156 1970-02-06",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

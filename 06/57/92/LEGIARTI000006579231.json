@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579231",
+      "ANCIEN_ID": "RAA0XXXXXXX0008AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/92/LEGIARTI000006579231.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-04-19",
+        "DATE_FIN": "1964-08-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Régime du sol",
+            "@debut": "1955-04-19",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006098247"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : De l'aménagement foncier",
+              "@debut": "1955-04-19",
+              "@fin": "1992-12-12",
+              "@id": "LEGISCTA000006121347"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Dispositions communes aux divers modes d'aménagement foncier",
+                "@debut": "1955-04-19",
+                "@fin": "1992-11-12",
+                "@id": "LEGISCTA000006138175"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 5 : Dispositions conservatoires et clôture des opérations.",
+                  "@debut": "1955-04-19",
+                  "@fin": "1992-11-12",
+                  "@id": "LEGISCTA000006152072"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "ABROGE",
+          "@fin": "1964-08-25",
+          "@id": "LEGIARTI000006579231",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-03",
+          "@etat": "ABROGE",
+          "@fin": "1992-11-12",
+          "@id": "LEGIARTI000006579232",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   (texte abrogé).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°64-862 du 3 août 1964 - art. 33 (Ab) JORF 25 août 1964",
+        "@cidtexte": "JORFTEXT000000303044",
+        "@datesignatexte": "1964-08-03",
+        "@id": "LEGIARTI000006602688",
+        "@naturetexte": "DECRET",
+        "@num": "33",
+        "@numtexte": "64-862",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

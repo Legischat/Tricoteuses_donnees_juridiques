@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273134",
+      "ANCIEN_ID": "FAEBAXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/31/LEGIARTI000006273134.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1978-12-30",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°78-1239 du 29 décembre 1978 DE FINANCES POUR 1979",
+          "@c_titre_court": "Loi n°78-1239 du 29 décembre 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886458"
+        },
+        {
+          "#text": "Loi n° 78-1239 du 29 décembre 1978 DE FINANCES POUR 1979 (1)",
+          "@c_titre_court": "Loi n° 78-1239 du 29 décembre 1978",
+          "@debut": "1978-12-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068621"
+        }
+      ],
+      "@cid": "JORFTEXT000000886458",
+      "@date_publi": "1978-12-30",
+      "@date_signature": "1978-12-29",
+      "@nature": "LOI",
+      "@num": "78-1239"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-12-30",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006273134",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001310612",
+          "@num": "4",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le plafond de l'abattement de 10 p. 100 institué par l'article 3-1 de la loi n° 77-1467 du 30 décembre 1977 pour les contribuables titulaires de pensions ou de retraites, est porté, pour l'imposition des revenus de 1978, à 6 000 F.<br/>\n<br/>   Ce plafond fait l'objet chaque année de la revalorisation prévue au même article.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 77-1467 1977-12-30 ART. 3 1",
+        "@cidtexte": "JORFTEXT000000704549",
+        "@datesignatexte": "1977-12-30",
+        "@id": "JORFTEXT000000704549",
+        "@naturetexte": "LOI",
+        "@numtexte": "77-1467",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 78-1239 1978-12-29 Finances pour 1979 JORF 30 DECEMBRE 1978",
+        "@cidtexte": "JORFTEXT000000886458",
+        "@datesignatexte": "1978-12-29",
+        "@id": "JORFTEXT000000886458",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-1239",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

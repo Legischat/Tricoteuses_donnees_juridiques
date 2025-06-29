@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721143",
+      "ANCIEN_ID": "SPIQVXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/11/LEGIARTI000006721143.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1971-06-11",
+        "DATE_FIN": "1995-10-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 janvier 1956 portant création d'un certificat d'aptitude aux fonctions d'aide soignant et d'aide soignante dans les hôpitaux et hospices publics ou privés.",
+          "@c_titre_court": "Arrêté du 23 janvier 1956",
+          "@debut": "1956-01-25",
+          "@fin": "1995-10-15",
+          "@id_txt": "LEGITEXT000006073055"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : Dispositions transitoires",
+            "@debut": "1971-06-11",
+            "@fin": "1995-10-15",
+            "@id": "LEGISCTA000006105102"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006073055",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1956-01-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-06-11",
+          "@etat": "ABROGE",
+          "@fin": "1995-10-15",
+          "@id": "LEGIARTI000006721143",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les personnes préparant à la date de publication du présent arrêté le certificat d'aptitude à l'emploi d'aide soignant, les modalités d'examen fixées par l'arrêté du 23 janvier 1956 restent applicables.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1956-01-23",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1994-07-22 art. 74 JORF 24 juillet 1994 en vigueur le 15 octobre 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique 477, 478",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

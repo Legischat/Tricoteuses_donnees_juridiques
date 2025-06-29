@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006367016",
+      "ANCIEN_ID": "MSEAGXXXXXX105AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/70/LEGIARTI000006367016.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "105",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-12-28",
+        "DATE_FIN": "2022-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale",
+          "@c_titre_court": "LOI n° 84-53 du 26 janvier 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000320434"
+        },
+        {
+          "#text": "Loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale (1).",
+          "@c_titre_court": "Loi n° 84-53 du 26 janvier 1984",
+          "@debut": "1984-01-27",
+          "@fin": "2222-02-22",
+          "@id_txt": "LEGITEXT000006068842"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre XII : Dispositions applicables aux fonctionnaires territoriaux nommés dans des emplois permanents à temps non complet.",
+            "@debut": "1984-01-27",
+            "@fin": "2022-03-01",
+            "@id": "LEGISCTA000006086325"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000320434",
+      "@date_publi": "1984-01-27",
+      "@date_signature": "1984-01-26",
+      "@nature": "LOI",
+      "@num": "84-53"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-01-27",
+          "@etat": "MODIFIE",
+          "@fin": "1994-12-28",
+          "@id": "LEGIARTI000006367015",
+          "@num": "105",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-12-28",
+          "@etat": "ABROGE",
+          "@fin": "2022-03-01",
+          "@id": "LEGIARTI000006367016",
+          "@num": "105",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le traitement ainsi que les indemnités ayant le caractère de complément de traitement sont calculés au prorata du nombre d'heures hebdomadaires de service afférent à l'emploi.<br/>\n<br/>   A titre expérimental, pour une durée de trois années à compter de la date d'entrée en vigueur de la loi n° 94-1134 du 27 décembre 1994 modifiant certaines dispositions relatives à la fonction publique territoriale, sur demande de l'agent ou si les nécessités de service le justifient, la durée hebdomadaire de service peut être organisée sur une période d'une durée maximale d'un an.<br/>\n<br/>   Un décret en Conseil d'Etat fixe les conditions d'application du présent article.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°94-1134 du 27 décembre 1994 - art. 44 ()",
+        "@cidtexte": "JORFTEXT000000732896",
+        "@datesignatexte": "1994-12-27",
+        "@id": "LEGIARTI000006367618",
+        "@naturetexte": "LOI",
+        "@nortexte": "ATRX9400038L",
+        "@num": "44",
+        "@numtexte": "94-1134",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2021-1574 du 24 novembre 2021 - art. 3",
+        "@cidtexte": "JORFTEXT000044411525",
+        "@datesignatexte": "2021-11-24",
+        "@id": "LEGIARTI000044415246",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "TFPF2121004R",
+        "@num": "3",
+        "@numtexte": "2021-1574",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code général de la fonction publique - art. L613-3 (VD)",
+        "@cidtexte": "LEGITEXT000044416551",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000044425034",
+        "@naturetexte": "CODE",
+        "@num": "L613-3",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

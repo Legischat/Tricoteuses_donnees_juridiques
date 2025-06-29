@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006716241",
+      "ANCIEN_ID": "SPIAEXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/62/LEGIARTI000006716241.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-08-31",
+        "DATE_FIN": "1988-02-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 août 1984 relatif au dossier guide prévu par l'article L. 162-3 du code de la santé publique.",
+          "@c_titre_court": "Arrêté du 22 août 1984",
+          "@debut": "1984-08-31",
+          "@fin": "1988-02-03",
+          "@id_txt": "LEGITEXT000006072764"
+        }
+      ],
+      "@cid": "LEGITEXT000006072764",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-08-22",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-08-31",
+          "@etat": "ABROGE",
+          "@fin": "1988-02-03",
+          "@id": "LEGIARTI000006716241",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les commissaires de la République [*autorités compétentes*] (directions départementales des affaires sanitaires et sociales) adressent le dossier guide constitué selon les modalités définies aux articles 1er et 2 ci-dessus [*destinataires*] :<br/>\n    1° Aux médecins exerçant dans le département ;<br/>\n    2° Aux établissements d'hospitalisation publics ou privés ;<br/>\n    3° Aux centres, établissements, services ou organismes mentionnés à l'article 2 (1°) ci-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-08-22 ART. 1, ART. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-12-29 art. 4 JORF 3 février 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique L162-3 : interruption volontaire de grossesse",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

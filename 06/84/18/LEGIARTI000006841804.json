@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006841804",
+      "ANCIEN_ID": "UFAXXXXXXXX2X322R012XXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/18/LEGIARTI000006841804.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R*322-12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-06-01",
+        "DATE_FIN": "2009-04-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la route",
+          "@c_titre_court": "Code de la route.",
+          "@debut": "2001-05-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074228"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "2001-05-27",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108688"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre III : Le véhicule.",
+              "@debut": "2001-05-27",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006129091"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Dispositions administratives.",
+                "@debut": "2001-05-27",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143856"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : Immatriculation",
+                  "@debut": "2001-06-01",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006159586"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 1 : Délivrance du certificat d'immatriculation.",
+                    "@debut": "2001-06-01",
+                    "@fin": "2999-01-01",
+                    "@id": "LEGISCTA000006177098"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074228",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-06-01",
+          "@etat": "ABROGE",
+          "@fin": "2009-04-15",
+          "@id": "LEGIARTI000006841804",
+          "@num": "R*322-12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le préfet peut autoriser un sous-préfet d'arrondissement à délivrer un certificat d'immatriculation à une personne non domiciliée dans cet arrondissement, lorsque cette dérogation est de nature à améliorer sensiblement le service rendu à l'usager.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2001-251 2001-03-22 JORF 25 mars 2001",
+        "@cidtexte": "JORFTEXT000000578193",
+        "@datesignatexte": "2001-03-22",
+        "@id": "JORFTEXT000000578193",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS0100055D",
+        "@numtexte": "2001-251",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2009-136\n du 9 février 2009 - art. 6",
+        "@cidtexte": "JORFTEXT000020236782",
+        "@datesignatexte": "2009-02-09",
+        "@id": "LEGIARTI000020238821",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVX0812336D",
+        "@num": "6",
+        "@numtexte": "2009-136",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la route R110-1 (al. 2)",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la route. - art. R322-14 (V)",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006841808",
+        "@naturetexte": "CODE",
+        "@num": "R322-14",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006287470",
+      "ANCIEN_ID": "ASIBFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/74/LEGIARTI000006287470.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-05-11",
+        "DATE_FIN": "1986-05-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 mai 1985 fixant la valeur de remboursement de la fraction du capital de l'emprunt d'Etat 8,80 p. 100 1977 amortie le 23 mai 1985",
+          "@c_titre_court": "Arrêté du 6 mai 1985",
+          "@debut": "1985-05-11",
+          "@fin": "1986-05-11",
+          "@id_txt": "LEGITEXT000006069502"
+        }
+      ],
+      "@cid": "LEGITEXT000006069502",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-05-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-05-11",
+          "@etat": "PERIME",
+          "@fin": "1986-05-11",
+          "@id": "LEGIARTI000006287470",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>En application des dispositions des articles 7 et 8 du décret n° 77-520 du 20 mai 1977, la valeur de remboursement des obligations de l'emprunt d'Etat 8,80 % 1977 devant être amorties le 23 mai 1985 est fixée à 1 220, 21 F par obligation de 1 000 F de valeur nominale.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 77-520 1977-05-20 art. 7, art. 8",
+        "@cidtexte": "JORFTEXT000000514386",
+        "@datesignatexte": "1977-05-20",
+        "@id": "JORFTEXT000000514386",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-520",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 2 mai 1986 (V)",
+        "@cidtexte": "LEGITEXT000006069524",
+        "@datesignatexte": "1986-05-02",
+        "@id": "LEGITEXT000006069524",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      }
+    ]
+  }
+}

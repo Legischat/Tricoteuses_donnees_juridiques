@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006671928",
+      "ANCIEN_ID": "SFHBZXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/19/LEGIARTI000006671928.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-08-15",
+        "DATE_FIN": "1990-01-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°87-670 du 14 août 1987 RELATIF AUX CONTRATS DE REINSERTION EN ALTERNANCE.(ART. L322-4-1 DU CODE DU TRAVAIL)",
+          "@c_titre_court": "Décret n°87-670 du 14 août 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000333656"
+        },
+        {
+          "#text": "Décret n°87-670 du 14 août 1987 relatif aux contrats de réinsertion en alternance",
+          "@c_titre_court": "Décret n°87-670 du 14 août 1987",
+          "@debut": "1987-08-15",
+          "@fin": "1990-01-31",
+          "@id_txt": "LEGITEXT000006066124"
+        }
+      ],
+      "@cid": "JORFTEXT000000333656",
+      "@date_publi": "1987-08-15",
+      "@date_signature": "1987-08-14",
+      "@nature": "DECRET",
+      "@nor": "ASEF8703600D",
+      "@num": "87-670"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-08-15",
+          "@etat": "ABROGE",
+          "@fin": "1990-01-31",
+          "@id": "LEGIARTI000006671928",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 83-397 du 19 mai 1983 relatif au contrat emploi-formation et au contrat emploi-adaptation est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°83-397 du 19 mai 1983",
+        "@cidtexte": "JORFTEXT000000685367",
+        "@datesignatexte": "1983-05-19",
+        "@id": "LEGITEXT000006064124",
+        "@naturetexte": "DECRET",
+        "@numtexte": "83-397",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 83-397 1983-05-19 (abrogé)",
+        "@cidtexte": "JORFTEXT000000685367",
+        "@datesignatexte": "1983-05-19",
+        "@id": "JORFTEXT000000685367",
+        "@naturetexte": "DECRET",
+        "@numtexte": "83-397",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°90-106 du 30 janvier 1990 - art. 10 (V) JORF 31 janvier 1990",
+        "@cidtexte": "JORFTEXT000000341856",
+        "@datesignatexte": "1990-01-30",
+        "@id": "LEGIARTI000006665140",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFE9003067D",
+        "@num": "10",
+        "@numtexte": "90-106",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. L322-4-1 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006648110",
+        "@naturetexte": "CODE",
+        "@num": "L322-4-1",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

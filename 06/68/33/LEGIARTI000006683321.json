@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006683321",
+      "ANCIEN_ID": "SMHBGXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/33/LEGIARTI000006683321.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1977-03-25",
+        "DATE_FIN": "1983-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°77-274 du 24 mars 1977 RELATIF A L'ORGANISATION ET AUX ATTRIBUTIONS DU BUREAU D'AIDE SOCIALE DE PARIS AINSI QU'A L'ADMISSION A L'AIDE SOCIALE DE PARIS",
+          "@c_titre_court": "Décret n°77-274 du 24 mars 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000883235"
+        },
+        {
+          "#text": "Décret n°77-274 du 24 mars 1977  RELATIF A L'ORGANISATION ET AUX ATTRIBUTIONS DU BUREAU D'AIDE SOCIALE DE PARIS AINSI QU'A L'ADMISSION A L'AIDE SOCIALE DE PARIS",
+          "@c_titre_court": "Décret n°77-274 du 24 mars 1977",
+          "@debut": "1977-04-01",
+          "@fin": "2004-10-26",
+          "@id_txt": "LEGITEXT000006062661"
+        }
+      ],
+      "@cid": "JORFTEXT000000883235",
+      "@date_publi": "1977-03-25",
+      "@date_signature": "1977-03-24",
+      "@nature": "DECRET",
+      "@num": "77-274"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-03-25",
+          "@etat": "MODIFIE",
+          "@fin": "1983-09-06",
+          "@id": "LEGIARTI000006683321",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-09-06",
+          "@etat": "ABROGE",
+          "@fin": "1995-05-07",
+          "@id": "LEGIARTI000006683322",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Chaque section du bureau d'aide sociale est administrée par un comité de gestion d'arrondissement qui comprend :<br/>\n<br/>       1. Le président du conseil d'administration ou son représentant, président ;<br/>\n<br/>       2. Les conseillers de Paris élus au titre de l'arrondissement ou d'un groupe d'arrondissements ;<br/>\n<br/>       3. Les administrateurs désignés dans les conditions prévues à l'article suivant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°77-274 du 24 mars 1977 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000000883235",
+        "@datesignatexte": "1977-03-24",
+        "@id": "LEGIARTI000006683323",
+        "@naturetexte": "DECRET",
+        "@num": "11",
+        "@numtexte": "77-274",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°77-274 du 24 mars 1977 - art. 24 (Ab)",
+        "@cidtexte": "JORFTEXT000000883235",
+        "@datesignatexte": "1977-03-24",
+        "@id": "LEGIARTI000006683341",
+        "@naturetexte": "DECRET",
+        "@num": "24",
+        "@numtexte": "77-274",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006603469",
+      "ANCIEN_ID": "RAHGRXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/34/LEGIARTI000006603469.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-06-19",
+        "DATE_FIN": "1996-03-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-507 du 17 juin 1983 RELATIF AUX LABELS AGRICOLES",
+          "@c_titre_court": "Décret n°83-507 du 17 juin 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503288"
+        },
+        {
+          "#text": "Décret n°83-507 du 17 juin 1983 relatif aux labels agricoles",
+          "@c_titre_court": "Décret n°83-507 du 17 juin 1983",
+          "@debut": "1983-06-19",
+          "@fin": "1996-03-14",
+          "@id_txt": "LEGITEXT000006064148"
+        }
+      ],
+      "@cid": "JORFTEXT000000503288",
+      "@date_publi": "1983-06-19",
+      "@date_signature": "1983-06-17",
+      "@nature": "DECRET",
+      "@num": "83-507"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-06-19",
+          "@etat": "ABROGE",
+          "@fin": "1996-03-14",
+          "@id": "LEGIARTI000006603469",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tout label agricole est homologué par arrêté conjoint du ministre de l'agriculture et du secrétaire d'Etat auprès du ministre de l'économie, des finances et du budget, chargé de la consommation, après avis de la commission nationale prévue à l'article 12.<br/>\n<br/>   Il est fait mention de l'arrêté d'homologation au Journal officiel de la République française.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°83-507 du 17 juin 1983 - art. 12 (M)",
+        "@cidtexte": "JORFTEXT000000503288",
+        "@datesignatexte": "1983-06-17",
+        "@id": "LEGIARTI000006272244",
+        "@naturetexte": "DECRET",
+        "@num": "12",
+        "@numtexte": "83-507",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°96-193 du 12 mars 1996 - art. 45 (Ab) JORF 14 mars 1996",
+        "@cidtexte": "JORFTEXT000000191471",
+        "@datesignatexte": "1996-03-12",
+        "@id": "LEGIARTI000006603792",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRG9502099D",
+        "@num": "45",
+        "@numtexte": "96-193",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

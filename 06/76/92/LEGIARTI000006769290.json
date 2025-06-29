@@ -1,0 +1,135 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769290",
+      "ANCIEN_ID": "SSHAU1XXXXX009AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/92/LEGIARTI000006769290.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-01-28",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "7° Tularémie",
+                "@debut": "1988-01-28",
+                "@fin": "2005-04-22",
+                "@id": "LEGISCTA000006142317"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-27",
+          "@etat": "MODIFIE",
+          "@fin": "1988-01-28",
+          "@id": "LEGIARTI000006769289",
+          "@num": "Tableau 7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-28",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769290",
+          "@num": "Tableau 7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "DESIGNATION DES MALADIES<br/>\n Syndrome pouvant revêtir, soit l'aspect, en tout ou partie, d'une des grandes formes cliniques (brachiale, oculaire, pharyngée, pulmonaire ou typhoïde), soit un aspect atypique.<br/>\n Dans tous les cas, le diagnostic sera authentifié par un examen sérologique spécifique.<br/>\n<br/>\n DELAI de prise en charge : 15 jours<br/>\n<br/>\n LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer la maladie:<br/>\n Travaux de gardes-chasse et gardes-forestiers exposant notamment au contact des léporidés sauvages.<br/>\n Travaux d'élevage, abattage, transport, manipulation et vente de léporidés, de petits rongeurs et d'animaux à fourrure.<br/>\n Transport et manipulation de peaux.<br/>\n Travaux de laboratoires exposant à contact des léporidés et des petits rongeurs.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 88-89 1988-01-22 art. 3 JORF 28 janvier 1988",
+        "@cidtexte": "JORFTEXT000000314579",
+        "@datesignatexte": "1988-01-22",
+        "@id": "JORFTEXT000000314579",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS8800001D",
+        "@numtexte": "88-89",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

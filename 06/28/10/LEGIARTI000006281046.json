@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006281046",
+      "ANCIEN_ID": "APEADXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/10/LEGIARTI000006281046.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1910-01-19",
+        "DATE_FIN": "1992-07-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 14 juillet 1909 sur les dessins et modèles",
+          "@c_titre_court": "Loi du 14 juillet 1909",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000315081"
+        },
+        {
+          "#text": "Loi du 14 juillet 1909 sur les dessins et modèles",
+          "@c_titre_court": "Loi du 14 juillet 1909",
+          "@debut": "1910-01-19",
+          "@fin": "2007-12-22",
+          "@id_txt": "LEGITEXT000006069415"
+        }
+      ],
+      "@cid": "JORFTEXT000000315081",
+      "@date_publi": "1909-07-19",
+      "@date_signature": "1909-07-14",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1910-01-19",
+          "@etat": "ABROGE",
+          "@fin": "1992-07-03",
+          "@id": "LEGIARTI000006281046",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute atteinte portée sciemment aux droits garantis par la présente loi est punie d'une amende de 90 à 20.000 F [*sanctions*].<br/>\n<br/>   Dans les cas de récidive, ou si le délinquant est une personne ayant travaillé pour la partie lésée, il est prononcé, en outre, un emprisonnement d'un mois à six mois.<br/>\n<br/>   Il y a récidive lorsqu'il a été prononcé contre le prévenu dans les cinq années antérieures, une première condamnation pour un des délits prévus par la présente loi.<br/>\n<br/>   Les coupables peuvent, en outre, être privés pendant un temps qui n'excèdera pas cinq années, du droit d'élection et d'éligibilité pour les tribunaux et chambres de commerce, ainsi que pour les conseils de prud'hommes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°92-597 du 1 juillet 1992 - art. 5 (V) JORF 3 juillet 1992",
+        "@cidtexte": "JORFTEXT000000357475",
+        "@datesignatexte": "1992-07-01",
+        "@id": "LEGIARTI000006281476",
+        "@naturetexte": "LOI",
+        "@nortexte": "MENX9100082L",
+        "@num": "5",
+        "@numtexte": "92-597",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la propriété intellectuelle - art. L521-4 (M)",
+        "@cidtexte": "LEGITEXT000006069414",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006279364",
+        "@naturetexte": "CODE",
+        "@num": "L521-4",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006350388",
+      "ANCIEN_ID": "MDAXXXXXXXX1X049L00AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/03/LEGIARTI000006350388.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L49",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1970-12-15",
+        "DATE_FIN": "2006-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du domaine de l'Etat",
+          "@c_titre_court": "Code du domaine de l'Etat",
+          "@debut": "1962-03-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070208"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1962-03-18",
+            "@fin": "2011-11-24",
+            "@id": "LEGISCTA000006085633"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Administration des biens domaniaux",
+              "@debut": "1962-03-18",
+              "@fin": "2017-01-01",
+              "@id": "LEGISCTA000006115404"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre III : Dispositions communes",
+                "@debut": "1962-03-18",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006134727"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Recouvrement des produits domaniaux.",
+                  "@debut": "1962-03-18",
+                  "@fin": "2006-07-01",
+                  "@id": "LEGISCTA000006148403"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070208",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-12-15",
+          "@etat": "ABROGE",
+          "@fin": "2006-07-01",
+          "@id": "LEGIARTI000006350388",
+          "@num": "L49",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La prescription quadriennale des créances sur l'Etat, instituée par la loi n° 68-1250 du 31 décembre 1968, est applicable à l'action en restitution des droits et redevances de même nature versés au Trésor à quelque titre que ce soit.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 68-1250 1968-12-31",
+        "@cidtexte": "JORFTEXT000000878035",
+        "@datesignatexte": "1968-12-31",
+        "@id": "JORFTEXT000000878035",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-1250",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2006-460 du 21 avril 2006 - art. 7 (V) JORF 22 avril 2006 en vigueur le 1er juillet 2006",
+        "@cidtexte": "JORFTEXT000000456141",
+        "@datesignatexte": "2006-04-21",
+        "@id": "LEGIARTI000006250833",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOX0400219R",
+        "@num": "7",
+        "@numtexte": "2006-460",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code général de la propriété des personnes publiqu - art. L2321-5 (V)",
+        "@cidtexte": "LEGITEXT000006070299",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006361368",
+        "@naturetexte": "CODE",
+        "@num": "L2321-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code général de la propriété des personnes publiqu - art. L2321-5 (V)",
+        "@cidtexte": "LEGITEXT000006070299",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006361368",
+        "@naturetexte": "CODE",
+        "@num": "L2321-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 62-298 1962-03-14",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 70-1159 1970-12-11 art. 1 JORF 15 décembre 1970",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

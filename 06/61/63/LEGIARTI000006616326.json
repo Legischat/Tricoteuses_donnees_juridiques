@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616326",
+      "ANCIEN_ID": "ADIJRXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/63/LEGIARTI000006616326.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1982-05-01",
+        "DATE_FIN": "1982-11-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 avril 1982 relatif au régime des prix des produits pétroliers",
+          "@c_titre_court": "Arrêté du 29 avril 1982",
+          "@debut": "1982-05-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071587"
+        }
+      ],
+      "@cid": "LEGITEXT000006071587",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-04-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-01",
+          "@etat": "MODIFIE",
+          "@fin": "1982-11-01",
+          "@id": "LEGIARTI000006616326",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-11-01",
+          "@etat": "MODIFIE",
+          "@fin": "1983-04-13",
+          "@id": "LEGIARTI000006616327",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-04-13",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-06",
+          "@id": "LEGIARTI000006616328",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le prix limite de vente en vrac au consommateur de l'essence, du supercarburant, du gazole et du fioul domestique est fixé au niveau qui résulte de l'addition des éléments ci-après :<br/>\n<br/>   Prix de reprise ;<br/>\n<br/>   Taxe intérieure à la consommation ;<br/>\n<br/>   Redevance au profit du fonds de soutien des hydrocarbures ;<br/>\n<br/>   Redevance au profit de l'institut français du pétrole ;<br/>\n<br/>   Frais de mise en place ;<br/>\n<br/>   Constitution et entretien des stocks de réserve ;<br/>\n<br/>   Marges de distribution ;<br/>\n<br/>   Taxe à la valeur ajoutée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 10/A 1982-04-29 BOCC n° 11, 30 avril 1982 en vigueur le 1er mai 1982",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 11/A 1982-04-29 *calcul du prix plafond*",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 82-346 1982-04-19",
+        "@cidtexte": "JORFTEXT000000517243",
+        "@datesignatexte": "1982-04-19",
+        "@id": "JORFTEXT000000517243",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-346",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006638196",
+      "ANCIEN_ID": "RLHAQXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/81/LEGIARTI000006638196.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1971-12-01",
+        "DATE_FIN": "2003-08-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°71-636 du 21 juillet 1971 PRIS POUR L'APPLICATION DES ART. 258,259 ET 262 DU CODE RURAL ET RELATIF A L'INSPECTION SANITAIRE ET QUALITATIVE DES ANIMAUX VIVANTS ET DES DENREES ANIMALES OU D'ORIGINE ANIMALE",
+          "@c_titre_court": "Décret n°71-636 du 21 juillet 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000335914"
+        },
+        {
+          "#text": "Décret n°71-636 du 21 juillet 1971 pris pour l'application des articles 258, 259 et 262 du code rural et relatif à l'inspection sanitaire et qualitative des animaux vivants et des denrées animales ou d'origine animale",
+          "@c_titre_court": "Décret n°71-636 du 21 juillet 1971",
+          "@debut": "1971-12-01",
+          "@fin": "2009-12-30",
+          "@id_txt": "LEGITEXT000006061842"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Inspections et contrôles sanitaires et qualitatifs des animaux et des denrées animales ou d'origine animale destinés à la consommation",
+            "@debut": "1971-12-01",
+            "@fin": "2003-08-07",
+            "@id": "LEGISCTA000006100698"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Conditions d'hygiène applicables aux animaux et aux denrées",
+              "@debut": "1971-12-01",
+              "@fin": "2003-08-07",
+              "@id": "LEGISCTA000006123327"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Conditions d'hygiène applicables aux établissements et à leur matériel.",
+                "@debut": "1971-12-01",
+                "@fin": "2003-08-07",
+                "@id": "LEGISCTA000006139615"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000335914",
+      "@date_publi": "1971-08-01",
+      "@date_signature": "1971-07-21",
+      "@nature": "DECRET",
+      "@num": "71-636"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-12-01",
+          "@etat": "ABROGE",
+          "@fin": "2003-08-07",
+          "@id": "LEGIARTI000006638196",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent chapitre s'appliquent aux denrées animales ou d'origine animale destinées à être commercialisées en vue de l'alimentation des animaux, à l'exception des viandes livrées crues dans les conditions visées à l'article 265 du code rural.<br/>\n<br/>   Le service vétérinaire pourra toutefois autoriser, sous certaines conditions, et après traitement, la livraison en vue de la consommation animale de certaines denrées reconnues impropres à cette consommation.<br/>\n<br/>   L'exposition et la mise en vente des denrées visées au présent article ne doivent pas être effectuées que sur des emplacements particuliers signalés comme tels et séparés de ceux qui sont destinés à l'exposition des denrées réservées à la consommation humaine.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 258, 259, 262",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code rural 265",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°71-636 du 21 juillet 1971 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000335914",
+        "@datesignatexte": "1971-07-21",
+        "@id": "LEGIARTI000006638194",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "71-636",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2003-768 du 1 août 2003 - art. 6 (V) JORF 7 août 2003",
+        "@cidtexte": "JORFTEXT000000597743",
+        "@datesignatexte": "2003-08-01",
+        "@id": "LEGIARTI000006605928",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0300394D",
+        "@num": "6",
+        "@numtexte": "2003-768",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006782447",
+      "ANCIEN_ID": "SSIABXXXXXX002AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/24/LEGIARTI000006782447.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-12-29",
+        "DATE_FIN": "1984-12-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 décembre 1982  FIXANT LA COTISATION DUE POUR L'ALIMENTATION DU FONDS COMMUN VISE A L'ARTICLE L. 491 DU CODE DE LA SECURITE SOCIALE POUR LES ETABLISSEMENTS OU COLLECTIVITES GERANT LA TOTALITE DU RISQUE ACCIDENTS DU TRAVAIL *FINANCEMENT*.",
+          "@c_titre_court": "Arrêté du 21 décembre 1982",
+          "@debut": "1982-12-29",
+          "@fin": "1984-12-26",
+          "@id_txt": "LEGITEXT000006073508"
+        }
+      ],
+      "@cid": "LEGITEXT000006073508",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-12-21",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-12-29",
+          "@etat": "ABROGE",
+          "@fin": "1984-12-26",
+          "@id": "LEGIARTI000006782447",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux fictif visé à l'article précédent est notifié par la caisse régionale de sécurité sociale dont relève le siège social ou l'établissement principal de l'entreprise ou de la collectivité, dans les conditions prévues à l'article 11 de l'arrêté du 1er octobre 1976 susvisé.<br/>\n<br/>   L'établissement ou la collectivité est tenu, le cas échéant, de produire à la caisse régionale compétente toutes justifications des éléments entrant dans le calcul du taux fictif susvisé [*charge de la preuve*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1976-10-01 art. 11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1984-12-07 art. 5 JORF 26 décembre 1984",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L491",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

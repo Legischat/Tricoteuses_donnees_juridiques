@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006606281",
+      "ANCIEN_ID": "RAIAHXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/62/LEGIARTI000006606281.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-06-28",
+        "DATE_FIN": "2005-12-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1 juin 1987 RELATIF A L'IDENTIFICATION DES ANIMAUX DE L'ESPECE CAPRINE",
+          "@c_titre_court": "Arrêté du 1 juin 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000472176"
+        },
+        {
+          "#text": "Arrêté du 1 juin 1987 relatif à l'identification des animaux de l'espèce caprine",
+          "@c_titre_court": "Arrêté du 1 juin 1987",
+          "@debut": "1987-06-28",
+          "@fin": "2005-12-24",
+          "@id_txt": "LEGITEXT000006057554"
+        }
+      ],
+      "@cid": "JORFTEXT000000472176",
+      "@date_publi": "1987-06-28",
+      "@date_signature": "1987-06-01",
+      "@nature": "ARRETE",
+      "@nor": "AGRP8701098A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-06-28",
+          "@etat": "ABROGE",
+          "@fin": "2005-12-24",
+          "@id": "LEGIARTI000006606281",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans tous les cas où une identification individuelle des animaux d'un cheptel doit être effectuée soit en vue de l'enregistrement de leur filiation par l'établissement de l'élevage, soit en vue d'opérations de prophylaxie sanitaire ou médico-sanitaire, chaque animal identifié dans ce cheptel reçoit un deuxième numéro qui précise son identité, en complétant le numéro mentionné à l'article 2.<br/>\n<br/>   Ce deuxième numéro, qui comprend obligatoirement cinq caractères, est composé de la façon suivante :<br/>\n<br/>   Les deux premiers caractères du numéro à partir de la gauche correspondent aux deux derniers chiffres de l'année N pour un animal né dans la campagne de mise bas débutant le 1er septembre de l'année N - 1 pour se terminer le 31 août de l'année N.<br/>\n<br/>   Les trois caractères suivants sont des chiffres composant un numéro qui n'a pas été antérieurement attribué et ne sera ultérieurement attribué à aucun autre animal né ou à naître dans le cheptel concerné au cours de la même campagne de mise bas. Les numéros ainsi attribués constituent dans chaque cheptel des séries continues débutant le 1er septembre d'une année et se terminant le 31 août de l'année suivante.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-06-01 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2005-12-19 art. 39 JORF 24 décembre 2005",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 69-422 1969-05-06",
+        "@cidtexte": "JORFTEXT000000695429",
+        "@datesignatexte": "1969-05-06",
+        "@id": "JORFTEXT000000695429",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-422",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

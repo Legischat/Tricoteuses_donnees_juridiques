@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006253454",
+      "ANCIEN_ID": "SHIRLXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/25/34/LEGIARTI000006253454.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-07-29",
+        "DATE_FIN": "2016-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 juillet 2006 pris pour l'application des articles R. 231-126, R. 231-128 et R. 231-129 du code du travail",
+          "@c_titre_court": "Arrêté du 19 juillet 2006",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000607391"
+        },
+        {
+          "#text": "Arrêté du 19 juillet 2006 pris pour l'application des articles R. 231-126, R. 231-128 et R. 231-129 du code du travail",
+          "@c_titre_court": "Arrêté du 19 juillet 2006",
+          "@debut": "2006-07-29",
+          "@fin": "2016-01-01",
+          "@id_txt": "LEGITEXT000006054110"
+        }
+      ],
+      "@cid": "JORFTEXT000000607391",
+      "@date_publi": "2006-07-29",
+      "@date_signature": "2006-07-19",
+      "@ministere": "MINISTERE DE L'EMPLOI, DE LA COHESION SOCIALE ET DU LOGEMENT",
+      "@nature": "ARRETE",
+      "@nor": "SOCT0611646A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-29",
+          "@etat": "ABROGE",
+          "@fin": "2016-01-01",
+          "@id": "LEGIARTI000006253454",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001664653",
+          "@num": "4",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Texte abrogé.<br/>\n<br/>   L'arrêté du 22 avril 1988 pris pour l'application des articles R. 232-8-1 et R. 232-8-7 du code du travail est abrogé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-04-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 11 décembre 2015 - art. 6",
+        "@cidtexte": "JORFTEXT000031740889",
+        "@datesignatexte": "2015-12-11",
+        "@id": "LEGIARTI000031857675",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ETST1514140A",
+        "@num": "6",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code du travail - art. R232-8-1",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006806992",
+        "@naturetexte": "CODE",
+        "@num": "R232-8-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R232-8-7",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006807010",
+        "@naturetexte": "CODE",
+        "@num": "R232-8-7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

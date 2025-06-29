@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006729714",
+      "ANCIEN_ID": "SQIIQXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/97/LEGIARTI000006729714.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-01-01",
+        "DATE_FIN": "1997-05-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 25 mai 1994 portant revalorisation de l'indemnité forfaitaire de    risque allouée à certains agents de la fonction publique hospitalière",
+          "@c_titre_court": "Arrêté du 25 mai 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000731130"
+        },
+        {
+          "#text": "Arrêté du 25 mai 1994 portant revalorisation de l'indemnité forfaitaire de risque allouée à certains agents de la fonction publique hospitalière",
+          "@c_titre_court": "Arrêté du 25 mai 1994",
+          "@debut": "1996-01-01",
+          "@fin": "1997-05-13",
+          "@id_txt": "LEGITEXT000005616121"
+        }
+      ],
+      "@cid": "JORFTEXT000000731130",
+      "@date_publi": "1994-07-02",
+      "@date_signature": "1994-05-25",
+      "@ministere": "MINISTERE DES AFFAIRES SOCIALES, DE LA SANTE ET DE LA VILLE",
+      "@nature": "ARRETE",
+      "@nor": "SPSH9401747A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1997-05-13",
+          "@id": "LEGIARTI000006729714",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant mensuel de l'indemnité mentionnée à l'article 1er du décret n° 92-6 du 2 janvier 1992 susvisé est fixé à 603,75 F.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1997-04-18 art. 2 JORF du 13 mai 1997 en vigueur le 1er 1996",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 92-6 1992-01-02 art. 1",
+        "@cidtexte": "JORFTEXT000000357450",
+        "@datesignatexte": "1992-01-02",
+        "@id": "JORFTEXT000000357450",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANH9102701D",
+        "@numtexte": "92-6",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 92-6 1992-01-02 art. 1",
+        "@cidtexte": "JORFTEXT000000357450",
+        "@datesignatexte": "1992-01-02",
+        "@id": "JORFTEXT000000357450",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANH9102701D",
+        "@numtexte": "92-6",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006508368",
+      "ANCIEN_ID": "ADEBNXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/83/LEGIARTI000006508368.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1907-01-04",
+        "DATE_FIN": "1996-07-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 30 décembre 1906 sur les ventes au déballage, complétant la loi du 25 juin 1841",
+          "@c_titre_court": "Loi du 30 décembre 1906",
+          "@debut": "1907-01-04",
+          "@fin": "1996-07-06",
+          "@id_txt": "LEGITEXT000006071122"
+        }
+      ],
+      "@cid": "LEGITEXT000006071122",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1906-12-30",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1907-01-04",
+          "@etat": "ABROGE",
+          "@fin": "1996-07-06",
+          "@id": "LEGIARTI000006508368",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour le délit prévu par la présente loi, et pour celui établi par la loi du 25 juin 1841, la tentative sera punie comme le délit consommé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1841-06-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1841-06-25",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°96-603 du 5 juillet 1996 - art. 33 (VT) JORF 6 juillet 1996",
+        "@cidtexte": "JORFTEXT000000193678",
+        "@datesignatexte": "1996-07-05",
+        "@id": "LEGIARTI000006513558",
+        "@naturetexte": "LOI",
+        "@nortexte": "COMX9600031L",
+        "@num": "33",
+        "@numtexte": "96-603",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

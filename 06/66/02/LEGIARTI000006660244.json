@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006660244",
+      "ANCIEN_ID": "SEH1DXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/02/LEGIARTI000006660244.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-04-19",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 97-370 du 14 avril 1997 relatif aux conditions d'emploi des jeunes    travailleurs agricoles",
+          "@c_titre_court": "Décret n°97-370 du 14 avril 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000372611"
+        },
+        {
+          "#text": "Décret n°97-370 du 14 avril 1997 relatif aux conditions d'emploi des jeunes travailleurs agricoles",
+          "@c_titre_court": "Décret n°97-370 du 14 avril 1997",
+          "@debut": "1997-04-19",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000005623292"
+        }
+      ],
+      "@cid": "JORFTEXT000000372611",
+      "@date_publi": "1997-04-19",
+      "@date_signature": "1997-04-14",
+      "@ministere": "MINISTERE DE L'AGRICULTURE, DE LA PECHE ET DE L'ALIMENTATION",
+      "@nature": "DECRET",
+      "@nor": "AGRS9700423D",
+      "@num": "97-370"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-04-19",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006660244",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'application de l'article L. 212-14 du code du travail, une pause d'au moins trente minutes est accordée après une période de travail effectif ininterrompue de quatre heures et demie.<br/>\n<br/>   Les jeunes travailleurs agricoles doivent en outre bénéficier, pour chaque période de vingt-quatre heures, d'un temps de repos fixé à quatorze heures s'ils sont encore soumis à l'obligation scolaire et à douze heures s'ils ne sont plus soumis à l'obligation scolaire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. R715-3 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006596534",
+        "@naturetexte": "CODE",
+        "@num": "R715-3",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail - art. L212-14 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006647308",
+        "@naturetexte": "CODE",
+        "@num": "L212-14",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural R715-3",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret n°97-370 du 14 avril 1997 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000372611",
+        "@datesignatexte": "1997-04-14",
+        "@id": "LEGIARTI000006660248",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS9700423D",
+        "@num": "6",
+        "@numtexte": "97-370",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

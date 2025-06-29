@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006279241",
+      "ANCIEN_ID": "AAEAAXXXXXX257AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/92/LEGIARTI000006279241.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "257",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-01-04",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692245"
+        },
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "1964-04-01",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006068288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Règles de fonctionnement des diverses sociétés commerciales",
+            "@debut": "1964-04-01",
+            "@fin": "2003-01-01",
+            "@id": "LEGISCTA000006083319"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 4 : Sociétés par actions",
+              "@debut": "1967-01-06",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006113844"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 10 : Sociétés en commandite par actions.",
+                "@debut": "1967-04-01",
+                "@fin": "2000-09-21",
+                "@id": "LEGISCTA000006133327"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000692245",
+      "@date_publi": "1966-07-26",
+      "@date_signature": "1966-07-24",
+      "@nature": "LOI",
+      "@num": "66-537"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1985-01-04",
+          "@id": "LEGIARTI000006279240",
+          "@num": "257",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-04",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006279241",
+          "@num": "257",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil de surveillance assume le contrôle permanent de la gestion de la société. Il dispose, à cet effet, des mêmes pouvoirs que les commissaires aux comptes.<br/>\n<br/>   Il fait à l'assemblée générale ordinaire annuelle un rapport dans lequel il signale, notamment, les irrégularités et inexactitudes relevées dans les comptes annuels et, le cas échéant, les comptes consolidés de l'exercice.<br/>\n<br/>   Il est saisi en même temps que les commissaires aux comptes des documents [*sociaux*] mis à la disposition de ceux-ci.<br/>\n<br/>   Il peut convoquer l'assemblée générale des actionnaires.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 85-11 1985-01-03 art. 15 *modalités d'application - date d'effet*",
+        "@cidtexte": "JORFTEXT000000501119",
+        "@datesignatexte": "1985-01-03",
+        "@id": "JORFTEXT000000501119",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-11",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°85-11 du 3 janvier 1985 - art. 9 () JORF 4 janvier 1985",
+        "@cidtexte": "JORFTEXT000000501119",
+        "@datesignatexte": "1985-01-03",
+        "@id": "LEGIARTI000006304514",
+        "@naturetexte": "LOI",
+        "@num": "9",
+        "@numtexte": "85-11",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L226-9 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006226690",
+        "@naturetexte": "CODE",
+        "@num": "L226-9",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

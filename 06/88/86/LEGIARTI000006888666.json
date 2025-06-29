@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888666",
+      "ANCIEN_ID": "AIISYXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/86/LEGIARTI000006888666.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-07-25",
+        "DATE_FIN": "2002-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 juillet 1991 RELATIF AU TRAITEMENT PAR RAYONNEMENTS IONISANTS DE CERTAINS FRUITS SECS",
+          "@c_titre_court": "Arrêté du 17 juillet 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000686129"
+        },
+        {
+          "#text": "Arrêté du 17 juillet 1991 relatif au traitement par rayonnements ionisants de certains fruits secs",
+          "@c_titre_court": "Arrêté du 17 juillet 1991",
+          "@debut": "1991-07-25",
+          "@fin": "2002-09-06",
+          "@id_txt": "LEGITEXT000006059681"
+        }
+      ],
+      "@cid": "JORFTEXT000000686129",
+      "@date_publi": "1991-07-25",
+      "@date_signature": "1991-07-17",
+      "@nature": "ARRETE",
+      "@nor": "ECOC9100067A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-07-25",
+          "@etat": "ABROGE",
+          "@fin": "2002-09-06",
+          "@id": "LEGIARTI000006888666",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les fruits secs mentionnés à l'article 1er doivent être traités dans des emballages répondant à la réglementation en vigueur sur les matériaux destinés à être mis en contact avec les aliments et notamment ceux soumis aux rayonnements ionisants.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-07-17 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 août 2002 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000410150",
+        "@datesignatexte": "2002-08-20",
+        "@id": "LEGIARTI000021244775",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC0200067A",
+        "@num": "4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

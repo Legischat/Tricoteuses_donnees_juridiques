@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006523978",
+      "ANCIEN_ID": "PNAXXXXXXXX5X00005AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/39/LEGIARTI000006523978.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1993-07-23",
+        "DATE_FIN": "1993-07-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la nationalité française",
+          "@c_titre_court": "Code de la nationalité française",
+          "@debut": "1945-10-20",
+          "@fin": "1994-01-01",
+          "@id_txt": "LEGITEXT000006071189"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Dispositions générales",
+            "@debut": "1973-01-10",
+            "@fin": "1993-07-23",
+            "@id": "LEGISCTA000006095780"
+          },
+          {
+            "#text": "Titre préliminaire : Dispositions générales.",
+            "@debut": "1945-10-20",
+            "@fin": "1973-01-10",
+            "@id": "LEGISCTA000049198019"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071189",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-10-20",
+          "@etat": "ABROGE",
+          "@fin": "1973-01-10",
+          "@id": "LEGIARTI000049198136",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-07-23",
+          "@etat": "TRANSFERE",
+          "@fin": "1993-07-23",
+          "@id": "LEGIARTI000006523978",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les demandes en vue d'acquérir, de perdre la nationalité française ou d'être réintégré dans cette nationalité, ainsi que les déclarations de nationalité, peuvent, dans les conditions prévues par la loi, être faites, sans autorisation, dès l'âge de seize ans.<br/>\n<br/>   Le mineur âgé de moins de seize ans doit être représenté par celui ou ceux qui exercent à son égard l'autorité parentale.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993",
+        "@cidtexte": "JORFTEXT000000362019",
+        "@datesignatexte": "1993-07-22",
+        "@id": "LEGIARTI000006528826",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9300479L",
+        "@num": "50",
+        "@numtexte": "93-933",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°93-933 du 22 juillet 1993 - art. 1",
+        "@cidtexte": "JORFTEXT000000362019",
+        "@datesignatexte": "1993-07-22",
+        "@id": "LEGIARTI000006528773",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9300479L",
+        "@num": "1",
+        "@numtexte": "93-933",
+        "@sens": "cible",
+        "@typelien": "MODIFIE"
+      },
+      {
+        "#text": "Code civil - art. 17-3 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006419324",
+        "@naturetexte": "CODE",
+        "@num": "17-3",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

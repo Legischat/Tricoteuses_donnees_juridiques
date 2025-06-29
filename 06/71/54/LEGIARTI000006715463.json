@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006715463",
+      "ANCIEN_ID": "SPI7CXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/54/LEGIARTI000006715463.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-01-03",
+        "DATE_FIN": "2010-04-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 décembre 1991 RELATIF A L'ORGANISATION DU CONCOURS D'INTERNAT EN PHARMACIE A TITRE ETRANGER",
+          "@c_titre_court": "Arrêté du 24 décembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317995"
+        },
+        {
+          "#text": "Arrêté du 24 décembre 1991 relatif à l'organisation du concours d'internat en pharmacie à titre étranger",
+          "@c_titre_court": "Arrêté du 24 décembre 1991",
+          "@debut": "1992-01-03",
+          "@fin": "2010-04-11",
+          "@id_txt": "LEGITEXT000006059881"
+        }
+      ],
+      "@cid": "JORFTEXT000000317995",
+      "@date_publi": "1992-01-03",
+      "@date_signature": "1991-12-24",
+      "@nature": "ARRETE",
+      "@nor": "SPSH9102869A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-03",
+          "@etat": "ABROGE",
+          "@fin": "2010-04-11",
+          "@id": "LEGIARTI000006715463",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le programme du concours et la nature des épreuves sont les mêmes que ceux des concours d'internat, ouverts en application de l'article 59 de la loi du 12 novembre 1968 modifiée susvisée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°68-978 du 12 novembre 1968 - art. 59",
+        "@cidtexte": "JORFTEXT000000693185",
+        "@datesignatexte": "1968-11-12",
+        "@id": "LEGIARTI000006435087",
+        "@naturetexte": "LOI",
+        "@num": "59",
+        "@numtexte": "68-978",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 91-305 1991-03-20 art. 4",
+        "@cidtexte": "JORFTEXT000000170540",
+        "@datesignatexte": "1991-03-20",
+        "@id": "JORFTEXT000000170540",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENZ9002299D",
+        "@numtexte": "91-305",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 15 mars 2010 - art. 6",
+        "@cidtexte": "JORFTEXT000022081747",
+        "@datesignatexte": "2010-03-15",
+        "@id": "LEGIARTI000022082839",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ESRS1005248A",
+        "@num": "6",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

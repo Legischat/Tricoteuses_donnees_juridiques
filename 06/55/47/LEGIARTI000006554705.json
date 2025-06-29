@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006554705",
+      "ANCIEN_ID": "PRITIXXXXXX014AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/47/LEGIARTI000006554705.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1996-06-22",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 avril 1996 relatif aux conditions de tarification s'appliquant à    l'accès au service public d'information sur les entreprises, organismes    publics et leurs établissements",
+          "@c_titre_court": "Arrêté du 19 avril 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000560982"
+        },
+        {
+          "#text": "Arrêté du 19 avril 1996 relatif aux conditions de tarification s'appliquant à l'accès au service public d'information sur les entreprises, organismes publics et leurs établissements",
+          "@c_titre_court": "Arrêté du 19 avril 1996",
+          "@debut": "1996-06-22",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005621210"
+        }
+      ],
+      "@cid": "JORFTEXT000000560982",
+      "@date_publi": "1996-06-22",
+      "@date_signature": "1996-04-19",
+      "@ministere": "MINISTERE DE L'ECONOMIE ET DES FINANCES",
+      "@nature": "ARRETE",
+      "@nor": "ECOS9670003A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-06-22",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006554705",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le tarif des prestations autres que celles figurant à l'article 4 et autorisées par l'article 1er du décret du 17 février 1995 susvisé comprend :<br/>\n<br/>   - un droit d'accès déterminé selon les tarifs figurant dans le tableau de l'article 8 ;<br/>\n<br/>   - des frais de mises à disposition ainsi calculés :<br/>\n<br/>   - coût correspondant au temps personne : gratuit si la durée de la prestation est inférieure à une heure, sinon 540 F la première demi-journée, 540 F la deuxième demi-journée, 1 080 F par demi-journée supplémentaire, toute demi-journée commencée étant facturée ;<br/>\n<br/>   - coût correspondant au temps machine : fonction du nombre de données figurant dans le fichier traité en entrée et la nature des opérations réalisées, selon le tableau ci-dessous :<br/>\n<br/>\n OPÉRATION informatique<br/>\n COÛT par million de données figurant dans le fichier traité en entrée (en francs)<br/>\n<br/>\n<br/>\n Lecture<br/>\n<br/> 4 <br/>\n Extraction/tri du fichier<br/>\n<br/> 1 <br/>\n Recodification<br/>\n 10 <br/>\n Tabulation<br/>\n<br/> 1 <br/>\n<br/>\n<br/>   L'extraction est l'opération consistant à sélectionner dans un fichier détail ou dans un fichier tabulé un sous-ensemble de données préexistantes et constituant ce fichier.<br/>\n<br/>   La recodification est l'opération consistant à créer de nouvelles variables à partir de variables existant dans un fichier donné.<br/>\n<br/>   La tabulation est l'opération consistant à agréer des données ou à produire des tableaux à partir d'un fichier détail, ou encore à opérer des calculs sur des tableaux déjà produits :<br/>\n<br/>   - frais de support, selon le tableau ci-dessous :<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n Papier.<br/>\n 2 F par page ou 2 F par tranche de 500 données tabulées (ou cases de tableau). <br/>\n Disquette.<br/>\n 200 F par tranche indivisible de 100 000 données tabulées (ou case de tableau) ou 500 000 données détail. <br/>\n Bande ou cartouche.<br/>\n 500 F, quel que soit le nombre de bandes ou cartouches. <br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1996-04-19 art. 4, art. 8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°95-171 du 17 février 1995 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000735289",
+        "@datesignatexte": "1995-02-17",
+        "@id": "LEGIARTI000006541367",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOS9540007D",
+        "@num": "1",
+        "@numtexte": "95-171",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

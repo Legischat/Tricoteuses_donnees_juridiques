@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006314371",
+      "ANCIEN_ID": "AAEDHXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/43/LEGIARTI000006314371.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-07-12",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°85-698 du 11 juillet 1985 AUTORISANT L'EMISSION DE VALEURS MOBILIERES PAR CERTAINES ASSOCIATIONS",
+          "@c_titre_court": "Loi n°85-698 du 11 juillet 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874464"
+        },
+        {
+          "#text": "Loi n° 85-698 du 11 juillet 1985 autorisant l'émission de valeurs mobilières par certaines associations",
+          "@c_titre_court": "Loi n° 85-698 du 11 juillet 1985",
+          "@debut": "1985-07-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068910"
+        }
+      ],
+      "@cid": "JORFTEXT000000874464",
+      "@date_publi": "1985-07-12",
+      "@date_signature": "1985-07-11",
+      "@nature": "LOI",
+      "@num": "85-698"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-12",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006314371",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un décret en Conseil d'Etat fixera, en tant que de besoin, les conditions d'application de la présente loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L213-21 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006648104",
+        "@naturetexte": "CODE",
+        "@num": "L213-21",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L213-21 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006648104",
+        "@naturetexte": "CODE",
+        "@num": "L213-21",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

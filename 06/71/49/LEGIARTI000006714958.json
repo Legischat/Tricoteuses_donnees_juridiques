@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006714958",
+      "ANCIEN_ID": "SPI5PXXXXXX007AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/49/LEGIARTI000006714958.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-05-02",
+        "DATE_FIN": "2019-09-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 septembre 1989 relatif aux études préparatoires et au diplôme d'Etat de masseur-kinésithérapeute",
+          "@c_titre_court": "Arrêté du 5 septembre 1989",
+          "@debut": "1989-09-08",
+          "@fin": "2019-09-30",
+          "@id_txt": "LEGITEXT000006072730"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Des études préparatoires au diplôme d'Etat de masseur-kinésithérapeute.",
+            "@debut": "1989-09-08",
+            "@fin": "2019-09-30",
+            "@id": "LEGISCTA000006104711"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072730",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1989-09-05",
+      "@nature": "ARRETE",
+      "@nor": "SPSP8901766A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-09-08",
+          "@etat": "MODIFIE",
+          "@fin": "2007-05-02",
+          "@id": "LEGIARTI000006714957",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-05-02",
+          "@etat": "ABROGE",
+          "@fin": "2019-09-30",
+          "@id": "LEGIARTI000006714958",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A l'issue de l'examen de rattrapage prévu à l'article 5, un module est définitivement validé lorsque l'étudiant obtient une note au moins égale à 10 sur 20 à cet examen.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "ARRÊTÉ du 2 septembre 2015 - art. 37",
+        "@cidtexte": "JORFTEXT000031127778",
+        "@datesignatexte": "2015-09-02",
+        "@id": "LEGIARTI000031128280",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AFSH1516238A",
+        "@num": "37",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Arrêté 2007-03-28 art. 1 I JORF 2 mai 2007",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 1963-03-29",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 89-633 1989-09-05",
+        "@cidtexte": "JORFTEXT000000882812",
+        "@datesignatexte": "1989-09-05",
+        "@id": "JORFTEXT000000882812",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSP8901761D",
+        "@numtexte": "89-633",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

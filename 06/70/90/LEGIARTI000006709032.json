@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006709032",
+      "ANCIEN_ID": "SPHPFXXXXXX023AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/90/LEGIARTI000006709032.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-03-03",
+        "DATE_FIN": "1992-04-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°72-350 du 2 mai 1972 RELATIF AUX CONSEILS D'ADMINISTRATION DES ETABLISSEMENTS OU GROUPES D'ETABLISSEMENTS D'HOSPITALISATION PUBLICS",
+          "@c_titre_court": "Décret n°72-350 du 2 mai 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000329331"
+        },
+        {
+          "#text": "Décret n°72-350 du 2 mai 1972 relatif aux conseils d'administration des établissements ou groupes d'établissements d'hospitalisation publics.",
+          "@c_titre_court": "Décret n°72-350 du 2 mai 1972",
+          "@debut": "1972-05-04",
+          "@fin": "1992-04-03",
+          "@id_txt": "LEGITEXT000006061930"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : Fonctionnement des conseils d'administration",
+            "@debut": "1972-05-04",
+            "@fin": "1992-04-03",
+            "@id": "LEGISCTA000006104324"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000329331",
+      "@date_publi": "1972-05-04",
+      "@date_signature": "1972-05-02",
+      "@nature": "DECRET",
+      "@num": "72-350"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-05-04",
+          "@etat": "MODIFIE",
+          "@fin": "1989-03-03",
+          "@id": "LEGIARTI000006709031",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-03-03",
+          "@etat": "ABROGE",
+          "@fin": "1992-04-03",
+          "@id": "LEGIARTI000006709032",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le conseil d'administration se réunit sur convocation de son président ou, en cas d'absence ou d'empêchement de celui-ci, du vice-président.<br/>\n    Les modalités des convocations sont fixées par le règlement intérieur de l'établissement. L'ordre du jour est arrêté par le président ou le vice-président du conseil d'administration et adressé, sauf en cas d'urgence, au moins sept jours à l'avance à l'ensemble des membres du conseil d'administration et à ses participants.<br/>\n    En cas d'urgence, le délai peut être abrégé par le président ou le vice-président, sans pouvoir toutefois être inférieur à un jour franc. Le président ou le vice-président en rend compte au conseil d'administration qui se prononce définitivement sur l'urgence et peut décider le renvoi de la discussion, pour tout ou partie, à l'ordre du jour d'une séance ultérieure.<br/>\n    Le président ou le vice-président ne peuvent refuser de convoquer le conseil d'administration si la demande en a été formulée dans les conditions prévues au deuxième alinéa de l'article 22. Dans ce cas, la convocation doit intervenir dans le délai maximum de sept jours et le président ou le vice-président sont tenus d'inscrire à l'ordre du jour la ou les questions qui ont motivé la demande de séance.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 70-1318 1970-12-31",
+        "@cidtexte": "JORFTEXT000000874228",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000874228",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1318",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°72-350 du 2 mai 1972 - art. 22 (Ab)",
+        "@cidtexte": "JORFTEXT000000329331",
+        "@datesignatexte": "1972-05-02",
+        "@id": "LEGIARTI000006709030",
+        "@naturetexte": "DECRET",
+        "@num": "22",
+        "@numtexte": "72-350",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 92-371 1992-04-01 art. 2 JORF 3 avril 1992",
+        "@cidtexte": "JORFTEXT000000331889",
+        "@datesignatexte": "1992-04-01",
+        "@id": "JORFTEXT000000331889",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANT9200725D",
+        "@numtexte": "92-371",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006760071",
+      "ANCIEN_ID": "SSHAA1XXXXX004AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/00/LEGIARTI000006760071.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1978-03-10",
+        "DATE_FIN": "1982-12-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-269 du 8 mars 1978 RELATIF A L'ASSURANCE VIEILLESSE DES MERES ET FEMMES AYANT AU FOYER UN HANDICAPE",
+          "@c_titre_court": "Décret n°78-269 du 8 mars 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000513434"
+        },
+        {
+          "#text": "Décret n°78-269 du 8 mars 1978 relatif à l'assurance vieillesse des mères et des femmes ayant au foyer un handicapé.",
+          "@c_titre_court": "Décret n°78-269 du 8 mars 1978",
+          "@debut": "1978-03-10",
+          "@fin": "1985-12-21",
+          "@id_txt": "LEGITEXT000006062831"
+        }
+      ],
+      "@cid": "JORFTEXT000000513434",
+      "@date_publi": "1978-03-10",
+      "@date_signature": "1978-03-08",
+      "@nature": "DECRET",
+      "@num": "78-269"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-03-10",
+          "@etat": "MODIFIE",
+          "@fin": "1982-12-30",
+          "@id": "LEGIARTI000006760071",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-12-30",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006760072",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La cotisation [*montant*] due au titre des personnes visées ci-dessus est égale au taux cumulé de la cotisation patronale et ouvrière, en vigueur dans le régime général de la sécurité sociale, pour la couverture du risque vieillesse.<br/>\n<br/>   Cette cotisation est assise sur une assiette forfaitaire correspondant par mois à 173,33 fois le montant du salaire horaire minimum de croissance.<br/>\n<br/>   Le salaire minimum à prendre en considération pour l'assiette de la cotisation est fixé, au 1er janvier de chaque année, au montant dudit salaire en vigueur au 1er juillet de l'année civile précédente [*date*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°78-269 du 8 mars 1978 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000513434",
+        "@datesignatexte": "1978-03-08",
+        "@id": "LEGIARTI000006760073",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "78-269",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 13 juillet 1978 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000285684",
+        "@datesignatexte": "1978-07-13",
+        "@id": "LEGIARTI000006781898",
+        "@naturetexte": "ARRETE",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. D381-5 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006736762",
+        "@naturetexte": "CODE",
+        "@num": "D381-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

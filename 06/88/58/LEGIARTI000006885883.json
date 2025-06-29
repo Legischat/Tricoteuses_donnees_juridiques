@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006885883",
+      "ANCIEN_ID": "UTI4QXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/58/LEGIARTI000006885883.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-01-25",
+        "DATE_FIN": "2006-04-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 décembre 1994 relatif à l'interdiction de circulation des    véhicules de transport de marchandises",
+          "@c_titre_court": "Arrêté du 22 décembre 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000369295"
+        },
+        {
+          "#text": "Arrêté du 22 décembre 1994 relatif à l'interdiction de circulation des véhicules de transport de marchandises",
+          "@c_titre_court": "Arrêté du 22 décembre 1994",
+          "@debut": "1995-01-25",
+          "@fin": "2006-04-10",
+          "@id_txt": "LEGITEXT000005617597"
+        }
+      ],
+      "@cid": "JORFTEXT000000369295",
+      "@date_publi": "1995-01-25",
+      "@date_signature": "1994-12-22",
+      "@ministere": "MINISTERE DE L'EQUIPEMENT,DES TRANSPORTS ET DU TOURISME",
+      "@nature": "ARRETE",
+      "@nor": "EQUS9401847A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-01-25",
+          "@etat": "ABROGE",
+          "@fin": "2006-04-10",
+          "@id": "LEGIARTI000006885883",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Durant les périodes d'interdiction de circulation définies à l'article 1er, le service de permanence mis en place dans chaque préfecture pourra procéder à l'établissement des autorisations individuelles de courte durée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-12-22 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2006-03-28 art. 11 JORF 5 avril 2006 en vigueur le 10 avril 2006",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R.53-2",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

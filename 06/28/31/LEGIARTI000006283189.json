@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283189",
+      "ANCIEN_ID": "ARAXXXXXXXX5X00005AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/31/LEGIARTI000006283189.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1966-02-01",
+        "DATE_FIN": "1986-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de commerce (ancien)",
+          "@c_titre_court": "Code de commerce",
+          "@debut": "1807-09-20",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre I : Du commerce en général",
+            "@debut": "1807-09-20",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083845"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre I : Des commerçants.",
+              "@debut": "1807-09-20",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006114093"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069441",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-02-01",
+          "@etat": "ABROGE",
+          "@fin": "1986-07-01",
+          "@id": "LEGIARTI000006283189",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sous tous les régimes matrimoniaux, la femme commerçante peut, pour les besoins de son commerce, aliéner et obliger tous ses biens personnels en pleine propriété.<br/>\n<br/>   Sous le régime de communauté, elle peut aussi aliéner et obliger ses biens réservés ; et elle oblige même l'ensemble des biens communs et les propres du mari dans les cas prévus à l'article 1420 du code civil.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1807-09-10 promulguée le 20 septembre 1807",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°85-1372 du 23 décembre 1985 - art. 55 (V)",
+        "@cidtexte": "JORFTEXT000000521293",
+        "@datesignatexte": "1985-12-23",
+        "@id": "LEGIARTI000006283968",
+        "@naturetexte": "LOI",
+        "@num": "55",
+        "@numtexte": "85-1372",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°85-1372 du 23 décembre 1985 - art. 7 (V) JORF 26 décembre 1985 en vigueur le 1er juillet 1986",
+        "@cidtexte": "JORFTEXT000000521293",
+        "@datesignatexte": "1985-12-23",
+        "@id": "LEGIARTI000006283962",
+        "@naturetexte": "LOI",
+        "@num": "7",
+        "@numtexte": "85-1372",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code civil - art. 1420 (Ab)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006439392",
+        "@naturetexte": "CODE",
+        "@num": "1420",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006879561",
+      "ANCIEN_ID": "AIILPXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/95/LEGIARTI000006879561.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-11-17",
+        "DATE_FIN": "2002-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1 octobre 1990 RELATIF AU TRAITEMENT PAR RAYONNEMENTS IONISANTS DU BLANC D'OEUF LIQUIDE,DESHYDRATE OU CONGELE",
+          "@c_titre_court": "Arrêté du 1 octobre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000315179"
+        },
+        {
+          "#text": "Arrêté du 1 octobre 1990 relatif au traitement par rayonnements ionisants du blanc d'oeuf liquide, déshydraté ou congelé",
+          "@c_titre_court": "Arrêté du 1 octobre 1990",
+          "@debut": "1990-11-17",
+          "@fin": "2002-09-06",
+          "@id_txt": "LEGITEXT000006059458"
+        }
+      ],
+      "@cid": "JORFTEXT000000315179",
+      "@date_publi": "1990-11-17",
+      "@date_signature": "1990-10-01",
+      "@nature": "ARRETE",
+      "@nor": "ECOC8800115A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-11-17",
+          "@etat": "ABROGE",
+          "@fin": "2002-09-06",
+          "@id": "LEGIARTI000006879561",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le blanc d'oeuf destiné à subir le traitement prévu à l'article 1er doit être préparé dans les conditions d'hygiène énoncées dans l'arrêté du 8 juillet 1977 modifié susvisé.<br/>\n<br/>   Le blanc d'oeuf liquide ou congelé doit être maintenu pendant et après le traitement à des températures inférieures ou égales à celles mentionnées ci-dessous, conformément aux dispositions de l'arrêté du 8 juillet 1977 modifié susvisé :<br/>\n<br/>   Blanc d'oeuf liquide : + 3 °C ;<br/>\n<br/>   Blanc d'oeuf congelé : - 12 °C.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-07-08",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1990-10-01 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 août 2002 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000410150",
+        "@datesignatexte": "2002-08-20",
+        "@id": "LEGIARTI000021244775",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC0200067A",
+        "@num": "4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006402294",
+      "ANCIEN_ID": "ABEADXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/22/LEGIARTI000006402294.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1991-01-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 85-99 du 25 janvier 1985 relative aux administrateurs judiciaires, mandataires-liquidateurs et experts en diagnostic d'entreprise",
+          "@c_titre_court": "Loi n°85-99 du 25 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000512201"
+        },
+        {
+          "#text": "Loi n° 85-99 du 25 janvier 1985 relative aux administrateurs judiciaires, aux mandataires judiciaires à la liquidation des entreprises et experts en diagnostic d'entreprise",
+          "@c_titre_court": "Loi n° 85-99 du 25 janvier 1985",
+          "@debut": "1986-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068924"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Les administrateurs judiciaires.",
+            "@debut": "1986-01-01",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006088383"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000512201",
+      "@date_publi": "1985-01-26",
+      "@date_signature": "1985-01-25",
+      "@nature": "LOI",
+      "@num": "85-99"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1991-01-05",
+          "@id": "LEGIARTI000006402294",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-05",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006402295",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La qualité d'administrateur judiciaire inscrit sur la liste est incompatible avec l'exercice de toute autre profession.<br/>\n<br/>   Elle ne fait pas obstacle à l'accomplissement des mandats de conciliateur prévu par l'article 35 de la loi n° 84-148 du 1er mars 1984 relative à la prévention et au règlement amiable des difficultés des entreprises, de commissaire à l'exécution du plan, d'administrateur ou de liquidateur amiable, d'expert judiciaire et de séquestre judiciaire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-148 1984-03-01 art. 35",
+        "@cidtexte": "JORFTEXT000000501098",
+        "@datesignatexte": "1984-03-01",
+        "@id": "JORFTEXT000000501098",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-148",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 85-99 1985-01-25 art. 50 *date d'effet*",
+        "@cidtexte": "JORFTEXT000000512201",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000512201",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-99",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté du 14 janvier 2009 - art. (V)",
+        "@cidtexte": "JORFTEXT000020152123",
+        "@datesignatexte": "2009-01-14",
+        "@id": "LEGIARTI000020154615",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSC0818602A",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 14 janvier 2009 - art. (VD)",
+        "@cidtexte": "JORFTEXT000020152123",
+        "@datesignatexte": "2009-01-14",
+        "@id": "LEGIARTI000039349117",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSC0818602A",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de commerce. - art. Annexe 8-2 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000041640806",
+        "@naturetexte": "CODE",
+        "@num": "Annexe 8-2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L811-10 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006241875",
+        "@naturetexte": "CODE",
+        "@num": "L811-10",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

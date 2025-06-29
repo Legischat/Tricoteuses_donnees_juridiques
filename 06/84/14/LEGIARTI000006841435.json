@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006841435",
+      "ANCIEN_ID": "UFAXXXXXXXX2X223R011XXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/14/LEGIARTI000006841435.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R223-11",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2001-06-01",
+        "DATE_FIN": "2003-07-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la route",
+          "@c_titre_court": "Code de la route.",
+          "@debut": "2001-05-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074228"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "2001-05-27",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108688"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Le conducteur.",
+              "@debut": "2001-06-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006129090"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Permis de conduire.",
+                "@debut": "2001-06-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143852"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre III : Permis à points.",
+                  "@debut": "2001-06-01",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006159564"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074228",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-06-01",
+          "@etat": "MODIFIE",
+          "@fin": "2003-07-12",
+          "@id": "LEGIARTI000006841435",
+          "@num": "R223-11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-07-12",
+          "@etat": "ABROGE",
+          "@fin": "2006-06-08",
+          "@id": "LEGIARTI000006841436",
+          "@num": "R223-11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. - Dans chaque département, le comité départemental de la formation des conducteurs responsables d'infractions donne son avis préalablement aux délivrances et aux retraits des agréments prévus à l'article R. 223-5.<br/>\n<br/>   II. - Ce comité, placé sous la présidence du préfet ou de son représentant, est composé :<br/>\n<br/>   1° Du commandant de groupement de la gendarmerie départementale ou de son représentant ;<br/>\n<br/>   2° Du directeur départemental de la sécurité publique ou de son représentant ;<br/>\n<br/>   3° Du directeur départemental de l'équipement ou de son représentant ;<br/>\n<br/>   4° D'un fonctionnaire responsable de la formation des conducteurs désigné par le ministre chargé des transports.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2001-251 2001-03-22 JORF 25 mars 2001",
+        "@cidtexte": "JORFTEXT000000578193",
+        "@datesignatexte": "2001-03-22",
+        "@id": "JORFTEXT000000578193",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUS0100055D",
+        "@numtexte": "2001-251",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code de la route - art. R264-1 (Ab)",
+        "@cidtexte": "LEGITEXT000006074947",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006876110",
+        "@naturetexte": "CODE",
+        "@num": "R264-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code de la route R264-1",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la route. - art. R223-5 (M)",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006841420",
+        "@naturetexte": "CODE",
+        "@num": "R223-5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

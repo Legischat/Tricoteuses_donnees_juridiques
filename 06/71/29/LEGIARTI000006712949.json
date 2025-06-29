@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006712949",
+      "ANCIEN_ID": "AFECHXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/29/LEGIARTI000006712949.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1857-06-19",
+        "DATE_FIN": "2019-12-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI du 19 juin 1857 concernant les avances sur dépôts d'obligations foncières faites par la société du Crédit foncier de France",
+          "@c_titre_court": "LOI du 19 juin 1857",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000021778120"
+        },
+        {
+          "#text": "Loi du 19 juin 1857 concernant les avances sur dépôts d'obligations foncières faites par la société du Crédit foncier de France.",
+          "@c_titre_court": "Loi du 19 juin 1857",
+          "@debut": "1857-06-19",
+          "@fin": "2019-12-13",
+          "@id_txt": "LEGITEXT000006072707"
+        }
+      ],
+      "@cid": "JORFTEXT000021778120",
+      "@date_publi": "1857-06-25",
+      "@date_signature": "1857-06-19",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1857-06-19",
+          "@etat": "ABROGE",
+          "@fin": "2019-12-13",
+          "@id": "LEGIARTI000006712949",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A défaut de remboursement dès le lendemain de l'échéance, la société du Crédit foncier peut, sans qu'il soit besoin de mise en demeure, faire procéder, par le ministère d'un agent de change, à la vente du titre, conformément aux dispositions du même article 5 de l'ordonnance précitée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2019-1332 du 11 décembre 2019 - art. 1",
+        "@cidtexte": "JORFTEXT000039480074",
+        "@datesignatexte": "2019-12-11",
+        "@id": "LEGIARTI000039482898",
+        "@naturetexte": "LOI",
+        "@nortexte": "CPAX1907946L",
+        "@num": "1",
+        "@numtexte": "2019-1332",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1857-06-19 Bulletin des lois 11e S, B. 512, n° 4683",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 1834-06-15 art. 5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006456684",
+      "ANCIEN_ID": "PFHKEXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/66/LEGIARTI000006456684.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-10-31",
+        "DATE_FIN": "1993-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°88-701 du 9 mai 1988 relatif au statut d'emploi du directeur du musée du Louvre",
+          "@c_titre_court": "Décret n°88-701 du 9 mai 1988",
+          "@debut": "1988-05-10",
+          "@fin": "1993-01-01",
+          "@id_txt": "LEGITEXT000006070953"
+        }
+      ],
+      "@cid": "LEGITEXT000006070953",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1988-05-09",
+      "@nature": "DECRET",
+      "@nor": "MCCB8800296D",
+      "@num": "88-701"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-05-10",
+          "@etat": "MODIFIE",
+          "@fin": "1991-10-31",
+          "@id": "LEGIARTI000006456683",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-10-31",
+          "@etat": "ABROGE",
+          "@fin": "1993-01-01",
+          "@id": "LEGIARTI000006456684",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'emploi de directeur du musée du Louvre comporte deux échelons. La durée des services effectifs dans le premier échelon exigée pour accéder au deuxième échelon est fixée à trois ans.<br/>\n<br/>   Le fonctionnaire nommé dans cet emploi est placé en position de détachement dans son corps d'origine.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°91-1132 du 25 octobre 1991 - art. 2 () JORF 31 octobre 1991",
+        "@cidtexte": "JORFTEXT000000343909",
+        "@datesignatexte": "1991-10-25",
+        "@id": "LEGIARTI000006467278",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCB9100506D",
+        "@num": "2",
+        "@numtexte": "91-1132",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°92-1338 du 22 décembre 1992 - art. 32 (V) JORF 23 décembre 1992 en vigueur le 1er janvier 1993",
+        "@cidtexte": "JORFTEXT000000360157",
+        "@datesignatexte": "1992-12-22",
+        "@id": "LEGIARTI000006535278",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENB9200481D",
+        "@num": "32",
+        "@numtexte": "92-1338",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

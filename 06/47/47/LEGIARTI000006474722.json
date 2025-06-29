@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006474722",
+      "ANCIEN_ID": "PGIGZXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/47/47/LEGIARTI000006474722.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1998-09-05",
+        "DATE_FIN": "2007-08-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 août 1998 fixant la rémunération des membres des comités médicaux prévus par le décret no 86-442 du 14 mars 1986",
+          "@c_titre_court": "Arrêté du 28 août 1998",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000755659"
+        },
+        {
+          "#text": "Arrêté du 28 août 1998 fixant la rémunération des membres des comités médicaux prévus par le décret n° 86-442 du 14 mars 1986.",
+          "@c_titre_court": "Arrêté du 28 août 1998",
+          "@debut": "1998-09-05",
+          "@fin": "2007-08-03",
+          "@id_txt": "LEGITEXT000005626518"
+        }
+      ],
+      "@cid": "JORFTEXT000000755659",
+      "@date_publi": "1998-09-05",
+      "@date_signature": "1998-08-28",
+      "@ministere": "MINISTERE DE L'EMPLOI ET DE LA SOLIDARITE",
+      "@nature": "ARRETE",
+      "@nor": "MESX9803139A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1998-09-05",
+          "@etat": "ABROGE",
+          "@fin": "2007-08-03",
+          "@id": "LEGIARTI000006474722",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 4 décembre 1985 fixant la rémunération des membres des comités médicaux prévus par le décret n° 59-310 du 14 février 1959 est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-12-04",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2007-07-03 art. 3 JORF 3 août 2007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 59-310 1959-02-14",
+        "@cidtexte": "JORFTEXT000000675600",
+        "@datesignatexte": "1959-02-14",
+        "@id": "JORFTEXT000000675600",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-310",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 86-442 1986-03-14",
+        "@cidtexte": "JORFTEXT000000884830",
+        "@datesignatexte": "1986-03-14",
+        "@id": "JORFTEXT000000884830",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-442",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

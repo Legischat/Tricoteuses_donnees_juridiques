@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006485078",
+      "ANCIEN_ID": "PHHX2XXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/50/LEGIARTI000006485078.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1984-01-01",
+        "DATE_FIN": "2002-04-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-1252 du 31 décembre 1983 RELATIF A LA NOTATION DES MILITAIRES",
+          "@c_titre_court": "Décret n°83-1252 du 31 décembre 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000691351"
+        },
+        {
+          "#text": "Décret n°83-1252 du 31 décembre 1983 relatif à la notation des militaires.",
+          "@c_titre_court": "Décret n°83-1252 du 31 décembre 1983",
+          "@debut": "1984-01-01",
+          "@fin": "2005-08-03",
+          "@id_txt": "LEGITEXT000006064028"
+        }
+      ],
+      "@cid": "JORFTEXT000000691351",
+      "@date_publi": "1984-01-04",
+      "@date_signature": "1983-12-31",
+      "@nature": "DECRET",
+      "@num": "83-1252"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2002-04-28",
+          "@id": "LEGIARTI000006485078",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-04-28",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-03",
+          "@id": "LEGIARTI000006485079",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le militaire est noté au moins une fois par an.<br/>\n<br/>   Les notes et appréciations lui sont obligatoirement communiquées au premier degré de notation lors de l'entretien avec le notateur.<br/>\n<br/>   L'ensemble de la notation lui est communiqué lorsque celle-ci a été arrêtée par l'autorité notant en dernier ressort, au plus tard avant le début des travaux de notation de l'année suivante, si le militaire ne concourt pas pour un avancement de grade au choix et avant le début des travaux des commissions d'avancement pour l'année à venir si le militaire concourt pour un avancement de grade au choix.<br/>\n<br/>   Chaque communication de notation est attestée par la signature de l'intéressé sur le document portant sa notation ou une copie certifiée conforme de ce document ; celle-ci est classée au dossier de l'intéressé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 83-1252 1983-12-31 JORF 4 janvier 1984 en vigueur le 1er janvier 1984, rectificatif JORF 3 février 1984",
+        "@cidtexte": "JORFTEXT000000691351",
+        "@datesignatexte": "1983-12-31",
+        "@id": "JORFTEXT000000691351",
+        "@naturetexte": "DECRET",
+        "@numtexte": "83-1252",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°83-1252 du 31 décembre 1983 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000691351",
+        "@datesignatexte": "1983-12-31",
+        "@id": "LEGIARTI000006485073",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "83-1252",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

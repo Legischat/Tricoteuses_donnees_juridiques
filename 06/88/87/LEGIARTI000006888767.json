@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888767",
+      "ANCIEN_ID": "UTIGLXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/87/LEGIARTI000006888767.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-12-01",
+        "DATE_FIN": "1990-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 février 1982 portant application de l'article R. 123-1 du code de la route et fixant les conditions et modalités de conversion des permis militaires en permis civils",
+          "@c_titre_court": "Arrêté du 16 février 1982",
+          "@debut": "1982-12-01",
+          "@fin": "1990-07-01",
+          "@id_txt": "LEGITEXT000006075054"
+        }
+      ],
+      "@cid": "LEGITEXT000006075054",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-02-16",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-12-01",
+          "@etat": "ABROGE",
+          "@fin": "1990-07-01",
+          "@id": "LEGIARTI000006888767",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La conversion d'un permis militaire en permis civil de la même catégorie est interdite lorsque le demandeur est déjà titulaire d'un permis de conduire civil de cette catégorie ou est sous le coup d'une mesure d'annulation de ce permis.<br/>\n<br/>   Si l'intéressé fait l'objet d'une mesure restrictive du droit de conduire prononcée en application des articles L. 14 et L. 18 du code de la route, le bénéfice de la conversion ne peut lui être accordé qu'à l'expiration de cette mesure lors de la restitution de son permis civil.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-06-13 art. 9 JORF 28 juin 1990 en vigueur le 1er juillet 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route L14, L18",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route R123-1",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

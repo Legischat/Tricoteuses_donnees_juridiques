@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351145",
+      "ANCIEN_ID": "MDE01XXXXXX023AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/11/LEGIARTI000006351145.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-02-08",
+        "DATE_FIN": "1996-02-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 10 août 1871 relative aux conseils généraux",
+          "@c_titre_court": "Loi du 10 août 1871",
+          "@debut": "1871-08-10",
+          "@fin": "1996-02-24",
+          "@id_txt": "LEGITEXT000006070209"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "SESSIONS DES CONSEILS GENERAUX.",
+            "@debut": "1871-08-29",
+            "@fin": "1996-02-24",
+            "@id": "LEGISCTA000006085639"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006070209",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1871-08-10",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-03-31",
+          "@etat": "MODIFIE",
+          "@fin": "1959-09-15",
+          "@id": "LEGIARTI000006351143",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1959-09-15",
+          "@etat": "ABROGE",
+          "@fin": "1982-03-24",
+          "@id": "LEGIARTI000006351144",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-02-08",
+          "@etat": "ABROGE",
+          "@fin": "1996-02-24",
+          "@id": "LEGIARTI000006351145",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tout membre du conseil général a le droit, dans le cadre de sa fonction, d'être informé des affaires du département qui font l'objet d'une délibération. \"<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°92-125 du 6 février 1992 - art. 28 () JORF 8 février 1992",
+        "@cidtexte": "JORFTEXT000000722113",
+        "@datesignatexte": "1992-02-06",
+        "@id": "LEGIARTI000006339627",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9000102L",
+        "@num": "28",
+        "@numtexte": "92-125",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996",
+        "@cidtexte": "JORFTEXT000000559120",
+        "@datesignatexte": "1996-02-21",
+        "@id": "LEGIARTI000006340192",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9400076L",
+        "@num": "12",
+        "@numtexte": "96-142",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code général des collectivités territoriales - art. L3121-18 (V)",
+        "@cidtexte": "LEGITEXT000006070633",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006391591",
+        "@naturetexte": "CODE",
+        "@num": "L3121-18",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

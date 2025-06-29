@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006678098",
+      "ANCIEN_ID": "SHIGEXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/80/LEGIARTI000006678098.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-01-01",
+        "DATE_FIN": "1985-06-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 11 octobre 1950 concernant les conditions d'étiquetage des récipients contenant du bromure de méthyle",
+          "@c_titre_court": "Arrêté du 11 octobre 1950",
+          "@debut": "1951-01-01",
+          "@fin": "1985-06-19",
+          "@id_txt": "LEGITEXT000006072564"
+        }
+      ],
+      "@cid": "LEGITEXT000006072564",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1950-10-11",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1985-06-19",
+          "@id": "LEGIARTI000006678098",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "En ce qui concerne les extincteurs au bromure de méthyle d'une capacité égale ou inférieure à 0,250 litre, seule l'inscription en caractères apparents :<br/>\n    \"Bromure de méthyle, toxique\"<br/>\n sera obligatoire sans condition de couleur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-06-05 art. 2 JORF 19 juin 1985",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 48-1895 1948-12-10",
+        "@cidtexte": "JORFTEXT000000686452",
+        "@datesignatexte": "1948-12-10",
+        "@id": "JORFTEXT000000686452",
+        "@naturetexte": "DECRET",
+        "@numtexte": "48-1895",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

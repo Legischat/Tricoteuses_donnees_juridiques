@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006863464",
+      "ANCIEN_ID": "UPIPHXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/34/LEGIARTI000006863464.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-02-10",
+        "DATE_FIN": "1985-09-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 septembre 1982 relatif au contrôle au point fixe du niveau sonore des véhicules à moteur",
+          "@c_titre_court": "Arrêté du 9 septembre 1982",
+          "@debut": "1982-11-28",
+          "@fin": "1985-09-17",
+          "@id_txt": "LEGITEXT000006074650"
+        }
+      ],
+      "@cid": "LEGITEXT000006074650",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-09-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-11-28",
+          "@etat": "MODIFIE",
+          "@fin": "1985-02-10",
+          "@id": "LEGIARTI000006863463",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-02-10",
+          "@etat": "ABROGE",
+          "@fin": "1985-09-17",
+          "@id": "LEGIARTI000006863464",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les prescriptions de l'article 2 ne sont pas applicables aux véhicules automobiles ayant fait l'objet d'une réception C.E.E. conforme, suivant le cas, aux dispositions des arrêtés du 8 juin 1979 ou du 7 janvier 1985 susvisés. Dans ce cas, le résultat de l'essai de référence retenu pour la réception par type du véhicule sera celui indiqué sur la fiche de réception C.E.E..<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-06-08",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1982-09-09 ART.2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1985-01-07",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1985-07-18 art. 5 JORF 17 septembre 1985",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R70",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

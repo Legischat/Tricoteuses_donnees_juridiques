@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006280302",
+      "ANCIEN_ID": "AAEAAXXXXXX321AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/03/LEGIARTI000006280302.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "321",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1967-09-28",
+        "DATE_FIN": "1990-01-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692245"
+        },
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "1964-04-01",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006068288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Règles de fonctionnement des diverses sociétés commerciales",
+            "@debut": "1964-04-01",
+            "@fin": "2003-01-01",
+            "@id": "LEGISCTA000006083319"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 5 : Valeurs mobilières émises par les sociétés par actions",
+              "@debut": "1964-04-01",
+              "@fin": "2001-01-01",
+              "@id": "LEGISCTA000006114033"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 3 : Obligations.",
+                "@debut": "1964-04-01",
+                "@fin": "2001-01-01",
+                "@id": "LEGISCTA000006133344"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000692245",
+      "@date_publi": "1966-07-26",
+      "@date_signature": "1966-07-24",
+      "@nature": "LOI",
+      "@num": "66-537"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1967-09-28",
+          "@id": "LEGIARTI000006280301",
+          "@num": "321",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1967-09-28",
+          "@etat": "MODIFIE",
+          "@fin": "1990-01-02",
+          "@id": "LEGIARTI000006280302",
+          "@num": "321",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-02",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006280303",
+          "@num": "321",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A défaut d'approbation par l'assemblée générale extraordinaire des propositions visées aux 1° et 4° de l'article 313, le conseil d'administration, le directeur ou les gérants de la société débitrice peuvent passer outre.<br/>\n<br/>   La décision du conseil d'administration, du directoire ou des gérants de passer outre est publiée dans les conditions fixées par décret, qui détermine également le délai pendant lequel le remboursement doit être demandé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 313",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 339",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Ordonnance n°67-834 du 28 septembre 1967 - art. 7 () JORF 29 septembre 1967",
+        "@cidtexte": "JORFTEXT000000698677",
+        "@datesignatexte": "1967-09-28",
+        "@id": "LEGIARTI000006275854",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "7",
+        "@numtexte": "67-834",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

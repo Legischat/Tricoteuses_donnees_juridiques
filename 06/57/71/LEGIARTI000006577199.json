@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006577199",
+      "ANCIEN_ID": "PXXXXXXXXXX0660L000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/71/LEGIARTI000006577199.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "660",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1960-06-08",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de procédure pénale",
+          "@c_titre_court": "Code de procédure pénale",
+          "@debut": "1958-04-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071154"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1958-04-08",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098229"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre IV : De quelques procédures particulières",
+              "@debut": "1959-03-02",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121328"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre V : Des règlements de juges",
+                "@debut": "1960-06-08",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006138107"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071154",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-06-08",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006577199",
+          "@num": "660",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La chambre criminelle peut, avant de régler de juges, ordonner la communication de la requête aux parties. Dans ce cas, les pièces de la procédure lui sont transmises, dans le délai par elle fixé, avec les observations des intéressés, et le cours de la procédure est suspendu.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 58-1296 1958-12-23",
+        "@cidtexte": "JORFTEXT000000339261",
+        "@datesignatexte": "1958-12-23",
+        "@id": "JORFTEXT000000339261",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1296",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 60-529 1960-06-04 art. 2 JORF 8 juin 1960",
+        "@cidtexte": "JORFTEXT000000517670",
+        "@datesignatexte": "1960-06-04",
+        "@id": "JORFTEXT000000517670",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "60-529",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

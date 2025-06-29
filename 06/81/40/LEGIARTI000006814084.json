@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006814084",
+      "ANCIEN_ID": "UBAXXXXXXXX4X490A01AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/81/40/LEGIARTI000006814084.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "A490-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-05-04",
+        "DATE_FIN": "2007-10-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de l'urbanisme",
+          "@c_titre_court": "Code de l'urbanisme",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074075"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire - Arrêtés",
+            "@debut": "1977-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107991"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LIVRE IV : Règles relatives à l'acte de construire et à divers modes d'utilisation du sol",
+              "@debut": "1977-01-18",
+              "@fin": "2007-10-01",
+              "@id": "LEGISCTA000006128548"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "TITRE IX : Dispositions communes au titre III du livre Ier, au chapitre V du titre Ier du livre III et aux titres Ier à IV et VI du présent livre",
+                "@debut": "1984-05-04",
+                "@fin": "2007-10-01",
+                "@id": "LEGISCTA000006143269"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074075",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-11-19",
+          "@etat": "MODIFIE_MORT_NE",
+          "@fin": "1993-11-19",
+          "@id": "LEGIARTI000006814083",
+          "@num": "A490-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE_MORT_NE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-05-04",
+          "@etat": "ABROGE",
+          "@fin": "2007-10-01",
+          "@id": "LEGIARTI000006814084",
+          "@num": "A490-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le maire affecte aux demandes d'autorisations et actes relatifs à l'occupation du sol un numéro d'enregistrement de treize caractères dont la structure est la suivante :<br/>\n<br/>   Le numéro de code géographique I.N.S.E.E. du département (trois caractères) ;<br/>\n<br/>   Le numéro de code géographique I.N.S.E.E. de la commune (trois caractères) ;<br/>\n<br/>   Les deux derniers chiffres du millésime de l'année de dépôt de la demande (deux caractères) ;<br/>\n<br/>   Le numéro de dossier composé de cinq caractères ; le premier (de ces cinq caractères) est réservé au service instructeur ; les quatre autres (caractères) sont utilisés pour une numérotation en continu par nature d'autorisation ou acte relatif à l'utilisation du sol.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-10-29 art. 1 JORF 19 novembre 1993",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1993-10-29 art. 2",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 2007-06-06 art. 2 JORF 21 juin 2007 en vigueur le 1er octobre 2007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 77-38 1977-01-03 JORF 18 JANVIER 1977",
+        "@cidtexte": "JORFTEXT000000515331",
+        "@datesignatexte": "1977-01-03",
+        "@id": "JORFTEXT000000515331",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-38",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

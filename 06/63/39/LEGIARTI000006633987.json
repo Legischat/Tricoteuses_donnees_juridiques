@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006633987",
+      "ANCIEN_ID": "ADIVLXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/39/LEGIARTI000006633987.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-02-16",
+        "DATE_FIN": "2002-09-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 février 1985 relatif au traitement par rayonnements ionisants des viandes de volailles séparées mécaniquement",
+          "@c_titre_court": "Arrêté du 6 février 1985",
+          "@debut": "1985-02-16",
+          "@fin": "2002-09-07",
+          "@id_txt": "LEGITEXT000006071876"
+        }
+      ],
+      "@cid": "LEGITEXT000006071876",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-02-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-02-16",
+          "@etat": "ABROGE",
+          "@fin": "2002-09-07",
+          "@id": "LEGIARTI000006633987",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les mentions figurant sur les étiquettes citées à l'article 5 doivent être reproduites dans les documents accompagnant la marchandise ainsi que sur les factures.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-02-06 art. 5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 août 2002 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000410150",
+        "@datesignatexte": "2002-08-20",
+        "@id": "LEGIARTI000021244775",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC0200067A",
+        "@num": "4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

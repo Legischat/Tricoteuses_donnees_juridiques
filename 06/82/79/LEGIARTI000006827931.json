@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006827931",
+      "ANCIEN_ID": "UCIAGXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/79/LEGIARTI000006827931.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-03-19",
+        "DATE_FIN": "1988-04-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 mars 1976 relatif à l'isolation thermique des bâtiments autres que les bâtiments d'habitation",
+          "@c_titre_court": "Arrêté du 12 mars 1976",
+          "@debut": "1976-03-19",
+          "@fin": "1988-04-15",
+          "@id_txt": "LEGITEXT000006074105"
+        }
+      ],
+      "@cid": "LEGITEXT000006074105",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1976-03-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-03-19",
+          "@etat": "ABROGE",
+          "@fin": "1988-04-15",
+          "@id": "LEGIARTI000006827931",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "[*Arrêté abrogé une seconde fois par les arrêtés du 6 mai 1988 articles 42 et 43 JORF du 8 mai 1988)*].<br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'un local de catégorie I2 est contigu à un local de catégorie I1, ou à un local destiné à l'habitation , il est fait application d'un coefficient de transmission thermique global de la paroi ou des parois les séparant, Ce coefficient, appelé \"coefficient Kg\", est défini comme suit :<br/>\n<br/>   Le coefficient Kg d'une paroi séparant deux locaux est égal à la quantité de chaleur qui passe de l'un de ces locaux à l'autre par transmission à travers cette paroi pour un degré d'écart de température entre les deux locaux, divisée par la surface de cette paroi. Il est exprimé en watts par mètre carré et par degré Celsius. Il est calculé à partir des caractéristiques thermiques moyennes des matériaux en oeuvre et en tenant compte des ponts thermiques et de la présence éventuelle d'éléments chauffants en paroi.<br/>\n<br/>   Le coefficient Kg d'une paroi opaque séparant un local de catégorie I2 d'un local de catégorie I1 ou d'un local destiné à l'habitation ne doit pas dépasser les valeurs suivantes [*calcul*] :<br/>\n<br/>   Pour les parois horizontales ou faisant avec le plan horizontal un angle inférieur ou égal à 60 degrés : 0,8 en zones A et B et 1,0 en zone C ;<br/>\n<br/>   Pour les parois verticales ou faisant avec le plan horizontal un angle supérieur à 60 degrés : 1,4 en zones A et B et 1,7 en zone C.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-04-13 art. 43 JORF 15 avril 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 76-246 1976-03-12 ART. 2",
+        "@cidtexte": "JORFTEXT000000505873",
+        "@datesignatexte": "1976-03-12",
+        "@id": "JORFTEXT000000505873",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-246",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation. - art. R*111-21 (M)",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006896363",
+        "@naturetexte": "CODE",
+        "@num": "R*111-21",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

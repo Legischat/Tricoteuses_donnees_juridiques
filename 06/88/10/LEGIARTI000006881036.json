@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006881036",
+      "ANCIEN_ID": "UTHCFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/10/LEGIARTI000006881036.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-03-19",
+        "DATE_FIN": "2002-04-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 14 mars 1986 relatif au contrat type pour le transport public routier de marchandises.",
+          "@c_titre_court": "Décret du 14 mars 1986",
+          "@debut": "1986-03-19",
+          "@fin": "2002-04-24",
+          "@id_txt": "LEGITEXT000006074987"
+        }
+      ],
+      "@cid": "LEGITEXT000006074987",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-03-14",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-19",
+          "@etat": "ABROGE",
+          "@fin": "2002-04-24",
+          "@id": "LEGIARTI000006881036",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le contrat type pour le transport public routier de marchandises, applicable aux envois de trois tonnes et plus ne relevant pas d'un contrat type spécifique, annexé au présent décret, est approuvé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 82-1153 1982-12-30",
+        "@cidtexte": "JORFTEXT000000319738",
+        "@datesignatexte": "1982-12-30",
+        "@id": "JORFTEXT000000319738",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1153",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°2002-566 du 17 avril 2002 - art. 2 (VT) JORF 24 avril 2002",
+        "@cidtexte": "JORFTEXT000000777183",
+        "@datesignatexte": "2002-04-17",
+        "@id": "LEGIARTI000006210574",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUT0200508D",
+        "@num": "2",
+        "@numtexte": "2002-566",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

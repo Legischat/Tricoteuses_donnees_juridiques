@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006677201",
+      "ANCIEN_ID": "SHICPXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/72/LEGIARTI000006677201.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-01-25",
+        "DATE_FIN": "1986-10-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 janvier 1985 relatif au montant des redevances dues par les fabricants et importateurs de substances et préparations en application de l'article R231-62 du code du travail.",
+          "@c_titre_court": "Arrêté du 7 janvier 1985",
+          "@debut": "1985-01-25",
+          "@fin": "1986-10-19",
+          "@id_txt": "LEGITEXT000006072452"
+        }
+      ],
+      "@cid": "LEGITEXT000006072452",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-01-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-25",
+          "@etat": "ABROGE",
+          "@fin": "1986-10-19",
+          "@id": "LEGIARTI000006677201",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le directeur des relations du travail et le directeur de la sécurité sociale sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-10-01 art. 3 JORF 19 octobre 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. R231-62 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006806563",
+        "@naturetexte": "CODE",
+        "@num": "R231-62",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006323860",
+      "ANCIEN_ID": "FAHDXXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/38/LEGIARTI000006323860.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1981-12-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°81-1173 du 30 décembre 1981 PRIS POUR L'APPLICATION DE L'ART. 2O9-B DU CODE GENERAL DES IMPOTS ISSU DE L'ART. 70 DE LA LOI 8030 DU 18-01-1980 DE FINANCES POUR 1980 RELATIF A L'IMPOSITION DES BENEFICES REALISES PAR L'INTERMEDIAIRE DE SOCIETES ETABLIES DANS DES PAYS A REGIME FISCAL PRIVILEGIE",
+          "@c_titre_court": "Décret n°81-1173 du 30 décembre 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000690866"
+        },
+        {
+          "#text": "Décret n°81-1173 du 30 décembre 1981  N° 81-1173 DU 30 DECEMBRE 1981 PRIS POUR L'APPLICATION DE L'ARTICLE 209 B DU CODE GENERAL DES IMPOTS RELATIF A L'IMPOSITION DES BENEFICES REALISES PAR L'INTERMEDIAIRE DE SOCIETES ETABLIES DANS DES PAYS A REGIME FISCAL PRIVILEGIE",
+          "@c_titre_court": "Décret n°81-1173 du 30 décembre 1981",
+          "@debut": "1981-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006063413"
+        }
+      ],
+      "@cid": "JORFTEXT000000690866",
+      "@date_publi": "1981-12-31",
+      "@date_signature": "1981-12-30",
+      "@nature": "DECRET",
+      "@num": "81-1173"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006323860",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>L'entreprise est soumise à l'impôt sur les sociétés sur les résultats bénéficiaires de la société établie hors de France dans la proportion des droits sociaux détenus directement et indirectement, à l'exclusion des droits indirectement détenus par l'intermédiaire d'autres entreprises assujetties à l'impôt sur les sociétés en France, au titre de l'article 209 B du code général des impôts et à raison des mêmes bénéfices.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 209 B",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CGI 209 B (LOI 80-30 1980-01-18 ART. 70 FINANCES POUR 1980)",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 81-1173 1981-12-30 ART. 9 : DATE D'APPLICATION",
+        "@cidtexte": "JORFTEXT000000690866",
+        "@datesignatexte": "1981-12-30",
+        "@id": "JORFTEXT000000690866",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-1173",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 102 T (M)",
+        "@cidtexte": "LEGITEXT000006069569",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006293998",
+        "@naturetexte": "CODE",
+        "@num": "102 T",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

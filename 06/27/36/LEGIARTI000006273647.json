@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273647",
+      "ANCIEN_ID": "FAEBUXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/36/LEGIARTI000006273647.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1981-08-04",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°81-734 du 3 août 1981 DE FINANCES RECTIFICATIVE POUR 1981",
+          "@c_titre_court": "Loi n°81-734 du 3 août 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705483"
+        },
+        {
+          "#text": "Loi n° 81-734 du 3 août 1981 DE FINANCES RECTIFICATIVE POUR 1981 (1)",
+          "@c_titre_court": "Loi n° 81-734 du 3 août 1981",
+          "@debut": "1981-08-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068714"
+        }
+      ],
+      "@cid": "JORFTEXT000000705483",
+      "@date_publi": "1981-08-04",
+      "@date_signature": "1981-08-03",
+      "@nature": "LOI",
+      "@num": "81-734"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-08-04",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006273647",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001117195",
+          "@num": "8",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er octobre 1981, la taxe sur la valeur ajoutée est perçue au taux intermédiaire de 17,6 p. 100 sur la fourniture de logement, la pension et la demi-pension dans les hôtels de tourisme de catégorie 4 étoiles et 4 étoiles luxe et dans les relais de tourisme de catégorie 4 étoiles prévues par le décret n° 66-371 du 13 juin 1966 relatif au classement et aux prix des hôtels et restaurants et les arrêtés pris pour son application.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 66-371 1966-06-13",
+        "@cidtexte": "JORFTEXT000000701692",
+        "@datesignatexte": "1966-06-13",
+        "@id": "JORFTEXT000000701692",
+        "@naturetexte": "DECRET",
+        "@numtexte": "66-371",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 81-734 1981-08-03 Finances rectificative pour 1981 JORF 4 AOUT 1981",
+        "@cidtexte": "JORFTEXT000000705483",
+        "@datesignatexte": "1981-08-03",
+        "@id": "JORFTEXT000000705483",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-734",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 279 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006309474",
+        "@naturetexte": "CODE",
+        "@num": "279",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

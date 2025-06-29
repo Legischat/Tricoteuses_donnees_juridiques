@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006783122",
+      "ANCIEN_ID": "SSIAGHXXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/31/LEGIARTI000006783122.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1956-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 décembre 1955 relatif au calcul des cotisations patronales de sécurité sociale dues pour les voyageurs et représentants de commerce à   cartes multiples et fixant les modalités de la régularisation de ces cotisations et des cotisations ouvrières correspondantes.",
+          "@c_titre_court": "Arrêté du 30 décembre 1955",
+          "@debut": "1956-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073643"
+        }
+      ],
+      "@cid": "LEGITEXT000006073643",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1955-12-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006783122",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>   Le montant global des cotisations patronales d'assurances sociales, d'accidents du travail et d'allocations familiales à verser à partir du 1er janvier 1956 à la caisse nationale de compensation des cotisations de sécurité sociale des voyageurs, représentants et placiers de commerce à cartes multiples par les employeurs de voyageurs, représentants et placiers de commerce travaillant pour deux ou plusieurs employeurs et affiliés à ladite caisse, est calculé, pour chaque voyageur, représentant et placier, à raison de 15 % du montant de la rémunération nette de l'intéressé, après déduction des frais professionnels et jusqu'à concurrence, par trimestre et par employeur, d'un maximum égal au salaire limite trimestriel prévu à l'article 147 (paragraphe 1er) du décret n° 46-1378 du 8 juin 1946, modifié, portant règlement d'administration publique pour l'application de l'ordonnance n° 45-2250 du 4 octobre 1945.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°46-1378 du 8 juin 1946 - art. 147 (Ab)",
+        "@cidtexte": "JORFTEXT000000326051",
+        "@datesignatexte": "1946-06-08",
+        "@id": "LEGIARTI000006761357",
+        "@naturetexte": "DECRET",
+        "@num": "147",
+        "@numtexte": "46-1378",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "L'ordonnance n° 45-2250 du 4 octobre 1945 est abrogée et ses dispositions reprises au Code de la sécurité sociale",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 45-2250 1945-10-04 (abrogée)",
+        "@cidtexte": "JORFTEXT000000698857",
+        "@datesignatexte": "1945-10-04",
+        "@id": "JORFTEXT000000698857",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2250",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

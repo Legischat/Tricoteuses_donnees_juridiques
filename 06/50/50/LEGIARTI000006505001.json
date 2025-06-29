@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006505001",
+      "ANCIEN_ID": "PKH9EXXXXXX024AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/50/LEGIARTI000006505001.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-01",
+        "DATE_FIN": "2007-05-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°59-525 du 7 avril 1959 RELATIF AU STATUT PARTICULIER DES INGENIEURS DES INSTRUMENTS DE MESURE",
+          "@c_titre_court": "Décret n°59-525 du 7 avril 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000492535"
+        },
+        {
+          "#text": "Décret n°59-525 du 7 avril 1959 relatif au statut particulier des ingénieurs des instruments de mesure.",
+          "@c_titre_court": "Décret n°59-525 du 7 avril 1959",
+          "@debut": "1959-01-01",
+          "@fin": "2007-05-01",
+          "@id_txt": "LEGITEXT000006060899"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre VI",
+            "@debut": "1959-01-01",
+            "@fin": "2007-05-01",
+            "@id": "LEGISCTA000006094903"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000492535",
+      "@date_publi": "1959-04-14",
+      "@date_signature": "1959-04-07",
+      "@nature": "DECRET",
+      "@num": "59-525"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-05-01",
+          "@id": "LEGIARTI000006505001",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont abrogées toutes dispositions, notamment telles du décret n° 46-945 du 7 mai 1946 contraires à celles du présent décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 46-945 1946-05-07",
+        "@cidtexte": "JORFTEXT000000302327",
+        "@datesignatexte": "1946-05-07",
+        "@id": "JORFTEXT000000302327",
+        "@naturetexte": "DECRET",
+        "@numtexte": "46-945",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2007-616 du 27 avril 2007 - art. 27 (V) JORF 28 avril 2007 en vigueur le 1er mai 2007",
+        "@cidtexte": "JORFTEXT000000647315",
+        "@datesignatexte": "2007-04-27",
+        "@id": "LEGIARTI000006416257",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOP0751351D",
+        "@num": "27",
+        "@numtexte": "2007-616",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

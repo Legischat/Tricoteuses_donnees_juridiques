@@ -1,0 +1,166 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006613463",
+      "ANCIEN_ID": "RBAXXXXXXXX2X552R10AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/34/LEGIARTI000006613463.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R*552-10",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2003-10-12",
+        "DATE_FIN": "2006-07-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099186"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Inventaire et mise en valeur des ressources ligneuses - Reboisement",
+              "@debut": "1979-02-07",
+              "@fin": "2006-07-14",
+              "@id": "LEGISCTA000006121954"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre V : Amélioration des essences forestières",
+                "@debut": "1979-02-07",
+                "@fin": "2006-07-14",
+                "@id": "LEGISCTA000006138740"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : Conditions d'admission des matériels de base et règles relatives à la commercialisation des matériels forestiers de reproduction",
+                  "@debut": "2003-10-12",
+                  "@fin": "2006-07-14",
+                  "@id": "LEGISCTA000006152964"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 1 : Admission des matériels de base.",
+                    "@debut": "2003-10-12",
+                    "@fin": "2006-07-14",
+                    "@id": "LEGISCTA000006168965"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-10-12",
+          "@etat": "MODIFIE",
+          "@fin": "2006-07-14",
+          "@id": "LEGIARTI000006613463",
+          "@num": "R*552-10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006613464",
+          "@num": "R552-10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si les matériels de base définis aux articles R.[* 552-5 à R.*] 552-8 sont des organismes génétiquement modifiés au sens de l'article 2, points 1 et 2 de la directive 2001/18/CE, ces matériels ne peuvent être admis que s'ils ne présentent aucun danger pour la santé humaine et l'environnement. L'évaluation des risques est réalisée conformément aux dispositions de l'annexe II de la directive 2001/18/CE.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code forestier - art. R552-17 (Ab)",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006613479",
+        "@naturetexte": "CODE",
+        "@num": "R552-17",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code forestier R*552-5 à R*552-8",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071514",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Directive CE 2001-18 2001-03-12 Conseil art. 2, annexe II",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 79-114 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880704",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880704",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-114",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2003-971 du 10 octobre 2003 - art. 1 () JORF 12 octobre 2003",
+        "@cidtexte": "JORFTEXT000000796741",
+        "@datesignatexte": "2003-10-10",
+        "@id": "LEGIARTI000006224503",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRF0301671D",
+        "@num": "1",
+        "@numtexte": "2003-971",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006546160",
+      "ANCIEN_ID": "PQIQTXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/61/LEGIARTI000006546160.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-01-13",
+        "DATE_FIN": "2004-02-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 décembre 1993 relatif à l'informatisation de la gestion des    personnels de la direction des armements terrestres",
+          "@c_titre_court": "Arrêté du 27 décembre 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000544910"
+        },
+        {
+          "#text": "Arrêté du 27 décembre 1993 relatif à l'informatisation de la gestion des personnels de la direction des armements terrestres",
+          "@c_titre_court": "Arrêté du 27 décembre 1993",
+          "@debut": "1994-01-13",
+          "@fin": "2004-02-12",
+          "@id_txt": "LEGITEXT000006082858"
+        }
+      ],
+      "@cid": "JORFTEXT000000544910",
+      "@date_publi": "1994-01-13",
+      "@date_signature": "1993-12-27",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "ARRETE",
+      "@nor": "DEFA9302247A",
+      "@num_parution_jo": "0010"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-01-13",
+          "@etat": "ABROGE",
+          "@fin": "2004-02-12",
+          "@id": "LEGIARTI000006546160",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le droit d'accès prévu par l'article 34 de la loi du 6 janvier 1978 susvisée s'exerce auprès de chacun des organismes cités à l'article 2 du présent arrêté, où est mis en oeuvre le traitement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-12-27 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 78-17 1978-01-06 art. 34",
+        "@cidtexte": "JORFTEXT000000886460",
+        "@datesignatexte": "1978-01-06",
+        "@id": "JORFTEXT000000886460",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 5 janvier 2004 - art. 1, v. init.",
+        "@cidtexte": "JORFTEXT000000800397",
+        "@datesignatexte": "2004-01-05",
+        "@id": "JORFARTI000001474413",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEFA0400090A",
+        "@num": "1",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

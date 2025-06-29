@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006473819",
+      "ANCIEN_ID": "ACECAXXXXXX040AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/47/38/LEGIARTI000006473819.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "40",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1803-03-16",
+        "DATE_FIN": "1973-10-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 16 mars 1803 contenant organisation du notariat",
+          "@c_titre_court": "Loi du 16 mars 1803",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000882738"
+        },
+        {
+          "#text": "Loi contenant organisation du notariat (loi 25 ventôse an XI)",
+          "@c_titre_court": "Loi du 16 mars 1803",
+          "@debut": "1803-03-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070994"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Régime du notariat",
+            "@debut": "1803-03-16",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006092887"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section II : Conditions pour être admis et mode de nomination du notariat",
+              "@debut": "1803-03-16",
+              "@fin": "1973-10-01",
+              "@id": "LEGISCTA000006118869"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000882738",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1803-03-16",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1803-03-16",
+          "@etat": "ABROGE",
+          "@fin": "1973-10-01",
+          "@id": "LEGIARTI000006473819",
+          "@num": "40",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   (texte abrogé).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°73-609 du 5 juillet 1973 - art. 1 (V) JORF 7 juillet 1973 rectificatif JORF 17 juillet en vigueur le 1er octobre 1973",
+        "@cidtexte": "JORFTEXT000000681478",
+        "@datesignatexte": "1973-07-05",
+        "@id": "LEGIARTI000006271712",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "73-609",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1803-03-16 Bulletin des Lois, 3è S, B. 258, n° 2440",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

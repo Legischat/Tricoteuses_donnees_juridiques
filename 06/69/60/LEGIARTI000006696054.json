@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006696054",
+      "ANCIEN_ID": "SPEAHXXXXXX134AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/60/LEGIARTI000006696054.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "134",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-11",
+        "DATE_FIN": "2022-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière",
+          "@c_titre_court": "LOI n° 86-33 du 9 janvier 1986",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000512459"
+        },
+        {
+          "#text": "Loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière.",
+          "@c_titre_court": "Loi n° 86-33 du 9 janvier 1986",
+          "@debut": "1986-01-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068965"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre 11 : Dispositions transitoires",
+            "@debut": "1986-01-11",
+            "@fin": "2022-03-01",
+            "@id": "LEGISCTA000006103464"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section 2 : Autres dispositions transitoires",
+              "@debut": "1986-01-11",
+              "@fin": "2022-03-01",
+              "@id": "LEGISCTA000006125430"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000512459",
+      "@date_publi": "1986-01-11",
+      "@date_signature": "1986-01-09",
+      "@nature": "LOI",
+      "@num": "86-33"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-11",
+          "@etat": "ABROGE",
+          "@fin": "2022-03-01",
+          "@id": "LEGIARTI000006696054",
+          "@num": "134",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 6 de la loi n° 61-1393 du 20 décembre 1961 portant loi de finances rectificative pour 1961 est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°61-1393 du 20 décembre 1961 - art. 6",
+        "@cidtexte": "JORFTEXT000000874697",
+        "@datesignatexte": "1961-12-20",
+        "@id": "JORFARTI000001681015",
+        "@naturetexte": "LOI",
+        "@num": "6",
+        "@numtexte": "61-1393",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2021-1574 du 24 novembre 2021 - art. 3",
+        "@cidtexte": "JORFTEXT000044411525",
+        "@datesignatexte": "2021-11-24",
+        "@id": "LEGIARTI000044415246",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "TFPF2121004R",
+        "@num": "3",
+        "@numtexte": "2021-1574",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

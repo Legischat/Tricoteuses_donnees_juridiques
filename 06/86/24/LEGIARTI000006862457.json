@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862457",
+      "ANCIEN_ID": "UPIJXXXXXXX012DAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/24/LEGIARTI000006862457.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12.3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-10-27",
+        "DATE_FIN": "1994-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 mars 1972 relatif à la réception CEE (Communauté économique européenne) des véhicules et homologation CEE des dispositifs d'équipement pour véhicules",
+          "@c_titre_court": "Arrêté du 10 mars 1972",
+          "@debut": "1972-06-09",
+          "@fin": "1994-12-31",
+          "@id_txt": "LEGITEXT000006074554"
+        }
+      ],
+      "@cid": "LEGITEXT000006074554",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-03-10",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-09-09",
+          "@etat": "MODIFIE",
+          "@fin": "1987-10-27",
+          "@id": "LEGIARTI000006862456",
+          "@num": "12.3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-10-27",
+          "@etat": "ABROGE",
+          "@fin": "1994-12-31",
+          "@id": "LEGIARTI000006862457",
+          "@num": "12.3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toutefois, le détenteur d'une réception C.E.E., d'une entité technique ou d'un composant octroyé conformément au présent article est tenu non seulement d'établir le certificat prévu à l'annexe III du présent arrêté, mais également d'apposer sur chaque entité ou composant construit conformément au type réceptionné sa marque de fabrique ou de commerce, l'indication du type et, si la directive particulière en dispose ainsi, le numéro de réception ; dans ce dernier cas, il n'est pas tenu d'établir le certificat prévu à l'annexe III.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1972-03-10 Annexe III",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-10-13 art. 4 jorf 27 octobre 1987",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1994-09-16 art. 12 JORF 31 décembre 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route R109-1 R109-2",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Directive CEE 156 1970-02-06",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

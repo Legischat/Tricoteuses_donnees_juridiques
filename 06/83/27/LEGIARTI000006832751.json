@@ -1,0 +1,139 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006832751",
+      "ANCIEN_ID": "UCIUQXXXXXX092AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/27/LEGIARTI000006832751.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE III",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2007-05-17",
+        "DATE_FIN": "2018-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 mai 2007 relatif aux caractéristiques thermiques et à la performance énergétique des bâtiments existants",
+          "@c_titre_court": "Arrêté du 3 mai 2007",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000822199"
+        },
+        {
+          "#text": "Arrêté du 3 mai 2007 relatif aux caractéristiques thermiques et à la performance énergétique des bâtiments existants.",
+          "@c_titre_court": "Arrêté du 3 mai 2007",
+          "@debut": "2007-05-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006056467"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "2007-05-17",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108615"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "DÉFINITIONS ET MODALITÉS DE CALCUL DE LA RÉSISTANCE THERMIQUE.",
+              "@debut": "2007-05-17",
+              "@fin": "2018-01-01",
+              "@id": "LEGISCTA000006128981"
+            },
+            {
+              "#text": "Prise en compte de la résistance thermique additionnelle d'une fermeture dans le calcul de la performance d'une paroi vitrée",
+              "@debut": "2018-01-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000035303300"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000822199",
+      "@date_publi": "2007-05-17",
+      "@date_signature": "2007-05-03",
+      "@ministere": "MINISTERE DE L'EMPLOI, DE LA COHESION SOCIALE ET DU LOGEMENT",
+      "@nature": "ARRETE",
+      "@nor": "SOCU0751906A",
+      "@num_parution_jo": "0114"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2007-05-17",
+          "@etat": "MODIFIE",
+          "@fin": "2018-01-01",
+          "@id": "LEGIARTI000006832751",
+          "@num": "ANNEXE III",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2018-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000034310785",
+          "@num": "ANNEXE III",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Définition</p>\n<p>La résistance thermique R d'une paroi est l'inverse du flux thermique à travers 1 mètre carré de paroi pour une différence de température de 1 kelvin entre les deux faces de la paroi. Elle s'exprime en m2.K/W et elle est fonction des caractéristiques géométriques et thermiques des matériaux constituants la paroi.</p>\n<p>Calcul</p>\n<p>La résistance thermique d'une paroi isolée est obtenue en ajoutant la résistance thermique de la paroi existante et celle de l'isolant mis en place.</p>\n<p>Lorsque la paroi existante est composée de plusieurs couches de matériaux, en particulier lorsqu'elle comporte déjà une couche existante de matériau isolant, la résistance thermique de cette paroi est égale à la somme des résistances des matériaux qui la composent.</p>\n<p>Les règles Th-bât définissent le mode de calcul des résistances thermiques des produits et des parois.</p>\n<p>Valeurs par défaut</p>\n<p>En l'absence de valeurs connues, les valeurs de résistance thermique données dans les tableaux suivants peuvent être utilisés pour le calcul de la résistance thermique de la paroi existante. Les valeurs par défaut données par les règles Th-U et Th-bât peuvent également être utilisée pour calculer la résistance de la paroi existante.</p>\n<p>A. - Murs en briques</p>\n<p>A-1. Briques pleines</p>\n<p>a. Murs simples</p>\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"643\">\n<tbody>\n<tr>\n<td valign=\"top\" width=\"144\">\n<p>Épaisseur du mur en cm</p>\n</td>\n<td width=\"113\">\n<p align=\"center\">9 à 15</p>\n</td>\n<td width=\"129\">\n<p align=\"center\">15 à 22,5</p>\n</td>\n<td width=\"129\">\n<p align=\"center\">22,5 à 34</p>\n</td>\n<td width=\"129\">\n<p align=\"center\">supérieure à 34</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"144\">\n<p>R en m<sup>2</sup>.K/W</p>\n</td>\n<td width=\"113\">\n<p align=\"center\">0,09</p>\n</td>\n<td width=\"129\">\n<p align=\"center\">0,16</p>\n</td>\n<td width=\"129\">\n<p align=\"center\">0,23</p>\n</td>\n<td width=\"129\">\n<p align=\"center\">0,33</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>b. Murs doubles avec lame d'air</p>\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"643\">\n<tbody>\n<tr>\n<td valign=\"top\" width=\"144\">\n<p>Épaisseur du mur en cm</p>\n</td>\n<td valign=\"top\" width=\"113\">\n<p align=\"center\">20 à 25</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">25 à 30</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">30 à 35</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">supérieure à 35</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"144\">\n<p>R en m<sup>2</sup>.K/W</p>\n</td>\n<td valign=\"top\" width=\"113\">\n<p align=\"center\">0,33</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">0,37</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">0,43</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">0,48</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>A-2. Briques creuses</p>\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"643\">\n<tbody>\n<tr>\n<td valign=\"top\" width=\"144\">\n<p>Épaisseur du mur en cm</p>\n</td>\n<td valign=\"top\" width=\"113\">\n<p align=\"center\">15 à 20</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">20 à 25</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">25 à 30</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">supérieure à 30</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"144\">\n<p>R en m<sup>2</sup>.K/W</p>\n</td>\n<td valign=\"top\" width=\"113\">\n<p align=\"center\">0,30</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">0,35</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">0,42</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">0,44</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>B. - Murs en béton</p>\n<p>B-1. En blocs pleins ou en béton banché</p>\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"643\">\n<tbody>\n<tr>\n<td valign=\"top\" width=\"144\">\n<p align=\"center\">Épaisseur du mur en cm</p>\n</td>\n<td valign=\"top\" width=\"113\">\n<p align=\"center\">15 à 20</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">20 à 25</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">25 à 30</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">supérieure à 30</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"144\">\n<p>R en m<sup>2</sup>.K/W</p>\n</td>\n<td valign=\"top\" width=\"113\">\n<p align=\"center\">0,10</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">0,12</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">0,15</p>\n</td>\n<td valign=\"top\" width=\"129\">\n<p align=\"center\">0,18</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>B-2. En blocs creux</p>\n<table align=\"center\" border=\"1\" cellpadding=\"0\" cellspacing=\"0\" width=\"643\">\n<tbody>\n<tr>\n<td valign=\"top\" width=\"212\">\n<p>Épaisseur du mur en cm</p>\n</td>\n<td valign=\"top\" width=\"212\">\n<p align=\"center\">20 à 25</p>\n</td>\n<td valign=\"top\" width=\"212\">\n<p align=\"center\">supérieure à 25</p>\n</td>\n</tr>\n<tr>\n<td valign=\"top\" width=\"212\">\n<p>R en m<sup>2</sup>.K/W</p>\n</td>\n<td valign=\"top\" width=\"212\">\n<p align=\"center\">0,19</p>\n</td>\n<td valign=\"top\" width=\"212\">\n<p align=\"center\">0,22</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>C. - Isolation existante</p>\n<p>La résistance R en m2.K/W s'obtient en multipliant l'épaisseur, en centimètres, par :</p>\n<p>0,33 pour les mousses de polyuréthanne ou polystyrène extrudé,</p>\n<p>0,23 pour les autres isolants thermiques (laine minérale, polystyrène expansé, verre cellulaire, etc.).</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 3 mai 2007 - art. ANNEXE II (VD)",
+        "@cidtexte": "JORFTEXT000000822199",
+        "@datesignatexte": "2007-05-03",
+        "@id": "LEGIARTI000034310788",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SOCU0751906A",
+        "@num": "ANNEXE II",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Arrêté du 3 mai 2007 - art. ANNEXE IV (VT)",
+        "@cidtexte": "JORFTEXT000000822199",
+        "@datesignatexte": "2007-05-03",
+        "@id": "LEGIARTI000006832752",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SOCU0751906A",
+        "@num": "ANNEXE IV",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Arrêté du 22 mars 2017 - art. 10",
+        "@cidtexte": "JORFTEXT000034271631",
+        "@datesignatexte": "2017-03-22",
+        "@id": "LEGIARTI000034280661",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "LHAL1614615A",
+        "@num": "10",
+        "@sens": "cible",
+        "@typelien": "TRANSFERE"
+      }
+    ]
+  }
+}

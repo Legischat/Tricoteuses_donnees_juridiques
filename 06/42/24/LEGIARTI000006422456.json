@@ -1,0 +1,134 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006422456",
+      "ANCIEN_ID": "PCHDBXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/24/LEGIARTI000006422456.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1999-09-11",
+        "DATE_FIN": "2010-07-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-13 du 10 janvier 1983 PORTANT APPLICATION DES DISPOSITIONS DE L'ART. 90 DE LA LOI DU 29-07-1982 SUR LA COMMUNICATION AUDIOVISUELLE ET RELATIF AUX GROUPEMENTS ET ENTENTES DE PROGRAMMATION.",
+          "@c_titre_court": "Décret n°83-13 du 10 janvier 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000876998"
+        },
+        {
+          "#text": "Décret n°83-13 du 10 janvier 1983 portant application des dispositions de l'article 90 de la loi du 29 juillet 1982 sur la communication audiovisuelle et relatif à la programmation des oeuvres cinématographiques en salle.",
+          "@c_titre_court": "Décret n°83-13 du 10 janvier 1983",
+          "@debut": "1999-09-11",
+          "@fin": "2010-07-11",
+          "@id_txt": "LEGITEXT000006064036"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Programmation par un groupement ou une entente",
+            "@debut": "1999-09-11",
+            "@fin": "2010-07-11",
+            "@id": "LEGISCTA000006089825"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000876998",
+      "@date_publi": "1983-01-12",
+      "@date_signature": "1983-01-10",
+      "@nature": "DECRET",
+      "@num": "83-13"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-12",
+          "@etat": "MODIFIE",
+          "@fin": "1999-09-11",
+          "@id": "LEGIARTI000006422455",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-09-11",
+          "@etat": "ABROGE",
+          "@fin": "2010-07-11",
+          "@id": "LEGIARTI000006422456",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les groupements ou ententes de programmation [*définition*] sont nationaux si leur activité s'exerce soit dans l'agglomération parisienne soit dans deux au moins des régions cinématographiques telles qu'elles sont définies par décision du Centre national de la cinématographie [*conditions - nombre*].<br/>\n<br/>   Les groupements ou ententes sont régionaux si leur activité s'exerce dans une seule région cinématographique et si certaines des salles qui en font partie sont situées dans des agglomérations urbaines représentant, pour la diffusion des oeuvres, une part déterminante de la fréquentation cinématographique. La liste de ces agglomérations est fixée par arrêté du ministre chargé du cinéma.<br/>\n<br/>   Les groupements locaux ou les ententes locales exercent leur activité dans une seule région cinématographique et aucune de leurs salles n'est située dans l'une quelconque des agglomérations mentionnées dans l'arrêté prévu à l'alinéa précédent. Cette dernière condition n'est pas requise si la ou les salles considérées n'offrent pas de programme en exclusivité.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°82-652 du 29 juillet 1982 - art. 90 (M)",
+        "@cidtexte": "JORFTEXT000000880222",
+        "@datesignatexte": "1982-07-29",
+        "@id": "LEGIARTI000006420077",
+        "@naturetexte": "LOI",
+        "@num": "90",
+        "@numtexte": "82-652",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°83-13 du 10 janvier 1983 - art. 15 (Ab)",
+        "@cidtexte": "JORFTEXT000000876998",
+        "@datesignatexte": "1983-01-10",
+        "@id": "LEGIARTI000019764155",
+        "@naturetexte": "DECRET",
+        "@num": "15",
+        "@numtexte": "83-13",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°99-783 du 9 septembre 1999 - art. 2 () JORF 11 septembre 1999",
+        "@cidtexte": "JORFTEXT000000761775",
+        "@datesignatexte": "1999-09-09",
+        "@id": "LEGIARTI000006426817",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCK9900447D",
+        "@num": "2",
+        "@numtexte": "99-783",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2010-781\n du 8 juillet 2010 - art. 29",
+        "@cidtexte": "JORFTEXT000022454952",
+        "@datesignatexte": "2010-07-08",
+        "@id": "LEGIARTI000022467116",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCK1003558D",
+        "@num": "29",
+        "@numtexte": "2010-781",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006534431",
+      "ANCIEN_ID": "ADHAIXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/44/LEGIARTI000006534431.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-05-16",
+        "DATE_FIN": "1973-02-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 11 mars 1908 pris pour l'exécution de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles en ce qui concerne les graisses et huiles comestibles",
+          "@c_titre_court": "Décret du 11 mars 1908",
+          "@debut": "1908-03-14",
+          "@fin": "2008-02-29",
+          "@id_txt": "LEGITEXT000006071231"
+        }
+      ],
+      "@cid": "LEGITEXT000006071231",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1908-03-11",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-05-16",
+          "@etat": "ABROGE",
+          "@fin": "1973-02-15",
+          "@id": "LEGIARTI000006534431",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sous réserve des dispositions de l'article 4, il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre pour la livraison directe au consommateur avec d'autres dénominations ou qualificatifs que ceux prévus aux articles 8-1 et 8-2 des huiles présentées sous un étiquetage ou une publicité évoquant l'huile d'olive.<br/>\n<br/>   Cette interdiction ne met pas obstacle à l'emploi d'indications relatives à la provenance géographique ni des qualificatifs \"fruitée\" ou \"douce\" en caractères dont les dimensions n'excèdent pas la moitié de celles afférentes à la dénomination.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1908-03-11 art. 4, art. 8-1, art. 8-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 61-476 1961-05-08 art. 2 *Le présent décret n'est applicable qu'aux huiles sortant de fabrique ou conditionnées après sa publication et seulement six mois après cette publication*",
+        "@cidtexte": "JORFTEXT000000705433",
+        "@datesignatexte": "1961-05-08",
+        "@id": "JORFTEXT000000705433",
+        "@naturetexte": "DECRET",
+        "@numtexte": "61-476",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 73-139 1973-02-12 JORF 15 février 1973 rectificatif JORF 15 avril 1973",
+        "@cidtexte": "JORFTEXT000000875382",
+        "@datesignatexte": "1973-02-12",
+        "@id": "JORFTEXT000000875382",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-139",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006636272",
+      "ANCIEN_ID": "RJHCEXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/62/LEGIARTI000006636272.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-09-15",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 91-368 du 15 avril 1991 portant organisation et fonctionnement de    l'Institut national des appellations d'origine",
+          "@c_titre_court": "Décret n°91-368 du 15 avril 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000708742"
+        },
+        {
+          "#text": "Décret n°91-368 du 15 avril 1991 portant organisation et fonctionnement de l'Institut national des appellations d'origine",
+          "@c_titre_court": "Décret n°91-368 du 15 avril 1991",
+          "@debut": "1991-04-17",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006077513"
+        }
+      ],
+      "@cid": "JORFTEXT000000708742",
+      "@date_publi": "1991-04-17",
+      "@date_signature": "1991-04-15",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "DECRET",
+      "@nor": "AGRP9100376D",
+      "@num": "91-368"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-04-17",
+          "@etat": "MODIFIE",
+          "@fin": "2000-09-15",
+          "@id": "LEGIARTI000006636271",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-09-15",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006636272",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'Institut national des appellations d'origine mentionné à l'article L. 641-5 du code rural est placé sous la tutelle du ministre de l'agriculture.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L641-5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2000-891 du 13 septembre 2000 - art. 1 () JORF 15 septembre 2000",
+        "@cidtexte": "JORFTEXT000000765808",
+        "@datesignatexte": "2000-09-13",
+        "@id": "LEGIARTI000006636617",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRP0000392D",
+        "@num": "1",
+        "@numtexte": "2000-891",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

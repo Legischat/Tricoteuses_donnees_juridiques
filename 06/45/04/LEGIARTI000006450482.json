@@ -1,0 +1,159 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006450482",
+      "ANCIEN_ID": "ACAXXXXXXXX5X02493AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/04/LEGIARTI000006450482.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2493",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-03-24",
+        "DATE_FIN": "2011-04-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre V : Dispositions applicables à Mayotte",
+            "@debut": "2006-03-24",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006091523"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : Dispositions relatives au livre Ier",
+              "@debut": "2006-03-24",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118228"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2006-03-24",
+          "@etat": "ABROGE",
+          "@fin": "2011-04-01",
+          "@id": "LEGIARTI000006450482",
+          "@num": "2493",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2019-03-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000037398569",
+          "@num": "2493",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Pour son application à Mayotte, le premier alinéa de l'article 26 est ainsi rédigé : <br/>\n<br/>\" Les déclarations de nationalité sont reçues par le président du tribunal de première instance ou son délégué suivant les formes déterminées par décret en Conseil d'Etat. \"<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°2006-346 du 23 mars 2006 - art. 1 () JORF 24 mars 2006",
+        "@cidtexte": "JORFTEXT000000639090",
+        "@datesignatexte": "2006-03-23",
+        "@id": "LEGIARTI000006532323",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0600032R",
+        "@num": "1",
+        "@numtexte": "2006-346",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°2011-337\n du 29 mars 2011 - art. 2",
+        "@cidtexte": "JORFTEXT000023781468",
+        "@datesignatexte": "2011-03-29",
+        "@id": "LEGIARTI000023782531",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSB1105063R",
+        "@num": "2",
+        "@numtexte": "2011-337",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code civil - art. 2288 (T)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006448089",
+        "@naturetexte": "CODE",
+        "@num": "2288",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code civil - art. 2288 (T)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006448089",
+        "@naturetexte": "CODE",
+        "@num": "2288",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code civil - art. 2494 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000037398560",
+        "@naturetexte": "CODE",
+        "@num": "2494",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code civil - art. 26",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006420159",
+        "@naturetexte": "CODE",
+        "@num": "26",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1804-03-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

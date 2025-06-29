@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860173",
+      "ANCIEN_ID": "UPICNXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/01/LEGIARTI000006860173.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-11-10",
+        "DATE_FIN": "1999-03-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 avril 1981 fixant la liste des oiseaux protégés sur l'ensemble du territoire",
+          "@c_titre_court": "Arrêté du 17 avril 1981",
+          "@debut": "1981-05-19",
+          "@fin": "2009-12-06",
+          "@id_txt": "LEGITEXT000006074392"
+        }
+      ],
+      "@cid": "LEGITEXT000006074392",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1981-04-17",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-11-10",
+          "@etat": "MODIFIE",
+          "@fin": "1999-03-07",
+          "@id": "LEGIARTI000006860173",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-03-07",
+          "@etat": "ABROGE",
+          "@fin": "2007-05-16",
+          "@id": "LEGIARTI000006860174",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont interdits, dans les conditions déterminées par le décret du 25 novembre 1977 susvisé, la mutilation, la naturalisation des oiseaux d'espèces non domestiques suivantes ou, qu'ils soient vivants ou morts, leur transport, leur colportage, leur utilisation, leur mise en vente, leur vente ou leur achat :<br/>\n<br/>   Pelecaniformes.<br/>\n<br/>   - Phalacrocoracidés :<br/>\n<br/>   Grand cormoran (Phalacrocorax carbo sinensis). <br/>\n<br/>   Lariformes.<br/>\n<br/>   - Laridés :<br/>\n<br/>   Goéland argenté (Larus argentatus).<br/>\n<br/>   Goéland leucophée (Larus cachinnans).<br/>\n<br/>   Mouette rieuse (Larus ridibundus).<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1992-11-02 art. 1 JORF 10 novembre 1992",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 77-1295 1977-11-25",
+        "@cidtexte": "JORFTEXT000000519049",
+        "@datesignatexte": "1977-11-25",
+        "@id": "JORFTEXT000000519049",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-1295",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°77-1295 du 25 novembre 1977 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000519049",
+        "@datesignatexte": "1977-11-25",
+        "@id": "LEGIARTI000006851914",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "77-1295",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

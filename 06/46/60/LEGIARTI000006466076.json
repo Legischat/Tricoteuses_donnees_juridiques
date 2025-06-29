@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006466076",
+      "ANCIEN_ID": "ACEARXXXXXX022AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/60/LEGIARTI000006466076.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1958-03-11",
+        "DATE_FIN": "1986-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 57-298 du 11 mars 1957 sur la propriété littéraire et artistique",
+          "@c_titre_court": "Loi n° 57-298 du 11 mars 1957",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000315384"
+        },
+        {
+          "#text": "Loi n°57-298 du 11 mars 1957 sur la propriété littéraire et artistique",
+          "@c_titre_court": "Loi n°57-298 du 11 mars 1957",
+          "@debut": "1958-03-11",
+          "@fin": "1992-07-03",
+          "@id_txt": "LEGITEXT000006068170"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Des droits des auteurs.",
+            "@debut": "1958-03-11",
+            "@fin": "1992-07-03",
+            "@id": "LEGISCTA000006092428"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000315384",
+      "@date_publi": "1957-03-14",
+      "@date_signature": "1957-03-11",
+      "@nature": "LOI",
+      "@num": "57-298"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-03-11",
+          "@etat": "MODIFIE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006466076",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-07-03",
+          "@id": "LEGIARTI000006466077",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les oeuvres pseudonymes ou [*oeuvres*] collectives, la durée du droit exclusif [*d'exploitation*] est de cinquante années à compter du 1er janvier de l'année civile suivant celle de la publication. La date de publication est déterminée par tout mode de preuve du droit commun, et notamment par le dépôt légal.<br/>\n<br/>   En cas de publication échelonnée d'une oeuvre collective, le délai court à compter du 1er janvier de l'année civile qui suit la publication de chaque élément. Toutefois, si la publication est entièrement réalisée dans un délai de vingt ans à compter de la publication d'un premier élément, la durée du droit exclusif pour l'ensemble de l'oeuvre prend fin seulement à l'expiration de la cinquantième année suivant celle de la publication du dernier élément.<br/>\n<br/>   En ce qui concerne les oeuvres anonymes ou pseudonymes, si le ou les auteurs se sont fait connaître, la durée du droit d'exploitation est celle afférente à la catégorie de l'oeuvre considérée et la période de protection légale commence à courir dans les conditions prévues à l'article 21 [*computation des délais*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 57-298 1957-03-11 JORF 14 mars 1957 rectificatif JORF 19 avril 1957 en vigueur le 11 mars 1958",
+        "@cidtexte": "JORFTEXT000000315384",
+        "@datesignatexte": "1957-03-11",
+        "@id": "JORFTEXT000000315384",
+        "@naturetexte": "LOI",
+        "@numtexte": "57-298",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°57-298 du 11 mars 1957 - art. 21 (M)",
+        "@cidtexte": "JORFTEXT000000315384",
+        "@datesignatexte": "1957-03-11",
+        "@id": "LEGIARTI000006466074",
+        "@naturetexte": "LOI",
+        "@num": "21",
+        "@numtexte": "57-298",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°57-298 du 11 mars 1957 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000315384",
+        "@datesignatexte": "1957-03-11",
+        "@id": "LEGIARTI000006466051",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "57-298",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la propriété intellectuelle - art. L123-3 (M)",
+        "@cidtexte": "LEGITEXT000006069414",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006278940",
+        "@naturetexte": "CODE",
+        "@num": "L123-3",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006568567",
+      "ANCIEN_ID": "ADHLLXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/85/LEGIARTI000006568567.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1988-03-06",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°88-216 du 4 mars 1988 relatif à la compétence en dernier ressort des tribunaux de commerce",
+          "@c_titre_court": "Décret n°88-216 du 4 mars 1988",
+          "@debut": "1988-03-06",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071354"
+        }
+      ],
+      "@cid": "LEGITEXT000006071354",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1988-03-04",
+      "@nature": "DECRET",
+      "@nor": "JUSB8810085D",
+      "@num": "88-216"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-06",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006568567",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 8 du décret n° 85-422 du 10 avril 1985 susvisé est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-422 1985-04-10 art. 8",
+        "@cidtexte": "JORFTEXT000000885721",
+        "@datesignatexte": "1985-04-10",
+        "@id": "JORFTEXT000000885721",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-422",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret  n°85-422 du 10 avril 1985  - art. 8 (Ab)",
+        "@cidtexte": "JORFTEXT000000885721",
+        "@datesignatexte": "1985-04-10",
+        "@id": "LEGIARTI000018942030",
+        "@naturetexte": "DECRET",
+        "@num": "8",
+        "@numtexte": "85-422",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'organisation judiciaire L411-1",
+        "@cidtexte": "LEGITEXT000006071164",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071164",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

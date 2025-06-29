@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006625863",
+      "ANCIEN_ID": "RHIALXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/58/LEGIARTI000006625863.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-25",
+        "DATE_FIN": "1993-01-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1 octobre 1973 portant réglementation des conditions d'hygiène applicables à bord des navires de pêche capturant des produits de la mer",
+          "@c_titre_court": "Arrêté du 1 octobre 1973",
+          "@debut": "1973-11-25",
+          "@fin": "1993-01-09",
+          "@id_txt": "LEGITEXT000006071760"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Conditions d'hygiène applicables aux bateaux armés à la petite pêche.",
+            "@debut": "1973-11-25",
+            "@fin": "1993-01-09",
+            "@id": "LEGISCTA000006099837"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071760",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1973-10-01",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-25",
+          "@etat": "ABROGE",
+          "@fin": "1993-01-09",
+          "@id": "LEGIARTI000006625863",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont applicables à bord des bateaux visés au présent titre les dispositions prévues ci-dessus, aux articles 5 (premier alinéa), 6 et 7 (premier alinéa).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1973-10-01 art. 5, art. 6, art. 7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1992-12-27 art. 47 JORF 9 janvier 1993",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 64-949 1964-09-09",
+        "@cidtexte": "JORFTEXT000000676143",
+        "@datesignatexte": "1964-09-09",
+        "@id": "JORFTEXT000000676143",
+        "@naturetexte": "DECRET",
+        "@numtexte": "64-949",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

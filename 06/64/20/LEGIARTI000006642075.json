@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006642075",
+      "ANCIEN_ID": "RLIIDXXXXXX013AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/20/LEGIARTI000006642075.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2006-09-15",
+        "DATE_FIN": "2008-04-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 août 2001 fixant les mesures techniques et financières de police sanitaire relative à la fièvre catarrhale du mouton",
+          "@c_titre_court": "Arrêté du 21 août 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000394870"
+        },
+        {
+          "#text": "Arrêté du 21 août 2001 fixant les mesures techniques et financières de police sanitaire relative à la fièvre catarrhale du mouton",
+          "@c_titre_court": "Arrêté du 21 août 2001",
+          "@debut": "2002-09-08",
+          "@fin": "2008-04-03",
+          "@id_txt": "LEGITEXT000005631347"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre III : Mesures en cas de confirmation.",
+            "@debut": "2001-08-24",
+            "@fin": "2008-04-03",
+            "@id": "LEGISCTA000006101115"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000394870",
+      "@date_publi": "2001-08-24",
+      "@date_signature": "2001-08-21",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "ARRETE",
+      "@nor": "AGRG0101649A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-08-24",
+          "@etat": "MODIFIE",
+          "@fin": "2006-09-15",
+          "@id": "LEGIARTI000006642074",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-09-15",
+          "@etat": "ABROGE",
+          "@fin": "2008-04-03",
+          "@id": "LEGIARTI000006642075",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'exploitation où l'infection est confirmée peut être soumise par le préfet (directeur départemental des services vétérinaires), sur instruction du ministre chargé de l'agriculture, à une ou plusieurs des mesures suivantes :<br/>\n<br/>   - euthanasie des animaux présentant des signes cliniques de fièvre catarrhale du mouton ;<br/>\n<br/>   - abattage dans un abattoir, désigné par le directeur départemental des services vétérinaires, des animaux des espèces sensibles présents sur l'exploitation et ne présentant pas de signes cliniques de fièvre catarrhale du mouton ;<br/>\n<br/>   - vaccination contre la fièvre catarrhale du mouton d'animaux des espèces sensibles présents sur l'exploitation.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 14 septembre 2006 - art. 1",
+        "@cidtexte": "JORFTEXT000000639110",
+        "@datesignatexte": "2006-09-14",
+        "@id": "JORFARTI000001687317",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0601918A",
+        "@num": "1",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 1er avril 2008 - art. 29 (V)",
+        "@cidtexte": "JORFTEXT000018554963",
+        "@datesignatexte": "2008-04-01",
+        "@id": "LEGIARTI000018556255",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0808237A",
+        "@num": "29",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

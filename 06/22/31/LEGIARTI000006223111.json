@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006223111",
+      "ANCIEN_ID": "PSI1DXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/22/31/LEGIARTI000006223111.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-08-31",
+        "DATE_FIN": "2006-10-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 août 2003  portant organisation du service des pensions",
+          "@c_titre_court": "Arrêté du 29 août 2003",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000244082"
+        },
+        {
+          "#text": "Arrêté du 29 août 2003 portant organisation du service des pensions.",
+          "@c_titre_court": "Arrêté du 29 août 2003",
+          "@debut": "2003-08-31",
+          "@fin": "2006-10-12",
+          "@id_txt": "LEGITEXT000005644498"
+        }
+      ],
+      "@cid": "JORFTEXT000000244082",
+      "@date_publi": "2003-08-31",
+      "@date_signature": "2003-08-29",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOP0300356A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-08-31",
+          "@etat": "ABROGE",
+          "@fin": "2006-10-12",
+          "@id": "LEGIARTI000006223111",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001664466",
+          "@num": "4",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 22 février 1995 portant réorganisation du service des pensions est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-02-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2006-09-29 art. 5 JORF 12 octobre 2006",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

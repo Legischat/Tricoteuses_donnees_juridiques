@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006857723",
+      "ANCIEN_ID": "UPHSVXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/77/LEGIARTI000006857723.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1965-11-09",
+        "DATE_FIN": "2008-10-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°65-938 du 8 novembre 1965 CREATION DU PORT AUTONOME DE NANTES ET DE SAINT-NAZAIRE, SOUS LE REGIME DE LA LOI 65491 DU 29 JUIN 1965",
+          "@c_titre_court": "Décret n°65-938 du 8 novembre 1965",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000674553"
+        },
+        {
+          "#text": "Décret n°65-938 du 8 novembre 1965 créant aux ports de Nantes et de Saint-Nazaire un port autonome sous le régime de la loi n° 65-491 du 29 juin 1965",
+          "@c_titre_court": "Décret n°65-938 du 8 novembre 1965",
+          "@debut": "1965-11-09",
+          "@fin": "2008-10-11",
+          "@id_txt": "LEGITEXT000006061327"
+        }
+      ],
+      "@cid": "JORFTEXT000000674553",
+      "@date_publi": "1965-11-09",
+      "@date_signature": "1965-11-08",
+      "@nature": "DECRET",
+      "@num": "65-938"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-11-09",
+          "@etat": "ABROGE",
+          "@fin": "2008-10-11",
+          "@id": "LEGIARTI000006857723",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est créé aux ports de Nantes et de Saint-Nazaire un établissement public placé sous le régime de la loi du 29 juin 1965 qui reçoit la dénomination de \"Port autonome de Nantes-Saint-Nazaire\".<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 65-491 1965-06-29",
+        "@cidtexte": "JORFTEXT000000320174",
+        "@datesignatexte": "1965-06-29",
+        "@id": "JORFTEXT000000320174",
+        "@naturetexte": "LOI",
+        "@numtexte": "65-491",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°2008-1035\n du 9 octobre 2008 - art. 8",
+        "@cidtexte": "JORFTEXT000019595054",
+        "@datesignatexte": "2008-10-09",
+        "@id": "LEGIARTI000019596435",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVT0818842D",
+        "@num": "8",
+        "@numtexte": "2008-1035",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579962",
+      "ANCIEN_ID": "RAA0XXXXXXX0316AAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/99/LEGIARTI000006579962.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "316",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-07-12",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VIII : De l'exercice de la médecine et de la chirurgie des animaux.",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121364"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-06-24",
+          "@etat": "MODIFIE",
+          "@fin": "1991-07-12",
+          "@id": "LEGIARTI000006579961",
+          "@num": "316",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-07-12",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006579962",
+          "@num": "316",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un code de déontologie est édicté par décret en Conseil d'Etat, après avis du Conseil supérieur de l'ordre des vétérinaires et consultation des organisations syndicales de vétérinaires ainsi que du comité consultatif de la santé et de la protection des animaux.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°91-639 du 10 juillet 1991 - art. 12 () JORF 12 juillet 1991",
+        "@cidtexte": "JORFTEXT000000721358",
+        "@datesignatexte": "1991-07-10",
+        "@id": "LEGIARTI000006637848",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9100056L",
+        "@num": "12",
+        "@numtexte": "91-639",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2000-550 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583733",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006601339",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRX0000054R",
+        "@num": "7",
+        "@numtexte": "2000-550",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 2003-591 2003-07-02 art. 31",
+        "@cidtexte": "JORFTEXT000000422094",
+        "@datesignatexte": "2003-07-02",
+        "@id": "JORFTEXT000000422094",
+        "@naturetexte": "LOI",
+        "@nortexte": "FPPX0300014L",
+        "@numtexte": "2003-591",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

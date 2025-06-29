@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006450791",
+      "ANCIEN_ID": "PFEANXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/07/LEGIARTI000006450791.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-08-02",
+        "DATE_FIN": "1973-01-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°63-777 du 31 juillet 1963 RELATIVE A CERTAINES MODALITES DE LA GREVE DANS LES SERVICES PUBLICS",
+          "@c_titre_court": "Loi n°63-777 du 31 juillet 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000509742"
+        },
+        {
+          "#text": "Loi n°63-777 du 31 juillet 1963 relative à certaines modalités de la grève dans les services publics",
+          "@c_titre_court": "Loi n°63-777 du 31 juillet 1963",
+          "@debut": "1963-08-02",
+          "@fin": "1973-01-03",
+          "@id_txt": "LEGITEXT000006068234"
+        }
+      ],
+      "@cid": "JORFTEXT000000509742",
+      "@date_publi": "1963-08-02",
+      "@date_signature": "1963-07-31",
+      "@nature": "LOI",
+      "@num": "63-777"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-08-02",
+          "@etat": "ABROGE",
+          "@fin": "1973-01-03",
+          "@id": "LEGIARTI000006450791",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de cessation concertée de travail des personnels visés par l'article 1er de la présente loi, l'heure de cessation et celle de reprise du travail ne peuvent être différentes pour les diverses catégories ou pour les divers membres du personnel intéressé.<br/>\n<br/>   Des arrêts de travail affectant par échelonnement successif ou par roulement concerté les divers secteurs ou les diverses catégories professionnelles d'un même établissement ou service ou les différents établissements ou services d'une même entreprise ou d'un même organisme ne peuvent avoir lieu.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°63-777 du 31 juillet 1963 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000509742",
+        "@datesignatexte": "1963-07-31",
+        "@id": "LEGIARTI000006450788",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "63-777",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°73-4 du 2 janvier 1973 - art. 2 (V) JORF 3 janvier 1973",
+        "@cidtexte": "JORFTEXT000000322331",
+        "@datesignatexte": "1973-01-02",
+        "@id": "LEGIARTI000006272879",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "73-4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. L521-4 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650350",
+        "@naturetexte": "CODE",
+        "@num": "L521-4",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

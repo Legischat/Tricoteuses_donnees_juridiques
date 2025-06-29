@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006677164",
+      "ANCIEN_ID": "SHICNXXXXXXA27AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/71/LEGIARTI000006677164.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "27",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-08-28",
+        "DATE_FIN": "1985-08-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 juillet 1974 fixant, par voie de dispositions générales, des mesures de prévention relatives aux téléphériques de service susceptibles de transporter des personnes",
+          "@c_titre_court": "Arrêté du 24 juillet 1974",
+          "@debut": "1974-08-28",
+          "@fin": "1985-08-02",
+          "@id_txt": "LEGITEXT000006072451"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE 2 : CONDITIONS TECHNIQUES DE CONSTRUCTION",
+            "@debut": "1974-08-28",
+            "@fin": "1985-08-02",
+            "@id": "LEGISCTA000006102777"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Surcharges climatiques",
+              "@debut": "1974-08-28",
+              "@fin": "1985-08-02",
+              "@id": "LEGISCTA000006124834"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072451",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-07-24",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-08-28",
+          "@etat": "ABROGE",
+          "@fin": "1985-08-02",
+          "@id": "LEGIARTI000006677164",
+          "@num": "27",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Pour calculer les efforts de vent et de givre sur les ouvrages, on pourra adopter, sans justifications spéciales, les bases de calcul suivantes qui sont appliquées en matière de construction de téléphériques pour voyageurs (installations de transport mises à la disposition du public).<br/>\n    1. Vent hors période d'exploitation<br/>\n Pression sur surface frappée à prendre en compte :<br/>\n Ouvrage de ligne et bâtiment en station, véhicules :<br/>\n    Vent transversal : 2500 Pa ;<br/>\n    Vent ascendant ou descendant : 500 Pa.<br/>\n Câble nu :<br/>\n    Vent transversal avec coefficient aérodynamique de deux tiers :<br/>\n    1500 Pa ;<br/>\n    Vent ascendant ou descendant avec coefficient aérodynamique de    deux tiers : 500 Pa.<br/>\n   2. Vent en période d'exploitation<br/>\n Sur ouvrage de ligne et bâtiment en station, véhicules :<br/>\n    Vent latéral : 300 Pa ;<br/>\n    Vent ascendant ou descendant : 300 Pa,<br/>\n avec coefficient aérodynamique de deux tiers.<br/>\n    L'exploitation doit être interrompue, notamment si la pression du vent dépasse 300 Pa sur une surface normale à sa direction égale à la surface de la cabine et si, sans même que cette valeur soit atteinte, l'inclinaison de la cabine sur la verticale dépasse ou risque de dépasser 20 p. 100, compte tenu des oscillations (voir art. 25).<br/>\n    L'exploitation doit être également interrompue s'il y a menace manifeste d'orage ou de tempête même si une des deux éventualités précédentes n'est pas réalisée.<br/>\n   3. Surcharge de givre<br/>\n    Il y a lieu de tenir compte pour tous les câbles, en dehors des périodes d'exploitation, d'une surcharge de givre correspondant à une gaine de glace ayant une épaisseur de 2,5 cm et une densité de 0,5.<br/>\n   4. Coexistence des effets du vent et du givre<br/>\n    La surcharge de givre définie ci-dessus peut coexister, en dehors des périodes d'exploitation, avec un vent susceptible d'exercer les pressions suivantes :<br/>\n    Sur ouvrage de ligne, bâtiment de station, véhicules, câbles :<br/>\n     Vent transversal : 1000 Pa ;<br/>\n     Vent vertical : 300 Pa,<br/>\n avec, pour les câbles, un coefficient aérodynamique de deux tiers.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-07-24 art. 25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1985-06-25 ART. 1 JORF 2 AOUT 1985",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 1985-06-25 ART. 2 : Les présentes dispositions demeurent applicables aux téléphériques existant, durant une période de deux ans à compter de la publication du présent arrêté",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

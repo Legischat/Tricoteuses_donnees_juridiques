@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006677988",
+      "ANCIEN_ID": "SHIFTXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/79/LEGIARTI000006677988.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1963-06-15",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 juin 1963 RECOMMANDATIONS PREVUES POUR LES VISITES MEDICALES",
+          "@c_titre_court": "Arrêté du 13 juin 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000267930"
+        },
+        {
+          "#text": "Arrêté du 13 juin 1963 fixant les termes des recommandations prévues pour les visites médicales effectuées en vertu du décret n° 50-1289 du 16 octobre 1950 modifié.",
+          "@c_titre_court": "Arrêté du 13 juin 1963",
+          "@debut": "1963-06-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072546"
+        }
+      ],
+      "@cid": "JORFTEXT000000267930",
+      "@date_publi": "1963-06-15",
+      "@date_signature": "1963-06-13",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-06-15",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006677988",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 18 octobre 1950 fixant les termes des recommandations prévues pour les visites médicales effectuées en vertu du décret du 16 octobre 1950 concernant la prévention de la silicose professionnelle est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1950-10-18 (abrogé)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°50-1289 du 16 octobre 1950",
+        "@cidtexte": "JORFTEXT000000675734",
+        "@datesignatexte": "1950-10-16",
+        "@id": "JORFTEXT000000675734",
+        "@naturetexte": "DECRET",
+        "@numtexte": "50-1289",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°50-1289 du 16 octobre 1950 - art. 8 (Ab)",
+        "@cidtexte": "JORFTEXT000000675734",
+        "@datesignatexte": "1950-10-16",
+        "@id": "LEGIARTI000006673798",
+        "@naturetexte": "DECRET",
+        "@num": "8",
+        "@numtexte": "50-1289",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 2 mai 2012 - art. 1",
+        "@cidtexte": "JORFTEXT000025824451",
+        "@datesignatexte": "2012-05-02",
+        "@id": "LEGIARTI000025867248",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ETST1202853A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Décision n°360829  du 4 juin 2014 (ECLI:FR:CESSR:2014:360829.20140604) - art., v. init.",
+        "@cidtexte": "JORFTEXT000029053647",
+        "@datesignatexte": "2014-06-04",
+        "@id": "JORFARTI000029053648",
+        "@naturetexte": "DECISION",
+        "@nortexte": "CETX1413056S",
+        "@numtexte": "360829",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

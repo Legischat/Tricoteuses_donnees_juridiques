@@ -1,0 +1,139 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006922292",
+      "ANCIEN_ID": "AKHBSXXXXXX053AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/22/LEGIARTI000006922292.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "53",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1972-09-16",
+        "DATE_FIN": "1983-10-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°72-670 du 13 juillet 1972 RELATIF A L'USAGE DU TITRE DE CONSEIL JURIDIQUE",
+          "@c_titre_court": "Décret n°72-670 du 13 juillet 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000855019"
+        },
+        {
+          "#text": "Décret n°72-670 du 13 juillet 1972 relatif à l'usage du titre de conseil juridique",
+          "@c_titre_court": "Décret n°72-670 du 13 juillet 1972",
+          "@debut": "1972-09-16",
+          "@fin": "1992-01-01",
+          "@id_txt": "LEGITEXT000006061971"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 2 : Droits et obligations des conseils juridiques",
+            "@debut": "1972-09-16",
+            "@fin": "1992-01-01",
+            "@id": "LEGISCTA000006113097"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 2 : Exercice des activités de conseil juridique",
+              "@debut": "1972-09-16",
+              "@fin": "1992-01-01",
+              "@id": "LEGISCTA000006132549"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 1 : Dispositions générales.",
+                "@debut": "1972-09-16",
+                "@fin": "1992-01-01",
+                "@id": "LEGISCTA000006145610"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000855019",
+      "@date_publi": "1972-07-18",
+      "@date_signature": "1972-07-13",
+      "@nature": "DECRET",
+      "@num": "72-670"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-09-16",
+          "@etat": "MODIFIE",
+          "@fin": "1983-10-13",
+          "@id": "LEGIARTI000006922292",
+          "@num": "53",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-10-13",
+          "@etat": "ABROGE",
+          "@fin": "1992-01-01",
+          "@id": "LEGIARTI000006922293",
+          "@num": "53",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil juridique inscrit sur une liste peut exercer ses activités sur l'ensemble du territoire national.<br/>\n<br/>   Toutefois, et sous réserve des dispositions de l'article 110, l'établissement de bureaux annexes ouverts à la réception de la clientèle n'est autorisé que dans les limites du ressort de cour d'appel dans lequel est situé le domicile professionnel du conseil juridique ou, s'il s'agit d'une société, son siège social.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 71-1130 1971-12-31 art. 66",
+        "@cidtexte": "JORFTEXT000000508793",
+        "@datesignatexte": "1971-12-31",
+        "@id": "JORFTEXT000000508793",
+        "@naturetexte": "LOI",
+        "@numtexte": "71-1130",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 72-670 1972-07-13 art. 118 *date d'effet*",
+        "@cidtexte": "JORFTEXT000000855019",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000855019",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-670",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°72-670 du 13 juillet 1972 - art. 110 (M)",
+        "@cidtexte": "JORFTEXT000000855019",
+        "@datesignatexte": "1972-07-13",
+        "@id": "LEGIARTI000006922354",
+        "@naturetexte": "DECRET",
+        "@num": "110",
+        "@numtexte": "72-670",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

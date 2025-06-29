@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006685025",
+      "ANCIEN_ID": "SMIAIXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/50/LEGIARTI000006685025.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1983-01-29",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 novembre 1982 LE SYSTEME INFORMATIQUE QUI A ETE CREE PAR DECISION DU 19-01-1971 SOUS L'APPELLATION AUDASS-AIDE-SOCIALE A POUR FINALITE LA GESTION ADMINISTRATIVE ET COMPTABLE DES PRESTATIONS DU TITRE II DU CODE DE LA FAMILLE ET DE L'AIDE SOCIALE ET LA FOURNITURE D'INFORMATIONS D'ORDRE COMPTABLE ET STATISTIQUE NECESSAIRES A LA POLITIQUE D'AIDE SOCIALE",
+          "@c_titre_court": "Arrêté du 22 novembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000296152"
+        },
+        {
+          "#text": "Arrêté du 22 novembre 1982 relatif à la déclaration du système informatique AUDASS- Aide sociale",
+          "@c_titre_court": "Arrêté du 22 novembre 1982",
+          "@debut": "1983-01-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072652"
+        }
+      ],
+      "@cid": "JORFTEXT000000296152",
+      "@date_publi": "1983-01-28",
+      "@date_signature": "1982-11-22",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-29",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006685025",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le système informatique prévu par l'article 1er est composé de deux fichiers magnétiques :</p>\n<p>Le fichier des bénéficiaires de l'aide sociale ;</p>\n<p>Le fichier des fournisseurs de services.</p>\n<p>1° Le fichier des bénéficiaires de l'aide sociale ne peut comporter que les informations suivantes :</p>\n<p>Celles relatives au bénéficiaire :</p>\n<p>Identité : nom, prénom, date de naissance, sexe, Français ou non ;</p>\n<p>Situation familiale : seul ou couple, nombre d'enfants à charge ;</p>\n<p>Situation financière : ressources ;</p>\n<p>Situation administrative : catégorie du bénéficiaire conformément au titre III du code de la famille et de l'aide sociale, numéro de sécurité sociale dans deux cas suivants :</p>\n<p>1. Lorsqu'il y a lieu à récupération auprès des caisses de sécurité sociale des prestations servies aux bénéficiaires de l'aide médicale dans les conditions prévues par l'article 388 du code de la sécurité sociale.</p>\n<p>2. Lorsque les cotisations de sécurité sociale des bénéficiaires de l'aide sociale sont payées par le service d'aide sociale.</p>\n<br/>\n<p>Celles relatives au demandeur :</p>\n<p>Identité : nom, prénom, parenté avec le bénéficiaire, adresse.</p>\n<p>Celles relatives au destinataire des prestations :</p>\n<p>Identité : nom, prénom, adresse, références bancaires.</p>\n<p>Celles relatives au (x) débiteur (s) d'aliments :</p>\n<p>Nom, prénom, adresse, montant de la participation proposée par la commission d'admission à l'aide sociale et acceptée par le ou les débiteur (s) d'aliments.</p>\n<p>Celles relatives au (x) avantage (s) :</p>\n<p>Nature de l'avantage octroyé relevant du titre III du code de la famille et de l'aide sociale, date d'effet et date limite, montant, pourcentage d'attribution de l'allocation compensatrice ou des anciennes allocations pour personnes handicapées.</p>\n<p>Les informations contenues dans le fichier des bénéficiaires sont les dernières mises à jour, à l'exception de celles se rapportant aux avantages d'aide sociale qui sont conservées jusqu'à la neuvième mise à jour.</p>\n<p>2° Le fichier des fournisseurs de services est commun aux applications Audass-Enfance et Audass-Aide Sociale. Ce fichier ne peut comporter, en ce qui concerne l'application Audass-Aide Sociale, que les informations suivantes :</p>\n<p>L'identité et l'adresse des fournisseurs ;</p>\n<p>Leur relevé d'identité bancaire ;</p>\n<p>Leur situation administrative pour les établissements, agrément, habilitation, convention, numéro de SIRET, numéro d'identification au fichier national des établissements sanitaires et sociaux du ministère chargé des affaires sanitaires et sociales ; pour les professions médicales et paramédicales, diplôme, activité, situation professionnelle, qualification, numéro de sécurité sociale, lorsqu'il y a, de la part des services de l'aide sociale, lieu à versement d'honoraires à ces praticiens ;</p>\n<p>Le montant des sommes versées ou recouvrées.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-11-22 ART. 8 : LES DISPOSITIONS DU 1° ENTRERONT EN APPLICATION DIX-HUIT MOIS APRES LA DATE DE PUBLICATION DU PRESENT ARRETE",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code de la sécurité sociale L388",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

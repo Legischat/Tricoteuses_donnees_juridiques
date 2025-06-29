@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006563204",
+      "ANCIEN_ID": "ADHJLXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/32/LEGIARTI000006563204.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1994-03-01",
+        "DATE_FIN": "2002-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-817 du 23 septembre 1967 DBO,GIM",
+          "@c_titre_court": "Décret n°67-817 du 23 septembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000702760"
+        },
+        {
+          "#text": "Décret n°67-817 du 23 septembre 1967 67-817 relatif aux transferts de débits de boissons dans certains hôtels de tourisme",
+          "@c_titre_court": "Décret n°67-817 du 23 septembre 1967",
+          "@debut": "1967-09-28",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006061480"
+        }
+      ],
+      "@cid": "JORFTEXT000000702760",
+      "@date_publi": "1967-09-28",
+      "@date_signature": "1967-09-23",
+      "@nature": "DECRET",
+      "@num": "67-817"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "MODIFIE",
+          "@fin": "2002-01-01",
+          "@id": "LEGIARTI000006563204",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006563205",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les infractions aux dispositions du présent décret sont punies d'une amende de 25.000 F et d'un emprisonnement d' un mois, ou de l'une de ces deux peines seulement [*sanctions pénales*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-817 1967-09-23",
+        "@cidtexte": "JORFTEXT000000702760",
+        "@datesignatexte": "1967-09-23",
+        "@id": "JORFTEXT000000702760",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-817",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491860",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "322",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

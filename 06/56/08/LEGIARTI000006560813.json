@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006560813",
+      "ANCIEN_ID": "PSIYLXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/08/LEGIARTI000006560813.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-12-30",
+        "DATE_FIN": "2008-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 janvier 2003 portant organisation en bureaux de la direction de l'administration pénitentiaire",
+          "@c_titre_court": "Arrêté du 7 janvier 2003",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000229231"
+        },
+        {
+          "#text": "Arrêté du 7 janvier 2003 portant organisation en bureaux de la direction de l'administration pénitentiaire.",
+          "@c_titre_court": "Arrêté du 7 janvier 2003",
+          "@debut": "2003-01-09",
+          "@fin": "2008-09-01",
+          "@id_txt": "LEGITEXT000005633857"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "La sous-direction de l'état-major de sécurité.",
+            "@debut": "2003-12-30",
+            "@fin": "2008-09-01",
+            "@id": "LEGISCTA000006097165"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000229231",
+      "@date_publi": "2003-01-09",
+      "@date_signature": "2003-01-07",
+      "@ministere": "MINISTERE DE LA JUSTICE",
+      "@nature": "ARRETE",
+      "@nor": "JUSG0260070A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-01-09",
+          "@etat": "MODIFIE",
+          "@fin": "2003-12-30",
+          "@id": "LEGIARTI000006560812",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-12-30",
+          "@etat": "ABROGE",
+          "@fin": "2008-09-01",
+          "@id": "LEGIARTI000006560813",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le bureau du renseignement pénitentiaire est chargé de recueillir et d'analyser l'ensemble des informations utiles à la sécurité des établissements et des services pénitentiaires. Il organise la collecte de ces renseignements auprès des services déconcentrés et procède à leur exploitation à des fins opérationnelles. Il assure la liaison avec les services centraux de la police et de la gendarmerie.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 29 décembre 2003 - art. 1, v. init.",
+        "@cidtexte": "JORFTEXT000000795023",
+        "@datesignatexte": "2003-12-29",
+        "@id": "JORFARTI000002454264",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSG0360085A",
+        "@num": "1",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 9 juillet 2008 - art. 25 (VT)",
+        "@cidtexte": "JORFTEXT000019153350",
+        "@datesignatexte": "2008-07-09",
+        "@id": "LEGIARTI000019155982",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSG0816355A",
+        "@num": "25",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

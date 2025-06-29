@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861559",
+      "ANCIEN_ID": "UPIHGXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/15/LEGIARTI000006861559.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-04-10",
+        "DATE_FIN": "2010-06-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 mars 1973 relatif aux lieutenants de louveterie",
+          "@c_titre_court": "Arrêté du 27 mars 1973",
+          "@debut": "1973-04-10",
+          "@fin": "2010-06-30",
+          "@id_txt": "LEGITEXT000006074501"
+        }
+      ],
+      "@cid": "LEGITEXT000006074501",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1973-03-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-04-10",
+          "@etat": "ABROGE",
+          "@fin": "2010-06-30",
+          "@id": "LEGIARTI000006861559",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans chaque département, le préfet détermine les limites des circonscriptions des lieutenants de louveterie sur la proposition du directeur départemental de l'agriculture et après avis du président de la fédération départementale des chasseurs.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 71-552 1971-07-09",
+        "@cidtexte": "JORFTEXT000000875168",
+        "@datesignatexte": "1971-07-09",
+        "@id": "JORFTEXT000000875168",
+        "@naturetexte": "LOI",
+        "@numtexte": "71-552",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 14 juin 2010 - art. 12",
+        "@cidtexte": "JORFTEXT000022402572",
+        "@datesignatexte": "2010-06-14",
+        "@id": "LEGIARTI000022403312",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVN1013973A",
+        "@num": "12",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

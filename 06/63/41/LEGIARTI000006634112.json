@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006634112",
+      "ANCIEN_ID": "RIIAVXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/41/LEGIARTI000006634112.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-06-01",
+        "DATE_FIN": "1993-03-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 avril 1988 RELATIF  LA CONSTITUTION DE SOCKS DE RESERVE PETROLIERS",
+          "@c_titre_court": "Arrêté du 29 avril 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000322296"
+        },
+        {
+          "#text": "Arrêté du 29 avril 1988 relatif à la constitution de stocks de réserve pétroliers",
+          "@c_titre_court": "Arrêté du 29 avril 1988",
+          "@debut": "1988-06-01",
+          "@fin": "1993-03-24",
+          "@id_txt": "LEGITEXT000006058308"
+        }
+      ],
+      "@cid": "JORFTEXT000000322296",
+      "@date_publi": "1988-05-06",
+      "@date_signature": "1988-04-29",
+      "@nature": "ARRETE",
+      "@nor": "INDM8800304A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-06-01",
+          "@etat": "ABROGE",
+          "@fin": "1993-03-24",
+          "@id": "LEGIARTI000006634112",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Par dérogation aux dispositions de l'arrêté du 23 février 1983 susvisé, la direction des hydrocarbures fournira à la société de stockage les informations prévues à l'article 2.5 des statuts approuvés par le décret n° 88-269 du 22 mars 1988. La société sera tenue de ne pas divulguer ces informations à des tiers autres que ses actionnaires.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1983-02-23",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1993-03-15 art. 15 JORF 24 mars 1993",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 88-269 1988-03-22",
+        "@cidtexte": "JORFTEXT000000315477",
+        "@datesignatexte": "1988-03-22",
+        "@id": "JORFTEXT000000315477",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDH8800140D",
+        "@numtexte": "88-269",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 88-270 1988-03-22",
+        "@cidtexte": "JORFTEXT000000872098",
+        "@datesignatexte": "1988-03-22",
+        "@id": "JORFTEXT000000872098",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INDH8800138D",
+        "@numtexte": "88-270",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

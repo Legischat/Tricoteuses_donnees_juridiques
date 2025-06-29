@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006856884",
+      "ANCIEN_ID": "UPHPKXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/68/LEGIARTI000006856884.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-1369 du 20 décembre 1985 PRIS EN APPLICATION DE L'ART. 435 DU CODE RURAL ET FIXANT LES CONDITIONS DANS LESQUELLES LA PECHE EST INTERDITE EN VUE DE LA PROTECTION DU POISSON",
+          "@c_titre_court": "Décret n°85-1369 du 20 décembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000507927"
+        },
+        {
+          "#text": "Décret n°85-1369 du 20 décembre 1985 pris en application de l'article 435 du code rural et fixant les conditions dans lesquelles la pêche est interdite en vue de la protection du poisson",
+          "@c_titre_court": "Décret n°85-1369 du 20 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006064811"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section II : Dispositions applicables aux interdictions permanentes de pêche",
+            "@debut": "1986-01-01",
+            "@fin": "1989-11-04",
+            "@id": "LEGISCTA000006109660"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000507927",
+      "@date_publi": "1985-12-24",
+      "@date_signature": "1985-12-20",
+      "@nature": "DECRET",
+      "@num": "85-1369"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006856884",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Toute pêche est interdite :<br/>\n    1° Dans les dispositifs assurant la circulation des poissons dans les ouvrages construits dans le lit des cours d'eau ;<br/>\n    2° Dans les pertuis, vannages et dans les passages d'eau à l'intérieur des bâtiments.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. R*236-85 (Ab)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006590356",
+        "@naturetexte": "CODE",
+        "@num": "R*236-85",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural 435",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code rural R236-85",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 85-1369 1985-12-20 JORF 24 décembre 1985 en vigueur le 1er janvier 1986) A(Décret 89-805 1989-10-27 art. 2 JORF 4 novembre 1989",
+        "@cidtexte": "JORFTEXT000000507927",
+        "@datesignatexte": "1985-12-20",
+        "@id": "JORFTEXT000000507927",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1369",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°85-1369 du 20 décembre 1985 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000000507927",
+        "@datesignatexte": "1985-12-20",
+        "@id": "LEGIARTI000006856894",
+        "@naturetexte": "DECRET",
+        "@num": "11",
+        "@numtexte": "85-1369",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

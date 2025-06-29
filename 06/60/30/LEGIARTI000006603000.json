@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006603000",
+      "ANCIEN_ID": "RAHETXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/30/LEGIARTI000006603000.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1992-08-20",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-162 du 2 mars 1983 RELATIF AUX MESURES D'ADAPTATION AUX DEPARTEMENTS D'OUTRE-MER DES DISPOSITIONS DU DECRET 77566 DU 03-06-1977 MODIFIE SUR L'AGRICULTURE DE MONTAGNE ET DE CERTAINES ZONES DEFAVORISEES",
+          "@c_titre_court": "Décret n°83-162 du 2 mars 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000502121"
+        },
+        {
+          "#text": "Décret n°83-162 du 2 mars 1983 relatif aux mesures d'adaptation aux départements d'outre-mer des dispositions du décret n° 77-566 du 3 juin 1977 modifié sur l'agriculture de montagne et de certaines zones défavorisées",
+          "@c_titre_court": "Décret n°83-162 du 2 mars 1983",
+          "@debut": "1983-03-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006064044"
+        }
+      ],
+      "@cid": "JORFTEXT000000502121",
+      "@date_publi": "1983-03-05",
+      "@date_signature": "1983-03-02",
+      "@nature": "DECRET",
+      "@num": "83-162"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-03-05",
+          "@etat": "MODIFIE",
+          "@fin": "1992-08-20",
+          "@id": "LEGIARTI000006602999",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-08-20",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006603000",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les départements d'outre-mer, les conditions minimales de surfaces agricoles utiles et d'effectifs de cheptels hivernés posés par le décret du 3 juin 1977 modifié susvisé pour le bénéfice de l'indemnité compensatoire des handicaps naturels permanents sont fixées respectivement à deux hectares de superficie agricole utile et à deux équivalents d'unité de gros bétail (U.G.B.).<br/>\n<br/>   Le bénéfice des indemnités compensatoires peut être subordonné au respect de plafonds de surfaces cultivées ou de cheptel, définis par arrêté du préfet de département.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 77-566 1977-06-03",
+        "@cidtexte": "JORFTEXT000000337889",
+        "@datesignatexte": "1977-06-03",
+        "@id": "JORFTEXT000000337889",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-566",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°92-804 du 18 août 1992 - art. 1 () JORF 20 août 1992",
+        "@cidtexte": "JORFTEXT000000724321",
+        "@datesignatexte": "1992-08-18",
+        "@id": "LEGIARTI000006602997",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS9200177D",
+        "@num": "1",
+        "@numtexte": "92-804",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code rural - art. R113-30 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006586857",
+        "@naturetexte": "CODE",
+        "@num": "R113-30",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

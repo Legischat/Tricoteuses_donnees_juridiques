@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006859789",
+      "ANCIEN_ID": "UPIAWXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/97/LEGIARTI000006859789.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-04-03",
+        "DATE_FIN": "2008-04-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 mars 1979 relatif aux conditions à respecter pour les établissements ouverts au public pour l'utilisation d'équidés",
+          "@c_titre_court": "Arrêté du 30 mars 1979",
+          "@debut": "1979-04-03",
+          "@fin": "2008-04-30",
+          "@id_txt": "LEGITEXT000006074356"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Déclaration",
+            "@debut": "1979-04-03",
+            "@fin": "2008-04-30",
+            "@id": "LEGISCTA000006109925"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074356",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-03-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-04-03",
+          "@etat": "ABROGE",
+          "@fin": "2008-04-30",
+          "@id": "LEGIARTI000006859789",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute transformation de l'établissement concernant la sécurité, l'hygiène, l'enseignement, les normes techniques et l'état de la cavalerie doit être portée sans délai à la connaissance du directeur des haras de la circonscription concernée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-264 1979-03-30",
+        "@cidtexte": "JORFTEXT000000702661",
+        "@datesignatexte": "1979-03-30",
+        "@id": "JORFTEXT000000702661",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-264",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 28 février 2008 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000018730866",
+        "@datesignatexte": "2008-02-28",
+        "@id": "LEGIARTI000018732063",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SJSV0805704A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

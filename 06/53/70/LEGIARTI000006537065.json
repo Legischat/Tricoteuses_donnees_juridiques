@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006537065",
+      "ANCIEN_ID": "ADHBDXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/70/LEGIARTI000006537065.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-09-09",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-798 du 7 septembre 1983 RELATIF A LA COMMERCIALISATION DE CERTAINS FRUITS ET LEGUMES SOUMIS A DES REGLES RENDUES OBLIGATOIRES DANS LA CIRCONSCRIPTION D'UN COMITE ECONOMIQUE AGRICOLE AGREE",
+          "@c_titre_court": "Décret n°83-798 du 7 septembre 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000858294"
+        },
+        {
+          "#text": "Décret n°83-798 du 7 septembre 1983 relatif à la commercialisation de certains fruits et légumes soumis à des règles rendues obligatoires dans la circonscription d'un comité économique agricole agréé",
+          "@c_titre_court": "Décret n°83-798 du 7 septembre 1983",
+          "@debut": "1983-09-09",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006064241"
+        }
+      ],
+      "@cid": "JORFTEXT000000858294",
+      "@date_publi": "1983-09-09",
+      "@date_signature": "1983-09-07",
+      "@nature": "DECRET",
+      "@num": "83-798"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-09-09",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006537065",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Pour les produits ayant fait l'objet d'une mesure d'extension des règles en application de l'article 16 de la loi du 8 août 1962 susvisée, un arrêté conjoint du ministre chargé de l'économie, du ministre de l'agriculture, du ministre chargé du commerce et du ministre chargé de la consommation peut décider, pour certains fruits et légumes, à la demande d'un comité économique agricole agréé dans la circonscription de ce comité, l'apposition d'une estampille sur chaque colis afin d'attester que ces produits sont en conformité avec les règles rendues obligatoires.<br/>\n Pour les lots de produits en vrac, l'estampille sera apposée sur un document d'accompagnement de la marchandise attestant que ces produits répondent aux exigences des règles rendues obligatoires à l'exception de celles portant sur la marchandise elle-même.<br/>\n L'arrêté précisera les conditions d'apposition de l'estampille sur les colis ou les documents d'accompagnement des produits en vrac, ainsi que les mentions qui devront y figurer.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°62-933 du 8 août 1962 - art. 16 (M)",
+        "@cidtexte": "JORFTEXT000000313972",
+        "@datesignatexte": "1962-08-08",
+        "@id": "LEGIARTI000006600088",
+        "@naturetexte": "LOI",
+        "@num": "16",
+        "@numtexte": "62-933",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°83-798 du 7 septembre 1983 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000858294",
+        "@datesignatexte": "1983-09-07",
+        "@id": "LEGIARTI000006537093",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "83-798",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 52° JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

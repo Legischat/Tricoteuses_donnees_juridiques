@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006620421",
+      "ANCIEN_ID": "RFHAFXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/04/LEGIARTI000006620421.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1942-04-05",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°42-1037 du 2 avril 1942 relatif au mode de règlement des ventes de céréales et précisant les conditions de ces ventes",
+          "@c_titre_court": "Décret n°42-1037 du 2 avril 1942",
+          "@debut": "1942-04-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071653"
+        }
+      ],
+      "@cid": "LEGITEXT000006071653",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1942-04-02",
+      "@nature": "DECRET",
+      "@num": "42-1037"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1942-04-05",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006620421",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A titre temporaire, le paiement des céréales expédiées par voie ferrée ou fluviale pourra n'être effectué par les acheteurs qu'après expédition de la marchandise, à condition qu'ils aient fourni à leurs vendeurs un engagement irrévocable, donné par un établissement bancaire ou par une société financière agréée dans ce but par l'office national interprofessionnel des céréales, d'effectuer le règlement à vue sur présentation de la facture accompagnée du récépissé d'expédition délivré à l'expéditeur, en cas d'expédition par fer, ou d'un duplicatum de la lettre de voiture, en cas d'expédition par eau.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°42-1037 du 2 avril 1942 - art. 5 (Ab)",
+        "@cidtexte": "LEGITEXT000006071653",
+        "@datesignatexte": "1942-04-02",
+        "@id": "LEGIARTI000006620425",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "42-1037",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

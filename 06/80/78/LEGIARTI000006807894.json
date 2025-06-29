@@ -1,0 +1,165 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006807894",
+      "ANCIEN_ID": "TXXXXXXXXXX0232R0300XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/78/LEGIARTI000006807894.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R232-30",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1987-10-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Réglementation du travail",
+              "@debut": "1973-11-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128493"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre III : HYGIENE",
+                "@debut": "1973-11-23",
+                "@fin": "1989-01-01",
+                "@id": "LEGISCTA000006143011"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : HYGIENE SECTION 4 : SIEGES.",
+                  "@debut": "1973-11-23",
+                  "@fin": "1987-10-03",
+                  "@id": "LEGISCTA000006158036"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "ABROGE",
+          "@fin": "1987-10-03",
+          "@id": "LEGIARTI000006807894",
+          "@num": "R232-30",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les magasins boutiques et autres locaux en dépendant dans lesquels marchandises et objets divers sont manutentionnés ou offerts au public par un personnel féminin doivent être, dans chaque salle, munis d'un nombre de sièges égal à celui des femmes qui y sont employées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du travail - art. R263-1 (V)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018509723",
+        "@naturetexte": "CODE",
+        "@num": "R263-1",
+        "@sens": "cible",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code du travail - art. R263-1 (VT)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018509723",
+        "@naturetexte": "CODE",
+        "@num": "R263-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail Livre 2 art§ 76",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 80-857 1980-10-30 ART. 1 date d'entrée en vigueur 1ER février 1981 : ETEND CES DISPOSITIONS AUX ETABLISSEMENTS AGRICOLES MENTIONNES A L'ARTICLE L231-1",
+        "@cidtexte": "JORFTEXT000000862491",
+        "@datesignatexte": "1980-10-30",
+        "@id": "JORFTEXT000000862491",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-857",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°87-809 du 1 octobre 1987 - art. 1 (V) JORF 3 octobre 1987",
+        "@cidtexte": "JORFTEXT000000332965",
+        "@datesignatexte": "1987-10-01",
+        "@id": "LEGIARTI000006674857",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ASET8703612D",
+        "@num": "1",
+        "@numtexte": "87-809",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail R263-1 : SANCTIONS PENALES",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072050",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006313113",
+      "ANCIEN_ID": "FAAACGIXXXX1783AEXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/31/LEGIARTI000006313113.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1783 bis A",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1987-07-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "RECOUVREMENT DE L'IMPOT",
+            "@debut": "1972-08-30",
+            "@fin": "2006-01-01",
+            "@id": "LEGISCTA000006084262"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "PENALITES",
+              "@debut": "1972-08-30",
+              "@fin": "2006-01-01",
+              "@id": "LEGISCTA000006114510"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "DISPOSITIONS PARTICULIERES.",
+                "@debut": "1972-08-30",
+                "@fin": "2006-01-01",
+                "@id": "LEGISCTA000006133910"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "MODIFIE",
+          "@fin": "1987-07-09",
+          "@id": "LEGIARTI000006313113",
+          "@num": "1783 bis A",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-07-09",
+          "@etat": "ABROGE",
+          "@fin": "2004-03-27",
+          "@id": "LEGIARTI000006313114",
+          "@num": "1783 bis A",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>     Dans le cas où les personnes exonérées de taxe professionnelle, en vertu de l'article 1459-4°, pour la location en meublé de locaux classés dans les conditions prévues à l'article 58-I de la loi n° 65-997 du 29 novembre 1965, sont déchues du bénéfice de cette exonération par suite du déclassement desdits locaux, elles sont tenues, en outre, au paiement d'une amende égale au montant des droits non perçus.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1459 4°",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "EDITION 1979-07-01",
+        "@sens": "source",
+        "@typelien": "HISTO"
+      },
+      {
+        "#text": "LOI 65-997 1965-11-29 ART. 58 I",
+        "@cidtexte": "JORFTEXT000000691977",
+        "@datesignatexte": "1965-11-29",
+        "@id": "JORFTEXT000000691977",
+        "@naturetexte": "LOI",
+        "@numtexte": "65-997",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

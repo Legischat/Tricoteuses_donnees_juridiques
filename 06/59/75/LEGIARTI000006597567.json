@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006597567",
+      "ANCIEN_ID": "ADHWRXXXXXXB00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/59/75/LEGIARTI000006597567.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe II",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 98-1142 du 15 décembre 1998 relatif aux calculatrices électroniques de poche comportant une fonction spécifique pour opérer la conversion de la monnaie nationale en euro",
+          "@c_titre_court": "Décret n°98-1142 du 15 décembre 1998",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000558303"
+        },
+        {
+          "#text": "Décret n°98-1142 du 15 décembre 1998 relatif aux calculatrices électroniques de poche comportant une fonction spécifique pour opérer la conversion de la monnaie nationale en euro",
+          "@c_titre_court": "Décret n°98-1142 du 15 décembre 1998",
+          "@debut": "1999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005627102"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1999-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098321"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000558303",
+      "@date_publi": "1998-12-16",
+      "@date_signature": "1998-12-15",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "DECRET",
+      "@nor": "ECOC9800138D",
+      "@num": "98-1142"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006597567",
+          "@num": "Annexe II",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "PROTOCOLE D'ESSAI<br/>\n<br/>      1. Si le taux de conversion de l'euro n'a pas été programmé avant la commercialisation, entrer le taux de conversion à six chiffres fixé par le Conseil de l'Union européenne selon la méthode préconisée par le constructeur.<br/>\n<br/>   2. Pour vérifier que le taux utilisé par la calculatrice lors de l'opération de conversion est exact, opérer la conversion franc-euro du nombre entier correspondant aux six chiffres du taux de conversion.<br/>\n<br/>   Le résultat affiché doit être 100 000 euros ou 100 000,00 euros.<br/>\n<br/>   3. Pour vérifier que les arrondis sont réalisés conformément aux spécifications de l'annexe I, effectuer deux opérations de conversion de nombre entier simple, choisis tels que la troisième décimale du résultat de la conversion soit inférieure à 5 pour la première opération, et supérieure à 5 pour la seconde.<br/>\n<br/>   Exemple :<br/>\n<br/>   Si 1 euro = 6,623 51 F, le résultat arrondi est 6,62 F, la troisième décimale étant inférieure à 5.<br/>\n<br/>   2 euros = 13,247 02 F, le résultat arrondi est 13,25 F, la troisième décimale étant supérieure à 5.<br/>\n<br/>   Si la calculatrice affiche 13,24 F, elle n'effectue pas la conversion conformément aux dispositions du présent décret.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 98-1142 1998-12-15 annexe I",
+        "@cidtexte": "JORFTEXT000000558303",
+        "@datesignatexte": "1998-12-15",
+        "@id": "JORFTEXT000000558303",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOC9800138D",
+        "@numtexte": "98-1142",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la consommation L214-1 et L214-2",
+        "@cidtexte": "LEGITEXT000006069565",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006069565",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

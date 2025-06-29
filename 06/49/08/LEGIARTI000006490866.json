@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006490866",
+      "ANCIEN_ID": "PJEAMXXXXXX019AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/08/LEGIARTI000006490866.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2004-03-10",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°81-736 du 4 août 1981 PORTANT AMNISTIE",
+          "@c_titre_court": "Loi n°81-736 du 4 août 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517004"
+        },
+        {
+          "#text": "Loi n° 81-736 du 4 août 1981 PORTANT AMNISTIE.",
+          "@c_titre_court": "Loi n° 81-736 du 4 août 1981",
+          "@debut": "1981-08-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068715"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : Effets de l'amnistie",
+            "@debut": "1981-08-05",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006093936"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000517004",
+      "@date_publi": "1981-08-05",
+      "@date_signature": "1981-08-04",
+      "@nature": "LOI",
+      "@num": "81-736"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2004-03-10",
+          "@id": "LEGIARTI000006490865",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-03-10",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006490866",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'amnistie entraîne la remise de toutes les peines principales, accessoires et complémentaires, ainsi que de toutes les incapacités ou déchéances subséquentes. Elle ne peut donner lieu à restitution, sauf en ce qui concerne les objets confisqués en application de l'article 33 bis de la loi n° 74-696 du 7 août 1974 relative à la radiodiffusion et à la télévision et des articles L. 39 et L. 89 du code des postes et télécommunications. Elle rétablit l'auteur de l'infraction dans le bénéfice du sursis qui a pu lui être accordé lors d'une condamnation antérieure.<br/>\n<br/>   Toutefois, en cas de condamnation à une amende supérieure à 6.000 F l'amnistie prévue par les articles 6 et 7 ne sera acquise qu'après le paiement de cette amende ou après l'exécution de la contrainte judiciaire. Dans ce dernier cas, l'amnistie ainsi acquise ne fait pas obstacle au recouvrement ultérieur de l'amende.<br/>\n<br/>   L'amnistie entraîne la remise des peines complémentaires de suspension ou d'interdiction de délivrance du permis de conduire prévues aux articles L. 14 et L. 16 du code de la route.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 74-696 1974-08-07 ART. 33 bis",
+        "@cidtexte": "JORFTEXT000000333539",
+        "@datesignatexte": "1974-08-07",
+        "@id": "JORFTEXT000000333539",
+        "@naturetexte": "LOI",
+        "@numtexte": "74-696",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 81-736 1981-08-04 ART. 6 et ART. 7",
+        "@cidtexte": "JORFTEXT000000517004",
+        "@datesignatexte": "1981-08-04",
+        "@id": "JORFTEXT000000517004",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-736",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route L14 et L16",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des postes et télécommunications L39 et L89",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 2004-204 2004-03-10 art. 198 V JORF 10 mars 2004",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

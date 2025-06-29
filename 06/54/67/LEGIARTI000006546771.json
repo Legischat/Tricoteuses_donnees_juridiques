@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006546771",
+      "ANCIEN_ID": "ADHCVXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/67/LEGIARTI000006546771.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1953-10-27",
+        "DATE_FIN": "1988-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°53-1048 du 26 octobre 1953 PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE POUR L'APPLICATION DES LOIS DES 01-08-1905 ET 02-07-1935 SUR LA REPRESSION DES FRAUDES ET L'ORGANISATION DU MARCHE DU LAIT",
+          "@c_titre_court": "Décret n°53-1048 du 26 octobre 1953",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000329433"
+        },
+        {
+          "#text": "Décret n°53-1048 du 26 octobre 1953 pris pour l'application, en ce qui concerne les fromages, de la loi du 1er août 1905 sur la répression des fraudes et de la loi du 2 juillet 1935 tendant à l'organisation et à l'assainissement du marché du lait",
+          "@c_titre_court": "Décret n°53-1048 du 26 octobre 1953",
+          "@debut": "1953-10-27",
+          "@fin": "1988-12-31",
+          "@id_txt": "LEGITEXT000006060645"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Fromages fondus.",
+            "@debut": "1953-10-27",
+            "@fin": "1988-12-31",
+            "@id": "LEGISCTA000006096659"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000329433",
+      "@date_publi": "1953-10-27",
+      "@date_signature": "1953-10-26",
+      "@nature": "DECRET",
+      "@num": "53-1048"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1953-10-27",
+          "@etat": "ABROGE",
+          "@fin": "1988-12-31",
+          "@id": "LEGIARTI000006546771",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sous réserve des dispositions de l'article 18 du présent décret, il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre des fromages fondus qui présenteraient les caractéristiques extérieures de fromages obtenus directement par emprésurage du lait, du lait écrémé, de la crème, de leur mélange, à moins que ces fromages ne portent imprimés sur la croûte la mention \"pâte fondue\", en caractères très apparents, répétés, le cas échéant, afin que chaque morceau débité comporte cette indication ou une fraction suffisante de celle-ci.<br/>\n<br/>   Les fromages fondus détenus et transportés en vue de la vente, mis en vente ou vendus à la pièce, doivent porter l'indication du poids net du produit à la sortie de l'usine.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°53-1048 du 26 octobre 1953 - art. 18 (M)",
+        "@cidtexte": "JORFTEXT000000329433",
+        "@datesignatexte": "1953-10-26",
+        "@id": "LEGIARTI000006546809",
+        "@naturetexte": "DECRET",
+        "@num": "18",
+        "@numtexte": "53-1048",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-1206 du 30 décembre 1988 - art. 19 () JORF 31 décembre 1988",
+        "@cidtexte": "JORFTEXT000000309663",
+        "@datesignatexte": "1988-12-30",
+        "@id": "LEGIARTI000006563907",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOC8800153D",
+        "@num": "19",
+        "@numtexte": "88-1206",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1935-07-02",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

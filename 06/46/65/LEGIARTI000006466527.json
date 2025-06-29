@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006466527",
+      "ANCIEN_ID": "ACEARXXXXXX052AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/65/LEGIARTI000006466527.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "52",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-03-11",
+        "DATE_FIN": "1992-07-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 57-298 du 11 mars 1957 sur la propriété littéraire et artistique",
+          "@c_titre_court": "Loi n° 57-298 du 11 mars 1957",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000315384"
+        },
+        {
+          "#text": "Loi n°57-298 du 11 mars 1957 sur la propriété littéraire et artistique",
+          "@c_titre_court": "Loi n°57-298 du 11 mars 1957",
+          "@debut": "1958-03-11",
+          "@fin": "1992-07-03",
+          "@id_txt": "LEGITEXT000006068170"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Du contrat d'édition.",
+            "@debut": "1958-03-11",
+            "@fin": "1992-07-03",
+            "@id": "LEGISCTA000006092432"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000315384",
+      "@date_publi": "1957-03-14",
+      "@date_signature": "1957-03-11",
+      "@nature": "LOI",
+      "@num": "57-298"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-03-11",
+          "@etat": "ABROGE",
+          "@fin": "1992-07-03",
+          "@id": "LEGIARTI000006466527",
+          "@num": "52",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le contrat peut prévoir soit une rémunération proportionnelle aux produits d'exploitation, soit, dans les cas prévus aux articles 35 et 36, une rémunération forfaitaire.<br/>\n<br/>   L'éditeur est tenu d'effectuer ou de faire effectuer la fabrication selon les conditions, dans la forme et suivant les modes d'expression prévus au contrat [*d'édition - contenu*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 57-298 1957-03-11 JORF 14 mars 1957 rectificatif JORF 19 avril 1957 en vigueur le 11 mars 1958",
+        "@cidtexte": "JORFTEXT000000315384",
+        "@datesignatexte": "1957-03-11",
+        "@id": "JORFTEXT000000315384",
+        "@naturetexte": "LOI",
+        "@numtexte": "57-298",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°57-298 du 11 mars 1957 - art. 35 (Ab)",
+        "@cidtexte": "JORFTEXT000000315384",
+        "@datesignatexte": "1957-03-11",
+        "@id": "LEGIARTI000006466284",
+        "@naturetexte": "LOI",
+        "@num": "35",
+        "@numtexte": "57-298",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°57-298 du 11 mars 1957 - art. 36 (Ab)",
+        "@cidtexte": "JORFTEXT000000315384",
+        "@datesignatexte": "1957-03-11",
+        "@id": "LEGIARTI000006466312",
+        "@naturetexte": "LOI",
+        "@num": "36",
+        "@numtexte": "57-298",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°92-597 du 1 juillet 1992 - art. 5 (V) JORF 3 juillet 1992",
+        "@cidtexte": "JORFTEXT000000357475",
+        "@datesignatexte": "1992-07-01",
+        "@id": "LEGIARTI000006281476",
+        "@naturetexte": "LOI",
+        "@nortexte": "MENX9100082L",
+        "@num": "5",
+        "@numtexte": "92-597",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la propriété intellectuelle - art. L132-11 (V)",
+        "@cidtexte": "LEGITEXT000006069414",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006278983",
+        "@naturetexte": "CODE",
+        "@num": "L132-11",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la propriété intellectuelle - art. L132-5 (V)",
+        "@cidtexte": "LEGITEXT000006069414",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006278975",
+        "@naturetexte": "CODE",
+        "@num": "L132-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la propriété intellectuelle L132-5 al. 1 et L132-11 al. 2",
+        "@cidtexte": "LEGITEXT000006069414",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006069414",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

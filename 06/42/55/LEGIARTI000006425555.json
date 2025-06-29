@@ -1,0 +1,138 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006425555",
+      "ANCIEN_ID": "ACAXXXXXXXX5X00338AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/55/LEGIARTI000006425555.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "338",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-08-01",
+        "DATE_FIN": "2006-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Des personnes",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089697"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VII : De la filiation",
+              "@debut": "1972-08-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117789"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre III : De la filiation naturelle.",
+                "@debut": "1972-08-01",
+                "@fin": "2006-07-01",
+                "@id": "LEGISCTA000006136187"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 2 : De la reconnaissance des enfants naturels",
+                  "@debut": "1972-08-01",
+                  "@fin": "2006-07-01",
+                  "@id": "LEGISCTA000006150060"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-08-01",
+          "@etat": "ABROGE",
+          "@fin": "2006-07-01",
+          "@id": "LEGIARTI000006425555",
+          "@num": "338",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tant qu'elle n'a pas été contestée en justice, une reconnaissance rend irrecevable l'établissement d'une autre filiation naturelle qui la contredirait.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1803-03-14",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°72-3 du 3 janvier 1972 - art. 1 () JORF 5 janvier 1972 en vigueur le 1er août 1972",
+        "@cidtexte": "JORFTEXT000000875196",
+        "@datesignatexte": "1972-01-03",
+        "@id": "LEGIARTI000006283627",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "72-3",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 2005-759 2005-07-04 art. 20 : Spécificité d'application",
+        "@cidtexte": "JORFTEXT000000451869",
+        "@datesignatexte": "2005-07-04",
+        "@id": "JORFTEXT000000451869",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0500068R",
+        "@numtexte": "2005-759",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n°2005-759 du 4 juillet 2005 - art. 18 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006",
+        "@cidtexte": "JORFTEXT000000451869",
+        "@datesignatexte": "2005-07-04",
+        "@id": "LEGIARTI000006285068",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0500068R",
+        "@num": "18",
+        "@numtexte": "2005-759",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006577752",
+      "ANCIEN_ID": "ADHPUXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/77/LEGIARTI000006577752.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1970-04-16",
+        "DATE_FIN": "2009-09-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "DECRET 70-326 du 14-04- 1970 PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE POUR L'APPLICATION DE LA LOI DU 01-08-1905 SUR LA REPRESSION DES FRAUDES EN CE QUI CONCERNE LE COMMERCE DES PLANTES VIVANTES ET DES PRODUITS DE LA FLORICULTURE.",
+          "@c_titre_court": "Décret n°70-326 du 14 avril 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000677159"
+        },
+        {
+          "#text": "Décret n°70-326 du 14 avril 1970 pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne le commerce des plantes vivantes et des produits de la floriculture",
+          "@c_titre_court": "Décret n°70-326 du 14 avril 1970",
+          "@debut": "1970-04-16",
+          "@fin": "2009-09-04",
+          "@id_txt": "LEGITEXT000006061740"
+        }
+      ],
+      "@cid": "JORFTEXT000000677159",
+      "@date_publi": "1970-04-16",
+      "@date_signature": "1970-04-14",
+      "@nature": "DECRET",
+      "@num": "70-326"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-04-16",
+          "@etat": "ABROGE",
+          "@fin": "2009-09-04",
+          "@id": "LEGIARTI000006577752",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sans préjudice de l'application des dispositions des articles 5 et 6 de la loi susvisée du 2 juillet 1963, est interdit l'emploi de toute indication, de tout signe, de tout mode de présentation ou de publicité susceptible de créer, dans l'esprit de l'acheteur, une confusion, notamment sur la nature, l'espèce, la variété, la provenance, l'état sanitaire, la qualité, le calibre, la quantité ou les propriétés particulières des produits visés par le présent décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°63-628 du 2 juillet 1963",
+        "@cidtexte": "JORFTEXT000000312755",
+        "@datesignatexte": "1963-07-02",
+        "@id": "JORFTEXT000000312755",
+        "@naturetexte": "LOI",
+        "@numtexte": "63-628",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°63-628 du 2 juillet 1963 - art. 5",
+        "@cidtexte": "JORFTEXT000000312755",
+        "@datesignatexte": "1963-07-02",
+        "@id": "JORFARTI000001096479",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "63-628",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2009-1083\n du 1er septembre 2009 - art. 2",
+        "@cidtexte": "JORFTEXT000021014048",
+        "@datesignatexte": "2009-09-01",
+        "@id": "LEGIARTI000021015043",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECEC0906249D",
+        "@num": "2",
+        "@numtexte": "2009-1083",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

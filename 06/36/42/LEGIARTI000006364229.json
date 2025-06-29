@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006364229",
+      "ANCIEN_ID": "MRE01XXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/42/LEGIARTI000006364229.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-10-01",
+        "DATE_FIN": "1986-01-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°72-619 du 5 juillet 1972 PORTANT CREATION ET ORGANISATION DES REGIONS",
+          "@c_titre_court": "Loi n°72-619 du 5 juillet 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000684297"
+        },
+        {
+          "#text": "Loi n° 72-619 du 5 juillet 1972 portant création et organisation des régions.",
+          "@c_titre_court": "Loi n° 72-619 du 5 juillet 1972",
+          "@debut": "1973-10-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068445"
+        }
+      ],
+      "@cid": "JORFTEXT000000684297",
+      "@date_publi": "1972-07-09",
+      "@date_signature": "1972-07-05",
+      "@nature": "LOI",
+      "@num": "72-619"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-10-01",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-08",
+          "@id": "LEGIARTI000006364229",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de la présente loi ne sont pas applicables à la région parisienne dont l'organisation reste soumise aux dispositions des lois des 2 août 1961 et 10 juillet 1964 modifiées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 61-845 1961-08-02",
+        "@cidtexte": "JORFTEXT000000874933",
+        "@datesignatexte": "1961-08-02",
+        "@id": "JORFTEXT000000874933",
+        "@naturetexte": "LOI",
+        "@numtexte": "61-845",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 64-707 1964-07-10",
+        "@cidtexte": "JORFTEXT000000319965",
+        "@datesignatexte": "1964-07-10",
+        "@id": "JORFTEXT000000319965",
+        "@naturetexte": "LOI",
+        "@numtexte": "64-707",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 86-16 1986-01-06 art. 37 1° JORF 8 janvier 1986",
+        "@cidtexte": "JORFTEXT000000512456",
+        "@datesignatexte": "1986-01-06",
+        "@id": "JORFTEXT000000512456",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-16",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

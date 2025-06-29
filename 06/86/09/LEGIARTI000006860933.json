@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860933",
+      "ANCIEN_ID": "UPIDYXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/09/LEGIARTI000006860933.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-08-10",
+        "DATE_FIN": "1998-10-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 juillet 1979 relatif aux règles techniques et de sécurité des stations de distribution de carburant liquéfié non classées",
+          "@c_titre_court": "Arrêté du 30 juillet 1979",
+          "@debut": "1979-08-10",
+          "@fin": "1998-10-28",
+          "@id_txt": "LEGITEXT000006074428"
+        }
+      ],
+      "@cid": "LEGITEXT000006074428",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-07-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-08-10",
+          "@etat": "ABROGE",
+          "@fin": "1998-10-28",
+          "@id": "LEGIARTI000006860933",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les stations de distribution du mélange spécial de butane et de propane utilisé pour la carburation, non soumises aux dispositions de la loi du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement, sont soumises aux dispositions du présent arrêté et de son annexe [*champ d'application*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-07-30 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1998-09-30 art. 1 JORF 28 octobre 1998",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 62-1297 1962-11-07",
+        "@cidtexte": "JORFTEXT000000673018",
+        "@datesignatexte": "1962-11-07",
+        "@id": "JORFTEXT000000673018",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1297",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 76-663 1976-07-19",
+        "@cidtexte": "JORFTEXT000000684771",
+        "@datesignatexte": "1976-07-19",
+        "@id": "JORFTEXT000000684771",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-663",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

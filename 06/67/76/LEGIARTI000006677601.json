@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006677601",
+      "ANCIEN_ID": "SHIEFXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/76/LEGIARTI000006677601.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-03-04",
+        "DATE_FIN": "2013-07-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 juillet 1985 relatif aux documents prévus par l'article 40 du décret 82-397 du 11 mai 1982 relatif à l'organisation et au fonctionnement des services médicaux du travail en agriculture.",
+          "@c_titre_court": "Arrêté du 8 juillet 1985",
+          "@debut": "1985-07-28",
+          "@fin": "2013-07-04",
+          "@id_txt": "LEGITEXT000006072505"
+        }
+      ],
+      "@cid": "LEGITEXT000006072505",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-07-08",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-28",
+          "@etat": "MODIFIE",
+          "@fin": "1986-03-04",
+          "@id": "LEGIARTI000006677600",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-04",
+          "@etat": "ABROGE",
+          "@fin": "2013-07-04",
+          "@id": "LEGIARTI000006677601",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La fiche d'aptitude prévue par l'article 40-I du décret du 11 mai 1982 susvisé doit être établie sur un imprimé dont les dimensions ne peuvent être inférieures à 210 mm x 95 mm.<br/>\n<br/>   Cet imprimé doit porter les rubriques suivantes :<br/>\n<br/>      -dénomination et adresse du service médical;<br/>\n<br/>      -identité de l'employeur ;<br/>\n<br/>      -identité et numéro d'immatriculation ASA (ou date de naissance naissance du salarié);<br/>\n<br/>      -poste occupé par le salarié ;<br/>\n<br/>      -conclusions de l'examen ;<br/>\n<br/>      -date de l'examen ;<br/>\n<br/>      -nom et signature du médecin .<br/>\n<br/>   L'imprimé doit, en outre, comporter une rubrique permettant de préciser la nature de l'examen pratiqué (examen d'embauchage, examen périodique, examen de surveillance particulière ou examen de reprise de travail).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-02-20 art. 1 JORF 4 mars 1986",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 82-397 1982-05-11",
+        "@cidtexte": "JORFTEXT000000336033",
+        "@datesignatexte": "1982-05-11",
+        "@id": "JORFTEXT000000336033",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-397",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°82-397 du 11 mai 1982",
+        "@cidtexte": "JORFTEXT000000336033",
+        "@datesignatexte": "1982-05-11",
+        "@id": "JORFTEXT000000336033",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-397",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 juin 2013 - art. 2",
+        "@cidtexte": "JORFTEXT000027650746",
+        "@datesignatexte": "2013-06-20",
+        "@id": "LEGIARTI000027651153",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ETST1312442A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

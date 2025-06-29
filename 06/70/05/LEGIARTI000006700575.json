@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006700575",
+      "ANCIEN_ID": "AFEBEXXXXXX022AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/05/LEGIARTI000006700575.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-12-03",
+        "DATE_FIN": "1984-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 45-15 du 2 décembre 1945 relative à la nationalisation de la Banque de France et des grandes banques et à l'organisation du crédit",
+          "@c_titre_court": "Loi n° 45-15 du 2 décembre 1945",
+          "@debut": "1945-12-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072686"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VI : Dispositions diverses.",
+            "@debut": "1945-12-03",
+            "@fin": "1984-07-25",
+            "@id": "LEGISCTA000006103747"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072686",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1945-12-02",
+      "@nature": "LOI",
+      "@num": "45-15"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-12-03",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006700575",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des décrets pris, sur la proposition du ministre de l'économie et des finances, fixeront toutes conditions d'application de la présente loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 I JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 45-15 1945-12-02 JORF 3 décembre 1945 rectificatif JORF 14 décembre 1945",
+        "@cidtexte": "LEGITEXT000006072686",
+        "@datesignatexte": "1945-12-02",
+        "@id": "LEGITEXT000006072686",
+        "@naturetexte": "LOI",
+        "@numtexte": "45-15",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

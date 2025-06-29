@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006886169",
+      "ANCIEN_ID": "UTI6VXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/61/LEGIARTI000006886169.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-05-12",
+        "DATE_FIN": "2008-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 mai 1995 relatif à l'obtention par équivalence des titres de    conduite en mer des navires de plaisance à moteur",
+          "@c_titre_court": "Arrêté du 3 mai 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000719835"
+        },
+        {
+          "#text": "Arrêté du 3 mai 1995 relatif à l'obtention par équivalence des titres de conduite en mer des navires de plaisance à moteur",
+          "@c_titre_court": "Arrêté du 3 mai 1995",
+          "@debut": "1995-05-12",
+          "@fin": "2008-03-01",
+          "@id_txt": "LEGITEXT000005618865"
+        }
+      ],
+      "@cid": "JORFTEXT000000719835",
+      "@date_publi": "1995-05-12",
+      "@date_signature": "1995-05-03",
+      "@ministere": "MINISTERE DE L'EQUIPEMENT,DES TRANSPORTS ET DU TOURISME",
+      "@nature": "ARRETE",
+      "@nor": "EQUK9500903A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-05-12",
+          "@etat": "ABROGE",
+          "@fin": "2008-03-01",
+          "@id": "LEGIARTI000006886169",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 22 septembre 1993 relatif à l'obtention par équivalence des titres de conduite en mer des navires de plaisance à moteur est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-09-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 92-1166 1992-10-21 art. 7",
+        "@cidtexte": "JORFTEXT000000360669",
+        "@datesignatexte": "1992-10-21",
+        "@id": "JORFTEXT000000360669",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MERR9200030D",
+        "@numtexte": "92-1166",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 18 février 2008 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000018193556",
+        "@datesignatexte": "2008-02-18",
+        "@id": "LEGIARTI000018195373",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVT0803630A",
+        "@num": "10",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

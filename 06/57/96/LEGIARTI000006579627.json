@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579627",
+      "ANCIEN_ID": "RAA0XXXXXXX0201BAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/96/LEGIARTI000006579627.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "201-1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1956-05-09",
+        "DATE_FIN": "1999-01-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Des animaux et des végétaux",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098248"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : De la garde des animaux domestiques",
+              "@debut": "1955-04-19",
+              "@fin": "1999-01-07",
+              "@id": "LEGISCTA000006121356"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Des bestiaux et des chèvres.",
+                "@debut": "1955-04-19",
+                "@fin": "1999-01-07",
+                "@id": "LEGISCTA000006138201"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-05-09",
+          "@etat": "MODIFIE",
+          "@fin": "1999-01-07",
+          "@id": "LEGIARTI000006579627",
+          "@num": "201-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-01-07",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006579628",
+          "@num": "201-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'emploi du goudron et de tous produits détériorant la laine ou la peau ou ne s'éliminant pas lors du lavage industriel de la laine est interdit pour le marquage des moutons.<br/>\n<br/>   Nul ne peut fabriquer, mettre en vente ou vendre des produits destinés au marquage des moutons si ces produits n'ont pas été, au préalable, agréés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 56-464 1956-05-07 art. 1 JORF 9 mai 1956",
+        "@cidtexte": "JORFTEXT000000504439",
+        "@datesignatexte": "1956-05-07",
+        "@id": "JORFTEXT000000504439",
+        "@naturetexte": "LOI",
+        "@numtexte": "56-464",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

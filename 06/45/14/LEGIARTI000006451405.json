@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006451405",
+      "ANCIEN_ID": "PFEBXXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/14/LEGIARTI000006451405.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1966-07-10",
+        "DATE_FIN": "2012-05-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-492 du 9 juillet 1966 portant organisation de la police nationale",
+          "@c_titre_court": "Loi n°66-492 du 9 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692468"
+        },
+        {
+          "#text": "Loi n° 66-492 du 9 juillet 1966 portant organisation de la police nationale.",
+          "@c_titre_court": "Loi n° 66-492 du 9 juillet 1966",
+          "@debut": "1966-07-10",
+          "@fin": "2012-05-01",
+          "@id_txt": "LEGITEXT000006068285"
+        }
+      ],
+      "@cid": "JORFTEXT000000692468",
+      "@date_publi": "1966-07-10",
+      "@date_signature": "1966-07-09",
+      "@nature": "LOI",
+      "@num": "66-492"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-07-10",
+          "@etat": "ABROGE",
+          "@fin": "2012-05-01",
+          "@id": "LEGIARTI000006451405",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La police nationale relève de l'autorité du ministre de l'intérieur, sous réserve des dispositions du code de procédure pénale relatives à l'exercice de la police judiciaire.<br/>\n<br/>   Elle comporte des emplois de direction des services actifs, parmi lesquels sont compris les emplois de direction de la préfecture de police, des services de contrôle et des corps de fonctionnaires soumis aux dispositions de la loi n° 48-1504 du 28 septembre 1948 modifiée.<br/>\n<br/>   Lorsqu'ils sont affectés dans les limites territoriales définies par l'article 10 de la loi n° 64-707 du 10 juillet 1964, les personnels des services actifs de la police nationale sont mis à la disposition du préfet de police pour l'exercice de sa mission.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°48-1504 du 28 septembre 1948",
+        "@cidtexte": "JORFTEXT000000312986",
+        "@datesignatexte": "1948-09-28",
+        "@id": "JORFTEXT000000312986",
+        "@naturetexte": "LOI",
+        "@numtexte": "48-1504",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n° 64-707 du 10 juillet 1964",
+        "@cidtexte": "JORFTEXT000000319965",
+        "@datesignatexte": "1964-07-10",
+        "@id": "JORFTEXT000000319965",
+        "@naturetexte": "LOI",
+        "@numtexte": "64-707",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n° 66-492 du 9 juillet 1966 - art. 2 (VT)",
+        "@cidtexte": "JORFTEXT000000692468",
+        "@datesignatexte": "1966-07-09",
+        "@id": "LEGIARTI000006451406",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "66-492",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2012-351\n du 12 mars 2012 - art. 19 (V)",
+        "@cidtexte": "JORFTEXT000025498645",
+        "@datesignatexte": "2012-03-12",
+        "@id": "LEGIARTI000025501190",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "IOCD1129997R",
+        "@num": "19",
+        "@numtexte": "2012-351",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la sécurité intérieure - art. L411-1 (VD)",
+        "@cidtexte": "LEGITEXT000025503132",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000025505859",
+        "@naturetexte": "CODE",
+        "@num": "L411-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

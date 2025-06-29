@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006544917",
+      "ANCIEN_ID": "PQIBZXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/49/LEGIARTI000006544917.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-11-07",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 novembre 1991 portant organisation    du service du commissariat de la marine",
+          "@c_titre_court": "Arrêté du 5 novembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000527470"
+        },
+        {
+          "#text": "Arrêté du 5 novembre 1991 portant organisation du service du commissariat de la marine",
+          "@c_titre_court": "Arrêté du 5 novembre 1991",
+          "@debut": "1991-11-07",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000006078249"
+        }
+      ],
+      "@cid": "JORFTEXT000000527470",
+      "@date_publi": "1991-11-07",
+      "@date_signature": "1991-11-05",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "ARRETE",
+      "@nor": "DEFD9102007A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-11-07",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006544917",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 17 juillet 1980 modifié portant organisation du service du commissariat de la marine est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1980-07-17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 91-687 1991-07-14",
+        "@cidtexte": "JORFTEXT000000536340",
+        "@datesignatexte": "1991-07-14",
+        "@id": "JORFTEXT000000536340",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFM9101672D",
+        "@numtexte": "91-687",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 14 décembre 2009 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000021504807",
+        "@datesignatexte": "2009-12-14",
+        "@id": "LEGIARTI000021505926",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEFD0930219A",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

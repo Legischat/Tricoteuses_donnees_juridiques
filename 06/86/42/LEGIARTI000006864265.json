@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006864265",
+      "ANCIEN_ID": "UPIVGXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/42/LEGIARTI000006864265.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-08-31",
+        "DATE_FIN": "1990-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 mars 1985 relatif aux conditions de ramassage des huiles usagées en application du décret n° 79-981 du 21 novembre 1979, modifié par le décret n° 85-387 du 29 mars 1985 portant réglementation de la récupération des huiles usagées",
+          "@c_titre_court": "Arrêté du 29 mars 1985",
+          "@debut": "1985-08-31",
+          "@fin": "1990-03-01",
+          "@id_txt": "LEGITEXT000006074757"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexe",
+            "@debut": "1985-08-31",
+            "@fin": "1990-03-01",
+            "@id": "LEGISCTA000006110330"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "TITRE 1er : Procédure d'appel à candidature",
+              "@debut": "1985-08-31",
+              "@fin": "1990-03-01",
+              "@id": "LEGISCTA000006130306"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074757",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-03-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-08-31",
+          "@etat": "ABROGE",
+          "@fin": "1990-03-01",
+          "@id": "LEGIARTI000006864265",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de défaillance d'un ramasseur agréé, le commissaire de la République lance une consultation restreinte, la procédure est conduite dans les meilleurs délais.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1989-11-21 art. 12",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1989-11-21 art. 12 jorf 5 décembre 1989 en vigueur le       1er mars 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 79-981 1979-11-21",
+        "@cidtexte": "JORFTEXT000000878324",
+        "@datesignatexte": "1979-11-21",
+        "@id": "JORFTEXT000000878324",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-981",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006451152",
+      "ANCIEN_ID": "PFEB2XXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/11/LEGIARTI000006451152.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1944-07-01",
+        "DATE_FIN": "1959-03-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 24 août 1930 relative à la saisie-arrêt et à la cession des appointements, traitements et soldes des fonctionnaires civils et militaires",
+          "@c_titre_court": "Loi du 24 août 1930",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000876662"
+        },
+        {
+          "#text": "Loi du 24 août 1930 relative à la saisie-arrêt et à la cession des appointements, traitements et soldes des fonctionnaires civils et militaires.",
+          "@c_titre_court": "Loi du 24 août 1930",
+          "@debut": "1930-08-26",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070934"
+        }
+      ],
+      "@cid": "JORFTEXT000000876662",
+      "@date_publi": "1930-08-26",
+      "@date_signature": "1930-08-24",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1944-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1959-03-10",
+          "@id": "LEGIARTI000006451152",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 59-383 1959-03-06 art. 2 JORF 10 mars 1959",
+        "@cidtexte": "JORFTEXT000000305976",
+        "@datesignatexte": "1959-03-06",
+        "@id": "JORFTEXT000000305976",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-383",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1941-08-25 art. 1 JORF 27 août 1941",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 1944-06-26 art. 2 JORF 1 juillet 1944",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

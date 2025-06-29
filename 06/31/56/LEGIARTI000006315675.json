@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006315675",
+      "ANCIEN_ID": "FAAALPFXXXXL041AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/56/LEGIARTI000006315675.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L41",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-01-01",
+        "DATE_FIN": "1987-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Livre des procédures fiscales",
+          "@c_titre_court": "Livre des procédures fiscales",
+          "@debut": "1938-06-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069583"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1938-06-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084350"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LE CONTROLE DE L'IMPOT",
+              "@debut": "1982-01-01",
+              "@fin": "1989-07-14",
+              "@id": "LEGISCTA000006114553"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "LE DROIT DE CONTROLE DE L'ADMINISTRATION",
+                "@debut": "1982-01-01",
+                "@fin": "1989-07-14",
+                "@id": "LEGISCTA000006133970"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "DISPOSITIONS PARTICULIERES A CERTAINS IMPOTS.",
+                  "@debut": "1982-01-01",
+                  "@fin": "1989-07-14",
+                  "@id": "LEGISCTA000006147348"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069583",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1987-01-01",
+          "@id": "LEGIARTI000006315675",
+          "@num": "L41",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les visites effectuées dans les locaux servant exclusivement à l'habitation pour la recherche et la constatation des infractions à la réglementation économique ou fiscale, doivent être préalablement autorisées par une ordonnance du président du tribunal de grande instance, du juge d'instruction ou du juge du tribunal d'instance.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1858 (AL. 2)",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "CGI L42",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "LOI 77-1453 1977-12-29 ART. 17 (AL. 1 1RE PHRASE)",
+        "@cidtexte": "JORFTEXT000000522421",
+        "@datesignatexte": "1977-12-29",
+        "@id": "JORFTEXT000000522421",
+        "@naturetexte": "LOI",
+        "@numtexte": "77-1453",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°86-1317 du 30 décembre 1986 - art. 80 () JORF 31 décembre 1986, en vigueur le 1er janvier 1987",
+        "@cidtexte": "JORFTEXT000000317305",
+        "@datesignatexte": "1986-12-30",
+        "@id": "LEGIARTI000006274863",
+        "@naturetexte": "LOI",
+        "@num": "80",
+        "@numtexte": "86-1317",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

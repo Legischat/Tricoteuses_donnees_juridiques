@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006493616",
+      "ANCIEN_ID": "PJEDOXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/36/LEGIARTI000006493616.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2004-03-10",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 2002-1062 du 6 août 2002  portant amnistie (1)",
+          "@c_titre_court": "Loi n°2002-1062 du 6 août 2002",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000779239"
+        },
+        {
+          "#text": "Loi n° 2002-1062 du 6 août 2002 portant amnistie",
+          "@c_titre_court": "Loi n° 2002-1062 du 6 août 2002",
+          "@debut": "2002-08-09",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005633249"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Amnistie de droit.",
+            "@debut": "2002-08-09",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006094110"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section 2 : Amnistie en raison du quantum ou de la nature de la peine.",
+              "@debut": "2002-08-09",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006119543"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000779239",
+      "@date_publi": "2002-08-09",
+      "@date_signature": "2002-08-06",
+      "@nature": "LOI",
+      "@nor": "JUSX0200109L",
+      "@num": "2002-1062"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-08-09",
+          "@etat": "MODIFIE",
+          "@fin": "2004-03-10",
+          "@id": "LEGIARTI000006493615",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2004-03-10",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006493616",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont amnistiés les délits qui ont été ou seront punis de peines d'amende ou de jours-amendes, à l'exclusion de l'une des peines prévues à l'article 6.<br/>\n<br/>   Toutefois, si l'amende est supérieure à 750 Euros, l'amnistie ne sera acquise qu'après le paiement de cette amende ou après qu'aura été subie l'incarcération prévue par l'article 131-25 du code pénal ; l'amnistie sera également acquise après exécution de la contrainte judiciaire, celle-ci ne faisant pas cependant obstacle au recouvrement ultérieur de l'amende.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 2002-1062 2002-08-06 art. 6",
+        "@cidtexte": "JORFTEXT000000779239",
+        "@datesignatexte": "2002-08-06",
+        "@id": "JORFTEXT000000779239",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX0200109L",
+        "@numtexte": "2002-1062",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n° 2004-204 du 9 mars 2004 - art. 198 (V)",
+        "@cidtexte": "JORFTEXT000000249995",
+        "@datesignatexte": "2004-03-09",
+        "@id": "LEGIARTI000006494479",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX0300028L",
+        "@num": "198",
+        "@numtexte": "2004-204",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code pénal - art. 131-25 (M)",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006417288",
+        "@naturetexte": "CODE",
+        "@num": "131-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

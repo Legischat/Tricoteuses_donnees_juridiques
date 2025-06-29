@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006282911",
+      "ANCIEN_ID": "APIAQXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/29/LEGIARTI000006282911.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-01-01",
+        "DATE_FIN": "1989-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 décembre 1986 relatif aux taxes perçues par l'Institut national de la propriété industrielle",
+          "@c_titre_court": "Arrêté du 19 décembre 1986",
+          "@debut": "1987-01-01",
+          "@fin": "1989-01-01",
+          "@id_txt": "LEGITEXT000006069436"
+        }
+      ],
+      "@cid": "LEGITEXT000006069436",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-12-19",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-01-01",
+          "@id": "LEGIARTI000006282911",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant des taxes prévues à l'article 2 du décret du 15 mai 1981 susvisé est fixé conformément au tableau annexé au présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-10-27 art. 6 JORF 16 décembre 1988 en vigueur le 1er janvier 1989",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 1988-12-16 art. 6 *modalités d'application - dispositions transitoires*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 81-599 1981-05-15 art. 2, annexe",
+        "@cidtexte": "JORFTEXT000000884258",
+        "@datesignatexte": "1981-05-15",
+        "@id": "JORFTEXT000000884258",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-599",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°81-599 du 15 mai 1981 - art. 2 (M)",
+        "@cidtexte": "JORFTEXT000000884258",
+        "@datesignatexte": "1981-05-15",
+        "@id": "LEGIARTI000006282178",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "81-599",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°81-599 du 15 mai 1981 - art. 2 (M)",
+        "@cidtexte": "JORFTEXT000000884258",
+        "@datesignatexte": "1981-05-15",
+        "@id": "LEGIARTI000006282178",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "81-599",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

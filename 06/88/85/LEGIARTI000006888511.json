@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006888511",
+      "ANCIEN_ID": "UTIGHXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/85/LEGIARTI000006888511.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1990-01-01",
+        "DATE_FIN": "1997-05-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 août 1989 FIXANT LES CONDITIONS D'APPLICATION DE L'ART. R43-4 (AL. 5) DU CODE DE LA ROUTE",
+          "@c_titre_court": "Arrêté du 22 août 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000661546"
+        },
+        {
+          "#text": "Arrêté du 22 août 1989 fixant les conditions d'application de l'article R. 43-4 (5e alinéa) du code de la route",
+          "@c_titre_court": "Arrêté du 22 août 1989",
+          "@debut": "1990-01-01",
+          "@fin": "2004-05-21",
+          "@id_txt": "LEGITEXT000006059177"
+        }
+      ],
+      "@cid": "JORFTEXT000000661546",
+      "@date_publi": "1989-09-16",
+      "@date_signature": "1989-08-22",
+      "@nature": "ARRETE",
+      "@nor": "EQUS8900380A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1997-05-05",
+          "@id": "LEGIARTI000006888511",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-05-05",
+          "@etat": "ABROGE",
+          "@fin": "2004-05-21",
+          "@id": "LEGIARTI000006888512",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La circulation des convois exceptionnels sur autoroutes est interdite :<br/>\n<br/>   Du samedi ou veille de jour férié à partir de 12 heures au lundi ou lendemain de jour férié à 12 heures ;<br/>\n<br/>   Pendant les périodes d'interdictions complémentaires de circulation des véhicules poids lourds de plus de 7,5 tonnes de poids total autorisé en charge, édictées annuellement par arrêté interministériel, en application de l'article R. 53-2 du code de la route ;<br/>\n<br/>   Par temps de verglas et de visibilité réduite à 150 mètres, du fait de conditions météorologiques défavorables.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de la route R43-4",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la route R53-2",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

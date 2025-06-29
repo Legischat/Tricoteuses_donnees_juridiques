@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006749448",
+      "ANCIEN_ID": "AFIAVXXXXXXA00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/74/94/LEGIARTI000006749448.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-05-30",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 mai 1982 APPROBATION DE LA METHODE DE CALCUL DU COMPLEMENT DE REMUNERATION DES COMPTES SUR LIVRET D'EPARGNE POPULAIRE,DESTINE A MAINTENIR LE POUVOIR D'ACHAT",
+          "@c_titre_court": "Arrêté du 28 mai 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000677732"
+        },
+        {
+          "#text": "Arrêté du 28 mai 1982 relatif à l'approbation de la méthode de calcul du complément de rémunération des comptes sur livret d'épargne populaire",
+          "@c_titre_court": "Arrêté du 28 mai 1982",
+          "@debut": "1982-05-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073208"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1982-05-30",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006106094"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000677732",
+      "@date_publi": "1982-05-30",
+      "@date_signature": "1982-05-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-30",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006749448",
+          "@num": "Annexe",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le complément de rémunération C (m) acquis au cours d'un mois m par le compte sur livret d'épargne populaire est fourni par la différence : C (m) = R (m) - A (m), dans laquelle R (m) représente le montant de la rémunération globale nécessaire au maintien du pouvoir d'achat de la somme à protéger et A (m) celui des intérêts déjà acquis par cette somme au taux du premier livret des caisses d'épargne. Les termes R (m) et A (m) sont déterminés par les formules développées ci-dessous :<br/>\n<br/>   1. Rémunération R (m) globalement nécessaire au maintien du pouvoir d'achat :<br/>\n R (m) = (S (m - 1) + R (m - 1)) x ( Im / Im - 1) - S (m - 1)             + delta m / m-1 x K - delta m / m-1 où S (m - 1) est le capital stable du mois précédent (solde minimum    du compte au cours des mois (m - 6) à (m - 1) ; R (m - 1) est la rémunération de maintien de pouvoir d'achat du    mois précédent ; I (m), I (m - 1) sont les valeurs de l'indice des prix publiées    par l'INSEE au cours des mois m et m - 1 ; Delta m / m - 1 est la variation du capital stable entre le mois    m - 1 et le mois m ; K est un coefficient dont la valeur est :<br/>\n (Im / Im - 1) si delta m / m-1 est négatif ou nul ; (Im / Im - 6) si delta m / m-1 est strictement positif.<br/>\n<br/>   2. Rémunération A (m) déjà acquise au taux du premier livret des caisses d'épargne :<br/>\n<br/>   A (m) = A (m - 1) + S (m - 1) x (t / 12 x 100)        + delta m / m - 1 x (t / 12 x 100) x a    S (m - 1) et delta m / m-1 ont la signification indiquée au paragraphe 1 ;<br/>\n<br/>   t est la valeur du taux d'intérêt du premier livret des caisses        d'épargne exprimé en pourcentage ;<br/>\n<br/>   a est un paramètre qui vaut :<br/>\n<br/>       1 si delta m / m-1 est négatif ou nul ;<br/>\n<br/>       6 si delta m / m-1 est strictement positif.<br/>\n<br/>   Dans les deux formules ci-dessus l'expression \"capital stable\" [*définition*] est employée pour désigner l'ensemble des dépôts qui remplissent la condition de stabilité posée par l'article 5 de la loi susvisée du 27 avril 1982.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°82-357 du 27 avril 1982 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000319742",
+        "@datesignatexte": "1982-04-27",
+        "@id": "LEGIARTI000006702353",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "82-357",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°82-454 du 28 mai 1982 - art. 16 (Ab)",
+        "@cidtexte": "JORFTEXT000000879675",
+        "@datesignatexte": "1982-05-28",
+        "@id": "LEGIARTI000006730900",
+        "@naturetexte": "DECRET",
+        "@num": "16",
+        "@numtexte": "82-454",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

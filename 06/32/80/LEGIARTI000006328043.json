@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006328043",
+      "ANCIEN_ID": "FAIRAXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/80/LEGIARTI000006328043.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-03-18",
+        "DATE_FIN": "1989-12-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 mars 1986 portant création d'un comité de gestion de la taxe parafiscale sur les huiles de base.",
+          "@c_titre_court": "Arrêté du 14 mars 1986",
+          "@debut": "1986-03-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069976"
+        }
+      ],
+      "@cid": "LEGITEXT000006069976",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-03-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-18",
+          "@etat": "ABROGE",
+          "@fin": "1989-12-05",
+          "@id": "LEGIARTI000006328043",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-12-05",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006328044",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'Agence nationale pour la récupération et l'élimination des déchets est autorisée à prélever sur le produit de la taxe le montant des frais exposés pour la gestion technique et financière des opérations. Elle doit en fournir la justification au comité de gestion.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1989-11-21 art. 7 JORF 5 décembre 1989",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 86-549 1986-03-14",
+        "@cidtexte": "JORFTEXT000000332717",
+        "@datesignatexte": "1986-03-14",
+        "@id": "JORFTEXT000000332717",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-549",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

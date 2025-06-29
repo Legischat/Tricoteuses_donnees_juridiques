@@ -1,0 +1,137 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006445725",
+      "ANCIEN_ID": "ACAXXXXXXXX5X02073AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/57/LEGIARTI000006445725.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2073",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1804-03-21",
+        "DATE_FIN": "2006-03-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : Des différentes manières dont on acquiert la propriété",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006090271"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre XVII : Du nantissement.",
+              "@debut": "1804-03-21",
+              "@fin": "2006-03-24",
+              "@id": "LEGISCTA000006118175"
+            },
+            {
+              "#text": "Titre XVII : De la convention de procédure participative",
+              "@debut": "2011-09-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000023276654"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre I : Du gage.",
+                "@debut": "1804-03-21",
+                "@fin": "2006-03-24",
+                "@id": "LEGISCTA000006136420"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1804-03-21",
+          "@etat": "ABROGE",
+          "@fin": "2006-03-24",
+          "@id": "LEGIARTI000006445725",
+          "@num": "2073",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le gage confère au créancier le droit de se faire payer sur la chose qui en est l'objet, par privilège et préférence aux autres créanciers.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code civil - art. 2075-1 (Ab)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006445738",
+        "@naturetexte": "CODE",
+        "@num": "2075-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1804-03-16",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1804-03-16 promulguée le 26 mars 1804",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°2006-346 du 23 mars 2006 - art. 56 () JORF 24 mars 2006",
+        "@cidtexte": "JORFTEXT000000639090",
+        "@datesignatexte": "2006-03-23",
+        "@id": "LEGIARTI000006532989",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0600032R",
+        "@num": "56",
+        "@numtexte": "2006-346",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°1895-12-27 du 27 décembre 1895 - art. 4 (V)",
+        "@cidtexte": "LEGITEXT000006073334",
+        "@datesignatexte": "1895-12-27",
+        "@id": "LEGIARTI000006758710",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

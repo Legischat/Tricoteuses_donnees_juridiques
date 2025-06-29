@@ -1,0 +1,74 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006535539",
+      "ANCIEN_ID": "PPIANXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/55/LEGIARTI000006535539.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-11-18",
+        "DATE_FIN": "2004-12-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 octobre 1980 relatif à la commission consultative des inventions des personnels du ministère de la défense.",
+          "@c_titre_court": "Arrêté du 29 octobre 1980",
+          "@debut": "1980-11-18",
+          "@fin": "2004-12-03",
+          "@id_txt": "LEGITEXT000006071241"
+        }
+      ],
+      "@cid": "LEGITEXT000006071241",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1980-10-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-11-18",
+          "@etat": "ABROGE",
+          "@fin": "2004-12-03",
+          "@id": "LEGIARTI000006535539",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La commission peut être saisie pour avis de toutes difficultés d'application des dispositions de la loi susvisée du 13 juillet 1978 concernant les inventions des personnels de la défense.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2004-11-30 art. 5 JORF 3 décembre 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 78-742 1978-07-13",
+        "@cidtexte": "JORFTEXT000000339240",
+        "@datesignatexte": "1978-07-13",
+        "@id": "JORFTEXT000000339240",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-742",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

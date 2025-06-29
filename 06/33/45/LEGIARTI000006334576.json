@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006334576",
+      "ANCIEN_ID": "FCIDBXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/45/LEGIARTI000006334576.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-09-01",
+        "DATE_FIN": "2012-03-28",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1er août 2000 relatif aux attributions des directions de contrôle fiscal",
+          "@c_titre_court": "Arrêté du 1 août 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000217986"
+        },
+        {
+          "#text": "Arrêté du 1 août 2000 relatif aux attributions des directions de contrôle fiscal",
+          "@c_titre_court": "Arrêté du 1 août 2000",
+          "@debut": "2000-09-01",
+          "@fin": "2012-03-28",
+          "@id_txt": "LEGITEXT000005629747"
+        }
+      ],
+      "@cid": "JORFTEXT000000217986",
+      "@date_publi": "2000-08-04",
+      "@date_signature": "2000-08-01",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOP0000583A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-09-01",
+          "@etat": "ABROGE",
+          "@fin": "2012-03-28",
+          "@id": "LEGIARTI000006334576",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les arrêtés du 22 mai 1985 portant réorganisation de certaines directions des services extérieurs de la direction générale des impôts et du 12 septembre 1996 précisant les attributions des directions régionales des impôts, de la délégation régionale pour la région Ile-de-France ainsi que des directions des vérifications de la région Ile-de-France et définissant les compétences des agents qui y sont affectés sont abrogés.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 22 mai 1985, v. init.",
+        "@cidtexte": "JORFTEXT000000286861",
+        "@datesignatexte": "1985-05-22",
+        "@id": "JORFTEXT000000286861",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Arrêté du 12 septembre 1996 (Ab)",
+        "@cidtexte": "JORFTEXT000000195382",
+        "@datesignatexte": "1996-09-12",
+        "@id": "LEGITEXT000005621751",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BUDF9600008A",
+        "@sens": "source",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Arrêté du 16 mars 2012 - art. 6",
+        "@cidtexte": "JORFTEXT000025577742",
+        "@datesignatexte": "2012-03-16",
+        "@id": "LEGIARTI000025578448",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BCRE1203168A",
+        "@num": "6",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

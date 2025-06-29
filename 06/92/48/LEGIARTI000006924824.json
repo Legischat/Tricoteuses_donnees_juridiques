@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006924824",
+      "ANCIEN_ID": "SEHR8XXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/48/LEGIARTI000006924824.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1993-01-01",
+        "DATE_FIN": "1993-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 92-1469 du 31 décembre 1992 portant relèvement du salaire minimum de croissance dans les départements d'outre-mer",
+          "@c_titre_court": "Décret n° 92-1469 du 31 décembre 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000726305"
+        },
+        {
+          "#text": "Décret n°92-1469 du 31 décembre 1992 portant relèvement du salaire minimum de croissance dans les départements d'outre-mer",
+          "@c_titre_court": "Décret n°92-1469 du 31 décembre 1992",
+          "@debut": "1993-01-01",
+          "@fin": "1993-07-01",
+          "@id_txt": "LEGITEXT000006080739"
+        }
+      ],
+      "@cid": "JORFTEXT000000726305",
+      "@date_publi": "1993-01-01",
+      "@date_signature": "1992-12-31",
+      "@nature": "DECRET",
+      "@nor": "DOMX9200247D",
+      "@num": "92-1469"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-01-01",
+          "@etat": "PERIME",
+          "@fin": "1993-07-01",
+          "@id": "LEGIARTI000006924824",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001191918",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er janvier 1993, le montant minimum garanti prévu à l'article L. 141-8 du code du travail est fixé à 15,08 F dans les départements d'outre-mer.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°93-884 du 5 juillet 1993, v. init.",
+        "@cidtexte": "JORFTEXT000000529356",
+        "@datesignatexte": "1993-07-05",
+        "@id": "JORFTEXT000000529356",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFX9300103D",
+        "@numtexte": "93-884",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "Code du travail - art. L141-8 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646471",
+        "@naturetexte": "CODE",
+        "@num": "L141-8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

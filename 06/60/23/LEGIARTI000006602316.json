@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602316",
+      "ANCIEN_ID": "RAHCFXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/23/LEGIARTI000006602316.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2001-10-06",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-352 du 15 avril 1976 APPLICATION AUX EQUIDES DE LA LOI DU 28-12-1966",
+          "@c_titre_court": "Décret n°76-352 du 15 avril 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000678697"
+        },
+        {
+          "#text": "Décret n°76-352 du 15 avril 1976 fixant les modalités d'application aux équidés de la loi du 28 décembre 1966 sur l'élevage",
+          "@c_titre_court": "Décret n°76-352 du 15 avril 1976",
+          "@debut": "1976-04-22",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006062476"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Identification des équidés.",
+            "@debut": "2001-10-06",
+            "@fin": "2003-09-06",
+            "@id": "LEGISCTA000006098523"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000678697",
+      "@date_publi": "1976-04-22",
+      "@date_signature": "1976-04-15",
+      "@nature": "DECRET",
+      "@num": "76-352"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-11-01",
+          "@etat": "MODIFIE",
+          "@fin": "2001-10-06",
+          "@id": "LEGIARTI000006602315",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-10-06",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006602316",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Tout équidé sevré doit être identifié, accompagné d'un document d'identification conforme à la réglementation communautaire, et être immatriculé auprès du fichier central zootechnique mentionné à l'article 3 du présent décret.<br/>\n<br/>   Le ministre de l'agriculture fixe par arrêté les modalités d'identification des équidés.<br/>\n<br/>   Pour les équidés nés en France, l'identification doit être réalisée avant sevrage et au plus tard le 31 décembre de leur année de naissance par une personne habilitée à cet effet par le ministre de l'agriculture. Les documents d'identification sont émis par l'établissement public Les Haras nationaux. Ils doivent être conformes aux modèles fixés par arrêté du ministre de l'agriculture.<br/>\n<br/>   Pour les animaux introduits ou importés, la demande d'immatriculation doit être déposée auprès de l'établissement public Les Haras nationaux. A cette occasion, les documents émis par les autorités étrangères pour des équidés nés hors de France sont validés ou remplacés, le cas échéant, par l'établissement public Les Haras nationaux dans des conditions fixées par arrêté du ministre de l'agriculture.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-1005 1966-12-28",
+        "@cidtexte": "JORFTEXT000000691978",
+        "@datesignatexte": "1966-12-28",
+        "@id": "JORFTEXT000000691978",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-1005",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°76-352 du 15 avril 1976 - art. 3 (M)",
+        "@cidtexte": "JORFTEXT000000678697",
+        "@datesignatexte": "1976-04-15",
+        "@id": "LEGIARTI000006602319",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "76-352",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2001-913 du 5 octobre 2001 - art. 1 () JORF 6 octobre 2001",
+        "@cidtexte": "JORFTEXT000000773527",
+        "@datesignatexte": "2001-10-05",
+        "@id": "LEGIARTI000006601834",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRR0000036D",
+        "@num": "1",
+        "@numtexte": "2001-913",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

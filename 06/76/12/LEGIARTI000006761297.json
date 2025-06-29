@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006761297",
+      "ANCIEN_ID": "SSHABHXXXXX004AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/12/LEGIARTI000006761297.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1980-07-18",
+        "DATE_FIN": "1982-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°80-549 du 11 juillet 1980 PORTANT FIXATION DES COTISATIONS A L'ASSURANCE PERSONNELLE:13,85% DONT 6,85% ASSIS SUR LES REVENUS DANS LA LIMITE DU PLAFOND ET 7% SUR LE TOTAL DES REVENUS DANS LA LIMITE DE 4 FOIS LE PLAFOND",
+          "@c_titre_court": "Décret n°80-549 du 11 juillet 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000883385"
+        },
+        {
+          "#text": "Décret n°80-549 du 11 juillet 1980  PORTANT FIXATION DES COTISATIONS A L'ASSURANCE PERSONNELLE.",
+          "@c_titre_court": "Décret n°80-549 du 11 juillet 1980",
+          "@debut": "1980-07-18",
+          "@fin": "1985-12-21",
+          "@id_txt": "LEGITEXT000006063279"
+        }
+      ],
+      "@cid": "JORFTEXT000000883385",
+      "@date_publi": "1980-07-18",
+      "@date_signature": "1980-07-11",
+      "@nature": "DECRET",
+      "@num": "80-549"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-18",
+          "@etat": "MODIFIE",
+          "@fin": "1982-07-01",
+          "@id": "LEGIARTI000006761297",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006761298",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant de la cotisation annuelle ne peut être inférieur à la cotisation calculée sur la base de la moitié du plafond des cotisations de sécurité sociale en vigueur au 1er juillet de la période visée à l'article 2 ci-dessus [*montant minimum*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 80-549 1980-07-11 ART. 6 (DEROGATION)",
+        "@cidtexte": "JORFTEXT000000883385",
+        "@datesignatexte": "1980-07-11",
+        "@id": "JORFTEXT000000883385",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-549",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret n°80-549 du 11 juillet 1980 - art. 10-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000883385",
+        "@datesignatexte": "1980-07-11",
+        "@id": "LEGIARTI000006761308",
+        "@naturetexte": "DECRET",
+        "@num": "10-1",
+        "@numtexte": "80-549",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°80-549 du 11 juillet 1980 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000883385",
+        "@datesignatexte": "1980-07-11",
+        "@id": "LEGIARTI000006761293",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "80-549",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°80-549 du 11 juillet 1980 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000883385",
+        "@datesignatexte": "1980-07-11",
+        "@id": "LEGIARTI000006761303",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "80-549",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. D741-4 (Ab)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006738518",
+        "@naturetexte": "CODE",
+        "@num": "D741-4",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

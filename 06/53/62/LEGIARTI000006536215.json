@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006536215",
+      "ANCIEN_ID": "PPIECXXXXXX015AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/62/LEGIARTI000006536215.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-06-11",
+        "DATE_FIN": "2002-02-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 octobre 1985 portant organisation et attributions de la direction générale de l'administration territoriale",
+          "@c_titre_court": "Arrêté du 3 octobre 1985",
+          "@debut": "1985-10-05",
+          "@fin": "2002-02-23",
+          "@id_txt": "LEGITEXT000006071276"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section III : Direction des personnels, de la formation et de l'action sociale.",
+            "@debut": "1985-10-05",
+            "@fin": "2002-02-23",
+            "@id": "LEGISCTA000006096339"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071276",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-10-03",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-10-05",
+          "@etat": "MODIFIE",
+          "@fin": "1991-06-11",
+          "@id": "LEGIARTI000006536214",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-06-11",
+          "@etat": "ABROGE",
+          "@fin": "2002-02-23",
+          "@id": "LEGIARTI000006536215",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La sous-direction de l'action sociale est chargée de l'action sociale, sous toutes ses formes, pour l'ensemble des personnels du ministère.<br/>\n<br/>   A ce titre, elle met en oeuvre les diverses actions sociales conduites en faveur des personnels, soit directement, soit par l'intermédiaire des fondations et associations. Elle gère les crédits relatifs aux prestations sociales réglementaires et participe à la réalisation des investissements sociaux interministériels. Elle est également chargée de l'application des procédures concourant à la liquidation des pensions et avantages qui s'y rattachent. Elle procède à la concession des rentes pour accident du travail. Elle assure le fonctionnement du comité médical central et de la commission centrale de réforme. Elle assure la liaison avec le centre 510 de sécurité sociale.<br/>\n<br/>   Elle comprend :<br/>\n<br/>   - le bureau des politiques sociales ;<br/>\n<br/>   - le bureau des actions sociales de l'administration centrale ;<br/>\n<br/>   - le bureau de la gestion des équipements et des financements ;<br/>\n<br/>   - le bureau des pensions et allocations d'invalidité.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-05-29 art. 1 JORF 11 juin 1991",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2002-02-20 art. 10 JORF 23 février 2002",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 85-1057 1985-10-02",
+        "@cidtexte": "JORFTEXT000000871537",
+        "@datesignatexte": "1985-10-02",
+        "@id": "JORFTEXT000000871537",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1057",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

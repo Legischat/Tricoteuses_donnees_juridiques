@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006704447",
+      "ANCIEN_ID": "SPHE2XXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/44/LEGIARTI000006704447.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-02-10",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°89-83 du 8 février 1989 PORTANT CREATION D'UN CONSEIL NATIONAL DU SYNDROME IMMUNODEFICITAIRE ACQUIS (SIDA)",
+          "@c_titre_court": "Décret n°89-83 du 8 février 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518057"
+        },
+        {
+          "#text": "Décret n°89-83 du 8 février 1989 portant création d'un Conseil national du syndrome immunodéficitaire acquis",
+          "@c_titre_court": "Décret n°89-83 du 8 février 1989",
+          "@debut": "1989-02-10",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006067371"
+        }
+      ],
+      "@cid": "JORFTEXT000000518057",
+      "@date_publi": "1989-02-10",
+      "@date_signature": "1989-02-08",
+      "@nature": "DECRET",
+      "@nor": "SPSX8900013D",
+      "@num": "89-83"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-02-10",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006704447",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le Conseil national du sida peut entendre toute personne qualifiée appelée par son président à fournir un avis ou une expertise relatifs à tout point inscrit à l'ordre du jour. Ces auditions peuvent être rendues publiques sur décision du conseil.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 5 JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. D3121-10 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006911863",
+        "@naturetexte": "CODE",
+        "@num": "D3121-10",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. D3121-10 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006911862",
+        "@naturetexte": "CODE",
+        "@num": "D3121-10",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

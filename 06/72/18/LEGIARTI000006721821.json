@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006721821",
+      "ANCIEN_ID": "SPIXSXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/18/LEGIARTI000006721821.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-09-03",
+        "DATE_FIN": "1994-10-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 octobre 1985 autorisant l'informatisation des résumés de sortie standardisés dans les établissements d'hospitalisation publics et privés participant au service public hospitalier.",
+          "@c_titre_court": "Arrêté du 3 octobre 1985",
+          "@debut": "1985-10-16",
+          "@fin": "1994-10-18",
+          "@id_txt": "LEGITEXT000006073148"
+        }
+      ],
+      "@cid": "LEGITEXT000006073148",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-10-03",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-10-16",
+          "@etat": "MODIFIE",
+          "@fin": "1988-09-03",
+          "@id": "LEGIARTI000006721820",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-09-03",
+          "@etat": "ABROGE",
+          "@fin": "1994-10-18",
+          "@id": "LEGIARTI000006721821",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Il est créé à partir du 1er janvier 1986, dans les établissements d'hospitalisation publics et privés participant au service public hospitalier, un traitement automatisé d'informations nominatives dont l'objet est la production de résumés de sortie standardisés (RSS) permettant de déterminer des groupes homogènes de malades (GHM).<br/>\n    Il peut être ajouté à ce traitement automatisé, à compter du 1er septembre 1988, la production de fiches de consommation standardisées (FCS) permettant en association avec les résumés de sortie standardisés (RSS), le suivi médico-économique de certaines maladies.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-09-20 art. 8 JORF 18 octobre 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 70-1318 1970-12-31",
+        "@cidtexte": "JORFTEXT000000874228",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000874228",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1318",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

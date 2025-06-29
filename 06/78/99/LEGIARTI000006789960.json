@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006789960",
+      "ANCIEN_ID": "SSIBW8XXXXX007AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/99/LEGIARTI000006789960.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1996-01-01",
+        "DATE_FIN": "2011-04-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 octobre 1995 relatif à la tarification des risques d'accidents    du travail et de maladies professionnelles",
+          "@c_titre_court": "Arrêté du 17 octobre 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000555144"
+        },
+        {
+          "#text": "Arrêté du 17 octobre 1995 relatif à la tarification des risques d'accidents du travail et de maladies professionnelles",
+          "@c_titre_court": "Arrêté du 17 octobre 1995",
+          "@debut": "1996-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005619648"
+        }
+      ],
+      "@cid": "JORFTEXT000000555144",
+      "@date_publi": "1995-10-18",
+      "@date_signature": "1995-10-17",
+      "@ministere": "MINISTERE DE LA SANTE PUBLIQUE ET DE L'ASSURANCE MALADIE",
+      "@nature": "ARRETE",
+      "@nor": "SANS9502262A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-01-01",
+          "@etat": "TRANSFERE",
+          "@fin": "2011-04-06",
+          "@id": "LEGIARTI000006789960",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2011-04-06",
+          "@etat": "MODIFIE",
+          "@fin": "2017-03-02",
+          "@id": "LEGIARTI000023818290",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2017-03-02",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000034117502",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 16 mai 1951 relatif à la notification du taux de la cotisation pour les accidents du travail et l'arrêté du 28 décembre 1984 fixant les tarifs des cotisations d'accidents du travail des activités professionnelles relevant du régime général de la sécurité sociale sont abrogés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1951-05-16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1984-12-28",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 17 octobre 1995 - art. 8 (V)",
+        "@cidtexte": "JORFTEXT000000555144",
+        "@datesignatexte": "1995-10-17",
+        "@id": "LEGIARTI000023818285",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SANS9502262A",
+        "@num": "8",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Arrêté du 28 mars 2011 - art. 1",
+        "@cidtexte": "JORFTEXT000023816779",
+        "@datesignatexte": "2011-03-28",
+        "@id": "LEGIARTI000023817590",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ETSS1108741A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "TRANSFERE"
+      }
+    ]
+  }
+}

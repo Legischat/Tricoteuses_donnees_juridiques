@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006531158",
+      "ANCIEN_ID": "PPHDUXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/11/LEGIARTI000006531158.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-10-31",
+        "DATE_FIN": "1984-04-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°59-389 du 10 mars 1959 CONSEIL SUPERIEUR DES FRANCAIS A L'ETRANGER",
+          "@c_titre_court": "Décret n°59-389 du 10 mars 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000857004"
+        },
+        {
+          "#text": "Décret n°59-389 du 10 mars 1959  PORTANT STATUT DU CONSEIL SUPERIEUR DES FRANCAIS DE L'ETRANGER.",
+          "@c_titre_court": "Décret n°59-389 du 10 mars 1959",
+          "@debut": "1959-03-11",
+          "@fin": "1984-04-08",
+          "@id_txt": "LEGITEXT000006060891"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE 1 : ORGANISATION ET FONCTIONNEMENT",
+            "@debut": "1959-03-11",
+            "@fin": "1984-04-08",
+            "@id": "LEGISCTA000006096110"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000857004",
+      "@date_publi": "1959-03-11",
+      "@date_signature": "1959-03-10",
+      "@nature": "DECRET",
+      "@num": "59-389"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-01-17",
+          "@etat": "MODIFIE",
+          "@fin": "1982-10-31",
+          "@id": "LEGIARTI000006531157",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-10-31",
+          "@etat": "ABROGE",
+          "@fin": "1984-04-08",
+          "@id": "LEGIARTI000006531158",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des commissions temporaires peuvent être créées au sein du conseil pour l'étude de problèmes particuliers, par arrêté du ministre chargé des relations extérieures.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 82-471 1982-06-07",
+        "@cidtexte": "JORFTEXT000000691727",
+        "@datesignatexte": "1982-06-07",
+        "@id": "JORFTEXT000000691727",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-471",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 82-930 1982-10-29 ART. 1 JORF 31 OCTOBRE 1982",
+        "@cidtexte": "JORFTEXT000000701660",
+        "@datesignatexte": "1982-10-29",
+        "@id": "JORFTEXT000000701660",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-930",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

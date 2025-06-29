@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006814008",
+      "ANCIEN_ID": "UBAXXXXXXXX4X410A03AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/81/40/LEGIARTI000006814008.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "A410-3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2007-10-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de l'urbanisme",
+          "@c_titre_court": "Code de l'urbanisme",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074075"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire - Arrêtés",
+            "@debut": "1977-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107991"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre  IV : Régime applicable aux constructions, aménagements et démolitions",
+              "@debut": "2007-10-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128549"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre Ier : Certificat d'urbanisme",
+                "@debut": "2007-10-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143256"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074075",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-02-04",
+          "@etat": "ABROGE",
+          "@fin": "2007-10-01",
+          "@id": "LEGIARTI000006814007",
+          "@num": "A410-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-10-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006814008",
+          "@num": "A410-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Le certificat d'urbanisme : <br/>\n<br/>a) Indique la collectivité au nom de laquelle le certificat est délivré ; <br/>\n<br/>b) Vise la demande de certificat et précise si la demande porte sur un certificat d'urbanisme indiquant, en application du a de l'article L. 410-1, les dispositions d'urbanisme, les limitations administratives au droit de propriété et la liste des taxes et participations d'urbanisme applicables au terrain ou sur un certificat d'urbanisme indiquant en outre, en application du b du même article, si le terrain peut être utilisé pour la réalisation d'une opération ; <br/>\n<br/>c) Rappelle les nom et adresse du demandeur, le numéro d'enregistrement et l'adresse du terrain ; <br/>\n<br/>d) Vise les textes législatifs et réglementaires dont il est fait application ; <br/>\n<br/>e) Vise, s'il y a lieu, les avis recueillis en cours d'instruction et leur sens. <br/>\n<br/>L'arrêté mentionne, en caractères lisibles, le prénom, le nom et la qualité de son signataire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2007-09-11 art. 3 JORF 13 septembre 2007 en vigueur le 1er octobre 2007",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°77-38 du 3 janvier 1977, v. init.",
+        "@cidtexte": "JORFTEXT000000515331",
+        "@datesignatexte": "1977-01-03",
+        "@id": "JORFTEXT000000515331",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-38",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code de l'urbanisme - art. L410-1 (V)",
+        "@cidtexte": "LEGITEXT000006074075",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006815652",
+        "@naturetexte": "CODE",
+        "@num": "L410-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

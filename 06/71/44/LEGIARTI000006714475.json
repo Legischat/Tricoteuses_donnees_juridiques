@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006714475",
+      "ANCIEN_ID": "SPI47XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/44/LEGIARTI000006714475.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-08-01",
+        "DATE_FIN": "2008-04-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 septembre 1991 RELATIF A L'ECHELONNEMENT INDICIAIRE DE CERTAINS PERSONNELS OUVRIERS,BLANCHISSEURS ET CONDUCTEURS AMBULANCIERS DE L'ASSISTANCE PUBLIQUE-HOPITAUX DE PARIS",
+          "@c_titre_court": "Arrêté du 19 septembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000846624"
+        },
+        {
+          "#text": "Arrêté du 19 septembre 1991 relatif à l'échelonnement indiciaire de certains personnels ouvriers, blanchisseurs et conducteurs ambulanciers de l'Assistance publique - hôpitaux de Paris *catégorie C*.",
+          "@c_titre_court": "Arrêté du 19 septembre 1991",
+          "@debut": "1990-08-01",
+          "@fin": "2008-04-07",
+          "@id_txt": "LEGITEXT000006059757"
+        }
+      ],
+      "@cid": "JORFTEXT000000846624",
+      "@date_publi": "1991-09-20",
+      "@date_signature": "1991-09-19",
+      "@nature": "ARRETE",
+      "@nor": "SANH9101800A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-08-01",
+          "@etat": "ABROGE",
+          "@fin": "2008-04-07",
+          "@id": "LEGIARTI000006714475",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'échelle indiciaire applicable au corps des agents techniques de coordination est fixée conformément au tableau I annexé au présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-09-19 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 4 avril 2008 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000018571954",
+        "@datesignatexte": "2008-04-04",
+        "@id": "LEGIARTI000018576375",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SJSH0804473A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

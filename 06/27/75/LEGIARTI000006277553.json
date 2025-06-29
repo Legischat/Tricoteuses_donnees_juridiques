@@ -1,0 +1,150 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006277553",
+      "ANCIEN_ID": "AAEAAXXXXXX162AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/75/LEGIARTI000006277553.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "162",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-03-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692245"
+        },
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "1964-04-01",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006068288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Règles de fonctionnement des diverses sociétés commerciales",
+            "@debut": "1964-04-01",
+            "@fin": "2003-01-01",
+            "@id": "LEGISCTA000006083319"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 4 : Sociétés par actions",
+              "@debut": "1967-01-06",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006113844"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 4 : Assemblées d'actionnaires.",
+                "@debut": "1967-04-01",
+                "@fin": "2000-09-21",
+                "@id": "LEGISCTA000006133297"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000692245",
+      "@date_publi": "1966-07-26",
+      "@date_signature": "1966-07-24",
+      "@nature": "LOI",
+      "@num": "66-537"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1985-03-01",
+          "@id": "LEGIARTI000006277552",
+          "@num": "162",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006277553",
+          "@num": "162",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil d'administration ou le directoire, selon le cas, doit adresser ou mettre à la disposition des actionnaires les documents nécessaires pour permettre à ceux-ci de se prononcer en connaissance de cause et de porter un jugement informé sur la gestion et la marche des affaires de la société [*information*].<br/>\n<br/>   La nature de ces documents et les conditions de leur envoi ou de leur mise à la disposition des actionnaires sont déterminées par décret.<br/>\n<br/>   A compter de la communication prévue au premier alinéa, tout actionnaire a la faculté de poser par écrit des questions auxquelles le conseil d'administration ou le directoire, selon le cas, sera tenu de répondre au cours de l'assemblée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-148 1984-03-01 art. 62 *date d'effet*",
+        "@cidtexte": "JORFTEXT000000501098",
+        "@datesignatexte": "1984-03-01",
+        "@id": "JORFTEXT000000501098",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-148",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°84-148 du 1 mars 1984 - art. 13 () JORF 2 mars 1984 en vigueur le 1er mars 1985",
+        "@cidtexte": "JORFTEXT000000501098",
+        "@datesignatexte": "1984-03-01",
+        "@id": "LEGIARTI000006301176",
+        "@naturetexte": "LOI",
+        "@num": "13",
+        "@numtexte": "84-148",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L225-108 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006224868",
+        "@naturetexte": "CODE",
+        "@num": "L225-108",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

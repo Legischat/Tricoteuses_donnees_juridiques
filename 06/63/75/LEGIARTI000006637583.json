@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006637583",
+      "ANCIEN_ID": "RKIABXXXXXX008AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/75/LEGIARTI000006637583.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-01-20",
+        "DATE_FIN": "1988-06-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 août 1973 relatif à la fixation de certaines modalités d'application du décret n° 68-1021 du 24 novembre 1968 réglementant les relations financières avec l'étranger",
+          "@c_titre_court": "Arrêté du 9 août 1973",
+          "@debut": "1973-08-10",
+          "@fin": "1988-06-04",
+          "@id_txt": "LEGITEXT000006071993"
+        }
+      ],
+      "@cid": "LEGITEXT000006071993",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1973-08-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-08-10",
+          "@etat": "MODIFIE",
+          "@fin": "1974-01-20",
+          "@id": "LEGIARTI000006637582",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1974-01-20",
+          "@etat": "ABROGE",
+          "@fin": "1988-06-04",
+          "@id": "LEGIARTI000006637583",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'octroi par des résidents de prêts de francs à des non-résidents est subordonné à l'autorisation du ministre de l'économie et des finances ou, par délégation, de la Banque de France et de la caisse centrale de coopération économique pour ce qui concerne les départements et territoires d'outre-mer.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-06-01 art. 13 JORF 4 juin 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 68-1021 1968-11-24",
+        "@cidtexte": "JORFTEXT000000695040",
+        "@datesignatexte": "1968-11-24",
+        "@id": "JORFTEXT000000695040",
+        "@naturetexte": "DECRET",
+        "@numtexte": "68-1021",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

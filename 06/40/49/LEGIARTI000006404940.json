@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006404940",
+      "ANCIEN_ID": "ABHAAXXXXXX108AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/49/LEGIARTI000006404940.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "108",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-04-11",
+        "DATE_FIN": "1986-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-1120 du 22 décembre 1967 SUR LE REGLEMENT JUDICIAIRE,LA LIQUIDATION DES BIENS ET LA FAILLITE PERSONNELLE",
+          "@c_titre_court": "Décret n°67-1120 du 22 décembre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000499360"
+        },
+        {
+          "#text": "Décret n°67-1120 du 22 décembre 1967 sur le règlement judiciaire, la liquidation des biens et la faillite personnelle",
+          "@c_titre_court": "Décret n°67-1120 du 22 décembre 1967",
+          "@debut": "1968-01-01",
+          "@fin": "1986-01-01",
+          "@id_txt": "LEGITEXT000006061403"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Voies de recours.",
+            "@debut": "1968-01-01",
+            "@fin": "1986-01-01",
+            "@id": "LEGISCTA000006088711"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000499360",
+      "@date_publi": "1967-12-24",
+      "@date_signature": "1967-12-22",
+      "@nature": "DECRET",
+      "@num": "67-1120"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1982-04-11",
+          "@id": "LEGIARTI000006404939",
+          "@num": "108",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-04-11",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006404940",
+          "@num": "108",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'appel, en cas de mise de tout ou partie du passif social à la charge d'un ou des dirigeants sociaux, est formé par assignation délivrée au syndic [*conditions de forme*].<br/>\n<br/>   En cas d'appel d'un jugement prononçant la faillite personnelle ou d'autres sanctions, le syndic est entendu ou dûment appelé. L'arrêt est signifié à la diligence du secrétaire-greffier de la cour d'appel.<br/>\n<br/>   Dans tous les cas, l'appel est jugé dans les trois mois [*délai*].    Le greffier de la cour adresse expédition de l'arrêt au greffe du tribunal pour mention en marge du jugement et pour accomplissement, le cas échéant, des mesures de publicité prescrites à l'article 104 [*formalités de publicité*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 82-327 1982-04-09 art. 19 JORF 11 avril 1982",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 82-327 1982-04-09 art. 34 *L'appel visé au deuxième alinéa de l'article 108 du décret du 22 décembre 1967 ne pourra être déclaré irrégulier s'il a été formé, après l'entrée en vigueur du présent décret, par voie de requête contre une décision",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°67-1120 du 22 décembre 1967 - art. 104 (M)",
+        "@cidtexte": "JORFTEXT000000499360",
+        "@datesignatexte": "1967-12-22",
+        "@id": "LEGIARTI000006404854",
+        "@naturetexte": "DECRET",
+        "@num": "104",
+        "@numtexte": "67-1120",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°85-1388 du 27 décembre 1985 - art. 196 (Ab) JORF 29 décembre 1985 en vigueur le 1er janvier 1986",
+        "@cidtexte": "JORFTEXT000000688577",
+        "@datesignatexte": "1985-12-27",
+        "@id": "LEGIARTI000006409258",
+        "@naturetexte": "DECRET",
+        "@num": "196",
+        "@numtexte": "85-1388",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

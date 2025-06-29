@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006543936",
+      "ANCIEN_ID": "ADHCCXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/39/LEGIARTI000006543936.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1938-10-02",
+        "DATE_FIN": "1984-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 1 octobre 1938 pris pour l'application de la loi du 1er août 1905 en ce qui concerne le commerce des jus de fruits et de légumes",
+          "@c_titre_court": "Décret du 1 octobre 1938",
+          "@debut": "1938-10-02",
+          "@fin": "2010-05-17",
+          "@id_txt": "LEGITEXT000006071310"
+        }
+      ],
+      "@cid": "LEGITEXT000006071310",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1938-10-01",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1938-10-02",
+          "@etat": "ABROGE",
+          "@fin": "1984-12-21",
+          "@id": "LEGIARTI000006543936",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'emploi de toute indication, de tout signe, de tout mode de présentation, susceptible de créer une confusion dans l'esprit de l'acheteur entre une boisson quelconque et un jus de fruits ou de légumes, ou sur la nature, l'origine, les qualités substantielles, la composition, le volume ou le poids des jus de fruits ou de légumes, est interdit en toutes circonstances et sous quelque forme que ce soit.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 78-1109 1978-11-23 art. 6 *abrogation partielle - catégories de produits*",
+        "@cidtexte": "JORFTEXT000000519428",
+        "@datesignatexte": "1978-11-23",
+        "@id": "JORFTEXT000000519428",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-1109",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°84-1147 du 7 décembre 1984 - art. 49 () JORF 21 décembre 1984",
+        "@cidtexte": "JORFTEXT000000885685",
+        "@datesignatexte": "1984-12-07",
+        "@id": "LEGIARTI000006272274",
+        "@naturetexte": "DECRET",
+        "@num": "49",
+        "@numtexte": "84-1147",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

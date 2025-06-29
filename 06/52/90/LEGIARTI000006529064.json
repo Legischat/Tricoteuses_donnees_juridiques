@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006529064",
+      "ANCIEN_ID": "PPEDDXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/90/LEGIARTI000006529064.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-12-29",
+        "DATE_FIN": "1986-08-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°76-1217 du 28 décembre 1976 RELATIVE A L'ELECTION DES SENATEURS DE MAYOTTE ET DE SAINT-PIERRE-ET- MIQUELON",
+          "@c_titre_court": "Loi n°76-1217 du 28 décembre 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000699409"
+        },
+        {
+          "#text": "Loi organique n°76-1217 du 28 décembre 1976 relative à l'élection du sénateur de Mayotte.(1)",
+          "@c_titre_court": "Loi organique n°76-1217 du 28 décembre 1976",
+          "@debut": "1976-12-29",
+          "@fin": "2003-07-31",
+          "@id_txt": "LEGITEXT000006068538"
+        }
+      ],
+      "@cid": "JORFTEXT000000699409",
+      "@date_publi": "1976-12-29",
+      "@date_signature": "1976-12-28",
+      "@nature": "LOI_ORGANIQUE",
+      "@num": "76-1217"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-12-29",
+          "@etat": "ABROGE",
+          "@fin": "1986-08-14",
+          "@id": "LEGIARTI000006529064",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le nombre de sénateurs pour les départements, fixé à l'article L. O. 274 du code électoral, est porté de 304 à 305.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi organique 86-957 1986-08-13 art. 7 JORF 14 août 1986",
+        "@cidtexte": "JORFTEXT000000687452",
+        "@datesignatexte": "1986-08-13",
+        "@id": "JORFTEXT000000687452",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-957",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code électoral - art. LO274 (M)",
+        "@cidtexte": "LEGITEXT000006070239",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006353643",
+        "@naturetexte": "CODE",
+        "@num": "LO274",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

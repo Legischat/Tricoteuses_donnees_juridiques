@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006716208",
+      "ANCIEN_ID": "AFFAEXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/62/LEGIARTI000006716208.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-06-21",
+        "DATE_FIN": "1984-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-1355 du 20 juin 1945 RELATIVE A L'AMENAGEMENT DES LOIS DES 13-03-1917,24-07-1929 ET 13-08-1936",
+          "@c_titre_court": "Ordonnance n°45-1355 du 20 juin 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339688"
+        },
+        {
+          "#text": "Ordonnance n° 45-1355 du 20 juin 1945 relative aux sociétés de caution mutuelle, aux banques populaires et au crédit d'équipement des petites et moyennes entreprises",
+          "@c_titre_court": "Ordonnance n° 45-1355 du 20 juin 1945",
+          "@debut": "1945-06-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069149"
+        }
+      ],
+      "@cid": "JORFTEXT000000339688",
+      "@date_publi": "1945-06-21",
+      "@date_signature": "1945-06-20",
+      "@nature": "ORDONNANCE",
+      "@num": "45-1355"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-06-21",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006716208",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant maximum des prêts visés à l'article 1er du décret du 24 mai 1938, comportant l'extension du crédit à moyen terme aux petits industriels et aux petits commerçants, est fixé par la chambre syndicale des banques populaires, sous réserve de l'agrément du commissiaire du gouvernement.<br/>\n<br/>   Toutefois, ceux de ces prêts qui ne comportent pas un engagement de mobilisation de la part d'un établissement agréé en vertu de l'article 38 de l'acte provisoirement applicable dit loi du 31 janvier 1944, ne peuvent excéder un montant qui est fixé par arrêté du ministre de l'économie et des finances.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1938-05-24 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1944-01-31 art. 38",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-1355 1945-06-20 JORF 21 juin 1945 rectificatif JORF 26 juin 1945",
+        "@cidtexte": "JORFTEXT000000339688",
+        "@datesignatexte": "1945-06-20",
+        "@id": "JORFTEXT000000339688",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1355",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 X JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

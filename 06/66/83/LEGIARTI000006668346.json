@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006668346",
+      "ANCIEN_ID": "SEIEZXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/83/LEGIARTI000006668346.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1988-01-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 décembre 1985 modifiant l'arrêté du 27 avril 1984 portant application de l'article 3 du décret n° 84-310 du 27 avril 1984 créant une aide publique à la réinsertion de certains travailleurs immigrés",
+          "@c_titre_court": "Arrêté du 13 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072206"
+        }
+      ],
+      "@cid": "LEGITEXT000006072206",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-12-13",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1988-01-08",
+          "@id": "LEGIARTI000006668346",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-08",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006668347",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le directeur de la population et des migrations, le directeur du budget, le directeur de la comptabilité publique et le directeur de l'Office national d'immigration sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-04-27",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 84-310 1984-04-27",
+        "@cidtexte": "JORFTEXT000000881495",
+        "@datesignatexte": "1984-04-27",
+        "@id": "JORFTEXT000000881495",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-310",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

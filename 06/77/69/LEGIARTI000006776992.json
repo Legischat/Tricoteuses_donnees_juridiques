@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006776992",
+      "ANCIEN_ID": "AGEADXXXXXX026AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/77/69/LEGIARTI000006776992.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "26",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-10-20",
+        "DATE_FIN": "1949-07-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 14 février 1942 TENDANT A L'ORGANISATION ET AU FONCTIONNEMENT DES BOURSES DE VALEURS",
+          "@c_titre_court": "Loi du 14 février 1942",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869405"
+        },
+        {
+          "#text": "Loi n°42-290 du 14 février 1942 tendant à l'organisation et au fonctionnement des bourses de valeurs",
+          "@c_titre_court": "Loi n°42-290 du 14 février 1942",
+          "@debut": "1942-02-15",
+          "@fin": "2011-05-19",
+          "@id_txt": "LEGITEXT000006073427"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Dispositions diverses.",
+            "@debut": "1945-10-20",
+            "@fin": "2011-05-19",
+            "@id": "LEGISCTA000006107383"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000869405",
+      "@date_publi": "1942-02-15",
+      "@date_signature": "1942-02-14",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-10-20",
+          "@etat": "ABROGE",
+          "@fin": "1949-07-06",
+          "@id": "LEGIARTI000006776992",
+          "@num": "26",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   (texte abrogé).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 42-2388 1942-08-03 art. 33 JORF 6 août 1942",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°42-290 du 14 février 1942 - art. 27 (V)",
+        "@cidtexte": "JORFTEXT000000869405",
+        "@datesignatexte": "1942-02-14",
+        "@id": "LEGIARTI000006776993",
+        "@naturetexte": "LOI",
+        "@num": "27",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-2440 1945-10-18",
+        "@cidtexte": "JORFTEXT000000521795",
+        "@datesignatexte": "1945-10-18",
+        "@id": "JORFTEXT000000521795",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2440",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 45-2440 1945-10-18 art. 1 JORF 20 octobre 1945 rectificatifs 20, 28 octobre 1945",
+        "@cidtexte": "JORFTEXT000000521795",
+        "@datesignatexte": "1945-10-18",
+        "@id": "JORFTEXT000000521795",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2440",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°49-874 du 5 juillet 1949 - art. 26 (V) JORF 6 juillet 1949",
+        "@cidtexte": "JORFTEXT000000878003",
+        "@datesignatexte": "1949-07-05",
+        "@id": "LEGIARTI000006272575",
+        "@naturetexte": "LOI",
+        "@num": "26",
+        "@numtexte": "49-874",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

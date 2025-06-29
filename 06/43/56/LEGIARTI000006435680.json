@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006435680",
+      "ANCIEN_ID": "PEEAXXXXXXX022AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/56/LEGIARTI000006435680.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-07-12",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°75-620 du 11 juillet 1975 RELATIVE A L'EDUCATION (LOI HABY)",
+          "@c_titre_court": "Loi n°75-620 du 11 juillet 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000334174"
+        },
+        {
+          "#text": "Loi n°75-620 du 11 juillet 1975 relative à l'éducation *Loi Haby*",
+          "@c_titre_court": "Loi n°75-620 du 11 juillet 1975",
+          "@debut": "1975-07-12",
+          "@fin": "2000-06-22",
+          "@id_txt": "LEGITEXT000006068523"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dispositions particulières et transitoires.",
+            "@debut": "1975-07-12",
+            "@fin": "2000-06-22",
+            "@id": "LEGISCTA000006090579"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000334174",
+      "@date_publi": "1975-07-12",
+      "@date_signature": "1975-07-11",
+      "@nature": "LOI",
+      "@num": "75-620"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-07-12",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006435680",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des décrets en Conseil d'Etat fixeront dans quelles conditions les dispositions de la présente loi pourront, en tout ou partie, être appliquées aux écoles françaises et établissements français d'enseignement à l'étranger, compte tenu de leur situation particulière et des accords conclus avec les Etats étrangers.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 2000-549 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583540",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006435990",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "MENX0000033R",
+        "@num": "7",
+        "@numtexte": "2000-549",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. L451-1 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006525058",
+        "@naturetexte": "CODE",
+        "@num": "L451-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'éducation - art. L451-1 (M)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006525056",
+        "@naturetexte": "CODE",
+        "@num": "L451-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006389345",
+      "ANCIEN_ID": "AAIDVXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/93/LEGIARTI000006389345.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1980-02-28",
+        "DATE_FIN": "1982-11-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 septembre 1979 pris pour l'application de la loi n° 79-594 du 13 juillet 1979 et le décret n° 79-835 du 27 septembre 1979 sur les fonds communs de placement",
+          "@c_titre_court": "Arrêté du 28 septembre 1979",
+          "@debut": "1979-09-30",
+          "@fin": "1983-07-06",
+          "@id_txt": "LEGITEXT000006070634"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "DISPOSITIONS GENERALES",
+            "@debut": "1979-09-30",
+            "@fin": "1983-07-06",
+            "@id": "LEGISCTA000006088001"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006070634",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-09-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-02-28",
+          "@etat": "MODIFIE",
+          "@fin": "1982-11-13",
+          "@id": "LEGIARTI000006389345",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-11-13",
+          "@etat": "ABROGE",
+          "@fin": "1983-07-06",
+          "@id": "LEGIARTI000006389346",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les titres d'une même collectivité qui, en application de l'article 19 de la loi susvisée, peuvent représenter plus de 10 p. 100 [*pourcentage*] des actifs d'un fonds commun de placement sont, outre les valeurs de l'Etat ou des titres jouissant de sa garantie : les obligations émises par les collectivités locales ou leurs groupements ou jouissant de leur garantie ou émises par la Société nationale des chemins de fer français, Electricité de France, Gaz de France, la Compagnie nationale du Rhône, la caisse nationale de l'énergie, Charbonnages de France, la Régie autonome des transports parisiens, la caisse nationale des autoroutes, la caisse nationale des télécommunications, le Crédit national, la caisse centrale de crédit hôtelier, la caisse centrale de coopération économique, le Crédit foncier de France, la caisse nationale du crédit agricole [*liste arrêtée par le ministre chargé de l'économie*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 79-594 1979-07-13",
+        "@cidtexte": "JORFTEXT000000886676",
+        "@datesignatexte": "1979-07-13",
+        "@id": "JORFTEXT000000886676",
+        "@naturetexte": "LOI",
+        "@numtexte": "79-594",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 79-594 1979-07-13 art. 40 *date d'effet au 1er octobre 1979*",
+        "@cidtexte": "JORFTEXT000000886676",
+        "@datesignatexte": "1979-07-13",
+        "@id": "JORFTEXT000000886676",
+        "@naturetexte": "LOI",
+        "@numtexte": "79-594",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 79-835 1979-09-27",
+        "@cidtexte": "JORFTEXT000000335564",
+        "@datesignatexte": "1979-09-27",
+        "@id": "JORFTEXT000000335564",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-835",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 79-594 1979-09-13 art. 19",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

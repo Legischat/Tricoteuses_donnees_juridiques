@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006912112",
+      "ANCIEN_ID": "AKFABXXXXXX013AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/21/LEGIARTI000006912112.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-07-18",
+        "DATE_FIN": "1999-03-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-2339 du 13 octobre 1945 RELATIVE AUX SPECTACLES (CLASSEMENT DES ENTREPRISES,REGLEMENTATION DES SALLES,STATUT DES DIRECTEURS,ARTISTES ET PERSONNEL POLICE)",
+          "@c_titre_court": "Ordonnance n°45-2339 du 13 octobre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000888967"
+        },
+        {
+          "#text": "Ordonnance n° 45-2339 du 13 octobre 1945 relative aux spectacles",
+          "@c_titre_court": "Ordonnance n° 45-2339 du 13 octobre 1945",
+          "@debut": "1945-10-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069167"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre V : Dispositions transitoires et finales.",
+            "@debut": "1945-10-14",
+            "@fin": "1999-03-19",
+            "@id": "LEGISCTA000006112955"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000888967",
+      "@date_publi": "1945-10-14",
+      "@date_signature": "1945-10-13",
+      "@nature": "ORDONNANCE",
+      "@num": "45-2339"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-10-14",
+          "@etat": "MODIFIE",
+          "@fin": "1978-07-18",
+          "@id": "LEGIARTI000006912111",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1978-07-18",
+          "@etat": "ABROGE",
+          "@fin": "1999-03-19",
+          "@id": "LEGIARTI000006912112",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les spectacles visés au 6° de l'article 1er de la présente loi [*ordonnance*] sont soumis à une autorisation du maire [*compétence*].<br/>\n<br/>   Ne sont pas soumis à ladite autorisation les théâtres ambulants ou démontables qu ne présentent au public que des spectacles d'art dramatique, lyrique ou chorégraphique, visés à l'article 1er, 3°. Toutefois, les exploitants de ces théâtres sont tenus de solliciter, le cas échéant, de l'autorité municipale, un permis de stationnement. Ils restent assujettis aux dispositions de la loi du 16 juillet 1912 sur l'exercice des professions ambulantes [*voir loi n° 69-3 du 3 janvier 1969*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1912-07-16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°45-2339 du 13 octobre 1945 - art. 1 (M)",
+        "@cidtexte": "JORFTEXT000000888967",
+        "@datesignatexte": "1945-10-13",
+        "@id": "LEGIARTI000006911832",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "1",
+        "@numtexte": "45-2339",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°78-753 du 17 juillet 1978 - art. 59",
+        "@cidtexte": "JORFTEXT000000339241",
+        "@datesignatexte": "1978-07-17",
+        "@id": "LEGIARTI000019141610",
+        "@naturetexte": "LOI",
+        "@num": "59",
+        "@numtexte": "78-753",
+        "@sens": "cible",
+        "@typelien": "MODIFIE"
+      },
+      {
+        "#text": "Loi n°99-198 du 18 mars 1999 - art. 10 () JORF 19 mars 1999",
+        "@cidtexte": "JORFTEXT000000576196",
+        "@datesignatexte": "1999-03-18",
+        "@id": "LEGIARTI000006908503",
+        "@naturetexte": "LOI",
+        "@nortexte": "MCCX9800056L",
+        "@num": "10",
+        "@numtexte": "99-198",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

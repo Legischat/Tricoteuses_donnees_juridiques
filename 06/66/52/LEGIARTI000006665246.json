@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006665246",
+      "ANCIEN_ID": "SEHMBXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/52/LEGIARTI000006665246.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1990-12-26",
+        "DATE_FIN": "1992-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 90-1153 du 19 décembre 1990 portant relèvement du salaire minimum    de croissance dans les départements de la Guadeloupe, de la Guyane, de la    Martinique et de la Réunion",
+          "@c_titre_court": "Décret n° 90-1153 du 19 décembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000708419"
+        },
+        {
+          "#text": "Décret n°90-1153 du 19 décembre 1990 portant relèvement du salaire minimum de croissance dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion",
+          "@c_titre_court": "Décret n°90-1153 du 19 décembre 1990",
+          "@debut": "1990-12-26",
+          "@fin": "1992-01-01",
+          "@id_txt": "LEGITEXT000006076921"
+        }
+      ],
+      "@cid": "JORFTEXT000000708419",
+      "@date_publi": "1990-12-26",
+      "@date_signature": "1990-12-19",
+      "@ministere": "MINISTERE DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE",
+      "@nature": "DECRET",
+      "@nor": "TEFX9000188D",
+      "@num": "90-1153"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-12-26",
+          "@etat": "PERIME",
+          "@fin": "1992-01-01",
+          "@id": "LEGIARTI000006665246",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les employeurs qui auront versé des salaires inférieurs aux minima fixés à l'article 1er ci-dessus seront passibles des peines prévues à l'article R. 881-1 du code du travail relatif aux pénalités dans les départements d'outre-mer.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 90-1153 1990-12-19 art. 1",
+        "@cidtexte": "JORFTEXT000000708419",
+        "@datesignatexte": "1990-12-19",
+        "@id": "JORFTEXT000000708419",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFX9000188D",
+        "@numtexte": "90-1153",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°92-17 du 3 janvier 1992 (P)",
+        "@cidtexte": "JORFTEXT000000173538",
+        "@datesignatexte": "1992-01-03",
+        "@id": "LEGITEXT000006078540",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFX9100213D",
+        "@numtexte": "92-17",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "Code du travail - art. R881-1 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006811035",
+        "@naturetexte": "CODE",
+        "@num": "R881-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

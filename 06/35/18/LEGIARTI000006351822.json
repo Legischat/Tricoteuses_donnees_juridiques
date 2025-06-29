@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351822",
+      "ANCIEN_ID": "MDHACXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/18/LEGIARTI000006351822.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1982-05-11",
+        "DATE_FIN": "1988-02-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-389 du 10 mai 1982 RELATIF AUX POUVOIRS DES COMMISSAIRES DE LA REPUBLIQUE ET A L'ACTION DES SERVICES ET ORGANISMES PUBLICS DE L'ETAT DANS LES DEPARTEMENTS",
+          "@c_titre_court": "Décret n°82-389 du 10 mai 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000879744"
+        },
+        {
+          "#text": "Décret n°82-389 du 10 mai 1982 relatif aux pouvoirs des préfets et à l'action des services et organismes publics de l'Etat dans les départements.",
+          "@c_titre_court": "Décret n°82-389 du 10 mai 1982",
+          "@debut": "1982-05-11",
+          "@fin": "2004-04-30",
+          "@id_txt": "LEGITEXT000006063761"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "DES POUVOIRS DU COMMISSAIRE DE LA REPUBLIQUE",
+            "@debut": "1982-05-11",
+            "@fin": "2002-07-05",
+            "@id": "LEGISCTA000006085681"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000879744",
+      "@date_publi": "1982-05-11",
+      "@date_signature": "1982-05-10",
+      "@nature": "DECRET",
+      "@num": "82-389"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-11",
+          "@etat": "MODIFIE",
+          "@fin": "1988-02-03",
+          "@id": "LEGIARTI000006351822",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-02",
+          "@etat": "ABROGE",
+          "@fin": "2004-04-30",
+          "@id": "LEGIARTI000006351823",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le représentant de l'Etat dans le département porte le titre de commissaire de la République. Il est dépositaire de l'autorité de l'Etat dans le département. Délégué du Gouvernement, il est le représentant direct du Premier ministre et de chacun des ministres.<br/>\n<br/>   Il dirige sous leur autorité les services des administrations civiles de l'Etat, dans les conditions définies par le présent décret.<br/>\n<br/>   Il a la charge des intérêts nationaux, du respect des lois et de l'ordre public. Il veille à l'exécution des règlements et des décisions gouvernementales.<br/>\n<br/>   Il exerce les compétences précédemment dévolues au préfet du département.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 82-213 1982-03-02 ART. 34",
+        "@cidtexte": "JORFTEXT000000880039",
+        "@datesignatexte": "1982-03-02",
+        "@id": "JORFTEXT000000880039",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-213",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 82-389 1982-05-10 ART. 9 : *champ d'application*",
+        "@cidtexte": "JORFTEXT000000879744",
+        "@datesignatexte": "1982-05-10",
+        "@id": "JORFTEXT000000879744",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-389",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

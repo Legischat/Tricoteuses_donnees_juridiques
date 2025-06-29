@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855881",
+      "ANCIEN_ID": "UPHMCXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/58/LEGIARTI000006855881.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-12-12",
+        "DATE_FIN": "1989-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°75-1136 du 11 décembre 1975 CONSERVATOIRE DE L'ESPACE LITTORAL ET DES RIVAGES LACUSTRES",
+          "@c_titre_court": "Décret n°75-1136 du 11 décembre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000679523"
+        },
+        {
+          "#text": "Décret n°75-1136 du 11 décembre 1975 pris en application de la loi n° 75-602 du 10 juillet 1975 portant création du conservatoire de l'espace littoral et des rivages lacustres.",
+          "@c_titre_court": "Décret n°75-1136 du 11 décembre 1975",
+          "@debut": "1975-12-12",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006062263"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Organisation administrative",
+            "@debut": "1975-12-12",
+            "@fin": "1989-11-04",
+            "@id": "LEGISCTA000006109598"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000679523",
+      "@date_publi": "1975-12-12",
+      "@date_signature": "1975-12-11",
+      "@nature": "DECRET",
+      "@num": "75-1136"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-12-12",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006855881",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le directeur de l'établissement [*attributions*] est nommé par décret, contresigné par le ministre chargé de l'aménagement du territoire, le ministre de l'équipement et le ministre de la qualité de la vie.<br/>\n    Le directeur gère le budget ; il est à cet effet ordonnateur des recettes et des dépenses de l'établissement public. Il recrute, nomme et gère le personnel. Il conclut et signe tous contrats ou conventions. Il ne peut contracter d'emprunt qu'en exécution des décisions du conseil d'administration approuvées dans les conditions prévues à l'article 11 ci-dessus.<br/>\n    Pour les acquisitions, échanges, ventes, cessions d'immeubles ou de droits immobiliers, et d'une façon générale pour tous les actes de disposition ou ayant pour effet ou pour objet de consentir ou d'abandonner tous droits à caractère immobilier, il ne peut stipuler que conformément aux autorisations accordées par le conseil d'administration.<br/>\n    Il représente l'établissement en justice.<br/>\n    Il peut déléguer sa signature.<br/>\n    Il assiste aux séances du conseil d'administration dont il prépare les délibérations et dont il exécute les décisions.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural R243-29",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "LOI 75-602 1975-07-10",
+        "@cidtexte": "JORFTEXT000000700418",
+        "@datesignatexte": "1975-07-10",
+        "@id": "JORFTEXT000000700418",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-602",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°75-1136 du 11 décembre 1975 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000000679523",
+        "@datesignatexte": "1975-12-11",
+        "@id": "LEGIARTI000006855880",
+        "@naturetexte": "DECRET",
+        "@num": "11",
+        "@numtexte": "75-1136",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°89-805 du 27 octobre 1989 - art. 2 (V) JORF 4 novembre 1989",
+        "@cidtexte": "JORFTEXT000000336191",
+        "@datesignatexte": "1989-10-27",
+        "@id": "LEGIARTI000006605371",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRME8961350D",
+        "@num": "2",
+        "@numtexte": "89-805",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. R*243-29 (Ab)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006590762",
+        "@naturetexte": "CODE",
+        "@num": "R*243-29",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

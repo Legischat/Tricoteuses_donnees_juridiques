@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006696446",
+      "ANCIEN_ID": "SPEBIXXXXXX013AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/64/LEGIARTI000006696446.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-06-22",
+        "DATE_FIN": "2010-07-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 90-1010 du 14 novembre 1990 portant adaptation de la législation    française aux dispositions de l'article 5 de la convention des Nations Unies    contre le trafic illicite de stupéfiants et de substances psychotropes, faite    à Vienne le 20 décembre 1988  (1)",
+          "@c_titre_court": "Loi n°90-1010 du 14 novembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000160354"
+        },
+        {
+          "#text": "Loi n°90-1010 du 14 novembre 1990 portant adaptation de la législation française aux dispositions de l'article 5 de la convention des Nations Unies contre le trafic illicite de stupéfiants et de substances psychotropes, faite à Vienne le 20 décembre 1988",
+          "@c_titre_court": "Loi n°90-1010 du 14 novembre 1990",
+          "@debut": "1990-11-16",
+          "@fin": "2010-07-11",
+          "@id_txt": "LEGITEXT000006076753"
+        }
+      ],
+      "@cid": "JORFTEXT000000160354",
+      "@date_publi": "1990-11-16",
+      "@date_signature": "1990-11-14",
+      "@nature": "LOI",
+      "@nor": "JUSX9000076L",
+      "@num": "90-1010"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-11-16",
+          "@etat": "MODIFIE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006696445",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-06-22",
+          "@etat": "ABROGE",
+          "@fin": "2010-07-11",
+          "@id": "LEGIARTI000006696446",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La présente loi est applicable dans les territoires d'outre-mer ainsi que dans la collectivité territoriale de Mayotte [*champ d'application territoriale*].<br/>\n<br/>   Les pouvoirs conférés par l'article 9 au président du tribunal de grande instance sont exercés dans les territoires ou dans la collectivité territoriale de Mayotte par le président du tribunal de première instance.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Convention internationale ONU 1988-12-20",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi n°90-1010 du 14 novembre 1990",
+        "@cidtexte": "JORFTEXT000000160354",
+        "@datesignatexte": "1990-11-14",
+        "@id": "JORFTEXT000000160354",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9000076L",
+        "@numtexte": "90-1010",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-548 2000-06-15 art. 4 II JORF 22 juin 2000",
+        "@cidtexte": "JORFTEXT000000217229",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000217229",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "MESX0000036R",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2010-768\n du 9 juillet 2010 - art. 15",
+        "@cidtexte": "JORFTEXT000022453925",
+        "@datesignatexte": "2010-07-09",
+        "@id": "LEGIARTI000022455622",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX0912931L",
+        "@num": "15",
+        "@numtexte": "2010-768",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

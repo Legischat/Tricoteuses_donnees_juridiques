@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006613858",
+      "ANCIEN_ID": "RBHACXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/38/LEGIARTI000006613858.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1979-02-07",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-113 du 25 janvier 1979 portant révision du code forestier (Première partie : Législative, du nouveau code forestier)",
+          "@c_titre_court": "Décret n°79-113 du 25 janvier 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880699"
+        },
+        {
+          "#text": "Décret n°79-113 du 25 janvier 1979 portant révision du code forestier (première partie :  législative, du nouveau code forestier)",
+          "@c_titre_court": "Décret n°79-113 du 25 janvier 1979",
+          "@debut": "1979-02-07",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062970"
+        }
+      ],
+      "@cid": "JORFTEXT000000880699",
+      "@date_publi": "1979-02-07",
+      "@date_signature": "1979-01-25",
+      "@nature": "DECRET",
+      "@num": "79-113"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006613858",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque les textes en vigueur se réfèrent aux dispositions abrogées par l'article 1er ou aux dispositions énumérées par l'article 3, ces références sont réputées faites aux dispositions correspondantes du nouveau code forestier, partie législative ou partie réglementaire.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°79-113 du 25 janvier 1979 - art. 1, v. init.",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFARTI000002477528",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°79-113 du 25 janvier 1979 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "LEGIARTI000006613857",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du domaine de l'Etat - art. L63 (Ab)",
+        "@cidtexte": "LEGITEXT000006070208",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006350410",
+        "@naturetexte": "CODE",
+        "@num": "L63",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006203904",
+      "ANCIEN_ID": "AKIDEXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/39/LEGIARTI000006203904.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-12-14",
+        "DATE_FIN": "2004-10-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 décembre 1995 relatif à l'examen du certificat de capacité    professionnelle de conducteur de taxi",
+          "@c_titre_court": "Arrêté du 7 décembre 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000738905"
+        },
+        {
+          "#text": "Arrêté du 7 décembre 1995 relatif à l'examen du certificat de capacité professionnelle de conducteur de taxi",
+          "@c_titre_court": "Arrêté du 7 décembre 1995",
+          "@debut": "1995-12-14",
+          "@fin": "2004-10-05",
+          "@id_txt": "LEGITEXT000005619957"
+        }
+      ],
+      "@cid": "JORFTEXT000000738905",
+      "@date_publi": "1995-12-14",
+      "@date_signature": "1995-12-07",
+      "@ministere": "MINISTERE DE L'INTERIEUR",
+      "@nature": "ARRETE",
+      "@nor": "INTD9500734A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-12-14",
+          "@etat": "ABROGE",
+          "@fin": "2004-10-05",
+          "@id": "LEGIARTI000006203904",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute personne désirant se présenter aux épreuves de l'examen du certificat de capacité professionnelle de conducteur de taxi doit adresser au préfet du département où il souhaite passer l'examen une demande d'inscription à laquelle sont jointes les pièces suivantes :<br/>\n<br/>   - une photocopie certifiée conforme de son permis de conduire, catégorie B, délivré depuis plus de deux ans à la date du dépôt du dossier ;<br/>\n<br/>   - une fiche d'état civil indiquant la filiation ;<br/>\n<br/>   - en outre, les candidats étrangers devront fournir un document attestant de la régularité de leur entrée et de leur séjour en France ;<br/>\n<br/>   - un certificat médical délivré dans les conditions définies à l'article R. 127 du code de la route.<br/>\n<br/>   Les candidats dispensés de la première partie de l'examen doivent fournir au jury de l'examen les documents justifiant la dispense.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2000-09-05 art. 11 JORF 5 octobre 2004",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 95-935 1995-08-17",
+        "@cidtexte": "JORFTEXT000000737295",
+        "@datesignatexte": "1995-08-17",
+        "@id": "JORFTEXT000000737295",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTD9500216D",
+        "@numtexte": "95-935",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la route R127",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

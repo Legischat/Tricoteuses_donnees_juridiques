@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006538002",
+      "ANCIEN_ID": "ADHBMXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/80/LEGIARTI000006538002.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-05-07",
+        "DATE_FIN": "2012-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 11 mai 1937 pris pour l'application de la loi du 04-08-1903, modifiée par la loi du 10-03-1935, concernant la répression des fraudes dans le commerce des produits utilisés pour la destruction des ravageurs des cultures",
+          "@c_titre_court": "Décret du 11 mai 1937",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000298880"
+        },
+        {
+          "#text": "Décret du 11 mai 1937 pris pour l'application de la loi du 4 août 1903, modifiée par la loi du 10 mars 1935, concernant la répression des fraudes dans le commerce des produits utilisés pour la destruction des ravageurs des cultures",
+          "@c_titre_court": "Décret du 11 mai 1937",
+          "@debut": "1937-05-15",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071300"
+        }
+      ],
+      "@cid": "JORFTEXT000000298880",
+      "@date_publi": "1937-05-15",
+      "@date_signature": "1937-05-11",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1937-05-15",
+          "@etat": "MODIFIE",
+          "@fin": "1994-05-07",
+          "@id": "LEGIARTI000006538001",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-05-07",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006538002",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il doit être indiqué sur l'étiquetage si le produit est réservé à certaines catégories d'utilisateurs selon les modalités déterminées par arrêté interministériel.<br/>\n<br/>   Il est interdit de faire figurer sur les contenants ou emballages des produits mentionnés à l'article 1er des indications telles que \"non toxique\", \"ne nuit pas à la santé\" ou toute indication similaire.<br/>\n<br/>   Toutefois, l'étiquetage peut comporter des informations indiquant que le produit peut être utilisé pendant la période d'activité des abeilles ou d'autres espèces non ciblées ou pendant la floraison des cultures ou de mauvaises herbes, ou des indications relatives à la protection des abeilles ou d'autres organismes désignés, lorsque l'autorisation porte sur ces emplois et qu'elle expose ces espèces à un risque minimal.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1937-05-11 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°94-359 du 5 mai 1994 - art. 64 () JORF 7 mai 1994",
+        "@cidtexte": "JORFTEXT000000529238",
+        "@datesignatexte": "1994-05-05",
+        "@id": "LEGIARTI000006603173",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRG9400189D",
+        "@num": "64",
+        "@numtexte": "94-359",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2012-755\n du 9 mai 2012 - art. 5",
+        "@cidtexte": "JORFTEXT000025837665",
+        "@datesignatexte": "2012-05-09",
+        "@id": "LEGIARTI000025851034",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRG1201293D",
+        "@num": "5",
+        "@numtexte": "2012-755",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1903-08-04",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

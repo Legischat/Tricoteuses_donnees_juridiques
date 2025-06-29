@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006630196",
+      "ANCIEN_ID": "RIHDGXXXXXXA00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/01/LEGIARTI000006630196.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe I",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1999-09-03",
+        "DATE_FIN": "2007-03-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 98-257 du 31 mars 1998 relatif à la consommation en énergie des réfrigérateurs et congélateurs électriques à usage domestique",
+          "@c_titre_court": "Décret n°98-257 du 31 mars 1998",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000204393"
+        },
+        {
+          "#text": "Décret n°98-257 du 31 mars 1998 relatif à la consommation en énergie des réfrigérateurs et congélateurs électriques à usage domestique",
+          "@c_titre_court": "Décret n°98-257 du 31 mars 1998",
+          "@debut": "1999-09-03",
+          "@fin": "2007-03-23",
+          "@id_txt": "LEGITEXT000005625567"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1999-09-03",
+            "@fin": "2007-03-23",
+            "@id": "LEGISCTA000006100113"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Volume ajusté.",
+              "@debut": "1999-09-03",
+              "@fin": "2007-03-23",
+              "@id": "LEGISCTA000006122958"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000204393",
+      "@date_publi": "1998-04-05",
+      "@date_signature": "1998-03-31",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "DECRET",
+      "@nor": "ECOI9800142D",
+      "@num": "98-257"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-09-03",
+          "@etat": "ABROGE",
+          "@fin": "2007-03-23",
+          "@id": "LEGIARTI000006630196",
+          "@num": "Annexe I",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   1. Le coefficient \"volume ajusté\" (Vaj) exprimé en litres d'un appareil de réfrigération est calculé selon la formule suivante :<br/>\n Vaj = SVc x Wc x Fc x Cc<br/>\n où :<br/>\n<br/>   Wc = (25 - Tc)/20 ;<br/>\n<br/>   Tc étant la température nominale de chaque compartiment (en °C) ;<br/>\n<br/>   Vc étant le volume utile exprimé en litres d'un compartiment et Fc étant un facteur valant 1,2 pour les compartiments à froid ventilé et 1 pour les autres compartiments ;<br/>\n<br/>   Cc = 1 pour les appareils de réfrigération appartenant aux classes climatiques normales et subnormales ;<br/>\n<br/>   Cc = Xc pour les appareils de réfrigération appartenant à la classe climatique subtropicale ;<br/>\n<br/>   Cc = Yc pour les appareils de réfrigération appartenant à la classe climatique tropicale.<br/>\n<br/>   Les coefficients Xc et Yc pour les différents types de compartiments sont les suivants : Xc, Yc.<br/>\n<br/>   Compartiment à température modérée : 1,25 , 1,35.<br/>\n<br/>   Compartiment pour denrées fraîches : 1,20 , 1,30.<br/>\n<br/>   Compartiment basse température et 0 °C : 1,15 , 1,25.<br/>\n<br/>   Compartiment une étoile : 1,12 , 1,20.<br/>\n<br/>   Compartiment deux étoiles : 1,08 , 1,15.<br/>\n<br/>   Compartiment trois et quatre étoiles : 1,05 , 1,10.<br/>\n<br/>   2. Les termes : \"compartiment à température modérée\" et \"compartiment basse température\", \"compartiment pour denrées fraîches\", \"température nominale\" et \"volume utile\" ainsi que les classes climatiques normale, subnormale, subtropicale et tropicale s'entendent au sens de la norme française NF EN 153.<br/>\n<br/>   On entend par compartiment 0 °C un compartiment dans lequel les températures sont maintenues entre - 2 °C et + 3 °C.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2007-397 du 22 mars 2007 - art. 4 (V) JORF 23 mars 2007",
+        "@cidtexte": "JORFTEXT000000248208",
+        "@datesignatexte": "2007-03-22",
+        "@id": "LEGIARTI000006868687",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVG0710017D",
+        "@num": "4",
+        "@numtexte": "2007-397",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'environnement R224-44 (tableau)",
+        "@cidtexte": "LEGITEXT000006074220",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074220",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

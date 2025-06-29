@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006719334",
+      "ANCIEN_ID": "SPIL3XXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/93/LEGIARTI000006719334.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-10",
+        "DATE_FIN": "1992-11-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 juillet 1979 fixant la liste des titres requis pour le recrutement des ingénieurs des établissements relevant du livre IX du code de la santé publique.",
+          "@c_titre_court": "Arrêté du 3 juillet 1979",
+          "@debut": "1979-07-10",
+          "@fin": "1992-11-11",
+          "@id_txt": "LEGITEXT000006072901"
+        }
+      ],
+      "@cid": "LEGITEXT000006072901",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-07-03",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-10",
+          "@etat": "ABROGE",
+          "@fin": "1992-11-11",
+          "@id": "LEGIARTI000006719334",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les titres permettant l'accès aux concours visés à l'article 5 (1e) du décret du 6 mars 1973 susvisé, ouverts pour le recrutement des ingénieurs subdivisionnaires, sont ceux figurant au tableau III annexé au présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-07-03 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1992-10-23 art. 3 JORF 11 novembre 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 73-317 1973-03-06",
+        "@cidtexte": "JORFTEXT000000682185",
+        "@datesignatexte": "1973-03-06",
+        "@id": "JORFTEXT000000682185",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-317",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°73-317 du 6 mars 1973 - art. 5 (M)",
+        "@cidtexte": "JORFTEXT000000682185",
+        "@datesignatexte": "1973-03-06",
+        "@id": "LEGIARTI000006706865",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "73-317",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L893 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006695391",
+        "@naturetexte": "CODE",
+        "@num": "L893",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006238326",
+      "ANCIEN_ID": "PAIG6XXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/23/83/LEGIARTI000006238326.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-01-01",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 janvier 2005 relatif à l'organisation du centre des hautes études de l'armement",
+          "@c_titre_court": "Arrêté du 31 janvier 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000606017"
+        },
+        {
+          "#text": "Arrêté du 31 janvier 2005 relatif à l'organisation du centre des hautes études de l'armement.",
+          "@c_titre_court": "Arrêté du 31 janvier 2005",
+          "@debut": "2005-02-01",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000006051210"
+        }
+      ],
+      "@cid": "JORFTEXT000000606017",
+      "@date_publi": "2005-02-01",
+      "@date_signature": "2005-01-31",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "ARRETE",
+      "@nor": "DEFD0500041A",
+      "@num_parution_jo": "0026"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-02-01",
+          "@etat": "MODIFIE",
+          "@fin": "2007-01-01",
+          "@id": "LEGIARTI000006238325",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006238326",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002243615",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le directeur du centre des hautes études de l'armement peut disposer d'adjoints qui le secondent et le suppléent.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2006-12-14 art. 6 JORF 23 décembre 2006 en vigueur le 1er janvier 2007",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 2 décembre 2009 - art. 99 (Ab)",
+        "@cidtexte": "JORFTEXT000021466720",
+        "@datesignatexte": "2009-12-02",
+        "@id": "LEGIARTI000021476730",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEFD0928921A",
+        "@num": "99",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

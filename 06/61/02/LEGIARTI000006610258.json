@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006610258",
+      "ANCIEN_ID": "RBAXXXXXXXX1X015L00AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/02/LEGIARTI000006610258.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-07-29",
+        "DATE_FIN": "2012-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099185"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre préliminaire : Principes fondamentaux de la politique forestière.",
+              "@debut": "2001-07-11",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121938"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-07-29",
+          "@etat": "ABROGE",
+          "@fin": "2012-07-01",
+          "@id": "LEGIARTI000006610258",
+          "@num": "L15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des décrets en Conseil d'Etat définissent les modalités d'application du présent livre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°79-114 du 25 janvier 1979",
+        "@cidtexte": "JORFTEXT000000880704",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880704",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-114",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2005-867 du 28 juillet 2005 - art. 1 () JORF 29 juillet 2005",
+        "@cidtexte": "JORFTEXT000000261647",
+        "@datesignatexte": "2005-07-28",
+        "@id": "LEGIARTI000006243297",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DOMX0500029R",
+        "@num": "1",
+        "@numtexte": "2005-867",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°2012-92\n du 26 janvier 2012 - art. 5",
+        "@cidtexte": "JORFTEXT000025213462",
+        "@datesignatexte": "2012-01-26",
+        "@id": "LEGIARTI000025243152",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRX1121770R",
+        "@num": "5",
+        "@numtexte": "2012-92",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code forestier - art. L14 (T)",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006610256",
+        "@naturetexte": "CODE",
+        "@num": "L14",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code forestier - art. L14 (T)",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006610256",
+        "@naturetexte": "CODE",
+        "@num": "L14",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

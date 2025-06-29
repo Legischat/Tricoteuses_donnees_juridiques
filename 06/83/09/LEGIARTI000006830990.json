@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006830990",
+      "ANCIEN_ID": "UCIMCXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/09/LEGIARTI000006830990.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-01-01",
+        "DATE_FIN": "1999-07-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 octobre 1994 relatif aux modalités    d'application de la réglementation acoustique",
+          "@c_titre_court": "Arrêté du 28 octobre 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000348503"
+        },
+        {
+          "#text": "Arrêté du 28 octobre 1994 relatif aux modalités d'application de la réglementation acoustique",
+          "@c_titre_court": "Arrêté du 28 octobre 1994",
+          "@debut": "1996-01-01",
+          "@fin": "1999-07-17",
+          "@id_txt": "LEGITEXT000005617038"
+        }
+      ],
+      "@cid": "JORFTEXT000000348503",
+      "@date_publi": "1994-11-25",
+      "@date_signature": "1994-10-28",
+      "@ministere": "MINISTERE DU LOGEMENT",
+      "@nature": "ARRETE",
+      "@nor": "LOGC9400070A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1999-07-17",
+          "@id": "LEGIARTI000006830990",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour la vérification de la qualité acoustique des logements, les mesures sont effectuées suivant la norme NF S 31-057, dans les locaux normalement meublés, les portes et fenêtres étant fermées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-10-28 art. 7",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1999-06-30 art. 9 JORF 17 juillet 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation L.111-4, L.111-11, R.111-1 et R.111-4",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

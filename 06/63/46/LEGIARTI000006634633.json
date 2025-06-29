@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006634633",
+      "ANCIEN_ID": "ADIVYXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/46/LEGIARTI000006634633.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-03-30",
+        "DATE_FIN": "1986-04-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 mars 1985 relatif aux prix pratiqués par certaines entreprises de commerce de gros interindustriel",
+          "@c_titre_court": "Arrêté du 29 mars 1985",
+          "@debut": "1985-03-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071910"
+        }
+      ],
+      "@cid": "LEGITEXT000006071910",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-03-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-03-30",
+          "@etat": "ABROGE",
+          "@fin": "1986-04-18",
+          "@id": "LEGIARTI000006634633",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont entérinées par le présent arrêté les conventions nationales suivantes dont le texte est joint en annexe au présent arrêté.<br/>\n<br/>   - convention en date du 20 mars 1985 souscrite par le syndicat général des commerces et industries du caoutchouc et des plastiques ;    - convention en date du 25 mars 1985 souscrite par la fédération nationale des chambres syndicales des distributeurs ensembliers en équipements sanitaires, chauffage et canalisations et la fédération nationale des négociants en matériaux de construction ;<br/>\n<br/>   - convention en date du 26 mars 1985 souscrite par la fédération française du négoce de bois d'oeuvre et produits dérivés ;<br/>\n<br/>   - convention en date du 21 mars 1985 souscrite par la fédération des syndicats de négociants techniques.<br/>\n<br/>   Ces conventions sont applicables à toutes les entreprises des secteurs concernés, qui respecteront les engagements prévus par ces textes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 25/A 1985-03-29 BOCC n° 5, 30 mars 1985",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 86-20/A 1986-04-16 art. 2",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 86-20/A 1986-04-16 art. 2 BOCC n° 7, 18 avril 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

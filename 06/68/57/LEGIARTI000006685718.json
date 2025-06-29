@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006685718",
+      "ANCIEN_ID": "SNAXXXXXXXX5X075000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/57/LEGIARTI000006685718.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "75",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-06-30",
+        "DATE_FIN": "1995-09-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de déontologie des médecins",
+          "@c_titre_court": "Code de déontologie des médecins",
+          "@debut": "1979-06-30",
+          "@fin": "1995-09-08",
+          "@id_txt": "LEGITEXT000006072664"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 4 : Règles particulières à certains modes d'exercice",
+            "@debut": "1979-06-30",
+            "@fin": "1995-09-08",
+            "@id": "LEGISCTA000006103416"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Exercice salarié de la médecine",
+              "@debut": "1979-06-30",
+              "@fin": "1995-09-08",
+              "@id": "LEGISCTA000006125341"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072664",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-06-30",
+          "@etat": "ABROGE",
+          "@fin": "1995-09-08",
+          "@id": "LEGIARTI000006685718",
+          "@num": "75",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le fait pour un médecin d'être lié dans son exercice professionnel par un contrat ou un statut à une administration, une collectivité ou tout autre organisme public ou privé n'enlève rien à ses devoirs professionnels et en particulier à ses obligations concernant le secret professionnel et l'indépendance de ses décisions.<br/>\n    En aucune circonstance le médecin ne peut accepter de limitation à son indépendance professionnelle de la part de l'entreprise ou de l'organisme qui l'emploie. Il doit toujours agir, en priorité, dans l'intérêt de la santé des personnes qu'il examine et dans l'intérêt de leur sécurité au sein des entreprises ou des collectivités dont il est responsable.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-506 1979-06-28 JORF 30 juin 1979",
+        "@cidtexte": "JORFTEXT000000703112",
+        "@datesignatexte": "1979-06-28",
+        "@id": "JORFTEXT000000703112",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-506",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 95-1000 1995-09-06 art. 113 JORF 8 septembre 1995",
+        "@cidtexte": "JORFTEXT000000555170",
+        "@datesignatexte": "1995-09-06",
+        "@id": "JORFTEXT000000555170",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9502310D",
+        "@numtexte": "95-1000",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006628438",
+      "ANCIEN_ID": "ADIRAXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/84/LEGIARTI000006628438.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-04-05",
+        "DATE_FIN": "1986-04-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 avril 1984 relatif aux prix pratiqués par certaines entreprises de commerce de gros interindustriel",
+          "@c_titre_court": "Arrêté du 4 avril 1984",
+          "@debut": "1984-04-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071806"
+        }
+      ],
+      "@cid": "LEGITEXT000006071806",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-04-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-04-05",
+          "@etat": "ABROGE",
+          "@fin": "1986-04-18",
+          "@id": "LEGIARTI000006628438",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le non-respect de ces conventions constitue une pratique de prix illicite au sens de l'article 36 de l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 35/A 1984-04-04 BOCC n° 7, 5 avril 1984",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 35/A 1984-04-04 art. 3 *champ d'application*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 86-20/A 1986-04-16 art. 2 BOCC n° 7 18 avril 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Ordonnance n°45-1483 du 30 juin 1945 - art. 36 (Ab)",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "LEGIARTI000006525029",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "36",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

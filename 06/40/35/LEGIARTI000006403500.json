@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006403500",
+      "ANCIEN_ID": "ABFABXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/35/LEGIARTI000006403500.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-01-03",
+        "DATE_FIN": "2022-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat",
+          "@c_titre_court": "Ordonnance n° 59-76 du 7 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886943"
+        },
+        {
+          "#text": "Ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques.",
+          "@c_titre_court": "Ordonnance n° 59-76 du 7 janvier 1959",
+          "@debut": "1968-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069274"
+        }
+      ],
+      "@cid": "JORFTEXT000000886943",
+      "@date_publi": "1959-01-08",
+      "@date_signature": "1959-01-07",
+      "@nature": "ORDONNANCE",
+      "@num": "59-76"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-03",
+          "@etat": "ABROGE",
+          "@fin": "2022-03-01",
+          "@id": "LEGIARTI000006403500",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque la responsabilité du dommage est partagée entre le tiers et la victime, l'Etat peut recourir contre le tiers pour la totalité des prestations auxquelles il est tenu, à la condition que leur montant n'excède pas celui de la réparation mise à la charge du tiers.<br/>\n<br/>   Toutefois, ce recours ne peut s'exercer sur la part des dommages-intérêts correspondant à des préjudices qui, en raison de leur nature, ne se trouvent pas au moins partiellement couverts par les prestations visées à l'article 1er.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 59-76 du 7 janvier 1959 - art. 1",
+        "@cidtexte": "JORFTEXT000000886943",
+        "@datesignatexte": "1959-01-07",
+        "@id": "LEGIARTI000006403475",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "1",
+        "@numtexte": "59-76",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 68-2 1968-01-02 art. 1 JORF 3 janvier 1968",
+        "@cidtexte": "JORFTEXT000000692956",
+        "@datesignatexte": "1968-01-02",
+        "@id": "JORFTEXT000000692956",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-2",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2021-1574 du 24 novembre 2021 - art. 9",
+        "@cidtexte": "JORFTEXT000044411525",
+        "@datesignatexte": "2021-11-24",
+        "@id": "LEGIARTI000044415258",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "TFPF2121004R",
+        "@num": "9",
+        "@numtexte": "2021-1574",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code général de la fonction publique - art. L825-5 (V)",
+        "@cidtexte": "LEGITEXT000044416551",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000044424501",
+        "@naturetexte": "CODE",
+        "@num": "L825-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

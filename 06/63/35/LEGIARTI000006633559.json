@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006633559",
+      "ANCIEN_ID": "RIHJUXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/35/LEGIARTI000006633559.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1980-12-30",
+        "DATE_FIN": "1988-04-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°80-1091 du 24 décembre 1980 FIXANT LES CONDITIONS D'HYGIENE ET DE SECURITE AUXQUELLES DOIVENT SATISFAIRE LES TRACTEURS AGRICOLES ET FORESTIERS A ROUES",
+          "@c_titre_court": "Décret n°80-1091 du 24 décembre 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000304854"
+        },
+        {
+          "#text": "Décret n°80-1091 du 24 décembre 1980 fixant les conditions d'hygiène et de sécurité auxquelles doivent satisfaire les tracteurs agricoles et forestiers à roues",
+          "@c_titre_court": "Décret n°80-1091 du 24 décembre 1980",
+          "@debut": "1980-12-30",
+          "@fin": "2005-10-02",
+          "@id_txt": "LEGITEXT000006063173"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section V : Mesures d'application.",
+            "@debut": "1980-12-30",
+            "@fin": "2005-10-02",
+            "@id": "LEGISCTA000006100304"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000304854",
+      "@date_publi": "1980-12-30",
+      "@date_signature": "1980-12-24",
+      "@nature": "DECRET",
+      "@num": "80-1091"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-12-30",
+          "@etat": "MODIFIE",
+          "@fin": "1988-04-28",
+          "@id": "LEGIARTI000006633559",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-04-28",
+          "@etat": "ABROGE",
+          "@fin": "2005-10-02",
+          "@id": "LEGIARTI000006633560",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les vérifications et essais, dont les procès-verbaux mentionnés à l'article R. 233-53 du code du travail, doivent être joints au dossier de demande sont effectués dans les conditions et selon les modalités fixées par arrêté du ministre de l'agriculture.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 80-1091 1980-12-24 art. 16 (date d'effet)",
+        "@cidtexte": "JORFTEXT000000304854",
+        "@datesignatexte": "1980-12-24",
+        "@id": "JORFTEXT000000304854",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-1091",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté du 16 janvier 2001 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000404179",
+        "@datesignatexte": "2001-01-16",
+        "@id": "LEGIARTI000006635471",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRS0100121A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 15 octobre 1981 - art. 1 (Ab)",
+        "@cidtexte": "LEGITEXT000006071941",
+        "@datesignatexte": "1981-10-15",
+        "@id": "LEGIARTI000006635343",
+        "@naturetexte": "ARRETE",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R233-53 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006807900",
+        "@naturetexte": "CODE",
+        "@num": "R233-53",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

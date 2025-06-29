@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006608111",
+      "ANCIEN_ID": "ADIDIXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/81/LEGIARTI000006608111.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-09-08",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 septembre 1982 relatif aux prix à la distribution des manuels scolaires",
+          "@c_titre_court": "Arrêté du 7 septembre 1982",
+          "@debut": "1982-09-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071470"
+        }
+      ],
+      "@cid": "LEGITEXT000006071470",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-09-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-09-08",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006608111",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Par exception aux dispositions de l'arrêté n° 82-69/A du 4 août 1982, pour la vente au détail des manuels scolaires, les entreprises de distribution ne peuvent pratiquer des prix toutes taxes comprises, supérieurs aux prix de vente au public fixés par l'éditeur ou l'importateur dans les conditions prévues par la loi n° 81-766 du 10 août 1981 relative au prix du livre et diminués de 2,5 p. 100. </p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 69/A 1982-08-04",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 78/A 1982-09-07 BOCC n° 20, 8 septembre 1982",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "LOI 81-766 1981-08-10",
+        "@cidtexte": "JORFTEXT000000517179",
+        "@datesignatexte": "1981-08-10",
+        "@id": "JORFTEXT000000517179",
+        "@naturetexte": "LOI",
+        "@numtexte": "81-766",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

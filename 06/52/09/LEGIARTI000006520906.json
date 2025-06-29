@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006520906",
+      "ANCIEN_ID": "PLEABXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/09/LEGIARTI000006520906.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-06-10",
+        "DATE_FIN": "2012-05-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 15 juin 1907 relative aux casinos.",
+          "@c_titre_court": "Loi du 15 juin 1907",
+          "@debut": "2009-03-03",
+          "@fin": "2012-05-01",
+          "@id_txt": "LEGITEXT000006071174"
+        },
+        {
+          "#text": "Loi du 15 juin 1907 réglementant le jeu dans les cercles et les casinos des stations balnéaires, thermales et climatiques",
+          "@c_titre_court": "Loi du 15 juin 1907",
+          "@debut": "1907-06-16",
+          "@fin": "2005-05-05",
+          "@id_txt": "LEGITEXT000006071172"
+        }
+      ],
+      "@cid": "LEGITEXT000006071172",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1907-06-15",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1907-06-16",
+          "@etat": "MODIFIE",
+          "@fin": "1977-06-10",
+          "@id": "LEGIARTI000006520905",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1977-06-10",
+          "@etat": "ABROGE",
+          "@fin": "2012-05-01",
+          "@id": "LEGIARTI000006520906",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Tout casino autorisé, qu'il soit ou non organisé en société, aura un directeur et un comité de direction responsables.</p>\n<p>Le directeur et les membres du comité de direction devront être Français ou ressortissants d'un des Etats membres de la Communauté économique européenne, majeurs, jouissant de leurs droits civils et politiques. Ces dispositions sont également applicables à toute personne employée à un titre quelconque dans les salles de jeux.</p>\n<p>Le directeur et les membres du comité de direction ne pourront en aucun cas se substituer un fermier des jeux.</p>\n<p>Le directeur, les membres du comité de direction et les personnes employées à un titre quelconque dans les salles de jeux seront agréés par le ministre de l'intérieur. </p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 1907-06-15 ART. 5 (sanctions)",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "LOI 77-584 1977-06-09 art. 2 JORF 10 juin 1977",
+        "@cidtexte": "JORFTEXT000000338785",
+        "@datesignatexte": "1977-06-09",
+        "@id": "JORFTEXT000000338785",
+        "@naturetexte": "LOI",
+        "@numtexte": "77-584",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2012-351\n du 12 mars 2012 - art. 19 (V)",
+        "@cidtexte": "JORFTEXT000025498645",
+        "@datesignatexte": "2012-03-12",
+        "@id": "LEGIARTI000025501190",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "IOCD1129997R",
+        "@num": "19",
+        "@numtexte": "2012-351",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la sécurité intérieure - art. L321-4 (VD)",
+        "@cidtexte": "LEGITEXT000025503132",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000025505705",
+        "@naturetexte": "CODE",
+        "@num": "L321-4",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

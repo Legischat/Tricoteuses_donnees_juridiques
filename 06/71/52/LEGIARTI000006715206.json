@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006715206",
+      "ANCIEN_ID": "AFFABXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/52/LEGIARTI000006715206.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-07-01",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°59-74 du 7 janvier 1959 GUADELOUPE,REUNION,MARTINIQUE,GUYANE",
+          "@c_titre_court": "Ordonnance n°59-74 du 7 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339600"
+        },
+        {
+          "#text": "Ordonnance n° 59-74 du 7 janvier 1959 portant réforme de régime de l'émission dans les départements de la Guadeloupe, la Guyane, la Martinique, la Réunion et dans les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon",
+          "@c_titre_court": "Ordonnance n° 59-74 du 7 janvier 1959",
+          "@debut": "2000-07-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069272"
+        }
+      ],
+      "@cid": "JORFTEXT000000339600",
+      "@date_publi": "1959-01-08",
+      "@date_signature": "1959-01-07",
+      "@nature": "ORDONNANCE",
+      "@num": "59-74"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-08",
+          "@etat": "MODIFIE",
+          "@fin": "2000-07-01",
+          "@id": "LEGIARTI000006715205",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-07-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006715206",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'Institut d'émission des départements d'outre-mer est administré par un conseil de surveillance composé de quinze membres :<br/>\n<br/>   a) Le gouverneur de la Banque de France ou son représentant, président ;<br/>\n<br/>   b) Sept représentants de la Banque de France, désignés pour quatre ans par le gouverneur de cette dernière ;<br/>\n<br/>   c) Six personnalités qualifiées, choisies en raison de leurs compétences dans les domaines monétaire, financier ou économique de l'outre-mer et nommées conjointement pour quatre ans par les ministres chargés de l'économie et de l'outre-mer ;<br/>\n<br/>   d) Un représentant des personnels de l'institut, élu pour quatre ans dans des conditions fixées par les statuts.<br/>\n<br/>   En cas de partage égal des voix lors des délibérations, la voix du président est prépondérante.<br/>\n<br/>   Deux représentants de l'Etat, désignés l'un par le ministre chargé de l'économie et l'autre par le ministre chargé de l'outre-mer, peuvent participer au conseil à titre d'observateurs et sans voix délibérative.<br/>\n<br/>   Un suppléant peut être désigné dans les mêmes formes que le titulaire pour les membres autres que le président et pour les représentants de l'Etat.<br/>\n<br/>   Les statuts de l'institut fixent les conditions dans lesquelles, en cas d'urgence constatée par le président, le conseil de surveillance peut délibérer par voie de consultation écrite.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°86-1125 du 16 octobre 1986 - art. Annexe, art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000684803",
+        "@datesignatexte": "1986-10-16",
+        "@id": "LEGIARTI000006736223",
+        "@naturetexte": "DECRET",
+        "@num": "Annexe, art. 5",
+        "@numtexte": "86-1125",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2000-347 du 19 avril 2000 - art. 1 () JORF 22 avril 2000 en vigueur le 1er juillet 2000",
+        "@cidtexte": "JORFTEXT000000582672",
+        "@datesignatexte": "2000-04-19",
+        "@id": "LEGIARTI000006716343",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOX0000044R",
+        "@num": "1",
+        "@numtexte": "2000-347",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

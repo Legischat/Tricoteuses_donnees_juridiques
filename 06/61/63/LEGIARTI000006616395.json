@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006616395",
+      "ANCIEN_ID": "RDFACXXXXXX032AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/63/LEGIARTI000006616395.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "32",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-12-31",
+        "DATE_FIN": "1982-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°58-1372 du 29 décembre 1958 RELATIVE A DIVERSES DISPOSITIONS D'ORDRE FISCAL ET DOUANIER",
+          "@c_titre_court": "Ordonnance n°58-1372 du 29 décembre 1958",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705345"
+        },
+        {
+          "#text": "Ordonnance n°58-1372 du 29 décembre 1958 relative à diverses dispositions d'ordre fiscal et douanier",
+          "@c_titre_court": "Ordonnance n°58-1372 du 29 décembre 1958",
+          "@debut": "1958-12-31",
+          "@fin": "1982-01-01",
+          "@id_txt": "LEGITEXT000006069230"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Ajustement de l'assiette.",
+            "@debut": "1958-12-31",
+            "@fin": "1982-01-01",
+            "@id": "LEGISCTA000006099299"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000705345",
+      "@date_publi": "1958-12-31",
+      "@date_signature": "1958-12-29",
+      "@nature": "ORDONNANCE",
+      "@num": "58-1372"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-12-31",
+          "@etat": "ABROGE",
+          "@fin": "1982-01-01",
+          "@id": "LEGIARTI000006616395",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de l'article 4 du décret n° 55-594 du 20 mai 1955 sont prorogées jusqu'au 31 décembre 1960.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-594 1955-05-20 art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°81-859 du 15 septembre 1981 - art. 1 (V) JORF 18 septembre 1981 en vigueur le 1er janvier 1982",
+        "@cidtexte": "JORFTEXT000000701292",
+        "@datesignatexte": "1981-09-15",
+        "@id": "LEGIARTI000006272082",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "81-859",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006291418",
+      "ANCIEN_ID": "AAEAVXXXXXX079AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/14/LEGIARTI000006291418.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "79",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-02-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 24 juillet 1867 sur les sociétés",
+          "@c_titre_court": "Loi du 24 juillet 1867",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000515628"
+        },
+        {
+          "#text": "Loi du 24 juillet 1867 sur les sociétés commerciales",
+          "@c_titre_court": "Loi du 24 juillet 1867",
+          "@debut": "1867-07-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069563"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Sociétés anonymes à participation ouvrière.",
+            "@debut": "1867-07-24",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084120"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000515628",
+      "@date_publi": "1867-07-29",
+      "@date_signature": "1867-07-24",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1917-04-28",
+          "@etat": "MODIFIE",
+          "@fin": "1978-02-01",
+          "@id": "LEGIARTI000006291417",
+          "@num": "79",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1978-02-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006291418",
+          "@num": "79",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La part représentative des actions de travail, conformément aux décisions prises par l'assemblée générale de la coopérative ouvrière convoquée à cet effet, est alors répartie entre les participants et anciens participants comptant au moins dix ans de services consécutifs dans les établissements de la société [*conditions d'ancienneté*], ou tout au moins une durée de services sans interruption égale à la moitié de la durée de la société, et ayant quitté la société pour l'une des raisons suivantes : départ à la retraite volontaire ou d'office avec droit à pension, maladie ou invalidité entraînant l'inaptitude à l'emploi précédemment occupé, licenciement motivé par une suppression d'emploi ou une suppression d'emploi ou une compression de personnel [*licenciement pour cause économique*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°77-748 du 8 juillet 1977 - art. 3 () JORF 10 juillet 1977 en vigueur le 1er février 1978",
+        "@cidtexte": "JORFTEXT000000522705",
+        "@datesignatexte": "1977-07-08",
+        "@id": "LEGIARTI000006291560",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "77-748",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 87-559 1987-07-17 art. 1 *champ d'application - extension territoriale*",
+        "@cidtexte": "JORFTEXT000000874955",
+        "@datesignatexte": "1987-07-17",
+        "@id": "JORFTEXT000000874955",
+        "@naturetexte": "LOI",
+        "@nortexte": "DOMX8700105L",
+        "@numtexte": "87-559",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L225-269 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006226501",
+        "@naturetexte": "CODE",
+        "@num": "L225-269",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

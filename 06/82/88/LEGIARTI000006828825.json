@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006828825",
+      "ANCIEN_ID": "UCICRXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/88/LEGIARTI000006828825.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe IV",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-01-23",
+        "DATE_FIN": "1988-03-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 mars 1978 relatif aux caractéristiques techniques et aux prix des logements-foyers à usage locatif bénéficiant de prêts aidés par l'Etat.",
+          "@c_titre_court": "Arrêté du 21 mars 1978",
+          "@debut": "1978-04-06",
+          "@fin": "1996-07-01",
+          "@id_txt": "LEGITEXT000006074158"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1978-04-06",
+            "@fin": "1996-07-01",
+            "@id": "LEGISCTA000006108299"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Prix de référence Bâtiment et honoraires.",
+              "@debut": "1981-01-21",
+              "@fin": "1996-07-01",
+              "@id": "LEGISCTA000006128851"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074158",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1978-03-21",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-23",
+          "@etat": "ABROGE",
+          "@fin": "1988-03-20",
+          "@id": "LEGIARTI000006828825",
+          "@num": "Annexe IV",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1991-03-19",
+          "@id": "LEGIARTI000006828826",
+          "@num": "Annexe IV",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-03-19",
+          "@etat": "ABROGE",
+          "@fin": "1996-07-01",
+          "@id": "LEGIARTI000006828827",
+          "@num": "Annexe IV",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Coefficient d'importance de l'opération et de hauteur<br/>\n    Le coefficient d'importance et de hauteur de l'opération est donné par la relation <br/>\n    b = b1 + b2<br/>\n    Dans laquelle<br/>\n    b1 dépend du nombre total pondéré, N, de logements, constituant l'opération :<br/>\n    N : b1<br/>\n    N supérieur ou égal à 3 et inférieur ou égal à 100<br/>\n    b1 = + 0,06 (100 - N / 100).<br/>\n    N supérieur à 100 et inférieur ou égal à 200<br/>\n    b1 = 0,035 (N - 100 / 100)<br/>\n    N supérieur à 200 :<br/>\n    b1 = - 0,035 - 0,02 (N - 200 / 100).<br/>\n    Pour déterminer la valeur de N, on affectera le nombre réel de logements de chaque type des coefficients de pondération suivants :<br/>\n    Logements de type I = 0,30 ;<br/>\n    Logements de type I bis = 0,50 ;<br/>\n    Logements de type II = 0,75 ;<br/>\n    Logements de type III au type VII = 1.00.<br/>\n    b2 dépend de la hauteur moyenne, hm, du bâtiment ou des bâtiments constituant l'opération mesurée en nombre de niveaux habitables théoriques comme suit :<br/>\n    Pour une opération ne comprenant qu'un bâtiment, la hauteur moyenne est définie par le rapport de la surface hors oeuvre totale à la suite hors oeuvre du niveau habitable ayant la surface hors oeuvre maximale :<br/>\n    hm = S.H.O. totale / S.H.O. maximale<br/>\n    Pour une opération comprenant plusieurs bâtiments, la hauteur moyenne est définie par le rapport de la surface hors oeuvre totale de l'opération au total des surfaces hors oeuvre des niveaux habitables de surface hors oeuvre maximale de chaque bâtiment :<br/>\n    hm = S.H.O. totale / S.H.O maximale<br/>\n    Pour le calcul des surfaces hors oeuvre visées ci-dessus, il n'est pas tenu compte de la superficie des terrasses, loggias, balcons et des garages éventuellement incorporés aux bâtiments.<br/>\n   b2 est donné en fonction de hm par le tableau ci-dessous :<br/>\n    hm étant pris égal à la plus proche des deux valeurs, inférieure ou supérieure, trouvées dans le tableau ou en cas d'équidistance à la valeur supérieure :<br/>\n    Immeuble sans ascenseur.<br/>\n    hm Inférieur ou égal à 3 : 0,040<br/>\n    hm 3,5 : 0,030<br/>\n    hm 4 : 0,020<br/>\n    hm 4,5 : 0,015<br/>\n    hm 5 : 0,010<br/>\n    hm 6 : 0<br/>\n    hm 7 : - 0,010<br/>\n    hm Supérieur ou égal à  8 : - 0,020<br/>\n<br/>\n    Immeuble avec ascenseur.<br/>\n    hm Inférieur ou égal à 3 : 0,080<br/>\n    hm 3,5 : 0,060<br/>\n    hm 4 : 0,040<br/>\n    hm 4,5 : 0,025<br/>\n    hm 5 : 0,010<br/>\n    hm 6 : 0<br/>\n    hm 7 : - 0,010<br/>\n    hm Supérieur ou égal à 8 : - 0,020<br/>\n<br/>\n    Maisons individuelles isolées ou groupées b2 = 0.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-01-08 art. 3 JORF 23 janvier 1982",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1996-06-10 art. 18 JORF 20 juin 1996 en vigueur le 1er juillet 1996",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006435630",
+      "ANCIEN_ID": "PEEAVXXXXXX080AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/56/LEGIARTI000006435630.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "80",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1850-03-15",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 15 mars 1850 sur l'enseignement",
+          "@c_titre_court": "Loi du 15 mars 1850",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000332156"
+        },
+        {
+          "#text": "Loi  du 15 mars 1850 sur l'enseignement \"Loi Falloux\"",
+          "@c_titre_court": "Loi du 15 mars 1850",
+          "@debut": "1850-03-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070888"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Dispositions générales.",
+            "@debut": "1850-03-15",
+            "@fin": "2007-09-01",
+            "@id": "LEGISCTA000006090572"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000332156",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1850-03-15",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1850-03-15",
+          "@etat": "ABROGE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006435630",
+          "@num": "80",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 463 du Code pénal pourra être appliqué aux délits prévus par la présente loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1850-03-15 Bull. des lois, 10e S., B. 246, n° 2029",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n° 92-1336 du 16 décembre 1992 - art. 323 (V)",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491861",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "323",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code pénal 463",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

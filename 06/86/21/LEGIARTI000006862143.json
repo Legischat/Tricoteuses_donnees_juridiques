@@ -1,0 +1,73 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862143",
+      "ANCIEN_ID": "UPIJGXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/21/LEGIARTI000006862143.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-31",
+        "DATE_FIN": "1980-12-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 juin 1979 portant interdiction d'inscription au registre français d'immatriculation des avions à réaction subsoniques dépourvus de certification de limitation des nuisances.",
+          "@c_titre_court": "Arrêté du 6 juin 1979",
+          "@debut": "1979-07-31",
+          "@fin": "1980-12-20",
+          "@id_txt": "LEGITEXT000006074543"
+        }
+      ],
+      "@cid": "LEGITEXT000006074543",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-06-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-31",
+          "@etat": "ABROGE",
+          "@fin": "1980-12-20",
+          "@id": "LEGIARTI000006862143",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le directeur général de l'aviation civile est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1980-11-12 art. 4 JONC 20 décembre 1980",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'aviation civile R133-1 R133-2 R133-3",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074234",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

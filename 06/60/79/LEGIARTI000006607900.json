@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607900",
+      "ANCIEN_ID": "RAIFWXXXXXX009AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/79/LEGIARTI000006607900.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-03-07",
+        "DATE_FIN": "2009-12-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 18 mars 1994 relatif à l'hygiène    de la production et de la collecte du lait",
+          "@c_titre_court": "Arrêté du 18 mars 1994",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000531579"
+        },
+        {
+          "#text": "Arrêté du 18 mars 1994 relatif à l'hygiène de la production et de la collecte du lait",
+          "@c_titre_court": "Arrêté du 18 mars 1994",
+          "@debut": "1994-04-19",
+          "@fin": "2009-12-30",
+          "@id_txt": "LEGITEXT000005615646"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre III : Hygiène de la traite, de l'entreposage et de la collecte du lait.",
+            "@debut": "1994-04-19",
+            "@fin": "2009-12-30",
+            "@id": "LEGISCTA000006098888"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000531579",
+      "@date_publi": "1994-04-19",
+      "@date_signature": "1994-03-18",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "ARRETE",
+      "@nor": "AGRG9400574A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-04-19",
+          "@etat": "MODIFIE",
+          "@fin": "1997-03-07",
+          "@id": "LEGIARTI000006607899",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-03-07",
+          "@etat": "ABROGE",
+          "@fin": "2009-12-30",
+          "@id": "LEGIARTI000006607900",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Entreposage du lait :<br/>\n<br/>   Dès après la traite, le lait doit être placé dans un endroit propre et conçu de façon à éviter tout effet néfaste sur sa qualité. Si le lait n'est pas collecté dans les deux heures suivant la fin de la traite, il doit être refroidi à une température égale ou inférieure à 8 °C lorsqu'il est collecté chaque jour et à 6 °C lorsque la collecte n'est pas effectuée chaque jour. Pendant le transport vers les établissements de traitement et/ou de transformation, la température du lait refroidi ne doit pas excéder 10 °C, sauf si du lait a été collecté dans les deux heures suivant la fin de la traite.<br/>\n<br/>   Pour des raisons technologiques liées à la fabrication de certains produits à base de lait, le ministre de l'agriculture, de la pêche et de l'alimentation (direction générale de l'alimentation, sous-direction de l'hygiène alimentaire) peut accorder des dérogations aux températures visées au premier alinéa pour autant que le produit final satisfasse aux critères microbiologiques prévus par l'arrêté du 30 mars 1994 relatif aux critères microbiologiques auxquels doivent satisfaire les laits de consommation et les produits à base de lait lors de leur mise sur le marché.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-03-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1997-02-10 art. 2 JORF 7 mars 1997",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 18 décembre 2009 - art. 10 (V)",
+        "@cidtexte": "JORFTEXT000021533994",
+        "@datesignatexte": "2009-12-18",
+        "@id": "LEGIARTI000021668095",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0927648A",
+        "@num": "10",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

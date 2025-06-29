@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006630720",
+      "ANCIEN_ID": "ADISTXXXXXX012AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/07/LEGIARTI000006630720.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-09-29",
+        "DATE_FIN": "1988-02-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 septembre 1984 relatif au registre du commerce et des sociétés",
+          "@c_titre_court": "Arrêté du 24 septembre 1984",
+          "@debut": "1984-09-29",
+          "@fin": "1988-02-12",
+          "@id_txt": "LEGITEXT000006071833"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Les inscriptions au registre",
+            "@debut": "1984-09-29",
+            "@fin": "1988-02-12",
+            "@id": "LEGISCTA000006100161"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Les inscriptions sur déclaration.",
+              "@debut": "1984-09-29",
+              "@fin": "1988-02-12",
+              "@id": "LEGISCTA000006122988"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071833",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-09-24",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-09-29",
+          "@etat": "ABROGE",
+          "@fin": "1988-02-12",
+          "@id": "LEGIARTI000006630720",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les demandes sont, le cas échéant, accompagnées des pièces justificatives définies dans les tableaux annexés au présent arrêté [*documents joints - formalités*]. <br/>\n    Ces pièces sont conservées au greffe à moins qu'il n'en soit disposé autrement à l'annexe. <br/>\n    La validité des pièces justificatives est appréciée à la date de l'inscription.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-09-24 annexe I, annexe II, annexe III, annexe IV, annexe V et annexe VI",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1988-02-09 art. 37 JORF 12 février 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 84-406 1984-05-30",
+        "@cidtexte": "JORFTEXT000000882403",
+        "@datesignatexte": "1984-05-30",
+        "@id": "JORFTEXT000000882403",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-406",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

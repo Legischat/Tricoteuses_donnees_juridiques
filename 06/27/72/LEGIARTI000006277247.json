@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006277247",
+      "ANCIEN_ID": "ANICWXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/72/LEGIARTI000006277247.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-03-15",
+        "DATE_FIN": "1987-03-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 janvier 1986 fixant le montant des taxes de vérification primitive des instruments de mesure",
+          "@c_titre_court": "Arrêté du 21 janvier 1986",
+          "@debut": "1986-03-15",
+          "@fin": "1987-03-06",
+          "@id_txt": "LEGITEXT000006069380"
+        }
+      ],
+      "@cid": "LEGITEXT000006069380",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-01-21",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-15",
+          "@etat": "ABROGE",
+          "@fin": "1987-03-06",
+          "@id": "LEGIARTI000006277247",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant des taxes de vérification primitive des instruments neufs ou réparés est fixé conformément au tableau annexé au présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-01-21 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1986-12-29 art. 2 JORF 4 février 1987 en vigueur le 6 mars 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 61-854 1961-07-25",
+        "@cidtexte": "JORFTEXT000000313796",
+        "@datesignatexte": "1961-07-25",
+        "@id": "JORFTEXT000000313796",
+        "@naturetexte": "DECRET",
+        "@numtexte": "61-854",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

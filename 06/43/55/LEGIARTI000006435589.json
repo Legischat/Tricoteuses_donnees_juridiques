@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006435589",
+      "ANCIEN_ID": "PEEASXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/55/LEGIARTI000006435589.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1936-08-13",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi  du 28 mars 1882 portant sur l'organisation de l'enseignement primaire.",
+          "@c_titre_court": "Loi du 28 mars 1882",
+          "@debut": "1882-03-29",
+          "@fin": "2000-06-22",
+          "@id_txt": "LEGITEXT000006070887"
+        }
+      ],
+      "@cid": "LEGITEXT000006070887",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1882-03-28",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1936-08-13",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006435589",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'instruction primaire est obligatoire pour les enfants des deux sexes, français et étrangers, âgés de six à quatorze ans révolus ; elle peut être donnée soit dans les établissements d'instruction primaire ou secondaire, soit dans les écoles publiques ou libres, soit dans les familles, par le père de famille lui-même ou par toute personne qu'il aura choisie.<br/>\n<br/>   Un règlement déterminera les moyens d'assurer l'instruction primaire aux enfants sourds-muets et aux aveugles.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de l'éducation - art. L131-2 (M)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006524424",
+        "@naturetexte": "CODE",
+        "@num": "L131-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 1882-03-28 Bull. 29 mars 1882",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n° 2000-549 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583540",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006435990",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "MENX0000033R",
+        "@num": "7",
+        "@numtexte": "2000-549",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

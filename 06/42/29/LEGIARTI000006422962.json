@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006422962",
+      "ANCIEN_ID": "PCHEIXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/29/LEGIARTI000006422962.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1987-05-15",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°87-326 du 13 mai 1987 PORTANT MODIFICATION DU CODE DES POSTES ET TELECOMMUNICATIONS,DE LA REGLEMENTATION ET DES PRIX DU SERVICE DES TELECOMMUNICATIONS DANS LE REGIME INTERIEUR",
+          "@c_titre_court": "Décret n°87-326 du 13 mai 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000700363"
+        },
+        {
+          "#text": "Décret n°87-326 du 13 mai 1987 portant modification du code des postes et télécommunications, de la réglementation et des prix du service des télécommunications dans le régime intérieur",
+          "@c_titre_court": "Décret n°87-326 du 13 mai 1987",
+          "@debut": "1987-05-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006065950"
+        }
+      ],
+      "@cid": "JORFTEXT000000700363",
+      "@date_publi": "1987-05-14",
+      "@date_signature": "1987-05-13",
+      "@nature": "DECRET",
+      "@num": "87-326"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-05-15",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006422962",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les dispositions du présent décret sont applicables à compter du 15 mai 1987, à l'exception des dispositions suivantes de l'article 2, qui entreront en vigueur le 1er novembre 1987 :</p>\n<br/>\n<p>- les chapitres F, G, H et E (sauf les paragraphes E 2021 et E 251) ;</p>\n<br/>\n<p>- les articles B 2 et B 3 ;</p>\n<br/>\n<p>- les paragraphes A 24, A 211, B 105, D 110 et D 6010.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code des postes et télécommunications R56",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°87-326 du 13 mai 1987",
+        "@cidtexte": "JORFTEXT000000700363",
+        "@datesignatexte": "1987-05-13",
+        "@id": "LEGITEXT000006065950",
+        "@naturetexte": "DECRET",
+        "@numtexte": "87-326",
+        "@sens": "cible",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°87-326 du 13 mai 1987 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000700363",
+        "@datesignatexte": "1987-05-13",
+        "@id": "LEGIARTI000006422962",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "87-326",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

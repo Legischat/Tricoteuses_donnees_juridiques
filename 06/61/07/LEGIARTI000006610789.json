@@ -1,0 +1,155 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006610789",
+      "ANCIEN_ID": "RBAXXXXXXXX1X314L06AXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/07/LEGIARTI000006610789.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L314-6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-01-01",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099185"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre III : Conservation et police des bois et forêts en général.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121943"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre Ier : Défrichements.",
+                "@debut": "1979-02-07",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138687"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre IV : Taxe sur les défrichements.",
+                  "@debut": "1979-02-07",
+                  "@fin": "2001-01-01",
+                  "@id": "LEGISCTA000006152823"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "1985-12-05",
+          "@id": "LEGIARTI000006610787",
+          "@num": "L314-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-12-05",
+          "@etat": "MODIFIE",
+          "@fin": "1995-01-01",
+          "@id": "LEGIARTI000006610788",
+          "@num": "L314-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006610789",
+          "@num": "L314-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de la taxe est fixé à :<br/>\n<br/>   - 1,3 franc par mètre carré de surface à défricher lorsque le défrichement a pour objet des opérations de mise en culture ;<br/>\n<br/>   - 4 francs par mètre carré de surface à défricher dans les autres cas.<br/>\n<br/>   Toutefois, le montant de la taxe due par le redevable est au minimun de 5 000 francs, quelle que soit la surface à défricher, lorsque le défrichement a pour objet de permettre la construction d'un bâtiment autre qu'à usage agricole.<br/>\n<br/>   Lorsque le terrain dont le défrichement a été taxé à 1,3 franc par mètre carré ou exempté de taxe change de destination dans un délai de dix ans à compter de l'autorisation, le complément de taxe correspondant à la nouvelle destination est immédiatement exigible.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-113 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°94-1162 du 29 décembre 1994 - art. 30 () JORF 30 décembre 1994 en vigueur le 1er janvier 1995",
+        "@cidtexte": "JORFTEXT000000367398",
+        "@datesignatexte": "1994-12-29",
+        "@id": "LEGIARTI000006319073",
+        "@naturetexte": "LOI",
+        "@nortexte": "BUDX9400125L",
+        "@num": "30",
+        "@numtexte": "94-1162",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi - art. 57 () JORF 31 décembre 1999 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000762233",
+        "@datesignatexte": "1999-12-30",
+        "@id": "LEGIARTI000006320590",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9900112L",
+        "@num": "57",
+        "@numtexte": "99-1172",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006259643",
+      "ANCIEN_ID": "RIIKEXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/25/96/LEGIARTI000006259643.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-01-25",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 décembre 2006 relatif à la réception européenne en ce qui concerne le niveau sonore aux oreilles des conducteurs des tracteurs agricoles ou forestiers à roues",
+          "@c_titre_court": "Arrêté du 29 décembre 2006",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000791592"
+        },
+        {
+          "#text": "Arrêté du 29 décembre 2006 relatif à la réception européenne en ce qui concerne le niveau sonore aux oreilles des conducteurs des tracteurs agricoles ou forestiers à roues.",
+          "@c_titre_court": "Arrêté du 29 décembre 2006",
+          "@debut": "2007-01-25",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000006055322"
+        }
+      ],
+      "@cid": "JORFTEXT000000791592",
+      "@date_publi": "2007-01-25",
+      "@date_signature": "2006-12-29",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "ARRETE",
+      "@nor": "AGRF0700172A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2007-01-25",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006259643",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002255374",
+          "@num": "6",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 16 janvier 2001 susvisé est abrogé à compter du 1er juillet 2007. Toutefois, les tracteurs appartenant à un type qui bénéficie d'une réception CE partielle conformément à cet arrêté peuvent être mis sur le marché à l'état neuf jusqu'au 1er juillet 2009.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2001-01-16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 30 décembre 2009 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000021574084",
+        "@datesignatexte": "2009-12-30",
+        "@id": "LEGIARTI000021679596",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVE0929538A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

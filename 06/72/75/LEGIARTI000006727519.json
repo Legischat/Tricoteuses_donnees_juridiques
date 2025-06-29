@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006727519",
+      "ANCIEN_ID": "SQI53XXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/75/LEGIARTI000006727519.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1999-04-24",
+        "DATE_FIN": "1999-04-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 avril 1999 relatif aux gardes des internes, des résidents en médecine et des étudiants désignés pour occuper provisoirement un poste d'interne",
+          "@c_titre_court": "Arrêté du 23 avril 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000395081"
+        },
+        {
+          "#text": "Arrêté du 23 avril 1999 relatif aux gardes des internes, des résidents en médecine et des étudiants désignés pour occuper provisoirement un poste d'interne",
+          "@c_titre_court": "Arrêté du 23 avril 1999",
+          "@debut": "1999-04-24",
+          "@fin": "1999-04-25",
+          "@id_txt": "LEGITEXT000005627845"
+        }
+      ],
+      "@cid": "JORFTEXT000000395081",
+      "@date_publi": "1999-04-24",
+      "@date_signature": "1999-04-23",
+      "@ministere": "MINISTERE DE L'EMPLOI ET DE LA SOLIDARITE",
+      "@nature": "ARRETE",
+      "@nor": "MESH9921368A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-04-24",
+          "@etat": "ABROGE",
+          "@fin": "1999-04-25",
+          "@id": "LEGIARTI000006727519",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les gardes sont rémunérées sur la base des taux fixés à l'article 3.<br/>\n<br/>   Sous réserve des contraintes de fonctionnement du service, l'interne peut demander, à la place de la rémunération, la récupération en temps des gardes effectuées. Les modalités de récupération sont les suivantes :<br/>\n<br/>   Garde de nuit d'une durée minimum de huit heures : récupération d'une demi-journée ;<br/>\n<br/>   Garde de dimanche ou jour férié : récupération d'une demi-journée.<br/>\n<br/>   Les demi-journées de récupération au titre des gardes peuvent, lorsque le fonctionnement du service le permet, être cumulées, dans la limite de quatre jours par mois ou de douze jours par trimestre.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1999-04-23 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 23 avril 1999, art. 7 v. init.",
+        "@cidtexte": "JORFTEXT000000395081",
+        "@datesignatexte": "1999-04-23",
+        "@id": "JORFTEXT000000395081",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "MESH9921368A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006875868",
+      "ANCIEN_ID": "URAXXXXXXXX2X201R00AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/58/LEGIARTI000006875868.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R201",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1958-12-16",
+        "DATE_FIN": "2000-12-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la route (ancien)",
+          "@c_titre_court": "Code de la route",
+          "@debut": "1954-07-10",
+          "@fin": "2001-06-01",
+          "@id_txt": "LEGITEXT000006074947"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire - Décrets en Conseil d'Etat",
+            "@debut": "1954-07-10",
+            "@fin": "2001-06-01",
+            "@id": "LEGISCTA000006111306"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LIVRE Ier : CONDITIONS DE LA CIRCULATION.",
+              "@debut": "1954-07-10",
+              "@fin": "2001-06-01",
+              "@id": "LEGISCTA000006131033"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "TITRE VI : DISPOSITIONS SPÉCIALES APPLICABLES AUX VÉHICULES À TRACTION ANIMALE ET AUX VOITURES À BRAS",
+                "@debut": "1958-12-16",
+                "@fin": "2001-06-01",
+                "@id": "LEGISCTA000006144816"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "PARAGRAPHE Ier : NOMBRE D'ANIMAUX D'UN ATTELAGE.",
+                  "@debut": "1958-12-16",
+                  "@fin": "2001-06-01",
+                  "@id": "LEGISCTA000006160245"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074947",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-12-16",
+          "@etat": "MODIFIE",
+          "@fin": "2000-12-23",
+          "@id": "LEGIARTI000006875868",
+          "@num": "R201",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-12-23",
+          "@etat": "ABROGE",
+          "@fin": "2001-06-01",
+          "@id": "LEGIARTI000006875869",
+          "@num": "R201",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sauf dans les cas prévus aux articles R. 48, R. 51 et R. 204 du présent code, il ne peut être attelé :<br/>\n<br/>   1° Aux véhicules servant au transport des marchandises, plus de cinq chevaux ou bêtes de trait s'il s'agit de véhicule à deux roues, plus de six boeufs ou de huit chevaux ou autres bêtes de trait s'il s'agit de véhicules à quatre roues sans que, dans ce dernier cas, il puisse y avoir plus de cinq animaux en enfilade ;<br/>\n<br/>   2° Aux véhicules servant au transport de personnes, plus de trois chevaux s'il s'agit de véhicules à deux roues, plus de six s'il s'agit de véhicules à quatre roues.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 58-1217 1958-12-15 JORF 16 décembre 1958",
+        "@cidtexte": "JORFTEXT000000670475",
+        "@datesignatexte": "1958-12-15",
+        "@id": "JORFTEXT000000670475",
+        "@naturetexte": "DECRET",
+        "@numtexte": "58-1217",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code de la route R48, R51, R204",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006207382",
+      "ANCIEN_ID": "PUHQRXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/73/LEGIARTI000006207382.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2002-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2002-42 du 8 janvier 2002 relatif aux astreintes dans les services et établissements relevant du ministère de la jeunesse et des sports",
+          "@c_titre_court": "Décret n°2002-42 du 8 janvier 2002",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000592501"
+        },
+        {
+          "#text": "Décret n°2002-42 du 8 janvier 2002 relatif aux astreintes dans les services et établissements relevant du ministère de la jeunesse et des sports.",
+          "@c_titre_court": "Décret n°2002-42 du 8 janvier 2002",
+          "@debut": "2002-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005632085"
+        }
+      ],
+      "@cid": "JORFTEXT000000592501",
+      "@date_publi": "2002-01-10",
+      "@date_signature": "2002-01-08",
+      "@ministere": "MINISTERE DE LA JEUNESSE ET DES SPORTS",
+      "@nature": "DECRET",
+      "@nor": "MJSK0170207D",
+      "@num": "2002-42"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006207382",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001847624",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les personnels appelés à participer à un service d'astreinte au sens de l'article 5 du décret du 25 août 2000 susvisé ont droit à une compensation soit en temps, soit sous la forme d'une indemnisation, à l'exception de ceux bénéficiant de la nouvelle bonification indiciaire prévue en faveur des personnels exerçant des fonctions de responsabilité supérieure.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2000-815 du 25 août 2000 - art. 5 (M)",
+        "@cidtexte": "JORFTEXT000000208382",
+        "@datesignatexte": "2000-08-25",
+        "@id": "LEGIARTI000006566088",
+        "@naturetexte": "DECRET",
+        "@nortexte": "FPPA0000085D",
+        "@num": "5",
+        "@numtexte": "2000-815",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2002-42 du 8 janvier 2002 - art. 1, v. init.",
+        "@cidtexte": "JORFTEXT000000592501",
+        "@datesignatexte": "2002-01-08",
+        "@id": "JORFARTI000002442927",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MJSK0170207D",
+        "@num": "1",
+        "@numtexte": "2002-42",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

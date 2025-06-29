@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006608081",
+      "ANCIEN_ID": "RAIGRXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/80/LEGIARTI000006608081.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-03-05",
+        "DATE_FIN": "2006-09-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 août 1986 relatif aux conditions de délivrance et d'emploi en agriculture de la fluméquine",
+          "@c_titre_court": "Arrêté du 22 août 1986",
+          "@debut": "1986-09-09",
+          "@fin": "2006-09-22",
+          "@id_txt": "LEGITEXT000006071468"
+        }
+      ],
+      "@cid": "LEGITEXT000006071468",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-08-22",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-09-09",
+          "@etat": "MODIFIE",
+          "@fin": "1988-03-05",
+          "@id": "LEGIARTI000006608080",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-03-05",
+          "@etat": "ABROGE",
+          "@fin": "2006-09-22",
+          "@id": "LEGIARTI000006608081",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>    L'emploi de la fluméquine n'est autorisé que pour lutter contre le feu bactérien (Erwinia amylovora) sur les pommiers et poiriers et en pépinières de plantes ornementales et contre le dépérissement bactérien du pêcher (Pseudomonas persicae), conformément aux décisions d'homologation.<br/>\n<br/>   Le délai entre le dernier traitement et la récolte est fixé à deux semaines pour les pommiers et les poiriers.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-02-29 art. 2 JORF 5 mars 1988",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 12 septembre 2006 - art. 16 (V)",
+        "@cidtexte": "JORFTEXT000000425570",
+        "@datesignatexte": "2006-09-12",
+        "@id": "LEGIARTI000025585486",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0601345A",
+        "@num": "16",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1943-11-02",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006600762",
+      "ANCIEN_ID": "RAEAVXXXXXX029AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/07/LEGIARTI000006600762.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "29",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-07-05",
+        "DATE_FIN": "1996-03-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°80-502 du 4 juillet 1980 D'ORIENTATION AGRICOLE",
+          "@c_titre_court": "Loi n°80-502 du 4 juillet 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705202"
+        },
+        {
+          "#text": "Loi n° 80-502 du 4 juillet 1980 d'orientation agricole",
+          "@c_titre_court": "Loi n° 80-502 du 4 juillet 1980",
+          "@debut": "1980-07-05",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068690"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Dispositions foncières",
+            "@debut": "1980-07-05",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098403"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000705202",
+      "@date_publi": "1980-07-05",
+      "@date_signature": "1980-07-04",
+      "@nature": "LOI",
+      "@num": "80-502"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-05",
+          "@etat": "ABROGE",
+          "@fin": "1996-03-17",
+          "@id": "LEGIARTI000006600762",
+          "@num": "29",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque le prix de cession des terres est manifestement exagéré au regard de la valeur vénale constatée comme il est dit aux articles 25 et 26 ci-dessus, pour des terres du même ordre, éventuellement affectée d'un coefficient de majoration fixé par décret, il ne peut être accordé de prêt bonifié pour l'acquisition desdites terres.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural R345-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 80-502 1980-07-04 art. 25, art. 26",
+        "@cidtexte": "JORFTEXT000000705202",
+        "@datesignatexte": "1980-07-04",
+        "@id": "JORFTEXT000000705202",
+        "@naturetexte": "LOI",
+        "@numtexte": "80-502",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°80-502 du 4 juillet 1980 - art. 26 (Ab)",
+        "@cidtexte": "JORFTEXT000000705202",
+        "@datesignatexte": "1980-07-04",
+        "@id": "LEGIARTI000006600759",
+        "@naturetexte": "LOI",
+        "@num": "26",
+        "@numtexte": "80-502",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°96-205 du 15 mars 1996 - art. 3 (V) JORF 17 mars 1996",
+        "@cidtexte": "JORFTEXT000000558907",
+        "@datesignatexte": "1996-03-15",
+        "@id": "LEGIARTI000006605013",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD9502507D",
+        "@num": "3",
+        "@numtexte": "96-205",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

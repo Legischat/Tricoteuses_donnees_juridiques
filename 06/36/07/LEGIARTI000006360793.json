@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006360793",
+      "ANCIEN_ID": "MFIBBXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/07/LEGIARTI000006360793.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-01-17",
+        "DATE_FIN": "1987-02-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 décembre 1985 pris pour l'application de l'article 95 de la loi n° 83-8 du 7 janvier 1983 modifiée, relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.",
+          "@c_titre_court": "Arrêté du 31 décembre 1985",
+          "@debut": "1986-01-17",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070294"
+        }
+      ],
+      "@cid": "LEGITEXT000006070294",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-12-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-17",
+          "@etat": "MODIFIE",
+          "@fin": "1987-02-19",
+          "@id": "LEGIARTI000006360793",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-02-19",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006360794",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le montant des ajustements mentionnés à l'article 1er ci-dessus est le suivant [*compensation de la perte de produit fiscal consécutive au transfert de compétences*] :<br/>\n    Alpes-Maritimes : 59.614.873 F.<br/>\n    Savoie : 7.442.059 F.<br/>\n    Haute-Savoie : 56.234.374 F.<br/>\n    Paris : 343.010.211 F.<br/>\n    Var : 3.972.812 F.<br/>\n    Hauts-de-Seine : 28.802.776 F.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-12-31 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 83-8 1983-01-07 art. 95",
+        "@cidtexte": "JORFTEXT000000320197",
+        "@datesignatexte": "1983-01-07",
+        "@id": "JORFTEXT000000320197",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-8",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

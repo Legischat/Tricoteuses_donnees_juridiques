@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006840926",
+      "ANCIEN_ID": "UFAXXXXXXXX1X212L05AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/09/LEGIARTI000006840926.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L212-5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2001-06-01",
+        "DATE_FIN": "2009-03-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la route",
+          "@c_titre_court": "Code de la route.",
+          "@debut": "2001-05-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074228"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "2001-06-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108686"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre 2 : Le conducteur",
+              "@debut": "2001-06-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006129084"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre 1er : Enseignement de la conduite et de la sécurité routière",
+                "@debut": "2001-06-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006143836"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre 2 : Enseignement à titre onéreux.",
+                  "@debut": "2001-06-01",
+                  "@fin": "2009-03-07",
+                  "@id": "LEGISCTA000006159512"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074228",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-06-01",
+          "@etat": "MODIFIE",
+          "@fin": "2009-03-07",
+          "@id": "LEGIARTI000006840926",
+          "@num": "L212-5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2009-03-07",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006840927",
+          "@num": "L212-5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un décret en Conseil d'Etat détermine les conditions d'application du présent chapitre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-930 2000-09-22 JORF 24 septembre 2000",
+        "@cidtexte": "JORFTEXT000000218883",
+        "@datesignatexte": "2000-09-22",
+        "@id": "JORFTEXT000000218883",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "EQUX0000053R",
+        "@numtexte": "2000-930",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 2003-495 2003-06-12 art. 38 JORF 13 juin 2003",
+        "@cidtexte": "JORFTEXT000000603464",
+        "@datesignatexte": "2003-06-12",
+        "@id": "JORFTEXT000000603464",
+        "@naturetexte": "LOI",
+        "@nortexte": "EQUX0200012L",
+        "@numtexte": "2003-495",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code de la route - art. L29-4 (Ab)",
+        "@cidtexte": "LEGITEXT000006074947",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006875345",
+        "@naturetexte": "CODE",
+        "@num": "L29-4",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code de la route L29-4",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

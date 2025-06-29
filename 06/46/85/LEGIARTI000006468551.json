@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006468551",
+      "ANCIEN_ID": "ACEBGXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/85/LEGIARTI000006468551.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-01-19",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°51-59 du 18 janvier 1951 NANTISSEMENT DE L'OUTILLAGE ET MATERIEL D'EQUIPEMENT PROFESSIONNEL",
+          "@c_titre_court": "Loi n°51-59 du 18 janvier 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886643"
+        },
+        {
+          "#text": "Loi n°51-59 du 18 janvier 1951 relative au nantissement de l'outillage et du matériel d'équipement",
+          "@c_titre_court": "Loi n°51-59 du 18 janvier 1951",
+          "@debut": "1951-01-19",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006068096"
+        }
+      ],
+      "@cid": "JORFTEXT000000886643",
+      "@date_publi": "1951-01-19",
+      "@date_signature": "1951-01-18",
+      "@nature": "LOI",
+      "@num": "51-59"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-19",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006468551",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'inscription conserve le privilège pendant cinq années à compter de sa régularisation définitive.<br/>\n<br/>   Elle garantit, en même temps que le principal, deux années d'intérêts. Elle cesse d'avoir effet si elle n'a pas été renouvelée avant l'expiration du délai ci-dessus ; elle peut être renouvelée deux fois.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 51-59 1951-01-18 art. 23 *champ d'application aux DOM -TOM*",
+        "@cidtexte": "JORFTEXT000000886643",
+        "@datesignatexte": "1951-01-18",
+        "@id": "JORFTEXT000000886643",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-59",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L525-11 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234824",
+        "@naturetexte": "CODE",
+        "@num": "L525-11",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006820883",
+      "ANCIEN_ID": "UBEAIXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/08/LEGIARTI000006820883.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1957-03-29",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 6 juillet 1943 EXECUTION DES TRAVAUX GEODESIQUES ET CADASTRAUX",
+          "@c_titre_court": "Loi du 6 juillet 1943",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518219"
+        },
+        {
+          "#text": "Loi n° 43-374 du 6 juillet 1943 relative à l'exécution des travaux géodésiques et cadastraux et à la conservation des signaux, bornes et repères",
+          "@c_titre_court": "Loi n° 43-374 du 6 juillet 1943",
+          "@debut": "1943-07-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074083"
+        }
+      ],
+      "@cid": "JORFTEXT000000518219",
+      "@date_publi": "1943-07-15",
+      "@date_signature": "1943-07-06",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1957-03-29",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006820883",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Tout dommage causé aux propriétés, champs et récoltes par les travaux désignés à l'article précédent est réglé à défaut d'accord amiable entre l'intéressé et l'Administration, par le tribunal administratif    dans les formes indiquées par la loi du 22 juillet 1889.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1889-07-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 57-391 1957-03-28 art. 1 JORF 29 mars 1957",
+        "@cidtexte": "JORFTEXT000000878009",
+        "@datesignatexte": "1957-03-28",
+        "@id": "JORFTEXT000000878009",
+        "@naturetexte": "LOI",
+        "@numtexte": "57-391",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "loi 1943-07-06 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

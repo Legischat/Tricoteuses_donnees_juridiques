@@ -1,0 +1,164 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006429836",
+      "ANCIEN_ID": "PCILDXXXXXXB05AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/98/LEGIARTI000006429836.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-03-20",
+        "DATE_FIN": "1995-02-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 février 1990 portant modification de l'arrêté du 6 mai 1988    fixant la norme de diffusion du système français de radiodiffusion par    satellite",
+          "@c_titre_court": "Arrêté du 28 février 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000349334"
+        },
+        {
+          "#text": "Arrêté du 28 février 1990 portant modification de l'arrêté du 6 mai 1988 fixant la norme de diffusion du système français de radiodiffusion par satellite",
+          "@c_titre_court": "Arrêté du 28 février 1990",
+          "@debut": "1990-03-20",
+          "@fin": "1995-02-15",
+          "@id_txt": "LEGITEXT000006075559"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1990-03-20",
+            "@fin": "1995-02-15",
+            "@id": "LEGISCTA000006090228"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "ANNEXE II : COMPORTEMENT DU RÉCEPTEUR DE RÉFÉRENCE.",
+              "@debut": "1990-03-20",
+              "@fin": "1995-02-15",
+              "@id": "LEGISCTA000006117909"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000349334",
+      "@date_publi": "1990-03-20",
+      "@date_signature": "1990-02-28",
+      "@ministere": "MINISTERE DE L'INDUSTRIE ET DE L'AMENAGEMENT DU TERRITOIRE",
+      "@nature": "ARRETE",
+      "@nor": "INDD9000113A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1995-02-15",
+          "@id": "LEGIARTI000006429831",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1995-02-15",
+          "@id": "LEGIARTI000006429832",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1995-02-15",
+          "@id": "LEGIARTI000006429833",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1995-02-15",
+          "@id": "LEGIARTI000006429837",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1995-02-15",
+          "@id": "LEGIARTI000006429835",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1995-02-15",
+          "@id": "LEGIARTI000006429836",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-03-20",
+          "@etat": "ABROGE",
+          "@fin": "1995-02-15",
+          "@id": "LEGIARTI000006429834",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "4. Sélection des messages de gestion des accès<br/>\n<br/>      Simultanément aux messages ECM, le récepteur de référence peut recevoir des messages sur une seule voie EMM dont l'adresse paquet (fournie par la voie d'identification des services) correspond au service d'adressage sur antenne du canal ainsi qu'au système de contrôle d'accès qu'il utilise (adapté à la valeur 40 du code CA de la voie d'identification des services).<br/>\n<br/>   Sur cette adresse, le récepteur de référence peut acquérir tous les messages EMM satisfaisant les critères de sélection suivants :<br/>\n<br/>   EMM-G : variation de l'état du toggle bit ;<br/>\n<br/>   EMM-C : reconnaissance de l'adresse collective C.C.A. ;<br/>\n<br/>   EMM-S : reconnaissance de l'adresse partagée S.A. ;<br/>\n<br/>   EMM-U : reconnaissance de l'adresse unique U.A.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-05-06",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté 1995-01-06 art. 5 JORF 15 fevrier 1995",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

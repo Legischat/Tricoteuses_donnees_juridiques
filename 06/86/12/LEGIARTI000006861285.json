@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861285",
+      "ANCIEN_ID": "UPIFNXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/12/LEGIARTI000006861285.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-10-25",
+        "DATE_FIN": "1984-07-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 octobre 1977 relatif aux contrôles des émissions de gaz polluants des moteurs à essence effectués sur les véhicules automobiles avant leur mise en circulation",
+          "@c_titre_court": "Arrêté du 4 octobre 1977",
+          "@debut": "1977-10-25",
+          "@fin": "1984-08-17",
+          "@id_txt": "LEGITEXT000006074463"
+        }
+      ],
+      "@cid": "LEGITEXT000006074463",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-10-04",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-10-25",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-17",
+          "@id": "LEGIARTI000006861285",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le procès-verbal prévu à l'article 3 [*émanant d'un laboratoire agréé*] ci-dessus peut être remplacé :<br/>\n<br/>   Soit par une communication émanant de l'administration compétente d'un Etat adhérant au règlement n° 15 annexé à l'accord de 1958 concernant l'adoption de conditions uniformes d'homologation et la reconnaissance réciproque de l'homologation des équipements et pièces de véhicules à moteur et conforme à l'annexe II de ce règlement ;<br/>\n<br/>   Soit, en application de la directive du conseil des ministres des communautés européennes n° 70/220/C.E.E. du 20 mars 1970 susvisée, par une communication conforme au modèle figurant à l'annexe VII de la directive.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "ACCORD 1958-03-20 Genève REGLEMENT 15 1970-08-01 annexé",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1984-07-17 art. 6 JONC 17 août 1984",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la route 71",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "DIRECTIVE CEE 220 1970-03-20 Conseil modifiée",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "DIRECTIVE CEE 220 Conseil 1970-03-20 ANNEXE 7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

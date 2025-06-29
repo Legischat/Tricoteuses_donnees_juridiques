@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006626473",
+      "ANCIEN_ID": "RHIBYXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/64/LEGIARTI000006626473.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-11-10",
+        "DATE_FIN": "2015-04-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 18 juillet 1990 relatif à l'obligation de déclarations statistiques    en matière de produits de la pêche maritime",
+          "@c_titre_court": "Arrêté du 18 juillet 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000715894"
+        },
+        {
+          "#text": "Arrêté du 18 juillet 1990 relatif à l'obligation de déclarations statistiques en matière de produits de la pêche maritime",
+          "@c_titre_court": "Arrêté du 18 juillet 1990",
+          "@debut": "1990-09-25",
+          "@fin": "2015-04-05",
+          "@id_txt": "LEGITEXT000006076535"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Dispositions générales.",
+            "@debut": "1990-09-25",
+            "@fin": "2015-04-05",
+            "@id": "LEGISCTA000006099888"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000715894",
+      "@date_publi": "1990-09-25",
+      "@date_signature": "1990-07-18",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "ARRETE",
+      "@nor": "MERP9000132A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-09-25",
+          "@etat": "MODIFIE",
+          "@fin": "2005-11-10",
+          "@id": "LEGIARTI000006626472",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-11-10",
+          "@etat": "ABROGE",
+          "@fin": "2015-04-05",
+          "@id": "LEGIARTI000006626473",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les capitaines et patrons des navires de pêche d'une longueur hors tout inférieure à 10 mètres sont soumis à l'obligation de tenue et de remise de la fiche de pêche, dont le modèle est joint à l'annexe 2 du présent arrêté. Elle est transmise au directeur départemental des affaires maritimes ou chef du service des affaires maritimes du port principal d'exploitation au plus tard le 5 de chaque mois.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "ARRÊTÉ du 18 mars 2015 - art. 9",
+        "@cidtexte": "JORFTEXT000030439321",
+        "@datesignatexte": "2015-03-18",
+        "@id": "LEGIARTI000030441223",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVM1426924A",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Arrêté 1990-07-18 annexe 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2005-11-02 art. 9 JORF 10 novembre 2005",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

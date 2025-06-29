@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006511981",
+      "ANCIEN_ID": "ADECXXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/19/LEGIARTI000006511981.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1950-08-23",
+        "DATE_FIN": "1993-07-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°50-1013 du 22 août 1950 ATION DE L'EMPLOI DE CERTAINS PRODUITS D'ORIGINE VEGETALE DANS LES BOISSONS NON ALCOOLIQUES,EN VUE DE PROTEGER LA SANTE PUBLIQUE",
+          "@c_titre_court": "Loi n°50-1013 du 22 août 1950",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000314450"
+        },
+        {
+          "#text": "Loi n° 50-1013 du 22 août 1950 portant réglementation de l'emploi de certains produits d'origine végétale dans les boissons non alcooliques, en vue de protéger la santé publique",
+          "@c_titre_court": "Loi n° 50-1013 du 22 août 1950",
+          "@debut": "1950-08-23",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068071"
+        }
+      ],
+      "@cid": "JORFTEXT000000314450",
+      "@date_publi": "1950-08-25",
+      "@date_signature": "1950-08-22",
+      "@nature": "LOI",
+      "@num": "50-1013"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-08-23",
+          "@etat": "MODIFIE",
+          "@fin": "1993-07-27",
+          "@id": "LEGIARTI000006511981",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-07-27",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006511982",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des décrets pris par le ministre de la santé publique et de la population, après avis du conseil supérieur d'hygiène publique de France et de l'académie nationale de médecine, détermineront les conditions d'application de la présente loi. Ils établiront la liste des substances visées à l'article 1er, les conditions de leur emploi et leur teneur maximum en produits actifs.<br/>\n<br/>   Il ne pourra être en rien dérogé par ces textes aux dispositions établies par les décrets pris en application de l'article 11 de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°50-1013 du 22 août 1950 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000314450",
+        "@datesignatexte": "1950-08-22",
+        "@id": "LEGIARTI000006511971",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "50-1013",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L142 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692353",
+        "@naturetexte": "CODE",
+        "@num": "L142",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi 1905-08-01 art. 11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

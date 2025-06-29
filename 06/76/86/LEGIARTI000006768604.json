@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006768604",
+      "ANCIEN_ID": "SSHARIXXXXX003AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/86/LEGIARTI000006768604.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-06-05",
+        "DATE_FIN": "1991-10-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-570 du 4 juin 1985 RELATIF A L'EXONERATION PARTIELLE DES COTISATIONS DUES AU REGIME DE PROTECTION SOCIALE DES PERSONNES NON SALARIEES AGRICOLES PAR LES JEUNES AGRICULTEURS",
+          "@c_titre_court": "Décret n°85-570 du 4 juin 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000333590"
+        },
+        {
+          "#text": "Décret n°85-570 du 4 juin 1985 relatif à l'exonération partielle des cotisations dues au régime de protection sociale des personnes non-salariées agricoles par les jeunes agriculteurs.",
+          "@c_titre_court": "Décret n°85-570 du 4 juin 1985",
+          "@debut": "1985-06-05",
+          "@fin": "2000-10-19",
+          "@id_txt": "LEGITEXT000006065035"
+        }
+      ],
+      "@cid": "JORFTEXT000000333590",
+      "@date_publi": "1985-06-05",
+      "@date_signature": "1985-06-04",
+      "@nature": "DECRET",
+      "@num": "85-570"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-06-05",
+          "@etat": "MODIFIE",
+          "@fin": "1991-10-18",
+          "@id": "LEGIARTI000006768604",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-10-18",
+          "@etat": "ABROGE",
+          "@fin": "2000-10-19",
+          "@id": "LEGIARTI000006768605",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions susvisées sont applicables [*champ d'application*] aux jeunes agriculteurs affiliés au régime de protection sociale des personnes non-salariées agricoles après le 1er janvier 1984 [*point de départ*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-570 1985-06-04 art. 6 :",
+        "@cidtexte": "JORFTEXT000000333590",
+        "@datesignatexte": "1985-06-04",
+        "@id": "JORFTEXT000000333590",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-570",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°85-570 du 4 juin 1985 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000333590",
+        "@datesignatexte": "1985-06-04",
+        "@id": "LEGIARTI000006768601",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "85-570",
+        "@sens": "cible",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Pour l'application des dispositions du présent décret aux jeunes agriculteurs s'installant dans les départements d'outre-mer, l'importance de l'exploitation doit être supérieure à 6 hectares pondérés et ne pas excéder 60 hectares pondérés",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

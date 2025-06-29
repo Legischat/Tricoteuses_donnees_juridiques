@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006271872",
+      "ANCIEN_ID": "ANHBAXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/18/LEGIARTI000006271872.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1926-04-22",
+        "DATE_FIN": "2016-07-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 2 avril 1926 portant règlement sur les appareils à pression de vapeur autres que ceux placés à bord des bateaux",
+          "@c_titre_court": "Décret du 2 avril 1926",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000300042"
+        },
+        {
+          "#text": "Décret du 2 avril 1926 portant règlement sur les appareils à vapeur autres que ceux placés à bord des bateaux",
+          "@c_titre_court": "Décret du 2 avril 1926",
+          "@debut": "1926-04-22",
+          "@fin": "2016-07-19",
+          "@id_txt": "LEGITEXT000006062479"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Mesures de sûreté relatives aux générateurs placés à demeure.",
+            "@debut": "1926-04-22",
+            "@fin": "2016-07-19",
+            "@id": "LEGISCTA000006083322"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000300042",
+      "@date_publi": "1926-04-22",
+      "@date_signature": "1926-04-02",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-04-22",
+          "@etat": "ABROGE",
+          "@fin": "2016-07-19",
+          "@id": "LEGIARTI000006271872",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les chaudières munies de systèmes spéciaux de chauffage susceptibles de produire des températures exceptionnellement élevées, des mesures doivent être prises pour garantir les tôles contre la surchauffe.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret du 2 avril 1926 - art. 1-2 (Ab)",
+        "@cidtexte": "JORFTEXT000000300042",
+        "@datesignatexte": "1926-04-02",
+        "@id": "LEGIARTI000006271834",
+        "@naturetexte": "DECRET",
+        "@num": "1-2",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "DÉCRET n°2015-799 du 1er juillet 2015 - art. 5",
+        "@cidtexte": "JORFTEXT000030829769",
+        "@datesignatexte": "2015-07-01",
+        "@id": "LEGIARTI000030831128",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVP1422804D",
+        "@num": "5",
+        "@numtexte": "2015-799",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

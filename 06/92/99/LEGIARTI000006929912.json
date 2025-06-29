@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006929912",
+      "ANCIEN_ID": "PJIBMXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/99/LEGIARTI000006929912.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-06-01",
+        "DATE_FIN": "2019-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 mars 1993 pris pour l'exécution de l'article R. 97 du code de procédure pénale relatif aux frais de translation des personnes",
+          "@c_titre_court": "Arrêté du 22 mars 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000361810"
+        },
+        {
+          "#text": "Arrêté du 22 mars 1993 pris pour l'exécution de l'article R. 97 du code de procédure pénale relatif aux frais de translation des personnes",
+          "@c_titre_court": "Arrêté du 22 mars 1993",
+          "@debut": "1993-06-01",
+          "@fin": "2019-01-01",
+          "@id_txt": "LEGITEXT000006081750"
+        }
+      ],
+      "@cid": "JORFTEXT000000361810",
+      "@date_publi": "1993-03-28",
+      "@date_signature": "1993-03-22",
+      "@nature": "ARRETE",
+      "@nor": "JUSG9360032A",
+      "@num_parution_jo": "74"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-06-01",
+          "@etat": "ABROGE",
+          "@fin": "2019-01-01",
+          "@id": "LEGIARTI000006929912",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001769715",
+          "@num": "1",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'indemnité kilométrique mentionnée à l'article R. 97 du code de procédure pénale est fixée à 1,15 F.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 6 décembre 2018 - art. 3",
+        "@cidtexte": "JORFTEXT000037814724",
+        "@datesignatexte": "2018-12-06",
+        "@id": "LEGIARTI000037817282",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSB1831650A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de procédure pénale - art. R97",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006517970",
+        "@naturetexte": "CODE",
+        "@num": "R97",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006290743",
+      "ANCIEN_ID": "AAEAUXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/07/LEGIARTI000006290743.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-04-25",
+        "DATE_FIN": "1986-07-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°79-12 du 3 janvier 1979 RELATIVE AUX SOCIETES D'INVESTISSEMENT A CAPITAL VARIABLE (SICAV)",
+          "@c_titre_court": "Loi n°79-12 du 3 janvier 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339250"
+        },
+        {
+          "#text": "Loi n° 79-12 du 3 janvier 1979 relative aux sociétés d'investissement à capital variable",
+          "@c_titre_court": "Loi n° 79-12 du 3 janvier 1979",
+          "@debut": "1979-01-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068659"
+        }
+      ],
+      "@cid": "JORFTEXT000000339250",
+      "@date_publi": "1979-01-04",
+      "@date_signature": "1979-01-03",
+      "@nature": "LOI",
+      "@num": "79-12"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-04-25",
+          "@etat": "MODIFIE",
+          "@fin": "1986-07-12",
+          "@id": "LEGIARTI000006290743",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-07-12",
+          "@etat": "ABROGE",
+          "@fin": "1988-12-31",
+          "@id": "LEGIARTI000006290744",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Ceux des actionnaires d'une société dont l'assemblée générale extraordinaire a décidé l'une des opérations prévues à l'article 16 et qui, compte tenu de la parité d'échange, n'auraient pas droit à un nombre entier d'actions, pourront soit obtenir le remboursement du rompu, soit verser en espèces le complément nécessaire à l'attribution d'une action entière. Ces remboursements ou versements seront effectués dans les conditions fixées à l'article 7 ; toutefois, ils ne seront ni diminués ni majorés, suivant le cas, de frais et commissions visés au premier alinéa de cet article.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°79-12 du 3 janvier 1979 - art. 16, v. init.",
+        "@cidtexte": "JORFTEXT000000339250",
+        "@datesignatexte": "1979-01-03",
+        "@id": "JORFARTI000001118223",
+        "@naturetexte": "LOI",
+        "@num": "16",
+        "@numtexte": "79-12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°79-12 du 3 janvier 1979 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000339250",
+        "@datesignatexte": "1979-01-03",
+        "@id": "LEGIARTI000006290611",
+        "@naturetexte": "LOI",
+        "@num": "7",
+        "@numtexte": "79-12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

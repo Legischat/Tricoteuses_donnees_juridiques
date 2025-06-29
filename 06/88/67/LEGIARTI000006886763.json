@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006886763",
+      "ANCIEN_ID": "UTIAJXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/67/LEGIARTI000006886763.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1987-01-17",
+        "DATE_FIN": "1989-08-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 décembre 1986 relatif aux conditions d'homologation et d'utilisation d'un aérodrome pour l'exécution de procédures d'approche de précision",
+          "@c_titre_court": "Arrêté du 22 décembre 1986",
+          "@debut": "1987-01-17",
+          "@fin": "1991-04-17",
+          "@id_txt": "LEGITEXT000006075008"
+        }
+      ],
+      "@cid": "LEGITEXT000006075008",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-12-22",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-17",
+          "@etat": "MODIFIE",
+          "@fin": "1989-08-11",
+          "@id": "LEGIARTI000006886763",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-08-18",
+          "@etat": "ABROGE",
+          "@fin": "1991-04-17",
+          "@id": "LEGIARTI000006886764",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les procédures d'approche de précision [*définition*] sont des procédures d'approche aux instruments directes qui utilisent des informations d'azimut, de plan de descente et de distance.<br/>\n<br/>   Elles sont classées en trois catégories, compte tenu notamment de la hauteur de décision associée :<br/>\n<br/>   60 mètres (200 pieds) minimum en catégorie I ;<br/>\n<br/>   30 mètres (100 pieds) minimum et inférieure à 60 mètres (200 pieds) en catégorie II ;<br/>\n<br/>   Inférieure à 30 mètres (100 pieds) en catégorie III.<br/>\n<br/>   Note. - Ces définitions ne s'appliquent pas à la détermination et à l'utilisation des minimums opérationnels, qui font l'objet d'une réglementation particulière.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-12-22 art. 6",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code de l'aviation civile D131-1 à D131-10",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074234",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

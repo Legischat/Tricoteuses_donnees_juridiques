@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006785654",
+      "ANCIEN_ID": "SSIAVWXXXXX002AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/56/LEGIARTI000006785654.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-09-01",
+        "DATE_FIN": "1988-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 juillet 1977 abrogeant les dispositions d'un précédent arrêté relatif aux modalités de versement par les organismes conventionnés des cotisations dues au titre du régime d'assurance maladie et maternité institué par la loi n° 66-509 du 12 juillet 1966",
+          "@c_titre_court": "Arrêté du 26 juillet 1977",
+          "@debut": "1977-07-01",
+          "@fin": "1988-01-01",
+          "@id_txt": "LEGITEXT000006073979"
+        }
+      ],
+      "@cid": "LEGITEXT000006073979",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-07-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-07-01",
+          "@etat": "MODIFIE",
+          "@fin": "1986-09-01",
+          "@id": "LEGIARTI000006785653",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-09-01",
+          "@etat": "ABROGE",
+          "@fin": "1988-01-01",
+          "@id": "LEGIARTI000006785654",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Pour l'application des dispositions de l'article 25 du décret n° 68-253 du 19 mars 1968 modifié, chaque organisme conventionné est tenu de verser chaque mois à la caisse nationale la totalité des cotisations, majorations et pénalités de retard encaissées mensuellement ainsi que les intérêts éventuellement produits par les comptes prévus aux articles premier bis et premier ter du décret n° 68-1126 du 14 décembre 1968 modifié.<br/>\n    Les versements sont effectués au plus tard le cinquième jour ouvrable de chaque mois pour le montant des cotisations et majorations de retard encaissées entre le premier et le dernier jour inclus du mois précédent.<br/>\n    Toutefois, deux versements supplémentaires sont effectués au plus tard le quinzième et le vingt-cinquième jour ouvrable des mois de mars, d'avril, de septembre et d'octobre pour le montant des cotisations et majorations de retard encaissées respectivement entre le premier et le dixième jour inclus et le onzième et le vingtième jour inclus. Les justifications prévues à l'article 3 ci-dessous seront jointes au versement intervenant le cinquième jour ouvrable du mois suivant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1977-07-26 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1986-08-01 art. 1 JORF 14 août 1986 en vigueur le 1er septembre 1986",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1987-12-08 art. 6 JORF 26 décembre 1987 en vigueur le 1er janvier 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°68-253 du 19 mars 1968 - art. 25 (Ab)",
+        "@cidtexte": "JORFTEXT000000679726",
+        "@datesignatexte": "1968-03-19",
+        "@id": "LEGIARTI000006762319",
+        "@naturetexte": "DECRET",
+        "@num": "25",
+        "@numtexte": "68-253",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 68-1126 1968-12-14 art. 1 bis, art. 1 ter",
+        "@cidtexte": "JORFTEXT000000338451",
+        "@datesignatexte": "1968-12-14",
+        "@id": "JORFTEXT000000338451",
+        "@naturetexte": "DECRET",
+        "@numtexte": "68-1126",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

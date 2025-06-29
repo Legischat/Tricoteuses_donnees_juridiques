@@ -1,0 +1,155 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006809949",
+      "ANCIEN_ID": "TXXXXXXXXXX0412R0020XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/99/LEGIARTI000006809949.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R412-2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1983-06-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LES GROUPEMENTS PROFESSIONNELS, LA REPRESENTATION, LA  PARTICIPATION ET L'INTERESSEMENT DES SALARIES",
+              "@debut": "1973-11-23",
+              "@fin": "1985-02-07",
+              "@id": "LEGISCTA000006128501"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "LES SYNDICATS PROFESSIONNELS",
+                "@debut": "1973-11-23",
+                "@fin": "1983-06-11",
+                "@id": "LEGISCTA000006143043"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "EXERCICE DU DROIT SYNDICAL DANS LES ENTREPRISES .",
+                  "@debut": "1973-11-23",
+                  "@fin": "1983-06-11",
+                  "@id": "LEGISCTA000006158092"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "MODIFIE",
+          "@fin": "1983-06-11",
+          "@id": "LEGIARTI000006809949",
+          "@num": "R412-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-06-11",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000006809950",
+          "@num": "R412-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Dans les entreprises, le nombre des délégués syndicaux est fixé comme suit :</p>\n<br/>\n<p>- de 50 à 1.000 salariés : 1 délégué ;</p>\n<br/>\n<p>- de 1.001 à 3.000 salariés : 2 délégués ;</p>\n<br/>\n<p>- de 3.001 à 6.000 salariés : 3 délégués ;</p>\n<br/>\n<p>- au-delà de 6.000 salariés : 4 délégués.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 68-1183 1968-12-30 ART. 2",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail - art. R2143-2 (V)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018535800",
+        "@naturetexte": "CODE",
+        "@num": "R2143-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail - art. R412-1 (VT)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018506986",
+        "@naturetexte": "CODE",
+        "@num": "R412-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. R412-3 (M)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006809951",
+        "@naturetexte": "CODE",
+        "@num": "R412-3",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

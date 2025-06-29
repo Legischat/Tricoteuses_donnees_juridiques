@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769363",
+      "ANCIEN_ID": "SSHAU1XXXXX033AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/93/LEGIARTI000006769363.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 31",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-09-20",
+        "DATE_FIN": "1986-08-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles 31° Maladies engendrées par l'intoxication par le pentachlorphénol, le pentachlorphénate de sodium et le laurylpentachlorphénate de sodium.",
+              "@debut": "1975-09-20",
+              "@fin": "1986-08-22",
+              "@id": "LEGISCTA000006127782"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-09-20",
+          "@etat": "ABROGE",
+          "@fin": "1986-08-22",
+          "@id": "LEGIARTI000006769363",
+          "@num": "Tableau 31",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "CARACTERISATION DE LA MALADIE<br/>\n    Dermites chroniques ou récidivantes <br/>\n    DELAI de prise en charge : 30 jours<br/>\n<br/>\n    Intoxication aiguë ou subaiguë avec asthénie, fièvre, oppression, sueurs associées ou non à des douleurs abdominales<br/>\n    DELAI de prise en charge : 8 jours<br/>\n<br/>\n    Irritation des voies respiratoires supérieures et conjonctivite <br/>\n    DELAI de prise en charge : 8 jours<br/>\n<br/>\n   LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER LA MALADIE<br/>\n    Trempage des bois dans une solution de pentochlorphénol, de pentachlorphénate de sodium ou de laurylpentachlorphénate de sodium.<br/>\n    Manipulation du bois imprégné.<br/>\n    Sciage des bois imprégnés. Sont exclues les opérations effectuées à l'intérieur d'appareils rigoureusement clos, en marche normale.<br/>\n    Utilisation de produits renfermant du pentachlorphénol, du pentachlorphénate de sodium ou du laurylpentachlorphénate de sodium dans les traitements pesticides.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 75-863 1975-09-08 art. 1 JORF 20 septembre 1975",
+        "@cidtexte": "JORFTEXT000000683193",
+        "@datesignatexte": "1975-09-08",
+        "@id": "JORFTEXT000000683193",
+        "@naturetexte": "DECRET",
+        "@numtexte": "75-863",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 86-978 1986-08-08 art. 7 JORF 22 août 1986",
+        "@cidtexte": "JORFTEXT000000880945",
+        "@datesignatexte": "1986-08-08",
+        "@id": "JORFTEXT000000880945",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-978",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

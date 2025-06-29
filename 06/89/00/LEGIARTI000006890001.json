@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006890001",
+      "ANCIEN_ID": "UTIKRXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/00/LEGIARTI000006890001.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-11-27",
+        "DATE_FIN": "1999-12-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 novembre 1990 relatif au comité de liaison    pour le transport des personnes handicapées",
+          "@c_titre_court": "Arrêté du 15 novembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000169981"
+        },
+        {
+          "#text": "Arrêté du 15 novembre 1990 relatif au comité de liaison pour le transport des personnes handicapées",
+          "@c_titre_court": "Arrêté du 15 novembre 1990",
+          "@debut": "1990-11-27",
+          "@fin": "1999-12-22",
+          "@id_txt": "LEGITEXT000006076809"
+        }
+      ],
+      "@cid": "JORFTEXT000000169981",
+      "@date_publi": "1990-11-27",
+      "@date_signature": "1990-11-15",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "ARRETE",
+      "@nor": "EQUM9001244A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-11-27",
+          "@etat": "ABROGE",
+          "@fin": "1999-12-22",
+          "@id": "LEGIARTI000006890001",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le comité peut faire appel en tant que de besoin à des personnalités ayant une qualification spéciale pour les questions à traiter.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 75-534 1982-12-30",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 82-1153 1982-12-30",
+        "@cidtexte": "JORFTEXT000000319738",
+        "@datesignatexte": "1982-12-30",
+        "@id": "JORFTEXT000000319738",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1153",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 16 décembre 1999 - art., v. init.",
+        "@cidtexte": "JORFTEXT000000196480",
+        "@datesignatexte": "1999-12-16",
+        "@id": "JORFARTI000000999326",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "EQUP9901565A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006503117",
+      "ANCIEN_ID": "PKH5AXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/31/LEGIARTI000006503117.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1971-05-18",
+        "DATE_FIN": "1986-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°71-365 du 14 mai 1971 RELATIF AU REGIME INDEMNITAIRE DES ELEVES DE L'ECOLE",
+          "@c_titre_court": "Décret n°71-365 du 14 mai 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000331842"
+        },
+        {
+          "#text": "Décret n°71-365 du 14 mai 1971 relatif au régime indemnitaire des élèves de l'école nationale d'administration.",
+          "@c_titre_court": "Décret n°71-365 du 14 mai 1971",
+          "@debut": "1971-05-18",
+          "@fin": "2021-01-01",
+          "@id_txt": "LEGITEXT000006061818"
+        }
+      ],
+      "@cid": "JORFTEXT000000331842",
+      "@date_publi": "1971-05-18",
+      "@date_signature": "1971-05-14",
+      "@nature": "DECRET",
+      "@num": "71-365"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-05-18",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006503117",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 76-248 1986-02-24 art. 8 JORF 26 février 1986 en vigueur le 1er janvier 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°71-365 du 14 mai 1971 - art. 1 (VT)",
+        "@cidtexte": "JORFTEXT000000331842",
+        "@datesignatexte": "1971-05-14",
+        "@id": "LEGIARTI000006503113",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "71-365",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

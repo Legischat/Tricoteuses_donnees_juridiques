@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006890470",
+      "ANCIEN_ID": "UTINPXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/04/LEGIARTI000006890470.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-11-25",
+        "DATE_FIN": "2013-11-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 11 octobre 1983 FICHIER NATIONAL INFORMATISE DES VEHICULES IMMATRICULES SUR LE TERRITOIRE FRANCAIS",
+          "@c_titre_court": "Arrêté du 11 octobre 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000297367"
+        },
+        {
+          "#text": "Arrêté du 11 octobre 1983 relatif au fichier national informatisé des véhicules immatriculés sur le territoire français",
+          "@c_titre_court": "Arrêté du 11 octobre 1983",
+          "@debut": "1983-11-25",
+          "@fin": "2013-11-23",
+          "@id_txt": "LEGITEXT000006075102"
+        }
+      ],
+      "@cid": "JORFTEXT000000297367",
+      "@date_publi": "1983-11-25",
+      "@date_signature": "1983-10-11",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-11-25",
+          "@etat": "ABROGE",
+          "@fin": "2013-11-23",
+          "@id": "LEGIARTI000006890470",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Conformément au chapitre V de la loi du 6 janvier 1978 susvisée, le droit d'accès de toute personne physique aux informations la concernant s'exercera auprès du ministère des transports (département des statistiques des transports (D.S.T.), 55-57, rue Brillat-Savarin, 75013 Paris.<br/>\n<br/>   S'agissant d'un fichier de véhicules, et non de personnes, le droit d'accès s'exerce à partir du numéro d'immatriculation du véhicule.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 78-17 du 6 janvier 1978",
+        "@cidtexte": "JORFTEXT000000886460",
+        "@datesignatexte": "1978-01-06",
+        "@id": "JORFTEXT000000886460",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 25 octobre 2013 - art. 8",
+        "@cidtexte": "JORFTEXT000028221140",
+        "@datesignatexte": "2013-10-25",
+        "@id": "LEGIARTI000028221784",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVD1326016A",
+        "@num": "8",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

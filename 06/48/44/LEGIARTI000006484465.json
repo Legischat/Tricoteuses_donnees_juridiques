@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006484465",
+      "ANCIEN_ID": "ACHCDXXXXXX025AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/48/44/LEGIARTI000006484465.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1953-10-01",
+        "DATE_FIN": "1990-01-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°53-960 du 30 septembre 1953 REGLANT LES RAPPORTS ENTRE BAILLEURS ET LOCATAIRES EN CE QUI CONCERNE LE RENOUVELLEMENT DES BAUX",
+          "@c_titre_court": "Décret n°53-960 du 30 septembre 1953",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000675530"
+        },
+        {
+          "#text": "Décret n°53-960 du 30 septembre 1953 réglant les rapports entre bailleurs et locataires en ce qui concerne le renouvellement des baux à loyer d'immeubles ou de locaux à usage commercial, industriel ou artisanal",
+          "@c_titre_court": "Décret n°53-960 du 30 septembre 1953",
+          "@debut": "1953-10-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060676"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Du loyer.",
+            "@debut": "1953-10-01",
+            "@fin": "1990-01-02",
+            "@id": "LEGISCTA000006093606"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000675530",
+      "@date_publi": "1953-10-01",
+      "@date_signature": "1953-09-30",
+      "@nature": "DECRET",
+      "@num": "53-960"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1953-10-01",
+          "@etat": "MODIFIE",
+          "@fin": "1990-01-02",
+          "@id": "LEGIARTI000006484465",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-02",
+          "@etat": "MODIFIE",
+          "@fin": "1992-07-14",
+          "@id": "LEGIARTI000006484466",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006484467",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute clause insérée dans le bail prévoyant la résiliation de plein droit à défaut de paiement du loyer aux échéances convenues ne produit effet qu'un mois après un commandement de payer demeuré infructueux. Le commandement doit, à peine de nullité, mentionner ce délai.<br/>\n<br/>   Les juges, saisis d'une demande présentée dans les formes et conditions prévues à l'article 1244 du code civil, peuvent en accordant des délais suspendre la réalisation et les effets des clauses de résiliation pour défaut de paiement du loyer au terme convenu, lorsque la réalisation n'est pas constatée ou prononcée par une décision de justice ayant acquis l'autorité de la chose jugée. La clause résolutoire ne joue pas si le locataire se libère dans les conditions fixées par le juge.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 53-960 1953-09-30 JORF 1er octobre 1953 rectificatif JORF 21 octobre 1953, 26 novembre 1953",
+        "@cidtexte": "JORFTEXT000000675530",
+        "@datesignatexte": "1953-09-30",
+        "@id": "JORFTEXT000000675530",
+        "@naturetexte": "DECRET",
+        "@numtexte": "53-960",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°53-960 du 30 septembre 1953 - art. 35 (Ab)",
+        "@cidtexte": "JORFTEXT000000675530",
+        "@datesignatexte": "1953-09-30",
+        "@id": "LEGIARTI000006484720",
+        "@naturetexte": "DECRET",
+        "@num": "35",
+        "@numtexte": "53-960",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code civil - art. 1244 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006437193",
+        "@naturetexte": "CODE",
+        "@num": "1244",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

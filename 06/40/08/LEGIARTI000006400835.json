@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006400835",
+      "ANCIEN_ID": "ABEACXXXXXX114AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/08/LEGIARTI000006400835.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "114",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-12-31",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°85-98 du 25 janvier 1985 RELATIVE AU REDRESSEMENT ET A LA LIQUIDATION JUDICIAIRE DES ENTREPRISES",
+          "@c_titre_court": "Loi n°85-98 du 25 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693911"
+        },
+        {
+          "#text": "Loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises",
+          "@c_titre_court": "Loi n° 85-98 du 25 janvier 1985",
+          "@debut": "1985-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068923"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Régime général du redressement judiciaire",
+            "@debut": "1986-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006088096"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre III : Le patrimoine de l'entreprise",
+              "@debut": "1986-01-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006116798"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section III : Droits du conjoint.",
+                "@debut": "1986-01-01",
+                "@fin": "2000-09-21",
+                "@id": "LEGISCTA000006135680"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000693911",
+      "@date_publi": "1985-01-26",
+      "@date_signature": "1985-01-25",
+      "@nature": "LOI",
+      "@num": "85-98"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1988-12-31",
+          "@id": "LEGIARTI000006400834",
+          "@num": "114",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006400835",
+          "@num": "114",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conjoint du débiteur qui était commerçant ou artisan ou agriculteur lors de son mariage ou l'est devenu dans l'année de celui-ci ne peut exercer dans le redressement judiciaire aucune action à raison des avantages faits par l'un des époux à l'autre, dans le contrat de mariage ou pendant le mariage ; les créanciers ne peuvent, de leur côté, se prévaloir des avantages faits par l'un des époux à l'autre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 88-1202 1988-12-30 art. 29 JORF 31 décembre 1988",
+        "@cidtexte": "JORFTEXT000000875191",
+        "@datesignatexte": "1988-12-30",
+        "@id": "JORFTEXT000000875191",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX8800119L",
+        "@numtexte": "88-1202",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi 88-1202 1988-12-30 art. 67 *champ d'application territorial*",
+        "@cidtexte": "JORFTEXT000000875191",
+        "@datesignatexte": "1988-12-30",
+        "@id": "JORFTEXT000000875191",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX8800119L",
+        "@numtexte": "88-1202",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L621-114 (Ab)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006236164",
+        "@naturetexte": "CODE",
+        "@num": "L621-114",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006791890",
+      "ANCIEN_ID": "STAXXXXXXXX1X007L00AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/79/18/LEGIARTI000006791890.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L7",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-07-11",
+        "DATE_FIN": "1987-01-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance",
+          "@c_titre_court": "Code des pensions de retraite des marins français du commerce, de pêche ou de plaisance",
+          "@debut": "1968-03-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074066"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1968-03-31",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107967"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre Ier : Pensions de retraite des marins.",
+              "@debut": "1968-03-31",
+              "@fin": "2014-12-06",
+              "@id": "LEGISCTA000006128393"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Conditions d'obtention des pensions.",
+                "@debut": "1968-03-31",
+                "@fin": "2010-12-01",
+                "@id": "LEGISCTA000006142660"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006074066",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-11",
+          "@etat": "MODIFIE",
+          "@fin": "1987-01-28",
+          "@id": "LEGIARTI000006791890",
+          "@num": "L7",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-28",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006791891",
+          "@num": "L7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le droit à pension spéciale, proportionnelle à la durée des services, est acquis [*bénéficiaires*] :<br/>\n    1° Aux marins devenus officiers ou fonctionnaires au ministère de la défense (marine) ou à la direction générale de la marine marchande, ou officiers ou surveillants de port ou agents des phares et balises, qu'elle qu'ait été la durée des services accomplis en qualité de marin ;<br/>\n    2° Aux marins non visés au 1° ci-dessus qui :<br/>\n    a) N'ont pas acquis, antérieurement à leur activité de marin, de droits à pension proportionnelle ou d'ancienneté servie par l'Etat ou un régime légal ou réglementaire de sécurité sociale ;<br/>\n    b) Et ont accompli une durée de services conduisant à pension sur la caisse de retraites des marins, au moins égale au minimum prévu à l'article L. 336 du Code de la sécurité sociale.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de la sécurité sociale L336",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des pensions de retraite des marins : Dispositions applicables dans les territoires de Saint-Pierre-et-Miquelon et de la Polynésie française",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "LOI 79-576 1979-07-10 ART. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 79-576 1979-07-10 art. 1 JORF 11 JUILLET 1979",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

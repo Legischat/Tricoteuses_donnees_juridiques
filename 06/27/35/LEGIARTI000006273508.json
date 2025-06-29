@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273508",
+      "ANCIEN_ID": "FAEBVXXXXXX035AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/35/LEGIARTI000006273508.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "35",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-01-01",
+        "DATE_FIN": "1983-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°81-1160 du 30 décembre 1981 DE FINANCES POUR 1982",
+          "@c_titre_court": "Loi n°81-1160 du 30 décembre 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000515870"
+        },
+        {
+          "#text": "Loi n° 81-1160 du 30 décembre 1981 DE FINANCES POUR 1982",
+          "@c_titre_court": "Loi n° 81-1160 du 30 décembre 1981",
+          "@debut": "1982-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068707"
+        }
+      ],
+      "@cid": "JORFTEXT000000515870",
+      "@date_publi": "1981-12-31",
+      "@date_signature": "1981-12-30",
+      "@nature": "LOI",
+      "@num": "81-1160"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1983-01-01",
+          "@id": "LEGIARTI000006273508",
+          "@num": "35",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002080790",
+          "@num": "35",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est institué une taxe sur les vins ayant fait l'objet d'opérations de coupage telles qu'elles sont définies par l'article 2 du règlement de la commission des communautés n° 3282-73 du 5 décembre 1973.<br/>\n<br/>   Le montant de la taxe est fixé à 15 F par hectolitre de vin.<br/>\n<br/>   La taxe est établie, liquidée et recouvrée dans les mêmes conditions et sous les mêmes garanties et sanctions que le droit de circulation prévu à l'article 438 du code général des impôts.<br/>\n<br/>   Les comptes et les titres de mouvement doivent comporter les indications permettant l'assiette et le contrôle de la taxe.<br/>\n<br/>   Un décret fixe, en tant que de besoin, les modalités d'application du présent article.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 438",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°82-1126 du 29 décembre 1982 - art. 23 (P) JORF 31 DECEMBRE 1982 en vigueur le 1er JANVIER 1983",
+        "@cidtexte": "JORFTEXT000000503959",
+        "@datesignatexte": "1982-12-29",
+        "@id": "LEGIARTI000006273735",
+        "@naturetexte": "LOI",
+        "@num": "23",
+        "@numtexte": "82-1126",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 442 A (Ab)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006309904",
+        "@naturetexte": "CODE",
+        "@num": "442 A",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Règlement CEE 3282/73 1973-12-05 art. 2 (Commission)",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

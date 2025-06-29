@@ -1,0 +1,144 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769282",
+      "ANCIEN_ID": "SSHAU1XXXXX007AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/92/LEGIARTI000006769282.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1976-01-27",
+        "DATE_FIN": "1988-01-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "5° Leptospiroses professionnelles",
+                "@debut": "1976-01-27",
+                "@fin": "1988-01-28",
+                "@id": "LEGISCTA000006142266"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-27",
+          "@etat": "MODIFIE",
+          "@fin": "1988-01-28",
+          "@id": "LEGIARTI000006769282",
+          "@num": "Tableau 5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-28",
+          "@etat": "MODIFIE",
+          "@fin": "1999-03-20",
+          "@id": "LEGIARTI000006769283",
+          "@num": "Tableau 5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-03-20",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769284",
+          "@num": "Tableau 5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "CARACTERISATION DE LA MALADIE<br/>\n    Toutes leptospiroses confirmées par un examen de laboratoire spécifique (identification du germe ou sérodiagnostic à un taux considéré comme significatif).<br/>\n    DELAI de prise en charge : 21 jours.<br/>\n   TRAVAUX SUSCEPTIBLES DE PROVOQUER LA MALADIE<br/>\n    Tous travaux exposant au contact de l'eau ou effectués dans des lieux susceptibles d'être souillés par des déjections de rongeurs ou autres porteurs de germes.<br/>\n    Travaux exposant au contact avec ces animaux ou leurs déjections.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 64-858 1964-08-08 art. 2 JORF 23 août 1964",
+        "@cidtexte": "JORFTEXT000000852868",
+        "@datesignatexte": "1964-08-08",
+        "@id": "JORFTEXT000000852868",
+        "@naturetexte": "DECRET",
+        "@numtexte": "64-858",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 76-74 1976-01-15 art. 3 JORF 27 janvier 1976",
+        "@cidtexte": "JORFTEXT000000503183",
+        "@datesignatexte": "1976-01-15",
+        "@id": "JORFTEXT000000503183",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-74",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

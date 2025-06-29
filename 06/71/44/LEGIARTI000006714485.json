@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006714485",
+      "ANCIEN_ID": "SPI48XXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/44/LEGIARTI000006714485.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-12-04",
+        "DATE_FIN": "2009-08-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 6 février 1981 fixant la liste des diplômes, certificats et autres titres de praticien de l'art dentaire délivrés par les Etats membres de la Communauté économique européenne, visée à l'article L. 356-2 (2°) du code de la santé publique.",
+          "@c_titre_court": "Arrêté du 6 février 1981",
+          "@debut": "1981-03-06",
+          "@fin": "2009-08-01",
+          "@id_txt": "LEGITEXT000006072720"
+        }
+      ],
+      "@cid": "LEGITEXT000006072720",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1981-02-06",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-03-06",
+          "@etat": "MODIFIE",
+          "@fin": "1997-12-04",
+          "@id": "LEGIARTI000006714484",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-12-04",
+          "@etat": "ABROGE",
+          "@fin": "2009-08-01",
+          "@id": "LEGIARTI000006714485",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La liste des diplômes, certificats et autres titres de praticien de l'art dentaire visée à l'article L. 356-2 (2°) du code de la santé publique qui, délivrés conformément aux obligations communautaires par les Etats membres de la Communauté économique européenne, ouvrent droit à l'exercice de la profession de chirurgien-dentiste en France aux ressortissants desdits Etats membres, est établie comme suit :<br/>\n<br/>   Belgique<br/>\n<br/>   Diplôme légal de licencié en science dentaire, wettelijk diploma van licentiaat in de tandheelkunde, délivré par les facultés de médecine des universités ou par le jury central ou les jurys d'Etat de l'enseignement universitaire postérieurement au 28 janvier 1980.<br/>\n<br/>   Danemark<br/>\n<br/>   Bevis for tandlaegeeksamen (kandidateksamen) (diplôme de praticien de l'art dentaire), délivré par les écoles dentaires, accompagné d'une attestation de l'exercice de la fonction d'assistant pendant la durée requise, délivrée par le Sundhedsstyrelsen (office national de la santé).<br/>\n<br/>   Irlande<br/>\n<br/>   Diplômes de Bachelor in Dental Science (B. Dent. Sc.), ou Bachelor of Dental Surgery (BDS), ou Licentiate in Dental Surgery (LDS), délivrés par les universités ou le Royal College of Surgeons in Ireland.<br/>\n<br/>   Royaume-Uni<br/>\n<br/>   Diplômes de Bachelor of Dental Surgery (BDS or B. Ch. D.) ou Licenciate in Dental Surgery (LDS), délivrés par les universités ou les Royal Colleges postérieurement au 1er janvier 1980.<br/>\n<br/>   Espagne<br/>\n<br/>   Diplôme : Licenciado en odontologia.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1997-11-19 art. 1 JORF 4 décembre 1997",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 13 juillet 2009 - art. 4",
+        "@cidtexte": "JORFTEXT000020916157",
+        "@datesignatexte": "2009-07-13",
+        "@id": "LEGIARTI000020936839",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SASH0915409A",
+        "@num": "4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté du 13 juillet 2009 - art. 5 (V)",
+        "@cidtexte": "JORFTEXT000020916138",
+        "@datesignatexte": "2009-07-13",
+        "@id": "LEGIARTI000020936722",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "SASH0915401A",
+        "@num": "5",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L356-2",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692960",
+        "@naturetexte": "CODE",
+        "@num": "L356-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

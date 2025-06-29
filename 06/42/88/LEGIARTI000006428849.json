@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006428849",
+      "ANCIEN_ID": "PCIDTXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/88/LEGIARTI000006428849.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-12-27",
+        "DATE_FIN": "1998-11-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 25 novembre 1986 instituant un Grand prix national de la muséographie",
+          "@c_titre_court": "Arrêté du 25 novembre 1986",
+          "@debut": "1986-12-02",
+          "@fin": "1998-11-04",
+          "@id_txt": "LEGITEXT000006070856"
+        }
+      ],
+      "@cid": "LEGITEXT000006070856",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-11-25",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-02",
+          "@etat": "MODIFIE",
+          "@fin": "1988-12-27",
+          "@id": "LEGIARTI000006428848",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-12-27",
+          "@etat": "ABROGE",
+          "@fin": "1998-11-04",
+          "@id": "LEGIARTI000006428849",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est institué un Grand prix national de la muséographie, qui récompense chaque année une personnalité, un musée ou une collectivité dont l'oeuvre, les initiatives ou les réalisations ont particulièrement servi la muséographie française.<br/>\n<br/>    Le Grand Prix national de la muséographie est doté annuellement de 50 000 F [*montant - francs*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-12-16 art. 1 JORF 27 décembre 1988",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1998-10-26 art. 4 JORF 4 novembre 1998",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

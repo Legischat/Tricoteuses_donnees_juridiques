@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006847838",
+      "ANCIEN_ID": "UPEDNXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/78/LEGIARTI000006847838.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1958-10-11",
+        "DATE_FIN": "1989-06-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 15 mai 1930 relative à l'assainissement d'office et au classement d'office des voies privées de Paris.",
+          "@c_titre_court": "Loi du 15 mai 1930",
+          "@debut": "1930-05-22",
+          "@fin": "1989-09-08",
+          "@id_txt": "LEGITEXT000006074258"
+        }
+      ],
+      "@cid": "LEGITEXT000006074258",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1930-05-15",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1958-10-11",
+          "@etat": "ABROGE",
+          "@fin": "1989-06-24",
+          "@id": "LEGIARTI000006847838",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sous réserve le cas échéant, de la production des garanties convenables, les propriétaires justifiant de la qualité d'économiquement faibles au sens de la législation en vigueur peuvent bénéficier de modalités spéciales quant à l'époque et à la durée des recouvrements à poursuivre sur eux en application des articles 3 et 5.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1930-05-15 art. 3, art. 5",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 58-928 1958-10-07 art. 2 JORF 11 octobre 1958 Rectificatif JORF 16 novembre",
+        "@cidtexte": "JORFTEXT000000517355",
+        "@datesignatexte": "1958-10-07",
+        "@id": "JORFTEXT000000517355",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-928",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°89-413 du 22 juin 1989 - art. 5 (V) JORF 24 juin 1989",
+        "@cidtexte": "JORFTEXT000000684529",
+        "@datesignatexte": "1989-06-22",
+        "@id": "LEGIARTI000006275616",
+        "@naturetexte": "LOI",
+        "@nortexte": "EQUX8800040L",
+        "@num": "5",
+        "@numtexte": "89-413",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

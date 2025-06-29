@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283407",
+      "ANCIEN_ID": "ARAXXXXXXXX5X00189BAXXBA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/34/LEGIARTI000006283407.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "189 bis A",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-07-12",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de commerce (ancien)",
+          "@c_titre_court": "Code de commerce",
+          "@debut": "1807-09-20",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre I : Du commerce en général",
+            "@debut": "1807-09-20",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083845"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VIII : De la lettre de change et du billet à ordre",
+              "@debut": "1935-10-31",
+              "@fin": "2000-09-21",
+              "@id": "LEGISCTA000006114101"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : Du billet à ordre.",
+                "@debut": "1935-10-31",
+                "@fin": "2000-09-21",
+                "@id": "LEGISCTA000006133396"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069441",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-12",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006283407",
+          "@num": "189 bis A",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le règlement par billet à ordre n'est permis au débiteur que s'il a été expressément prévu par les parties et mentionné sur la facture. Même en ce cas, si le billet à ordre n'est pas parvenu au créancier dans les trente jours qui suivent l'envoi de la facture, le créancier peut émettre une lettre de change que le débiteur est tenu d'accepter selon les conditions prévues aux alinéas 9 et 10 de l'article 124. Toute stipulation contraire est réputée non écrite.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°85-695 du 11 juillet 1985 - art. 39 () JORF 12 juillet 1985",
+        "@cidtexte": "JORFTEXT000000693456",
+        "@datesignatexte": "1985-07-11",
+        "@id": "LEGIARTI000006274633",
+        "@naturetexte": "LOI",
+        "@num": "39",
+        "@numtexte": "85-695",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce 124",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000005634379",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L512-8 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006233581",
+        "@naturetexte": "CODE",
+        "@num": "L512-8",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

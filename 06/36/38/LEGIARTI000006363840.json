@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006363840",
+      "ANCIEN_ID": "MPHBOXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/38/LEGIARTI000006363840.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-03-26",
+        "DATE_FIN": "2015-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 77-286 du 24 mars 1977 relatif aux conditions d'accès dans les emplois de sous-directeur du département de Paris",
+          "@c_titre_court": "Décret n° 77-286 du 24 mars 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000515104"
+        },
+        {
+          "#text": "Décret n°77-286 du 24 mars 1977 relatif aux conditions d'accès dans les emplois de sous-directeur du département de Paris.",
+          "@c_titre_court": "Décret n°77-286 du 24 mars 1977",
+          "@debut": "1977-03-26",
+          "@fin": "2015-01-01",
+          "@id_txt": "LEGITEXT000006062663"
+        }
+      ],
+      "@cid": "JORFTEXT000000515104",
+      "@date_publi": "1977-03-26",
+      "@date_signature": "1977-03-24",
+      "@nature": "DECRET",
+      "@num": "77-286"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-03-26",
+          "@etat": "ABROGE",
+          "@fin": "2015-01-01",
+          "@id": "LEGIARTI000006363840",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les sous-directeurs de la ville de Paris en fonctions lors de l'entrée en vigueur de la loi susvisée du 31 décembre 1975 et nommés à cette date sous-directeurs du département de Paris sont placés à l'échelon de sous-directeur du département de Paris comportant un indice égal à celui qu'ils détenaient dans leur emploi de sous-directeur de la ville de Paris et conservent leur ancienneté dans cet échelon.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 75-1331 du 31 décembre 1975",
+        "@cidtexte": "JORFTEXT000000699208",
+        "@datesignatexte": "1975-12-31",
+        "@id": "JORFTEXT000000699208",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-1331",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°77-286 du 24 mars 1977 - art. 7 (VT)",
+        "@cidtexte": "JORFTEXT000000515104",
+        "@datesignatexte": "1977-03-24",
+        "@id": "LEGIARTI000006363838",
+        "@naturetexte": "DECRET",
+        "@num": "7",
+        "@numtexte": "77-286",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2014-501\n du 16 mai 2014 - art. 16",
+        "@cidtexte": "JORFTEXT000028940380",
+        "@datesignatexte": "2014-05-16",
+        "@id": "LEGIARTI000028941824",
+        "@naturetexte": "DECRET",
+        "@nortexte": "RDFB1401728D",
+        "@num": "16",
+        "@numtexte": "2014-501",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

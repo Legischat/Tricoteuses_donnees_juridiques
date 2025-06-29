@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006677168",
+      "ANCIEN_ID": "SHICNXXXXXXA31AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/67/71/LEGIARTI000006677168.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "31",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-08-28",
+        "DATE_FIN": "1985-08-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 juillet 1974 fixant, par voie de dispositions générales, des mesures de prévention relatives aux téléphériques de service susceptibles de transporter des personnes",
+          "@c_titre_court": "Arrêté du 24 juillet 1974",
+          "@debut": "1974-08-28",
+          "@fin": "1985-08-02",
+          "@id_txt": "LEGITEXT000006072451"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE 3 : EXPLOITATION ET ENTRETIEN    Parcours d'essai et conditions météorologiques exceptionnelles",
+            "@debut": "1974-08-28",
+            "@fin": "1985-08-02",
+            "@id": "LEGISCTA000006102781"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072451",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-07-24",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-08-28",
+          "@etat": "ABROGE",
+          "@fin": "1985-08-02",
+          "@id": "LEGIARTI000006677168",
+          "@num": "31",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Une course à vide doit être effectuée à l'ouverture du service le matin, et en tout cas avant le transport de personnes lorsque des conditions météorologiques exceptionnelle (brouillard, neige, givre, gel, etc.) mettent en péril la sécurité de l'exploitation.<br/>\n    le service doit être suspendu en cas d'orage ou de fort vent pouvant provoquer une inclinaison dangereuse du véhicule (voir art. 25). A cet effet, le (ou les) véhicule(s) doit (doivent) être muni(s) d'un appareil à pendule indiquant l'inclinaison dangereuse à ne pas dépasser.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1974-07-24 art. 25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1985-06-25 ART. 1 JORF 2 AOUT 1985",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 1985-06-25 ART. 2 : Les présentes dispositions demeurent applicables aux téléphériques existant, durant une période de deux ans à compter de la publication du présent arrêté",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

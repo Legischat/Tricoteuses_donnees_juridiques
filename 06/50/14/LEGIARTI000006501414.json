@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006501414",
+      "ANCIEN_ID": "PJICWXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/14/LEGIARTI000006501414.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1998-02-10",
+        "DATE_FIN": "2006-11-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 janvier 1998 relatif au registre visé par l'article R. 226-10 du code pénal",
+          "@c_titre_court": "Arrêté du 15 janvier 1998",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000570425"
+        },
+        {
+          "#text": "Arrêté du 15 janvier 1998 relatif au registre visé par l'article R. 226-10 du code pénal",
+          "@c_titre_court": "Arrêté du 15 janvier 1998",
+          "@debut": "1998-02-10",
+          "@fin": "2006-11-06",
+          "@id_txt": "LEGITEXT000005625175"
+        }
+      ],
+      "@cid": "JORFTEXT000000570425",
+      "@date_publi": "1998-02-10",
+      "@date_signature": "1998-01-15",
+      "@nature": "ARRETE",
+      "@nor": "PRMX9802538A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1998-02-10",
+          "@etat": "ABROGE",
+          "@fin": "2006-11-06",
+          "@id": "LEGIARTI000006501414",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le registre prévu à l'article R. 226-10 du code pénal retraçant l'ensemble des opérations relatives aux matériels dont la liste est fixée par l'arrêté du 9 mai 1994 est conforme au modèle figurant en annexe du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-05-09",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Arrêté 1994-05-09",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1998-01-15 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 16 août 2006 - art. 3, v. init.",
+        "@cidtexte": "JORFTEXT000000459410",
+        "@datesignatexte": "2006-08-16",
+        "@id": "JORFARTI000002283645",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "PRMX0609553A",
+        "@num": "3",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code pénal - art. R226-10 (M)",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006419446",
+        "@naturetexte": "CODE",
+        "@num": "R226-10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

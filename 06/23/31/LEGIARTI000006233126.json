@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006233126",
+      "ANCIEN_ID": "PJIDXXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/23/31/LEGIARTI000006233126.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-08-03",
+        "DATE_FIN": "2012-08-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 juillet 2004 fixant la liste d'appareils prévue par l'article 226-3 du code pénal",
+          "@c_titre_court": "Arrêté du 29 juillet 2004",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000235761"
+        },
+        {
+          "#text": "Arrêté du 29 juillet 2004 fixant la liste d'appareils prévue par l'article 226-3 du code pénal.",
+          "@c_titre_court": "Arrêté du 29 juillet 2004",
+          "@debut": "2004-08-03",
+          "@fin": "2012-08-02",
+          "@id_txt": "LEGITEXT000005818553"
+        }
+      ],
+      "@cid": "JORFTEXT000000235761",
+      "@date_publi": "2004-08-03",
+      "@date_signature": "2004-07-29",
+      "@nature": "ARRETE",
+      "@nor": "PRMX0407500A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-08-03",
+          "@etat": "ABROGE",
+          "@fin": "2012-08-02",
+          "@id": "LEGIARTI000006233126",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001073985",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La liste, prévue par l'article 226-3 du code pénal, des appareils soumis à l'autorisation mentionnée à l'article R. 226-7 de ce code figure en annexe II du présent arrêté.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2004-07-29 annexe II",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 4 juillet 2012 - art. 3",
+        "@cidtexte": "JORFTEXT000026241910",
+        "@datesignatexte": "2012-07-04",
+        "@id": "LEGIARTI000026242972",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "PRMD1230326A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code pénal - art. 226-3",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006417931",
+        "@naturetexte": "CODE",
+        "@num": "226-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code pénal - art. 226-3 (V)",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006417931",
+        "@naturetexte": "CODE",
+        "@num": "226-3",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code pénal - art. R226-7",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006419441",
+        "@naturetexte": "CODE",
+        "@num": "R226-7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

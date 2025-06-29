@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862514",
+      "ANCIEN_ID": "UPIKFXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/25/LEGIARTI000006862514.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1981-11-24",
+        "DATE_FIN": "1986-08-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 novembre 1981 DEMANDE D'AUTORISATION DES CENTRALES THERMIQUES UTILISANT A TITRE EXCLUSIF OU PRINCIPAL,DES COMBUSTIBLES PETROLIERS",
+          "@c_titre_court": "Arrêté du 16 novembre 1981",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000292928"
+        },
+        {
+          "#text": "Arrêté du 16 novembre 1981 relatif aux demandes d'autorisation des centrales thermiques utilisant à titre exclusif ou principal des combustibles pétroliers",
+          "@c_titre_court": "Arrêté du 16 novembre 1981",
+          "@debut": "1981-11-24",
+          "@fin": "1986-08-29",
+          "@id_txt": "LEGITEXT000006074557"
+        }
+      ],
+      "@cid": "JORFTEXT000000292928",
+      "@date_publi": "1981-11-24",
+      "@date_signature": "1981-11-16",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-11-24",
+          "@etat": "ABROGE",
+          "@fin": "1986-08-29",
+          "@id": "LEGIARTI000006862514",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La décision motivée de l'administration accompagnée, le cas échéant, de toutes recommandations jugées opportunes, et notamment de celles émises par le comité au titre du décret du 16 septembre 1949 relatif à l'utilisation de l'énergie, est notifiée à l'intéressé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1949-09-16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-1026 1981-11-16",
+        "@cidtexte": "JORFTEXT000000307664",
+        "@datesignatexte": "1981-11-16",
+        "@id": "JORFTEXT000000307664",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-1026",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 21 août 1986 - art. 6 (V)",
+        "@cidtexte": "LEGITEXT000006074843",
+        "@datesignatexte": "1986-08-21",
+        "@id": "LEGIARTI000006865171",
+        "@naturetexte": "ARRETE",
+        "@num": "6",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

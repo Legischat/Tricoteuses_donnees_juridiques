@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006620343",
+      "ANCIEN_ID": "ADIKUXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/03/LEGIARTI000006620343.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-06-12",
+        "DATE_FIN": "2019-09-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 juin 1969 NORMALISATION OBLIGATOIRE DES ABRICOTS",
+          "@c_titre_court": "Arrêté du 5 juin 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000272362"
+        },
+        {
+          "#text": "Arrêté du 5 juin 1969 relatif à la normalisation obligatoire des abricots",
+          "@c_titre_court": "Arrêté du 5 juin 1969",
+          "@debut": "1969-06-12",
+          "@fin": "2019-09-19",
+          "@id_txt": "LEGITEXT000006071648"
+        }
+      ],
+      "@cid": "JORFTEXT000000272362",
+      "@date_publi": "1969-06-12",
+      "@date_signature": "1969-06-05",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-06-12",
+          "@etat": "ABROGE",
+          "@fin": "2019-09-19",
+          "@id": "LEGIARTI000006620343",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter de la parution du présent arrêté, l'application de la norme commune de qualité est rendue obligatoire pour les abricots commercialisés dans le marché intérieur, dans les conditions fixées par le règlement 158/66 modifié du conseil de la Communauté économique européenne.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 19 juillet 2019 - art. 1",
+        "@cidtexte": "JORFTEXT000039106240",
+        "@datesignatexte": "2019-07-19",
+        "@id": "LEGIARTI000039106764",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC1706924A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Décret 1947-08-02",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 55-1126 1955-08-19",
+        "@cidtexte": "JORFTEXT000000300717",
+        "@datesignatexte": "1955-08-19",
+        "@id": "JORFTEXT000000300717",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-1126",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Règlement CEE 158-66 1966-10-25 Conseil",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006891051",
+      "ANCIEN_ID": "UTISVXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/10/LEGIARTI000006891051.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-10-07",
+        "DATE_FIN": "2023-07-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 18 septembre 1992 pris en application de l'article R. 104-1 du code    de la route et relatif aux systèmes anti-projections des véhicules",
+          "@c_titre_court": "Arrêté du 18 septembre 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000360279"
+        },
+        {
+          "#text": "Arrêté du 18 septembre 1992 pris en application de l'article R. 104-1 du code de la route et relatif aux systèmes anti-projections des véhicules",
+          "@c_titre_court": "Arrêté du 18 septembre 1992",
+          "@debut": "1992-10-07",
+          "@fin": "2023-07-07",
+          "@id_txt": "LEGITEXT000006080145"
+        }
+      ],
+      "@cid": "JORFTEXT000000360279",
+      "@date_publi": "1992-10-07",
+      "@date_signature": "1992-09-18",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "ARRETE",
+      "@nor": "EQUS9201367A",
+      "@num_parution_jo": "0233"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-10-07",
+          "@etat": "ABROGE",
+          "@fin": "2023-07-07",
+          "@id": "LEGIARTI000006891051",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les véhicules pour lesquels la présence de système antiprojections est incompatible avec leur usage, et notamment ceux qui figurent dans la liste suivante, peuvent ne pas être conformes aux dispositions du présent arrêté :<br/>\n<br/>   - châssis-cabines et véhicules non carrossés ;<br/>\n<br/>   - véhicules hors route conformes aux prescriptions de l'annexe I de la directive (C.E.E) n° 70-156 modifiée ;<br/>\n<br/>   - véhicules de voirie ;<br/>\n<br/>   - véhicules d'intervention urgente ;<br/>\n<br/>   - véhicules utilisés sur les chantiers de travaux publics, sur les chantiers agricoles ou les exploitations forestières ;<br/>\n<br/>   - véhicules pour transport de matériels de grande masse ou de grande longueur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 7 juin 2023 - art. 13",
+        "@cidtexte": "JORFTEXT000047787541",
+        "@datesignatexte": "2023-06-07",
+        "@id": "LEGIARTI000047788776",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TRER2314479A",
+        "@num": "13",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la ROUTE R.104-1",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Directive CEE 91-226 1991-03-27",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

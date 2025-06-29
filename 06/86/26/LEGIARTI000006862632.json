@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006862632",
+      "ANCIEN_ID": "UPIKWXXXXXX025AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/26/LEGIARTI000006862632.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-03-07",
+        "DATE_FIN": "1988-05-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1 février 1979 relatif aux aérodromes et autres emplacements utilisés par les hélicoptères",
+          "@c_titre_court": "Arrêté du 1 février 1979",
+          "@debut": "1979-03-07",
+          "@fin": "1988-05-06",
+          "@id_txt": "LEGITEXT000006074571"
+        }
+      ],
+      "@cid": "LEGITEXT000006074571",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-02-01",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-03-07",
+          "@etat": "ABROGE",
+          "@fin": "1988-05-06",
+          "@id": "LEGIARTI000006862632",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 22 février 1971 relatif aux aérodromes et autres emplacements utilisés par les hélicoptères est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1971-02-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1988-02-23 art. 22 JORF 6 mai 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'aviation civile - art. D211-1 (M)",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006843722",
+        "@naturetexte": "CODE",
+        "@num": "D211-1",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006717016",
+      "ANCIEN_ID": "SPIDTXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/70/LEGIARTI000006717016.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1994-10-18",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 novembre 1987 FIXANT LES CONDITIONS DE FONCTIONNEMENT DE LA COMMISSION MENTIONNEE A L'ART. R5146-38 DU CODE DE LA SANTE PUBLIQUE",
+          "@c_titre_court": "Arrêté du 9 novembre 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000683145"
+        },
+        {
+          "#text": "Arrêté du 9 novembre 1987 fixant les conditions de fonctionnement de la commission mentionnée à l'article R. 5146-38 du code de la santé publique",
+          "@c_titre_court": "Arrêté du 9 novembre 1987",
+          "@debut": "1987-11-13",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006057843"
+        }
+      ],
+      "@cid": "JORFTEXT000000683145",
+      "@date_publi": "1987-11-13",
+      "@date_signature": "1987-11-09",
+      "@nature": "ARRETE",
+      "@nor": "ASEM8701668A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-11-13",
+          "@etat": "MODIFIE",
+          "@fin": "1994-10-18",
+          "@id": "LEGIARTI000006717015",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-10-18",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006717016",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le secrétariat de la commission précitée est assuré par l'Agence nationale du médicament vétérinaire mentionnée à l'article L. 617-12 du code de la santé publique.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1994-10-13 art. 1 JORF 18 octobre 1994",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L617-12 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006693844",
+        "@naturetexte": "CODE",
+        "@num": "L617-12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. R5146-38 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006800868",
+        "@naturetexte": "CODE",
+        "@num": "R5146-38",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

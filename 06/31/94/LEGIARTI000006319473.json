@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006319473",
+      "ANCIEN_ID": "FAEHEXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/94/LEGIARTI000006319473.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1995-12-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI de finances rectificative pour 1995 (n° 95-1347 du 30 décembre 1995) (1)",
+          "@c_titre_court": "Loi",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000555740"
+        },
+        {
+          "#text": "Loi n° 95-1347 du 30 décembre 1995 de finances rectificative pour 1995 (1)",
+          "@c_titre_court": "Loi n° 95-1347 du 30 décembre 1995",
+          "@debut": "1995-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005620087"
+        }
+      ],
+      "@cid": "JORFTEXT000000555740",
+      "@date_publi": "1995-12-31",
+      "@date_signature": "1995-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX9500162L",
+      "@num": "95-1347"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006319473",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est institué pour 1995, au profit du budget de l'Etat, un prélèvement exceptionnel sur les fonds déposés auprès de la Caisse des dépôts et consignations par l'Organisation autonome nationale de l'industrie et du commerce et constitués par le produit de la taxe visée au 2° de l'article 3 de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés.<br/>\n<br/>   Le montant de ce prélèvement est fixé à 680 millions de francs.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 72-657 1972-07-13 art. 3",
+        "@cidtexte": "JORFTEXT000000875580",
+        "@datesignatexte": "1972-07-13",
+        "@id": "JORFTEXT000000875580",
+        "@naturetexte": "LOI",
+        "@numtexte": "72-657",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 95-1347 1995-12-30 Finances rectificative pour 1995 JORF 31 décembre 1995",
+        "@cidtexte": "JORFTEXT000000555740",
+        "@datesignatexte": "1995-12-30",
+        "@id": "JORFTEXT000000555740",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9500162L",
+        "@numtexte": "95-1347",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

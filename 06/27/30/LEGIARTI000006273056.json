@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273056",
+      "ANCIEN_ID": "AREANXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/30/LEGIARTI000006273056.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1978-03-31",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 77-1447 du 28 décembre 1977 portant réforme du titre IV du livre Ier du code civil : Des absents (1)",
+          "@c_titre_court": "Loi n° 77-1447 du 28 décembre 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000333069"
+        },
+        {
+          "#text": "Loi n° 77-1447 du 28 décembre 1977 portant réforme du titre IV du livre Ier du code civil : des absents",
+          "@c_titre_court": "Loi n° 77-1447 du 28 décembre 1977",
+          "@debut": "1978-03-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068570"
+        }
+      ],
+      "@cid": "JORFTEXT000000333069",
+      "@date_publi": "1977-12-29",
+      "@date_signature": "1977-12-28",
+      "@nature": "LOI",
+      "@num": "77-1447"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-03-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006273056",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001310685",
+          "@num": "11",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont abrogées toutes les dispositions contraires à la présente loi, et notamment le 5° de l'article 28 du décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière, ainsi que la loi du 22 septembre 1942 relative aux militaires, marins et civils disparus pendant la période comprise entre le 3 septembre 1939 et le 25 juin 1940, validée et modifiée par l'ordonnance du 5 avril 1944.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°55-22 du 4 janvier 1955 - art. 28 (M)",
+        "@cidtexte": "JORFTEXT000000850274",
+        "@datesignatexte": "1955-01-04",
+        "@id": "LEGIARTI000006285151",
+        "@naturetexte": "DECRET",
+        "@num": "28",
+        "@numtexte": "55-22",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 55-22 1955-01-04 art. 28",
+        "@cidtexte": "JORFTEXT000000850274",
+        "@datesignatexte": "1955-01-04",
+        "@id": "JORFTEXT000000850274",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1942-09-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 1944-04-05",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

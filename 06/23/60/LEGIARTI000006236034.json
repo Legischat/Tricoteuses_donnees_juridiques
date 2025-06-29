@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006236034",
+      "ANCIEN_ID": "PSI3PXXXXXX019AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/23/60/LEGIARTI000006236034.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-11-24",
+        "DATE_FIN": "2009-05-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 novembre 2004 portant organisation des sous-directions de la direction générale du Trésor et de la politique économique",
+          "@c_titre_court": "Arrêté du 16 novembre 2004",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000606766"
+        },
+        {
+          "#text": "Arrêté du 16 novembre 2004 portant organisation des sous-directions de la direction générale du Trésor et de la politique économique.",
+          "@c_titre_court": "Arrêté du 16 novembre 2004",
+          "@debut": "2004-11-24",
+          "@fin": "2009-05-09",
+          "@id_txt": "LEGITEXT000005875286"
+        }
+      ],
+      "@cid": "JORFTEXT000000606766",
+      "@date_publi": "2004-11-24",
+      "@date_signature": "2004-11-16",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOP0400827A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-11-24",
+          "@etat": "ABROGE",
+          "@fin": "2009-05-09",
+          "@id": "LEGIARTI000006236034",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001464381",
+          "@num": "19",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont rattachés au chef du service des politiques macroéconomiques et des affaires européennes :<br/>\n<br/>   I. - Le secrétariat de la commission économique de la nation et de la conférence économique annuelle, chargé de préparer les sessions de la commission et de la conférence.<br/>\n<br/>   Il coordonne l'élaboration du rapport sur la situation et les perspectives économiques, sociales et financières de la nation prévu à l'article 50 de la loi organique n° 2001-692 du 1er août 2001 précitée.<br/>\n<br/>   En outre, il est chargé de la valorisation des travaux de la direction générale et des relations avec les autres organismes compétents en matière de prévision. A ce titre, la revue Economie et prévision lui est rattachée ;<br/>\n<br/>   II. - La mission de coopération internationale, chargée de proposer et mettre en oeuvre les actions de coopération de la direction générale avec les services homologues des pays étrangers.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI organique n° 2001-692 du 1er août 2001 - art. 50",
+        "@cidtexte": "JORFTEXT000000394028",
+        "@datesignatexte": "2001-08-01",
+        "@id": "LEGIARTI000006321077",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "ECOX0104681L",
+        "@num": "50",
+        "@numtexte": "2001-692",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 21 avril 2009 - art. 11",
+        "@cidtexte": "JORFTEXT000020591857",
+        "@datesignatexte": "2009-04-21",
+        "@id": "LEGIARTI000020592940",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECEP0908385A",
+        "@num": "11",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

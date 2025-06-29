@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006878857",
+      "ANCIEN_ID": "UTEAZXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/88/LEGIARTI000006878857.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1970-07-10",
+        "DATE_FIN": "1995-02-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°70-597 du 9 juillet 1970 INSTITUANT LE TAUX LEGAL D'ALCOOLEMIE ET GENERALISANT LE DEPISTAGE PAR L'AIR EXPIRE",
+          "@c_titre_court": "Loi n°70-597 du 9 juillet 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000874690"
+        },
+        {
+          "#text": "Loi n° 70-597 du 9 juillet 1970 instituant un taux légal d'alcoolémie et généralisant le dépistage par l'air expiré",
+          "@c_titre_court": "Loi n° 70-597 du 9 juillet 1970",
+          "@debut": "1970-07-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068374"
+        }
+      ],
+      "@cid": "JORFTEXT000000874690",
+      "@date_publi": "1970-07-09",
+      "@date_signature": "1970-07-09",
+      "@nature": "LOI",
+      "@num": "70-597"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-07-10",
+          "@etat": "ABROGE",
+          "@fin": "1995-02-02",
+          "@id": "LEGIARTI000006878857",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de l'article L. 1er du code de la route sont applicables aux territoires de la Polynésie française, de la Nouvelle-Calédonie, de Wallis et de Futuna et de Saint-Pierre-et-Miquelon.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 95-97 1995-02-01 art. 5 1° JORF 2 février 1995",
+        "@cidtexte": "JORFTEXT000000369229",
+        "@datesignatexte": "1995-02-01",
+        "@id": "JORFTEXT000000369229",
+        "@naturetexte": "LOI",
+        "@nortexte": "DOMX9400165L",
+        "@numtexte": "95-97",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°95-97 du 1 février 1995 - art. 5 (V)",
+        "@cidtexte": "JORFTEXT000000369229",
+        "@datesignatexte": "1995-02-01",
+        "@id": "LEGIARTI000006879074",
+        "@naturetexte": "LOI",
+        "@nortexte": "DOMX9400165L",
+        "@num": "5",
+        "@numtexte": "95-97",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la route L1",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

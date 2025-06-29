@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006656314",
+      "ANCIEN_ID": "SEEB3XXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/63/LEGIARTI000006656314.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1860-07-18",
+        "DATE_FIN": "1993-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi  du 18 juillet 1860 sur l'émigration",
+          "@c_titre_court": "Loi du 18 juillet 1860",
+          "@debut": "1860-07-18",
+          "@fin": "1993-09-01",
+          "@id_txt": "LEGITEXT000006072060"
+        }
+      ],
+      "@cid": "LEGITEXT000006072060",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1860-07-18",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1860-07-18",
+          "@etat": "ABROGE",
+          "@fin": "1993-09-01",
+          "@id": "LEGIARTI000006656314",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute infraction aux dispositions des articles 1 et 4 de la présente loi est punie d'une amende de cinquante francs à cinq mille francs (0,50 F à 50 F). En cas de récidive dans l'année, l'amende est portée au double. Toute contravention aux règlements d'administration publique, aux décrets et aux arrêtés ministériels pris pour l'exécution desdits règlements et décrets, en ce qui concerne la police de l'émigration, est punie des peines portées dans l'article 470 du Code pénal.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code pénal 470",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1860-07-18 Bulletin des Lois, 11e section, B. 823, n° 7898",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 1860-07-18 art. 1, art. 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491916",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "372",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

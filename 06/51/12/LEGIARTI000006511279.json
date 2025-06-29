@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006511279",
+      "ANCIEN_ID": "ADECVXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/12/LEGIARTI000006511279.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1943-07-01",
+        "DATE_FIN": "1992-06-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°43-341 du 21 juin 1943 modifiant le régime du dépôt légal",
+          "@c_titre_court": "Loi n°43-341 du 21 juin 1943",
+          "@debut": "1943-07-01",
+          "@fin": "1992-06-23",
+          "@id_txt": "LEGITEXT000006071152"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Régime du dépôt légal",
+            "@debut": "1943-07-01",
+            "@fin": "1992-06-23",
+            "@id": "LEGISCTA000006095366"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section II : Dépôt de l'imprimeur ou du producteur.",
+              "@debut": "1943-07-01",
+              "@fin": "1992-06-23",
+              "@id": "LEGISCTA000006120073"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071152",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1943-06-21",
+      "@nature": "LOI",
+      "@num": "43-341"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1943-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1992-06-23",
+          "@id": "LEGIARTI000006511279",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le dépôt incombant à l'imprimeur ou au producteur est effectué, en ce qui concerne les imprimés, dès l'achèvement du tirage [*dépôt légal - formalités - délai*]. Il est fait directement ou par voie postale et en franchise à la Bibliothèque nationale pour la région de Paris, et pour les autres régions placées sous l'autorité des préfets régionaux, à une bibliothèque classée, habilitée par arrêté du ministre de l'Education nationale à recevoir le dépôt au lieu et place de la Bibliothèque nationale et en son nom.<br/>\n<br/>   Lorsqu'il s'agit d'ouvrages dont la confection nécessite la collaboration de plusieurs spécialistes, le dépôt est effectué par celui d'entre eux qui l'a eu le dernier en main avant la livraison à l'éditeur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°92-546 du 20 juin 1992 - art. 11 (Ab) JORF 23 juin 1992",
+        "@cidtexte": "JORFTEXT000000723108",
+        "@datesignatexte": "1992-06-20",
+        "@id": "LEGIARTI000006503945",
+        "@naturetexte": "LOI",
+        "@nortexte": "MENX9100198L",
+        "@num": "11",
+        "@numtexte": "92-546",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°43-1720 du 21 juin 1943 - art. 5 (Ab)",
+        "@cidtexte": "LEGITEXT000006071313",
+        "@datesignatexte": "1943-06-21",
+        "@id": "LEGIARTI000006545259",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "43-1720",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

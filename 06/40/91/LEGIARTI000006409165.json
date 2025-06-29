@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006409165",
+      "ANCIEN_ID": "ABHAHXXXXXX183AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/91/LEGIARTI000006409165.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "183",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1988-04-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-1388 du 27 décembre 1985 RELATIF AU REDRESSEMENT ET A LA LIQUIDATION JUDICIAIRE DES ENTREPRISES",
+          "@c_titre_court": "Décret n°85-1388 du 27 décembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000688577"
+        },
+        {
+          "#text": "Décret n°85-1388 du 27 décembre 1985 relatif au redressement et à la liquidation judiciaires des entreprises",
+          "@c_titre_court": "Décret n°85-1388 du 27 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006064820"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VI : Dispositions diverses.",
+            "@debut": "1986-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089043"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000688577",
+      "@date_publi": "1985-12-29",
+      "@date_signature": "1985-12-27",
+      "@nature": "DECRET",
+      "@num": "85-1388"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1988-04-26",
+          "@id": "LEGIARTI000006409165",
+          "@num": "183",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   [*texte abrogé*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 85-98 1985-01-25",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "JORFTEXT000000693911",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°88-430 du 21 avril 1988 - art. 19 () JORF 26 avril 1988",
+        "@cidtexte": "JORFTEXT000000872820",
+        "@datesignatexte": "1988-04-21",
+        "@id": "LEGIARTI000006414879",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX88000271",
+        "@num": "19",
+        "@numtexte": "88-430",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du travail - art. R321-10 (P)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006809103",
+        "@naturetexte": "CODE",
+        "@num": "R321-10",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

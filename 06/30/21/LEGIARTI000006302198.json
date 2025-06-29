@@ -1,0 +1,185 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006302198",
+      "ANCIEN_ID": "FAAACGIXXXX0001AAXXXXXAD",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/30/21/LEGIARTI000006302198.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "2007-08-22",
+        "DATE_FIN": "2013-06-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre premier : Assiette et liquidation de l'impôt",
+            "@debut": "1952-02-14",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084232"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Dispositions préliminaires",
+              "@debut": "2005-12-31",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006114528"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-04-30",
+          "@etat": "MODIFIE",
+          "@fin": "1979-07-01",
+          "@id": "LEGIARTI000048098061",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "MODIFIE",
+          "@fin": "1999-03-31",
+          "@id": "LEGIARTI000006302195",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-03-31",
+          "@etat": "TRANSFERE",
+          "@fin": "2005-12-31",
+          "@id": "LEGIARTI000006302196",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-12-31",
+          "@etat": "MODIFIE",
+          "@fin": "2007-08-22",
+          "@id": "LEGIARTI000006302197",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-08-22",
+          "@etat": "PERIME",
+          "@fin": "2013-06-07",
+          "@id": "LEGIARTI000006302198",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Les impôts directs payés par un contribuable ne peuvent être supérieurs à 50 % de ses revenus. <br/>\n<br/>Les conditions d'application de ce droit sont définies à l'article 1649-0 A.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1 A",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi n° 85-695 du 11 juillet 1985 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000693456",
+        "@datesignatexte": "1985-07-11",
+        "@id": "LEGIARTI000029321822",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "85-695",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°2007-1223 du 21 août 2007 - art. 11 (V)",
+        "@cidtexte": "JORFTEXT000000278649",
+        "@datesignatexte": "2007-08-21",
+        "@id": "LEGIARTI000006267451",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECEX0755909L",
+        "@num": "11",
+        "@numtexte": "2007-1223",
+        "@sens": "cible",
+        "@typelien": "MODIFIE"
+      },
+      {
+        "#text": "LOI n°2011-900\n du 29 juillet 2011 - art. 30 (V)",
+        "@cidtexte": "JORFTEXT000024413775",
+        "@datesignatexte": "2011-07-29",
+        "@id": "LEGIARTI000024415867",
+        "@naturetexte": "LOI",
+        "@nortexte": "BCRX1110529L",
+        "@num": "30",
+        "@numtexte": "2011-900",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2013-463\n du 3 juin 2013 - art. 1",
+        "@cidtexte": "JORFTEXT000027506377",
+        "@datesignatexte": "2013-06-03",
+        "@id": "LEGIARTI000027507241",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EFIE1308352D",
+        "@num": "1",
+        "@numtexte": "2013-463",
+        "@sens": "cible",
+        "@typelien": "PERIME"
+      },
+      {
+        "#text": "Code général des impôts, CGI. - art. 1649-0 A",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006306929",
+        "@naturetexte": "CODE",
+        "@num": "1649-0 A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

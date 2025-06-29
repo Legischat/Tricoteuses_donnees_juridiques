@@ -1,0 +1,161 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006645213",
+      "ANCIEN_ID": "AELXXXXXXXX131L058AXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/52/LEGIARTI000006645213.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L131-58",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2001-01-01",
+        "DATE_FIN": "2005-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code monétaire et financier",
+          "@c_titre_court": "Code monétaire et financier",
+          "@debut": "2001-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072026"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "2001-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101336"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : La monnaie",
+              "@debut": "2001-01-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123830"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre III : Les instruments de la monnaie scripturale",
+                "@debut": "2001-01-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006139711"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Le chèque",
+                  "@debut": "2001-01-01",
+                  "@fin": "2005-12-31",
+                  "@id": "LEGISCTA000006153876"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 1 : Le chèque bancaire",
+                    "@debut": "2001-01-01",
+                    "@fin": "2005-12-31",
+                    "@id": "LEGISCTA000006169880"
+                  }
+                ],
+                "TM": {
+                  "TITRE_TM": [
+                    {
+                      "#text": "Sous-section 9 : Altération.",
+                      "@debut": "2001-01-01",
+                      "@fin": "2005-12-31",
+                      "@id": "LEGISCTA000006184503"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072026",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2005-12-31",
+          "@id": "LEGIARTI000006645213",
+          "@num": "L131-58",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006645214",
+          "@num": "L131-58",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas d'altération du texte du chèque, les signataires postérieurs à cette altération sont tenus dans les termes du texte altéré ; les signataires antérieurs le sont dans les termes du texte originaire.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret-loi 1935-10-30 art. 51",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret-loi 1935-10-30 art. 51",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret-loi du 30 octobre 1935 - art. 51 (Ab)",
+        "@cidtexte": "JORFTEXT000000295221",
+        "@datesignatexte": "1935-10-30",
+        "@id": "LEGIARTI000006719691",
+        "@naturetexte": "DECRET_LOI",
+        "@num": "51",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Ordonnance n° 2000-1223 du 14 décembre 2000 (V)",
+        "@cidtexte": "JORFTEXT000000574489",
+        "@datesignatexte": "2000-12-14",
+        "@id": "LEGITEXT000005630278",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOX0000098R",
+        "@numtexte": "2000-1223",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

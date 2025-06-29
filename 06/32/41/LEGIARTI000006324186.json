@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006324186",
+      "ANCIEN_ID": "FAHGCXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/41/LEGIARTI000006324186.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1983-01-12",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-1234 du 31 décembre 1982 LA TAXE SPECIALE AYANT GREVE LES HUILES QUI AURONT EFFECTIVEMENT ETE UTILISEES POUR UN USAGE AUTRE QU'ALIMENTAIRE QUI AURONT ETE INCORPOREES A DES PRODUITS NON DESTINES A L'ALIMENTATION HUMAINE PEUT FAIRE L'OBJET D'UN REMBOURSEMENT",
+          "@c_titre_court": "Décret n°82-1234 du 31 décembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000516155"
+        },
+        {
+          "#text": "Décret n°82-1234 du 31 décembre 1982  RELATIF A LA TAXE SPECIALE SUR LES HUILES DESTINEES A L'ALIMENTATION HUMAINE.",
+          "@c_titre_court": "Décret n°82-1234 du 31 décembre 1982",
+          "@debut": "1983-01-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006063682"
+        }
+      ],
+      "@cid": "JORFTEXT000000516155",
+      "@date_publi": "1983-01-12",
+      "@date_signature": "1982-12-31",
+      "@nature": "DECRET",
+      "@num": "82-1234"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-12",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006324186",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "L'article 333 E de l'annexe III au code général des impôts est complété de la manière suivante :<br/>\n    \"Les exportateurs sont autorisés à recevoir ou à importer en franchise de taxe spéciale, dans les conditions définies à l'article 275 du code général des impôts, les huiles qu'ils destinent à l'exportation\".<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 275",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CGIAN3 333 E",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 82-1234 1982-12-31 ART. 3 : L'ARTICLE 2 PREND EFFET AU 1 JANVIER 1983",
+        "@cidtexte": "JORFTEXT000000516155",
+        "@datesignatexte": "1982-12-31",
+        "@id": "JORFTEXT000000516155",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-1234",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 333 E (M)",
+        "@cidtexte": "LEGITEXT000006069574",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006297349",
+        "@naturetexte": "CODE",
+        "@num": "333 E",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

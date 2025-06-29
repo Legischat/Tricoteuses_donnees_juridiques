@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006875072",
+      "ANCIEN_ID": "AIIIBXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/50/LEGIARTI000006875072.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2002-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 25 juin 1990 PRIS EN APPLICATION DE L'ART. 2 DU DECRET 90506 DU 25-06-1990 RELATIF A L'APPLICATION DE L'ART. 1 DE LA LOI 661010 DU 28-12-1966",
+          "@c_titre_court": "Arrêté du 25 juin 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000319853"
+        },
+        {
+          "#text": "Arrêté du 25 juin 1990 pris en application de l'article 2 du décret n° 90-506 du 25 juin 1990 relatif à l'application de l'article 1er de la loi n° 66-1010 du 28 décembre 1966",
+          "@c_titre_court": "Arrêté du 25 juin 1990",
+          "@debut": "1990-06-26",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006059423"
+        }
+      ],
+      "@cid": "JORFTEXT000000319853",
+      "@date_publi": "1990-06-26",
+      "@date_signature": "1990-06-25",
+      "@nature": "ARRETE",
+      "@nor": "ECOT9013359A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-06-26",
+          "@etat": "MODIFIE",
+          "@fin": "2002-01-01",
+          "@id": "LEGIARTI000006875071",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006875072",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'elle procède au calcul des taux effectifs moyens servant à la détermination des seuils de l'usure applicables aux prêts aux entreprises, la Banque de France ne prend pas en compte :<br/>\n<br/>   - les prêts d'une durée initiale supérieure à deux ans d'un montant supérieur à 152.449 euros ;<br/>\n<br/>   - les prêts d'une durée initiale inférieure ou égale à deux ans d'un montant supérieur à 76.225 euros;<br/>\n<br/>   - les prêts accordés pour financer un achat ou une vente à tempérament d'un montant supérieur à 45.735 euros.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2001-09-03 art. 3 XVII JORF 11 septembre 2001 en vigueur le 1er janvier 2002",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 2001-09-03 art. 7 (champ d'application territoriale)",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi 66-1010 1966-12-28",
+        "@cidtexte": "JORFTEXT000000880208",
+        "@datesignatexte": "1966-12-28",
+        "@id": "JORFTEXT000000880208",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-1010",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 90-506 1990-06-25",
+        "@cidtexte": "JORFTEXT000000159821",
+        "@datesignatexte": "1990-06-25",
+        "@id": "JORFTEXT000000159821",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOT9013359D",
+        "@numtexte": "90-506",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

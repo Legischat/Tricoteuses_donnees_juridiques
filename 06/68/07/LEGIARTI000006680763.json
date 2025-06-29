@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006680763",
+      "ANCIEN_ID": "SKAXXXXXXXX5X006200AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/07/LEGIARTI000006680763.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "62",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1949-10-05",
+        "DATE_FIN": "1991-08-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de déontologie des sages-femmes",
+          "@c_titre_court": "Code de déontologie des sages-femmes",
+          "@debut": "1949-10-05",
+          "@fin": "2004-08-08",
+          "@id_txt": "LEGITEXT000006072635"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Devoirs des sages-femmes vis-à-vis des professions médicales, paramédicales et des auxiliaires médicaux",
+            "@debut": "1949-10-05",
+            "@fin": "1991-08-14",
+            "@id": "LEGISCTA000006103070"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072635",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1949-10-05",
+          "@etat": "ABROGE",
+          "@fin": "1991-08-14",
+          "@id": "LEGIARTI000006680763",
+          "@num": "62",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-08-14",
+          "@etat": "ABROGE",
+          "@fin": "2004-08-08",
+          "@id": "LEGIARTI000006680764",
+          "@num": "62",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Après l'intervention (consultation ou opération) du médecin appelé, la sage-femme reprend la direction des soins sous sa propre responsabilité, à moins que le fait pathologique qui a suscité l'appel du médecin n'exige la continuation du concours ou de la surveillance de ce dernier.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 49-1351 1949-09-30 JORF 5 octobre 1949",
+        "@cidtexte": "JORFTEXT000000873143",
+        "@datesignatexte": "1949-09-30",
+        "@id": "JORFTEXT000000873143",
+        "@naturetexte": "DECRET",
+        "@numtexte": "49-1351",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 91-779 1991-08-08 art. 68 JORF 14 août 1991",
+        "@cidtexte": "JORFTEXT000000571498",
+        "@datesignatexte": "1991-08-08",
+        "@id": "JORFTEXT000000571498",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9101297D",
+        "@numtexte": "91-779",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

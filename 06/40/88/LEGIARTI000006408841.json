@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006408841",
+      "ANCIEN_ID": "PAHKRXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/88/LEGIARTI000006408841.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-09-10",
+        "DATE_FIN": "2008-04-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°71-351 du 4 mai 1971 INSTITUANT UN TITRE D'INGENIEUR DIPLOME DE L'ARMEE DE TERRE",
+          "@c_titre_court": "Décret n°71-351 du 4 mai 1971",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000875692"
+        },
+        {
+          "#text": "Décret n°71-351 du 4 mai 1971 instituant le titre d'ingénieur diplômé de l'armée de terre.",
+          "@c_titre_court": "Décret n°71-351 du 4 mai 1971",
+          "@debut": "1971-05-11",
+          "@fin": "2008-04-26",
+          "@id_txt": "LEGITEXT000006061814"
+        }
+      ],
+      "@cid": "JORFTEXT000000875692",
+      "@date_publi": "1971-05-11",
+      "@date_signature": "1971-05-04",
+      "@nature": "DECRET",
+      "@num": "71-351"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-09-10",
+          "@etat": "ABROGE",
+          "@fin": "2008-04-26",
+          "@id": "LEGIARTI000006408841",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le bénéfice des dispositions de l'article 1er ci-dessus est étendu aux fonctionnaires des corps de catégorie A du ministère de la défense s'ils remplissent les conditions exigées audit article.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°71-351 du 4 mai 1971 - art. 1",
+        "@cidtexte": "JORFTEXT000000875692",
+        "@datesignatexte": "1971-05-04",
+        "@id": "LEGIARTI000006408840",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "71-351",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 91-886 1991-09-05 art. 1 JORF 10 septembre 1991",
+        "@cidtexte": "JORFTEXT000000172160",
+        "@datesignatexte": "1991-09-05",
+        "@id": "JORFTEXT000000172160",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFP9101558D",
+        "@numtexte": "91-886",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2008-393 du 23 avril 2008 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000018693291",
+        "@datesignatexte": "2008-04-23",
+        "@id": "LEGIARTI000018705907",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFD0773694D",
+        "@num": "4",
+        "@numtexte": "2008-393",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

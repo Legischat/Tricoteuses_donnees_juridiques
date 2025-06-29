@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006602015",
+      "ANCIEN_ID": "RAHBEXXXXXX023AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/20/LEGIARTI000006602015.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-07-30",
+        "DATE_FIN": "1981-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°63-752 du 27 juillet 1963 PORTANT REFORME DU REGIME FINANCIER ET COMPTABLE DES CHAMBRES D'AGRICULTURE",
+          "@c_titre_court": "Décret n°63-752 du 27 juillet 1963",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000490858"
+        },
+        {
+          "#text": "Décret n°63-752 du 27 juillet 1963 portant réforme du régime financier et comptable des chambres d'agriculture",
+          "@c_titre_court": "Décret n°63-752 du 27 juillet 1963",
+          "@debut": "1963-07-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061146"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dispositions communes aux services généraux et aux établissements et services d'utilité agricole.",
+            "@debut": "1963-07-30",
+            "@fin": "1981-03-27",
+            "@id": "LEGISCTA000006098493"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000490858",
+      "@date_publi": "1963-07-30",
+      "@date_signature": "1963-07-27",
+      "@nature": "DECRET",
+      "@num": "63-752"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-30",
+          "@etat": "ABROGE",
+          "@fin": "1981-03-27",
+          "@id": "LEGIARTI000006602015",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La durée de l'exercice est fixée à douze mois. L'exercice commence le 1er janvier et s'achève le 31 décembre.<br/>\n<br/>   Tous les droits acquis et tous les services faits au cours d'un exercice doivent être comptabilisés au titre de cet exercice, sauf dérogations prévues par le ministre de l'agriculture et le ministre des finances et des affaires économiques.<br/>\n<br/>   L'ordonnateur dispose après le 31 décembre d'un délai de deux mois pour constater l'exécution des dépenses et des recettes se rapportant à l'année écoulée.<br/>\n<br/>   Le comptable dispose du même délai pour comptabiliser les droits afférents à cette exécution.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural nouveau livre V",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret n°63-752 du 27 juillet 1963 - art. 30 (Ab)",
+        "@cidtexte": "JORFTEXT000000490858",
+        "@datesignatexte": "1963-07-27",
+        "@id": "LEGIARTI000006602023",
+        "@naturetexte": "DECRET",
+        "@num": "30",
+        "@numtexte": "63-752",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-277 1981-03-18 art. 2 JORF 27 mars 1981",
+        "@cidtexte": "JORFTEXT000000685109",
+        "@datesignatexte": "1981-03-18",
+        "@id": "JORFTEXT000000685109",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-277",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

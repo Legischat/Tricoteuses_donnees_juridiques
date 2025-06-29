@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006768086",
+      "ANCIEN_ID": "SSHAPDXXXXX005AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/80/LEGIARTI000006768086.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1960-02-12",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°60-116 du 8 février 1960 CONTENTIEUX DE LA SECURITE SOCIALE",
+          "@c_titre_court": "Décret n°60-116 du 8 février 1960",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000491863"
+        },
+        {
+          "#text": "Décret n°60-116 du 8 février 1960 relatif au contentieux des régimes spéciaux de sécurité sociale.",
+          "@c_titre_court": "Décret n°60-116 du 8 février 1960",
+          "@debut": "1960-02-12",
+          "@fin": "1985-12-21",
+          "@id_txt": "LEGITEXT000006060940"
+        }
+      ],
+      "@cid": "JORFTEXT000000491863",
+      "@date_publi": "1960-02-12",
+      "@date_signature": "1960-02-08",
+      "@nature": "DECRET",
+      "@num": "60-116"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-02-12",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006768086",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 56-1203 du 26 novembre 1956 relatif aux contestations d'ordre technique dans les régimes spéciaux de sécurité sociale est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 56-1203 1956-11-26 (abrogé)",
+        "@cidtexte": "JORFTEXT000000685810",
+        "@datesignatexte": "1956-11-26",
+        "@id": "JORFTEXT000000685810",
+        "@naturetexte": "DECRET",
+        "@numtexte": "56-1203",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-1353 1985-12-17 art. 6 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000866621",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000866621",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1353",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006619636",
+      "ANCIEN_ID": "RDIISXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/96/LEGIARTI000006619636.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2002-01-02",
+        "DATE_FIN": "2012-06-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 décembre 2001 relatif à l'attestation d'importation ou d'exportation de matériels de guerre, armes et munitions",
+          "@c_titre_court": "Arrêté du 13 décembre 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000763518"
+        },
+        {
+          "#text": "Arrêté du 13 décembre 2001 relatif à l'attestation d'importation ou d'exportation de matériels de guerre, armes et munitions",
+          "@c_titre_court": "Arrêté du 13 décembre 2001",
+          "@debut": "2002-01-02",
+          "@fin": "2012-06-30",
+          "@id_txt": "LEGITEXT000005631847"
+        }
+      ],
+      "@cid": "JORFTEXT000000763518",
+      "@date_publi": "2001-12-20",
+      "@date_signature": "2001-12-13",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOD0160341A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-01-02",
+          "@etat": "ABROGE",
+          "@fin": "2012-06-30",
+          "@id": "LEGIARTI000006619636",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les importateurs et les exportateurs de matériels de guerre, armes et munitions en provenance ou à destination de pays tiers à la Communauté européenne sont tenus de joindre à leurs déclarations de douane l'attestation enregistrée sous le numéro CERFA 11190*01 dans les cas suivants :<br/>\n<br/>   - matériels de guerre, armes et munitions repris dans les catégories 1, 2, 3 et 4 telles que celles-ci sont définies par l'article 2 du décret n° 95-589 du 6 mai 1995 susvisé, lorsqu'ils sont importés pour la consommation en provenance de pays tiers à la Communauté européenne ;<br/>\n<br/>   - matériels de guerre et matériels assimilés repris dans les catégories définies par l'article 1er de l'arrêté du 20 novembre 1991 susvisé, lorsqu'ils sont exportés en simple sortie ou réexportés en suite de perfectionnement actif sauf pour réparation à destination de pays tiers à la Communauté européenne.<br/>\n<br/>   Nota - Le modèle de ce formulaire sera publié au Bulletin officiel des douanes.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-11-20 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n° 95-589 du 6 mai 1995 - art. 2",
+        "@cidtexte": "JORFTEXT000000736335",
+        "@datesignatexte": "1995-05-06",
+        "@id": "LEGIARTI000006629360",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFC9501482D",
+        "@num": "2",
+        "@numtexte": "95-589",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 juin 2012 - art. 1",
+        "@cidtexte": "JORFTEXT000026053124",
+        "@datesignatexte": "2012-06-20",
+        "@id": "LEGIARTI000026053817",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BUDD1221446A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

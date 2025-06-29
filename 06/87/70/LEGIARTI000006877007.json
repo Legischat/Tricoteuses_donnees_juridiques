@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006877007",
+      "ANCIEN_ID": "URIC5XXXXXX030AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/70/LEGIARTI000006877007.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2003-07-06",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 mars 2003 relatif à l'industrie du verre et de la fibre minérale",
+          "@c_titre_court": "Arrêté du 12 mars 2003",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000411785"
+        },
+        {
+          "#text": "Arrêté du 12 mars 2003 relatif à l'industrie du verre et de la fibre minérale",
+          "@c_titre_court": "Arrêté du 12 mars 2003",
+          "@debut": "2003-07-06",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005634695"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE VI : VALEURS LIMITES D'ÉMISSIONS.",
+            "@debut": "2003-07-06",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006111372"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000411785",
+      "@date_publi": "2003-07-06",
+      "@date_signature": "2003-03-12",
+      "@ministere": "MINISTERE DE L'ECOLOGIE ET DU DEVELOPPEMENT DURABLE",
+      "@nature": "ARRETE",
+      "@nor": "DEVP0320122A",
+      "@num_parution_jo": "0155"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-07-06",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006877007",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les valeurs limites d'émission à l'atmosphère des fours concernant les flux spécifiques (en kg/tonne de verre) sont calculées à partir des concentrations (en mg/Nm<sup>3</sup>) fixées dans le présent arrêté d'une part et d'autre part des facteurs de conversion fixés pour différents types de verre à l'annexe III du présent arrêté selon la formule ci-après :</p>\n<p>Flux spécifique (en kg/tonne de verre) = Concentration (en mg/Nm<sup>3</sup>) x Facteur de conversion majorant visé à l'annexe III du présent arrêté.</p>\n<p>Pour les types de verre non mentionnés à l'annexe III, le facteur de conversion sera évalué à partir d'un bilan énergétique et d'un calcul de débit de gaz résiduaire induit par les différents combustibles et la décomposition des matières premières fournis par l'exploitant par la formule suivante :<br/>\nfacteur de conversion = (D/T) x 10<sup>-6</sup>\n</p>\n<p>- avec D = somme du débit de gaz résiduaires de combustion et du débit de gaz issu de la décomposition des matières premières (en Nm<sup>3</sup>/h exprimé sur gaz secs et à la teneur en oxygène de référence du four considéré) ;</p>\n<p>- et T = tirée en tonnes de verre fondu par heure.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2003-03-12 annexe III",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Directive 2001-81 CE 2001-10-23 (Conseil)",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Directive 96-61 CE 1996-09-24 (Conseil)",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

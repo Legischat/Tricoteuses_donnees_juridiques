@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006698838",
+      "ANCIEN_ID": "AFEATXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/88/LEGIARTI000006698838.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1913-08-10",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 8 août 1913 relative au warrant hôtelier.",
+          "@c_titre_court": "Loi du 8 août 1913",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518746"
+        },
+        {
+          "#text": "Loi du 8 août 1913 relative au warrant hôtelier",
+          "@c_titre_court": "Loi du 8 août 1913",
+          "@debut": "1913-08-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072675"
+        }
+      ],
+      "@cid": "JORFTEXT000000518746",
+      "@date_publi": "1913-08-10",
+      "@date_signature": "1913-08-08",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1913-08-10",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006698838",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le warrant est transmissible par voie d'endossement établi suivant les prescriptions de l'article 4, mais non soumis à la formalité de la transcription comme le premier endossement.<br/>\n<br/>   Tous ceux qui ont signé ou endossé un warrant sont tenus à la garantie solidaire envers le porteur.<br/>\n<br/>   L'escompteur ou les réescompteurs d'un warrant sont tenus d'aviser, dans les huit jours, le greffier du tribunal de commerce, par pli recommandé, avec accusé de réception, ou verbalement contre récépissé de l'avis.<br/>\n<br/>   L'emprunteur peut, par une mention spéciale inscrite sur le warrant, dispenser l'escompteur et les réescompteurs de donner cet avis ; en ce cas, il n'y a pas lieu à application des dispositions des deux derniers paragraphes de l'article 8.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L523-5 (VT)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234323",
+        "@naturetexte": "CODE",
+        "@num": "L523-5",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de commerce. - art. L523-5 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234323",
+        "@naturetexte": "CODE",
+        "@num": "L523-5",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Loi 1913-08-08 art. 4, art. 8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

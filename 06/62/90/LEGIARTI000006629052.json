@@ -1,0 +1,137 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006629052",
+      "ANCIEN_ID": "RIHANXXXXXX032AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/90/LEGIARTI000006629052.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "32",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-03-31",
+        "DATE_FIN": "1995-05-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-364 du 12 mars 1973 RELATIF A L'APPLICATION DU DECRET DU 18-04-1939 FIXANT LE REGIME DES MATERIELS DE GUERRE,ARMES ET MUNITIONS",
+          "@c_titre_court": "Décret n°73-364 du 12 mars 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000495105"
+        },
+        {
+          "#text": "Décret n°73-364 du 12 mars 1973 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions",
+          "@c_titre_court": "Décret n°73-364 du 12 mars 1973",
+          "@debut": "1993-01-07",
+          "@fin": "1995-05-07",
+          "@id_txt": "LEGITEXT000006062093"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Acquisition, détention et port des armes et munitions",
+            "@debut": "1973-03-30",
+            "@fin": "1995-05-07",
+            "@id": "LEGISCTA000006100043"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre I : Acquisition et détention.",
+              "@debut": "1973-03-30",
+              "@fin": "1995-05-07",
+              "@id": "LEGISCTA000006122868"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000495105",
+      "@date_publi": "1973-03-30",
+      "@date_signature": "1973-03-12",
+      "@nature": "DECRET",
+      "@num": "73-364"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-03-31",
+          "@etat": "ABROGE",
+          "@fin": "1995-05-07",
+          "@id": "LEGIARTI000006629052",
+          "@num": "32",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les autorisations d'acquisition et de détention d'armes et de munitions peuvent être retirées, pour des raisons d'ordre public ou de sécurité des personnes, par le préfet qui les a délivrées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 1939-04-18",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°73-364 du 12 mars 1973 - art. 16-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000495105",
+        "@datesignatexte": "1973-03-12",
+        "@id": "LEGIARTI000006629019",
+        "@naturetexte": "DECRET",
+        "@num": "16-1",
+        "@numtexte": "73-364",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 89-193 1989-03-24",
+        "@cidtexte": "JORFTEXT000000509672",
+        "@datesignatexte": "1989-03-24",
+        "@id": "JORFTEXT000000509672",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTD8900063D",
+        "@numtexte": "89-193",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 89-193 1989-03-24 art. 4 JORF 31 mars 1989",
+        "@cidtexte": "JORFTEXT000000509672",
+        "@datesignatexte": "1989-03-24",
+        "@id": "JORFTEXT000000509672",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTD8900063D",
+        "@numtexte": "89-193",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°95-589 du 6 mai 1995 - art. 124 (VT) JORF 7 mai 1995",
+        "@cidtexte": "JORFTEXT000000736335",
+        "@datesignatexte": "1995-05-06",
+        "@id": "LEGIARTI000006629563",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFC9501482D",
+        "@num": "124",
+        "@numtexte": "95-589",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

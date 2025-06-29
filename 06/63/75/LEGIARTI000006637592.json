@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006637592",
+      "ANCIEN_ID": "ADIZFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/75/LEGIARTI000006637592.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-07-31",
+        "DATE_FIN": "2012-03-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 juin 1974 CONDITIONS D'HYGIENE, INSPECTION SANITAIRE ET QUALITATIVE",
+          "@c_titre_court": "Arrêté du 26 juin 1974",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000492678"
+        },
+        {
+          "#text": "Arrêté du 26 juin 1974 réglementant les conditions hygiéniques de congélation, de conservation et de décongélation des denrées animales et d'origine animale",
+          "@c_titre_court": "Arrêté du 26 juin 1974",
+          "@debut": "1974-07-31",
+          "@fin": "2012-03-03",
+          "@id_txt": "LEGITEXT000006071994"
+        }
+      ],
+      "@cid": "JORFTEXT000000492678",
+      "@date_publi": "1974-07-31",
+      "@date_signature": "1974-06-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-07-31",
+          "@etat": "ABROGE",
+          "@fin": "2012-03-03",
+          "@id": "LEGIARTI000006637592",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les prescriptions édictées par le présent arrêté visent les conditions de congélation, de conservation et de décongélation des denrées animales ou d'origine animale visées à l'article 1er du décret n° 71-636 du 21 juillet 1971.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-295 1967-03-31",
+        "@cidtexte": "JORFTEXT000000305784",
+        "@datesignatexte": "1967-03-31",
+        "@id": "JORFTEXT000000305784",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-295",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°71-636 du 21 juillet 1971 - art. 1",
+        "@cidtexte": "JORFTEXT000000335914",
+        "@datesignatexte": "1971-07-21",
+        "@id": "LEGIARTI000006638188",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "71-636",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 15 février 2012 - art. 1",
+        "@cidtexte": "JORFTEXT000025423193",
+        "@datesignatexte": "2012-02-15",
+        "@id": "LEGIARTI000025424525",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG1204467A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

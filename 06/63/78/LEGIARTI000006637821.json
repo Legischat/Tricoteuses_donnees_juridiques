@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006637821",
+      "ANCIEN_ID": "RLEABXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/78/LEGIARTI000006637821.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1969-01-05",
+        "DATE_FIN": "1996-04-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°69-10 du 3 janvier 1969 ETABLISSEMENT DU PAIEMENT DU LAIT EN FONCTION DE SA COMPOSITION ET DE SA QUALITE, LAITS DE VACHE, DE CHEVRE ET DE BREBIS",
+          "@c_titre_court": "Loi n°69-10 du 3 janvier 1969",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693411"
+        },
+        {
+          "#text": "Loi n°69-10 du 3 janvier 1969 relative à l'institution du paiement du lait en fonction de sa composition et de sa qualité",
+          "@c_titre_court": "Loi n°69-10 du 3 janvier 1969",
+          "@debut": "1969-01-05",
+          "@fin": "1998-07-09",
+          "@id_txt": "LEGITEXT000006068330"
+        }
+      ],
+      "@cid": "JORFTEXT000000693411",
+      "@date_publi": "1969-01-05",
+      "@date_signature": "1969-01-03",
+      "@nature": "LOI",
+      "@num": "69-10"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-01-05",
+          "@etat": "MODIFIE",
+          "@fin": "1996-04-13",
+          "@id": "LEGIARTI000006637821",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-04-13",
+          "@etat": "ABROGE",
+          "@fin": "1998-07-09",
+          "@id": "LEGIARTI000006637822",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des décrets, pris après consultation du comité national du lait et des produits laitiers, fixeront, selon leur destination, les normes de composition et de qualité hygiénique et biologique auxquelles devront satisfaire les laits destinés à l'alimentation humaine et animale hors l'élevage où ils ont été produits.<br/>\n<br/>   Ils fixeront également les conditions de mise en oeuvre des dispositions qui précèdent et notamment leur date d'application.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 69-10 1969-01-03 art. 4 *sanctions*",
+        "@cidtexte": "JORFTEXT000000693411",
+        "@datesignatexte": "1969-01-03",
+        "@id": "JORFTEXT000000693411",
+        "@naturetexte": "LOI",
+        "@numtexte": "69-10",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi n°69-10 du 3 janvier 1969 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000693411",
+        "@datesignatexte": "1969-01-03",
+        "@id": "LEGIARTI000006637824",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "69-10",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°69-10 du 3 janvier 1969 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000693411",
+        "@datesignatexte": "1969-01-03",
+        "@id": "LEGIARTI000006637826",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@numtexte": "69-10",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

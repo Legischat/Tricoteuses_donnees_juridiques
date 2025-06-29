@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006680652",
+      "ANCIEN_ID": "SKAXXXXXXXX5X001000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/06/LEGIARTI000006680652.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1949-10-05",
+        "DATE_FIN": "1991-08-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de déontologie des sages-femmes",
+          "@c_titre_court": "Code de déontologie des sages-femmes",
+          "@debut": "1949-10-05",
+          "@fin": "2004-08-08",
+          "@id_txt": "LEGITEXT000006072635"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Devoirs généraux des sages-femmes.",
+            "@debut": "1949-10-05",
+            "@fin": "2004-08-08",
+            "@id": "LEGISCTA000006103066"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072635",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1949-10-05",
+          "@etat": "ABROGE",
+          "@fin": "1991-08-14",
+          "@id": "LEGIARTI000006680652",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-08-14",
+          "@etat": "ABROGE",
+          "@fin": "2004-08-08",
+          "@id": "LEGIARTI000006680653",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "L'exercice de la profession de sage-femme est un ministère ; celle-ci ne doit, en aucun cas, ni d'aucune façon être pratiquée comme un commerce.<br/>\n    Sont spécialement interdits à une sage-femme :<br/>\n    1° Tous les procédés de réclame ou de publicité personnelle de caractère commercial, notamment les appels par la presse ou par la radiodiffusion, sauf dans des cas exceptionnels et avec l'autorisation du conseil départemental ou en cas d'urgence de son représentant qualifié ;<br/>\n    2° Les manifestations spectaculaires n'ayant pas exclusivement un but scientifique ou éducatif ;<br/>\n    3° Toute collaboration à une entreprise commerciale de soins dans laquelle la sage-femme n'aurait pas sa complète indépendance professionnelle.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 49-1351 1949-09-30 JORF 5 octobre 1949",
+        "@cidtexte": "JORFTEXT000000873143",
+        "@datesignatexte": "1949-09-30",
+        "@id": "JORFTEXT000000873143",
+        "@naturetexte": "DECRET",
+        "@numtexte": "49-1351",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 91-779 1991-08-08 art. 68 JORF 14 août 1991",
+        "@cidtexte": "JORFTEXT000000571498",
+        "@datesignatexte": "1991-08-08",
+        "@id": "JORFTEXT000000571498",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9101297D",
+        "@numtexte": "91-779",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

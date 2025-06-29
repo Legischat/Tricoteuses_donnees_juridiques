@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006399027",
+      "ANCIEN_ID": "ABEAAXXXXXX127AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/39/90/LEGIARTI000006399027.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "127",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1968-01-01",
+        "DATE_FIN": "1983-05-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°67-563 du 13 juillet 1967 SUR LE REGLEMENT JUDICIAIRE,LA LIQUIDATION DES BIENS,LA FAILLITE PERSONNELLE ET LES BANQUEROUTES",
+          "@c_titre_court": "Loi n°67-563 du 13 juillet 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000878028"
+        },
+        {
+          "#text": "Loi n° 67-563 du 13 juillet 1967 sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes",
+          "@c_titre_court": "Loi n° 67-563 du 13 juillet 1967",
+          "@debut": "1968-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068312"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Banqueroutes et autres infractions",
+            "@debut": "1968-01-01",
+            "@fin": "1986-01-01",
+            "@id": "LEGISCTA000006088055"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Banqueroutes et délits assimilés aux banqueroutes",
+              "@debut": "1968-01-01",
+              "@fin": "1986-01-01",
+              "@id": "LEGISCTA000006116716"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 1 : Banqueroute simple.",
+                "@debut": "1968-01-01",
+                "@fin": "1986-01-01",
+                "@id": "LEGISCTA000006135648"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000878028",
+      "@date_publi": "1967-07-14",
+      "@date_signature": "1967-07-13",
+      "@nature": "LOI",
+      "@num": "67-563"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1983-05-03",
+          "@id": "LEGIARTI000006399027",
+          "@num": "127",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-03",
+          "@etat": "ABROGE",
+          "@fin": "1986-01-01",
+          "@id": "LEGIARTI000006399028",
+          "@num": "127",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est coupable de banqueroute simple [*définition*] tout commerçant personne physique en état de cessation des paiements qui se trouve dans un des cas suivants :<br/>\n<br/>   1. Si ses dépenses personnelles ou les dépenses de sa maison sont jugées excessives ;<br/>\n<br/>   2. S'il a consommé des sommes élevées dans des opérations de pur hasard ou des opérations fictives ;<br/>\n<br/>   3. Si, dans l'intention de retarder la constatation de la cessation de ses paiements, il a fait des achats en vue d'une revente au-dessous du cours ou si, dans la même intention, il a employé des moyens ruineux pour se procurer des fonds ;<br/>\n<br/>   4. Si, ayant été déclaré, soit deux fois en faillite au sens des articles 437 à 614-26 du code de commerce tels qu'ils étaient en vigueur avant la mise en application de la présente loi, soit une fois en faillite au sens desdits articles et une fois en état de liquidation des biens, soit deux fois en état de liquidation des biens, ces procédures ont été clôturées pour insuffisance d'actif ;    5. S'il n'a tenu aucune comptabilité conforme aux usages de la profession, eu égard à l'importance de l'entreprise ;<br/>\n<br/>   6. S'il a exercé sa profession contrairement à une interdiction prévue par la loi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°88-828 du 20 juillet 1988 - art. 20 (V)",
+        "@cidtexte": "JORFTEXT000000684074",
+        "@datesignatexte": "1988-07-20",
+        "@id": "LEGIARTI000006491079",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX8800077L",
+        "@num": "20",
+        "@numtexte": "88-828",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de commerce 437 à 614-26",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000005634379",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

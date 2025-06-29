@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006238587",
+      "ANCIEN_ID": "RGHIZXXXXXX009AAXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/23/85/LEGIARTI000006238587.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-01-01",
+        "DATE_FIN": "2009-04-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 9 février 2005 relatif à l'appellation d'origine contrôlée « Côtes de Provence »",
+          "@c_titre_court": "Décret du 9 février 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000444250"
+        },
+        {
+          "#text": "Décret du 9 février 2005 relatif à l'appellation d'origine contrôlée \"Côtes de Provence\"",
+          "@c_titre_court": "Décret du 9 février 2005",
+          "@debut": "2005-02-10",
+          "@fin": "2009-04-02",
+          "@id_txt": "LEGITEXT000006051253"
+        }
+      ],
+      "@cid": "JORFTEXT000000444250",
+      "@date_publi": "2005-02-10",
+      "@date_signature": "2005-02-09",
+      "@ministere": "MINISTERE DE L'AGRICULTURE, DE L'ALIMENTATION, DE LA PECHE ET DE LA RURALITE",
+      "@nature": "DECRET",
+      "@nor": "AGRP0500009D"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-02-10",
+          "@etat": "MODIFIE",
+          "@fin": "2005-10-08",
+          "@id": "LEGIARTI000006238585",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-10-08",
+          "@etat": "MODIFIE",
+          "@fin": "2007-01-01",
+          "@id": "LEGIARTI000006238586",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2009-04-02",
+          "@id": "LEGIARTI000006238587",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001481788",
+          "@num": "9",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les vins ne peuvent être mis en circulation avec l'appellation d'origine contrôlée \"Côtes de Provence\" ou \"Côtes de Provence\" complétée du nom \"Sainte-Victoire\" ou du nom : \"Fréjus\" sans un certificat d'agrément délivré par l'Institut national de l'origine et de la qualité dans les conditions prévues aux articles D. 641-94 à D. 641-98 du code rural.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural D641-94 à D641-98",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 2006-11 2006-01-05 art. 73 IV, VI JORF 6 janvier 2006 en vigueur au plus tard le 1er janvier 2007",
+        "@cidtexte": "JORFTEXT000000264992",
+        "@datesignatexte": "2006-01-05",
+        "@id": "JORFTEXT000000264992",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX0500091L",
+        "@numtexte": "2006-11",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2009-356\n du 30 mars 2009 - art. 6",
+        "@cidtexte": "JORFTEXT000020467551",
+        "@datesignatexte": "2009-03-30",
+        "@id": "LEGIARTI000020469017",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRP0900831D",
+        "@num": "6",
+        "@numtexte": "2009-356",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

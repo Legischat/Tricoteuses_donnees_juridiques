@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006468486",
+      "ANCIEN_ID": "ACEBGXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/84/LEGIARTI000006468486.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-01-19",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°51-59 du 18 janvier 1951 NANTISSEMENT DE L'OUTILLAGE ET MATERIEL D'EQUIPEMENT PROFESSIONNEL",
+          "@c_titre_court": "Loi n°51-59 du 18 janvier 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886643"
+        },
+        {
+          "#text": "Loi n°51-59 du 18 janvier 1951 relative au nantissement de l'outillage et du matériel d'équipement",
+          "@c_titre_court": "Loi n°51-59 du 18 janvier 1951",
+          "@debut": "1951-01-19",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006068096"
+        }
+      ],
+      "@cid": "JORFTEXT000000886643",
+      "@date_publi": "1951-01-19",
+      "@date_signature": "1951-01-18",
+      "@nature": "LOI",
+      "@num": "51-59"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-19",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006468486",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A peine du nullité, le nantissement doit être conclu au plus tard dans le délai de deux mois à compter du jour de la livraison du matériel d'équipement sur les lieux où il devra être installé.<br/>\n<br/>   A peine de nullité également, le nantissement doit être inscrit dans les conditions requises par les articles 10 et 11 de la loi du 17 mars 1909 relative à la vente et au nantissement des fonds de commerce, et dans un délai de quinze jours à compter de la date de l'acte constitutif du nantissement.<br/>\n<br/>   Lorsque la livraison du matériel intervient après la date prévue dans le contrat ou si elle n'est pas faite au lieu primitivement fixé, les créances inscrites deviendront de plein droit exigibles si le débiteur n'a pas fait connaître, dans les quinze jours de cette livraison, au créancier nanti, la date ou le lieu auquel elle est intervenue.<br/>\n<br/>   Le nantissement ne pourra être opposé aux tiers si, dans la quinzaine de l'avis à lui notifié ou dans la quinzaine du jour où il aura eu connaissance de la date ou du lieu de la livraison, le créancier nanti n'a pas requis du greffier du tribunal où a été prise l'inscription du nantissement, que mention soit faite de cette date ou de ce lieu en marge de ladite inscription.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1909-03-17 art. 10, art. 11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 51-59 1951-01-18 art. 23 *champ d'application aux DOM -TOM*",
+        "@cidtexte": "JORFTEXT000000886643",
+        "@datesignatexte": "1951-01-18",
+        "@id": "JORFTEXT000000886643",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-59",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°51-59 du 18 janvier 1951 - art. 16 (Ab)",
+        "@cidtexte": "JORFTEXT000000886643",
+        "@datesignatexte": "1951-01-18",
+        "@id": "LEGIARTI000006468600",
+        "@naturetexte": "LOI",
+        "@num": "16",
+        "@numtexte": "51-59",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L525-3 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234757",
+        "@naturetexte": "CODE",
+        "@num": "L525-3",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

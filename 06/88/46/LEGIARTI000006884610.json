@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006884610",
+      "ANCIEN_ID": "UTHUEXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/46/LEGIARTI000006884610.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-10",
+        "DATE_FIN": "1985-08-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°56-726 du 20 juillet 1956 ORGANISATION ET CONDITIONS DE FONCTIONNEMENT DU CONSEIL SUPERIEUR DE L'AVIATION MARCHANDE",
+          "@c_titre_court": "Décret n°56-726 du 20 juillet 1956",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000330098"
+        },
+        {
+          "#text": "Décret n°56-726 du 20 juillet 1956 fixant l'organisation et les conditions de fonctionnement du conseil supérieur de l'aviation marchande.",
+          "@c_titre_court": "Décret n°56-726 du 20 juillet 1956",
+          "@debut": "1956-07-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060776"
+        }
+      ],
+      "@cid": "JORFTEXT000000330098",
+      "@date_publi": "1956-07-24",
+      "@date_signature": "1956-07-20",
+      "@nature": "DECRET",
+      "@num": "56-726"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-10",
+          "@etat": "ABROGE",
+          "@fin": "1985-08-29",
+          "@id": "LEGIARTI000006884610",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°56-726 du 20 juillet 1956 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000330098",
+        "@datesignatexte": "1956-07-20",
+        "@id": "LEGIARTI000006884612",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "56-726",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 59-159 1959-01-07 art. 1 JORF 10 janvier 1959",
+        "@cidtexte": "JORFTEXT000000670963",
+        "@datesignatexte": "1959-01-07",
+        "@id": "JORFTEXT000000670963",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-159",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 85-907 1985-08-09 art. 6 JORF 29 août 1985",
+        "@cidtexte": "JORFTEXT000000323577",
+        "@datesignatexte": "1985-08-09",
+        "@id": "JORFTEXT000000323577",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-907",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006704273",
+      "ANCIEN_ID": "SPHDPXXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/42/LEGIARTI000006704273.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-09-01",
+        "DATE_FIN": "1999-11-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-848 du 22 août 1973 RELATIF A L'INTERNAT EN PHARMACIE",
+          "@c_titre_court": "Décret n°73-848 du 22 août 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000859895"
+        },
+        {
+          "#text": "Décret n°73-848 du 22 août 1973 relatif à l'internat en pharmacie.",
+          "@c_titre_court": "Décret n°73-848 du 22 août 1973",
+          "@debut": "1973-09-01",
+          "@fin": "1999-11-11",
+          "@id_txt": "LEGITEXT000006062129"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE V : Nomination et fonctions.",
+            "@debut": "1973-09-01",
+            "@fin": "1999-11-11",
+            "@id": "LEGISCTA000006104031"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000859895",
+      "@date_publi": "1973-09-01",
+      "@date_signature": "1973-08-22",
+      "@nature": "DECRET",
+      "@num": "73-848"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-09-01",
+          "@etat": "ABROGE",
+          "@fin": "1999-11-11",
+          "@id": "LEGIARTI000006704273",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les internes en pharmacie sont soumis à l'ensemble des dispositions de la législation sur la sécurité sociale applicables aux salariés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°73-848 du 22 août 1973 - art. 26 (Ab)",
+        "@cidtexte": "JORFTEXT000000859895",
+        "@datesignatexte": "1973-08-22",
+        "@id": "LEGIARTI000006704280",
+        "@naturetexte": "DECRET",
+        "@num": "26",
+        "@numtexte": "73-848",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°99-930 du 10 novembre 1999 - art. 43 () JORF 11 novembre 1999",
+        "@cidtexte": "JORFTEXT000000397318",
+        "@datesignatexte": "1999-11-10",
+        "@id": "LEGIARTI000006724064",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MESH9923007D",
+        "@num": "43",
+        "@numtexte": "99-930",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

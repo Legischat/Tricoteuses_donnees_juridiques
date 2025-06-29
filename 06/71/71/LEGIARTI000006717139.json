@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006717139",
+      "ANCIEN_ID": "AFFAMXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/71/LEGIARTI000006717139.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1816-07-03",
+        "DATE_FIN": "2005-08-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance du 3 juillet 1816 autorisant la Caisse des dépôts et consignations à recevoir les dépôts volontaires des particuliers.",
+          "@c_titre_court": "Ordonnance du 3 juillet 1816",
+          "@debut": "1816-07-03",
+          "@fin": "2005-08-25",
+          "@id_txt": "LEGITEXT000006072843"
+        }
+      ],
+      "@cid": "LEGITEXT000006072843",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1816-07-03",
+      "@nature": "ORDONNANCE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1816-07-03",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-25",
+          "@id": "LEGIARTI000006717139",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de perte d'un récépissé, le déposant devra former opposition fondée sur cette cause ; ladite opposition sera insérée par extrait dans le Journal officiel, aux frais et diligence du réclamant ; un mois après ladite insertion, la caisse sera valablement libérée en lui remboursant le montant du dépôt sur sa quittance motivée.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2005-1007 du 2 août 2005 - art. 5 (V) JORF 25 août 2005",
+        "@cidtexte": "JORFTEXT000000451781",
+        "@datesignatexte": "2005-08-02",
+        "@id": "LEGIARTI000006244165",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOX0500001D",
+        "@num": "5",
+        "@numtexte": "2005-1007",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. R518-42 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006685438",
+        "@naturetexte": "CODE",
+        "@num": "R518-42",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Ordonnance 1816-07-03, Bull. lois, 7e S., B. 98, n° 877",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

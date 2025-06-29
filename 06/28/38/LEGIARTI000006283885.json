@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283885",
+      "ANCIEN_ID": "AREAXXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/38/LEGIARTI000006283885.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°68-5 du 3 janvier 1968 PORTANT REFORME DU DROIT DES INCAPABLES MAJEURS",
+          "@c_titre_court": "Loi n°68-5 du 3 janvier 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317513"
+        },
+        {
+          "#text": "Loi n° 68-5 du 3 janvier 1968 portant réforme du droit des incapables majeurs",
+          "@c_titre_court": "Loi n° 68-5 du 3 janvier 1968",
+          "@debut": "1968-11-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068319"
+        }
+      ],
+      "@cid": "JORFTEXT000000317513",
+      "@date_publi": "1968-01-04",
+      "@date_signature": "1968-01-03",
+      "@nature": "LOI",
+      "@num": "68-5"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006283885",
+          "@num": "2",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 68-696 1968-07-31 art. 14 : spécificités d'application",
+        "@cidtexte": "JORFTEXT000000317516",
+        "@datesignatexte": "1968-07-31",
+        "@id": "JORFTEXT000000317516",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-696",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code civil - art. 1124 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006436186",
+        "@naturetexte": "CODE",
+        "@num": "1124",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code civil - art. 1125 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006436191",
+        "@naturetexte": "CODE",
+        "@num": "1125",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

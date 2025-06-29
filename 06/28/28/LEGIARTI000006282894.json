@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006282894",
+      "ANCIEN_ID": "APIANXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/28/LEGIARTI000006282894.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1984-07-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 mars 1984 TAXES PERCUES PAR L'INSTITUT NATIONAL DE LA PROPRIETE INDUSTRIELLE (INPI)",
+          "@c_titre_court": "Arrêté du 21 mars 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000845949"
+        },
+        {
+          "#text": "Arrêté du 21 mars 1984 relatif aux taxes perçues par l'Institut national de la propriété industrielle",
+          "@c_titre_court": "Arrêté du 21 mars 1984",
+          "@debut": "1984-07-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069434"
+        }
+      ],
+      "@cid": "JORFTEXT000000845949",
+      "@date_publi": "1984-03-31",
+      "@date_signature": "1984-03-21",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-07-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006282894",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>La réduction des taxes prévue à l'article 107 du décret précité est fixée à 60 %.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-03-21 JORF 31 mars 1984 en vigueur le 1er juillet 1984 rectificatif JORF 6 mai 1984",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°79-822 du 19 septembre 1979 - art. 107 (Ab)",
+        "@cidtexte": "JORFTEXT000000519232",
+        "@datesignatexte": "1979-09-19",
+        "@id": "LEGIARTI000006281895",
+        "@naturetexte": "DECRET",
+        "@num": "107",
+        "@numtexte": "79-822",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-599 1981-05-15",
+        "@cidtexte": "JORFTEXT000000884258",
+        "@datesignatexte": "1981-05-15",
+        "@id": "JORFTEXT000000884258",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-599",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

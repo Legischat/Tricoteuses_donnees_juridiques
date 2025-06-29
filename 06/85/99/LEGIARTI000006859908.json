@@ -1,0 +1,75 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006859908",
+      "ANCIEN_ID": "UPIBPXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/99/LEGIARTI000006859908.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-01-18",
+        "DATE_FIN": "1987-12-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 décembre 1977 relatif aux modalités de mesure de la biodégradabilité des agents de surface non ioniques.",
+          "@c_titre_court": "Arrêté du 28 décembre 1977",
+          "@debut": "1978-01-18",
+          "@fin": "1987-12-30",
+          "@id_txt": "LEGITEXT000006074370"
+        }
+      ],
+      "@cid": "LEGITEXT000006074370",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1977-12-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-01-18",
+          "@etat": "ABROGE",
+          "@fin": "1987-12-30",
+          "@id": "LEGIARTI000006859908",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de biodégradation pondéré DE des agents de surface non ioniques soumis à l'essai est calculé par la formule suivante :<br/>\n<br/>   De = 0,5 BE,7 + BE,10 / 1,5<br/>\n<br/>   Pour chacun des deux essais Ea et Eb on calcule ainsi DEa et DEb. Si DEa et DEb diffèrent de plus de 5, l'essai n'est pas valide.<br/>\n<br/>   Le taux de biodégradation pondéré Dz du produit étalon, déterminé au cours de l'essai est calculé par la formule.<br/>\n<br/>   Dz = 0,5 Bz,7 + Bz,10 / 1,5<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-12-24 art. 3 JORF 30 décembre 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°77-1554 du 28 décembre 1977 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000331299",
+        "@datesignatexte": "1977-12-28",
+        "@id": "LEGIARTI000006852755",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "77-1554",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

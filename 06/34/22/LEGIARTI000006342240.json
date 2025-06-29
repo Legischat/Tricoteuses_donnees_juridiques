@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006342240",
+      "ANCIEN_ID": "MCHDEXXXXXX031BAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/22/LEGIARTI000006342240.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "31-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-09-23",
+        "DATE_FIN": "1996-05-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-1265 du 29 novembre 1985 RELATIF A L'ORGANISATION ADMINISTRATIVE ET FINANCIERE DES ETABLISSEMENTS PUBLICS LOCAUX D'ENSEIGNEMENT ET DE FORMATION PROFESSIONNELLE AGRICOLES",
+          "@c_titre_court": "Décret n°85-1265 du 29 novembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000328393"
+        },
+        {
+          "#text": "Décret n°85-1265 du 29 novembre 1985 relatif à l'organisation administrative et financière des établissements publics locaux d'enseignement et de formation professionnelle agricoles.",
+          "@c_titre_court": "Décret n°85-1265 du 29 novembre 1985",
+          "@debut": "1985-12-01",
+          "@fin": "1996-05-15",
+          "@id_txt": "LEGITEXT000006064766"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : Organisation administrative des établissements publics locaux d'enseignement et de formation professionnelle agricoles",
+            "@debut": "1985-12-01",
+            "@fin": "1996-05-17",
+            "@id": "LEGISCTA000006085482"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "SECTION 3 : Les centres d'enseignement et de formation.",
+              "@debut": "1985-12-01",
+              "@fin": "1996-05-15",
+              "@id": "LEGISCTA000006115316"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000328393",
+      "@date_publi": "1985-12-01",
+      "@date_signature": "1985-11-29",
+      "@nature": "DECRET",
+      "@num": "85-1265"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-09-23",
+          "@etat": "ABROGE",
+          "@fin": "1996-05-15",
+          "@id": "LEGIARTI000006342240",
+          "@num": "31-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un conseil des délégués des élèves est institué dans chaque centre d'enseignement et de formation.<br/>\n<br/>   \" Le conseil des délégués des élèves est constitué par l'ensemble des délégués des élèves élus :<br/>\n<br/>   \" 1. Au conseil d'administration ;<br/>\n<br/>   \" 2. Aux conseils intérieurs et aux conseils de classe de chaque centre constituant l'établissement public local d'enseignement.<br/>\n<br/>   \" Il est présidé par le directeur de l'établissement public local d'enseignement.<br/>\n<br/>   \" Peuvent assister aux séances :<br/>\n<br/>   \" - les directeurs des centres ou leurs adjoints ;<br/>\n<br/>   \" - les conseillers principaux d'éducation ou les conseillers d'éducation de chaque centre.<br/>\n<br/>   \" Le conseil des délégués élit en son sein une commission permanente.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural R811-30, R811-36",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 92-1010 1992-09-23 art. 1 JORF 23 septembre 1992",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 83-663 1983-07-22",
+        "@cidtexte": "JORFTEXT000000320195",
+        "@datesignatexte": "1983-07-22",
+        "@id": "JORFTEXT000000320195",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-663",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°85-1265 du 29 novembre 1985 - art. 31-5 (Ab)",
+        "@cidtexte": "JORFTEXT000000328393",
+        "@datesignatexte": "1985-11-29",
+        "@id": "LEGIARTI000006342244",
+        "@naturetexte": "DECRET",
+        "@num": "31-5",
+        "@numtexte": "85-1265",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°96-405 du 26 avril 1996 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000000193233",
+        "@datesignatexte": "1996-04-26",
+        "@id": "LEGIARTI000006605057",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD9600279D",
+        "@num": "3",
+        "@numtexte": "96-405",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

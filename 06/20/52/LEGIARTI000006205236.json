@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006205236",
+      "ANCIEN_ID": "AMHCEXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/52/LEGIARTI000006205236.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-11-01",
+        "DATE_FIN": "2009-03-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°77-699 du 27 mai 1977 APPROUVANT LE CAHIER DES CLAUSES ADMINISTRATIVES GENERALES APPLICABLES AUX MARCHES PUBLICS DE FOURNITURES COURANTES ET DE SERVICES",
+          "@c_titre_court": "Décret n°77-699 du 27 mai 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518804"
+        },
+        {
+          "#text": "Décret n°77-699 du 27 mai 1977 approuvant le cahier des clauses administratives générales applicables aux marchés publics de fournitures courantes et de services",
+          "@c_titre_court": "Décret n°77-699 du 27 mai 1977",
+          "@debut": "1977-11-01",
+          "@fin": "2009-03-20",
+          "@id_txt": "LEGITEXT000006062712"
+        }
+      ],
+      "@cid": "JORFTEXT000000518804",
+      "@date_publi": "1977-07-03",
+      "@date_signature": "1977-05-27",
+      "@nature": "DECRET",
+      "@num": "77-699"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-11-01",
+          "@etat": "ABROGE",
+          "@fin": "2009-03-20",
+          "@id": "LEGIARTI000006205236",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est approuvé le cahier des clauses administratives générales applicables aux marchés publics de fournitures courantes et de services annexé au présent décret.<br/>\n<br/>   Ce cahier n'est applicable qu'aux marchés qui s'y réfèrent.<br/>\n<br/>   [*(1) Annexe non reproduite, voir au Journal officiel du 3 juillet 1977*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code des marchés publics 113 et 318 bis",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°77-699 du 27 mai 1977",
+        "@cidtexte": "JORFTEXT000000518804",
+        "@datesignatexte": "1977-05-27",
+        "@id": "JORFTEXT000000518804",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-699",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 19 janvier 2009 - art. 2",
+        "@cidtexte": "JORFTEXT000020407115",
+        "@datesignatexte": "2009-01-19",
+        "@id": "LEGIARTI000020415159",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECEM0816423A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

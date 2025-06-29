@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855681",
+      "ANCIEN_ID": "UPHLDXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/56/LEGIARTI000006855681.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-11-20",
+        "DATE_FIN": "1988-03-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-978 du 17 novembre 1982 RELATIF A LA REGLEMENTATION DE LA PECHE DANS LES EAUX FRANCAISES DU LAC LEMAN",
+          "@c_titre_court": "Décret n°82-978 du 17 novembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880460"
+        },
+        {
+          "#text": "Décret n°82-978 du 17 novembre 1982 relatif à la réglementation de la pêche dans les eaux françaises du lac Léman.",
+          "@c_titre_court": "Décret n°82-978 du 17 novembre 1982",
+          "@debut": "1982-11-20",
+          "@fin": "1988-03-13",
+          "@id_txt": "LEGITEXT000006063963"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Taille minimale des poissons *dimensions*.",
+            "@debut": "1982-11-20",
+            "@fin": "1988-03-13",
+            "@id": "LEGISCTA000006109571"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000880460",
+      "@date_publi": "1982-11-20",
+      "@date_signature": "1982-11-17",
+      "@nature": "DECRET",
+      "@num": "82-978"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-11-20",
+          "@etat": "ABROGE",
+          "@fin": "1988-03-13",
+          "@id": "LEGIARTI000006855681",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les poissons ne peuvent être pêchés ou doivent être immédiatement et soigneusement remis à l'eau s'ils n'ont pas atteint la taille minimale suivante :<br/>\n<br/>   1° truites (toutes espèces) : 35 cm ;<br/>\n<br/>   2° omble-chevalier et ombre commun : 27 cm ;<br/>\n<br/>   3° Corégones : 30 cm ;<br/>\n<br/>   4° Brochet : 40 cm ;<br/>\n<br/>   5° Perche : 15 cm ;<br/>\n<br/>   Toutefois, des arrêtés du commissaire de la République peuvent, à titre exceptionnel et pour une durée limitée, autoriser la pêche de poissons n'ayant pas atteint la taille minimale, sous le contrôle du service chargé de la police de la pêche, pour les nécessités d'études scientifiques [*dérogations*].<br/>\n<br/>   La taille des poissons est mesurée du bout du museau à l'extrémité de la nageoire caudale normalement déployée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°82-978 du 17 novembre 1982 - art. 22 (Ab)",
+        "@cidtexte": "JORFTEXT000000880460",
+        "@datesignatexte": "1982-11-17",
+        "@id": "LEGIARTI000006855701",
+        "@naturetexte": "DECRET",
+        "@num": "22",
+        "@numtexte": "82-978",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-230 du 9 mars 1988 - art. 23 (Ab) JORF 13 mars 1988",
+        "@cidtexte": "JORFTEXT000000315255",
+        "@datesignatexte": "1988-03-09",
+        "@id": "LEGIARTI000006858117",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ENVN8700287D",
+        "@num": "23",
+        "@numtexte": "88-230",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

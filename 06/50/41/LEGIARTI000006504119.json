@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006504119",
+      "ANCIEN_ID": "ADEAXXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/41/LEGIARTI000006504119.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1956-03-21",
+        "DATE_FIN": "1986-03-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°56-277 du 20 mars 1956 RELATIVE A LA LOCATION-GERANCE DES FONDS DE COMMERCE ET DES ETABLISSEMENTS ARTISANAUX (REGLEMENTATION GENERALE)",
+          "@c_titre_court": "Loi n°56-277 du 20 mars 1956",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000309811"
+        },
+        {
+          "#text": "Loi n°56-277 du 20 mars 1956 relative à la location-gérance des fonds de commerce et des établissements artisanaux",
+          "@c_titre_court": "Loi n°56-277 du 20 mars 1956",
+          "@debut": "1956-03-21",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006068155"
+        }
+      ],
+      "@cid": "JORFTEXT000000309811",
+      "@date_publi": "1956-03-21",
+      "@date_signature": "1956-03-20",
+      "@nature": "LOI",
+      "@num": "56-277"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-03-21",
+          "@etat": "ABROGE",
+          "@fin": "1986-03-16",
+          "@id": "LEGIARTI000006504119",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le locataire-gérant est tenu d'indiquer en tête de ses factures, lettres, notes de commande, documents bancaires, tarifs et prospectus, ainsi que sur toutes les pièces signées par lui ou en son nom, son numéro d'immatriculation au registre du commerce ou au registre des métiers et le siège du tribunal où il est immatriculé, sa qualité de locataire-gérant du fonds ainsi que le nom, la qualité, l'adresse et le numéro d'immatriculation au registre du commerce ou des métiers du loueur du fonds.<br/>\n<br/>   Toute infraction aux dispositions de l'alinéa précédent sera punie d'une amende de 30 à 360 F [*sanctions*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 56-277 1956-03-20 JORF 21 mars 1956 rectificatif JORF 12 avril 1956",
+        "@cidtexte": "JORFTEXT000000309811",
+        "@datesignatexte": "1956-03-20",
+        "@id": "JORFTEXT000000309811",
+        "@naturetexte": "LOI",
+        "@numtexte": "56-277",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret n°56-612 du 20 juin 1956 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000505353",
+        "@datesignatexte": "1956-06-20",
+        "@id": "LEGIARTI000006481022",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "56-612",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°86-465 du 14 mars 1986 - art. 1 () JORF 16 mars 1986",
+        "@cidtexte": "JORFTEXT000000337747",
+        "@datesignatexte": "1986-03-14",
+        "@id": "LEGIARTI000006491115",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "86-465",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

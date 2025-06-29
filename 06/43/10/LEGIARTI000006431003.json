@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006431003",
+      "ANCIEN_ID": "PCIRWXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/10/LEGIARTI000006431003.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1992-12-30",
+        "DATE_FIN": "1998-02-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 décembre 1992 définissant les dispositions particulières    auxquelles sont soumises les prestations de cryptologie",
+          "@c_titre_court": "Arrêté du 28 décembre 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000178187"
+        },
+        {
+          "#text": "Arrêté du 28 décembre 1992 définissant les dispositions particulières auxquelles sont soumises les prestations de cryptologie",
+          "@c_titre_court": "Arrêté du 28 décembre 1992",
+          "@debut": "1992-12-30",
+          "@fin": "1998-02-25",
+          "@id_txt": "LEGITEXT000006080623"
+        }
+      ],
+      "@cid": "JORFTEXT000000178187",
+      "@date_publi": "1992-12-30",
+      "@date_signature": "1992-12-28",
+      "@nature": "ARRETE",
+      "@nor": "PRMX9210592A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-12-30",
+          "@etat": "PERIME",
+          "@fin": "1998-02-25",
+          "@id": "LEGIARTI000006431003",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En application de l'article 4, alinéa 3, du décret n° 92-1358 du 28 décembre 1992 susvisé, les prestations de cryptologie dont la fourniture est soumise à autorisation sur le territoire national doivent satisfaire aux conditions suivantes :<br/>\n<br/>   a) Les interfaces avec les utilisateurs doivent être conformes aux normes nationales toutes les fois qu'il en existe ;<br/>\n<br/>   b) Le fournisseur de la prestation doit prévoir et mettre en oeuvre des moyens propres à éviter qu'un tiers non autorisé puisse se substituer au gestionnaire de la prestation ;<br/>\n<br/>   c) Les éléments secrets utilisés devront être conservés, associés à des éléments d'information permettant de connaître l'usage qui en a été fait, durant une période minimale de dix jours ouvrables s'ils sont propres à une communication donnée, de quatre mois dans les autres cas. Toutefois, le service central de la sécurité des systèmes d'information peut dispenser le fournisseur de cette obligation s'il justifie de dispositions comportant des garanties équivalentes ;<br/>\n<br/>   Les fichiers utilisés pour cette conservation ne seront consultables qu'avec l'accord écrit de toutes les parties concernées ou sur réquisition d'une autorité habilitée par la loi ;<br/>\n<br/>   d) Le fournisseur de la prestation devra prendre toute mesure pour qu'il n'y ait pas d'impossibilité technique à la conduite des enquêtes ou investigations autorisées par la loi ;<br/>\n<br/>   e) Le fournisseur de la prestation est tenu de déclarer aux autorités de la police judiciaire territorialement compétentes les accès illicites au système de gestion ou les atteintes à sa sécurité dont il aurait connaissance ; il en informe également le service central de la sécurité des systèmes d'information.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 92-1358 1992-12-28 art. 4",
+        "@cidtexte": "JORFTEXT000000543201",
+        "@datesignatexte": "1992-12-28",
+        "@id": "JORFTEXT000000543201",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX9210465D",
+        "@numtexte": "92-1358",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 92-1358 1992-12-28 art. 4",
+        "@cidtexte": "JORFTEXT000000543201",
+        "@datesignatexte": "1992-12-28",
+        "@id": "JORFTEXT000000543201",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX9210465D",
+        "@numtexte": "92-1358",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°98-101 du 24 février 1998 - art. 33 (Ab)",
+        "@cidtexte": "JORFTEXT000000556194",
+        "@datesignatexte": "1998-02-24",
+        "@id": "LEGIARTI000006426186",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX9802599D",
+        "@num": "33",
+        "@numtexte": "98-101",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      }
+    ]
+  }
+}

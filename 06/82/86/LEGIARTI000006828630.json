@@ -1,0 +1,75 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006828630",
+      "ANCIEN_ID": "UCICAXXXXXX014AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/86/LEGIARTI000006828630.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe V",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1985-04-26",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 mars 1985 modifiant l'arrêté du 29 juillet 1977 relatif aux caractéristiques techniques et aux prix des logements neufs en accession à la propriété financés au moyen des prêts aidés par l'Etat.",
+          "@c_titre_court": "Arrêté du 26 mars 1985",
+          "@debut": "1985-04-26",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074149"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1985-04-26",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108289"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Coefficient d'importance de l'opération et de hauteur.",
+              "@debut": "1985-04-26",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128826"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074149",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-03-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-04-26",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006828630",
+          "@num": "Annexe V",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le coefficient d'importance et de hauteur de l'opération est donné par la relation :<br/>\n b = b1 + b2.<br/>\n dans laquelle :<br/>\n V-1 b1 dépend du nombre de logements N constituant l'opération :<br/>\n N supérieur à 0 et inférieur ou égal à 33.<br/>\n b1 = b1 = 0,099 (60 - N) / 60.<br/>\n N supérieur ou égal à 34 et inférieur ou égal à 100.<br/>\n b1 = b1 = 0,06 (100 - N) / 100.<br/>\n N supérieur à 100.<br/>\n b1 = b1 = 0,03 (N - 100) / 100.<br/>\n   V-2 b2 dépend de la hauteur moyenne hm du bâtiment ou des bâtiments constituant l'opération, mesurée en nombre de niveaux habitables théoriques comme suit :<br/>\n    Pour une opération ne comprenant qu'un bâtiment, la hauteur moyenne est définie par le rapport de la surface hors oeuvre totale à la surface hors oeuvre du niveau habitable ayant la surface hors oeuvre maximale.<br/>\n hm = S.H.O. totale / S.H.O. maximale.<br/>\n   Pour une opération comprenant plusieurs bâtiments la hauteur moyenne est définie par le rapport de la surface hors oeuvre total de l'opération au total des surfaces hors oeuvre des niveaux habitables de surface hors oeuvre maximale de chaque bâtiment :<br/>\n hm = S.H.O. totale / S.H.O. maximale.<br/>\n   Pour le calcul des surfaces hors oeuvre visées ci-dessus, il n'est pas tenu compte de la superficie des terrasses, loggias, balcons et des garages éventuellement incorporés aux bâtiments ;<br/>\n    b2 est donné en fonction de hm par le tableau ci-dessous : hm étant pris égal à la plus proche des deux valeurs, inférieure ou supérieure, trouvée dans le tableau, ou, en cas d'équidistance, à la valeur supérieure :<br/>\nhm :<br/>\n Immeuble sans ascenseur :<br/>\n 2 = 0,07.<br/>\n 2,5 = 0,06.<br/>\n 3 = 0,05.<br/>\n 3,5 = 0,04.<br/>\n 4 = 0,03.<br/>\n 4,5 = 0,02.<br/>\n 5 = 0,01.<br/>\n 6 = 0,00.<br/>\n 7 = Néant.<br/>\n 8 = Néant.<br/>\n<br/>\n hm :<br/>\n Immeuble avec ascenseur :<br/>\n 2 = 0,11.<br/>\n 2,5 = 0,11.<br/>\n 3 = 0,09.<br/>\n 3,5 = 0,07.<br/>\n 4 = 0,05.<br/>\n 4,5 = 0,04.<br/>\n 5 = 0,03.<br/>\n 6 = 0,02.<br/>\n 7 = 0,00.<br/>\n 8 = - 0,01.    Maisons individuelles isolées ou groupées b2 = 0,07.<br/>\n    Quand l'opération est composée d'immeubles pour lesquels il y a au maximum trois logements par palier b2 est majoré de :<br/>\n    - 0,01 pour les immeubles sans ascenseur ;<br/>\n    - 0,03 pour les immeubles avec ascenseur.<br/>"
+  }
+}

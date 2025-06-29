@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006664308",
+      "ANCIEN_ID": "SEHJKXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/43/LEGIARTI000006664308.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1988-07-01",
+        "DATE_FIN": "1989-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°88-794 du 29 juin 1988 RELEVEMENT DU SMIC A COMPTER DU 01-07-1988:",
+          "@c_titre_court": "Décret n°88-794 du 29 juin 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693583"
+        },
+        {
+          "#text": "Décret n°88-794 du 29 juin 1988 portant relèvement du salaire minimum de croissance",
+          "@c_titre_court": "Décret n°88-794 du 29 juin 1988",
+          "@debut": "1988-07-01",
+          "@fin": "1989-07-01",
+          "@id_txt": "LEGITEXT000006066827"
+        }
+      ],
+      "@cid": "JORFTEXT000000693583",
+      "@date_publi": "1988-07-01",
+      "@date_signature": "1988-06-29",
+      "@nature": "DECRET",
+      "@nor": "ASEX8800086D",
+      "@num": "88-794"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-07-01",
+          "@etat": "PERIME",
+          "@fin": "1989-07-01",
+          "@id": "LEGIARTI000006664308",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er juillet 1988 [*date*], le montant du minimum garanti prévu par l'article L. 141-8 du code du travail est fixé à [*champ d'application*] :<br/>\n<br/>   14,88 F en métropole et dans la collectivité territoriale de Saint-Pierre-et-Miquelon ;<br/>\n<br/>   12,66 F dans les départements de la Guadeloupe, de la Guyane et de la Martinique ;<br/>\n<br/>   10,42 F dans le département de la Réunion.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°89-438 du 29 juin 1989 (P)",
+        "@cidtexte": "JORFTEXT000000332280",
+        "@datesignatexte": "1989-06-29",
+        "@id": "LEGITEXT000006067148",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFX8900087D",
+        "@numtexte": "89-438",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "Code du travail - art. L141-8 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646471",
+        "@naturetexte": "CODE",
+        "@num": "L141-8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

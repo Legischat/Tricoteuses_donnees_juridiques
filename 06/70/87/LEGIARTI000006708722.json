@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006708722",
+      "ANCIEN_ID": "SPHNVXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/87/LEGIARTI000006708722.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-02-02",
+        "DATE_FIN": "1988-10-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°74-76 du 30 janvier 1974 COMITES TECHNIQUES PARITAIRES",
+          "@c_titre_court": "Décret n°74-76 du 30 janvier 1974",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000679589"
+        },
+        {
+          "#text": "Décret n°74-76 du 30 janvier 1974 relatif aux comités techniques paritaires des syndicats interhospitaliers.",
+          "@c_titre_court": "Décret n°74-76 du 30 janvier 1974",
+          "@debut": "1974-02-02",
+          "@fin": "1988-10-08",
+          "@id_txt": "LEGITEXT000006062228"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Composition",
+            "@debut": "1974-02-02",
+            "@fin": "1988-10-08",
+            "@id": "LEGISCTA000006104300"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000679589",
+      "@date_publi": "1974-02-02",
+      "@date_signature": "1974-01-30",
+      "@nature": "DECRET",
+      "@num": "74-76"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-02-02",
+          "@etat": "ABROGE",
+          "@fin": "1988-10-08",
+          "@id": "LEGIARTI000006708722",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les membres représentant l'administration sont désignés par le conseil d'administration du syndicat interhospitalier en son sein ou parmi les représentants de l'administration dans les comités techniques paritaires des établissements adhérant au syndicat, pour une durée de trois ans.<br/>\n    Le président du conseil d'administration et le secrétaire général du syndicat interhospitalier sont membres de droit du comité technique paritaire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 70-1318 1970-12-31",
+        "@cidtexte": "JORFTEXT000000874228",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000874228",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1318",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°74-76 du 30 janvier 1974 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000679589",
+        "@datesignatexte": "1974-01-30",
+        "@id": "LEGIARTI000006708726",
+        "@naturetexte": "DECRET",
+        "@num": "7",
+        "@numtexte": "74-76",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°88-950 du 6 octobre 1988 - art. 25 (Ab) JORF 8 octobre 1988",
+        "@cidtexte": "JORFTEXT000000683978",
+        "@datesignatexte": "1988-10-06",
+        "@id": "LEGIARTI000006703446",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SPSH8801075D",
+        "@num": "25",
+        "@numtexte": "88-950",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

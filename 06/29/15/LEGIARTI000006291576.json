@@ -1,0 +1,140 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006291576",
+      "ANCIEN_ID": "AAEAXXXXXXX004AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/29/15/LEGIARTI000006291576.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-07-07",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°70-1300 du 31 décembre 1970 FIXANT LE REGIME APPLICABLE AUX SOCIETES CIVILES AUTORISEES A FAIRE PUBLIQUEMENT APPEL A L'EPARGNE",
+          "@c_titre_court": "Loi n°70-1300 du 31 décembre 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000321400"
+        },
+        {
+          "#text": "Loi n° 70-1300 du 31 décembre 1970 fixant le régime applicable aux sociétés civiles autorisées à faire publiquement appel à l'épargne",
+          "@c_titre_court": "Loi n° 70-1300 du 31 décembre 1970",
+          "@debut": "1971-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068353"
+        }
+      ],
+      "@cid": "JORFTEXT000000321400",
+      "@date_publi": "1971-01-01",
+      "@date_signature": "1970-12-31",
+      "@nature": "LOI",
+      "@num": "70-1300"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1978-07-07",
+          "@id": "LEGIARTI000006291575",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1978-07-07",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006291576",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La responsabilité des associés ne peut être mise en cause que si la société civile a été préalablement et vainement poursuivie. La responsabilité de chaque associé à l'égard des tiers est engagée en fonction de sa part dans le capital et est limitée à deux fois [*proportion*] la fraction dudit capital qu'il possède.<br/>\n<br/>   La société devra obligatoirement souscrire un contrat d'assurance garantissant sa responsabilité civile du fait des immeubles dont elle est propriétaire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 70-1300 1970-12-31 art. 36 *date d'effet - mesures d'application*",
+        "@cidtexte": "JORFTEXT000000321400",
+        "@datesignatexte": "1970-12-31",
+        "@id": "JORFTEXT000000321400",
+        "@naturetexte": "LOI",
+        "@numtexte": "70-1300",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°70-1300 du 31 décembre 1970 - art. 21 (Ab)",
+        "@cidtexte": "JORFTEXT000000321400",
+        "@datesignatexte": "1970-12-31",
+        "@id": "LEGIARTI000006291628",
+        "@naturetexte": "LOI",
+        "@num": "21",
+        "@numtexte": "70-1300",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°78-704 du 3 juillet 1978 - art. 61 (V)",
+        "@cidtexte": "JORFTEXT000000696176",
+        "@datesignatexte": "1978-07-03",
+        "@id": "LEGIARTI000006569553",
+        "@naturetexte": "DECRET",
+        "@num": "61",
+        "@numtexte": "78-704",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-1223 2000-12-14 art. 4 JORF 16 décembre 2000 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000574488",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000574488",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "ECOX0000098R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L214-55 (V)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650381",
+        "@naturetexte": "CODE",
+        "@num": "L214-55",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code monétaire et financier - art. L214-55 (M)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006650380",
+        "@naturetexte": "CODE",
+        "@num": "L214-55",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

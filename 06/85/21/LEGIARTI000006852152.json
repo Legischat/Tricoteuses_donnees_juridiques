@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006852152",
+      "ANCIEN_ID": "UPHANXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/21/LEGIARTI000006852152.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-03-29",
+        "DATE_FIN": "2000-12-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-361 du 23 mars 1973 FIXANT LES MODALITES DE RECOUVREMENT DE LA TAXE APPLICABLE AUX ETABLISSEMENTS CLASSES COMME DANGEREUX, INSALUBRES OU INCOMMODES",
+          "@c_titre_court": "Décret n°73-361 du 23 mars 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000306551"
+        },
+        {
+          "#text": "Décret n°73-361 du 23 mars 1973 fixant les modalités de recouvrement de la taxe unique applicable aux établissements classés comme dangereux, insalubres ou incommodes",
+          "@c_titre_court": "Décret n°73-361 du 23 mars 1973",
+          "@debut": "1973-03-29",
+          "@fin": "2000-12-30",
+          "@id_txt": "LEGITEXT000006062091"
+        }
+      ],
+      "@cid": "JORFTEXT000000306551",
+      "@date_publi": "1973-03-29",
+      "@date_signature": "1973-03-23",
+      "@nature": "DECRET",
+      "@num": "73-361"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-03-29",
+          "@etat": "ABROGE",
+          "@fin": "2000-12-30",
+          "@id": "LEGIARTI000006852152",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'encaissement de la taxe ainsi que, le cas échéant, des pénalités est effectué par l'intermédiaire d'une régie de recettes fonctionnant dans les conditions prévues au décret du 28 mai 1964 susvisé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 64-486 1964-05-28",
+        "@cidtexte": "JORFTEXT000000504327",
+        "@datesignatexte": "1964-05-28",
+        "@id": "JORFTEXT000000504327",
+        "@naturetexte": "DECRET",
+        "@numtexte": "64-486",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°73-361 du 23 mars 1973 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000306551",
+        "@datesignatexte": "1973-03-23",
+        "@id": "LEGIARTI000006852153",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "73-361",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab) JORF 30 décembre 2000",
+        "@cidtexte": "JORFTEXT000000403986",
+        "@datesignatexte": "2000-12-26",
+        "@id": "LEGIARTI000006617226",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ATEP0080051D",
+        "@num": "2",
+        "@numtexte": "2000-1349",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

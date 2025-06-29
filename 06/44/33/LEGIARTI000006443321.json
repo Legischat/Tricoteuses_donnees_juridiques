@@ -1,0 +1,149 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006443321",
+      "ANCIEN_ID": "ACAXXXXXXXX5X01774AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/33/LEGIARTI000006443321.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1774",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1804-03-21",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code civil",
+          "@c_titre_court": "Code civil",
+          "@debut": "1804-03-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070721"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre III : Des différentes manières dont on acquiert la propriété",
+            "@debut": "1804-03-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006090271"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VIII : Du contrat de louage",
+              "@debut": "1804-03-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118109"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre II : Du louage des choses.",
+                "@debut": "1804-03-21",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006136387"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 3 : Des règles particulières aux baux à ferme.",
+                  "@debut": "1804-03-21",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006150289"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070721",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1804-03-21",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006443321",
+          "@num": "1774",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le bail, sans écrit, d'un fonds rural, est censé fait pour le temps qui est nécessaire afin que le preneur recueille tous les fruits de l'héritage affermé.<br/>\n<br/>   Ainsi le bail à ferme d'un pré, d'une vigne, et de tout autre fonds dont les fruits se recueillent en entier dans le cours de l'année, est censé fait pour un an.<br/>\n<br/>   Le bail des terres labourables, lorsqu'elles se divisent par soles ou saisons, est censé fait pour autant d'années qu'il y a de soles.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code civil - art. 1775 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006443330",
+        "@naturetexte": "CODE",
+        "@num": "1775",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code civil - art. 1775 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006443330",
+        "@naturetexte": "CODE",
+        "@num": "1775",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural - art. L411-10 (Ab)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006583738",
+        "@naturetexte": "CODE",
+        "@num": "L411-10",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural - art. L411-3 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000022658239",
+        "@naturetexte": "CODE",
+        "@num": "L411-3",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1804-03-07",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1804-03-07 promulguée le 17 mars 1804",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

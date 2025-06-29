@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006879769",
+      "ANCIEN_ID": "UTHADXXXXXX091AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/97/LEGIARTI000006879769.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "91",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-02-04",
+        "DATE_FIN": "2010-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 67-967 du 27 octobre 1967 portant statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Décret n° 67-967 du 27 octobre 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000702914"
+        },
+        {
+          "#text": "Décret n°67-967 du 27 octobre 1967 relatif au statut des navires et autres bâtiments de mer",
+          "@c_titre_court": "Décret n°67-967 du 27 octobre 1967",
+          "@debut": "1968-02-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061498"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre VIII : Publicité de la propriété et de l'état des navires",
+            "@debut": "1968-02-04",
+            "@fin": "2011-11-11",
+            "@id": "LEGISCTA000006111698"
+          },
+          {
+            "#text": "Chapitre IX : Publicité de la propriété et de l'état des navires",
+            "@debut": "2011-11-11",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000024777732"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000702914",
+      "@date_publi": "1967-11-04",
+      "@date_signature": "1967-10-27",
+      "@nature": "DECRET",
+      "@num": "67-967"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-02-04",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-01",
+          "@id": "LEGIARTI000006879769",
+          "@num": "91",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2011-11-11",
+          "@etat": "ABROGE",
+          "@fin": "2016-12-30",
+          "@id": "LEGIARTI000024777808",
+          "@num": "91",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Chaque fiche comprend [*contenu*] :<br/>\n    1° Les énonciations propres à identifier le bâtiment ;<br/>\n    2° Le nom du propriétaire ; s'il y a plusieurs copropriétaires, tous leurs noms figurent, avec l'indication du nombre de leurs parts ou de leurs quotas ;<br/>\n    3° Les mentions relatives aux droits sur le navire énumérées ci-dessous.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 67-5 1967-01-03",
+        "@cidtexte": "JORFTEXT000000878026",
+        "@datesignatexte": "1967-01-03",
+        "@id": "JORFTEXT000000878026",
+        "@naturetexte": "LOI",
+        "@numtexte": "67-5",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°67-967 du 27 octobre 1967 - art. 100 (V)",
+        "@cidtexte": "JORFTEXT000000702914",
+        "@datesignatexte": "1967-10-27",
+        "@id": "LEGIARTI000006879778",
+        "@naturetexte": "DECRET",
+        "@num": "100",
+        "@numtexte": "67-967",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance n° 2010-1307\n du 28 octobre 2010 - art. 7",
+        "@cidtexte": "JORFTEXT000022990793",
+        "@datesignatexte": "2010-10-28",
+        "@id": "LEGIARTI000022993568",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVX0915592R",
+        "@num": "7",
+        "@numtexte": "2010-1307",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

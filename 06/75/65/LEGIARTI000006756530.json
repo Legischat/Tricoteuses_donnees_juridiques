@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006756530",
+      "ANCIEN_ID": "SSEAC3XXXXX042AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/65/LEGIARTI000006756530.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "42",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-01-14",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°89-18 du 13 janvier 1989 PORTANT DIVERSES MESURES D'ORDRE SOCIAL",
+          "@c_titre_court": "Loi n°89-18 du 13 janvier 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000321867"
+        },
+        {
+          "#text": "Loi n° 89-18 du 13 janvier 1989 portant diverses mesures d'ordre social (1)",
+          "@c_titre_court": "Loi n° 89-18 du 13 janvier 1989",
+          "@debut": "1989-01-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069078"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VII : Dispositions relatives à l'érection en établissement autonome de la maison de Nanterre",
+            "@debut": "1989-01-14",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006106180"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000321867",
+      "@date_publi": "1989-01-14",
+      "@date_signature": "1989-01-13",
+      "@nature": "LOI",
+      "@nor": "SPSX8800135L",
+      "@num": "89-18"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-01-14",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006756530",
+          "@num": "42",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un décret en Conseil d'Etat fixe la composition du conseil d'administration de l'établissement dont la présidence est assurée par le préfet de police de Paris et où sont notamment représentés, d'une part, la ville de Paris et, d'autre part, le département des Hauts-de-Seine et la ville de Nanterre.<br/>\n<br/>   Le directeur est nommé par arrêté conjoint des ministres chargés de l'intérieur, de l'action sociale et de la santé, après avis du président du conseil d'administration.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-548 2000-06-15 art. 4 II JORF 22 juin 2000",
+        "@cidtexte": "JORFTEXT000000217229",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000217229",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "MESX0000036R",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L6147-2 (V)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006691079",
+        "@naturetexte": "CODE",
+        "@num": "L6147-2",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L6147-2 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006691078",
+        "@naturetexte": "CODE",
+        "@num": "L6147-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

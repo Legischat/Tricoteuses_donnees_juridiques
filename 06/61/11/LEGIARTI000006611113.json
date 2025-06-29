@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006611113",
+      "ANCIEN_ID": "RBAXXXXXXXX1X541L04AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/11/LEGIARTI000006611113.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L541-4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-02-07",
+        "DATE_FIN": "2001-07-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099185"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Inventaire et mise en valeur des ressources ligneuses - Reboisement.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121946"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IV : Secteurs de reboisement.",
+                "@debut": "1979-02-07",
+                "@fin": "2001-07-11",
+                "@id": "LEGISCTA000006138705"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "ABROGE",
+          "@fin": "2001-07-11",
+          "@id": "LEGIARTI000006611113",
+          "@num": "L541-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de l'article L. 532-4, relatives à la destruction des lapins, sont applicables aux travaux exécutés dans le cadre du présent titre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-113 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°2001-602 du 9 juillet 2001 - art. 72 (V) JORF 11 juillet 2001",
+        "@cidtexte": "JORFTEXT000000223691",
+        "@datesignatexte": "2001-07-09",
+        "@id": "LEGIARTI000006613821",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX0000026L",
+        "@num": "72",
+        "@numtexte": "2001-602",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code forestier - art. L532-4 (V)",
+        "@cidtexte": "LEGITEXT000006071514",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006611109",
+        "@naturetexte": "CODE",
+        "@num": "L532-4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006615520",
+      "ANCIEN_ID": "ADIIVXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/55/LEGIARTI000006615520.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-04-01",
+        "DATE_FIN": "1986-11-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 mars 1983 relatif aux marges de détail et aux prix de vente au détail des viandes de boeuf et de veau",
+          "@c_titre_court": "Arrêté du 31 mars 1983",
+          "@debut": "1983-04-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071575"
+        }
+      ],
+      "@cid": "LEGITEXT000006071575",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-03-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-04-01",
+          "@etat": "ABROGE",
+          "@fin": "1986-11-24",
+          "@id": "LEGIARTI000006615520",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour le calcul des prix limites de vente au détail de ces morceaux, il sera fait application des coefficients de découpe prévus en l'objet par l'annexe I de l'arrêté n° 82-20/A du 14 juin 1982 concernant la viande de boeuf et par l'annexe I de l'arrêté n° 82-21/A du 14 juin 1982 concernant la viande de veau. L'annexe I de l'arrêté n° 82-21/A est complétée par la mention suivante :<br/>\n<br/>   \"Escalope 1,73\".<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 20/A 1983-03-31 BOCC n° 6, 1er avril 1983",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 82-20 1982-06-14 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 82-21 1982-06-14 annexe I",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 86-53/A 1986-11-24 art. 1 BOCC n° 22, 24 novembre 1986",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

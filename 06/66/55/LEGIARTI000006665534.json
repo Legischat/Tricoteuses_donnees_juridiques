@@ -1,0 +1,140 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006665534",
+      "ANCIEN_ID": "SEHNGXXXXXX005AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/55/LEGIARTI000006665534.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-06-17",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°75-956 du 17 octobre 1975 APPLICATION DE L'ART. 994 (DUREE MAXIMALE DU TRAVAIL EN AGRICULTURE), RUR",
+          "@c_titre_court": "Décret n°75-956 du 17 octobre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000497663"
+        },
+        {
+          "#text": "Décret n°75-956 du 17 octobre 1975  FIXANT LES CONDITIONS D'APPLICATION DE L'ARTICLE 994 DU CODE RURAL RELATIF A LA DUREE MAXIMALE DU TRAVAIL EN AGRICULTURE.",
+          "@c_titre_court": "Décret n°75-956 du 17 octobre 1975",
+          "@debut": "1975-10-19",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006062397"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "DEROGATIONS A LA DUREE MAXIMALE HEBDOMADAIRE MOYENNE",
+            "@debut": "1975-10-19",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006101851"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000497663",
+      "@date_publi": "1975-10-19",
+      "@date_signature": "1975-10-17",
+      "@nature": "DECRET",
+      "@num": "75-956"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-10-19",
+          "@etat": "MODIFIE",
+          "@fin": "1984-06-17",
+          "@id": "LEGIARTI000006665533",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-06-17",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006665534",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les demandes de dérogation concernant un type d'activité sur le plan interdépartemental sont adressées par l'organisation patronale intéressée au directeur régional du travail et de la protection sociale agricoles [*autorité administrative compétente*]. Celui-ci prend sa décision après consultation des organisations syndicales les plus représentatives d'employeurs et de salariés concernées en tenant compte des conditions économiques et de la situation de l'emploi propres à la région et au secteur considérés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. R713-25 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006596469",
+        "@naturetexte": "CODE",
+        "@num": "R713-25",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural 994",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code rural R713-25",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret n°75-956 du 17 octobre 1975 - art. 7 (Ab)",
+        "@cidtexte": "JORFTEXT000000497663",
+        "@datesignatexte": "1975-10-17",
+        "@id": "LEGIARTI000006665538",
+        "@naturetexte": "DECRET",
+        "@num": "7",
+        "@numtexte": "75-956",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 84-462 1984-06-14 ART. 4 JORF 17 JUIN 1984",
+        "@cidtexte": "JORFTEXT000000884808",
+        "@datesignatexte": "1984-06-14",
+        "@id": "JORFTEXT000000884808",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-462",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

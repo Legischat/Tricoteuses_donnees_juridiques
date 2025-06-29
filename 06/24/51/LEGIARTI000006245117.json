@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006245117",
+      "ANCIEN_ID": "PGIJPXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/24/51/LEGIARTI000006245117.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2005-10-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 septembre 2005 pris en application du décret n° 2003-1286 du 26 décembre 2003 relatif au régime indemnitaire de certains personnels de l'Ecole nationale de la magistrature",
+          "@c_titre_court": "Arrêté du 8 septembre 2005",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000786502"
+        },
+        {
+          "#text": "Arrêté du 8 septembre 2005 pris en application du décret n° 2003-1286 du 26 décembre 2003 relatif au régime indemnitaire de certains personnels de l'Ecole nationale de la magistrature.",
+          "@c_titre_court": "Arrêté du 8 septembre 2005",
+          "@debut": "2005-10-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006052426"
+        }
+      ],
+      "@cid": "JORFTEXT000000786502",
+      "@date_publi": "2005-09-16",
+      "@date_signature": "2005-09-08",
+      "@ministere": "MINISTERE DE LA JUSTICE",
+      "@nature": "ARRETE",
+      "@nor": "JUSB0510461A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2005-10-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006245117",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002040711",
+          "@num": "4",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>\nL'arrêté du 17 septembre 2004 pris en application du décret n° 2003-1286 du 26 décembre 2003 relatif au régime indemnitaire de certains personnels de l'Ecole nationale de la magistrature est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 17 septembre 2004 (Ab)",
+        "@cidtexte": "JORFTEXT000000258507",
+        "@datesignatexte": "2004-09-17",
+        "@id": "JORFTEXT000000258507",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSB0410395A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 17 septembre 2004 (Ab)",
+        "@cidtexte": "JORFTEXT000000258507",
+        "@datesignatexte": "2004-09-17",
+        "@id": "LEGITEXT000005848134",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "JUSB0410395A",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

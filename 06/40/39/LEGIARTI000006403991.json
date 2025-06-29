@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006403991",
+      "ANCIEN_ID": "MWHAKXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/39/LEGIARTI000006403991.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1972-03-23",
+        "DATE_FIN": "1997-09-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 53-914 du 26 septembre 1953 portant simplifications de formalités administratives",
+          "@c_titre_court": "Décret n° 53-914 du 26 septembre 1953",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000300115"
+        },
+        {
+          "#text": "Décret n°53-914 du 26 septembre 1953 portant simplifications de formalités administratives",
+          "@c_titre_court": "Décret n°53-914 du 26 septembre 1953",
+          "@debut": "1972-03-23",
+          "@fin": "2000-12-28",
+          "@id_txt": "LEGITEXT000006060671"
+        }
+      ],
+      "@cid": "JORFTEXT000000300115",
+      "@date_publi": "1953-09-27",
+      "@date_signature": "1953-09-26",
+      "@nature": "DECRET",
+      "@num": "53-914"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-03-23",
+          "@etat": "MODIFIE",
+          "@fin": "1997-09-18",
+          "@id": "LEGIARTI000006403991",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-09-18",
+          "@etat": "ABROGE",
+          "@fin": "2000-12-28",
+          "@id": "LEGIARTI000006403992",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les procédures et instructions mentionnées à l'article, les nom et prénoms, la date et le lieu de naissance et, s'il y a lieu, la filiation peuvent être enregistrés au vu d'un extrait de l'acte de naissance de l'intéressé quelle que soit la date de la délivrance de cet extrait.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°53-914 du 26 septembre 1953 - art. 3 (M)",
+        "@cidtexte": "JORFTEXT000000300115",
+        "@datesignatexte": "1953-09-26",
+        "@id": "LEGIARTI000006403994",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "53-914",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 72-214 1972-03-22 art. 1 JORF 23 mars 1972",
+        "@cidtexte": "JORFTEXT000000336630",
+        "@datesignatexte": "1972-03-22",
+        "@id": "JORFTEXT000000336630",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-214",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

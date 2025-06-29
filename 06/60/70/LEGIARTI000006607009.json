@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607009",
+      "ANCIEN_ID": "RAICRXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/70/LEGIARTI000006607009.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1963-07-30",
+        "DATE_FIN": "1987-11-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 juillet 1963 fixant le règlement de comptabilité applicable aux chambres départementales d'agriculture",
+          "@c_titre_court": "Arrêté du 27 juillet 1963",
+          "@debut": "1963-07-30",
+          "@fin": "1987-11-15",
+          "@id_txt": "LEGITEXT000006071433"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Recettes.",
+            "@debut": "1963-07-30",
+            "@fin": "1987-11-15",
+            "@id": "LEGISCTA000006098821"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071433",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1963-07-27",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1963-07-30",
+          "@etat": "ABROGE",
+          "@fin": "1987-11-15",
+          "@id": "LEGIARTI000006607009",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'application des dispositions de l'article 159 du décret n° 62-1587 du 29 décembre 1962 relatives aux obligations de l'agent comptable, le président remet audit agent comptable l'état de toutes les propriétés de la chambre, les actions et titres ainsi que des expéditions en forme de tous les titres de propriétés, baux, contrats, jugements et autres actes établissant les droits de la chambre. Toutes ces pièces sont conservées par le comptable, qui les inscrit sur un registre spécial.<br/>\n<br/>   Lorsque la loi prévoit le dépôt de titres hors de la chambre d'agriculture, ou lorsque la caisse des dépôts et consignations a qualité pour en assurer la garde, le comptable correspond avec les organismes dépositaires et suit la gestion de ces titres.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-10-27 art. 26 JORF 15 novembre 1987",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°62-1587 du 29 décembre 1962 - art. 159 (V)",
+        "@cidtexte": "JORFTEXT000000299367",
+        "@datesignatexte": "1962-12-29",
+        "@id": "LEGIARTI000006359907",
+        "@naturetexte": "DECRET",
+        "@num": "159",
+        "@numtexte": "62-1587",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 63-752 1963-07-27",
+        "@cidtexte": "JORFTEXT000000490858",
+        "@datesignatexte": "1963-07-27",
+        "@id": "JORFTEXT000000490858",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-752",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

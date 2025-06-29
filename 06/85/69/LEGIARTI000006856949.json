@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006856949",
+      "ANCIEN_ID": "UPHPNXXXXXX024AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/69/LEGIARTI000006856949.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1987-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-1385 du 23 décembre 1985 PRIS POUR L'APPLICATION DE L'ART. 437 DU CODE RURAL ET REGLEMENTANT LA PECHE EN EAU DOUCE",
+          "@c_titre_court": "Décret n°85-1385 du 23 décembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000866860"
+        },
+        {
+          "#text": "Décret n°85-1385 du 23 décembre 1985 pris pour l'application de l'article 437 du code rural et réglementant la pêche en eau douce",
+          "@c_titre_court": "Décret n°85-1385 du 23 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006064818"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section III : Nombre de captures autorisées - Conditions de capture",
+            "@debut": "1986-01-01",
+            "@fin": "1989-11-04",
+            "@id": "LEGISCTA000006109665"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000866860",
+      "@date_publi": "1985-12-28",
+      "@date_signature": "1985-12-23",
+      "@nature": "DECRET",
+      "@num": "85-1385"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1987-01-01",
+          "@id": "LEGIARTI000006856949",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006856950",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les concours de pêche sont interdits dans les cours d'eau de la 1re catégorie.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. R*236-29 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006590257",
+        "@naturetexte": "CODE",
+        "@num": "R*236-29",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural 437",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

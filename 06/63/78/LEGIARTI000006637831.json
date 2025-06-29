@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006637831",
+      "ANCIEN_ID": "RLEACXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/78/LEGIARTI000006637831.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-06-25",
+        "DATE_FIN": "1990-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°77-646 du 24 juin 1977 PORTANT CREATION D'UNE TAXE DE PROTECTION SANITAIRE ET D'ORGANISATION DES MARCHES DES VIANDES ET SUPPRESSION DE LA TAXE SANITAIRE ET DE LA TAXE DE VISITE ET DE POINCONNAGE",
+          "@c_titre_court": "Loi n°77-646 du 24 juin 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000704666"
+        },
+        {
+          "#text": "Loi n°77-646 du 24 juin 1977 portant création d'une taxe de protection sanitaire et d'organisation des marchés des viandes et suppression de la taxe sanitaire et de la taxe de visite et de poinçonnage",
+          "@c_titre_court": "Loi n°77-646 du 24 juin 1977",
+          "@debut": "1977-06-25",
+          "@fin": "1990-01-01",
+          "@id_txt": "LEGITEXT000006068593"
+        }
+      ],
+      "@cid": "JORFTEXT000000704666",
+      "@date_publi": "1977-06-25",
+      "@date_signature": "1977-06-24",
+      "@nature": "LOI",
+      "@num": "77-646"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-06-25",
+          "@etat": "ABROGE",
+          "@fin": "1990-01-01",
+          "@id": "LEGIARTI000006637831",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La taxe est due par les personnes physiques ou morales qui, lors de l'abattage, sont propriétaires ou copropriétaires des animaux abattus en vue de leur vente dans les abattoirs publics et privés. Toutefois, en cas d'abattage à façon, la taxe est acquittée par le tiers abatteur, pour le compte du propriétaire.<br/>\n<br/>   Le fait générateur de la taxe est constitué par l'opération d'abattage.<br/>\n<br/>   La taxe est constatée et recouvrée comme en matière de taxe sur la valeur ajoutée avec les sûretés, garanties, privilèges et sanctions applicables à cette taxe. Les réclamations sont présentées, instruites et jugées comme pour cet impôt.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 88-1193 1988-12-29 art. 35 Finances rectificative pour 1988 JORF 30 décembre 1988 en vigueur le 1er janvier 1990",
+        "@cidtexte": "JORFTEXT000000509064",
+        "@datesignatexte": "1988-12-29",
+        "@id": "JORFTEXT000000509064",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8800157L",
+        "@numtexte": "88-1193",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 302 bis H (Ab)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006304552",
+        "@naturetexte": "CODE",
+        "@num": "302 bis H",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

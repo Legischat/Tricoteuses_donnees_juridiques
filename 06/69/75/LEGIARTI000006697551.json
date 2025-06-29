@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006697551",
+      "ANCIEN_ID": "SPECRXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/75/LEGIARTI000006697551.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1954-04-21",
+        "DATE_FIN": "1958-04-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°54-439 du 15 avril 1954 MENT DES ALCOOLIQUES DANGEREUX POUR AUTRUI",
+          "@c_titre_court": "Loi n°54-439 du 15 avril 1954",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000684267"
+        },
+        {
+          "#text": "Loi n° 54-439 du 15 avril 1954 sur le traitement des alcooliques dangereux pour autrui (1).",
+          "@c_titre_court": "Loi n° 54-439 du 15 avril 1954",
+          "@debut": "1954-04-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068131"
+        }
+      ],
+      "@cid": "JORFTEXT000000684267",
+      "@date_publi": "1954-04-21",
+      "@date_signature": "1954-04-15",
+      "@nature": "LOI",
+      "@num": "54-439"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1954-04-21",
+          "@etat": "ABROGE",
+          "@fin": "1958-04-05",
+          "@id": "LEGIARTI000006697551",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Texte abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°58-346 du 3 avril 1958 - art. 1 (V) JORF 5 avril 1958",
+        "@cidtexte": "JORFTEXT000000511672",
+        "@datesignatexte": "1958-04-03",
+        "@id": "LEGIARTI000006272659",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "58-346",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L355-6 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006692912",
+        "@naturetexte": "CODE",
+        "@num": "L355-6",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

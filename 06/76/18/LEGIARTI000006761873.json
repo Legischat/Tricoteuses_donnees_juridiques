@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006761873",
+      "ANCIEN_ID": "SSHACYXXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/18/LEGIARTI000006761873.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-03-30",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°61-272 du 28 mars 1961 MAJORATION DU MONTANT DE CERTAINES PENSIONS D'INVALIDITE",
+          "@c_titre_court": "Décret n°61-272 du 28 mars 1961",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000849424"
+        },
+        {
+          "#text": "Décret n°61-272 du 28 mars 1961  MAJORANT LE MONTANT DE CERTAINES PENSIONS D'INVALIDITE.",
+          "@c_titre_court": "Décret n°61-272 du 28 mars 1961",
+          "@debut": "1961-03-30",
+          "@fin": "1985-12-21",
+          "@id_txt": "LEGITEXT000006061016"
+        }
+      ],
+      "@cid": "JORFTEXT000000849424",
+      "@date_publi": "1961-03-30",
+      "@date_signature": "1961-03-28",
+      "@nature": "DECRET",
+      "@num": "61-272"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-03-30",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006761873",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les articles L. 311, L. 312, L. 314 et L. 322 du code de la sécurité sociale sont abrogés et remplacés par les dispositions réglementaires suivantes [*voir décret 272 du 28 mars 1961 articles 2, 3, 4 et 5*] :<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 85-1353 1985-12-17 art. 6 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000866621",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000866621",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1353",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L311, L312, L314, L322",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

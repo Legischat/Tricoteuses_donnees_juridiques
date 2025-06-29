@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006500210",
+      "ANCIEN_ID": "PJHO3XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/02/LEGIARTI000006500210.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1950-01-01",
+        "DATE_FIN": "2005-05-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°50-266 du 4 mars 1950 relatif au payement des dépenses afférentes au recouvrement des amendes et condamnations pécuniaires, pénales, administratives et fiscales.",
+          "@c_titre_court": "Décret n°50-266 du 4 mars 1950",
+          "@debut": "1950-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071088"
+        }
+      ],
+      "@cid": "LEGITEXT000006071088",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1950-03-04",
+      "@nature": "DECRET",
+      "@num": "50-266"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2005-05-11",
+          "@id": "LEGIARTI000006500210",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-05-11",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000020877200",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont payées par les trésoriers-payeurs généraux ou pour leur compte, sans délégation de crédits, sans ordonnancement préalable et sans visa des contrôleurs financiers, les dépenses énumérées aux articles 2 et 3 ci-après, afférentes au recouvrement des amendes et condamnations pécuniaires, d'une part, par les comptables directs du Trésor et, d'autre part, par les comptables des régies financières.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°50-266 du 4 mars 1950 - art. 2 (V)",
+        "@cidtexte": "LEGITEXT000006071088",
+        "@datesignatexte": "1950-03-04",
+        "@id": "LEGIARTI000006500211",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "50-266",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°50-266 du 4 mars 1950 - art. 3 (V)",
+        "@cidtexte": "LEGITEXT000006071088",
+        "@datesignatexte": "1950-03-04",
+        "@id": "LEGIARTI000006500212",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "50-266",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°50-266 du 4 mars 1950 - art. 5 (V)",
+        "@cidtexte": "LEGITEXT000006071088",
+        "@datesignatexte": "1950-03-04",
+        "@id": "LEGIARTI000006500214",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "50-266",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

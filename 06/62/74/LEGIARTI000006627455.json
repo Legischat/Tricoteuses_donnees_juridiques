@@ -1,0 +1,144 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006627455",
+      "ANCIEN_ID": "RIAXXXXXXXX5X00144AAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/74/LEGIARTI000006627455.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "144",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-03-01",
+        "DATE_FIN": "2011-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code minier",
+          "@c_titre_court": "Code minier",
+          "@debut": "1956-08-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071785"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Régime général",
+            "@debut": "1956-08-21",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006099941"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre X : De la constatation des infractions et des pénalités.",
+              "@debut": "1956-08-21",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006122822"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071785",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-08-21",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006627454",
+          "@num": "144",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2011-03-01",
+          "@id": "LEGIARTI000006627455",
+          "@num": "144",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou partielle de la décision prononcée dans les conditions prévues par l'article 131-35 du code pénal.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°56-838 du 16 août 1956 portant code minier",
+        "@cidtexte": "JORFTEXT000000877398",
+        "@datesignatexte": "1956-08-16",
+        "@id": "JORFTEXT000000877398",
+        "@naturetexte": "DECRET",
+        "@numtexte": "56-838",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°92-1336 du 16 décembre 1992 - art. 199 () JORF 23 décembre 1992 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000177662",
+        "@datesignatexte": "1992-12-16",
+        "@id": "LEGIARTI000006491727",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9200040L",
+        "@num": "199",
+        "@numtexte": "92-1336",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2011-91\n du 20 janvier 2011 - art. 17 (VD)",
+        "@cidtexte": "JORFTEXT000023478661",
+        "@datesignatexte": "2011-01-20",
+        "@id": "LEGIARTI000023481397",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "INDI1009820R",
+        "@num": "17",
+        "@numtexte": "2011-91",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code minier (nouveau) - art. L512-7 (V)",
+        "@cidtexte": "LEGITEXT000023501962",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023505885",
+        "@naturetexte": "CODE",
+        "@num": "L512-7",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code pénal - art. 131-35",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006417308",
+        "@naturetexte": "CODE",
+        "@num": "131-35",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

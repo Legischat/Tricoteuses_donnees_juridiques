@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006890096",
+      "ANCIEN_ID": "UTILCXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/00/LEGIARTI000006890096.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1991-04-14",
+        "DATE_FIN": "2017-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 18 mars 1991 relatif au classement, à la réglementation et à    l'équipement des passages à niveau",
+          "@c_titre_court": "Arrêté du 18 mars 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000343313"
+        },
+        {
+          "#text": "Arrêté du 18 mars 1991 relatif au classement, à la réglementation et à l'équipement des passages à niveau",
+          "@c_titre_court": "Arrêté du 18 mars 1991",
+          "@debut": "1991-04-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006077502"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE III : PASSAGES À NIVEAU DE 2e CATÉGORIE.",
+            "@debut": "1991-04-14",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006112343"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000343313",
+      "@date_publi": "1991-04-14",
+      "@date_signature": "1991-03-18",
+      "@ministere": "MINISTERE DES DEPARTEMENTS D'OUTRE-MER",
+      "@nature": "ARRETE",
+      "@nor": "EQUT9100264A",
+      "@num_parution_jo": "0089"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-04-14",
+          "@etat": "MODIFIE",
+          "@fin": "2017-07-01",
+          "@id": "LEGIARTI000006890096",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2017-07-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000034809613",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour pouvoir être équipé du seul dispositif de la croix de  Saint-André,  un  passage  à  niveau  doit  remplir  les  conditions ci-après :<br/>\n<br/>   a) Le moment de circulation ne dépasse pas 3 000 ;<br/>\n<br/>   b) Pour un observateur placé sur l'axe de la voie routière en au moins un point situé entre 3,50 et 5 mètres du rail le plus proche, et de chaque côté de la ligne de chemin de fer, un train doit être visible de part et d'autre du passage à niveau sur une distance R, exprimée en mètres, de :<br/>\n R 1 = 0,8 F (n + 5,6)1/2<br/>\n F représentant la vitesse maximum des trains sur la section de ligne, exprimée en kilomètre heure, et n le nombre de voies ferrées.<br/>\n<br/>   Si le passage est notoirement emprunté par des véhicules routiers de longueur supérieure à 14 m ne pouvant pas franchir le passage à niveau à une vitesse supérieure à 15 kilomètres heure ou par des troupeaux groupant plus de huit bovins ou plus de 50 ovins, cette distance est :<br/>\n R 2 = (3,4 + 0,7 n) F<br/>\n<br/>   Les distances R 1 et R 2 doivent être inférieures à 600 mètres.<br/>\n<br/>   c) Pour un observateur se déplaçant sur la route sur une distance D mesurée en mètres à partir du rail le plus proche, telle que D = 0,01 V2 + 0,60 V, V représentant la vitesse routière sur le tronçon de route encadrant le passage à niveau exprimée en kilomètre heure, un train est visible, sans interruption notable, de part et d'autre du passage à niveau, sur une longueur L de voie ferrée exprimée en mètres de :<br/>\n L 1 = 0,28 F [( V + 100)/15 + n]<br/>\n lorsque le passage à niveau constitue un point singulier de l'itinéraire routier nécessitant une vitesse de franchissement n'excédant pas 30 kilomètres heure.<br/>\n<br/>   Dans les autres cas, cette distance est :<br/>\n L 2 = 0,28 F [(V + 50)/15 + 0,5 n]<br/>\n<br/>   d) Par exception, si la circulation routière journalière moyenne ne dépasse pas 10 véhicules et que la vitesse V définie ci-dessus est inférieure ou égale à 30 kilomètres heure, la condition de visibilité définie au paragraphe b est seule exigée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1845-07-15",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 82-1153 1982-12-30",
+        "@cidtexte": "JORFTEXT000000319738",
+        "@datesignatexte": "1982-12-30",
+        "@id": "JORFTEXT000000319738",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1153",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006663522",
+      "ANCIEN_ID": "SEHGFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/35/LEGIARTI000006663522.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-07-01",
+        "DATE_FIN": "1986-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 85-681 du 5 juillet 1985 portant relèvement du salaire minimum de croissance",
+          "@c_titre_court": "Décret n° 85-681 du 5 juillet 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000689002"
+        },
+        {
+          "#text": "Décret n°85-681 du 5 juillet 1985 portant relèvement du salaire minimum de croissance *SMIC*.",
+          "@c_titre_court": "Décret n°85-681 du 5 juillet 1985",
+          "@debut": "1985-07-01",
+          "@fin": "1986-06-01",
+          "@id_txt": "LEGITEXT000006065069"
+        }
+      ],
+      "@cid": "JORFTEXT000000689002",
+      "@date_publi": "1985-07-07",
+      "@date_signature": "1985-07-05",
+      "@nature": "DECRET",
+      "@num": "85-681"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-07-01",
+          "@etat": "PERIME",
+          "@fin": "1986-06-01",
+          "@id": "LEGIARTI000006663522",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Art. 1er - A compter du 1er juillet 1985, pour les catégories de travailleurs intéressés par l'article L. 131-2 du code du travail, le salaire minimum de croissance sera relevé dans les conditions ci-après :<br/>\n    En métropole, son montant sera porté à 26,04 F ;<br/>\n    Dans la collectivité territoriale de Saint-Pierre-et-Miquelon, les salaires individuels ne pourront être inférieurs à 26,04 F de l'heure ;     Dans les départements d'outre-mer, ils ne pourront être inférieurs à :<br/>\n    846,62 F par semaine pour trente-neuf heures de travail effectif dans les départements de la Guadeloupe, de la Guyane et de la Martinique ;<br/>\n    789,96 F par semaine pour trente-neuf heures de travail effectif dans les professions autres que les professions agricoles rémunérées à la tâche ; et, pour ce qui concerne ces dernières, un certain nombre de tâches, tels qu'elles sont définies par arrêté des ministres chargés respectivement de l'agriculture, du travail et des départements et territoires d'outre-mer, pris sur proposition du commissaire de la République après consultation des organisations professionnelles d'employeurs et de salariés intéressées, dans le département de la Réunion.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°85-681 du 5 juillet 1985 - art. 4 (P)",
+        "@cidtexte": "JORFTEXT000000689002",
+        "@datesignatexte": "1985-07-05",
+        "@id": "LEGIARTI000006663526",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "85-681",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. L131-2 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646983",
+        "@naturetexte": "CODE",
+        "@num": "L131-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

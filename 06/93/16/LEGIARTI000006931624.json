@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006931624",
+      "ANCIEN_ID": "RDIDMXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/93/16/LEGIARTI000006931624.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-05-07",
+        "DATE_FIN": "2005-02-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 avril 1993 relatif aux modalités de délivrance de l'autorisation d'exportation temporaire ou définitive de biens culturels et de l'autorisation d'exportation temporaire de trésors nationaux",
+          "@c_titre_court": "Arrêté du 28 avril 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000162308"
+        },
+        {
+          "#text": "Arrêté du 28 avril 1993 relatif aux modalités de délivrance de l'autorisation d'exportation temporaire ou définitive de biens culturels et de l'autorisation d'exportation temporaire de trésors nationaux",
+          "@c_titre_court": "Arrêté du 28 avril 1993",
+          "@debut": "1993-05-07",
+          "@fin": "2005-02-02",
+          "@id_txt": "LEGITEXT000006082122"
+        }
+      ],
+      "@cid": "JORFTEXT000000162308",
+      "@date_publi": "1993-05-07",
+      "@date_signature": "1993-04-28",
+      "@nature": "ARRETE",
+      "@nor": "BUDD9367924A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-05-07",
+          "@etat": "ABROGE",
+          "@fin": "2005-02-02",
+          "@id": "LEGIARTI000006931624",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002129124",
+          "@num": "5",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 5 février 1993 relatif aux modalités de délivrance de l'autorisation d'exportation temporaire ou définitive de biens culturels et de l'autorisation d'exportation temporaire de trésors nationaux est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-02-05",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2005-01-20 art. 1 JORF 2 février 2005",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 93-124 1993-01-29 art. 11",
+        "@cidtexte": "JORFTEXT000000336442",
+        "@datesignatexte": "1993-01-29",
+        "@id": "JORFTEXT000000336442",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENB9300400D",
+        "@numtexte": "93-124",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

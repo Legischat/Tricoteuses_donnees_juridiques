@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006858612",
+      "ANCIEN_ID": "UPHWXXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/86/LEGIARTI000006858612.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-05-01",
+        "DATE_FIN": "2007-10-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 90-267 du 23 mars 1990 relatif à l'importation, à l'exportation et    au transit de déchets générateurs de nuisances.",
+          "@c_titre_court": "Décret n°90-267 du 23 mars 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000349606"
+        },
+        {
+          "#text": "Décret n°90-267 du 23 mars 1990 relatif à l'importation, à l'exportation et au transit de déchets générateurs de nuisances",
+          "@c_titre_court": "Décret n°90-267 du 23 mars 1990",
+          "@debut": "1990-05-01",
+          "@fin": "2007-10-16",
+          "@id_txt": "LEGITEXT000006075611"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE Ier : RÉGIME GÉNÉRAL",
+            "@debut": "1990-05-01",
+            "@fin": "2007-10-16",
+            "@id": "LEGISCTA000006109817"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CHAPITRE Ier : Importation.",
+              "@debut": "1990-05-01",
+              "@fin": "2007-10-16",
+              "@id": "LEGISCTA000006129643"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000349606",
+      "@date_publi": "1990-03-27",
+      "@date_signature": "1990-03-23",
+      "@nature": "DECRET",
+      "@nor": "PRME9061077D",
+      "@num": "90-267"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-05-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-10-16",
+          "@id": "LEGIARTI000006858612",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La demande d'autorisation précise :<br/>\n<br/>   a) L'identité de l'auteur de la demande, du destinataire s'il est différent de ce dernier, de la personne qui a créé le déchet, du détenteur initial, du ou des transporteurs prévus, le transporteur maritime n'étant pas considéré comme transporteur au sens du présent décret en cas de transroulage, ainsi que de toute autre personne intervenant à titre commercial ou technique dans l'envoi du déchet du détenteur initial au destinataire ;<br/>\n<br/>   b) La nature, le fait générateur, la composition, la quantité, les caractéristiques de danger, la destination et le mode d'élimination du déchet ainsi que la destination ultérieure s'il s'agit d'un prétraitement ; ces indications sont accompagnées de pièces permettant d'apprécier l'aptitude de l'installation du destinataire à recevoir et à éliminer le déchet ;<br/>\n<br/>   c) Les conditions de transport et l'itinéraire.<br/>\n<br/>\n<br/>   Elle est en outre assortie :<br/>\n<br/>   1. D'une pièce établissant l'accord liant le destinataire au détenteur initial quant à la prise en charge du déchet dans l'installation aux fins d'élimination ;<br/>\n<br/>   2. Des pièces certifiant que le projet d'importation a été porté à la connaissance des autorités compétentes des Etats étrangers d'expédition et de transit ;<br/>\n<br/>   3. D'une attestation signée de la personne dont l'activité a créé le déchet, confirmant les indications relatives aux caractéristiques du déchet telles que prévues au b du premier alinéa ci-dessus et indiquant qu'elle a pris connaissance de la destination prévue.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-03-23",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Loi 75-633 1975-07-15",
+        "@cidtexte": "JORFTEXT000000888298",
+        "@datesignatexte": "1975-07-15",
+        "@id": "JORFTEXT000000888298",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-633",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 90-267 1990-03-23 art. 40",
+        "@cidtexte": "JORFTEXT000000349606",
+        "@datesignatexte": "1990-03-23",
+        "@id": "JORFTEXT000000349606",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRME9061077D",
+        "@numtexte": "90-267",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 2007-1467 2007-10-12 art. 4 JORF 16 octobre 2007",
+        "@cidtexte": "JORFTEXT000000825108",
+        "@datesignatexte": "2007-10-12",
+        "@id": "JORFTEXT000000825108",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVG0750611D",
+        "@numtexte": "2007-1467",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

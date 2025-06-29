@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006225992",
+      "ANCIEN_ID": "FCIGPXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/22/59/LEGIARTI000006225992.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-12-07",
+        "DATE_FIN": "2008-06-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1er décembre 2003 relatif à la justification des dons effectués au profit d'oeuvres ou d'organismes visés à l'article 200-1 du code général des impôts",
+          "@c_titre_court": "Arrêté du 1 décembre 2003",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000244672"
+        },
+        {
+          "#text": "Arrêté du 1 décembre 2003 relatif à la justification des dons effectués au profit d'oeuvres ou d'organismes visés à l'article 200 1 du code général des impôts",
+          "@c_titre_court": "Arrêté du 1 décembre 2003",
+          "@debut": "2003-12-07",
+          "@fin": "2008-06-29",
+          "@id_txt": "LEGITEXT000005715833"
+        }
+      ],
+      "@cid": "JORFTEXT000000244672",
+      "@date_publi": "2003-12-07",
+      "@date_signature": "2003-12-01",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE BUDGET ET REFORME BUDGETAIRE",
+      "@nature": "ARRETE",
+      "@nor": "BUDL0300156A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-12-07",
+          "@etat": "ABROGE",
+          "@fin": "2008-06-29",
+          "@id": "LEGIARTI000006225992",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002452425",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 25 octobre 2000 relatif à la justification des dons effectués au profit d'oeuvres ou d'organismes visés aux 1 et 4 de l'article 200 du code général des impôts est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2000-10-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 26 juin 2008 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000019079285",
+        "@datesignatexte": "2008-06-26",
+        "@id": "LEGIARTI000019094782",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BCFL0812032A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "CGI 200 1 et 4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

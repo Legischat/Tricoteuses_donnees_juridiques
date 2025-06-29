@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579515",
+      "ANCIEN_ID": "RAA0XXXXXXX0140AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/95/LEGIARTI000006579515.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "140",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-04-19",
+        "DATE_FIN": "1992-11-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Régime du sol",
+            "@debut": "1955-04-19",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006098247"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VI : Equipement rural",
+              "@debut": "1955-04-19",
+              "@fin": "1996-03-17",
+              "@id": "LEGISCTA000006121352"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : Des travaux entrepris par l'Etat.",
+                "@debut": "1955-04-19",
+                "@fin": "1992-11-12",
+                "@id": "LEGISCTA000006138197"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-04-19",
+          "@etat": "ABROGE",
+          "@fin": "1992-11-12",
+          "@id": "LEGIARTI000006579515",
+          "@num": "140",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le ministre de l'agriculture peut prescrire l'exécution par l'Etat, après avis des organisations professionnelles et des collectivités locales intéressées, des travaux d'équipement rural excédant les possibilités des collectivités intéressées.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 1951-06-07 art. 2, art. 4",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°92-1283 du 11 décembre 1992 - art. 5 (V) JORF 12 décembre 1992",
+        "@cidtexte": "JORFTEXT000000542506",
+        "@datesignatexte": "1992-12-11",
+        "@id": "LEGIARTI000006600053",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9100211L",
+        "@num": "5",
+        "@numtexte": "92-1283",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006645522",
+      "ANCIEN_ID": "SAAXXXXXXXX3X980D06AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/55/LEGIARTI000006645522.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "D980-6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1992-04-28",
+        "DATE_FIN": "1995-06-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets simples",
+            "@debut": "1973-08-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101374"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre IX : De la formation professionnelle continue dans le cadre de l'éducation permanente",
+              "@debut": "1973-11-23",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123869"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre VIII : Des formations professionnelles en alternance.",
+                "@debut": "1992-04-28",
+                "@fin": "2004-09-15",
+                "@id": "LEGISCTA000006139761"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-04-28",
+          "@etat": "ABROGE",
+          "@fin": "1995-06-30",
+          "@id": "LEGIARTI000006645522",
+          "@num": "D980-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-31",
+          "@etat": "ABROGE",
+          "@fin": "1998-01-16",
+          "@id": "LEGIARTI000006645523",
+          "@num": "D980-6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'employeur choisit au sein de son entreprise, avec son accord et en tenant compte de l'objectif à atteindre, un tuteur chargé d'accueillir, d'aider, d'informer et de guider le jeune pendant la durée du contrat d'orientation *attributions*. Il lui permet de disposer du temps nécessaire au suivi du jeune.<br/>\n<br/>   Le tuteur ne peut se voir confier simultanément plus de trois jeunes qui suivent des formations dans le cadre de contrats d'insertion en alternance, de contrats d'apprentissage ou de contrats locaux d'orientation.<br/>\n<br/>   Il est chargé du suivi du déroulement des actions d'orientation professionnelle dispensées au jeune.<br/>\n<br/>   Il assure la liaison entre l'organisme de formation et, le cas échéant, l'organisme chargé du bilan et les salariés de l'entreprise qui ont la responsabilité d'initier le jeune à différentes activités de l'entreprise. Il participe à l'évaluation du contrat d'orientation.<br/>\n<br/>   Lorsque l'employeur assume la fonction de tuteur, il ne peut l'exercer qu'à l'égard de deux jeunes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1046 1973-11-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°92-409 du 27 avril 1992 - art. 1 () JORF 28 avril 1992",
+        "@cidtexte": "JORFTEXT000000721860",
+        "@datesignatexte": "1992-04-27",
+        "@id": "LEGIARTI000006665919",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFF9204709D",
+        "@num": "1",
+        "@numtexte": "92-409",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 94-159 1994-02-23 art. 2 JORF 24 février 1994 en vigueur le 30 juin 1995",
+        "@cidtexte": "JORFTEXT000000364361",
+        "@datesignatexte": "1994-02-23",
+        "@id": "JORFTEXT000000364361",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFE9400158D",
+        "@numtexte": "94-159",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

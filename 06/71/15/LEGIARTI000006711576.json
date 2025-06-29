@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006711576",
+      "ANCIEN_ID": "SPHTQXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/15/LEGIARTI000006711576.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-11-22",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°91-1185 du 18 novembre 1991 RELATIF A LA LISTE DES PRODUITS SANGUINS A USAGE THERAPEUTIQUE",
+          "@c_titre_court": "Décret n°91-1185 du 18 novembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000701069"
+        },
+        {
+          "#text": "Décret n°91-1185 du 18 novembre 1991 relatif à la liste des produits sanguins à usage thérapeutique",
+          "@c_titre_court": "Décret n°91-1185 du 18 novembre 1991",
+          "@debut": "1991-11-22",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006067527"
+        }
+      ],
+      "@cid": "JORFTEXT000000701069",
+      "@date_publi": "1991-11-22",
+      "@date_signature": "1991-11-18",
+      "@nature": "DECRET",
+      "@nor": "SANP9102201D",
+      "@num": "91-1185"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-11-22",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006711576",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A la liste des produits sanguins énumérés à l'article 1er du présent décret sont ajoutés les sérums tests (réactifs) humains pour les groupages sanguins et les globules rouges tests humains pour les groupages sanguins et la détection ou l'identification d'anticorps.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°91-1185 du 18 novembre 1991 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000701069",
+        "@datesignatexte": "1991-11-18",
+        "@id": "LEGIARTI000006711575",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9102201D",
+        "@num": "1",
+        "@numtexte": "91-1185",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 6 JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L666 (P)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006694163",
+        "@naturetexte": "CODE",
+        "@num": "L666",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

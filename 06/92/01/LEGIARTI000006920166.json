@@ -1,0 +1,145 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006920166",
+      "ANCIEN_ID": "AKHAKXXXXXX057AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/01/LEGIARTI000006920166.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "57",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1956-03-03",
+        "DATE_FIN": "1994-04-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 56-222 du 29 février 1956 portant règlement d'administration publique pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice",
+          "@c_titre_court": "Décret n° 56-222 du 29 février 1956",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000686521"
+        },
+        {
+          "#text": "Décret n°56-222 du 29 février 1956 pris pour l'application de l'ordonnance du 2 novembre 1945 relative au statut des huissiers de justice",
+          "@c_titre_court": "Décret n°56-222 du 29 février 1956",
+          "@debut": "1956-03-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060767"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : De l'organisation professionnelle des huissiers de justice.",
+            "@debut": "1956-03-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006113016"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section I : Des chambres départementales",
+              "@debut": "1994-04-19",
+              "@fin": "2022-04-30",
+              "@id": "LEGISCTA000006132433"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Paragraphe VII : De la vérification de la comptabilité.",
+                "@debut": "1956-03-03",
+                "@fin": "1994-04-19",
+                "@id": "LEGISCTA000006145546"
+              },
+              {
+                "#text": "Paragraphe VII : De la vérification du respect des obligations relatives à la lutte contre le blanchiment de capitaux et le financement du terrorisme.",
+                "@debut": "2010-01-09",
+                "@fin": "2011-09-26",
+                "@id": "LEGISCTA000021663186"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000686521",
+      "@date_publi": "1956-03-03",
+      "@date_signature": "1956-02-29",
+      "@nature": "DECRET",
+      "@num": "56-222"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-03-03",
+          "@etat": "ABROGE",
+          "@fin": "1994-04-19",
+          "@id": "LEGIARTI000006920166",
+          "@num": "57",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2010-01-09",
+          "@etat": "ABROGE",
+          "@fin": "2011-09-26",
+          "@id": "LEGIARTI000021663179",
+          "@num": "57",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les délégués ont le droit de se faire représenter sans déplacement et à toute réquisition, les registres de comptabilité, même afférents aux activités accessoires éventuellement exercées par les huissiers de justice, et les registres des salaires du personnel, ainsi que les originaux des actes conservés en minute. Dix dossiers au moins, choisis au hasard, doivent être vérifiés. Les délégués apposent leur visa sur les registres et sur les pièces vérifiées avec l'indication du jour de la vérification.<br/>\n<br/>   Les délégués transmettent sans délai à la chambre le compte rendu de leurs opérations.<br/>\n<br/>   Lorsque le compte rendu passe sous silence une irrégularité quelconque, les délégués sont passibles, suivant la gravité du cas, de suspension temporaire ou de destitution.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-2592 1945-11-02",
+        "@cidtexte": "JORFTEXT000000699573",
+        "@datesignatexte": "1945-11-02",
+        "@id": "JORFTEXT000000699573",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2592",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 56-222 1956-02-29 JORF 3 mars 1956 rectificatif JORF 15 mars 1956",
+        "@cidtexte": "JORFTEXT000000686521",
+        "@datesignatexte": "1956-02-29",
+        "@id": "JORFTEXT000000686521",
+        "@naturetexte": "DECRET",
+        "@numtexte": "56-222",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 94-299 1994-04-12 art. 22 JORF 19 avril 1994",
+        "@cidtexte": "JORFTEXT000000715226",
+        "@datesignatexte": "1994-04-12",
+        "@id": "JORFTEXT000000715226",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC9420227D",
+        "@numtexte": "94-299",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

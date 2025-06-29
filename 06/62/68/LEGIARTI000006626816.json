@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006626816",
+      "ANCIEN_ID": "RHIDQXXXXXX019AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/68/LEGIARTI000006626816.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "19",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-09-21",
+        "DATE_FIN": "2008-11-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 avril 1997 relatif aux conditions de police sanitaire régissant    la mise sur le marché d'animaux et de produits d'aquaculture",
+          "@c_titre_court": "Arrêté du 10 avril 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000749906"
+        },
+        {
+          "#text": "Arrêté du 10 avril 1997 relatif aux conditions de police sanitaire régissant la mise sur le marché d'animaux et de produits d'aquaculture",
+          "@c_titre_court": "Arrêté du 10 avril 1997",
+          "@debut": "1997-06-03",
+          "@fin": "2008-11-08",
+          "@id_txt": "LEGITEXT000005623848"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Dispositions générales.",
+            "@debut": "1997-06-03",
+            "@fin": "2008-11-08",
+            "@id": "LEGISCTA000006099910"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000749906",
+      "@date_publi": "1997-06-03",
+      "@date_signature": "1997-04-10",
+      "@ministere": "MINISTERE DE L'AGRICULTURE, DE LA PECHE ET DE L'ALIMENTATION",
+      "@nature": "ARRETE",
+      "@nor": "AGRG9602528A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-06-03",
+          "@etat": "MODIFIE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006626815",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-09-21",
+          "@etat": "ABROGE",
+          "@fin": "2008-11-08",
+          "@id": "LEGIARTI000006626816",
+          "@num": "19",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les contrevenants aux prescriptions du présent arrêté sont passibles des peines prévues par l'article L. 237-3 du code rural et le décret du 18 février 1963 susvisés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural L237-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°63-136 du 18 février 1963",
+        "@cidtexte": "JORFTEXT000000862731",
+        "@datesignatexte": "1963-02-18",
+        "@id": "JORFTEXT000000862731",
+        "@naturetexte": "DECRET",
+        "@numtexte": "63-136",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2000-914 du 18 septembre 2000 - art. 11 () JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000401865",
+        "@datesignatexte": "2000-09-18",
+        "@id": "LEGIARTI000006849361",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ATEX0000087R",
+        "@num": "11",
+        "@numtexte": "2000-914",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 4 novembre 2008 - art. 39",
+        "@cidtexte": "JORFTEXT000019732816",
+        "@datesignatexte": "2008-11-04",
+        "@id": "LEGIARTI000019733278",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0825593A",
+        "@num": "39",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

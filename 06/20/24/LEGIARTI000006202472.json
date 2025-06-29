@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006202472",
+      "ANCIEN_ID": "AKHGWXXXXXX002AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/24/LEGIARTI000006202472.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-04-03",
+        "DATE_FIN": "2015-10-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 87-238 du 6 avril 1987 réglementant les tarifs des courses de taxi",
+          "@c_titre_court": "Décret n° 87-238 du 6 avril 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000334045"
+        },
+        {
+          "#text": "Décret n°87-238 du 6 avril 1987 réglementant les tarifs des courses de taxi",
+          "@c_titre_court": "Décret n°87-238 du 6 avril 1987",
+          "@debut": "1987-04-07",
+          "@fin": "2015-10-10",
+          "@id_txt": "LEGITEXT000006065901"
+        }
+      ],
+      "@cid": "JORFTEXT000000334045",
+      "@date_publi": "1987-04-07",
+      "@date_signature": "1987-04-06",
+      "@nature": "DECRET",
+      "@num": "87-238"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-04-07",
+          "@etat": "MODIFIE",
+          "@fin": "2005-04-03",
+          "@id": "LEGIARTI000006202471",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-04-03",
+          "@etat": "ABROGE",
+          "@fin": "2015-10-10",
+          "@id": "LEGIARTI000006202472",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le tarif de la course de taxi comprend un prix maximum du kilomètre parcouru.<br/>\n<br/>   Ce prix est majoré pour la course de nuit, pour la course qui impose un retour à vide et, le cas échéant, pour la course effectuée sur route enneigée ou verglacée.<br/>\n<br/>   Des dispositions particulières sont prises pour la période d'attente commandée par le client et pour les périodes où la marche du véhicule est ralentie.<br/>\n<br/>   En ce qui concerne les taxis parisiens, le tarif de la course peut également être majoré aux heures de pointe. Ce tarif peut, pour les courses comportant des périodes d'attente ou de marche ralentie, comporter des prix différenciés selon l'heure à laquelle la course est effectuée et la zone desservie.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2005-313 du 1 avril 2005 - art. 2 () JORF 3 avril 2005",
+        "@cidtexte": "JORFTEXT000000420725",
+        "@datesignatexte": "2005-04-01",
+        "@id": "LEGIARTI000006239872",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOC0500037D",
+        "@num": "2",
+        "@numtexte": "2005-313",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "DÉCRET n°2015-1252 du 7 octobre 2015 - art. 7",
+        "@cidtexte": "JORFTEXT000031285847",
+        "@datesignatexte": "2015-10-07",
+        "@id": "LEGIARTI000031286463",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EINC1510555D",
+        "@num": "7",
+        "@numtexte": "2015-1252",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

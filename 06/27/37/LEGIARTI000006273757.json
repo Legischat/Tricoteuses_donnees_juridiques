@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273757",
+      "ANCIEN_ID": "FAECCXXXXXX068AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/37/LEGIARTI000006273757.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "68",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1983-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-1126 du 29 décembre 1982 DE FINANCES POUR 1983",
+          "@c_titre_court": "Loi n°82-1126 du 29 décembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503959"
+        },
+        {
+          "#text": "Loi n° 82-1126 du 29 décembre 1982 de finances pour 1983",
+          "@c_titre_court": "Loi n° 82-1126 du 29 décembre 1982",
+          "@debut": "1983-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068728"
+        }
+      ],
+      "@cid": "JORFTEXT000000503959",
+      "@date_publi": "1982-12-30",
+      "@date_signature": "1982-12-29",
+      "@nature": "LOI",
+      "@num": "82-1126"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006273757",
+          "@num": "68",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001101387",
+          "@num": "68",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La déclaration prévue à l'article 170 du code général des impôts doit faire apparaître le montant des produits de placements à revenu fixe soumis, à compter du 1er janvier 1983, au prélèvement libératoire de l'impôt sur le revenu et pour lesquels le contribuable a renoncé à l'anonymat, ainsi que le montant des profits de construction réalisés à compter de la même date et soumis au prélèvement libératoire de 50 p. 100 prévu à l'article 23 de la loi de finances pour 1982 précitée.<br/>\n<br/>   Les sommes non déclarées sont passibles d'une amende égale à 50 p. 100 de leur montant, avec un minimum de 200 francs. Cette demande est établie et recouvrée comme en matière d'impôt sur le revenu. L'amende encourue n'est pas appliquée dans le cas prévu au 3 de l'article 1725 du code général des impôts.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 170, 1725",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 82-1126 1982-12-29 Finances pour 1983 JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983",
+        "@cidtexte": "JORFTEXT000000503959",
+        "@datesignatexte": "1982-12-29",
+        "@id": "JORFTEXT000000503959",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1126",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 170 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006308215",
+        "@naturetexte": "CODE",
+        "@num": "170",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1763 C (P)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006313076",
+        "@naturetexte": "CODE",
+        "@num": "1763 C",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 82-1161 1982-12-30 art. 23 Finances pour 1982",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

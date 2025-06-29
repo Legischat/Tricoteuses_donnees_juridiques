@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006206685",
+      "ANCIEN_ID": "AMIBRXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/66/LEGIARTI000006206685.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2001-10-10",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 novembre 1988 INSTITUANT AU SEIN DU SYNDICAT DES TRANSPORTS PARISIENS UN BUREAU D'ADJUDICATION ET UNE COMMISSION D'OUVERTURE DES PLIS",
+          "@c_titre_court": "Arrêté du 15 novembre 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000479712"
+        },
+        {
+          "#text": "Arrêté du 15 novembre 1988 instituant au sein du Syndicat des transports parisiens un bureau d'adjudication et une commission d'ouverture des plis",
+          "@c_titre_court": "Arrêté du 15 novembre 1988",
+          "@debut": "1988-11-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006058617"
+        }
+      ],
+      "@cid": "JORFTEXT000000479712",
+      "@date_publi": "1988-11-30",
+      "@date_signature": "1988-11-15",
+      "@nature": "ARRETE",
+      "@nor": "TRST8800571A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-11-30",
+          "@etat": "MODIFIE",
+          "@fin": "2001-10-10",
+          "@id": "LEGIARTI000006206684",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2001-10-10",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006206685",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est institué au Syndicat des transports d'Ile-de-France un bureau d'adjudication et une commission d'ouverture des plis, conformément aux articles 85 et 96 du code des marchés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code des marchés publics 85, 96",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 59-1090 1959-09-23",
+        "@cidtexte": "JORFTEXT000000493218",
+        "@datesignatexte": "1959-09-23",
+        "@id": "JORFTEXT000000493218",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-1090",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 2001-924 2001-10-09 art. 23 1° JORF 10 octobre 2001",
+        "@cidtexte": "JORFTEXT000000406551",
+        "@datesignatexte": "2001-10-09",
+        "@id": "JORFTEXT000000406551",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUT0101330D",
+        "@numtexte": "2001-924",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

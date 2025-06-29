@@ -1,0 +1,133 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006338580",
+      "ANCIEN_ID": "MCEACXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/85/LEGIARTI000006338580.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1980-01-11",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°80-10 du 10 janvier 1980 PORTANT AMENAGEMENT DE LA FISCALITE DIRECTE LOCALE",
+          "@c_titre_court": "Loi n°80-10 du 10 janvier 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886764"
+        },
+        {
+          "#text": "Loi n° 80-10 du 10 janvier 1980 portant aménagement de la fiscalité directe locale.",
+          "@c_titre_court": "Loi n° 80-10 du 10 janvier 1980",
+          "@debut": "1980-01-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068680"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Taxe professionnelle.",
+            "@debut": "1980-01-11",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085290"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Champ d'application de la taxe.",
+              "@debut": "1980-01-11",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006115170"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000886764",
+      "@date_publi": "1980-01-11",
+      "@date_signature": "1980-01-10",
+      "@nature": "LOI",
+      "@num": "80-10"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-01-11",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006338580",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'application de l'article 33, il ne sera pas tenu compte de l'exonération prévue au troisième alinéa (2.) de l'article 1449 du code général des impôts.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1449 2°",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 80-10 1980-01-10 ART. 33",
+        "@cidtexte": "JORFTEXT000000886764",
+        "@datesignatexte": "1980-01-10",
+        "@id": "JORFTEXT000000886764",
+        "@naturetexte": "LOI",
+        "@numtexte": "80-10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°80-10 du 10 janvier 1980 - art. 33 (V)",
+        "@cidtexte": "JORFTEXT000000886764",
+        "@datesignatexte": "1980-01-10",
+        "@id": "LEGIARTI000006338618",
+        "@naturetexte": "LOI",
+        "@num": "33",
+        "@numtexte": "80-10",
+        "@sens": "cible",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1467 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006311677",
+        "@naturetexte": "CODE",
+        "@num": "1467",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1647 B sexies (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006311945",
+        "@naturetexte": "CODE",
+        "@num": "1647 B sexies",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

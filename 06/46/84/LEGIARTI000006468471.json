@@ -1,0 +1,125 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006468471",
+      "ANCIEN_ID": "ACEBGXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/84/LEGIARTI000006468471.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-01-19",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°51-59 du 18 janvier 1951 NANTISSEMENT DE L'OUTILLAGE ET MATERIEL D'EQUIPEMENT PROFESSIONNEL",
+          "@c_titre_court": "Loi n°51-59 du 18 janvier 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886643"
+        },
+        {
+          "#text": "Loi n°51-59 du 18 janvier 1951 relative au nantissement de l'outillage et du matériel d'équipement",
+          "@c_titre_court": "Loi n°51-59 du 18 janvier 1951",
+          "@debut": "1951-01-19",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006068096"
+        }
+      ],
+      "@cid": "JORFTEXT000000886643",
+      "@date_publi": "1951-01-19",
+      "@date_signature": "1951-01-18",
+      "@nature": "LOI",
+      "@num": "51-59"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-19",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006468471",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le paiement du prix d'acquisition de l'outillage et du matériel d'équipement professionnel peut être garanti, soit vis-à-vis du vendeur, soit vis-à-vis du prêteur qui avance les fonds nécessaires au paiement du vendeur, par un nantissement restreint à l'outillage ou au matériel ainsi acquis.<br/>\n<br/>   Si l'acquéreur a la qualité de commerçant, ce nantissement est soumis, sous réserve des dispositions ci-après, aux règles édictées par la loi du 17 mars 1909 relatives à la vente et au nantissement des fonds de commerce et par les lois subséquentes, sans qu'il soit nécessaire d'y comprendre les éléments essentiels du fonds.<br/>\n<br/>   Si l'acquéreur n'a pas la qualité de commerçant, le nantissement est soumis aux dispositions de l'article 16 ci-après.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 51-59 1951-01-18 art. 23 *champ d'application aux DOM -TOM*",
+        "@cidtexte": "JORFTEXT000000886643",
+        "@datesignatexte": "1951-01-18",
+        "@id": "JORFTEXT000000886643",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-59",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°51-59 du 18 janvier 1951 - art. 16 (Ab)",
+        "@cidtexte": "JORFTEXT000000886643",
+        "@datesignatexte": "1951-01-18",
+        "@id": "LEGIARTI000006468600",
+        "@naturetexte": "LOI",
+        "@num": "16",
+        "@numtexte": "51-59",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°51-194 du 17 février 1951 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000691513",
+        "@datesignatexte": "1951-02-17",
+        "@id": "LEGIARTI000006485659",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "51-194",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1909-03-17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L525-1 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234729",
+        "@naturetexte": "CODE",
+        "@num": "L525-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

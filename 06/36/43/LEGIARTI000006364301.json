@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006364301",
+      "ANCIEN_ID": "MREAAXXXXXX045AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/43/LEGIARTI000006364301.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "45",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-03-03",
+        "DATE_FIN": "1991-05-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-214 du 2 mars 1982 PORTANT STATUT PARTICULIER DE LA REGION CORSE (ORGANISATION ADMINISTRATIVE)",
+          "@c_titre_court": "Loi n°82-214 du 2 mars 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000704430"
+        },
+        {
+          "#text": "Loi n°82-214 du 2 mars 1982 portant statut particulier de la région de Corse :  organisation administrative.",
+          "@c_titre_court": "Loi n°82-214 du 2 mars 1982",
+          "@debut": "1982-03-03",
+          "@fin": "1991-05-14",
+          "@id_txt": "LEGITEXT000006068737"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Du représentant de l'Etat dans la région",
+            "@debut": "1982-03-03",
+            "@fin": "1991-05-14",
+            "@id": "LEGISCTA000006086171"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000704430",
+      "@date_publi": "1982-03-03",
+      "@date_signature": "1982-03-02",
+      "@nature": "LOI",
+      "@num": "82-214"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-03-03",
+          "@etat": "ABROGE",
+          "@fin": "1991-05-14",
+          "@id": "LEGIARTI000006364301",
+          "@num": "45",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La chambre régionale des comptes de Corse participe, à compter du 1er janvier 1983 [*date*], au contrôle des actes budgétaires de la région de Corse dans les conditions prévues par le titre III de la loi n° 82-213 du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 82-213 1982-03-02 ART. 59 à ART. 83, titre III",
+        "@cidtexte": "JORFTEXT000000880039",
+        "@datesignatexte": "1982-03-02",
+        "@id": "JORFTEXT000000880039",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-213",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 91-428 1991-05-13 art. 87 : abrogation de la loi 91-428 à la date de la première réunion de l'Assemblée de Corse suivant son prochain renouvellement",
+        "@cidtexte": "JORFTEXT000000536085",
+        "@datesignatexte": "1991-05-13",
+        "@id": "JORFTEXT000000536085",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9000167L",
+        "@numtexte": "91-428",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°91-428 du 13 mai 1991 - art. 87 (V) JORF 14 mai 1991",
+        "@cidtexte": "JORFTEXT000000536085",
+        "@datesignatexte": "1991-05-13",
+        "@id": "LEGIARTI000006385806",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9000167L",
+        "@num": "87",
+        "@numtexte": "91-428",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

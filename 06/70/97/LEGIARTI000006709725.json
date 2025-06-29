@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006709725",
+      "ANCIEN_ID": "SPHQAXXXXXX023AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/97/LEGIARTI000006709725.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1978-04-04",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°78-501 du 31 mars 1978 PRIS POUR L'APPLICATION DE LA LOI 761181 DU 22-12-1976 RELATIVE AUX PRELEVEMENTS D'ORGANES",
+          "@c_titre_court": "Décret n°78-501 du 31 mars 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000702669"
+        },
+        {
+          "#text": "Décret n°78-501 du 31 mars 1978 pris pour l'application de la loi du 22 décembre 1976 relative aux prélèvements d'organes.",
+          "@c_titre_court": "Décret n°78-501 du 31 mars 1978",
+          "@debut": "1970-04-04",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006062885"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : Modalités et procédure de constatation de la mort",
+            "@debut": "1978-04-04",
+            "@fin": "2003-05-27",
+            "@id": "LEGISCTA000006104364"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000702669",
+      "@date_publi": "1978-04-04",
+      "@date_signature": "1978-03-31",
+      "@nature": "DECRET",
+      "@num": "78-501"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-04-04",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006709725",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article R. 364-16 du code des communes est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 76-1181 1976-12-22",
+        "@cidtexte": "JORFTEXT000000699407",
+        "@datesignatexte": "1976-12-22",
+        "@id": "JORFTEXT000000699407",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-1181",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 6 JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "CODE DES COMMUNES. - art. R364-16 (Ab)",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006349342",
+        "@naturetexte": "CODE",
+        "@num": "R364-16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

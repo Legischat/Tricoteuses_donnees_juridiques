@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006323994",
+      "ANCIEN_ID": "FAHEUXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/39/LEGIARTI000006323994.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-05-11",
+        "DATE_FIN": "1985-01-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-393 du 10 mai 1982 RELATIF A LA TAXE PARAFISCALE PERCUE AU PROFIT DE L'INSTITUT FRANCAIS DU PETROLE JUSQU'AU 31-12-1986",
+          "@c_titre_court": "Décret n°82-393 du 10 mai 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000519365"
+        },
+        {
+          "#text": "Décret n°82-393 du 10 mai 1982  N° 82-393 DU 10 MAI 1982 RELATIF A LA TAXE PARAFISCALE PERCUE AU PROFIT DE L'INSTITUT FRANCAIS DU PETROLE.",
+          "@c_titre_court": "Décret n°82-393 du 10 mai 1982",
+          "@debut": "1982-05-11",
+          "@fin": "1985-01-11",
+          "@id_txt": "LEGITEXT000006063763"
+        }
+      ],
+      "@cid": "JORFTEXT000000519365",
+      "@date_publi": "1982-05-11",
+      "@date_signature": "1982-05-10",
+      "@nature": "DECRET",
+      "@num": "82-393"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-11",
+          "@etat": "ABROGE",
+          "@fin": "1985-01-11",
+          "@id": "LEGIARTI000006323994",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont soumis à la taxe [*parafiscale, champ d'application*] les produits pétroliers et assimilés figurant au tableau B annexé au 1 de l'article 265 du code des douanes.<br/>\n<br/>   Le taux de la taxe, variable suivant les produits, est fixé par arrêté conjoint du ministre chargé du budget, du ministre chargé de l'économie et du ministre chargé des hydrocarbures [*autorités compétentes*], dans les limites d'un maximum de :<br/>\n<br/>   50 F par tonne pour le butane et le propane ;<br/>\n<br/>   18 F par tonne pour les supercarburants, les essences, le gazole et les carburéacteurs ;<br/>\n<br/>    9 F par tonne pour les autres produits.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°82-393 du 10 mai 1982 - art. 6 (Ab)",
+        "@cidtexte": "JORFTEXT000000519365",
+        "@datesignatexte": "1982-05-10",
+        "@id": "LEGIARTI000006323998",
+        "@naturetexte": "DECRET",
+        "@num": "6",
+        "@numtexte": "82-393",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code des douanes 265 1 Tableau B",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006071570",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

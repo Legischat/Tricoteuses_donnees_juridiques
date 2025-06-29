@@ -1,0 +1,134 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006545097",
+      "ANCIEN_ID": "ADHCJXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/50/LEGIARTI000006545097.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1949-05-30",
+        "DATE_FIN": "1997-04-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°49-438 du 29 mars 1949 RAP POUR L'APPLICATION DE LA LOI DU 01-08-1905 EN CE QUI CONCERNE LE COMMERCE DES GLACES ET DES CREMES GLACEES",
+          "@c_titre_court": "Décret n°49-438 du 29 mars 1949",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000299940"
+        },
+        {
+          "#text": "Décret n°49-438 du 29 mars 1949 pris pour l'application de la loi du 1er août 1905 en ce qui concerne le commerce des glaces et des crèmes glacées",
+          "@c_titre_court": "Décret n°49-438 du 29 mars 1949",
+          "@debut": "1949-05-30",
+          "@fin": "2003-02-20",
+          "@id_txt": "LEGITEXT000006060541"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Hygiène et contrôle bactériologique.",
+            "@debut": "1949-05-30",
+            "@fin": "2003-02-20",
+            "@id": "LEGISCTA000006096608"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000299940",
+      "@date_publi": "1949-03-30",
+      "@date_signature": "1949-03-29",
+      "@nature": "DECRET",
+      "@num": "49-438"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1949-05-30",
+          "@etat": "MODIFIE",
+          "@fin": "1997-04-03",
+          "@id": "LEGIARTI000006545097",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-04-03",
+          "@etat": "ABROGE",
+          "@fin": "2003-02-20",
+          "@id": "LEGIARTI000006545098",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Indépendamment des mesures prévues pour la recherche et la constatation éventuelle des délits de fraude, en application du décret du 22 janvier 1919, complété par le décret du 31 décembre 1928, les prélèvements effectués en vue de l'analyse bactériologique des glaces comporteront un seul échantillon du lait dans le ressort duquel se trouve le lieu du prélèvement.<br/>\n<br/>   Un arrêté du ministre de l'agriculture fixera les conditions techniques et administratives selon lesquelles les prélèvements, seront effectués et les modalités de conservation et d'examen des échantillons par le laboratoire agréé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 49-438 1949-03-29 JORF 30 mars 1949 rectificatif JORF 30 avril 1949 en vigueur le 30 mai 1949",
+        "@cidtexte": "JORFTEXT000000299940",
+        "@datesignatexte": "1949-03-29",
+        "@id": "JORFTEXT000000299940",
+        "@naturetexte": "DECRET",
+        "@numtexte": "49-438",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté du 13 septembre 1967 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000300301",
+        "@datesignatexte": "1967-09-13",
+        "@id": "LEGIARTI000006608725",
+        "@naturetexte": "ARRETE",
+        "@num": "4",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 1919-01-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 1928-12-31",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 89-674 1989-09-18 art. 2 et art. 14",
+        "@cidtexte": "JORFTEXT000000335717",
+        "@datesignatexte": "1989-09-18",
+        "@id": "JORFTEXT000000335717",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOZ8900028D",
+        "@numtexte": "89-674",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006887450",
+      "ANCIEN_ID": "UTIBYXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/74/LEGIARTI000006887450.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2007-03-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 17 septembre 1987 FIXANT LES CONDITIONS D'APPLICATION DE L'ART. R40-2 DU CODE DE LA ROUTE",
+          "@c_titre_court": "Arrêté du 17 septembre 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000498049"
+        },
+        {
+          "#text": "Arrêté du 17 septembre 1987 fixant les conditions d'application de l'article R. 416-17 du code de la route",
+          "@c_titre_court": "Arrêté du 17 septembre 1987",
+          "@debut": "2007-03-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006057761"
+        },
+        {
+          "#text": "Arrêté du 17 septembre 1987 fixant les conditions d'application de l'article R. 416-17 du code de la route",
+          "@c_titre_court": "Arrêté du 17 septembre 1987",
+          "@debut": "1987-10-02",
+          "@fin": "2007-03-01",
+          "@id_txt": "LEGITEXT000006057760"
+        }
+      ],
+      "@cid": "JORFTEXT000000498049",
+      "@date_publi": "1987-10-02",
+      "@date_signature": "1987-09-17",
+      "@nature": "ARRETE",
+      "@nor": "EQUS8700880A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-10-02",
+          "@etat": "MODIFIE",
+          "@fin": "2007-03-01",
+          "@id": "LEGIARTI000006887449",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-03-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006887450",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 1er septembre 1975 fixant les conditions d'application de l'article R. 40-2 du code de la route est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1975-09-01",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2007-02-27 art. 1, art. 23 JORF 1er mars 2007",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la route R40-2",
+        "@cidtexte": "LEGITEXT000006074228",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074228",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

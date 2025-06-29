@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006339390",
+      "ANCIEN_ID": "MCEATXXXXXX038AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/93/LEGIARTI000006339390.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "38",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-12-03",
+        "DATE_FIN": "1994-01-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°85-1268 du 29 novembre 1985 RELATIVE A LA DOTATION GLOBALE DE FONCTIONNEMENT (DGF)",
+          "@c_titre_court": "Loi n°85-1268 du 29 novembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000320895"
+        },
+        {
+          "#text": "Loi n° 85-1268 du 29 novembre 1985 relative à la dotation globale de fonctionnement.",
+          "@c_titre_court": "Loi n° 85-1268 du 29 novembre 1985",
+          "@debut": "1985-12-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068875"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section III : Dispositions applicables à la ville et au département de Paris et à la région d'Ile-de-France.",
+            "@debut": "1985-12-03",
+            "@fin": "1996-02-24",
+            "@id": "LEGISCTA000006085338"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000320895",
+      "@date_publi": "1985-12-03",
+      "@date_signature": "1985-11-29",
+      "@nature": "LOI",
+      "@num": "85-1268"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-12-03",
+          "@etat": "MODIFIE",
+          "@fin": "1994-01-04",
+          "@id": "LEGIARTI000006339390",
+          "@num": "38",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-01-04",
+          "@etat": "ABROGE",
+          "@fin": "1996-02-24",
+          "@id": "LEGIARTI000006339391",
+          "@num": "38",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour le calcul de la dotation globale de fonctionnement du département de Paris, le produit des impôts mentionnés à l'article 32 et levés par la ville de Paris, calculé dans les conditions définies par ce même article, est affecté forfaitairement à raison de 20 p. 100 de son montant au département.<br/>\n<br/>   Les sommes correspondantes sont déduites, pour le calcul de l'effort fiscal de la ville de Paris, du produit des impôts mentionnés à l'article L. 234-7 du code des communes.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°85-1268 du 29 novembre 1985 - art. 32 (M)",
+        "@cidtexte": "JORFTEXT000000320895",
+        "@datesignatexte": "1985-11-29",
+        "@id": "LEGIARTI000006339374",
+        "@naturetexte": "LOI",
+        "@num": "32",
+        "@numtexte": "85-1268",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE DES COMMUNES. - art. L234-7 (M)",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006346158",
+        "@naturetexte": "CODE",
+        "@num": "L234-7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

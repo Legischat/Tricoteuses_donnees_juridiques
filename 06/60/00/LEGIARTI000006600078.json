@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006600078",
+      "ANCIEN_ID": "RAEADXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/00/LEGIARTI000006600078.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1962-08-10",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°62-933 du 8 août 1962 AIRE A LA LOI D'ORIENTATION AGRICOLE",
+          "@c_titre_court": "Loi n°62-933 du 8 août 1962",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000313972"
+        },
+        {
+          "#text": "Loi n° 62-933 du 8 août 1962 complémentaire à la loi d'orientation agricole",
+          "@c_titre_court": "Loi n° 62-933 du 8 août 1962",
+          "@debut": "1962-08-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068226"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : De l'hydraulique.",
+            "@debut": "1962-08-10",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098353"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000313972",
+      "@date_publi": "1962-08-10",
+      "@date_signature": "1962-08-08",
+      "@nature": "LOI",
+      "@num": "62-933"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1962-08-10",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006600078",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le Gouvernement devra déposer, avant le 15 septembre 1962, le projet de loi relatif aux adductions d'eau rurales prévu par l'article 4 de la loi de programme n° 60-775 du 30 juillet 1960 ainsi qu'un projet de loi relatif à l'hydraulique.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 60-775 1960-07-30 art. 4",
+        "@cidtexte": "JORFTEXT000000874914",
+        "@datesignatexte": "1960-07-30",
+        "@id": "JORFTEXT000000874914",
+        "@naturetexte": "LOI",
+        "@numtexte": "60-775",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 62-933 1962-08-08 JORF 10 août 1962 rectificatif JORF 18 août 1962",
+        "@cidtexte": "JORFTEXT000000313972",
+        "@datesignatexte": "1962-08-08",
+        "@id": "JORFTEXT000000313972",
+        "@naturetexte": "LOI",
+        "@numtexte": "62-933",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

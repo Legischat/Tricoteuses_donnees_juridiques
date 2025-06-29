@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006274374",
+      "ANCIEN_ID": "FAECTXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/43/LEGIARTI000006274374.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1984-07-11",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-578 du 9 juillet 1984 SUR LE DEVELOPPEMENT DE L'INITIATIVE ECONOMIQUE",
+          "@c_titre_court": "Loi n°84-578 du 9 juillet 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000320661"
+        },
+        {
+          "#text": "Loi n° 84-578 du 9 juillet 1984 sur le développement de l'initiative économique",
+          "@c_titre_court": "Loi n° 84-578 du 9 juillet 1984",
+          "@debut": "1984-07-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068848"
+        }
+      ],
+      "@cid": "JORFTEXT000000320661",
+      "@date_publi": "1984-07-11",
+      "@date_signature": "1984-07-09",
+      "@nature": "LOI",
+      "@num": "84-578"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-07-11",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006274374",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001681626",
+          "@num": "5",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I - *Paragraphe modificateur*<br/>\n<br/>\n<br/>   II - Sans préjudice des dispositions de l'article 1756 ter du code général des impôts, le non-respect de la condition d'affectation ou des termes de la convention prévues au paragraphe I ci-dessus est sanctionné par une amende fiscale à la charge de la société financière d'innovation, égale à 12,5 p. 100 de la souscription ou de l'augmentation du capital qui n'a pas été employée conformément à la condition d'affectation ou à la convention visées ci-dessus. La constatation, le recouvrement et le contentieux de cette amende fiscale sont assurés et suivis comme en matière d'impôts directs.<br/>\n<br/>\n<br/>   III - Un décret fixe les modalités d'application du paragraphe I ci-dessus.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1756 ter",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-578 1984-07-09 JORF 11 juillet 1984, rectificatif JORF 14 juillet 1984",
+        "@cidtexte": "JORFTEXT000000320661",
+        "@datesignatexte": "1984-07-09",
+        "@id": "JORFTEXT000000320661",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-578",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1756 septies (Ab)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006313781",
+        "@naturetexte": "CODE",
+        "@num": "1756 septies",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 39 quinquies A (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006307612",
+        "@naturetexte": "CODE",
+        "@num": "39 quinquies A",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

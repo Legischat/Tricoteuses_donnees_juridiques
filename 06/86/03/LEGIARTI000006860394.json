@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860394",
+      "ANCIEN_ID": "UPIDEXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/03/LEGIARTI000006860394.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-12-31",
+        "DATE_FIN": "2019-10-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 novembre 1972 REGLES D'AMENAGEMENT ET D'EXPLOITATION DES DEPOTS D'HYDROCARBURES LIQUEFIES. L'ARRETE DU 16-06-66 ET CELUI DU 18-12-51 SONT ABROGES",
+          "@c_titre_court": "Arrêté du 9 novembre 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000856846"
+        },
+        {
+          "#text": "Arrêté du 9 novembre 1972 relatif aux règles d'aménagement et d'exploitation des dépôts d'hydrocarbures liquéfiés",
+          "@c_titre_court": "Arrêté du 9 novembre 1972",
+          "@debut": "1972-12-31",
+          "@fin": "2019-10-20",
+          "@id_txt": "LEGITEXT000006074408"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions générales",
+            "@debut": "1972-12-31",
+            "@fin": "2019-10-20",
+            "@id": "LEGISCTA000006109995"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000856846",
+      "@date_publi": "1972-12-31",
+      "@date_signature": "1972-11-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2019-10-20",
+          "@id": "LEGIARTI000006860394",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Sont considérés comme hydrocarbures au sens du présent arrêté, les produits repris aux tableaux B et C annexés à l'article 265 du code des douanes, à l'exception du gaz naturel liquéfié.</p>\n<br/>\n<p>Les hydrocarbures dont la pression (absolue) de vapeur à 15 degrés C dépasse 1 bar et qui sont maintenus liquéfiés à une température au moins égale à 0 degré C, sont dénommés Hydrocarbures liquéfiés dans le présent arrêté.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 1er août 2019 - art. 3",
+        "@cidtexte": "JORFTEXT000039241363",
+        "@datesignatexte": "2019-08-01",
+        "@id": "LEGIARTI000039243058",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TREP1912530A",
+        "@num": "3",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des douanes - art. 265",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615102",
+        "@naturetexte": "CODE",
+        "@num": "265",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

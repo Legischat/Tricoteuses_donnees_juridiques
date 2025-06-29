@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006537739",
+      "ANCIEN_ID": "PPINIXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/77/LEGIARTI000006537739.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-07-07",
+        "DATE_FIN": "1991-11-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 juillet 1989 PORTANT ORGANISATION DU SERVICE DES ESSENCES DES ARMEES",
+          "@c_titre_court": "Arrêté du 3 juillet 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000480224"
+        },
+        {
+          "#text": "Arrêté du 3 juillet 1989 portant organisation du service des essences des armées",
+          "@c_titre_court": "Arrêté du 3 juillet 1989",
+          "@debut": "1989-07-07",
+          "@fin": "1991-11-07",
+          "@id_txt": "LEGITEXT000006059040"
+        }
+      ],
+      "@cid": "JORFTEXT000000480224",
+      "@date_publi": "1989-07-07",
+      "@date_signature": "1989-07-03",
+      "@nature": "ARRETE",
+      "@nor": "DEFD8901375A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-07-07",
+          "@etat": "ABROGE",
+          "@fin": "1991-11-07",
+          "@id": "LEGIARTI000006537739",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sur le plan financier, le service des essences des armées fonctionne sous le régime d'un compte de commerce pour les produits et les emballages dans les conditions prévues par l'article 71 de la loi de finances n° 84-1208 du 29 décembre 1984 et sur chapitres du ministère de la défense.<br/>\n<br/>   Les recettes et les dépenses du service des essences effectuées sur le compte de commerce sont assignées sur la caisse d'un comptable unique qui est l'agent comptable du compte de commerce approvisionnement des armées en produits pétroliers.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-11-05 art. 7 JORF 7 novembre 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 79-53 1979-01-17",
+        "@cidtexte": "JORFTEXT000000516652",
+        "@datesignatexte": "1979-01-17",
+        "@id": "JORFTEXT000000516652",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-53",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi n°84-1208 du 29 décembre 1984 - art. 71, v. init.",
+        "@cidtexte": "JORFTEXT000000880778",
+        "@datesignatexte": "1984-12-29",
+        "@id": "JORFARTI000002471434",
+        "@naturetexte": "LOI",
+        "@num": "71",
+        "@numtexte": "84-1208",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

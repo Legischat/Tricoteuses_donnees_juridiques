@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006523982",
+      "ANCIEN_ID": "PNAXXXXXXXX5X00011AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/52/39/LEGIARTI000006523982.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1973-01-10",
+        "DATE_FIN": "1993-07-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la nationalité française",
+          "@c_titre_court": "Code de la nationalité française",
+          "@debut": "1945-10-20",
+          "@fin": "1994-01-01",
+          "@id_txt": "LEGITEXT000006071189"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Dispositions générales",
+            "@debut": "1973-01-10",
+            "@fin": "1993-07-23",
+            "@id": "LEGISCTA000006095780"
+          },
+          {
+            "#text": "Titre préliminaire : Dispositions générales.",
+            "@debut": "1945-10-20",
+            "@fin": "1973-01-10",
+            "@id": "LEGISCTA000049198019"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071189",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-10-20",
+          "@etat": "MODIFIE",
+          "@fin": "1973-01-10",
+          "@id": "LEGIARTI000049203664",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1973-01-10",
+          "@etat": "TRANSFERE",
+          "@fin": "1993-07-23",
+          "@id": "LEGIARTI000006523982",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les effets sur la nationalité française des annexions et cessions de territoires sont réglées par les dispositions qui suivent, à défaut de stipulations conventionnelles.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n° 73-42 du 9 janvier 1973 - art. 1",
+        "@cidtexte": "JORFTEXT000000684539",
+        "@datesignatexte": "1973-01-09",
+        "@id": "LEGIARTI000006283715",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "73-42",
+        "@sens": "cible",
+        "@typelien": "MODIFIE"
+      },
+      {
+        "#text": "Code civil - art. 17-7 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006419331",
+        "@naturetexte": "CODE",
+        "@num": "17-7",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

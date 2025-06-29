@@ -1,0 +1,140 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006434337",
+      "ANCIEN_ID": "PEAXXXXXXXX1X277L00AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/43/LEGIARTI000006434337.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "277",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1983-05-01",
+        "DATE_FIN": "1999-11-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de justice militaire",
+          "@c_titre_court": "Code de justice militaire",
+          "@debut": "1983-05-01",
+          "@fin": "2007-05-12",
+          "@id_txt": "LEGITEXT000006070884"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1983-05-01",
+            "@fin": "2007-05-12",
+            "@id": "LEGISCTA000006090526"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre II : Procédure pénale militaire",
+              "@debut": "1983-05-01",
+              "@fin": "2007-05-12",
+              "@id": "LEGISCTA000006117975"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IV : Des citations, assignations et notifications.",
+                "@debut": "1983-05-01",
+                "@fin": "1999-11-11",
+                "@id": "LEGISCTA000006136300"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070884",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-01",
+          "@etat": "MODIFIE",
+          "@fin": "1999-11-11",
+          "@id": "LEGIARTI000006434337",
+          "@num": "277",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1999-11-11",
+          "@etat": "ABROGE",
+          "@fin": "2007-05-12",
+          "@id": "LEGIARTI000006434338",
+          "@num": "277",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La citation à comparaître délivrée au prévenu est datée et signée :<br/>\n<br/>   1° Elle mentionne les nom et qualité de l'autorité requérante et les nom et prénom du prévenu ;<br/>\n<br/>   2° Elle se réfère à la décision de renvoi ou de traduction directe et à l'ordre de convocation du tribunal et précise les lieu, date et heure de l'audience ;<br/>\n<br/>   3° Elle énonce le fait poursuivi, vise le texte de la loi applicable, indique les noms des témoins et experts que le commissaire du Gouvernement se propose de faire entendre, mentionne éventuellement, si elle existe et s'est antérieurement constituée, le nom de la partie civile ;<br/>\n<br/>   4° Elle doit contenir le nom du défenseur commis d'office et fait connaître au prévenu qu'il peut le remplacer par un défenseur de son choix jusqu'à l'ouverture des débats ;<br/>\n<br/>   5° Elle avertit le prévenu qu'il doit notifier au commissaire du Gouvernement et, s'il y a lieu, à la partie civile avant l'audience, par déclaration au greffe, la liste des témoins qu'il se propose de faire entendre sauf à bénéficier, en temps de guerre, des dispositions de l'article 214.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 82-621 1982-07-21 JORF 22 juillet 1982 rectificatif JORF 3 août 1982 en vigueur le 1er mai 1983",
+        "@cidtexte": "JORFTEXT000000504202",
+        "@datesignatexte": "1982-07-21",
+        "@id": "JORFTEXT000000504202",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-621",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 82-984 1982-11-19",
+        "@cidtexte": "JORFTEXT000000331734",
+        "@datesignatexte": "1982-11-19",
+        "@id": "JORFTEXT000000331734",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-984",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code de justice militaire - art. 214 (Ab)",
+        "@cidtexte": "LEGITEXT000006070884",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006434250",
+        "@naturetexte": "CODE",
+        "@num": "214",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de justice militaire - art. 227 (Ab)",
+        "@cidtexte": "LEGITEXT000006070884",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006434267",
+        "@naturetexte": "CODE",
+        "@num": "227",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

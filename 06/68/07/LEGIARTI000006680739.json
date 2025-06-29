@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006680739",
+      "ANCIEN_ID": "SKAXXXXXXXX5X005000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/07/LEGIARTI000006680739.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "50",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1949-10-05",
+        "DATE_FIN": "1991-08-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de déontologie des sages-femmes",
+          "@c_titre_court": "Code de déontologie des sages-femmes",
+          "@debut": "1949-10-05",
+          "@fin": "2004-08-08",
+          "@id_txt": "LEGITEXT000006072635"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Devoirs de confraternité",
+            "@debut": "1949-10-05",
+            "@fin": "2004-08-08",
+            "@id": "LEGISCTA000006103069"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072635",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1949-10-05",
+          "@etat": "ABROGE",
+          "@fin": "1991-08-14",
+          "@id": "LEGIARTI000006680739",
+          "@num": "50",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-08-14",
+          "@etat": "ABROGE",
+          "@fin": "2004-08-08",
+          "@id": "LEGIARTI000006680740",
+          "@num": "50",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Lorsqu'une sage-femme est appelée auprès d'une patiente soignée par une autre sage-femme, elle doit respecter les règles suivantes :<br/>\n    1° Si la patiente renonce aux soins de la première sage-femme à laquelle elle s'était confiée, la deuxième sage-femme doit s'assurer de la volonté expresse de la patiente, prévenir la première sage-femme et lui demander si elle a été honorée ;<br/>\n    2° Si la patiente ne renonce pas aux soins de la première sage-femme mais, ignorant les règles et avantages de la consultation entre sages-femmes, demande un simple avis, la seconde sage-femme doit d'abord proposer la consultation, assurer les seuls soins d'urgence, puis se retirer ;<br/>\n    3° Si c'est pendant l'absence de la sage-femme habituelle que la deuxième sage-femme a été appelée, celle-ci doit assurer ses soins pendant l'absence de la sage-femme habituelle, les cesser dès le retour de celle-ci et l'informer de ce qu'elle a fait en ses lieu et place ;<br/>\n    4° Si la sage-femme a été envoyée auprès de la patiente par une autre sage-femme momentanément empêchée, elle ne peut en aucun cas considérer la patiente comme sa cliente.<br/>\n    En tout état de cause, les sages-femmes ainsi appelées doivent s'abstenir scrupuleusement de réflexions désobligeantes et de toute critique concernant les soins donnés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 49-1351 1949-09-30 JORF 5 octobre 1949",
+        "@cidtexte": "JORFTEXT000000873143",
+        "@datesignatexte": "1949-09-30",
+        "@id": "JORFTEXT000000873143",
+        "@naturetexte": "DECRET",
+        "@numtexte": "49-1351",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 91-779 1991-08-08 art. 68 JORF 14 août 1991",
+        "@cidtexte": "JORFTEXT000000571498",
+        "@datesignatexte": "1991-08-08",
+        "@id": "JORFTEXT000000571498",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP9101297D",
+        "@numtexte": "91-779",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

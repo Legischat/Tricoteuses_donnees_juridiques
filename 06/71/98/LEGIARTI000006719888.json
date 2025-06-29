@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006719888",
+      "ANCIEN_ID": "SPIMAXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/98/LEGIARTI000006719888.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-08-19",
+        "DATE_FIN": "1981-02-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 25 juillet 1975 fixant la liste des titres permettant l'accès aux concours visés à l'article 11 (1°) du décret n° 73-317 du 6 mars 1973 ouverts pour le recrutement d'adjoints techniques dans les établissements relevant du livre IX du code de la santé publique.",
+          "@c_titre_court": "Arrêté du 25 juillet 1975",
+          "@debut": "1975-08-19",
+          "@fin": "1981-02-19",
+          "@id_txt": "LEGITEXT000006072931"
+        }
+      ],
+      "@cid": "LEGITEXT000006072931",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1975-07-25",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-08-19",
+          "@etat": "ABROGE",
+          "@fin": "1981-02-19",
+          "@id": "LEGIARTI000006719888",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté susvisé du 4 mai 1973 est abrogé<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1973-05-04",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°73-317 du 6 mars 1973 - art. 11 (M)",
+        "@cidtexte": "JORFTEXT000000682185",
+        "@datesignatexte": "1973-03-06",
+        "@id": "LEGIARTI000006706875",
+        "@naturetexte": "DECRET",
+        "@num": "11",
+        "@numtexte": "73-317",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L893 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006695391",
+        "@naturetexte": "CODE",
+        "@num": "L893",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

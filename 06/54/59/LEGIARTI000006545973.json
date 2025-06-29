@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006545973",
+      "ANCIEN_ID": "PQIPKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/59/LEGIARTI000006545973.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-11-05",
+        "DATE_FIN": "2009-03-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 octobre 1993 PORTANT APPROBATION DU REGLEMENT INTERIEUR DU CONSEIL SUPERIEUR DES FRANCAIS DE L'ETRANGER",
+          "@c_titre_court": "Arrêté du 22 octobre 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000846885"
+        },
+        {
+          "#text": "Arrêté du 22 octobre 1993 portant approbation du règlement intérieur du Conseil supérieur des Français de l'étranger",
+          "@c_titre_court": "Arrêté du 22 octobre 1993",
+          "@debut": "1993-11-05",
+          "@fin": "2009-03-11",
+          "@id_txt": "LEGITEXT000006060215"
+        }
+      ],
+      "@cid": "JORFTEXT000000846885",
+      "@date_publi": "1993-11-05",
+      "@date_signature": "1993-10-22",
+      "@nature": "ARRETE",
+      "@nor": "MAEF9310026A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-11-05",
+          "@etat": "ABROGE",
+          "@fin": "2009-03-11",
+          "@id": "LEGIARTI000006545973",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>    L'arrêté du 29 décembre 1983 portant règlement intérieur du Conseil supérieur des Français de l'étranger est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1983-12-29",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 18 février 2009 - art. 2",
+        "@cidtexte": "JORFTEXT000020368912",
+        "@datesignatexte": "2009-02-18",
+        "@id": "LEGIARTI000020369403",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "MAEF0904172A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

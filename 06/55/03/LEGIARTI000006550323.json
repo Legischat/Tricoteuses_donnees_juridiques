@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006550323",
+      "ANCIEN_ID": "PRHKCXXXXXX023AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/03/LEGIARTI000006550323.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2003-02-01",
+        "DATE_FIN": "2011-02-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2002-628 du 25 avril 2002 pris pour l'application de la loi n° 2002-5 du 4 janvier 2002 relative aux musées de France",
+          "@c_titre_court": "Décret n°2002-628 du 25 avril 2002",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000589382"
+        },
+        {
+          "#text": "Décret n°2002-628 du 25 avril 2002 pris pour l'application de la loi n° 2002-5 du 4 janvier 2002 relative aux musées de France",
+          "@c_titre_court": "Décret n°2002-628 du 25 avril 2002",
+          "@debut": "2002-04-28",
+          "@fin": "2011-05-27",
+          "@id_txt": "LEGITEXT000005632779"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Instances scientifiques compétentes en matière d'acquisition et de restauration des biens destinés aux collections ainsi qu'en matière de déclassement",
+            "@debut": "2003-02-01",
+            "@fin": "2011-05-27",
+            "@id": "LEGISCTA000006096775"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre III : Dispositions applicables à la Commission scientifique nationale.",
+              "@debut": "2003-02-01",
+              "@fin": "2011-05-27",
+              "@id": "LEGISCTA000006120797"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000589382",
+      "@date_publi": "2002-04-28",
+      "@date_signature": "2002-04-25",
+      "@ministere": "MINISTERE DE LA CULTURE ET DE LA COMMUNICATION",
+      "@nature": "DECRET",
+      "@nor": "MCCX0200050D",
+      "@num": "2002-628"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2003-02-01",
+          "@etat": "MODIFIE",
+          "@fin": "2011-02-11",
+          "@id": "LEGIARTI000006550323",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2011-02-11",
+          "@etat": "ABROGE",
+          "@fin": "2011-05-27",
+          "@id": "LEGIARTI000023569704",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Chaque projet est présenté à la Commission scientifique nationale des collections des musées de France par un professionnel du musée intéressé, après avoir été adressé par celui-ci au grand département compétent.<br/>\n<br/>   L'avis de la commission est notifié à la personne morale propriétaire des collections en cause et au président de la commission régionale intéressée.<br/>\n<br/>   Dans les cas prévus au 3° de l'article 16, la commission se prononce à la majorité des trois quarts des membres qui la composent.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 2002-5 2002-01-04",
+        "@cidtexte": "JORFTEXT000000769536",
+        "@datesignatexte": "2002-01-04",
+        "@id": "JORFTEXT000000769536",
+        "@naturetexte": "LOI",
+        "@nortexte": "MCCX0000178L",
+        "@numtexte": "2002-5",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 2002-628 2002-04-25 art. 16",
+        "@cidtexte": "JORFTEXT000000589382",
+        "@datesignatexte": "2002-04-25",
+        "@id": "JORFTEXT000000589382",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCX0200050D",
+        "@numtexte": "2002-628",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

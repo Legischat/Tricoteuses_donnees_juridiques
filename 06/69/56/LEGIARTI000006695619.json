@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006695619",
+      "ANCIEN_ID": "AFEAGXXXXXX011AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/69/56/LEGIARTI000006695619.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2006-03-24",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 3 juillet 1913 RELATIVE AUX SOCIETES D'EPARGNE",
+          "@c_titre_court": "Loi du 3 juillet 1913",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000498200"
+        },
+        {
+          "#text": "Loi du 3 juillet 1913 relative aux sociétés d'épargne",
+          "@c_titre_court": "Loi du 3 juillet 1913",
+          "@debut": "1913-07-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072669"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Des sociétés d'épargne enregistrées.",
+            "@debut": "1913-07-04",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006103434"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000498200",
+      "@date_publi": "1913-07-04",
+      "@date_signature": "1913-07-03",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1913-07-04",
+          "@etat": "MODIFIE",
+          "@fin": "2006-03-24",
+          "@id": "LEGIARTI000006695618",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2006-03-24",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006695619",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sous déduction des frais de gestion statutaires, l'actif des entreprises françaises est affecté à la répartition aux adhérents, par un privilège qui prend rang après le paragraphe 6 de l'article 2331 du code Civil.<br/>\n<br/>   Pour les entreprises étrangères, les valeurs représentant la portion d'actif correspondante doivent, à l'exception des immeubles, faire l'objet du dépôt à la Caisse des dépôts et consignations. Le seul fait de ce dépôt confère privilège aux intéressés sur lesdites valeurs.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°2006-346 du 23 mars 2006 - art. 54 (V) JORF 24 mars 2006",
+        "@cidtexte": "JORFTEXT000000639090",
+        "@datesignatexte": "2006-03-23",
+        "@id": "LEGIARTI000006532965",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0600032R",
+        "@num": "54",
+        "@numtexte": "2006-346",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code civil - art. 2331 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006448624",
+        "@naturetexte": "CODE",
+        "@num": "2331",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

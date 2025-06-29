@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006560766",
+      "ANCIEN_ID": "PSIXYXXXXXX010AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/56/07/LEGIARTI000006560766.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-02-07",
+        "DATE_FIN": "2013-11-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 novembre 2001 portant organisation de la direction de la protection et de la sécurité de la défense",
+          "@c_titre_court": "Arrêté du 29 novembre 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000580736"
+        },
+        {
+          "#text": "Arrêté du 29 novembre 2001 portant organisation de la direction de la protection et de la sécurité de la défense.",
+          "@c_titre_court": "Arrêté du 29 novembre 2001",
+          "@debut": "2001-11-30",
+          "@fin": "2013-11-22",
+          "@id_txt": "LEGITEXT000005631744"
+        }
+      ],
+      "@cid": "JORFTEXT000000580736",
+      "@date_publi": "2001-11-30",
+      "@date_signature": "2001-11-29",
+      "@ministere": "MINISTERE DE LA DEFENSE",
+      "@nature": "ARRETE",
+      "@nor": "DEFD0102167A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-11-30",
+          "@etat": "MODIFIE",
+          "@fin": "2007-02-07",
+          "@id": "LEGIARTI000006560765",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-02-07",
+          "@etat": "ABROGE",
+          "@fin": "2013-11-22",
+          "@id": "LEGIARTI000006560766",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La sous-direction de l'administration et de la logistique est chargée :<br/>\n<br/>   - de conduire les travaux relatifs à la planification, à la programmation, à la préparation et à l'exécution du budget ;<br/>\n<br/>   - d'assumer les responsabilités administratives et financières de la direction dans le cadre des dispositions de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances ;<br/>\n<br/>   - d'organiser et de coordonner la politique d'achats de la direction et de conduire les actes réglementaires en matière d'achats publics ;<br/>\n<br/>   - d'exercer un contrôle administratif et financier des organismes extérieurs ;<br/>\n<br/>   - d'assurer le soutien logistique de l'organisme d'administration centrale et des organismes extérieurs ;<br/>\n<br/>   - de mettre en oeuvre les mesures d'hygiène et de sécurité du travail propres à l'organisme d'administration centrale et de s'assurer de leur exécution.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 2007-02-05 art. 7 JORF 7 février 2007",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI organique n° 2001-692 du 1er août 2001",
+        "@cidtexte": "JORFTEXT000000394028",
+        "@datesignatexte": "2001-08-01",
+        "@id": "JORFTEXT000000394028",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "ECOX0104681L",
+        "@numtexte": "2001-692",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 22 octobre 2013 - art. 11 (V)",
+        "@cidtexte": "JORFTEXT000028218505",
+        "@datesignatexte": "2013-10-22",
+        "@id": "LEGIARTI000033273458",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEFD1326530A",
+        "@num": "11",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

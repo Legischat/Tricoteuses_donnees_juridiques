@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006661911",
+      "ANCIEN_ID": "SEHAGXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/19/LEGIARTI000006661911.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-03-04",
+        "DATE_FIN": "1981-10-04",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°79-168 du 2 mars 1979 RELATIF A L'AIDE A LA CREATION D'EMPLOIS D'UTILITE COLLECTIVE",
+          "@c_titre_court": "Décret n°79-168 du 2 mars 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000336841"
+        },
+        {
+          "#text": "Décret n°79-168 du 2 mars 1979  RELATIF A L'AIDE A LA CREATION D'EMPLOIS D'UTILITE COLLECTIVE.",
+          "@c_titre_court": "Décret n°79-168 du 2 mars 1979",
+          "@debut": "1979-03-04",
+          "@fin": "1981-10-04",
+          "@id_txt": "LEGITEXT000006062991"
+        }
+      ],
+      "@cid": "JORFTEXT000000336841",
+      "@date_publi": "1979-03-04",
+      "@date_signature": "1979-03-02",
+      "@nature": "DECRET",
+      "@num": "79-168"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-03-04",
+          "@etat": "ABROGE",
+          "@fin": "1981-10-04",
+          "@id": "LEGIARTI000006661911",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le concours financier de l'Etat est accordé, dans la limite des crédits disponibles, pour des créations d'emplois subordonnés aux conditions suivantes :<br/>\n<br/>   Les emplois doivent être réservés, sauf exception, aux personnes sans emploi ;<br/>\n<br/>   Les emplois doivent présenter un caractère permanent ;<br/>\n<br/>   L'aide de l'Etat ne peut être accordée que s'il n'y a pas d'autre moyen pour créer l'emploi projeté ;<br/>\n<br/>   Le financement retenu à l'expiration de l'aide de l'Etat doit pouvoir être assuré en partie, et dans une proportion croissante, par des ressources propres ne provenant pas de subventions publiques.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°79-168 du 2 mars 1979 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000336841",
+        "@datesignatexte": "1979-03-02",
+        "@id": "LEGIARTI000006661912",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "79-168",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 81-898 1981-10-02 ART. 7 JORF 4 OCTOBRE",
+        "@cidtexte": "JORFTEXT000000701467",
+        "@datesignatexte": "1981-10-02",
+        "@id": "JORFTEXT000000701467",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-898",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

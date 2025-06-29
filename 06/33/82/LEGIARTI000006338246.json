@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006338246",
+      "ANCIEN_ID": "MCE07XXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/82/LEGIARTI000006338246.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-07-10",
+        "DATE_FIN": "1999-03-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°77-744 du 8 juillet 1977 MODIFIANT LE REGIME COMMUNAL DU TERRITOIRE DE LA NOUVELLE-CALEDONIE ET DEPENDANCES",
+          "@c_titre_court": "Loi n°77-744 du 8 juillet 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000704669"
+        },
+        {
+          "#text": "Loi n° 77-744 du 8 juillet 1977 modifiant le régime communal dans le territoire de la Nouvelle-Calédonie",
+          "@c_titre_court": "Loi n° 77-744 du 8 juillet 1977",
+          "@debut": "1977-07-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068603"
+        }
+      ],
+      "@cid": "JORFTEXT000000704669",
+      "@date_publi": "1977-07-10",
+      "@date_signature": "1977-07-08",
+      "@nature": "LOI",
+      "@num": "77-744"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-07-10",
+          "@etat": "ABROGE",
+          "@fin": "1999-03-21",
+          "@id": "LEGIARTI000006338246",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Au livre Ier [*du code des communes*], titre V \"Intérêts propres à certaines catégories d'habitants\", sont applicables :<br/>\n<br/>       I - Au chapitre Ier \"Section de commune\" :<br/>\n<br/>       Les articles L. 151-1 à L. 151-8 ;<br/>\n<br/>       L'article L. 151-9, sous réserve de la suppression de la référence à l'article 147 du code rural ;<br/>\n<br/>       Les articles L. 151-10 à L. 151-14.<br/>\n<br/>       II - Au chapitre III \"Communes associées\" :<br/>\n<br/>       L'article L. 153-1 à l'exception du 4° ;<br/>\n<br/>       Les articles L. 153-2 à L. 153-8.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code des communes L153-1 à L153-8",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070162",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural 147",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 99-210 1999-03-19 art. 4 II jorf 21 mars 1999",
+        "@cidtexte": "JORFTEXT000000576057",
+        "@datesignatexte": "1999-03-19",
+        "@id": "JORFTEXT000000576057",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9800175L",
+        "@numtexte": "99-210",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

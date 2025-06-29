@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006878834",
+      "ANCIEN_ID": "AIILAXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/88/LEGIARTI000006878834.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-10-10",
+        "DATE_FIN": "2002-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 octobre 1990 RELATIF AU TRAITEMENT PAR RAYONNEMENTS IONISANTS DE CREVETTES DECORTIQUEES OU ETETEES,CONGELEES OU SURGELEES",
+          "@c_titre_court": "Arrêté du 2 octobre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000686826"
+        },
+        {
+          "#text": "Arrêté du 2 octobre 1990 relatif au traitement par rayonnements ionisants des crevettes décortiquées ou étêtées, congelées ou surgelées",
+          "@c_titre_court": "Arrêté du 2 octobre 1990",
+          "@debut": "1990-10-10",
+          "@fin": "2002-09-06",
+          "@id_txt": "LEGITEXT000006059428"
+        }
+      ],
+      "@cid": "JORFTEXT000000686826",
+      "@date_publi": "1990-10-10",
+      "@date_signature": "1990-10-02",
+      "@nature": "ARRETE",
+      "@nor": "ECOC9000095A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-10-10",
+          "@etat": "ABROGE",
+          "@fin": "2002-09-06",
+          "@id": "LEGIARTI000006878834",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Afin qu'il puisse être procédé aux contrôles prévus à l'article 9 du décret n° 70-392 du 8 mai 1970, le directeur départemental de la concurrence, de la consommation et de la répression des fraudes et le directeur des services vétérinaires du département où est situé l'établissement procédant à l'irradiation des produits mentionnés à l'article 1er doivent être avertis, au moins un jour à l'avance par le responsable dudit établissement de la date du traitement et des quantités de marchandises traitées.<br/>\n<br/>   Lorsque l'établissement procède à l'ionisation d'une manière régulière, une déclaration annuelle précisant les jours et les heures pendant lesquels sera pratiqué le traitement pourra remplacer la déclaration prévue ci-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-10-02 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°70-392 du 8 mai 1970 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000000304045",
+        "@datesignatexte": "1970-05-08",
+        "@id": "LEGIARTI000006568997",
+        "@naturetexte": "DECRET",
+        "@num": "9",
+        "@numtexte": "70-392",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 20 août 2002 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000410150",
+        "@datesignatexte": "2002-08-20",
+        "@id": "LEGIARTI000021244775",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "ECOC0200067A",
+        "@num": "4",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006468511",
+      "ANCIEN_ID": "ACEBGXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/46/85/LEGIARTI000006468511.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-01-19",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°51-59 du 18 janvier 1951 NANTISSEMENT DE L'OUTILLAGE ET MATERIEL D'EQUIPEMENT PROFESSIONNEL",
+          "@c_titre_court": "Loi n°51-59 du 18 janvier 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886643"
+        },
+        {
+          "#text": "Loi n°51-59 du 18 janvier 1951 relative au nantissement de l'outillage et du matériel d'équipement",
+          "@c_titre_court": "Loi n°51-59 du 18 janvier 1951",
+          "@debut": "1951-01-19",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006068096"
+        }
+      ],
+      "@cid": "JORFTEXT000000886643",
+      "@date_publi": "1951-01-19",
+      "@date_signature": "1951-01-18",
+      "@nature": "LOI",
+      "@num": "51-59"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-01-19",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006468511",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le bénéfice du nantissement est transmis de plein droit conformément à l'article 1692 du code civil aux porteurs successifs des effets qu'il garantit, soit que ces effets aient été souscrits ou acceptés à l'ordre du vendeur ou du prêteur ayant fourni tout ou partie du prix, soit plus généralement qu'ils représentent la mobilisation d'une créance valablement gagée suivant les dispositions de la présente loi.<br/>\n<br/>   Si plusieurs effets sont créés pour représenter la créance, le privilège attaché à celle-ci est exercé par le premier poursuivant pour le compte commun et pour le tout.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 51-59 1951-01-18 art. 23 *champ d'application aux DOM -TOM*",
+        "@cidtexte": "JORFTEXT000000886643",
+        "@datesignatexte": "1951-01-18",
+        "@id": "JORFTEXT000000886643",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-59",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°51-59 du 18 janvier 1951 - art. 16 (Ab)",
+        "@cidtexte": "JORFTEXT000000886643",
+        "@datesignatexte": "1951-01-18",
+        "@id": "LEGIARTI000006468600",
+        "@naturetexte": "LOI",
+        "@num": "16",
+        "@numtexte": "51-59",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L525-6 (V)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006234792",
+        "@naturetexte": "CODE",
+        "@num": "L525-6",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code civil - art. 1692 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006442495",
+        "@naturetexte": "CODE",
+        "@num": "1692",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

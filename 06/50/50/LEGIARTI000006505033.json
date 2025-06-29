@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006505033",
+      "ANCIEN_ID": "PKH9JXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/50/LEGIARTI000006505033.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-01-01",
+        "DATE_FIN": "2008-09-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°72-798 du 25 août 1972 RELATIF A L'ALLOCATION SPECIALE ALLOUEE AUX OFFICIERS DE PORT ET OFFICIERS DE PORT ADJOINTS",
+          "@c_titre_court": "Décret n°72-798 du 25 août 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000307710"
+        },
+        {
+          "#text": "Décret n°72-798 du 25 août 1972 relatif à l'allocation spéciale allouée aux officiers de port et officiers de port adjoints.",
+          "@c_titre_court": "Décret n°72-798 du 25 août 1972",
+          "@debut": "1972-01-01",
+          "@fin": "2008-09-05",
+          "@id_txt": "LEGITEXT000006061982"
+        }
+      ],
+      "@cid": "JORFTEXT000000307710",
+      "@date_publi": "1972-08-31",
+      "@date_signature": "1972-08-25",
+      "@nature": "DECRET",
+      "@num": "72-798"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2008-09-05",
+          "@id": "LEGIARTI000006505033",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>\nLe décret n° 49-598 du 21 avril 1949 modifié est abrogé.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°49-598 du 21 avril 1949, v. init.",
+        "@cidtexte": "JORFTEXT000000300200",
+        "@datesignatexte": "1949-04-21",
+        "@id": "JORFTEXT000000300200",
+        "@naturetexte": "DECRET",
+        "@numtexte": "49-598",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2008-886\n du 2 septembre 2008 - art. 6",
+        "@cidtexte": "JORFTEXT000019420429",
+        "@datesignatexte": "2008-09-02",
+        "@id": "LEGIARTI000019422836",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVL0815655D",
+        "@num": "6",
+        "@numtexte": "2008-886",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

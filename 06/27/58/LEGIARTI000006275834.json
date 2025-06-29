@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275834",
+      "ANCIEN_ID": "ABFABXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/58/LEGIARTI000006275834.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1968-01-03",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°59-76 du 7 janvier 1959 RELATIVE AUX ACTIONS EN REPARATION CIVILE DE L'ETAT",
+          "@c_titre_court": "Ordonnance n°59-76 du 7 janvier 1959",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886943"
+        },
+        {
+          "#text": "Ordonnance n° 59-76 du 7 janvier 1959 relative aux actions en réparation civile de l'Etat et de certaines autres personnes publiques.",
+          "@c_titre_court": "Ordonnance n° 59-76 du 7 janvier 1959",
+          "@debut": "1968-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069274"
+        }
+      ],
+      "@cid": "JORFTEXT000000886943",
+      "@date_publi": "1959-01-08",
+      "@date_signature": "1959-01-07",
+      "@nature": "ORDONNANCE",
+      "@num": "59-76"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-03",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006275834",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001696957",
+          "@num": "8",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'article 44 du Code des pensions civiles et militaires de retraite et l'article 10, paragraphe 7, de la loi n° 49-1097 du 2 août 1949 sont abrogés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 49-1097 1949-08-02 art. 10",
+        "@cidtexte": "JORFTEXT000000309793",
+        "@datesignatexte": "1949-08-02",
+        "@id": "JORFTEXT000000309793",
+        "@naturetexte": "LOI",
+        "@numtexte": "49-1097",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 68-2 1968-01-02 art. 1 JORF 3 janvier 1968",
+        "@cidtexte": "JORFTEXT000000692956",
+        "@datesignatexte": "1968-01-02",
+        "@id": "JORFTEXT000000692956",
+        "@naturetexte": "LOI",
+        "@numtexte": "68-2",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code des pensions civiles et militaires de retraite 44",
+        "@cidtexte": "LEGITEXT000006070302",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070302",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

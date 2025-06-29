@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006605705",
+      "ANCIEN_ID": "RAHQWXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/57/LEGIARTI000006605705.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1948-04-02",
+        "DATE_FIN": "2003-09-06",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°48-599 du 27 mars 1948 RAP POUR L'APPLICATION DE LA LOI DU 15 MAI 1946",
+          "@c_titre_court": "Décret n°48-599 du 27 mars 1948",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000691268"
+        },
+        {
+          "#text": "Décret n°48-599 du 27 mars 1948 pris pour l'application de la loi n° 46-1055 du 15 mai 1946 relative à l'usage de l'insémination artificielle des animaux domestiques",
+          "@c_titre_court": "Décret n°48-599 du 27 mars 1948",
+          "@debut": "1948-04-02",
+          "@fin": "2003-09-06",
+          "@id_txt": "LEGITEXT000006060516"
+        }
+      ],
+      "@cid": "JORFTEXT000000691268",
+      "@date_publi": "1948-04-02",
+      "@date_signature": "1948-03-27",
+      "@nature": "DECRET",
+      "@num": "48-599"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1948-04-02",
+          "@etat": "ABROGE",
+          "@fin": "2003-09-06",
+          "@id": "LEGIARTI000006605705",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des arrêtés du ministre de l'agriculture fixeront, le cas échéant, les modalités de détail concernant l'application des dispositions qui précèdent.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 46-1055 1946-05-15",
+        "@cidtexte": "JORFTEXT000000877846",
+        "@datesignatexte": "1946-05-15",
+        "@id": "JORFTEXT000000877846",
+        "@naturetexte": "LOI",
+        "@numtexte": "46-1055",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 2003-851 2003-09-01 art. 4 JORF 6 septembre 2003",
+        "@cidtexte": "JORFTEXT000000607626",
+        "@datesignatexte": "2003-09-01",
+        "@id": "JORFTEXT000000607626",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRX0300025D",
+        "@numtexte": "2003-851",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006344307",
+      "ANCIEN_ID": "MCHMFXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/43/LEGIARTI000006344307.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2001-08-03",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 2001-707 du 31 juillet 2001 modifiant le plan fixant la délimitation d'une zone urbaine sensible annexé au décret no 2001-253 du 26 mars 2001",
+          "@c_titre_court": "Décret n°2001-707 du 31 juillet 2001",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000394539"
+        },
+        {
+          "#text": "Décret n°2001-707 du 31 juillet 2001 modifiant le plan fixant la délimitation d'une zone urbaine sensible annexé au décret n° 2001-253 du 26 mars 2001",
+          "@c_titre_court": "Décret n°2001-707 du 31 juillet 2001",
+          "@debut": "2001-08-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005631308"
+        }
+      ],
+      "@cid": "JORFTEXT000000394539",
+      "@date_publi": "2001-08-03",
+      "@date_signature": "2001-07-31",
+      "@nature": "DECRET",
+      "@nor": "VILX0105035D",
+      "@num": "2001-707"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2001-08-03",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006344307",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le plan annexé au présent décret remplace le plan annexé au décret n° 2001-253 du 26 mars 2001 susvisé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°96-1156 du 26 décembre 1996 - art. ANNEXE (V)",
+        "@cidtexte": "JORFTEXT000000747046",
+        "@datesignatexte": "1996-12-26",
+        "@id": "LEGIARTI000006343715",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AVIV9604443D",
+        "@num": "ANNEXE",
+        "@numtexte": "96-1156",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2001-253 2001-03-26 annexe",
+        "@cidtexte": "JORFTEXT000000222285",
+        "@datesignatexte": "2001-03-26",
+        "@id": "JORFTEXT000000222285",
+        "@naturetexte": "DECRET",
+        "@nortexte": "VILV0120288D",
+        "@numtexte": "2001-253",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2001-707 2001-07-31 annexe",
+        "@cidtexte": "JORFTEXT000000394539",
+        "@datesignatexte": "2001-07-31",
+        "@id": "JORFTEXT000000394539",
+        "@naturetexte": "DECRET",
+        "@nortexte": "VILX0105035D",
+        "@numtexte": "2001-707",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

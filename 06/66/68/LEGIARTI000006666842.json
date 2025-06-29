@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006666842",
+      "ANCIEN_ID": "SEHW2XXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/68/LEGIARTI000006666842.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1995-06-30",
+        "DATE_FIN": "1995-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 95-824 du 28 juin 1995 portant relèvement du salaire minimum de    croissance",
+          "@c_titre_court": "Décret n° 95-824 du 28 juin 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000735880"
+        },
+        {
+          "#text": "Décret n°95-824 du 28 juin 1995 portant relèvement du salaire minimum de croissance",
+          "@c_titre_court": "Décret n°95-824 du 28 juin 1995",
+          "@debut": "1995-06-30",
+          "@fin": "1995-07-01",
+          "@id_txt": "LEGITEXT000005619026"
+        }
+      ],
+      "@cid": "JORFTEXT000000735880",
+      "@date_publi": "1995-06-30",
+      "@date_signature": "1995-06-28",
+      "@nature": "DECRET",
+      "@nor": "TEFX9500106D",
+      "@num": "95-824"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-06-30",
+          "@etat": "PERIME",
+          "@fin": "1995-07-01",
+          "@id": "LEGIARTI000006666842",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er juillet 1995, pour les catégories de travailleurs intéressées par l'article L. 131-2 du code du travail, le salaire minimum de croissance sera relevé dans les conditions ci-après :<br/>\n<br/>   En métropole et dans la collectivité territoriale de Saint-Pierre-et-Miquelon, son montant est porté à 36,98 F l'heure ;<br/>\n<br/>   Dans les départements d'outre-mer, son montant est fixé à 34,64 F l'heure.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°95-824 du 28 juin 1995 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000735880",
+        "@datesignatexte": "1995-06-28",
+        "@id": "LEGIARTI000006666845",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFX9500106D",
+        "@num": "4",
+        "@numtexte": "95-824",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°96-571 du 26 juin 1996, v. init.",
+        "@cidtexte": "JORFTEXT000000171924",
+        "@datesignatexte": "1996-06-26",
+        "@id": "JORFTEXT000000171924",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TASX9600081D",
+        "@numtexte": "96-571",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "Code du travail - art. L131-2 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646983",
+        "@naturetexte": "CODE",
+        "@num": "L131-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

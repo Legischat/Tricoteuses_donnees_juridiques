@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006928737",
+      "ANCIEN_ID": "MFIBUXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/87/LEGIARTI000006928737.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1993-03-23",
+        "DATE_FIN": "1993-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 février 1993 pris pour l'application en 1993 de l'article 95 de la loi n° 83-8 du 7 janvier 1993 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat",
+          "@c_titre_court": "Arrêté du 19 février 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000529430"
+        },
+        {
+          "#text": "Arrêté du 19 février 1993 pris pour l'application en 1993 de l'article 95 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat",
+          "@c_titre_court": "Arrêté du 19 février 1993",
+          "@debut": "1993-03-23",
+          "@fin": "1993-12-31",
+          "@id_txt": "LEGITEXT000006081525"
+        }
+      ],
+      "@cid": "JORFTEXT000000529430",
+      "@date_publi": "1993-03-23",
+      "@date_signature": "1993-02-19",
+      "@nature": "ARRETE",
+      "@nor": "INTB9300166A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-23",
+          "@etat": "PERIME",
+          "@fin": "1993-12-31",
+          "@id": "LEGIARTI000006928737",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001160100",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Pour chaque département mentionné à l'article 1er ci-dessus, le calcul de l'ajustement à opérer en 1993 figure sur le tableau joint en annexe (non reproduite).</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-02-19 art. 1, annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 83-8 1983-01-07 art. 95",
+        "@cidtexte": "JORFTEXT000000320197",
+        "@datesignatexte": "1983-01-07",
+        "@id": "JORFTEXT000000320197",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-8",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

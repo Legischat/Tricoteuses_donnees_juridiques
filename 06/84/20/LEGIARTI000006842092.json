@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006842092",
+      "ANCIEN_ID": "AHEAOXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/20/LEGIARTI000006842092.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-07-09",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 18 janvier 1944 FIXATION DE LA REMUNERATION DUE AUX OFFICIERS PUBLICS POUR LA REDACTION DES CERTIFICATS DE PROPRIETE EN MATIERE D'ASSURANCE SOCIALE",
+          "@c_titre_court": "Loi du 18 janvier 1944",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000887256"
+        },
+        {
+          "#text": "Loi du 18 janvier 1944 fixant la rémunération due aux officiers publics pour la rédaction des certificats de propriété en matière d'assurances sociales.",
+          "@c_titre_court": "Loi du 18 janvier 1944",
+          "@debut": "1944-01-27",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006074229"
+        }
+      ],
+      "@cid": "JORFTEXT000000887256",
+      "@date_publi": "1944-01-27",
+      "@date_signature": "1944-01-18",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1944-01-27",
+          "@etat": "MODIFIE",
+          "@fin": "1980-07-09",
+          "@id": "LEGIARTI000006842091",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-09",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006842092",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de l'émolument institué par l'article 1er pourra être modifié par décret portant décret en Conseil d'Etat.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1944-01-18 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

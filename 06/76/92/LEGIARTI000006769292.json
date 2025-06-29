@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769292",
+      "ANCIEN_ID": "SSHAU1XXXXX011AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/92/LEGIARTI000006769292.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-01-27",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "9° Intoxication professionnelle par le tétrachlorure de carbone.",
+                "@debut": "1976-01-27",
+                "@fin": "2005-04-22",
+                "@id": "LEGISCTA000006142271"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-27",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769292",
+          "@num": "Tableau 9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "CARACTERISATION DE LA MALADIE<br/>\n    Néphrite aiguë ou subaiguë avec albumine, cylindrurie et azotémie progressive<br/>\n    DELAI de prise en charge : 30 jours<br/>\n<br/>\n    Hépathonéphrite initialement apyrétique, ictérigène ou non<br/>\n    DELAI de prise en charge : 30 jours<br/>\n<br/>\n    Ictère par hépatite, initialement apyrétique<br/>\n    DELAI de prise en charge : 30 jours<br/>\n<br/>\n    Affections cutanéo-muqueuses chronique ou récidivantes<br/>\n    DELAI de prise en charge : 7 jours<br/>\n<br/>\n    Accidents nerveux aigus en dehors des cas considérés comme accidents du travail <br/>\n    DELAI de prise en charge : 3 jours<br/>\n   LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer la maladie<br/>\n    Manipulation et emploi de tétrachlorure de carbone ou des produits en contenant, notamment désinsectisation des graines de céréales et de légumineuses.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 76-74 1976-01-15 art. 6 JORF 27 janvier 1976",
+        "@cidtexte": "JORFTEXT000000503183",
+        "@datesignatexte": "1976-01-15",
+        "@id": "JORFTEXT000000503183",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-74",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

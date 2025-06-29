@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006708953",
+      "ANCIEN_ID": "SPHP8XXXXXX024CAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/89/LEGIARTI000006708953.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24-2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-05-20",
+        "DATE_FIN": "1977-03-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°41-5050 du 31 décembre 1941 codifiant les textes relatifs aux opérations d'inhumation, d'exhumation, d'incinération et de transport des corps.",
+          "@c_titre_court": "Décret n°41-5050 du 31 décembre 1941",
+          "@debut": "1942-01-27",
+          "@fin": "1977-03-18",
+          "@id_txt": "LEGITEXT000006072702"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Exhumations",
+            "@debut": "1976-05-20",
+            "@fin": "1977-03-18",
+            "@id": "LEGISCTA000006104319"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072702",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1941-12-31",
+      "@nature": "DECRET",
+      "@num": "41-5050"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-05-20",
+          "@etat": "ABROGE",
+          "@fin": "1977-03-18",
+          "@id": "LEGIARTI000006708953",
+          "@num": "24-2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les personnes chargées de procéder aux exhumations doivent revêtir un costume spécial qui est ensuite désinfecté ainsi que leurs chaussures. Elles sont tenues à un nettoyage antiseptique de la face et des mains.<br/>\n    Tous les cercueils, avant d'être manipulés et extraits de la fosse, sont arrosés avec un liquide désinfectant tel que solution d'hypochlorite de chaux ou d'eau de javel à raison de cinq grammes de chlore libre par litre.<br/>\n    Si, au moment de l'exhumation, le cercueil est trouvé en bon état de conservation, il ne peut être ouvert que s'il est écoulé cinq ans depuis le décès.<br/>\n    Si le cercueil est trouvé détérioré, le corps est placé dans un autre cercueil ou dans une boîte à ossements.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 77-241 1977-03-07 art. 8 JORF 18 mars 1977",
+        "@cidtexte": "JORFTEXT000000883225",
+        "@datesignatexte": "1977-03-07",
+        "@id": "JORFTEXT000000883225",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-241",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°41-5050 du 31 décembre 1941 - art. 33 (Ab)",
+        "@cidtexte": "LEGITEXT000006072702",
+        "@datesignatexte": "1941-12-31",
+        "@id": "LEGIARTI000006708963",
+        "@naturetexte": "DECRET",
+        "@num": "33",
+        "@numtexte": "41-5050",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

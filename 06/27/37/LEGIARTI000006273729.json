@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273729",
+      "ANCIEN_ID": "FAECCXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/37/LEGIARTI000006273729.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1983-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-1126 du 29 décembre 1982 DE FINANCES POUR 1983",
+          "@c_titre_court": "Loi n°82-1126 du 29 décembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000503959"
+        },
+        {
+          "#text": "Loi n° 82-1126 du 29 décembre 1982 de finances pour 1983",
+          "@c_titre_court": "Loi n° 82-1126 du 29 décembre 1982",
+          "@debut": "1983-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068728"
+        }
+      ],
+      "@cid": "JORFTEXT000000503959",
+      "@date_publi": "1982-12-30",
+      "@date_signature": "1982-12-29",
+      "@nature": "LOI",
+      "@num": "82-1126"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006273729",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001867334",
+          "@num": "17",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I - Le tarif de la taxe différentielle sur les véhicules à moteur est fixé commes suit :<br/>\n<br/>   (Tableau non reproduit, voir JO du 30/12/1982 page 3928).<br/>\n<br/>   II - Le tarif de la taxe spéciale sur les véhicules d'une puissance supérieure à 16 CV immatriculés dans la catégorie des voitures particulières est fixé comme suit :<br/>\n<br/>   (Tableau non reproduit, voir JO du 30/12/1982 page 3928).<br/>\n<br/>   III - Les dispositions des paragraphes I et II ci-dessus s'appliqueront à compter de la période d'imposition débutant en 1983.<br/>\n<br/>\n<br/>   IV - La taxe sur les véhicules des sociétés prévue à l'article 1010 du code général des impôts est portée de 3.800 F à 4.200 F pour les véhicules dont la puissance fiscale n'excède pas 7 CV et de 7.000 F à 8.100 F pour les autres véhicules, à compter de la période d'imposition s'ouvrant le 1er octobre 1982.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 1010",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 82-1126 1982-12-29 Finances pour 1983 JORF 30 DECEMBRE 1982 en vigueur le 1er JANVIER 1983",
+        "@cidtexte": "JORFTEXT000000503959",
+        "@datesignatexte": "1982-12-29",
+        "@id": "JORFTEXT000000503959",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1126",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1007 bis (P)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006311352",
+        "@naturetexte": "CODE",
+        "@num": "1007 bis",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1010 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006311360",
+        "@naturetexte": "CODE",
+        "@num": "1010",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

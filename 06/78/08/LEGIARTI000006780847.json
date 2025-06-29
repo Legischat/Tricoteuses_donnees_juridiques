@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006780847",
+      "ANCIEN_ID": "SSHCMTXXXXX007AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/08/LEGIARTI000006780847.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-04-02",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°61-295 du 31 mars 1961 ASSURANCES MALADIE, MATERNITE ET INVALIDITE DES EXPLOITANTS AGRICOLES ET DES MEMBRES DE LEUR FAMILLE NON SALARIES",
+          "@c_titre_court": "Décret n°61-295 du 31 mars 1961",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000849662"
+        },
+        {
+          "#text": "Décret n°61-295 du 31 mars 1961 portant règlement d'administration publique pour l'application des articles 1106-9 et 1106-10 du code rural (assurances maladie, invalidité et maternité des exploitants agricoles et des membres non-salariés de leur famille).",
+          "@c_titre_court": "Décret n°61-295 du 31 mars 1961",
+          "@debut": "1961-04-02",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006061019"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre 2 : Dispositions spéciales aux autres assureurs.",
+            "@debut": "1961-04-02",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107553"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000849662",
+      "@date_publi": "1961-04-02",
+      "@date_signature": "1961-03-31",
+      "@nature": "DECRET",
+      "@num": "61-295"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-04-02",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006780847",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les organismes assureurs doivent, par l'intermédiaire des groupements visés au 3° de l'article 5 ci-dessus, notifier à chaque caisse de mutualité sociale agricole, pour chaque mois civil et dans les vingt jours au plus suivant l'expiration de celui-ci :<br/>\n<br/>   Le montant des cotisations exigibles, des cotisations encaissées, des prestations des assurances maladie et maternité payées ou rejetées au nom de chacun des assurés relevant d'une exploitation ou entreprise dont le siège est situé dans la circonscription de ladite caisse ;<br/>\n<br/>   Le montant des arrérages de pension d'invalidité payés à chaque titulaire de pension résidant dans la même circonscription ;<br/>\n<br/>   Le montant global des prélèvements de gestion correspondants.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural R731-107",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret n°61-295 du 31 mars 1961 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000849662",
+        "@datesignatexte": "1961-03-31",
+        "@id": "LEGIARTI000006780845",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "61-295",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. R731-107 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006597308",
+        "@naturetexte": "CODE",
+        "@num": "R731-107",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273020",
+      "ANCIEN_ID": "FAEAIXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/30/LEGIARTI000006273020.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1975-09-14",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°75-853 du 13 septembre 1975 DE FINANCES RECTIFICATIVE POUR 1975",
+          "@c_titre_court": "Loi n°75-853 du 13 septembre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000331462"
+        },
+        {
+          "#text": "Loi n° 75-853 du 13 septembre 1975 de Finances rectificative pour 1975 (1).",
+          "@c_titre_court": "Loi n° 75-853 du 13 septembre 1975",
+          "@debut": "1975-09-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068531"
+        }
+      ],
+      "@cid": "JORFTEXT000000331462",
+      "@date_publi": "1975-09-14",
+      "@date_signature": "1975-09-13",
+      "@nature": "LOI",
+      "@num": "75-853"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-09-14",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006273020",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002081489",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I - Les achats ainsi que les livraisons à soi-même de biens d'équipement pouvant être amortis selon le mode dégressif ouvrent droit à l'aide fiscale à l'investissement prévue par la loi n° 75-408 du 29 mai 1975, quelle que soit la durée de l'amortissement.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°75-408 du 29 mai 1975 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000521939",
+        "@datesignatexte": "1975-05-29",
+        "@id": "LEGIARTI000006316863",
+        "@naturetexte": "LOI",
+        "@num": "1",
+        "@numtexte": "75-408",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI 75-408 1975-05-29",
+        "@cidtexte": "JORFTEXT000000521939",
+        "@datesignatexte": "1975-05-29",
+        "@id": "JORFTEXT000000521939",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-408",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 75-853 1975-09-13 Finances rectificative pour 1975 JORF 14 septembre 1975",
+        "@cidtexte": "JORFTEXT000000331462",
+        "@datesignatexte": "1975-09-13",
+        "@id": "JORFTEXT000000331462",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-853",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

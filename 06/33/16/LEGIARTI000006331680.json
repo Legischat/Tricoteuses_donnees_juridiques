@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006331680",
+      "ANCIEN_ID": "FBIARXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/16/LEGIARTI000006331680.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-02-23",
+        "DATE_FIN": "1992-12-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 février 1990    relatif à la taxe parafiscale sur les spectacles",
+          "@c_titre_court": "Arrêté du 21 février 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000531358"
+        },
+        {
+          "#text": "Arrêté du 21 février 1990 relatif à la taxe parafiscale sur les spectacles",
+          "@c_titre_court": "Arrêté du 21 février 1990",
+          "@debut": "1990-02-23",
+          "@fin": "1992-12-18",
+          "@id_txt": "LEGITEXT000006075460"
+        }
+      ],
+      "@cid": "JORFTEXT000000531358",
+      "@date_publi": "1990-02-23",
+      "@date_signature": "1990-02-21",
+      "@ministere": "MINISTERE DE LA CULTURE ET DE LA COMMUNICATION",
+      "@nature": "ARRETE",
+      "@nor": "MCCB9000081A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-02-23",
+          "@etat": "ABROGE",
+          "@fin": "1992-12-18",
+          "@id": "LEGIARTI000006331680",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 4 mars 1986 relatif à la taxe parafiscale sur les spectacles est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-03-04",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1992-12-10 art. 6 JORF 18 décembre 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 90-171 1990-02-21",
+        "@cidtexte": "JORFTEXT000000348759",
+        "@datesignatexte": "1990-02-21",
+        "@id": "JORFTEXT000000348759",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MCCB9000006D",
+        "@numtexte": "90-171",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006709223",
+      "ANCIEN_ID": "SPHPSXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/92/LEGIARTI000006709223.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-08-08",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°75-354 du 13 mai 1975 PORTANT APPLICATION DE L'ART. L162-11 DU CODE DE LA SANTE PUBLIQUE ET DETERMINANT LES CONDITIONS D'APPLICATION AUX FEMMES ETRANGERES DE LA LOI 75-17 DU 17-01-1975 RELATIVE A L'INTERRUPTION VOLONTAIRE DE GROSSESSE",
+          "@c_titre_court": "Décret n°75-354 du 13 mai 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000884104"
+        },
+        {
+          "#text": "Décret n°75-354 du 13 mai 1975 portant application de l'article L. 162-11 du code de la santé publique et déterminant les conditions d'application aux femmes étrangères de la loi n° 75-17 du 17 janvier 1975 relative à l'interruption volontaire de la grossesse.",
+          "@c_titre_court": "Décret n°75-354 du 13 mai 1975",
+          "@debut": "1975-05-15",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006062317"
+        }
+      ],
+      "@cid": "JORFTEXT000000884104",
+      "@date_publi": "1975-05-15",
+      "@date_signature": "1975-05-13",
+      "@nature": "DECRET",
+      "@num": "75-354"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-05-15",
+          "@etat": "MODIFIE",
+          "@fin": "1980-08-08",
+          "@id": "LEGIARTI000006709222",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1980-08-08",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006709223",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Pour satisfaire aux dispositions du premier alinéa de l'article 162-11 du code de la santé publique, une femme étrangère doit justifier qu'elle réside en France dans des conditions régulières depuis plus de trois mois au jour de l'interruption volontaire de sa grossesse. Ce délai n'est pas exigé de la femme étrangère qui a demandé le bénéfice de la convention de Genève du 28 juillet 1951 sur le statut des réfugiés.<br/>\n    Est réputée résider régulièrement en France au sens de l'alinéa précédent toute personne qui est en possession d'un titre de séjour ou d'un document en tenant lieu délivré en vertu, soit de dispositions législatives ou réglementaires, soit de traités internationaux et dont la liste est établie et tenue à jour par arrêté conjoint du ministre de l'intérieur et du ministre de la santé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Convention de Genève 1951-07-28",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 75-17 1975-01-17",
+        "@cidtexte": "JORFTEXT000000700230",
+        "@datesignatexte": "1975-01-17",
+        "@id": "JORFTEXT000000700230",
+        "@naturetexte": "LOI",
+        "@numtexte": "75-17",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 6 JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique 162-11",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique 162-11",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006072665",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

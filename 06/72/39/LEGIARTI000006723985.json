@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006723985",
+      "ANCIEN_ID": "SQHGRXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/39/LEGIARTI000006723985.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-03-14",
+        "DATE_FIN": "2005-08-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 2000-231 du 13 mars 2000 relatif aux conditions de nomination et d'avancement dans certains emplois fonctionnels de la fonction publique hospitalière",
+          "@c_titre_court": "Décret n°2000-231 du 13 mars 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000399096"
+        },
+        {
+          "#text": "Décret n°2000-231 du 13 mars 2000 relatif aux conditions de nomination et d'avancement dans certains emplois fonctionnels de la fonction publique hospitalière",
+          "@c_titre_court": "Décret n°2000-231 du 13 mars 2000",
+          "@debut": "2000-03-14",
+          "@fin": "2005-08-05",
+          "@id_txt": "LEGITEXT000005629201"
+        }
+      ],
+      "@cid": "JORFTEXT000000399096",
+      "@date_publi": "2000-03-14",
+      "@date_signature": "2000-03-13",
+      "@ministere": "MINISTERE DE L'EMPLOI ET DE LA SOLIDARITE",
+      "@nature": "DECRET",
+      "@nor": "MESH0020616D",
+      "@num": "2000-231"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-03-14",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-05",
+          "@id": "LEGIARTI000006723985",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Peuvent être nommés dans ces emplois fonctionnels par arrêté du ministre chargé de la santé :<br/>\n<br/>   1° Les personnels du corps de directeurs appartenant à la 1re classe de ce corps et ayant atteint le 3e échelon.<br/>\n<br/>   2° Les fonctionnaires de l'Etat appartenant à un corps recruté par la voie de l'Ecole nationale d'administration ainsi que les administrateurs territoriaux, ayant au moins atteint dans leur corps d'origine l'indice brut 901.<br/>\n<br/>   Les personnels nommés au titre du présent article doivent justifier de huit ans de services effectifs dans l'un ou plusieurs des corps mentionnés aux 1° et 2°.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2000-231 du 13 mars 2000 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000399096",
+        "@datesignatexte": "2000-03-13",
+        "@id": "LEGIARTI000006723988",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MESH0020616D",
+        "@num": "5",
+        "@numtexte": "2000-231",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2005-922 2005-08-02*art. 19 JORF 5 août 2005",
+        "@cidtexte": "JORFTEXT000000261230",
+        "@datesignatexte": "2005-08-02",
+        "@id": "JORFTEXT000000261230",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANH0522480D",
+        "@numtexte": "2005-922",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

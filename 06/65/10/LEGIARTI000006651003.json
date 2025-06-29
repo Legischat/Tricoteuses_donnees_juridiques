@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006651003",
+      "ANCIEN_ID": "SAAXXXXXXXX1X831L04AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/10/LEGIARTI000006651003.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L831-4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-23",
+        "DATE_FIN": "1975-07-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre VIII : Dispositions spéciales aux départements d'outre-mer",
+              "@debut": "1973-11-21",
+              "@fin": "2005-01-28",
+              "@id": "LEGISCTA000006123895"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre III : Placement et emploi",
+                "@debut": "1973-11-23",
+                "@fin": "2005-01-28",
+                "@id": "LEGISCTA000006139889"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre Ier : Dispositions spéciales à la main-d'oeuvre étrangère.",
+                  "@debut": "1973-11-23",
+                  "@fin": "2005-01-28",
+                  "@id": "LEGISCTA000006154285"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-23",
+          "@etat": "ABROGE",
+          "@fin": "1975-07-13",
+          "@id": "LEGIARTI000006651003",
+          "@num": "L831-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est interdit à tout employeur d'embaucher directement ou par intermédiaire un travailleur étranger introduit dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, avant l'expiration du contrat de travail en vertu duquel il a été introduit.<br/>\n<br/>   Cette interdiction n'est pas applicable :<br/>\n<br/>   1. Si le contrat de travail liant le travailleur étranger à son premier employeur a été résilié par décision de justice ;<br/>\n<br/>   2. Si une année est écoulée depuis l'introduction du travailleur intéressé ;<br/>\n<br/>   3. Si le travailleur est porteur d'une carte de présentation délivrée par un service public de main-d'oeuvre, après enquête auprès du précédent employeur dont les droits vis-à-vis du travailleur et du nouvel employeur sont réservés.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1047 1973-11-15",
+        "@cidtexte": "JORFTEXT000000514726",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000514726",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1047",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Code du travail - art. R883-1 (V)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018509083",
+        "@naturetexte": "CODE",
+        "@num": "R883-1",
+        "@sens": "cible",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code du travail - art. R883-1 (VT)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000018509083",
+        "@naturetexte": "CODE",
+        "@num": "R883-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

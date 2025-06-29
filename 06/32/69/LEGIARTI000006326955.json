@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006326955",
+      "ANCIEN_ID": "FAIFDXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/69/LEGIARTI000006326955.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-04-25",
+        "DATE_FIN": "1985-03-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 mars 1982 LIMITE DE COMPETENCE DES DIRECTEURS DES SERVICES FISCAUX POUR STATUER SUR LES DEMANDES D'ADMISSION EN NON-VALEUR PAR LES COMPTABLES RELEVANT DE LEUR AUTORITE",
+          "@c_titre_court": "Arrêté du 22 mars 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000313646"
+        },
+        {
+          "#text": "Arrêté du 22 mars 1982 FIXANT LA LIMITE DE COMPETENCE DES DIRECTEURS DES SERVICES FISCAUX POUR STATUER SUR LES DEMANDES D'ADMISSION EN NON-VALEUR PRESENTEES PAR LES COMPTABLES RELEVANT DE LEUR AUTORITE.",
+          "@c_titre_court": "Arrêté du 22 mars 1982",
+          "@debut": "1982-04-25",
+          "@fin": "1985-03-08",
+          "@id_txt": "LEGITEXT000006069728"
+        }
+      ],
+      "@cid": "JORFTEXT000000313646",
+      "@date_publi": "1982-04-25",
+      "@date_signature": "1982-03-22",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-04-25",
+          "@etat": "ABROGE",
+          "@fin": "1985-03-08",
+          "@id": "LEGIARTI000006326955",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 8 février 1978 relatif à la limite de compétence des directeurs des services fiscaux pour statuer sur les demandes d'admission en non-valeur présentées par les comptables relevant de leur autorité est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1978-02-08",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 77-1017 1977-09-01",
+        "@cidtexte": "JORFTEXT000000700269",
+        "@datesignatexte": "1977-09-01",
+        "@id": "JORFTEXT000000700269",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-1017",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 20 février 1985, v. init.",
+        "@cidtexte": "JORFTEXT000000836285",
+        "@datesignatexte": "1985-02-20",
+        "@id": "JORFTEXT000000836285",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

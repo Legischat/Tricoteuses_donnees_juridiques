@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006321676",
+      "ANCIEN_ID": "FAEJVXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/16/LEGIARTI000006321676.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1807-09-05",
+        "DATE_FIN": "2023-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 5 septembre 1807 RELATIVE AUX DROITS DU TRESOR PUBLIC SUR LES BIENS DES COMPTABLES",
+          "@c_titre_court": "Loi du 5 septembre 1807",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000333729"
+        },
+        {
+          "#text": "Loi du 5 septembre 1807 relative aux droits du Trésor public sur les biens des comptables.",
+          "@c_titre_court": "Loi du 5 septembre 1807",
+          "@debut": "1807-09-05",
+          "@fin": "2023-01-01",
+          "@id_txt": "LEGITEXT000006069607"
+        }
+      ],
+      "@cid": "JORFTEXT000000333729",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1807-09-05",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1807-09-05",
+          "@etat": "ABROGE",
+          "@fin": "2023-01-01",
+          "@id": "LEGIARTI000006321676",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La prescription des droits du Trésor public, établie par l'article 2227 du Code civil, court, au profit des comptables, du jour où la gestion a cessé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code civil art. 2227",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1807-09-05 Bulletin des lois 4e S., B. 159, n° 2775",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°2022-408 du 23 mars 2022 - art. 26 (V)",
+        "@cidtexte": "JORFTEXT000045398055",
+        "@datesignatexte": "2022-03-23",
+        "@id": "LEGIARTI000045398847",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "PRMX2201889R",
+        "@num": "26",
+        "@numtexte": "2022-408",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

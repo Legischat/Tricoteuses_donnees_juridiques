@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006494050",
+      "ANCIEN_ID": "PJEEQXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/40/LEGIARTI000006494050.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1934-03-22",
+        "DATE_FIN": "2006-06-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 19 mars 1934 relative à l'application de la convention internationale de Mannheim du 17 octobre 1868 et ayant pour objet de réduire le nombre des tribunaux français pour la navigation du Rhin.",
+          "@c_titre_court": "Loi du 19 mars 1934",
+          "@debut": "1934-03-22",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071049"
+        }
+      ],
+      "@cid": "LEGITEXT000006071049",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1934-03-19",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1934-03-22",
+          "@etat": "ABROGE",
+          "@fin": "2006-06-09",
+          "@id": "LEGIARTI000006494050",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont abrogées toutes dispositions contraires aux dispositions ci-dessus, notamment l'article 2 de la loi du 21 avril 1832 et l'article 8 de la loi du 25 juillet 1923.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Convention internationale 1868-10-17 Mannheim",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1832-04-21 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1923-07-25 art. 8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2006-673 du 8 juin 2006 - art. 10 (V) JORF 9 juin 2006",
+        "@cidtexte": "JORFTEXT000000460012",
+        "@datesignatexte": "2006-06-08",
+        "@id": "LEGIARTI000006252036",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0600063R",
+        "@num": "10",
+        "@numtexte": "2006-673",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

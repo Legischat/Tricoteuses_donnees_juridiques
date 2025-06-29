@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006502925",
+      "ANCIEN_ID": "ADEAFXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/29/LEGIARTI000006502925.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1824-07-28",
+        "DATE_FIN": "1994-03-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 28 juillet 1824 RELATIVE AUX ALTERATIONS OU SUPPOSITIONS DE NOMS SUR LES PRODUITS FABRIQUES",
+          "@c_titre_court": "Loi du 28 juillet 1824",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000704906"
+        },
+        {
+          "#text": "Loi du 28 juillet 1824 relative aux altérations ou suppositions de noms sur les produits fabriqués",
+          "@c_titre_court": "Loi du 28 juillet 1824",
+          "@debut": "1824-07-28",
+          "@fin": "2007-12-22",
+          "@id_txt": "LEGITEXT000006071109"
+        }
+      ],
+      "@cid": "JORFTEXT000000704906",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1824-07-28",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1824-07-28",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006502925",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "ABROGE",
+          "@fin": "2007-12-22",
+          "@id": "LEGIARTI000006502926",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'infraction ci-dessus mentionnée cessera, en conséquence, et nonobstant l'article 17 de la loi du 12 avril 1803 (22 germinal an II), d'être assimilée à la contrefaçon des marques particulières prévues par les articles 142 et 143 du code pénal.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code pénal 142, 143",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1803-04-12 art. 17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1824-07-28 Bulletin Lois, 7e S., B. 685, n° 17433",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006419666",
+      "ANCIEN_ID": "PCEAAXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/41/96/LEGIARTI000006419666.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1944-08-27",
+        "DATE_FIN": "2012-03-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 29 juillet 1881 sur la liberté de la presse",
+          "@c_titre_court": "Loi du 29 juillet 1881",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000877119"
+        },
+        {
+          "#text": "Loi du 29 juillet 1881 sur la liberté de la presse",
+          "@c_titre_court": "Loi du 29 juillet 1881",
+          "@debut": "1881-07-29",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070722"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE II : DE LA PRESSE PERIODIQUE",
+            "@debut": "1881-07-29",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089701"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Paragraphe 1er : Du droit de publication, de la gérance, de la déclaration et du dépôt au parquet.",
+              "@debut": "1881-07-29",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117622"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000877119",
+      "@date_publi": "1881-07-30",
+      "@date_signature": "1881-07-29",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1881-07-29",
+          "@etat": "MODIFIE",
+          "@fin": "1944-08-27",
+          "@id": "LEGIARTI000029785491",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1944-08-27",
+          "@etat": "ABROGE",
+          "@fin": "2012-03-24",
+          "@id": "LEGIARTI000006419666",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les déclarations seront faites par écrit, sur papier timbré, et signées du directeur de la publication. Il en sera donné récépissé.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance du 26 août 1944, art 15 v. init.",
+        "@cidtexte": "JORFTEXT000000692507",
+        "@datesignatexte": "1944-08-26",
+        "@id": "JORFTEXT000000692507",
+        "@naturetexte": "ORDONNANCE",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2012-387\n du 22 mars 2012 - art. 99 (V)",
+        "@cidtexte": "JORFTEXT000025553296",
+        "@datesignatexte": "2012-03-22",
+        "@id": "LEGIARTI000025555208",
+        "@naturetexte": "LOI",
+        "@nortexte": "EFIX1127393L",
+        "@num": "99",
+        "@numtexte": "2012-387",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

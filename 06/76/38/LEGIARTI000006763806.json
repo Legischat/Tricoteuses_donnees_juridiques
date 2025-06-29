@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006763806",
+      "ANCIEN_ID": "SSHAHHXXXXX006AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/38/LEGIARTI000006763806.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-07-31",
+        "DATE_FIN": "1982-05-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°77-663 du 27 juin 1977 RELATIF A L'ALLOCATION DE REMPLACEMENT INSTITUEE PAR L'ART. 1106-4-1 DU CODE RURAL",
+          "@c_titre_court": "Décret n°77-663 du 27 juin 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518515"
+        },
+        {
+          "#text": "Décret n°77-663 du 27 juin 1977  RELATIF A L'ALLOCATION DE REMPLACEMENT INSTITUEE PAR L'ARTICLE 1106-3-1 DU CODE RURAL.",
+          "@c_titre_court": "Décret n°77-663 du 27 juin 1977",
+          "@debut": "1982-05-30",
+          "@fin": "2000-05-27",
+          "@id_txt": "LEGITEXT000006062708"
+        }
+      ],
+      "@cid": "JORFTEXT000000518515",
+      "@date_publi": "1977-06-29",
+      "@date_signature": "1977-06-27",
+      "@nature": "DECRET",
+      "@num": "77-663"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-31",
+          "@etat": "ABROGE",
+          "@fin": "1982-05-30",
+          "@id": "LEGIARTI000006763806",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-06-28",
+          "@etat": "ABROGE",
+          "@fin": "2000-05-27",
+          "@id": "LEGIARTI000006763807",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La caisse centrale de secours mutuels agricoles est chargée de centraliser les recettes du fonds additionnel d'action sociale.<br/>\n<br/>   Elle met à la disposition des caisses de mutualité sociale agricole et des autres organismes assureurs les crédits nécessaires au versement de l'allocation prévue à l'article 3 ci-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1106-3-1",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 80-602 1980-07-29 ART. 1 JORF 31 JUILLET 1980",
+        "@cidtexte": "JORFTEXT000000680414",
+        "@datesignatexte": "1980-07-29",
+        "@id": "JORFTEXT000000680414",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-602",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 82-456 1982-05-28 ART. 1, ART. 2, ART. 3, ART. 4 JORF 30 MAI 1982",
+        "@cidtexte": "JORFTEXT000000519521",
+        "@datesignatexte": "1982-05-28",
+        "@id": "JORFTEXT000000519521",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-456",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

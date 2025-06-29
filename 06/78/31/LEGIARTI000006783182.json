@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006783182",
+      "ANCIEN_ID": "SSIAGVXXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/31/LEGIARTI000006783182.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1968-03-24",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 mars 1968 COMMISSIONS DE PREMIERE INSTANCE",
+          "@c_titre_court": "Arrêté du 19 mars 1968",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000830643"
+        },
+        {
+          "#text": "Arrêté du 19 mars 1968 portant application de l'article 12 du décret n° 58-1291 du 22 décembre 1958 portant application de l'ordonnance n° 58-1275 du 22 décembre 1958 relative au contentieux de la sécurité sociale.",
+          "@c_titre_court": "Arrêté du 19 mars 1968",
+          "@debut": "1968-03-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073655"
+        }
+      ],
+      "@cid": "JORFTEXT000000830643",
+      "@date_publi": "1968-03-24",
+      "@date_signature": "1968-03-19",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-03-24",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006783182",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>La juridiction compétente pour connaître des demandes présentées par les personnes dont le domicile n'est pas compris dans le ressort d'une des commissions prévues à l'article L. 191 du Code de la sécurité sociale est celle dans le ressort de laquelle se trouve le siège de l'organisme de sécurité sociale défendeur.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 58-1275 1958-12-22",
+        "@cidtexte": "JORFTEXT000000516994",
+        "@datesignatexte": "1958-12-22",
+        "@id": "JORFTEXT000000516994",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1275",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°58-1291 du 22 décembre 1958 - art. 12 (Ab)",
+        "@cidtexte": "JORFTEXT000000670725",
+        "@datesignatexte": "1958-12-22",
+        "@id": "LEGIARTI000006764187",
+        "@naturetexte": "DECRET",
+        "@num": "12",
+        "@numtexte": "58-1291",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale L191",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

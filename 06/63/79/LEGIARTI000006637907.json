@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006637907",
+      "ANCIEN_ID": "RLEAGXXXXXX020AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/79/LEGIARTI000006637907.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "20",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1965-07-09",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°65-543 du 8 juillet 1965 CONDITIONS D'HYGIENE, INSPECTION SANITAIRE ET QUALITATIVE",
+          "@c_titre_court": "Loi n°65-543 du 8 juillet 1965",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000320403"
+        },
+        {
+          "#text": "Loi n° 65-543 du 8 juillet 1965 relative aux conditions nécessaires à la modernisation du marché de la viande",
+          "@c_titre_court": "Loi n° 65-543 du 8 juillet 1965",
+          "@debut": "1965-07-09",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068254"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre V : Dispositions générales.",
+            "@debut": "1965-07-09",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006100686"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000320403",
+      "@date_publi": "1965-07-09",
+      "@date_signature": "1965-07-08",
+      "@nature": "LOI",
+      "@num": "65-543"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-07-09",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006637907",
+          "@num": "20",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont abrogés les articles 256, 257 (alinéas 3, 6, 7 et 8), 260, 270, 275 (alinéas 2, 3, 4) du code rural, les articles 292 bis et 292 ter du code général des impôts, l'article 127 de l'ordonnance n° 58-1374 du 30 décembre 1958 portant loi de finances pour 1959, la loi locale du 3 juin 1900 relative à l'inspection des animaux et de la viande de boucherie dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle et, de manière générale, toutes dispositions contraires à la présente loi.<br/>\n<br/>   L'abrogation des dispositions fiscales mentionnées au présent article prendra effet à partir de l'institution de la taxe sanitaire prévue à l'article 5 ci-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 65-543 1965-07-08 art. 5",
+        "@cidtexte": "JORFTEXT000000320403",
+        "@datesignatexte": "1965-07-08",
+        "@id": "JORFTEXT000000320403",
+        "@naturetexte": "LOI",
+        "@numtexte": "65-543",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural ancien - art. 256 (Ab)",
+        "@cidtexte": "LEGITEXT000006071366",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006579779",
+        "@naturetexte": "CODE",
+        "@num": "256",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural ancien - art. 257 (M)",
+        "@cidtexte": "LEGITEXT000006071366",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006579781",
+        "@naturetexte": "CODE",
+        "@num": "257",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

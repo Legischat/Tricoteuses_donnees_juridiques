@@ -1,0 +1,162 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006915787",
+      "ANCIEN_ID": "YXXXXXXXXXX5136R0200XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/91/57/LEGIARTI000006915787.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R5136-20",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-08-08",
+        "DATE_FIN": "2008-02-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la santé publique",
+          "@c_titre_court": "Code de la santé publique",
+          "@debut": "1953-10-07",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072665"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire",
+            "@debut": "2000-12-23",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006112927"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Cinquième partie : Produits de santé",
+              "@debut": "2004-07-29",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006132399"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Livre Ier : Produits pharmaceutiques",
+                "@debut": "2004-07-29",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006145489"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Titre III : Autres produits et substances pharmaceutiques réglementés",
+                  "@debut": "2004-08-08",
+                  "@fin": "2999-01-01",
+                  "@id": "LEGISCTA000006161013"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Chapitre VI : Insecticides et acaricides",
+                    "@debut": "2004-08-08",
+                    "@fin": "2008-02-08",
+                    "@id": "LEGISCTA000006178660"
+                  }
+                ],
+                "TM": {
+                  "TITRE_TM": [
+                    {
+                      "#text": "Section 2 : Publicité.",
+                      "@debut": "2004-08-08",
+                      "@fin": "2008-02-08",
+                      "@id": "LEGISCTA000006190717"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072665",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-08-08",
+          "@etat": "ABROGE",
+          "@fin": "2008-02-08",
+          "@id": "LEGIARTI000006915787",
+          "@num": "R5136-20",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La publicité auprès du public :<br/>\n<br/>   1° Est conçue de façon à ce que le caractère publicitaire du message soit évident ;<br/>\n<br/>   2° Comporte au moins :<br/>\n<br/>   a) La dénomination du produit ainsi que sa composition ;<br/>\n<br/>   b) Les informations indispensables au bon usage du produit ;<br/>\n<br/>   c) Une invitation expresse et lisible à lire attentivement les instructions figurant sur la notice ou sur le conditionnement extérieur, selon le cas.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2004-802 2004-07-29",
+        "@cidtexte": "JORFTEXT000000787339",
+        "@datesignatexte": "2004-07-29",
+        "@id": "JORFTEXT000000787339",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0422530D",
+        "@numtexte": "2004-802",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2008-109 du 5 février 2008 - art. 13",
+        "@cidtexte": "JORFTEXT000018081221",
+        "@datesignatexte": "2008-02-05",
+        "@id": "LEGIARTI000018081906",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SJSP0762724D",
+        "@num": "13",
+        "@numtexte": "2008-109",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de la santé publique - art. R5050-1 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006799402",
+        "@naturetexte": "CODE",
+        "@num": "R5050-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code de la santé publique - art. R5050-1 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006799401",
+        "@naturetexte": "CODE",
+        "@num": "R5050-1",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

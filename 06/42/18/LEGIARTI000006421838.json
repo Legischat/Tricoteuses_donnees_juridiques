@@ -1,0 +1,127 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006421838",
+      "ANCIEN_ID": "PCFACXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/18/LEGIARTI000006421838.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-08-02",
+        "DATE_FIN": "2012-03-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n°45-2646 du 2 novembre 1945 portant réglementation provisoire des agences de presse",
+          "@c_titre_court": "Ordonnance n°45-2646 du 2 novembre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000699735"
+        },
+        {
+          "#text": "Ordonnance n° 45-2646 du 2 novembre 1945 portant réglementation des agences de presse.",
+          "@c_titre_court": "Ordonnance n°45-2646 du 2 novembre 1945",
+          "@debut": "2012-03-24",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000025576987"
+        },
+        {
+          "#text": "Ordonnance n° 45-2646 du 2 novembre 1945 portant réglementation provisoire des agences de presse.",
+          "@c_titre_court": "Ordonnance n° 45-2646 du 2 novembre 1945",
+          "@debut": "1945-11-03",
+          "@fin": "2012-03-24",
+          "@id_txt": "LEGITEXT000006069183"
+        }
+      ],
+      "@cid": "JORFTEXT000000699735",
+      "@date_publi": "1945-11-03",
+      "@date_signature": "1945-11-02",
+      "@nature": "ORDONNANCE",
+      "@num": "45-2646"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-08-02",
+          "@etat": "MODIFIE",
+          "@fin": "2012-03-24",
+          "@id": "LEGIARTI000006421838",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2012-03-24",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000025576981",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Sous quelque forme qu'elle soit exploitée, toute agence privée de presse doit :</p>\n<p>1° A titre provisoire, pendant la durée d'application de l'ordonnance du 30 septembre 1944 susvisée faire l'objet d'une autorisation préalable, délivrée par le ministre de l'Information :</p>\n<p>2° Se conformer aux dispositions prévues par les articles 4 et 9 de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 1944-08-26 art. 6, art. 7, art. 8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 1944-09-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-2646 1945-11-02 JORF 3 novembre 1945 rectificatif JORF 3 novembre 1945 rectificatif JORF 10 novembre 1945",
+        "@cidtexte": "JORFTEXT000000699735",
+        "@datesignatexte": "1945-11-02",
+        "@id": "JORFTEXT000000699735",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2646",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°45-2646 du 2 novembre 1945 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000699735",
+        "@datesignatexte": "1945-11-02",
+        "@id": "LEGIARTI000006275764",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "4",
+        "@numtexte": "45-2646",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°86-897 du 1 août 1986 - art. 17 () JORF 2 août 1986",
+        "@cidtexte": "JORFTEXT000000687451",
+        "@datesignatexte": "1986-08-01",
+        "@id": "LEGIARTI000006275064",
+        "@naturetexte": "LOI",
+        "@num": "17",
+        "@numtexte": "86-897",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006782152",
+      "ANCIEN_ID": "SSIAAUXXXXX055AXXXXXXXCA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/21/LEGIARTI000006782152.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "55 TER",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1962-05-05",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 juin 1947 RELATIF A LA FIXATION DU REGLEMENT INTERIEUR MODELE PROVISOIRE DES CAISSES PRIMAIRES DE SECURITE SOCIALE POUR LE SERVICE DES PRESTATIONS DES ASSURANCES SOCIALES : PUBLICATION EN ANNEXE DUDIT REGLEMENT",
+          "@c_titre_court": "Arrêté du 19 juin 1947",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000470499"
+        },
+        {
+          "#text": "Arrêté du 19 juin 1947  FIXANT LE REGLEMENT INTERIEUR MODELE PROVISOIRE DES CAISSES PRIMAIRES D'ASSURANCE MALADIE POUR LE SERVICE DES PRESTATIONS.",
+          "@c_titre_court": "Arrêté du 19 juin 1947",
+          "@debut": "1947-07-07",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073471"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "ASSURANCE INVALIDITE",
+            "@debut": "1962-05-05",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107704"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "REEDUCATION ET RECLASSEMENT.",
+              "@debut": "1962-05-05",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006128032"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000470499",
+      "@date_publi": "1947-07-08",
+      "@date_signature": "1947-06-19",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1962-05-05",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006782152",
+          "@num": "55 TER",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>   Les frais de rééducation professionnelle dont la charge est supportée par la caisse sont :</p>\n<br/>\n<p>   1° les frais du voyage effectué, par le mode de transport le moins onéreux, par le bénéficiaire, pour se rendre à l'établissement où il a été admis en qualité d'interne, et du voyage de retour dans les mêmes conditions à la fin du stage de rééducation ;</p>\n<br/>\n<p>   2° les frais de rééducation proprement dits, selon le tarif inscrit dans la convention prévue à l'article 10 du décret n° 61-29 du 11 janvier 1961 susvisé ;</p>\n<br/>\n<p>   3° le prix de journée, dans la limite d'un tarif fixé par arrêté du ministre du travail ;</p>\n<br/>\n<p>   4° les cotisations prévues respectivement à l'article 5 et à l'article 6 du décret n° 46-2959 du 31 décembre 1946 ;</p>\n<br/>\n<p>   5° le prix des appareils indispensables de prothèse de travail, qui ne seraient pas susceptibles d'être pris en charge, selon le cas, au titre soit des articles L. 283 et L. 284, soit de l'article L. 440 du code de la sécurité sociale.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1962-04-06 ART. 10 JORF 5 MAI",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 46-2959 1946-12-31 ART. 5 ET ART. 6",
+        "@cidtexte": "JORFTEXT000000495266",
+        "@datesignatexte": "1946-12-31",
+        "@id": "JORFTEXT000000495266",
+        "@naturetexte": "DECRET",
+        "@numtexte": "46-2959",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°61-29 du 11 janvier 1961 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000849658",
+        "@datesignatexte": "1961-01-11",
+        "@id": "LEGIARTI000006761235",
+        "@naturetexte": "DECRET",
+        "@num": "10",
+        "@numtexte": "61-29",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L283, L284, L440",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

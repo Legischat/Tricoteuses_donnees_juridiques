@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006715334",
+      "ANCIEN_ID": "SPI6TXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/53/LEGIARTI000006715334.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-04-19",
+        "DATE_FIN": "1993-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 avril 1985 relatif à la désignation des membres de la commission paritaire nationale compétente pour les biologistes régis par le décret n° 61-946 du 24 août 1961 modifié",
+          "@c_titre_court": "Arrêté du 10 avril 1985",
+          "@debut": "1985-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072745"
+        }
+      ],
+      "@cid": "LEGITEXT000006072745",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1985-04-10",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-04-19",
+          "@etat": "MODIFIE",
+          "@fin": "1993-09-01",
+          "@id": "LEGIARTI000006715334",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1993-09-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006715335",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>    La commission paritaire nationale se réunit sur convocation du ministre chargé de la santé.<br/>\n<br/>    Le secrétariat en est assuré par la direction des hôpitaux.<br/>\n<br/>    Les membres de la commission et le personnel qui en assure le secrétariat sont soumis au secret professionnel défini à l'article 378 du code pénal pour tous les faits et documents dont ils ont connaissance en leur qualité.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 61-946 1961-08-24",
+        "@cidtexte": "JORFTEXT000000314252",
+        "@datesignatexte": "1961-08-24",
+        "@id": "JORFTEXT000000314252",
+        "@naturetexte": "DECRET",
+        "@numtexte": "61-946",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code pénal 378",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

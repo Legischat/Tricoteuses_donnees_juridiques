@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006411493",
+      "ANCIEN_ID": "PBAXXXXXXXX5X0890AAAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/41/14/LEGIARTI000006411493.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "890",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-01-01",
+        "DATE_FIN": "2018-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de procédure civile",
+          "@c_titre_court": "Code de procédure civile",
+          "@debut": "1976-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070716"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre II : Dispositions particulières à chaque juridiction.",
+            "@debut": "1976-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006089129"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre V : Dispositions particulières au tribunal paritaire de baux ruraux.",
+              "@debut": "1976-01-01",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006117255"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre Ier : La procédure ordinaire.",
+                "@debut": "1976-01-01",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006135925"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070716",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2018-01-01",
+          "@id": "LEGIARTI000006411493",
+          "@num": "890",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas d'absence ou de récusation de l'un des assesseurs, il est aussitôt remplacé par le membre suppléant de sa catégorie dans l'ordre de voix obtenues lors de l'élection.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°75-1123 du 5 décembre 1975",
+        "@cidtexte": "JORFTEXT000000507244",
+        "@datesignatexte": "1975-12-05",
+        "@id": "JORFTEXT000000507244",
+        "@naturetexte": "DECRET",
+        "@numtexte": "75-1123",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret n°2017-1100 du 15 juin 2017 - art. 3",
+        "@cidtexte": "JORFTEXT000034951161",
+        "@datesignatexte": "2017-06-15",
+        "@id": "LEGIARTI000034952815",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRT1712744D",
+        "@num": "3",
+        "@numtexte": "2017-1100",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

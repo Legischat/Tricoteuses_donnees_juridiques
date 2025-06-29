@@ -1,0 +1,93 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006732630",
+      "ANCIEN_ID": "SQIVIXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/73/26/LEGIARTI000006732630.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-12-14",
+        "DATE_FIN": "2013-06-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 décembre 1996  relatif aux gardes des étudiants en médecine",
+          "@c_titre_court": "Arrêté du 9 décembre 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000745310"
+        },
+        {
+          "#text": "Arrêté du 9 décembre 1996 relatif aux gardes des étudiants en médecine",
+          "@c_titre_court": "Arrêté du 9 décembre 1996",
+          "@debut": "1996-12-14",
+          "@fin": "2013-06-27",
+          "@id_txt": "LEGITEXT000005622267"
+        }
+      ],
+      "@cid": "JORFTEXT000000745310",
+      "@date_publi": "1996-12-14",
+      "@date_signature": "1996-12-09",
+      "@ministere": "MINISTERE DU TRAVAIL ET DES AFFAIRES SOCIALES",
+      "@nature": "ARRETE",
+      "@nor": "TASH9624330A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-12-14",
+          "@etat": "ABROGE",
+          "@fin": "2013-06-27",
+          "@id": "LEGIARTI000006732630",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Les gardes ci-dessus mentionnées sont organisées selon les dispositions de l'arrêté du 15 février 1973 susvisé, notamment : <br/>\n<br/>Pour chaque nuit, le service de garde commence à la fin du service normal de l'après-midi, et au plus tôt à 18 h 30 pour s'achever au début du service normal le lendemain matin, et au plus tôt à 8 h 30 ; <br/>\n<br/>Pour chaque dimanche ou jour férié, le service de garde commence à 8 h 30 pour s'achever au début du service de garde de nuit.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1973-02-15",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Arrêté du 17 juin 2013 - art. 9",
+        "@cidtexte": "JORFTEXT000027607974",
+        "@datesignatexte": "2013-06-17",
+        "@id": "LEGIARTI000027609973",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AFSH1315586A",
+        "@num": "9",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Arrêté du 15 février 1973",
+        "@cidtexte": "LEGITEXT000006072847",
+        "@datesignatexte": "1973-02-15",
+        "@id": "LEGITEXT000006072847",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006284720",
+      "ANCIEN_ID": "ARECEXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/47/LEGIARTI000006284720.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1819-07-14",
+        "DATE_FIN": "2019-12-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 6986 du 14 juillet 1819 relative à l'abolition du droit d'aubaine et de détraction",
+          "@c_titre_court": "Loi n° 6986 du 14 juillet 1819",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000023733988"
+        },
+        {
+          "#text": "Loi du 14 juillet 1819 relative à l'abolition du droit d'aubaine et de détraction.",
+          "@c_titre_court": "Loi du 14 juillet 1819",
+          "@debut": "1819-07-14",
+          "@fin": "2019-12-13",
+          "@id_txt": "LEGITEXT000006069447"
+        }
+      ],
+      "@cid": "JORFTEXT000023733988",
+      "@date_publi": "1819-07-17",
+      "@date_signature": "1819-07-14",
+      "@nature": "LOI",
+      "@num": "6986"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1819-07-14",
+          "@etat": "ABROGE",
+          "@fin": "2019-12-13",
+          "@id": "LEGIARTI000006284720",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>   Les articles 726 et 912 du Code civil sont abrogés : en conséquence, les étrangers auront le droit de succéder, de disposer et de recevoir de la même manière que les Français dans toute l'étendue du Royaume.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code civil art. 726, 912",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2019-1332 du 11 décembre 2019 - art. 1",
+        "@cidtexte": "JORFTEXT000039480074",
+        "@datesignatexte": "2019-12-11",
+        "@id": "LEGIARTI000039482898",
+        "@naturetexte": "LOI",
+        "@nortexte": "CPAX1907946L",
+        "@num": "1",
+        "@numtexte": "2019-1332",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Loi 1819-07-14 Bulletin des lois 7e S, B. 294, n° 6986",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

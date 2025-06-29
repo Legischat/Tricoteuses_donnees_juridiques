@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006341438",
+      "ANCIEN_ID": "MCHBIXXXXXX028AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/14/LEGIARTI000006341438.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "28",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1962-04-04",
+        "DATE_FIN": "2009-03-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°62-367 du 26 mars 1962 PORTANT RAP POUR L'APPLICATION DE L'ORDONNANCE 59-63 DU 6 JANVIER 1959 RELATIVE A LA REQUISITIONS DE BIENS ET DE SERVICES",
+          "@c_titre_court": "Décret n°62-367 du 26 mars 1962",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000669547"
+        },
+        {
+          "#text": "Décret n°62-367 du 26 mars 1962 portant règlement d'administration publique pour l'application de l'ordonnance n° 59-63 du 6 janvier 1959 relative aux réquisitions de biens et de services",
+          "@c_titre_court": "Décret n°62-367 du 26 mars 1962",
+          "@debut": "1962-04-04",
+          "@fin": "2009-03-07",
+          "@id_txt": "LEGITEXT000006061086"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Evaluation et paiement des indemnités de réquisition Chapitre II : Evaluation directe et payement des indemnités",
+            "@debut": "1962-04-04",
+            "@fin": "2009-03-07",
+            "@id": "LEGISCTA000006085453"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000669547",
+      "@date_publi": "1962-04-04",
+      "@date_signature": "1962-03-26",
+      "@nature": "DECRET",
+      "@num": "62-367"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1962-04-04",
+          "@etat": "ABROGE",
+          "@fin": "2009-03-07",
+          "@id": "LEGIARTI000006341438",
+          "@num": "28",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "S'il existe dans l'entreprise des dettes spécifiquement afférentes aux éléments corporels de l'actif requis, le prestataire doit prélever les charges de ces dettes sur l'intérêt assurant la rémunération du capital que représente la valeur des éléments de l'actif requis.<br/>\n    La majoration éventuelle prévue par l'article 5 de l'ordonnance du 6 janvier 1959 n'est accordée au prestataire que dans la mesure où ces charges dépassent cet intérêt.<br/>\n    Ces charges comprennent, non seulement l'intérêt conventionnel à servir aux prêteurs, mais aussi l'amortissement financier de l'emprunt (c'est-à-dire la part d'annuité des emprunts amortissables de longue durée correspondant au remboursement du capital, et non le remboursement de dettes à échéance fixe), dès lors du moins que l'entreprise est, par le contrat d'emprunt même, tenue de faire cet amortissement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°59-63 du 6 janvier 1959 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000517516",
+        "@datesignatexte": "1959-01-06",
+        "@id": "LEGIARTI000006341029",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "5",
+        "@numtexte": "59-63",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Ordonnance n°59-63 du 6 janvier 1959 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000517516",
+        "@datesignatexte": "1959-01-06",
+        "@id": "LEGIARTI000006341029",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "5",
+        "@numtexte": "59-63",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°62-367 du 26 mars 1962 - art. 25 (V)",
+        "@cidtexte": "JORFTEXT000000669547",
+        "@datesignatexte": "1962-03-26",
+        "@id": "LEGIARTI000006341427",
+        "@naturetexte": "DECRET",
+        "@num": "25",
+        "@numtexte": "62-367",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2009-254 du 4 mars 2009 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000020409094",
+        "@datesignatexte": "2009-03-04",
+        "@id": "LEGIARTI000020409819",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFD0817989D",
+        "@num": "3",
+        "@numtexte": "2009-254",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

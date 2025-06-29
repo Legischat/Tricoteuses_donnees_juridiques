@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006926625",
+      "ANCIEN_ID": "SHIMIXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/66/LEGIARTI000006926625.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-06-30",
+        "DATE_FIN": "2009-01-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 janvier 1993 fixant les modalités d'élaboration et de transmission des fiches de données de sécurité",
+          "@c_titre_court": "Arrêté du 5 janvier 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000178120"
+        },
+        {
+          "#text": "Arrêté du 5 janvier 1993 fixant les modalités d'élaboration et de transmission des fiches de données de sécurité",
+          "@c_titre_court": "Arrêté du 5 janvier 1993",
+          "@debut": "1993-06-30",
+          "@fin": "2009-01-23",
+          "@id_txt": "LEGITEXT000006081078"
+        }
+      ],
+      "@cid": "JORFTEXT000000178120",
+      "@date_publi": "1993-02-07",
+      "@date_signature": "1993-01-05",
+      "@nature": "ARRETE",
+      "@nor": "TEFT9300031A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-06-30",
+          "@etat": "ABROGE",
+          "@fin": "2009-01-23",
+          "@id": "LEGIARTI000006926625",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001967385",
+          "@num": "3",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les fiches de données de sécurité sont transmises à leurs destinataires selon des modes ou des procédures permettant aux fabricants, aux importateurs ou aux vendeurs de substances et de préparations dangereuses de satisfaire aux obligations qui leur incombent en vertu du premier alinéa de l'article R. 231-53 du code du travail.<br/>\n<br/>   Dans le cas où les fiches de données de sécurité, sans être spontanément transmises lors de la cession du produit, sont directement accessibles sur d'autres supports que le papier, le responsable de la mise sur le marché est tenu d'informer son client de l'existence de ces fiches de données de sécurité et de lui indiquer comment il peut se les procurer.<br/>\n<br/>   Il doit, en outre, être en mesure de lui assurer gratuitement, sur sa simple demande, un envoi d'une fiche éditée sur papier.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 16 janvier 2009 - art. 2",
+        "@cidtexte": "JORFTEXT000020133043",
+        "@datesignatexte": "2009-01-16",
+        "@id": "LEGIARTI000020134024",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "MTST0901126A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code du travail - art. R231-53",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006806681",
+        "@naturetexte": "CODE",
+        "@num": "R231-53",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

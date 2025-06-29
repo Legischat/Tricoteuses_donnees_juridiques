@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006341259",
+      "ANCIEN_ID": "MCHARXXXXXX016AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/12/LEGIARTI000006341259.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "16",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-02-20",
+        "DATE_FIN": "1984-02-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-117 du 18 février 1983 RELATIF A LA DOTATION GLOBALE D'EQUIPEMENT DES COMMUNES (DGE)",
+          "@c_titre_court": "Décret n°83-117 du 18 février 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000690635"
+        },
+        {
+          "#text": "Décret n°83-117 du 18 février 1983 relatif à la dotation globale d'équipement des communes.",
+          "@c_titre_court": "Décret n°83-117 du 18 février 1983",
+          "@debut": "1983-02-20",
+          "@fin": "1984-02-17",
+          "@id_txt": "LEGITEXT000006064012"
+        }
+      ],
+      "@cid": "JORFTEXT000000690635",
+      "@date_publi": "1983-02-20",
+      "@date_signature": "1983-02-18",
+      "@nature": "DECRET",
+      "@num": "83-117"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-02-20",
+          "@etat": "ABROGE",
+          "@fin": "1984-02-17",
+          "@id": "LEGIARTI000006341259",
+          "@num": "16",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La première partie du solde est répartie entre les communes ayant un potentiel fiscal par habitant inférieur à la moyenne de leurs groupes démographiques, définis dans les conditions prévues à l'article L. 234-7, alinéa 8, du code des communes, en fonction du montant de la dotation globale d'équipement qu'elles ont reçues au titre de la part principale pour l'année en cours et de leur insuffisance de potentiel fiscal par rapport à la moyenne.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 83-8 1983-01-07 ART. 103",
+        "@cidtexte": "JORFTEXT000000320197",
+        "@datesignatexte": "1983-01-07",
+        "@id": "JORFTEXT000000320197",
+        "@naturetexte": "LOI",
+        "@numtexte": "83-8",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°83-117 du 18 février 1983 - art. 1 (Ab)",
+        "@cidtexte": "JORFTEXT000000690635",
+        "@datesignatexte": "1983-02-18",
+        "@id": "LEGIARTI000006272202",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "83-117",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°84-108 du 16 février 1984 - art. 13 (V) JORF 17 FEVRIER 1984",
+        "@cidtexte": "JORFTEXT000000699375",
+        "@datesignatexte": "1984-02-16",
+        "@id": "LEGIARTI000006341630",
+        "@naturetexte": "DECRET",
+        "@num": "13",
+        "@numtexte": "84-108",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "CODE DES COMMUNES. - art. L234-7 (M)",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006346158",
+        "@naturetexte": "CODE",
+        "@num": "L234-7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

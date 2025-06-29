@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006665958",
+      "ANCIEN_ID": "SEHQVXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/59/LEGIARTI000006665958.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1992-07-03",
+        "DATE_FIN": "1993-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 92-600 du 1er juillet 1992 portant relèvement du salaire minimum de croissance",
+          "@c_titre_court": "Décret n° 92-600 du 1 juillet 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000540270"
+        },
+        {
+          "#text": "Décret n°92-600 du 1 juillet 1992 portant relèvement du salaire minimum de croissance *SMIC*",
+          "@c_titre_court": "Décret n°92-600 du 1 juillet 1992",
+          "@debut": "1992-07-03",
+          "@fin": "1993-07-01",
+          "@id_txt": "LEGITEXT000006079372"
+        }
+      ],
+      "@cid": "JORFTEXT000000540270",
+      "@date_publi": "1992-07-03",
+      "@date_signature": "1992-07-01",
+      "@nature": "DECRET",
+      "@nor": "TEFX9200107D",
+      "@num": "92-600"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-07-03",
+          "@etat": "PERIME",
+          "@fin": "1993-07-01",
+          "@id": "LEGIARTI000006665958",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er juillet 1992, le montant du minimum garanti prévu à l'article L. 141-8 du code du travail est fixé à :<br/>\n<br/>   16,87 F en métropole et dans la collectivité territoriale de Saint-Pierre-et-Miquelon ;<br/>\n<br/>   14,64 F dans les départements de la Guadeloupe, de la Guyane et de la Martinique ;<br/>\n<br/>   13,23 F dans le département de la Réunion.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°93-884 du 5 juillet 1993, v. init.",
+        "@cidtexte": "JORFTEXT000000529356",
+        "@datesignatexte": "1993-07-05",
+        "@id": "JORFTEXT000000529356",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFX9300103D",
+        "@numtexte": "93-884",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "Code du travail - art. L141-8 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646471",
+        "@naturetexte": "CODE",
+        "@num": "L141-8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

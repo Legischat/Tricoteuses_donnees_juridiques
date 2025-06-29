@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006535698",
+      "ANCIEN_ID": "ADHAUXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/56/LEGIARTI000006535698.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1930-02-01",
+        "DATE_FIN": "1993-07-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 31 janvier 1930 RAP POUR L'APPLICATION DE LA LOI DU 01-08-1905 SUR LA REPRESSION DES FRAUDES",
+          "@c_titre_court": "Décret du 31 janvier 1930",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000298605"
+        },
+        {
+          "#text": "Décret du 31 janvier 1930 pris pour l'application de la loi du 1er août 1905 en ce qui concerne le commerce des vins de liqueur, des vermouths et des apéritifs à base de vin",
+          "@c_titre_court": "Décret du 31 janvier 1930",
+          "@debut": "1930-02-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071254"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Vermouths et apéritifs à base de vin.",
+            "@debut": "1930-02-01",
+            "@fin": "1993-07-28",
+            "@id": "LEGISCTA000006096326"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000298605",
+      "@date_publi": "1930-02-01",
+      "@date_signature": "1930-01-31",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1930-02-01",
+          "@etat": "ABROGE",
+          "@fin": "1993-07-28",
+          "@id": "LEGIARTI000006535698",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est interdit de mettre en vente ou de vendre, de détenir ou de transporter en vue de la vente, sous la dénomination \"vermouth\" ou tout autre dénomination réservée pour l'usage des apéritifs à base de vin, des boissons d'une richesse alcoolique supérieure à 23 degrés ou renfermant moins de 80 % de vin de liqueur, de moût de raisin ou de vin ordinaire loyal et marchand et titrant au moins 10 degrés d'alcool.<br/>\n<br/>   Ces dispositions sont applicables à tous les produits que, pour l'application de la taxe sur les sucres, l'article 91 de la loi du 13 juillet 1925 a déclarés assimilables aux apéritifs à base de vin.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°93-957 du 21 juillet 1993 - art. 2 (V) JORF 28 juillet 1993",
+        "@cidtexte": "JORFTEXT000000712381",
+        "@datesignatexte": "1993-07-21",
+        "@id": "LEGIARTI000006932827",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOC9300084D",
+        "@num": "2",
+        "@numtexte": "93-957",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1925-07-13 art. 91",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

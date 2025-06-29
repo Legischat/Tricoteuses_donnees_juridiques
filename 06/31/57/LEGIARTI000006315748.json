@@ -1,0 +1,147 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006315748",
+      "ANCIEN_ID": "FAAALPFXXXXL076ACXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/57/LEGIARTI000006315748.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L76 B",
+        "ETAT": "MODIFIE_MORT_NE",
+        "DATE_DEBUT": "1982-01-01",
+        "DATE_FIN": "1981-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Livre des procédures fiscales",
+          "@c_titre_court": "Livre des procédures fiscales",
+          "@debut": "1938-06-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069583"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1938-06-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084350"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LE CONTROLE DE L'IMPOT",
+              "@debut": "1982-01-01",
+              "@fin": "1989-07-14",
+              "@id": "LEGISCTA000006114553"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "LE DROIT DE CONTROLE DE L'ADMINISTRATION",
+                "@debut": "1982-01-01",
+                "@fin": "1989-07-14",
+                "@id": "LEGISCTA000006133970"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "PROCEDURE D'ARBITRAGE DES DROITS.",
+                  "@debut": "1982-01-01",
+                  "@fin": "1989-01-01",
+                  "@id": "LEGISCTA000006147351"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069583",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-01",
+          "@etat": "MODIFIE_MORT_NE",
+          "@fin": "1981-12-31",
+          "@id": "LEGIARTI000006315748",
+          "@num": "L76 B",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE_MORT_NE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1989-01-01",
+          "@id": "LEGIARTI000006315749",
+          "@num": "L76 B",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-12-08",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006315750",
+          "@num": "L76 B",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A défaut de souscription d'une déclaration au titre de l'impôt sur les grandes fortunes, l'administration, après mise en demeure restée sans effet dans un délai de deux mois, fixe provisoirement le montant de l'impôt. Les droits ainsi arbitrés ne peuvent être remis en cause par le redevable que par la souscription de la déclaration.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 82-882 1982-10-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°81-1160 du 30 décembre 1981 - art. 8 (V) JORF 31 DECEMBRE 1981",
+        "@cidtexte": "JORFTEXT000000515870",
+        "@datesignatexte": "1981-12-30",
+        "@id": "LEGIARTI000006273478",
+        "@naturetexte": "LOI",
+        "@num": "8",
+        "@numtexte": "81-1160",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Livre des procédures fiscales - art. L10-0 AB (V)",
+        "@cidtexte": "LEGITEXT000006069583",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000033789380",
+        "@naturetexte": "CODE",
+        "@num": "L10-0 AB",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

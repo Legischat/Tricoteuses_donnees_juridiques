@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273415",
+      "ANCIEN_ID": "FAEBHXXXXXX024AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/34/LEGIARTI000006273415.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1980-01-19",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°80-30 du 18 janvier 1980 DE FINANCES POUR 1980",
+          "@c_titre_court": "Loi n°80-30 du 18 janvier 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000705191"
+        },
+        {
+          "#text": "Loi n° 80-30 du 18 janvier 1980 de finances pour 1980 (1)",
+          "@c_titre_court": "Loi n° 80-30 du 18 janvier 1980",
+          "@debut": "1980-01-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068686"
+        }
+      ],
+      "@cid": "JORFTEXT000000705191",
+      "@date_publi": "1980-01-19",
+      "@date_signature": "1980-01-18",
+      "@nature": "LOI",
+      "@num": "80-30"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-01-19",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006273415",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001691971",
+          "@num": "24",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les caisses des écoles sont exonérées de la taxe sur les salaires pour les salaires versés à compter du 1er janvier 1980.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 80-30 1980-01-18 Finances pour 1980 JORF 19 JANVIER 1980",
+        "@cidtexte": "JORFTEXT000000705191",
+        "@datesignatexte": "1980-01-18",
+        "@id": "JORFTEXT000000705191",
+        "@naturetexte": "LOI",
+        "@numtexte": "80-30",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 50 (M)",
+        "@cidtexte": "LEGITEXT000006069574",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006296881",
+        "@naturetexte": "CODE",
+        "@num": "50",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 231 (MMN)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006308869",
+        "@naturetexte": "CODE",
+        "@num": "231",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

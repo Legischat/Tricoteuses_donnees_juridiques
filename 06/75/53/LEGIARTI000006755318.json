@@ -1,0 +1,86 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006755318",
+      "ANCIEN_ID": "AFIDRXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/53/LEGIARTI000006755318.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1965-02-13",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 12 février 1965 D'EMISSION D'UN EMPRUNT PAR EDF",
+          "@c_titre_court": "Arrêté du 12 février 1965",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000814990"
+        },
+        {
+          "#text": "Arrêté du 12 février 1965 relatif à l'émission d'un emprunt par Electricité de France",
+          "@c_titre_court": "Arrêté du 12 février 1965",
+          "@debut": "1965-02-13",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073255"
+        }
+      ],
+      "@cid": "JORFTEXT000000814990",
+      "@date_publi": "1965-02-13",
+      "@date_signature": "1965-02-12",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-02-13",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006755318",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les obligations seront délivrées sous la forme au porteur ou sous la forme nominative, au choix des souscripteurs.</p>\n<br/>\n<p>Les dispositions du décret susvisé du 7 septembre 1959 portant simplification de la gestion des titres nominatifs sont applicables à la présente émission.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 46-628 1946-04-08",
+        "@cidtexte": "JORFTEXT000000868448",
+        "@datesignatexte": "1946-04-08",
+        "@id": "JORFTEXT000000868448",
+        "@naturetexte": "LOI",
+        "@numtexte": "46-628",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 59-1053 1959-09-07",
+        "@cidtexte": "JORFTEXT000000492987",
+        "@datesignatexte": "1959-09-07",
+        "@id": "JORFTEXT000000492987",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-1053",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006326976",
+      "ANCIEN_ID": "FAIFMXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/69/LEGIARTI000006326976.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1982-05-05",
+        "DATE_FIN": "1983-05-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 20 avril 1982 MONTANT DU DROIT D'INSCRIPTION A L'EXAMEN DU PERMIS DE CHASSER: 36FRS",
+          "@c_titre_court": "Arrêté du 20 avril 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000865090"
+        },
+        {
+          "#text": "Arrêté du 20 avril 1982 RELATIF AU DROIT D'INSCRIPTION A L'EXAMEN DU PERMIS DE CHASSER",
+          "@c_titre_court": "Arrêté du 20 avril 1982",
+          "@debut": "1982-05-05",
+          "@fin": "1983-05-22",
+          "@id_txt": "LEGITEXT000006069738"
+        }
+      ],
+      "@cid": "JORFTEXT000000865090",
+      "@date_publi": "1982-05-05",
+      "@date_signature": "1982-04-20",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-05",
+          "@etat": "ABROGE",
+          "@fin": "1983-05-22",
+          "@id": "LEGIARTI000006326976",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 12 février 1979 relatif au droit d'inscription à l'examen du permis de chasser est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1979-02-12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 16 mai 1983, v. init.",
+        "@cidtexte": "JORFTEXT000000470529",
+        "@datesignatexte": "1983-05-16",
+        "@id": "JORFTEXT000000470529",
+        "@naturetexte": "ARRETE",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

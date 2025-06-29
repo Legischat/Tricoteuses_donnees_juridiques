@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006715476",
+      "ANCIEN_ID": "SPI7EXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/54/LEGIARTI000006715476.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-01-01",
+        "DATE_FIN": "2007-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 2 janvier 1992 FIXANT LE MONTANT DE LA PRIME D'ENCADREMENT ATTRIBUEE A CERTAINS AGENTS DE LA FONCTION PUBLIQUE HOSPITALIERE",
+          "@c_titre_court": "Arrêté du 2 janvier 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000499544"
+        },
+        {
+          "#text": "Arrêté du 2 janvier 1992 fixant le montant de la prime d'encadrement attribuée à certains agents de la fonction publique hospitalière",
+          "@c_titre_court": "Arrêté du 2 janvier 1992",
+          "@debut": "1992-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006059888"
+        }
+      ],
+      "@cid": "JORFTEXT000000499544",
+      "@date_publi": "1992-01-04",
+      "@date_signature": "1992-01-02",
+      "@nature": "ARRETE",
+      "@nor": "SANH9102698A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "2007-03-27",
+          "@id": "LEGIARTI000006715476",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-03-27",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000018214532",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant mensuel de la prime d'encadrement mentionnée à l'article 1er du décret n° 92-4 du 2 janvier 1992 susvisé est fixé conformément au tableau annexé au présent arrêté (tableau non reproduit).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1992-01-02 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 92-4 1992-01-02",
+        "@cidtexte": "JORFTEXT000000357449",
+        "@datesignatexte": "1992-01-02",
+        "@id": "JORFTEXT000000357449",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANH9102697D",
+        "@numtexte": "92-4",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 92-4 1992-01-02 art. 1",
+        "@cidtexte": "JORFTEXT000000357449",
+        "@datesignatexte": "1992-01-02",
+        "@id": "JORFTEXT000000357449",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANH9102697D",
+        "@numtexte": "92-4",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

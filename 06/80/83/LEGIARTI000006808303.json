@@ -1,0 +1,160 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006808303",
+      "ANCIEN_ID": "TXXXXXXXXXX0200R0180XX0A",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/80/83/LEGIARTI000006808303.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "R200-18",
+        "ETAT": "TRANSFERE",
+        "DATE_DEBUT": "1975-07-26",
+        "DATE_FIN": "1984-10-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire ancienne - Décrets en Conseil d'Etat",
+            "@debut": "1973-11-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006107985"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "REGLEMENTATION DU TRAVAIL",
+              "@debut": "1973-11-23",
+              "@fin": "1985-09-14",
+              "@id": "LEGISCTA000006128494"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "AGENCE NATIONALE POUR L'AMELIORATION DES CONDITIONS DE TRAVAIL .",
+                "@debut": "1975-07-26",
+                "@fin": "1984-10-02",
+                "@id": "LEGISCTA000006143016"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-07-26",
+          "@etat": "TRANSFERE",
+          "@fin": "1984-10-02",
+          "@id": "LEGIARTI000006808303",
+          "@num": "R200-18",
+          "@origine": "LEGI"
+        },
+        "@etat": "TRANSFERE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-10-02",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000018513919",
+          "@num": "R200-18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les membres du conseil d'administration de l'agence ont droit au remboursement des frais de déplacement et de séjour effectivement supportés par eux à l'occasion des réunions du conseil, conformément aux dispositions du décret n. 66-619 du 10 août 1966.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 66-619 1966-08-10",
+        "@cidtexte": "JORFTEXT000000876794",
+        "@datesignatexte": "1966-08-10",
+        "@id": "JORFTEXT000000876794",
+        "@naturetexte": "DECRET",
+        "@numtexte": "66-619",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 73-1048 1973-11-15",
+        "@cidtexte": "JORFTEXT000000698516",
+        "@datesignatexte": "1973-11-15",
+        "@id": "JORFTEXT000000698516",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1048",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 84-873 1984-09-28 ART. 4 JORF 2 OCTOBRE 1984",
+        "@cidtexte": "JORFTEXT000000507452",
+        "@datesignatexte": "1984-09-28",
+        "@id": "JORFTEXT000000507452",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-873",
+        "@sens": "source",
+        "@typelien": "TRANSFERT"
+      },
+      {
+        "#text": "Code du travail - art. R200-16 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006808299",
+        "@naturetexte": "CODE",
+        "@num": "R200-16",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail - art. R200-20 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006808307",
+        "@naturetexte": "CODE",
+        "@num": "R200-20",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code du travail - art. R200-20 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006808307",
+        "@naturetexte": "CODE",
+        "@num": "R200-20",
+        "@sens": "cible",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

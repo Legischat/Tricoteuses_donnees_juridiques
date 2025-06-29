@@ -1,0 +1,123 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006354085",
+      "ANCIEN_ID": "MEAXXXXXXXX1X393L01AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/40/LEGIARTI000006354085.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "LO393-1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2004-03-02",
+        "DATE_FIN": "2009-01-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code électoral",
+          "@c_titre_court": "Code électoral",
+          "@debut": "1964-10-28",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070239"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1964-10-28",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085760"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre V : Dispositions applicables à la \r\nNouvelle-Calédonie, à la Polynésie française et aux îles Wallis et Futuna",
+              "@debut": "2000-04-22",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006115465"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Election des députés",
+                "@debut": "2000-04-22",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006134792"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006070239",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2004-03-02",
+          "@etat": "ABROGE",
+          "@fin": "2009-01-15",
+          "@id": "LEGIARTI000006354085",
+          "@num": "LO393-1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Deux députés à l'Assemblée nationale sont élus en Nouvelle-Calédonie.<br/>\n<br/>   Deux députés à l'Assemblée nationale sont élus en Polynésie française.<br/>\n<br/>   Un député à l'Assemblée nationale est élu dans les îles Wallis et Futuna.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 64-1086 1964-10-27 JORF 28 OCTOBRE 1964",
+        "@cidtexte": "JORFTEXT000000670066",
+        "@datesignatexte": "1964-10-27",
+        "@id": "JORFTEXT000000670066",
+        "@naturetexte": "DECRET",
+        "@numtexte": "64-1086",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°2004-192 du 27 février 2004 - art. 193 () JORF 2 mars 2004",
+        "@cidtexte": "JORFTEXT000000435515",
+        "@datesignatexte": "2004-02-27",
+        "@id": "LEGIARTI000006399530",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "DOMX0300085L",
+        "@num": "193",
+        "@numtexte": "2004-192",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "LOI organique n°2009-38\n du 13 janvier 2009 - art. 8",
+        "@cidtexte": "JORFTEXT000020088470",
+        "@datesignatexte": "2009-01-13",
+        "@id": "LEGIARTI000020097274",
+        "@naturetexte": "LOI_ORGANIQUE",
+        "@nortexte": "IOCX0821082L",
+        "@num": "8",
+        "@numtexte": "2009-38",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

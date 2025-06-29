@@ -1,0 +1,121 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006274231",
+      "ANCIEN_ID": "FAECWXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/42/LEGIARTI000006274231.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1985-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°84-1208 DE FINANCES POUR 1985",
+          "@c_titre_court": "Loi n°84-1208 DE FINANCES POUR 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880778"
+        },
+        {
+          "#text": "Loi n° 84-1208 du 29 décembre 1984 de finances pour 1985",
+          "@c_titre_court": "Loi n° 84-1208 du 29 décembre 1984",
+          "@debut": "1985-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068824"
+        }
+      ],
+      "@cid": "JORFTEXT000000880778",
+      "@date_publi": "1984-12-30",
+      "@date_signature": "1984-12-29",
+      "@nature": "LOI",
+      "@num": "84-1208"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006274231",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002071794",
+          "@num": "5",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er janvier 1985, les dispositions du paragraphe 1er de l'article 125 A et du troisième alinéa du 3 de l'article 158 du code général des impôts ne s'appliquent pas à l'emprunt d'Etat 7 p. 100 - 1973 - 1988 émis en application de l'article 25 de la loi de finances pour 1973 (n° 72-1121 du 20 décembre 1972).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 125 A I, 158 3 al. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 72-1121 1972-12-20 art. 25 Finances pour 1973",
+        "@cidtexte": "JORFTEXT000000508816",
+        "@datesignatexte": "1972-12-20",
+        "@id": "JORFTEXT000000508816",
+        "@naturetexte": "LOI",
+        "@numtexte": "72-1121",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 84-1208 1984-12-29 Finances pour 1985 JORF 30 décembre 1984 en vigueur le 1er janvier 1985",
+        "@cidtexte": "JORFTEXT000000880778",
+        "@datesignatexte": "1984-12-29",
+        "@id": "JORFTEXT000000880778",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-1208",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 41 duodecies I (P)",
+        "@cidtexte": "LEGITEXT000006069574",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006296719",
+        "@naturetexte": "CODE",
+        "@num": "41 duodecies I",
+        "@sens": "cible",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 6 ter (M)",
+        "@cidtexte": "LEGITEXT000006069576",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006301202",
+        "@naturetexte": "CODE",
+        "@num": "6 ter",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

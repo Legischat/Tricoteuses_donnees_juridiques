@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006718722",
+      "ANCIEN_ID": "SPIIWXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/87/LEGIARTI000006718722.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-08-04",
+        "DATE_FIN": "2005-08-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 juillet 1961 fixant la liste des médicaments que les docteurs en médecine sont autorisés à délivrer en application de l'article L. 594 du code de la santé publique",
+          "@c_titre_court": "Arrêté du 28 juillet 1961",
+          "@debut": "1961-08-04",
+          "@fin": "2005-08-30",
+          "@id_txt": "LEGITEXT000006072890"
+        }
+      ],
+      "@cid": "LEGITEXT000006072890",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1961-07-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-08-04",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-30",
+          "@id": "LEGIARTI000006718722",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 10 août 1951 fixant la liste des médicaments que les docteurs en médecine sont autorisés à délivrer en application de l'article 29 de la loi du 11 septembre 1941 relative à l'exercice de la pharmacie est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1951-08-10",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 2005-08-03 art. 2 JORF 30 août 2005",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L594 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006693673",
+        "@naturetexte": "CODE",
+        "@num": "L594",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 1941-09-11 art. 29",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

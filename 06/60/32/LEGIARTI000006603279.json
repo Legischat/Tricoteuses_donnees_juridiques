@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006603279",
+      "ANCIEN_ID": "RAHFTXXXXXX020AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/32/LEGIARTI000006603279.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "20",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1991-12-29",
+        "DATE_FIN": "2003-08-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°91-1318 du 27 décembre 1991 RELATIVE A LA LUTTE CONTRE LA FIEVRE APHTEUSE",
+          "@c_titre_court": "Décret n°91-1318 du 27 décembre 1991",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000701251"
+        },
+        {
+          "#text": "Décret n°91-1318 du 27 décembre 1991 relatif à la lutte contre la fièvre aphteuse",
+          "@c_titre_court": "Décret n°91-1318 du 27 décembre 1991",
+          "@debut": "1991-12-29",
+          "@fin": "2003-08-07",
+          "@id_txt": "LEGITEXT000006067571"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre IV : Dispositions financières.",
+            "@debut": "1991-12-29",
+            "@fin": "2003-08-07",
+            "@id": "LEGISCTA000006098571"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000701251",
+      "@date_publi": "1991-12-29",
+      "@date_signature": "1991-12-27",
+      "@nature": "DECRET",
+      "@nor": "AGRG9102279D",
+      "@num": "91-1318"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1991-12-29",
+          "@etat": "ABROGE",
+          "@fin": "2003-08-07",
+          "@id": "LEGIARTI000006603279",
+          "@num": "20",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'Etat prend à sa charge la visite du vétérinaire sanitaire, les prélèvements et l'analyse des prélèvements qu'implique toute suspicion de fièvre aphteuse ainsi que, en cas de foyer, les visites des exploitations pouvant être contaminées.<br/>\n<br/>   Il sera alloué aux propriétaires d'animaux abattus ou de produits détruits sur ordre de l'administration une indemnité égale à leur valeur estimée. Pour l'estimation des animaux, il est fait abstraction de l'existence de la fièvre aphteuse.<br/>\n<br/>   L'abattage des animaux, l'enfouissement et le transport des cadavres, la désinfection de l'exploitation sont à la charge de l'Etat.<br/>\n<br/>   Au cas où la vaccination d'urgence serait rendue obligatoire par application de l'article 234, dernier alinéa, du code rural, celle-ci sera à la charge de l'Etat et il sera alloué aux éleveurs une indemnité pour les pertes qui découleraient des restrictions à la commercialisation d'animaux d'élevage et d'embouche.<br/>\n<br/>   Un arrêté conjoint du ministre de l'agriculture et du ministre chargé du budget détermine les modalités de mise en oeuvre des dispositions du présent article.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 234",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°91-1318 du 27 décembre 1991 - art. 24 (Ab)",
+        "@cidtexte": "JORFTEXT000000701251",
+        "@datesignatexte": "1991-12-27",
+        "@id": "LEGIARTI000006603281",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRG9102279D",
+        "@num": "24",
+        "@numtexte": "91-1318",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2003-768 du 1 août 2003 - art. 6 (V) JORF 7 août 2003",
+        "@cidtexte": "JORFTEXT000000597743",
+        "@datesignatexte": "2003-08-01",
+        "@id": "LEGIARTI000006605928",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0300394D",
+        "@num": "6",
+        "@numtexte": "2003-768",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

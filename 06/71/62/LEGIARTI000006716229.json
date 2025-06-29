@@ -1,0 +1,81 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006716229",
+      "ANCIEN_ID": "SPIABXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/62/LEGIARTI000006716229.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1965-03-23",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 19 mars 1965 RELATIF A LA VACCINATION ANTIPOLIOMYELITIQUE OBLIGATOIRE",
+          "@c_titre_court": "Arrêté du 19 mars 1965",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000441414"
+        },
+        {
+          "#text": "Arrêté du 19 mars 1965  RELATIF A LA VACCINATION ANTIPOLIOMYELITIQUE OBLIGATOIRE.",
+          "@c_titre_court": "Arrêté du 19 mars 1965",
+          "@debut": "1965-03-23",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072761"
+        }
+      ],
+      "@cid": "JORFTEXT000000441414",
+      "@date_publi": "1965-03-23",
+      "@date_signature": "1965-03-19",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1965-03-23",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006716229",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La vaccination antipoliomyélitique est effectuée soit par injection d'un vaccin inactivé, soit par administration orale d'un vaccin atténué. Les vaccins utilisés doivent avoir reçu les autorisations légales prévues par l'article 601 du code de la santé publique.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1965-03-19 JORF 23 MARS 1965 RECTIFICATIF JORF 1ER avril 1965",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L601 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006693701",
+        "@naturetexte": "CODE",
+        "@num": "L601",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

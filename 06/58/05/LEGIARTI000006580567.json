@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580567",
+      "ANCIEN_ID": "RAA0XXXXXXX0789DAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/05/LEGIARTI000006580567.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "789-3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1980-07-05",
+        "DATE_FIN": "1993-07-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre V bis : De l'exploitation agricole dans les rapports entre époux.",
+            "@debut": "1980-07-05",
+            "@fin": "1993-07-23",
+            "@id": "LEGISCTA000006098253"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-05",
+          "@etat": "ABROGE",
+          "@fin": "1993-07-23",
+          "@id": "LEGIARTI000006580567",
+          "@num": "789-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Chaque époux a la faculté de déclarer, son conjoint présent ou dûment appelé, que celui-ci ne pourra plus se prévaloir des dispositions de l'article 789-1.<br/>\n<br/>   La déclaration prévue à l'alinéa précédent est, à peine de nullité, faite devant notaire. Elle a effet à l'égard des tiers trois mois après que mention en aura été portée en marge de l'acte de mariage des époux. En l'absence de cette mention, elle n'est opposable aux tiers que s'il est établi que ceux-ci en ont eu connaissance.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 789-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°80-502 du 4 juillet 1980 - art. 22 (Ab) JORF 5 juillet 1980",
+        "@cidtexte": "JORFTEXT000000705202",
+        "@datesignatexte": "1980-07-04",
+        "@id": "LEGIARTI000006600755",
+        "@naturetexte": "LOI",
+        "@num": "22",
+        "@numtexte": "80-502",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993",
+        "@cidtexte": "JORFTEXT000000545718",
+        "@datesignatexte": "1993-07-22",
+        "@id": "LEGIARTI000006932709",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9300027L",
+        "@num": "4",
+        "@numtexte": "93-934",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

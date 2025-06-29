@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860333",
+      "ANCIEN_ID": "UPIDBXXXXXX050AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/03/LEGIARTI000006860333.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "405",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-12-31",
+        "DATE_FIN": "2010-11-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 novembre 1972 relatif aux règles d'aménagement et d'exploitation des dépôts d'hydrocarbures liquides de 1ère et 2ème classe - Annexe.",
+          "@c_titre_court": "Arrêté du 9 novembre 1972",
+          "@debut": "1972-12-31",
+          "@fin": "2010-11-17",
+          "@id_txt": "LEGITEXT000006074405"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Installations électriques moteurs et machines fixes",
+            "@debut": "1972-12-31",
+            "@fin": "2010-11-17",
+            "@id": "LEGISCTA000006109987"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Protection contre la foudre et les courants de circulation",
+              "@debut": "1972-12-31",
+              "@fin": "2010-11-17",
+              "@id": "LEGISCTA000006129778"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074405",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1972-11-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2010-11-17",
+          "@id": "LEGIARTI000006860333",
+          "@num": "405",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Protection contre la foudre et les courants de circulation : </p>\n<p>405. 1. Dispositions générales : </p>\n<br/>\n<p>Les mesures suivantes (liaisons électriques, mises à la terre) sont prises pour minimiser les effets des courants de circulation et de la chute de la foudre sur les installations. </p>\n<br/>\n<p>Est considéré comme \" à la terre \" tout équipement dont la résistance de mise à la terre est inférieure ou égale à 20 ohms. </p>\n<br/>\n<p>Ces mises à la terre, dont il est question ci-dessous, sont faites par des prises de terre particulières ou par des liaisons aux conducteurs de terre créés en vue de la protection des travailleurs par application du décret n° 62-1454 du 14 novembre 1962. </p>\n<br/>\n<p>Une consigne précise la périodicité des vérifications des prises de terre et de la continuité des conducteurs de mise à la terre. </p>\n<br/>\n<p>405. 2. Protection contre la foudre : </p>\n<br/>\n<p>On considère que la mise à la terre d'un équipement métallique crée un cône de protection de révolution, dont le sommet est le sommet de la construction, l'axe est vertical et le rayon de base égal à deux fois la hauteur de cette structure. </p>\n<br/>\n<p>Les équipements ou les structures métalliques situés en dehors des cônes de protection définis ci-dessus doivent être mis à la terre. </p>\n<br/>\n<p>405. 3. Protection contre les courants de circulation : </p>\n<br/>\n<p>Des dispositions doivent être prises en vue de réduire les effets des courants de circulation. </p>\n<br/>\n<p>Les courants de circulation volontairement créés (protection électrique destinée à éviter la corrosion, par exemple) ne doivent pas constituer de source de danger. Des joints isolants peuvent être utilisés.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°62-1454 du 14 novembre 1962, v. init.",
+        "@cidtexte": "JORFTEXT000000852836",
+        "@datesignatexte": "1962-11-14",
+        "@id": "JORFTEXT000000852836",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1454",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 3 octobre 2010 (M)",
+        "@cidtexte": "JORFTEXT000023081678",
+        "@datesignatexte": "2010-10-03",
+        "@id": "LEGITEXT000023100734",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVP1025848A",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

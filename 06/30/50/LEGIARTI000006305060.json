@@ -1,0 +1,152 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006305060",
+      "ANCIEN_ID": "FAAACGIXXXX0456AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/30/50/LEGIARTI000006305060.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "456",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1950-04-30",
+        "DATE_FIN": "2022-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre premier : Assiette et liquidation de l'impôt",
+            "@debut": "1952-02-14",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084232"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Première Partie : Impôts d'État",
+              "@debut": "1952-02-14",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006114494"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre III : Contributions indirectes et taxes diverses",
+                "@debut": "1970-07-05",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006133849"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre premier : Boissons",
+                  "@debut": "1970-07-05",
+                  "@fin": "2025-07-01",
+                  "@id": "LEGISCTA000006147058"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section III : Circulation",
+                    "@debut": "1970-07-05",
+                    "@fin": "2025-07-01",
+                    "@id": "LEGISCTA000006162615"
+                  }
+                ],
+                "TM": {
+                  "TITRE_TM": [
+                    {
+                      "#text": "I : Dispositions communes",
+                      "@debut": "1979-07-01",
+                      "@fin": "2025-07-01",
+                      "@id": "LEGISCTA000006179697"
+                    }
+                  ],
+                  "TM": {
+                    "TITRE_TM": [
+                      {
+                        "#text": "5° : Tolérance sur déclarations - Creux de route",
+                        "@debut": "1979-07-01",
+                        "@fin": "2025-07-01",
+                        "@id": "LEGISCTA000006191714"
+                      }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-04-30",
+          "@etat": "ABROGE",
+          "@fin": "2022-01-01",
+          "@id": "LEGIARTI000006305060",
+          "@num": "456",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Une tolérance de 1 % est accordée aux expéditeurs sur leurs déclarations; mais les quantités reconnues en excédent sont prises en charge au compte du destinataire.<br/>\n<br/>   Les déductions réclamées pour coulage de route sont réglées d'après les distances parcourues, l'espèce des liquides, les moyens employés pour le transport, sa durée, la saison pendant laquelle il est effectué et les accidents légalement constatés. L'administration se conforme à cet égard aux usages du commerce.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n° 50-478 du 6 avril 1950 - art. Annexe",
+        "@cidtexte": "JORFTEXT000000496040",
+        "@datesignatexte": "1950-04-06",
+        "@id": "LEGIARTI000047498856",
+        "@naturetexte": "DECRET",
+        "@num": "Annexe",
+        "@numtexte": "50-478",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n°2021-1843 du 22 décembre 2021 - art. 10",
+        "@cidtexte": "JORFTEXT000044590225",
+        "@datesignatexte": "2021-12-22",
+        "@id": "LEGIARTI000044595100",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOE2120672R",
+        "@num": "10",
+        "@numtexte": "2021-1843",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

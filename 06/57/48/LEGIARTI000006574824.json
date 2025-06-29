@@ -1,0 +1,136 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006574824",
+      "ANCIEN_ID": "PXXXXXXXXXX0005L000AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/48/LEGIARTI000006574824.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1958-04-08",
+        "DATE_FIN": "2011-08-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de procédure pénale",
+          "@c_titre_court": "Code de procédure pénale",
+          "@debut": "1958-04-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071154"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1958-04-08",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098229"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre préliminaire : De l'action publique et de l'action civile",
+              "@debut": "1958-04-08",
+              "@fin": "2011-08-12",
+              "@id": "LEGISCTA000006121320"
+            },
+            {
+              "#text": "Titre préliminaire : Dispositions générales",
+              "@debut": "2011-08-12",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000024496932"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071154",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2011-08-12",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000024496775",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1958-04-08",
+          "@etat": "MODIFIE",
+          "@fin": "2011-08-12",
+          "@id": "LEGIARTI000006574824",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La partie qui a exercé son action devant la juridiction civile compétente ne peut la porter devant la juridiction répressive. Il n'en est autrement que si celle-ci a été saisie par le ministère public avant qu'un jugement sur le fond ait été rendu par la juridiction civile.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 57-1426 1957-12-31",
+        "@cidtexte": "JORFTEXT000000692469",
+        "@datesignatexte": "1957-12-31",
+        "@id": "JORFTEXT000000692469",
+        "@naturetexte": "LOI",
+        "@numtexte": "57-1426",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi 57-1426 1957-12-31 art. 18",
+        "@cidtexte": "JORFTEXT000000692469",
+        "@datesignatexte": "1957-12-31",
+        "@id": "JORFTEXT000000692469",
+        "@naturetexte": "LOI",
+        "@numtexte": "57-1426",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "CODE DE PROCEDURE PENALE - art. 706-1 (M)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006577516",
+        "@naturetexte": "CODE",
+        "@num": "706-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE DE PROCEDURE PENALE - art. R48-1 (M)",
+        "@cidtexte": "LEGITEXT000006071154",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006517393",
+        "@naturetexte": "CODE",
+        "@num": "R48-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

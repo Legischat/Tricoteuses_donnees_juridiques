@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006284124",
+      "ANCIEN_ID": "AREBCXXXXXX069AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/41/LEGIARTI000006284124.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "69",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1924-06-03",
+        "DATE_FIN": "1991-05-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+          "@c_titre_court": "Loi du 1 juin 1924",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869867"
+        },
+        {
+          "#text": "Loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+          "@c_titre_court": "Loi du 1er juin 1924",
+          "@debut": "1924-06-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069443"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions spéciales.",
+            "@debut": "1924-06-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006083858"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre IV : Contrat d'assurance.",
+              "@debut": "1924-06-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006114123"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000869867",
+      "@date_publi": "1924-06-03",
+      "@date_signature": "1924-06-01",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1924-06-03",
+          "@etat": "ABROGE",
+          "@fin": "1991-05-08",
+          "@id": "LEGIARTI000006284124",
+          "@num": "69",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour l'application de l'article 33, demeurent en vigueur les articles 835 à 839 du code de commerce local.<br/>\n<br/>   Pour l'application de l'article 141, 2e alinéa, demeurent en vigueur les articles 709 et 710 du code de commerce local.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de commerce local 709, 710, 835 à 839",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1908-05-30 art. 33, art. 141",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°91-412 du 6 mai 1991 - art. 3, v. init.",
+        "@cidtexte": "JORFTEXT000000720043",
+        "@datesignatexte": "1991-05-06",
+        "@id": "JORFARTI000001566022",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9110094L",
+        "@numtexte": "91-412",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

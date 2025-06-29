@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006285105",
+      "ANCIEN_ID": "ARGAAXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/51/LEGIARTI000006285105.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-04-17",
+        "DATE_FIN": "2007-03-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 9 septembre 1939 ayant pour objet de permettre en temps de guerre le mariage par procuration des militaires et marins présents sous les drapeaux.",
+          "@c_titre_court": "Décret-loi du 9 septembre 1939",
+          "@debut": "1939-09-14",
+          "@fin": "2007-03-30",
+          "@id_txt": "LEGITEXT000006069459"
+        }
+      ],
+      "@cid": "LEGITEXT000006069459",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1939-09-09",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-04-17",
+          "@etat": "ABROGE",
+          "@fin": "2007-03-30",
+          "@id": "LEGIARTI000006285105",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les mariages contractés en application des dispositions qui précèdent et célébrés postérieurement au décès du futur époux produisent néanmoins tous leurs effets au point de vue de la légitimation des enfants et du droit du conjoint, conformément aux dispositions des articles 201 et 202 du Code civil.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code civil - art. 201 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006422623",
+        "@naturetexte": "CODE",
+        "@num": "201",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code civil - art. 202 (M)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006422631",
+        "@naturetexte": "CODE",
+        "@num": "202",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1941-11-21 art. 2 JORF 21 novembre 1941",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi 45-717 1945-04-14 art. 2 JORF 17 avril 1945",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2007-465 2007-03-29 art. 13 7° JORF 30 mars 2007",
+        "@cidtexte": "JORFTEXT000000466960",
+        "@datesignatexte": "2007-03-29",
+        "@id": "JORFTEXT000000466960",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEFX0600194R",
+        "@numtexte": "2007-465",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

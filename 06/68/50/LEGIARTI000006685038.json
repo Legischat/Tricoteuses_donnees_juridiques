@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006685038",
+      "ANCIEN_ID": "SMIAKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/50/LEGIARTI000006685038.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-05-17",
+        "DATE_FIN": "2015-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 15 mars 1983 RELATIF A LA MEDAILLE DE LA FAMILLE FRANCAISE",
+          "@c_titre_court": "Arrêté du 15 mars 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000843222"
+        },
+        {
+          "#text": "Arrêté du 15 mars 1983  RELATIF A L'APPLICATION DU DECRET N° 82-938 DU 28 OCTOBRE 1982 CREANT UNE MEDAILLE DE LA FAMILLE FRANCAISE.",
+          "@c_titre_court": "Arrêté du 15 mars 1983",
+          "@debut": "1983-05-17",
+          "@fin": "2015-09-01",
+          "@id_txt": "LEGITEXT000006072654"
+        }
+      ],
+      "@cid": "JORFTEXT000000843222",
+      "@date_publi": "1983-05-17",
+      "@date_signature": "1983-03-15",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-17",
+          "@etat": "ABROGE",
+          "@fin": "2015-09-01",
+          "@id": "LEGIARTI000006685038",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les demandes ou propositions d'attribution de la médaille de la famille française doivent être déposées, contre récépissé, à la mairie du domicile du ou de la candidate. Elles sont établies sur un formulaire type dont le modèle est défini par le ministre des affaires sociales et de la solidarité nationale. </p>\n<p>Les propositions peuvent être faites par le préfet, le directeur départemental des affaires sanitaires et sociales, le maire et l'union départementale des associations familiales du département où réside l'intéressé. </p>\n<p>La personne ayant fait l'objet d'une proposition signe une déclaration d'acceptation. </p>\n<p>Les demandes ou propositions doivent être accompagnées de certificats de scolarité pour les enfants d'âge scolaire ; à titre facultatif, peuvent y être jointes des attestations émanant de personnalités ou groupements qualifiés et portant sur les mérites de la famille. </p>\n<p>Le maire vérifie l'exactitude des renseignements d'état civil fournis par le ou la postulante. </p>\n<p>Le maire transmet toutes les candidatures dont il est saisi avec son avis motivé au service départemental de la médaille visé à l'article 2 ci-après.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 82-938 1982-10-28",
+        "@cidtexte": "JORFTEXT000000701662",
+        "@datesignatexte": "1982-10-28",
+        "@id": "JORFTEXT000000701662",
+        "@naturetexte": "DECRET",
+        "@numtexte": "82-938",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "ARRÊTÉ du 24 juin 2015 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000030852334",
+        "@datesignatexte": "2015-06-24",
+        "@id": "LEGIARTI000030852971",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AFSA1424209A",
+        "@num": "11",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

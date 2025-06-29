@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006785074",
+      "ANCIEN_ID": "SSIATAXXXXX004AXXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/50/LEGIARTI000006785074.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2005-04-22",
+        "DATE_FIN": "2012-04-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 juillet 1987 FIXANT UNE ASSIETTE FORFAITAIRE POUR LES COTISATIONS DE SECURITE SOCIALE DUES POUR LES TRAVAILLEURS OCCASIONNELS ET LES DEMANDEURS D'EMPLOI",
+          "@c_titre_court": "Arrêté du 24 juillet 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000847001"
+        },
+        {
+          "#text": "Arrêté du 24 juillet 1987 fixant une assiette forfaitaire pour les cotisations de sécurité sociale dues pour les travailleurs occasionnels et les demandeurs d'emploi",
+          "@c_titre_court": "Arrêté du 24 juillet 1987",
+          "@debut": "1987-08-01",
+          "@fin": "2012-04-08",
+          "@id_txt": "LEGITEXT000006057609"
+        }
+      ],
+      "@cid": "JORFTEXT000000847001",
+      "@date_publi": "1987-08-01",
+      "@date_signature": "1987-07-24",
+      "@nature": "ARRETE",
+      "@nor": "AGRS8701396A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-08-01",
+          "@etat": "MODIFIE",
+          "@fin": "1994-06-24",
+          "@id": "LEGIARTI000006785072",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-06-24",
+          "@etat": "MODIFIE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006785073",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2005-04-22",
+          "@etat": "ABROGE",
+          "@fin": "2012-04-08",
+          "@id": "LEGIARTI000006785074",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les taux applicables à l'assiette définie à l'article 3 sont :</p>\n<p>-pour les cotisations d'assurances sociales agricoles, ceux qui sont fixés par les articles D. 741-35 et D. 741-64 du code rural ;</p>\n<p>-pour pour les cotisations complémentaires affectées à la couverture des charges de gestion, de contrôle médical et d'action sanitaire et sociale, ceux fixés chaque année par le préfet, sur proposition du comité départemental des prestations sociales agricoles ;</p>\n<p>-pour les cotisations d'accidents du travail, ceux fixés en application de l'article D. 751-74 du code rural.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1987-07-24 art. 3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2005-368 du 19 avril 2005 - art. 2 (V) JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "LEGIARTI000006240371",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@num": "2",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 27 mars 2012 - art. 2",
+        "@cidtexte": "JORFTEXT000025641208",
+        "@datesignatexte": "2012-03-27",
+        "@id": "LEGIARTI000025642279",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRS1209096A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

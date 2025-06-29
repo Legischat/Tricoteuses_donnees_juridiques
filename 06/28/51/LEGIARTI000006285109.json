@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006285109",
+      "ANCIEN_ID": "ARHAAXXXXXX024AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/51/LEGIARTI000006285109.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "24",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1967-03-05",
+        "DATE_FIN": "2007-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-167 du 1 mars 1967 RELATIF A LA SAISIE IMMOBILIERE ET A L'ORDRE",
+          "@c_titre_court": "Décret n°67-167 du 1 mars 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000510431"
+        },
+        {
+          "#text": "Décret n°67-167 du 1 mars 1967 relatif à la saisie immobilière et à l'ordre",
+          "@c_titre_court": "Décret n°67-167 du 1 mars 1967",
+          "@debut": "1967-03-05",
+          "@fin": "2007-01-01",
+          "@id_txt": "LEGITEXT000006061417"
+        }
+      ],
+      "@cid": "JORFTEXT000000510431",
+      "@date_publi": "1967-03-05",
+      "@date_signature": "1967-03-01",
+      "@nature": "DECRET",
+      "@num": "67-167"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-03-05",
+          "@etat": "ABROGE",
+          "@fin": "2007-01-01",
+          "@id": "LEGIARTI000006285109",
+          "@num": "24",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le présent décret ne pourra être modifié que par décret en Conseil d'Etat.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°67-167 du 1 mars 1967 - art. 25 (Ab)",
+        "@cidtexte": "JORFTEXT000000510431",
+        "@datesignatexte": "1967-03-01",
+        "@id": "LEGIARTI000006285110",
+        "@naturetexte": "DECRET",
+        "@num": "25",
+        "@numtexte": "67-167",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 2006-936 2006-07-27 art. 166 3° JORF 29 juillet 2006 en vigueur le 1er janvier 2007",
+        "@cidtexte": "JORFTEXT000000607545",
+        "@datesignatexte": "2006-07-27",
+        "@id": "JORFTEXT000000607545",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC0620461D",
+        "@numtexte": "2006-936",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

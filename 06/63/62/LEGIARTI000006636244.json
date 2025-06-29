@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006636244",
+      "ANCIEN_ID": "RJHCAXXXXXX009AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/62/LEGIARTI000006636244.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2007-01-01",
+        "DATE_FIN": "2008-10-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 27 mai 1998 relatif à l'appellation d'origine contrôlée « Dinde de Bresse »",
+          "@c_titre_court": "Décret du 27 mai 1998",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000389342"
+        },
+        {
+          "#text": "Décret du 27 mai 1998 relatif à l'appellation d'origine contrôlée \"Dinde de Bresse\"",
+          "@c_titre_court": "Décret du 27 mai 1998",
+          "@debut": "1998-05-29",
+          "@fin": "2008-10-20",
+          "@id_txt": "LEGITEXT000005625856"
+        }
+      ],
+      "@cid": "JORFTEXT000000389342",
+      "@date_publi": "1998-05-29",
+      "@date_signature": "1998-05-27",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "DECRET",
+      "@nor": "ECOC9700228D"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1998-05-29",
+          "@etat": "MODIFIE",
+          "@fin": "2007-01-01",
+          "@id": "LEGIARTI000006636243",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2007-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2008-10-20",
+          "@id": "LEGIARTI000006636244",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Un règlement technique de l'appellation d'origine contrôlée \"Dinde de Bresse\" décrit les modalités de détail relatives aux différentes obligations prévues au présent décret.<br/>\n<br/>   Ce règlement technique est homologué par arrêté des ministres chargés respectivement de la consommation et de l'agriculture, sur proposition du comité national des produits agroalimentaires de l'Institut national de l'origine et de la qualité.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 2006-11 2006-01-05 art. 73 IV, VI JORF 6 janvier 2006 en vigueur au plus tard le 1er janvier 2007",
+        "@cidtexte": "JORFTEXT000000264992",
+        "@datesignatexte": "2006-01-05",
+        "@id": "JORFTEXT000000264992",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX0500091L",
+        "@numtexte": "2006-11",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret n°2008-1068\n du 17 octobre 2008 - art. 3",
+        "@cidtexte": "JORFTEXT000019656979",
+        "@datesignatexte": "2008-10-17",
+        "@id": "LEGIARTI000019658255",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRP0819005D",
+        "@num": "3",
+        "@numtexte": "2008-1068",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

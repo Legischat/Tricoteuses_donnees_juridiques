@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006381110",
+      "ANCIEN_ID": "MSIDAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/38/11/LEGIARTI000006381110.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-05-01",
+        "DATE_FIN": "1980-05-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 mai 1979 fixant le taux des indemnités forfaitaires de changement de résidence prévues par les articles 21 et 22 du décret n° 66-619 du 10 août 1966 modifié.",
+          "@c_titre_court": "Arrêté du 16 mai 1979",
+          "@debut": "1979-05-01",
+          "@fin": "1980-05-01",
+          "@id_txt": "LEGITEXT000006070416"
+        }
+      ],
+      "@cid": "LEGITEXT000006070416",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1979-05-16",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-05-01",
+          "@etat": "ABROGE",
+          "@fin": "1980-05-01",
+          "@id": "LEGIARTI000006381110",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant de l'indemnité forfaitaire prévue à l'article 21 du décret susvisé du 10 août 1966, modifié par celui du 3 mai 1968, est déterminé à l'aide de la formule suivante :<br/>\n<br/>                     I = 834 + (1,86 x DP)    Dans laquelle :<br/>\n<br/>   I est le montant de l'indemnité forfaitaire exprimé en francs ;<br/>\n<br/>   D est la distance kilométrique mesurée d'après l'itinéraire le plus court par la route ou la distance orthodromique exprimée en kilomètres entre l'ancienne et la nouvelle résidence :<br/>\n<br/>   P le poids des bagages à transporter, fixé forfaitairement ainsi qu'il suit, en tonnes :<br/>\n ----------------------------------------------------------------- :           :              :     POUR      :     PAR ENFANT     :<br/>\n<br/>\n<table>\n<tr>\n<td> :  GROUPES  : POUR L'AGENT :  LE CONJOINT  :         ou         :</td>\n</tr>\n<tr>\n<td> :           :              :               : ascendant à charge :</td>\n</tr>\n<tr>\n<td> :-----------:--------------:---------------:--------------------:</td>\n</tr>\n<tr>\n<td> :           :              :               :                    :</td>\n</tr>\n<tr>\n<td> : I         :    0,600     :     0,400     :        0,200       :</td>\n</tr>\n<tr>\n<td> : II et III :    0,500     :     0,350     :        0,200       :</td>\n</tr>\n<tr>\n<td> :           :              :               :                    :</td>\n</tr>\n</table>\n<br/>\n -----------------------------------------------------------------"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 66-619 1966-08-10 ART. 21 et ART. 22",
+        "@cidtexte": "JORFTEXT000000876794",
+        "@datesignatexte": "1966-08-10",
+        "@id": "JORFTEXT000000876794",
+        "@naturetexte": "DECRET",
+        "@numtexte": "66-619",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°66-619 du 10 août 1966 - art. 21 (Ab)",
+        "@cidtexte": "JORFTEXT000000876794",
+        "@datesignatexte": "1966-08-10",
+        "@id": "LEGIARTI000006503043",
+        "@naturetexte": "DECRET",
+        "@num": "21",
+        "@numtexte": "66-619",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 68-451 1968-05-03",
+        "@cidtexte": "JORFTEXT000000702938",
+        "@datesignatexte": "1968-05-03",
+        "@id": "JORFTEXT000000702938",
+        "@naturetexte": "DECRET",
+        "@numtexte": "68-451",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006657664",
+      "ANCIEN_ID": "SEECMXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/76/LEGIARTI000006657664.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1979-01-04",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°79-11 du 3 janvier 1979 RELATIVE AU CONTRAT DE TRAVAIL A DUREE DETERMINEE",
+          "@c_titre_court": "Loi n°79-11 du 3 janvier 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339243"
+        },
+        {
+          "#text": "Loi n° 79-11 du 3 janvier 1979 RELATIVE AU CONTRAT DE TRAVAIL A DUREE DETERMINEE.",
+          "@c_titre_court": "Loi n° 79-11 du 3 janvier 1979",
+          "@debut": "1979-01-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068648"
+        }
+      ],
+      "@cid": "JORFTEXT000000339243",
+      "@date_publi": "1979-01-04",
+      "@date_signature": "1979-01-03",
+      "@nature": "LOI",
+      "@num": "79-11"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-01-04",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006657664",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les salariés involontairement privés d'emploi, qui bénéficient d'un revenu de remplacement et qui sont engagés par contrat à durée déterminée, retrouvent, à l'expiration du contrat, l'intégralité des droits auxquels ils auraient pu prétendre, sans préjudice des droits nouveaux que le contrat leur a fait acquérir.<br/>\n<br/>   Les dispositions des articles L. 122-1 et L. 122-3 du code du travail ne peuvent avoir pour effet de supprimer ou de réduire les avantages conventionnels, en particulier en matière d'aide aux travailleurs involontairement privés d'emploi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 79-11 1979-01-03 ART. 9 : DATE D'APPLICATION",
+        "@cidtexte": "JORFTEXT000000339243",
+        "@datesignatexte": "1979-01-03",
+        "@id": "JORFTEXT000000339243",
+        "@naturetexte": "LOI",
+        "@numtexte": "79-11",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code du travail - art. L122-1 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646685",
+        "@naturetexte": "CODE",
+        "@num": "L122-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail - art. L122-3 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646701",
+        "@naturetexte": "CODE",
+        "@num": "L122-3",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

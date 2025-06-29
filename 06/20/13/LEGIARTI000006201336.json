@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006201336",
+      "ANCIEN_ID": "AKHFTXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/20/13/LEGIARTI000006201336.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1978-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°77-1480 du 28 décembre 1977 SOCIETE CIVILE PROFESSIONNELLE DES ARCHITECTES",
+          "@c_titre_court": "Décret n°77-1480 du 28 décembre 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000331123"
+        },
+        {
+          "#text": "Décret n°77-1480 du 28 décembre 1977 pris pour l'application à la profession d'architecte de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles",
+          "@c_titre_court": "Décret n°77-1480 du 28 décembre 1977",
+          "@debut": "1978-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062620"
+        }
+      ],
+      "@cid": "JORFTEXT000000331123",
+      "@date_publi": "1978-01-01",
+      "@date_signature": "1977-12-28",
+      "@nature": "DECRET",
+      "@num": "77-1480"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006201336",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       La loi du 29 novembre 1966 relative aux sociétés civiles professionnelles est applicable à la profession d'architecte dans les conditions prévues au présent décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-879 1966-11-29",
+        "@cidtexte": "JORFTEXT000000692471",
+        "@datesignatexte": "1966-11-29",
+        "@id": "JORFTEXT000000692471",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-879",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 66-879 1966-11-29",
+        "@cidtexte": "JORFTEXT000000692471",
+        "@datesignatexte": "1966-11-29",
+        "@id": "JORFTEXT000000692471",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-879",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

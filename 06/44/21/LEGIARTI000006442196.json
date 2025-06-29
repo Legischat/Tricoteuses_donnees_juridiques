@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006442196",
+      "ANCIEN_ID": "PEHMAXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/44/21/LEGIARTI000006442196.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-08-07",
+        "DATE_FIN": "2004-07-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 95-591 du 6 mai 1995 relatif à l'Observatoire national de la    sécurité des établissements scolaires",
+          "@c_titre_court": "Décret n°95-591 du 6 mai 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000736105"
+        },
+        {
+          "#text": "Décret n°95-591 du 6 mai 1995 relatif à l'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur",
+          "@c_titre_court": "Décret n°95-591 du 6 mai 1995",
+          "@debut": "1995-05-07",
+          "@fin": "2004-07-17",
+          "@id_txt": "LEGITEXT000005618631"
+        }
+      ],
+      "@cid": "JORFTEXT000000736105",
+      "@date_publi": "1995-05-07",
+      "@date_signature": "1995-05-06",
+      "@ministere": "MINISTERE DE L'EDUCATION NATIONALE",
+      "@nature": "DECRET",
+      "@nor": "MENA9500440D",
+      "@num": "95-591"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-05-07",
+          "@etat": "MODIFIE",
+          "@fin": "1996-08-07",
+          "@id": "LEGIARTI000006442195",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-08-07",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-17",
+          "@id": "LEGIARTI000006442196",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est créé, auprès du ministre chargé de l'éducation nationale et de l'enseignement supérieur, un Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 2004-703 2004-07-13 art. 6 JORF 17 juillet 2004",
+        "@cidtexte": "JORFTEXT000000250594",
+        "@datesignatexte": "2004-07-13",
+        "@id": "JORFTEXT000000250594",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENG0401424D",
+        "@numtexte": "2004-703",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. D239-11 (T)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006526261",
+        "@naturetexte": "CODE",
+        "@num": "D239-11",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'éducation - art. D239-11 (T)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006526261",
+        "@naturetexte": "CODE",
+        "@num": "D239-11",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 96-690 1996-08-07 art. 1 art. 2 JORF 7 août 1996",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

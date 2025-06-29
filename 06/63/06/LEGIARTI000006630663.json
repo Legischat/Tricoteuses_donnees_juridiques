@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006630663",
+      "ANCIEN_ID": "ADISTXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/06/LEGIARTI000006630663.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-09-29",
+        "DATE_FIN": "1988-02-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 septembre 1984 relatif au registre du commerce et des sociétés",
+          "@c_titre_court": "Arrêté du 24 septembre 1984",
+          "@debut": "1984-09-29",
+          "@fin": "1988-02-12",
+          "@id_txt": "LEGITEXT000006071833"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Les déclarations au registre.",
+            "@debut": "1984-09-29",
+            "@fin": "1988-02-12",
+            "@id": "LEGISCTA000006100159"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071833",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-09-24",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-09-29",
+          "@etat": "ABROGE",
+          "@fin": "1988-02-12",
+          "@id": "LEGIARTI000006630663",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute demande d'immatriculation à titre principal ou secondaire au registre du commerce et des sociétés, d'inscription complémentaire, modificative ou de radiation est établie dans les conditions déterminées aux articles 26 et 27 du décret précité sur les formules prévues à l'article 11 ci-dessous.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1984-09-24 art. 11",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1988-02-09 art. 37 JORF 12 février 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 84-406 1984-05-30",
+        "@cidtexte": "JORFTEXT000000882403",
+        "@datesignatexte": "1984-05-30",
+        "@id": "JORFTEXT000000882403",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-406",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 84-406 1984-05-30 art. 26 et art. 27",
+        "@cidtexte": "JORFTEXT000000882403",
+        "@datesignatexte": "1984-05-30",
+        "@id": "JORFTEXT000000882403",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-406",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

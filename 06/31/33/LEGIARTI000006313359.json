@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006313359",
+      "ANCIEN_ID": "FAAACGIXXXX1965AGXXXXXBA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/33/LEGIARTI000006313359.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1965 FA",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1980-12-31",
+        "DATE_FIN": "1986-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "RECOUVREMENT DE L'IMPOT",
+            "@debut": "1972-08-30",
+            "@fin": "2006-01-01",
+            "@id": "LEGISCTA000006084262"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "DEGREVEMENTS ET RESTITUTIONS D'IMPOTS",
+              "@debut": "1979-07-01",
+              "@fin": "1986-12-31",
+              "@id": "LEGISCTA000006114513"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-12-31",
+          "@etat": "MODIFIE",
+          "@fin": "1986-12-31",
+          "@id": "LEGIARTI000006313359",
+          "@num": "1965 FA",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006313360",
+          "@num": "1965 FA",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsqu'une personne a indûment acquitté des droits indirects régis par le présent code, elle ne peut en obtenir le remboursement, sauf en cas d'erreur matérielle, que si elle justifie que ces droits n'ont pas été répercutés sur l'acheteur.<br/>\n<br/>   Cette disposition est applicable aux réclamations présentées dans les conditions prévues à l'article R190-1 du livre des procédures fiscales, même avant le 1er janvier 1981.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI R190-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°80-1094 du 30 décembre 1980 - art. 13 (P) JORF 31 DECEMBRE 1980",
+        "@cidtexte": "JORFTEXT000000339460",
+        "@datesignatexte": "1980-12-30",
+        "@id": "LEGIARTI000006273367",
+        "@naturetexte": "LOI",
+        "@num": "13",
+        "@numtexte": "80-1094",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 81-866 1981-09-15",
+        "@cidtexte": "JORFTEXT000000701296",
+        "@datesignatexte": "1981-09-15",
+        "@id": "JORFTEXT000000701296",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-866",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

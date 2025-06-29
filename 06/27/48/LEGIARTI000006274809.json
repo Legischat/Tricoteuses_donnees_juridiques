@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006274809",
+      "ANCIEN_ID": "FAEDLXXXXXX041AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/48/LEGIARTI000006274809.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "41",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1987-01-01",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°86-1317 du 30 décembre 1986 DE FINANCES POUR 1987",
+          "@c_titre_court": "Loi n°86-1317 du 30 décembre 1986",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317305"
+        },
+        {
+          "#text": "Loi n° 86-1317 du 30 décembre 1986 de finances pour 1987",
+          "@c_titre_court": "Loi n° 86-1317 du 30 décembre 1986",
+          "@debut": "1987-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068953"
+        }
+      ],
+      "@cid": "JORFTEXT000000317305",
+      "@date_publi": "1986-12-31",
+      "@date_signature": "1986-12-30",
+      "@nature": "LOI",
+      "@num": "86-1317"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-01",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006274809",
+          "@num": "41",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001331915",
+          "@num": "41",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er janvier 1987 et jusqu'au 31 décembre 1988, une taxe de sûreté est due par les entreprises de transport public aérien. Elle est ajoutée aux prix demandés aux passagers. Elle est assise sur le nombre de passagers embarquant en France sur un vol commercial selon les tarifs suivants :<br/>\n<br/>   5 F par passager embarqué à destination de l'étranger ;<br/>\n<br/>   3 F par passager embarqué vers d'autres destinations.<br/>\n<br/>   La taxe est constatée et recouvrée comme en matière de taxe sur la valeur ajoutée avec les sûretés, garanties, privilèges et sanctions applicables à cette taxe. Les réclamations sont présentées, instruites et jugées comme pour cet impôt.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 86-1317 1986-12-30 Finances pour 1987 JORF 31 décembre 1986 en vigueur le 1er janvier 1987",
+        "@cidtexte": "JORFTEXT000000317305",
+        "@datesignatexte": "1986-12-30",
+        "@id": "JORFTEXT000000317305",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-1317",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 302 bis K (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006309682",
+        "@naturetexte": "CODE",
+        "@num": "302 bis K",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

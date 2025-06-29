@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273179",
+      "ANCIEN_ID": "FAEBAXXXXXX088AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/31/LEGIARTI000006273179.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "88",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1978-12-30",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°78-1239 du 29 décembre 1978 DE FINANCES POUR 1979",
+          "@c_titre_court": "Loi n°78-1239 du 29 décembre 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886458"
+        },
+        {
+          "#text": "Loi n° 78-1239 du 29 décembre 1978 DE FINANCES POUR 1979 (1)",
+          "@c_titre_court": "Loi n° 78-1239 du 29 décembre 1978",
+          "@debut": "1978-12-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068621"
+        }
+      ],
+      "@cid": "JORFTEXT000000886458",
+      "@date_publi": "1978-12-30",
+      "@date_signature": "1978-12-29",
+      "@nature": "LOI",
+      "@num": "78-1239"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-12-30",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006273179",
+          "@num": "88",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001117319",
+          "@num": "88",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le régime du contingentement des rhums défini à l'article 388 du code général des impôts est reconduit jusqu'au 31 décembre 1984 ou jusqu'à la date d'application du règlement communautaire relatif au marché des alcools si cette date est antérieure au 1er janvier 1985.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 388",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 78-1239 1978-12-29 Finances pour 1979 JORF 30 DECEMBRE 1978",
+        "@cidtexte": "JORFTEXT000000886458",
+        "@datesignatexte": "1978-12-29",
+        "@id": "JORFTEXT000000886458",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-1239",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

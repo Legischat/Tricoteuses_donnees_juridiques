@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006508272",
+      "ANCIEN_ID": "ADEBMXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/50/82/LEGIARTI000006508272.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1953-11-06",
+        "DATE_FIN": "1989-06-29",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°53-1090 du 5 novembre 1953 INTERDISANT LES PROCEDES DE VENTES \"A LA BOULE DE NEIGE\" CONSISTANT A OFFRIR DES MARCHANDISES AU PUBLIC EN LUI FAISANT ESPERER L'OBTENTION DE CES MARCHANDISES A TITRE GRATUIT OU CONTRE REMISE D'UNE SOMME INFERIEURE A LEUR VALEUR REELLE",
+          "@c_titre_court": "Loi n°53-1090 du 5 novembre 1953",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000508757"
+        },
+        {
+          "#text": "Loi n°53-1090 du 5 novembre 1953 interdisant les procédés de vente dits \"à la boule de neige\"",
+          "@c_titre_court": "Loi n°53-1090 du 5 novembre 1953",
+          "@debut": "1953-11-06",
+          "@fin": "1993-07-27",
+          "@id_txt": "LEGITEXT000006068114"
+        }
+      ],
+      "@cid": "JORFTEXT000000508757",
+      "@date_publi": "1953-11-06",
+      "@date_signature": "1953-11-05",
+      "@nature": "LOI",
+      "@num": "53-1090"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1953-11-06",
+          "@etat": "MODIFIE",
+          "@fin": "1989-06-29",
+          "@id": "LEGIARTI000006508272",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-06-29",
+          "@etat": "ABROGE",
+          "@fin": "1993-07-27",
+          "@id": "LEGIARTI000006508273",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont interdites les ventes, pratiquées par le procédé dit \"de la boule de neige\" ou tous autres procédés analogues consistant en particulier à offrir des marchandises au public en lui faisant espérer l'obtention de ces marchandises, à titre gratuit ou contre remise d'une somme inférieure à leur valeur réelle et en subordonnant les ventes au placement de bons ou de tickets à des tiers ou à la collecte d'adhésions ou inscriptions.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°53-1090 du 5 novembre 1953 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000508757",
+        "@datesignatexte": "1953-11-05",
+        "@id": "LEGIARTI000006508294",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "53-1090",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la consommation - art. L122-6 (M)",
+        "@cidtexte": "LEGITEXT000006069565",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006292165",
+        "@naturetexte": "CODE",
+        "@num": "L122-6",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

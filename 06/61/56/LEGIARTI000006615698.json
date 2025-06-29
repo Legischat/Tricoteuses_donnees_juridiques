@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006615698",
+      "ANCIEN_ID": "ADIIXXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/56/LEGIARTI000006615698.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-04-01",
+        "DATE_FIN": "1984-05-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 31 mars 1983 relatif aux prix de vente au détail des poissons frais de mer et d'eau douce",
+          "@c_titre_court": "Arrêté du 31 mars 1983",
+          "@debut": "1983-04-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071577"
+        }
+      ],
+      "@cid": "LEGITEXT000006071577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-03-31",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-04-01",
+          "@etat": "ABROGE",
+          "@fin": "1984-05-24",
+          "@id": "LEGIARTI000006615698",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A titre de mesure accessoire, les détaillants sont tenus aux obligations suivantes :<br/>\n<br/>   Offrir chaque jour de vente à la clientèle trois articles promotionnels pris dans la liste des espèces visées à l'article 1er et dont les prix limites de vente, toutes taxes comprises, sont obtenus par application aux prix d'achat déterminés comme à l'article 2, d'un coefficient multiplicateur de 1,35.<br/>\n<br/>   Apposer dans le lieu de vente, de manière visible et lisible, la liste et le prix de vente de ces trois articles promotionnels ;<br/>\n<br/>   Pour les achats qu'ils effectuent en criée ou auprès des producteurs, inscrire ces achats au jour le jour sur un registre à feuilles mobiles en précisant la date de l'achat, le nom et l'adresse du vendeur, la dénomination du produit, la qualité, le poids, le prix au kilogramme hors taxe sur la valeur ajoutée et le montant total de la facture. Les frais de criée acquittés éventuellement par le détaillant peuvent être ajoutés au prix d'achat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 22/A 1983-03-31 BOCC n° 6, 1er avril 1983",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Arrêté 22/A 1983-03-31 art. 1, art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 51/A 1984-05-23 art. 8 BOCC n° 9, 24 mai 1984",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

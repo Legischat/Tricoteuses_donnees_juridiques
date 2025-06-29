@@ -1,0 +1,135 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006580989",
+      "ANCIEN_ID": "RAA0XXXXXXX1111AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/09/LEGIARTI000006580989.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1111",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1981-05-15",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre VII : Dispositions sociales",
+            "@debut": "1955-04-19",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006098255"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre II : Mutualité sociale agricole",
+              "@debut": "1955-04-19",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006121386"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Chapitre IV : Assurance vieillesse des personnes non salariées",
+                "@debut": "1955-04-19",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006138276"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Section 1 : Prestations",
+                  "@debut": "1955-04-19",
+                  "@fin": "2006-01-01",
+                  "@id": "LEGISCTA000006152113"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Paragraphe 1 : Allocation de vieillesse.",
+                    "@debut": "1955-04-19",
+                    "@fin": "2006-01-01",
+                    "@id": "LEGISCTA000006167568"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1981-05-15",
+          "@etat": "MODIFIE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006580989",
+          "@num": "1111",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-06-22",
+          "@etat": "ABROGE",
+          "@fin": "2006-01-01",
+          "@id": "LEGIARTI000006580990",
+          "@num": "1111",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'allocation n'est due aux requérants continuant leur exploitation que si le revenu cadastral servant de base au calcul des allocations familiales des terres qu'ils exploitent ne dépasse pas 3 932 F ou 5 898 F s'il s'agit d'une veuve exploitant avec le concours, au maximum, d'un salarié.<br/>\n<br/>   Pour l'application des chiffres ci-dessus en cas de métayage, le revenu cadastral est réparti entre le bailleur et le preneur selon la proportion retenue pour le partage des fruits.<br/>\n<br/>   Dans le cas où le requérant dispose d'une entreprise qui, en raison de sa nature, ne peut donner lieu à la détermination d'un revenu cadastral, l'équivalence du revenu cadastral visé à l'article 1110 et au premier alinéa du présent article est celle adoptée en matière de prestations familiales agricoles.<br/>\n<br/>   Des décrets pris sur le rapport du ministre de l'agriculture et du ministre des finances peuvent élever les chiffres limites fixés au premier alinéa du présent article.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1110",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      }
+    ]
+  }
+}

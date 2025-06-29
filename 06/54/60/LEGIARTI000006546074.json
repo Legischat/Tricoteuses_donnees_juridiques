@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006546074",
+      "ANCIEN_ID": "PQIPZXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/54/60/LEGIARTI000006546074.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-11-30",
+        "DATE_FIN": "2012-02-19",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 25 octobre 1993 RELATIF AU RECENSEMENT DES MATERIELS DE GENIE CIVIL DES ENTREPRISES DE LOCATION",
+          "@c_titre_court": "Arrêté du 25 octobre 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000661373"
+        },
+        {
+          "#text": "Arrêté du 25 octobre 1993 relatif au recensement des matériels de génie civil des entreprises de location",
+          "@c_titre_court": "Arrêté du 25 octobre 1993",
+          "@debut": "1993-11-30",
+          "@fin": "2012-02-19",
+          "@id_txt": "LEGITEXT000006060276"
+        }
+      ],
+      "@cid": "JORFTEXT000000661373",
+      "@date_publi": "1993-11-30",
+      "@date_signature": "1993-10-25",
+      "@nature": "ARRETE",
+      "@nor": "EQUE9301602A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-11-30",
+          "@etat": "ABROGE",
+          "@fin": "2012-02-19",
+          "@id": "LEGIARTI000006546074",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 20 mars 1985 relatif au recensement des matériels de travaux publics des entreprises de location est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1985-03-20",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 3 février 2012 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000025376449",
+        "@datesignatexte": "2012-02-03",
+        "@id": "LEGIARTI000025377459",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVK1133504A",
+        "@num": "1",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

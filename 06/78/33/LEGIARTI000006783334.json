@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006783334",
+      "ANCIEN_ID": "SSIAHUXXXXX014AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/33/LEGIARTI000006783334.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1985-01-01",
+        "DATE_FIN": "1991-12-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 décembre 1984 fixant les tarifs des cotisations d'accidents du travail des activités professionnelles relevant du régime général de la sécurité sociale.",
+          "@c_titre_court": "Arrêté du 28 décembre 1984",
+          "@debut": "1985-01-01",
+          "@fin": "1996-01-01",
+          "@id_txt": "LEGITEXT000006073685"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE II : DISPOSITIONS PARTICULIERES AUX INDUSTRIES DU BATIMENT ET DES TRAVAUX PUBLICS.",
+            "@debut": "1985-01-01",
+            "@fin": "1996-01-01",
+            "@id": "LEGISCTA000006107755"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006073685",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1984-12-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1991-12-28",
+          "@id": "LEGIARTI000006783334",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-12-28",
+          "@etat": "ABROGE",
+          "@fin": "1996-01-01",
+          "@id": "LEGIARTI000006783335",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La cotisation due au titre des accidents du travail et des maladies professionnelles visée à l'article 2 de l'arrêté du 1er octobre 1976 est fixée, pour les industries du bâtiment et des travaux publics, d'après le tarif annexé au présent arrêté [*annexes non reproduites*] pour tous les établissements d'une même entreprise lorsque l'effectif global habituel de ladite entreprise est inférieur à cinquante salariés.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1976-10-01",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Arrêté 1976-10-01 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1984-12-28 art. 9",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

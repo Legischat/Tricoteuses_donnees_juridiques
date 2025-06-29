@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006871128",
+      "ANCIEN_ID": "UQIADXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/11/LEGIARTI000006871128.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-04-18",
+        "DATE_FIN": "1990-06-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 4 mars 1987 RELATIF AU MONTANT DES REDEVANCES CYNEGETIQUES ET DES LICENCES DE CHASSE",
+          "@c_titre_court": "Arrêté du 4 mars 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000873707"
+        },
+        {
+          "#text": "Arrêté du 4 mars 1987 relatif au montant des redevances cynégétiques et des licences de chasse",
+          "@c_titre_court": "Arrêté du 4 mars 1987",
+          "@debut": "1987-04-18",
+          "@fin": "1990-06-30",
+          "@id_txt": "LEGITEXT000006057422"
+        }
+      ],
+      "@cid": "JORFTEXT000000873707",
+      "@date_publi": "1987-04-18",
+      "@date_signature": "1987-03-04",
+      "@nature": "ARRETE",
+      "@nor": "ENVN8700058A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1987-04-18",
+          "@etat": "ABROGE",
+          "@fin": "1990-06-30",
+          "@id": "LEGIARTI000006871128",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant de la somme perçue à l'occasion de la délivrance aux étrangers non résidents des licences de chasse est fixé à 173 F.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1990-06-29 art. 2 JORF 30 juin 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 84-532 1984-06-28",
+        "@cidtexte": "JORFTEXT000000520710",
+        "@datesignatexte": "1984-06-28",
+        "@id": "JORFTEXT000000520710",
+        "@naturetexte": "DECRET",
+        "@numtexte": "84-532",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

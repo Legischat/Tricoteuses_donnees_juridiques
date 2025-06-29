@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006586640",
+      "ANCIEN_ID": "ADHTSXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/58/66/LEGIARTI000006586640.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-11-22",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°77-1273 du 17 novembre 1977 PORTANT APPLICATION DE LA LOI 76616 DU 9 JUILLET 1976 RELATIVE A LA LUTTE CONTRE LE TABAGISME",
+          "@c_titre_court": "Décret n°77-1273 du 17 novembre 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000518942"
+        },
+        {
+          "#text": "Décret n°77-1273 du 17 novembre 1977 portant application de la loi n° 76-616 du 9 juillet 1976 relative à la lutte contre le tabagisme",
+          "@c_titre_court": "Décret n°77-1273 du 17 novembre 1977",
+          "@debut": "1977-11-22",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006062591"
+        }
+      ],
+      "@cid": "JORFTEXT000000518942",
+      "@date_publi": "1977-11-22",
+      "@date_signature": "1977-11-17",
+      "@nature": "DECRET",
+      "@num": "77-1273"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-11-22",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006586640",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Si, en cours d'année, dans l'une ou l'autre des trois catégories, la limite globale définie à l'article 2 est atteinte, cet état de fait est constaté par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre chargé de la santé. Cet arrêté est publié au Journal officiel de la République française.<br/>\n<br/>   Pour l'application des dispositions qui précèdent, la période de référence est l'année civile.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 76-616 1976-07-09",
+        "@cidtexte": "JORFTEXT000000334398",
+        "@datesignatexte": "1976-07-09",
+        "@id": "JORFTEXT000000334398",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-616",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°77-1273 du 17 novembre 1977 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000518942",
+        "@datesignatexte": "1977-11-17",
+        "@id": "LEGIARTI000006586639",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "77-1273",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 6 21° JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

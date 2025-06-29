@@ -1,0 +1,153 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006496737",
+      "ANCIEN_ID": "PJHCQXXXXXX047EAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/67/LEGIARTI000006496737.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "47-4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2002-12-01",
+        "DATE_FIN": "2010-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 92-755 du 31 juillet 1992 Instituant de nouvelles règles relatives aux procédures civiles d'exécution pour l'application de la loi 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution",
+          "@c_titre_court": "Décret n°92-755 du 31 juillet 1992",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000541408"
+        },
+        {
+          "#text": "Décret n°92-755 du 31 juillet 1992 instituant de nouvelles règles relatives aux procédures civiles d'exécution pour l'application de la loi n° 91-650 du 9 juillet 1991 portant réforme des procédures civiles d'exécution",
+          "@c_titre_court": "Décret n°92-755 du 31 juillet 1992",
+          "@debut": "1992-08-05",
+          "@fin": "2012-06-01",
+          "@id_txt": "LEGITEXT000006079611"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : Dispositions générales",
+            "@debut": "1992-08-05",
+            "@fin": "2012-06-01",
+            "@id": "LEGISCTA000006094304"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CHAPITRE Ier : Les biens saisissables.",
+              "@debut": "1992-08-05",
+              "@fin": "2012-06-01",
+              "@id": "LEGISCTA000006119622"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section II : Sommes versées à un compte",
+                "@debut": "1992-08-05",
+                "@fin": "2012-06-01",
+                "@id": "LEGISCTA000006137016"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Sous-section 1 : Sommes provenant de créances insaisissables.",
+                  "@debut": "1992-08-05",
+                  "@fin": "2012-06-01",
+                  "@id": "LEGISCTA000006150883"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000541408",
+      "@date_publi": "1992-08-05",
+      "@date_signature": "1992-07-31",
+      "@ministere": "MINISTERE DES AFFAIRES ETRANGERES",
+      "@nature": "DECRET",
+      "@nor": "JUSC9220234D",
+      "@num": "92-755"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2002-12-01",
+          "@etat": "MODIFIE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006496737",
+          "@num": "47-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2010-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2012-06-01",
+          "@id": "LEGIARTI000021631149",
+          "@num": "47-4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sans préjudice des sanctions pénales éventuellement encourues, le titulaire du compte qui se ferait remettre, dans le mois suivant la saisie, un montant supérieur à celui qui peut être mis à sa disposition en application des articles qui précèdent peut être condamné, à la demande du créancier, à restituer les sommes indûment perçues et à des dommages et intérêts.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 91-650 1991-07-09",
+        "@cidtexte": "JORFTEXT000000172847",
+        "@datesignatexte": "1991-07-09",
+        "@id": "JORFTEXT000000172847",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX8900065L",
+        "@numtexte": "91-650",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°2002-1150 du 11 septembre 2002 - art. 10 () JORF 13 septembre 2002 en vigueur le 1er décembre 2002",
+        "@cidtexte": "JORFTEXT000000232581",
+        "@datesignatexte": "2002-09-11",
+        "@id": "LEGIARTI000006213980",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC0220270D",
+        "@num": "10",
+        "@numtexte": "2002-1150",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code monétaire et financier - art. R312-4 (VD)",
+        "@cidtexte": "LEGITEXT000006072026",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000022119977",
+        "@naturetexte": "CODE",
+        "@num": "R312-4",
+        "@sens": "cible",
+        "@typelien": "PILOTE_SUIVEUR"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006708904",
+      "ANCIEN_ID": "SPHP8XXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/89/LEGIARTI000006708904.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-05-20",
+        "DATE_FIN": "1977-03-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°41-5050 du 31 décembre 1941 codifiant les textes relatifs aux opérations d'inhumation, d'exhumation, d'incinération et de transport des corps.",
+          "@c_titre_court": "Décret n°41-5050 du 31 décembre 1941",
+          "@debut": "1942-01-27",
+          "@fin": "1977-03-18",
+          "@id_txt": "LEGITEXT000006072702"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IER : soins de conservation",
+            "@debut": "1976-05-20",
+            "@fin": "1977-03-18",
+            "@id": "LEGISCTA000006104315"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072702",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1941-12-31",
+      "@nature": "DECRET",
+      "@num": "41-5050"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-05-20",
+          "@etat": "ABROGE",
+          "@fin": "1977-03-18",
+          "@id": "LEGIARTI000006708904",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les fonctionnaires désignés par l'article 473 du code de l'Administration communale pour assister à l'opération doivent, préalablement à celle-ci, se faire présenter l'autorisation prévue à l'article 1er.<br/>\n    Un flacon scellé, renfermant au moins 50 ml du liquide utilisé et portant toutes indications permettant son identification, est fixé sur le corps de la personne ayant subi les soins de conservation, de préférence à la cheville.<br/>\n    Les fonctionnaires susmentionnés dressent procès-verbal de l'opération. Ce procès-verbal est envoyé au maire ayant autorisé celle-ci et, à Paris, au préfet de police.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de l'administration communale 473",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 77-241 1977-03-07 art. 8 JORF 18 mars 1977",
+        "@cidtexte": "JORFTEXT000000883225",
+        "@datesignatexte": "1977-03-07",
+        "@id": "JORFTEXT000000883225",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-241",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret n°41-5050 du 31 décembre 1941 - art. 1 (Ab)",
+        "@cidtexte": "LEGITEXT000006072702",
+        "@datesignatexte": "1941-12-31",
+        "@id": "LEGIARTI000006708902",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "41-5050",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°41-5050 du 31 décembre 1941 - art. 4-4 (Ab)",
+        "@cidtexte": "LEGITEXT000006072702",
+        "@datesignatexte": "1941-12-31",
+        "@id": "LEGIARTI000006708910",
+        "@naturetexte": "DECRET",
+        "@num": "4-4",
+        "@numtexte": "41-5050",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

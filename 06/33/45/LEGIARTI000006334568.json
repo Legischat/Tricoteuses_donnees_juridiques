@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006334568",
+      "ANCIEN_ID": "FCIDAXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/45/LEGIARTI000006334568.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2000-09-01",
+        "DATE_FIN": "2010-12-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 24 juillet 2000 relatif à la direction des résidents à l'étranger et des services généraux",
+          "@c_titre_court": "Arrêté du 24 juillet 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000401007"
+        },
+        {
+          "#text": "Arrêté du 24 juillet 2000 relatif à la direction des résidents à l'étranger et des services généraux",
+          "@c_titre_court": "Arrêté du 24 juillet 2000",
+          "@debut": "2000-09-01",
+          "@fin": "2010-12-30",
+          "@id_txt": "LEGITEXT000005629702"
+        }
+      ],
+      "@cid": "JORFTEXT000000401007",
+      "@date_publi": "2000-07-25",
+      "@date_signature": "2000-07-24",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "ARRETE",
+      "@nor": "ECOP0000467A",
+      "@num_parution_jo": "0170"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-09-01",
+          "@etat": "ABROGE",
+          "@fin": "2010-12-30",
+          "@id": "LEGIARTI000006334568",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>\nL'arrêté du 12 septembre 1996 précisant les attributions de la direction des services généraux et de l'informatique est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 12 septembre 1996",
+        "@cidtexte": "JORFTEXT000000745289",
+        "@datesignatexte": "1996-09-12",
+        "@id": "JORFTEXT000000745289",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BUDF9600009A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 28 décembre 2010 - art. 6 (VT)",
+        "@cidtexte": "JORFTEXT000023311711",
+        "@datesignatexte": "2010-12-28",
+        "@id": "LEGIARTI000023408707",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BCRE1028034A",
+        "@num": "6",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273192",
+      "ANCIEN_ID": "FAEBAXXXXXX098AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/31/LEGIARTI000006273192.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "98",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1978-12-30",
+        "DATE_FIN": "2007-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°78-1239 du 29 décembre 1978 DE FINANCES POUR 1979",
+          "@c_titre_court": "Loi n°78-1239 du 29 décembre 1978",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886458"
+        },
+        {
+          "#text": "Loi n° 78-1239 du 29 décembre 1978 DE FINANCES POUR 1979 (1)",
+          "@c_titre_court": "Loi n° 78-1239 du 29 décembre 1978",
+          "@debut": "1978-12-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068621"
+        }
+      ],
+      "@cid": "JORFTEXT000000886458",
+      "@date_publi": "1978-12-30",
+      "@date_signature": "1978-12-29",
+      "@nature": "LOI",
+      "@num": "78-1239"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1978-12-30",
+          "@etat": "PERIME",
+          "@fin": "2007-09-01",
+          "@id": "LEGIARTI000006273192",
+          "@num": "98",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001496350",
+          "@num": "98",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   I. Paragraphe modificateur<br/>\n<br/>   II. Cette disposition est applicable aux accidents survenant à partir du 1er janvier 1979.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 78-1239 1978-12-29 Finances pour 1979 JORF 30 DECEMBRE 1978",
+        "@cidtexte": "JORFTEXT000000886458",
+        "@datesignatexte": "1978-12-29",
+        "@id": "JORFTEXT000000886458",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-1239",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code des pensions militaires d'invalidité et des v - art. L195 (VT)",
+        "@cidtexte": "LEGITEXT000006074068",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006794469",
+        "@naturetexte": "CODE",
+        "@num": "L195",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

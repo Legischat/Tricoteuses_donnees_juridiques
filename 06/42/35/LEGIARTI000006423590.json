@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006423590",
+      "ANCIEN_ID": "PCHGRXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/35/LEGIARTI000006423590.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1962-03-14",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°62-273 du 12 mars 1962 portant révision du code des postes, télégraphes et téléphones",
+          "@c_titre_court": "Décret n°62-273 du 12 mars 1962",
+          "@debut": "1962-03-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070762"
+        }
+      ],
+      "@cid": "LEGITEXT000006070762",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1962-03-12",
+      "@nature": "DECRET",
+      "@num": "62-273"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1962-03-14",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006423590",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le code des postes, télégraphes et téléphones (1re partie, Législative) qui prend le nom de code des postes et télécommunications est modifié conformément au texte annexé au présent décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 52-223 1952-02-27",
+        "@cidtexte": "JORFTEXT000000698658",
+        "@datesignatexte": "1952-02-27",
+        "@id": "JORFTEXT000000698658",
+        "@naturetexte": "LOI",
+        "@numtexte": "52-223",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 62-273 1962-03-12 JORF 14 mars 1962 rectificatif JORF 30 mars 1962",
+        "@cidtexte": "LEGITEXT000006070762",
+        "@datesignatexte": "1962-03-12",
+        "@id": "LEGITEXT000006070762",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-273",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

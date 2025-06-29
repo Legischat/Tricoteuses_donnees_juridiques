@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006631625",
+      "ANCIEN_ID": "RIHGIXXXXXX247AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/63/16/LEGIARTI000006631625.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "247",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-11-06",
+        "DATE_FIN": "2021-03-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°51-508 du 4 mai 1951 PORTANT REGLEMENT GENERAL SUR L'EXPLOITATION DES MINES DE COMBUSTIBLES MINERAUX SOLIDES",
+          "@c_titre_court": "Décret n°51-508 du 4 mai 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000505064"
+        },
+        {
+          "#text": "Décret n°51-508 du 4 mai 1951 portant règlement général sur l'exploitation des mines de combustibles minéraux solides",
+          "@c_titre_court": "Décret n°51-508 du 4 mai 1951",
+          "@debut": "1951-11-06",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060612"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre XI",
+            "@debut": "1951-11-06",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006100205"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section 1 : Dégagements instantanés et coups de toit.",
+              "@debut": "1951-11-06",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123042"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000505064",
+      "@date_publi": "1951-05-06",
+      "@date_signature": "1951-05-04",
+      "@nature": "DECRET",
+      "@num": "51-508"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-11-06",
+          "@etat": "ABROGE",
+          "@fin": "2021-03-31",
+          "@id": "LEGIARTI000006631625",
+          "@num": "247",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans certains chantiers des mines à dégagements instantanés ou à coups de toit, l'ingénieur en chef des mines peut exiger que l'abattage soit exclusivement fait à l'explosif, le personnel étant mis à l'abri avant le tir comme il est dit à l'article 246, alinéa 3.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°51-508 du 4 mai 1951 - art. 246",
+        "@cidtexte": "JORFTEXT000000505064",
+        "@datesignatexte": "1951-05-04",
+        "@id": "LEGIARTI000006631624",
+        "@naturetexte": "DECRET",
+        "@num": "246",
+        "@numtexte": "51-508",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2021-336 du 29 mars 2021 - art. 1",
+        "@cidtexte": "JORFTEXT000043302402",
+        "@datesignatexte": "2021-03-29",
+        "@id": "LEGIARTI000043303846",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TREP2019119D",
+        "@num": "1",
+        "@numtexte": "2021-336",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

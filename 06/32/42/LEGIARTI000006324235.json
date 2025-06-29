@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006324235",
+      "ANCIEN_ID": "FAHGSXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/42/LEGIARTI000006324235.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1987-01-06",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°83-285 du 8 avril 1983 INSTITUANT AU PROFIT DE LA CAISSE NATIONALE DE L'ENERGIE (CNE) UNE TAXE PARAFISCALE SUR LES PRODUITS PETROLIERS (SUPERCARBURANT,ESSENCE,FIOUL DOMESTIQUE,GAZOLE) POUR LA PERIODE DU 13-04-1983 AU 31-12-1984 EN VUE DE REGULARISER LE MARCHE DES PRODUITS PETROLIERS ET LA MISE EN SERVICE DE LA POLITIQUE DE MAITRISE DE LA CONSOMMATION ET DE DIVERSIFICATION DE LA PRODUCTION D'ENERGIE",
+          "@c_titre_court": "Décret n°83-285 du 8 avril 1983",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000502575"
+        },
+        {
+          "#text": "Décret n°83-285 du 8 avril 1983 instituant une taxe parafiscale sur certains produits pétroliers.",
+          "@c_titre_court": "Décret n°83-285 du 8 avril 1983",
+          "@debut": "1983-04-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006064083"
+        }
+      ],
+      "@cid": "JORFTEXT000000502575",
+      "@date_publi": "1983-04-10",
+      "@date_signature": "1983-04-08",
+      "@nature": "DECRET",
+      "@num": "83-285"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-04-10",
+          "@etat": "MODIFIE",
+          "@fin": "1987-01-06",
+          "@id": "LEGIARTI000006324234",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-01-06",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006324235",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le cinquième alinéa de l'article 1er du décret n° 48-1795 du 26 novembre 1948 modifié est remplacé par les dispositions suivantes :<br/>\n    \"La Caisse nationale de l'énergie est en outre habilitée à assurer les opérations financières qui lui sont confiées par le Gouvernement en vue de la régularisation du marché des produits pétroliers, de la mise en oeuvre de la politique de diversification de la production, d'adaptation de la distribution et de maitrise de la consommation.\"<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 48-1795 1948-11-26 ART. 1",
+        "@cidtexte": "JORFTEXT000000872185",
+        "@datesignatexte": "1948-11-26",
+        "@id": "JORFTEXT000000872185",
+        "@naturetexte": "DECRET",
+        "@numtexte": "48-1795",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 86-1389 1986-12-31 art. 2 : \"L'échéance du 31 décembre 1984 prévue à l'article 2 du décret du 8 avril 1983 susvisé est reportée au 31 décembre 1988",
+        "@cidtexte": "JORFTEXT000000518116",
+        "@datesignatexte": "1986-12-31",
+        "@id": "JORFTEXT000000518116",
+        "@naturetexte": "DECRET",
+        "@numtexte": "86-1389",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "La taxe sur certains produits pétroliers est instituée pour la période du 13 avril 1983 au 31 décembre 1984",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

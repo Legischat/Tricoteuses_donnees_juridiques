@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006720025",
+      "ANCIEN_ID": "AFGAAXXXXXX071AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/72/00/LEGIARTI000006720025.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "71",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1973-01-01",
+        "DATE_FIN": "1976-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement",
+          "@c_titre_court": "Décret-loi du 30 octobre 1935",
+          "@debut": "1992-01-01",
+          "@fin": "2006-04-01",
+          "@id_txt": "LEGITEXT000006072897"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre XI : Dispositions générales et pénales.",
+            "@debut": "1935-10-31",
+            "@fin": "2006-04-01",
+            "@id": "LEGISCTA000006105014"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006072897",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1935-10-30",
+      "@nature": "DECRET_LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1976-01-01",
+          "@id": "LEGIARTI000006720025",
+          "@num": "71",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006720026",
+          "@num": "71",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont passibles des peines [*sanctions*] de l'escroquerie prévues à l'article 405 (alinéa 1er) du code pénal ceux qui contreviennent à l'interdiction prononcée en application de l'article 70 (alinéa 2).<br/>\n<br/>   Sont passibles des mêmes peines les mandataires qui, en connaissance de cause, émettent des chèques dont l'émission était interdite à leurs mandants.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code pénal 405",
+        "@cidtexte": "LEGITEXT000006070719",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070719",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret-loi 1935-10-30 art. 70",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret-loi 1935-10-30 art. 72 *récidive*",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      }
+    ]
+  }
+}

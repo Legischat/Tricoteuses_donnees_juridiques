@@ -1,0 +1,83 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861423",
+      "ANCIEN_ID": "UPIGTXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/14/LEGIARTI000006861423.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1969-06-24",
+        "DATE_FIN": "1982-04-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 juin 1969 relatif aux fosses septiques et appareils ou dispositifs épurateurs de leurs effluents des bâtiments d'habitation",
+          "@c_titre_court": "Arrêté du 14 juin 1969",
+          "@debut": "1969-06-24",
+          "@fin": "1982-04-09",
+          "@id_txt": "LEGITEXT000006074490"
+        }
+      ],
+      "@cid": "LEGITEXT000006074490",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1969-06-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1969-06-24",
+          "@etat": "ABROGE",
+          "@fin": "1982-04-09",
+          "@id": "LEGIARTI000006861423",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La capacité en liquide de la fosse septique doit être déterminée en fonction de l'ensemble des données de l'exploitation. Elle ne doit jamais être inférieure à 1 mètre cube.<br/>\n<br/>   Dans le cas où les fèces et les urines sont seules admises dans la fosse septique, la capacité en liquide doit être la suivante :<br/>\n ----------------------------------------------------------        NOMBRE D'USAGERS        :   CAPACITE DE LA FOSSE -------------------------------:     en mètres cubes     Minimum    :    Maximum    :<br/>\n ---------------:---------------:--------------------------        1       :       4       :            1        2       :       6       :            1,50        2       :       8       :            2        3       :      10       :            2,50        3       :      12       :            3        4       :      14       :            3,50        4       :      16       :            4        5       :      18       :            4,50        5       :      20       :            5  De 21 à 150 usagers ...       :  0,300 par utilisateur. ----------------------------------------------------------    Lorsque les eaux de cuisine et de toilette sont admises dans la fosse septique, les capacités ci-dessus doivent être doublées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-03-03 art. 3 JONC 9 avril 1982",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 69-596 1969-06-14 art. 3 devenu",
+        "@cidtexte": "JORFTEXT000000697837",
+        "@datesignatexte": "1969-06-14",
+        "@id": "JORFTEXT000000697837",
+        "@naturetexte": "DECRET",
+        "@numtexte": "69-596",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation R111-3",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

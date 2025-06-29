@@ -1,0 +1,80 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006408884",
+      "ANCIEN_ID": "PAHL0XXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/88/LEGIARTI000006408884.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1956-10-01",
+        "DATE_FIN": "1976-05-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°56-1296 du 17 décembre 1956 attribuant une indemnité forfaitaire dégressive aux techniciens d'études et de fabrications du ministère de la défense nationale et des forces armées et aux agents contractuels de l'ordre technique de même niveau.",
+          "@c_titre_court": "Décret n°56-1296 du 17 décembre 1956",
+          "@debut": "1956-10-01",
+          "@fin": "1976-05-01",
+          "@id_txt": "LEGITEXT000006070710"
+        }
+      ],
+      "@cid": "LEGITEXT000006070710",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1956-12-17",
+      "@nature": "DECRET",
+      "@num": "56-1296"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1956-10-01",
+          "@etat": "ABROGE",
+          "@fin": "1976-05-01",
+          "@id": "LEGIARTI000006408884",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'indemnité forfaitaire dégressive est allouée dans les mêmes conditions, compte tenu des indices hiérarchiques nets qui leur sont attribués, aux agents contractuels régis par le décret n° 49-1378 du 3 octobre 1949 modifié, classés dans les catégories IV, III, II et I B.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 49-1378 1949-10-03",
+        "@cidtexte": "JORFTEXT000000326048",
+        "@datesignatexte": "1949-10-03",
+        "@id": "JORFTEXT000000326048",
+        "@naturetexte": "DECRET",
+        "@numtexte": "49-1378",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 76-317 1976-04-07 art. 6 JORF 10 avril 1976 en vigueur le 1er mai 1976",
+        "@cidtexte": "JORFTEXT000000678260",
+        "@datesignatexte": "1976-04-07",
+        "@id": "JORFTEXT000000678260",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-317",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006497827",
+      "ANCIEN_ID": "PJHEVXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/78/LEGIARTI000006497827.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1975-01-05",
+        "DATE_FIN": "2002-06-14",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°74-1184 du 31 décembre 1974 PCE",
+          "@c_titre_court": "Décret n°74-1184 du 31 décembre 1974",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000875042"
+        },
+        {
+          "#text": "Décret n°74-1184 du 31 décembre 1974 relatif aux experts judiciaires",
+          "@c_titre_court": "Décret n°74-1184 du 31 décembre 1974",
+          "@debut": "1975-01-05",
+          "@fin": "2004-12-30",
+          "@id_txt": "LEGITEXT000006062164"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre I : Inscription sur les listes d'experts",
+            "@debut": "1975-01-05",
+            "@fin": "2004-12-30",
+            "@id": "LEGISCTA000006094345"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section I : Conditions générales d'inscription.",
+              "@debut": "1975-01-05",
+              "@fin": "2004-12-30",
+              "@id": "LEGISCTA000006119676"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000875042",
+      "@date_publi": "1975-01-05",
+      "@date_signature": "1974-12-31",
+      "@nature": "DECRET",
+      "@num": "74-1184"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-01-05",
+          "@etat": "MODIFIE",
+          "@fin": "2002-06-14",
+          "@id": "LEGIARTI000006497827",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2002-06-14",
+          "@etat": "ABROGE",
+          "@fin": "2004-12-30",
+          "@id": "LEGIARTI000006497828",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En vue de l'inscription d'une personne morale sur une liste d'experts, il doit être justifié :<br/>\n<br/>   1° Que les dirigeants sociaux remplissent les conditions prévues aux 1°, 2°, 3° et 6° de l'article 2 ;<br/>\n<br/>   2° Que la personne morale exerce une activité depuis un temps et dans des conditions lui ayant conféré une suffisante qualification par rapport à la spécialité dans laquelle elle sollicite son inscription ;<br/>\n<br/>   3° Que cette activité n'est pas incompatible avec l'indépendance nécessaire à l'exercice de missions judiciaires d'expertise ;<br/>\n<br/>   4° Que la personne morale dispose des moyens techniques et du personnel qualifié approprié ;<br/>\n<br/>   5° Pour l'inscription sur une liste de cour d'appel, qu'elle a son siège social, une succursale ou un établissement technique en rapport avec sa spécialité, dans le ressort de la cour d'appel.<br/>\n<br/>   En outre, il y a lieu à la production des statuts et à l'indication du nom de chacune des personnes détenant une fraction d'au moins 10 % du capital social.<br/>\n<br/>   Une personne morale qui se donnerait pour objet principal ou accessoire l'exécution de mission d'expertise ne peut être admise sur une liste d'experts.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 71-498 1971-06-29",
+        "@cidtexte": "JORFTEXT000000874942",
+        "@datesignatexte": "1971-06-29",
+        "@id": "JORFTEXT000000874942",
+        "@naturetexte": "LOI",
+        "@numtexte": "71-498",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°74-1184 du 31 décembre 1974 - art. 2 (M)",
+        "@cidtexte": "JORFTEXT000000875042",
+        "@datesignatexte": "1974-12-31",
+        "@id": "LEGIARTI000006497825",
+        "@naturetexte": "DECRET",
+        "@num": "2",
+        "@numtexte": "74-1184",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°74-1184 du 31 décembre 1974 - art. 4 (Ab)",
+        "@cidtexte": "JORFTEXT000000875042",
+        "@datesignatexte": "1974-12-31",
+        "@id": "LEGIARTI000006497829",
+        "@naturetexte": "DECRET",
+        "@num": "4",
+        "@numtexte": "74-1184",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

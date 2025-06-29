@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006451191",
+      "ANCIEN_ID": "PFEB6XXXXXX008AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/45/11/LEGIARTI000006451191.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1980-07-09",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 57-32 du 10 janvier 1957 portant statut de l'Agence France-Presse",
+          "@c_titre_court": "Loi n° 57-32 du 10 janvier 1957",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000315388"
+        },
+        {
+          "#text": "Loi n° 57-32 du 10 janvier 1957 portant statut de l'agence France-Presse.",
+          "@c_titre_court": "Loi n° 57-32 du 10 janvier 1957",
+          "@debut": "1957-01-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068171"
+        }
+      ],
+      "@cid": "JORFTEXT000000315388",
+      "@date_publi": "1957-01-11",
+      "@date_signature": "1957-01-10",
+      "@nature": "LOI",
+      "@num": "57-32"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1957-01-11",
+          "@etat": "MODIFIE",
+          "@fin": "1980-07-09",
+          "@id": "LEGIARTI000006451190",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-09",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006451191",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil d'administration est investi des pouvoirs les plus étendus pour la gestion et l'administration de l'agence.<br/>\n<br/>   Le président directeur général est chargé de la préparation et de l'exécution des délibérations du conseil d'administration, de la direction de l'ensemble des services de l'agence et de la représentation de celle-ci.<br/>\n<br/>   Le vice-président assiste ou remplace le président directeur général dans ses missions de représentation. En cas d'empêchement du président directeur général, il est suppléé à la présidence du conseil d'administration par le vice-président ou, à défaut, par un administrateur choisi par le conseil d'administration dans son sein. Les autres attributions du président directeur général sont, dans le même cas, exercées par les directeurs ou chefs de service de l'agence ayant reçu à cet effet délégation du président directeur général avec l'accord du conseil d'administration.<br/>\n<br/>   Les pouvoirs respectifs du conseil d'administration et du président directeur général sont précisés par le décret en Conseil d'Etat prévu à l'article 17 de la présente loi.<br/>\n<br/>   Le conseil d'administration peut déléguer certains de ses pouvoirs au président directeur général.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 57-32 1957-01-10 art. 17",
+        "@cidtexte": "JORFTEXT000000315388",
+        "@datesignatexte": "1957-01-10",
+        "@id": "JORFTEXT000000315388",
+        "@naturetexte": "LOI",
+        "@numtexte": "57-32",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°57-281 du 9 mars 1957 - art. 17 (V)",
+        "@cidtexte": "JORFTEXT000000850483",
+        "@datesignatexte": "1957-03-09",
+        "@id": "LEGIARTI000030777142",
+        "@naturetexte": "DECRET",
+        "@num": "17",
+        "@numtexte": "57-281",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

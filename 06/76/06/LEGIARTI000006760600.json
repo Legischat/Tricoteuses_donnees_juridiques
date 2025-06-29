@@ -1,0 +1,147 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006760600",
+      "ANCIEN_ID": "SSHAAJXXXXX065AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/06/LEGIARTI000006760600.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "65",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1961-01-12",
+        "DATE_FIN": "1981-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°45-0179 du 29 décembre 1945 PORTANT RAP POUR L'APPLICATION DE L'ORDONNANCE 452454 DU 19-12-1945 (REGIME SOCIAL DES ASSURES DES PROFESSIONS NON AGRICOLES)",
+          "@c_titre_court": "Décret n°45-0179 du 29 décembre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000682675"
+        },
+        {
+          "#text": "Décret n°45-0179 du 29 décembre 1945  RELATIF A L'APPLICATION DES DISPOSITIONS DU LIVRE III DU CODE DE LA SECURITE SOCIALE",
+          "@c_titre_court": "Décret n°45-0179 du 29 décembre 1945",
+          "@debut": "1945-12-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060430"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "PRESTATIONS",
+            "@debut": "1945-12-30",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006106442"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "ASSURANCE INVALIDITE.",
+              "@debut": "1961-01-12",
+              "@fin": "1985-12-21",
+              "@id": "LEGISCTA000006127365"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000682675",
+      "@date_publi": "1945-12-30",
+      "@date_signature": "1945-12-29",
+      "@nature": "DECRET",
+      "@num": "45-0179"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-01-12",
+          "@etat": "MODIFIE",
+          "@fin": "1981-01-01",
+          "@id": "LEGIARTI000006760600",
+          "@num": "65",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006760601",
+          "@num": "65",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les arrérages de la pension d'invalidité sont toujours servis par la caisse régionale d'assurance maladie dans la circonscription de laquelle est située la caisse primaire d'assurance maladie qui a effectué la liquidation de cette pension.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 61-27 1961-01-11 ART. 3 JORF 12 janvier 1961",
+        "@cidtexte": "JORFTEXT000000673976",
+        "@datesignatexte": "1961-01-11",
+        "@id": "JORFTEXT000000673976",
+        "@naturetexte": "DECRET",
+        "@numtexte": "61-27",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 81-45 1981-01-21 ART. 6 ET ART. 9 JORF 23 janvier date d'entrée en vigueur 1 janvier 1981",
+        "@cidtexte": "JORFTEXT000000686066",
+        "@datesignatexte": "1981-01-21",
+        "@id": "JORFTEXT000000686066",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-45",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R341-13 (V)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006749319",
+        "@naturetexte": "CODE",
+        "@num": "R341-13",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale L307",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R341-13 (V)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006749319",
+        "@naturetexte": "CODE",
+        "@num": "R341-13",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

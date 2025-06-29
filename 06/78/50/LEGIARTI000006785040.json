@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006785040",
+      "ANCIEN_ID": "SSIAT6XXXXX005AXXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/50/LEGIARTI000006785040.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-11-11",
+        "DATE_FIN": "1992-10-03",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 29 décembre 1965 relatif au régime de sécurité sociale des étudiants.",
+          "@c_titre_court": "Arrêté du 29 décembre 1965",
+          "@debut": "1966-01-12",
+          "@fin": "1992-10-03",
+          "@id_txt": "LEGITEXT000006073950"
+        }
+      ],
+      "@cid": "LEGITEXT000006073950",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1965-12-29",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1966-01-12",
+          "@etat": "MODIFIE",
+          "@fin": "1987-11-11",
+          "@id": "LEGIARTI000006785039",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-11-11",
+          "@etat": "ABROGE",
+          "@fin": "1992-10-03",
+          "@id": "LEGIARTI000006785040",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Seuls sont examinés par la commission visée à l'article 1er du présent arrêté, avant le début d'une année universitaire, les dossiers de demande d'affiliation déposés, au plus tard, le 1er janvier de l'année précédente auprès du ministre de tutelle [*date limite*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1965-12-29 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-10-28 art. 1 JORF 11 novembre 1987",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1992-09-21 art. 12 JORF 3 octobre 1992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

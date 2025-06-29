@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006532787",
+      "ANCIEN_ID": "PPHLXXXXXXX042AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/27/LEGIARTI000006532787.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "42",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-09-15",
+        "DATE_FIN": "1995-06-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n° 89-655 du 13 septembre 1989 relatif aux cérémonies publiques, préséances, honneurs civils et militaires",
+          "@c_titre_court": "Décret n° 89-655 du 13 septembre 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000332354"
+        },
+        {
+          "#text": "Décret n°89-655 du 13 septembre 1989 relatif aux cérémonies publiques, préséances, honneurs civils et militaires",
+          "@c_titre_court": "Décret n°89-655 du 13 septembre 1989",
+          "@debut": "1989-09-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006067256"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE V : DES PRÉROGATIVES D'ESCORTE.",
+            "@debut": "1989-09-15",
+            "@fin": "1995-06-23",
+            "@id": "LEGISCTA000006096171"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000332354",
+      "@date_publi": "1989-09-15",
+      "@date_signature": "1989-09-13",
+      "@nature": "DECRET",
+      "@nor": "PRMX8900039D",
+      "@num": "89-655"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-09-15",
+          "@etat": "ABROGE",
+          "@fin": "1995-06-23",
+          "@id": "LEGIARTI000006532787",
+          "@num": "42",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Seules les autorités civiles ou militaires mentionnées à l'article 40 peuvent prétendre à une escorte d'honneur, sauf ordre particulier du Président de la République ou du Premier ministre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°89-655 du 13 septembre 1989 - art. 40 (Ab)",
+        "@cidtexte": "JORFTEXT000000332354",
+        "@datesignatexte": "1989-09-13",
+        "@id": "LEGIARTI000006532785",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX8900039D",
+        "@num": "40",
+        "@numtexte": "89-655",
+        "@sens": "cible",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret n°89-655 du 13 septembre 1989 - art. 40 (Ab)",
+        "@cidtexte": "JORFTEXT000000332354",
+        "@datesignatexte": "1989-09-13",
+        "@id": "LEGIARTI000006532785",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX8900039D",
+        "@num": "40",
+        "@numtexte": "89-655",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°95-811 du 22 juin 1995 - art. 2 (V) JORF 23 juin 1995",
+        "@cidtexte": "JORFTEXT000000354872",
+        "@datesignatexte": "1995-06-22",
+        "@id": "LEGIARTI000006541828",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX9500102D",
+        "@num": "2",
+        "@numtexte": "95-811",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

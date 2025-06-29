@@ -1,0 +1,160 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006645980",
+      "ANCIEN_ID": "SAAXXXXXXXX1X122L14KXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/59/LEGIARTI000006645980.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L122-14-10",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1974-09-29",
+        "DATE_FIN": "1991-01-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Conventions relatives au travail",
+              "@debut": "1973-01-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123870"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre II : Contrat de travail",
+                "@debut": "1973-11-23",
+                "@fin": "2008-05-01",
+                "@id": "LEGISCTA000006139774"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre II : REGLES PROPRES AU CONTRAT DE TRAVAIL",
+                  "@debut": "1973-11-23",
+                  "@fin": "2008-05-01",
+                  "@id": "LEGISCTA000006153998"
+                }
+              ],
+              "TM": {
+                "TITRE_TM": [
+                  {
+                    "#text": "Section 2 : Résiliation du contrat de travail à durée indéterminée",
+                    "@debut": "1974-09-29",
+                    "@fin": "2008-05-01",
+                    "@id": "LEGISCTA000006169991"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-09-29",
+          "@etat": "MODIFIE",
+          "@fin": "1991-01-20",
+          "@id": "LEGIARTI000006645980",
+          "@num": "L122-14-10",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1991-01-20",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000006645981",
+          "@num": "L122-14-10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions de la présente section ne sont applicables dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle que sous réserve des règles prévues par la loi du 6 mai 1939 tendant à rendre applicable dans lesdits départements l'article 23 du livre 1er de l'ancien code du travail.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du travail - art. L122-14-9 (AbD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006645979",
+        "@naturetexte": "CODE",
+        "@num": "L122-14-9",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 73-1046 1973-11-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Décret 74-808 1974-09-19 art. 4 JORF 29 septembre 1974",
+        "@cidtexte": "JORFTEXT000000306093",
+        "@datesignatexte": "1974-09-19",
+        "@id": "JORFTEXT000000306093",
+        "@naturetexte": "DECRET",
+        "@numtexte": "74-808",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "LOI 1939-05-06",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 73-680 1973-07-13",
+        "@cidtexte": "JORFTEXT000000518346",
+        "@datesignatexte": "1973-07-13",
+        "@id": "JORFTEXT000000518346",
+        "@naturetexte": "LOI",
+        "@numtexte": "73-680",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

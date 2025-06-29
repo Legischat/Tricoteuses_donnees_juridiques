@@ -1,0 +1,112 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006355427",
+      "ANCIEN_ID": "MEEAIXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/54/LEGIARTI000006355427.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-01-16",
+        "DATE_FIN": "2018-06-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 77-729 du 7 juillet 1977 relative à l'élection des représentants à l'Assemblée des ‎communautés européennes",
+          "@c_titre_court": "LOI n° 77-729 du 7 juillet 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000338793"
+        },
+        {
+          "#text": "Loi n° 77-729 du 7 juillet 1977 relative à l'élection des représentants au Parlement européen.",
+          "@c_titre_court": "Loi n° 77-729 du 7 juillet 1977",
+          "@debut": "1977-07-08",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068600"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre Ier : Dispositions générales.",
+            "@debut": "1977-07-08",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085787"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000338793",
+      "@date_publi": "1977-07-08",
+      "@date_signature": "1977-07-07",
+      "@nature": "LOI",
+      "@num": "77-729"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-07-08",
+          "@etat": "MODIFIE",
+          "@fin": "1990-01-16",
+          "@id": "LEGIARTI000006355426",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-16",
+          "@etat": "ABROGE",
+          "@fin": "2018-06-27",
+          "@id": "LEGIARTI000006355427",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le mode d'élection des représentants français au Parlement européen, tel qu'il est défini par la présente loi, ne pourra être modifié qu'en vertu d'une nouvelle loi.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°90-55 du 15 janvier 1990 - art. 17 (V) JORF 16 janvier 1990",
+        "@cidtexte": "JORFTEXT000000341734",
+        "@datesignatexte": "1990-01-15",
+        "@id": "LEGIARTI000006355359",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX8900076L",
+        "@num": "17",
+        "@numtexte": "90-55",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI n°2018-509 du 25 juin 2018 - art. 6",
+        "@cidtexte": "JORFTEXT000037102048",
+        "@datesignatexte": "2018-06-25",
+        "@id": "LEGIARTI000037102759",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX1733825L",
+        "@num": "6",
+        "@numtexte": "2018-509",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

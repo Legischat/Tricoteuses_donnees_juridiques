@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006701893",
+      "ANCIEN_ID": "AFEBPXXXXXX021AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/18/LEGIARTI000006701893.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "21",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-07-13",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°75-628 du 11 juillet 1975 RELATIVE AU CREDIT MARITIME MUTUEL",
+          "@c_titre_court": "Loi n°75-628 du 11 juillet 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000888297"
+        },
+        {
+          "#text": "Loi n° 75-628 du 11 juillet 1975 relative au crédit maritime mutuel",
+          "@c_titre_court": "Loi n° 75-628 du 11 juillet 1975",
+          "@debut": "1975-07-13",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068527"
+        }
+      ],
+      "@cid": "JORFTEXT000000888297",
+      "@date_publi": "1975-07-13",
+      "@date_signature": "1975-07-11",
+      "@nature": "LOI",
+      "@num": "75-628"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-07-13",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006701893",
+          "@num": "21",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les caisses régionales et unions constituées antérieurement à la promulgation de la présente loi disposeront d'un délai d'un an, à compter de la publication du décret prévu à l'article 20, pour mettre leurs statuts en harmonie avec les nouvelles dispositions. Exceptionnellement, ces modifications seront faites en assemblée générale ordinaire.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°75-628 du 11 juillet 1975 - art. 20",
+        "@cidtexte": "JORFTEXT000000888297",
+        "@datesignatexte": "1975-07-11",
+        "@id": "LEGIARTI000006701885",
+        "@naturetexte": "LOI",
+        "@num": "20",
+        "@numtexte": "75-628",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°76-1011 du 19 octobre 1976",
+        "@cidtexte": "JORFTEXT000000507252",
+        "@datesignatexte": "1976-10-19",
+        "@id": "JORFTEXT000000507252",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-1011",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

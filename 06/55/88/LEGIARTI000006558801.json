@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006558801",
+      "ANCIEN_ID": "ADHHTXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/88/LEGIARTI000006558801.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1967-05-10",
+        "DATE_FIN": "1983-09-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-385 du 9 mai 1967 RELATIF A LA COMMERCIALISATION DE CERTAINES PRODUCTIONS AGRICOLES",
+          "@c_titre_court": "Décret n°67-385 du 9 mai 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000679479"
+        },
+        {
+          "#text": "Décret n°67-385 du 9 mai 1967 relatif à la commercialisation de certaines productions agricoles",
+          "@c_titre_court": "Décret n°67-385 du 9 mai 1967",
+          "@debut": "1967-05-10",
+          "@fin": "1983-09-09",
+          "@id_txt": "LEGITEXT000006061445"
+        }
+      ],
+      "@cid": "JORFTEXT000000679479",
+      "@date_publi": "1967-05-10",
+      "@date_signature": "1967-05-09",
+      "@nature": "DECRET",
+      "@num": "67-385"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-05-10",
+          "@etat": "ABROGE",
+          "@fin": "1983-09-09",
+          "@id": "LEGIARTI000006558801",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Lorsque, en vertu d'un arrêté interministériel d'extension pris par application de l'article 16 (2e alinéa) de la loi du 8 août 1962 les producteurs agricoles d'une région sont tenus de présenter certaines productions légumières à la vente publique sur les marchés agréés par le comité économique agricole, un arrêté concerté du ministre de l'économie et des finances et du ministre de l'agriculture, publié au Journal officiel, peut, à la demande dudit comité, décider que, pour certaines catégories de légumes, ce comité devra faire apposer une estampille sur chaque colis et faire établir, lorsque les légumes sont en vrac, un document attestant la mise en marché dans les conditions ci-dessus indiquées.<br/>\n<br/>   Cet arrêté précisera les conditions d'apposition de l'estampille et d'établissement du document et les mentions (poids, quantité notamment) qui devront y figurer.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 67-385 1967-05-09 art. 3 (refus abusif de délivrance de l'estampille - sanctions)",
+        "@cidtexte": "JORFTEXT000000679479",
+        "@datesignatexte": "1967-05-09",
+        "@id": "JORFTEXT000000679479",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-385",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret n°67-385 du 9 mai 1967 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000679479",
+        "@datesignatexte": "1967-05-09",
+        "@id": "LEGIARTI000006558820",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "67-385",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 83-798 1983-09-07 art. 5 JORF 9 septembre 1983",
+        "@cidtexte": "JORFTEXT000000858294",
+        "@datesignatexte": "1983-09-07",
+        "@id": "JORFTEXT000000858294",
+        "@naturetexte": "DECRET",
+        "@numtexte": "83-798",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1962-08-08 art. 16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

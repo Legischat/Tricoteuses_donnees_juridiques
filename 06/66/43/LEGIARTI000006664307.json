@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006664307",
+      "ANCIEN_ID": "SEHJKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/43/LEGIARTI000006664307.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1988-07-01",
+        "DATE_FIN": "1989-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°88-794 du 29 juin 1988 RELEVEMENT DU SMIC A COMPTER DU 01-07-1988:",
+          "@c_titre_court": "Décret n°88-794 du 29 juin 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693583"
+        },
+        {
+          "#text": "Décret n°88-794 du 29 juin 1988 portant relèvement du salaire minimum de croissance",
+          "@c_titre_court": "Décret n°88-794 du 29 juin 1988",
+          "@debut": "1988-07-01",
+          "@fin": "1989-07-01",
+          "@id_txt": "LEGITEXT000006066827"
+        }
+      ],
+      "@cid": "JORFTEXT000000693583",
+      "@date_publi": "1988-07-01",
+      "@date_signature": "1988-06-29",
+      "@nature": "DECRET",
+      "@nor": "ASEX8800086D",
+      "@num": "88-794"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-07-01",
+          "@etat": "PERIME",
+          "@fin": "1989-07-01",
+          "@id": "LEGIARTI000006664307",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A compter du 1er juillet 1988 [*date*], pour les catégories de travailleur intéressés par l'article L. 131-2 du code du travail, le salaire minimum de croissance sera relevé dans les conditions ci-après [*champ d'application*] :<br/>\n<br/>   En métropole, son montant sera porté à 28,76 F de l'heure ;<br/>\n<br/>   Dans la collectivité territoriale de Saint-Pierre-et-Miquelon, les salaires individuels ne pourront être inférieurs à 28,76 F de l'heure ;<br/>\n<br/>   Dans les départements d'outre-mer, ils ne pourront être inférieurs à :<br/>\n<br/>   935,06 F par semaine pour trente-neuf heures de travail effectif, dans les départements de la Guadeloupe, de la Guyane et de la Martinique ;<br/>\n<br/>   872,48 F par semaine pour trente-neuf heures de travail effectif dans les professions autres que les professions agricoles rémunérées à la tâche ; et, pour ce qui concerne ces dernières, un certain nombre de tâches telles qu'elles sont définies par arrêté des ministres chargés respectivement de l'agriculture, du travail et des départements et territoires d'outre-mer [*autorités compétentes*] pris sur proposition du préfet après consultation des organisations professionnelles d'employeurs et de salariés intéressées, dans le département de la Réunion.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°88-794 du 29 juin 1988 - art. 4 (V)",
+        "@cidtexte": "JORFTEXT000000693583",
+        "@datesignatexte": "1988-06-29",
+        "@id": "LEGIARTI000006664310",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ASEX8800086D",
+        "@num": "4",
+        "@numtexte": "88-794",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°89-438 du 29 juin 1989 (P)",
+        "@cidtexte": "JORFTEXT000000332280",
+        "@datesignatexte": "1989-06-29",
+        "@id": "LEGITEXT000006067148",
+        "@naturetexte": "DECRET",
+        "@nortexte": "TEFX8900087D",
+        "@numtexte": "89-438",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      },
+      {
+        "#text": "Code du travail - art. L131-2 (T)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006646983",
+        "@naturetexte": "CODE",
+        "@num": "L131-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

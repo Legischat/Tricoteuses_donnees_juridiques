@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006331654",
+      "ANCIEN_ID": "FBIALXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/16/LEGIARTI000006331654.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1993-02-18",
+        "DATE_FIN": "1994-12-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 janvier 1993 portant approbation du cahier des charges pour la transmission par voie informatique de la déclaration d'échanges de biens",
+          "@c_titre_court": "Arrêté du 26 janvier 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000727338"
+        },
+        {
+          "#text": "Arrêté du 26 janvier 1993 portant approbation du cahier des charges pour la transmission par voie informatique de la déclaration d'échanges de biens",
+          "@c_titre_court": "Arrêté du 26 janvier 1993",
+          "@debut": "1993-02-18",
+          "@fin": "1994-12-27",
+          "@id_txt": "LEGITEXT000006081179"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE VI L'AUTHENTIFICATION DES DÉCLARATIONS.",
+            "@debut": "1993-02-18",
+            "@fin": "1994-12-27",
+            "@id": "LEGISCTA000006085004"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000727338",
+      "@date_publi": "1993-02-18",
+      "@date_signature": "1993-01-26",
+      "@nature": "ARRETE",
+      "@nor": "BUDD9340002A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-02-18",
+          "@etat": "ABROGE",
+          "@fin": "1994-12-27",
+          "@id": "LEGIARTI000006331654",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les déclarations d'échanges de biens transmises par voie informatique doivent être authentifiées à chaque transmission. Toute déclaration authentifiée est réputée émise par le titulaire de l'autorisation prévue à l'article 1er du présent arrêté. Par cette authentification, il engage sa responsabilité ou celle de son mandataire sur les informations transmises. Les méthodes d'authentification autorisées sont les suivantes :<br/>\n<br/>   a) Pour l'accès en mode interactif aux serveurs de l'administration (Minitel ou SOFI), un mot de passe confidentiel est attribué au titulaire de l'autorisation prévue par l'article 1er du présent arrêté. Son association au numéro d'habilitation prévu par l'article 9 du présent arrêté permet d'authentifier les informations transmises.<br/>\n<br/>   En outre, un procédé de certification permet de restituer au titulaire de l'autorisation prévue par l'article 1er du présent arrêté, à partir d'un algorithme, un code constituant une référence à la déclaration d'échanges de biens transmise.<br/>\n<br/>   b) Pour la transmission directe de données déjà mises en forme, le centre de collecte de rattachement renvoie par télécopie ou par messagerie électronique, dans un délai maximum de trois jours ouvrés, un accusé de réception comprenant pour chaque flux les informations suivantes :<br/>\n<br/>   - le nombre de déclarations et de lignes de déclaration reçues pour un envoi ou pour un interchange lorsqu'il s'agit des messages CUSDEC/INSTAT ;<br/>\n<br/>   - le total des valeurs fiscales ;<br/>\n<br/>   - l'indication de la prise en compte ou de la non-prise en compte des déclarations d'échanges contenues dans l'envoi.<br/>\n<br/>   Si le déclarant ne reconnaît pas avoir transmis de déclaration d'échanges de biens correspondant aux indications renvoyées par l'administration, il dispose d'un délai de trois jours ouvrés après réception du message du centre de collecte pour faire connaître son opposition.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-01-26 art. 1, art. 9",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1994-12-19 art. 14 JORF 27 décembre 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

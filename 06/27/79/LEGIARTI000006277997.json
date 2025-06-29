@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006277997",
+      "ANCIEN_ID": "ANIFEXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/79/LEGIARTI000006277997.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-12-02",
+        "DATE_FIN": "2004-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 octobre 1984 RELATIF AUX BOUTEILLES A GAZ DE PETROLE LIQUEFIES",
+          "@c_titre_court": "Arrêté du 26 octobre 1984",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000683841"
+        },
+        {
+          "#text": "Arrêté du 26 octobre 1984 relatif aux bouteilles à gaz de pétrole liquéfié",
+          "@c_titre_court": "Arrêté du 26 octobre 1984",
+          "@debut": "1984-12-02",
+          "@fin": "2004-07-01",
+          "@id_txt": "LEGITEXT000006069406"
+        }
+      ],
+      "@cid": "JORFTEXT000000683841",
+      "@date_publi": "1984-12-02",
+      "@date_signature": "1984-10-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-12-02",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-01",
+          "@id": "LEGIARTI000006277997",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'Etat descriptif prévu à l'article 12 de l'arrêté du 23 juillet 1943 susvisé ne peut se rapporter qu'à des bouteilles identiques quant à leurs formes et à leurs dimensions, y compris en ce qui concerne les accessoires fixés par soudage, mais à l'exclusion des filetages non soumis à l'action de la pression. Toutes les dimensions figurant dans l'état descriptif doivent être données avec les tolérances qui s'y rapportent.<br/>\n<br/>   L'état descriptif ne peut se rapporter qu'à des bouteilles fabriquées dans les mêmes conditions et, pour chacune de leurs parties, à partir de demi-produits de même définition.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1943-07-23 art. 12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 3 mai 2004 - art. 21, v. init.",
+        "@cidtexte": "JORFTEXT000000438516",
+        "@datesignatexte": "2004-05-03",
+        "@id": "JORFARTI000002455384",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "INDI0402919A",
+        "@num": "21",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006276012",
+      "ANCIEN_ID": "ANIARXXXXXX025AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/60/LEGIARTI000006276012.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1989-07-05",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 8 septembre 1975 CONSTRUCTION, INSTALLATION ET VERIFICATION DES JAUGEURS",
+          "@c_titre_court": "Arrêté du 8 septembre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000640275"
+        },
+        {
+          "#text": "Arrêté du 8 septembre 1975 relatif à la construction, l'installation et la vérification des jaugeurs",
+          "@c_titre_court": "Arrêté du 8 septembre 1975",
+          "@debut": "1975-09-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069360"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "V. - Contrôle des jaugeurs en service",
+            "@debut": "1975-09-16",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006083404"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Obligations des réparateurs.",
+              "@debut": "1975-09-16",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006113866"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000640275",
+      "@date_publi": "1975-09-16",
+      "@date_signature": "1975-09-08",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-09-16",
+          "@etat": "MODIFIE",
+          "@fin": "1989-07-05",
+          "@id": "LEGIARTI000006276011",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1989-07-05",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006276012",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute intervention sur un jaugeur nécessitant le bris d'un scellement doit être signalée au bureau intéressé du service des instruments de mesure et inscrite sur le cahier d'entretien mentionné à l'article 23.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1975-09-08 art. 23",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1983-06-19 art. 1 JORF 5 juillet 1989",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 72-389 1972-05-04",
+        "@cidtexte": "JORFTEXT000000513367",
+        "@datesignatexte": "1972-05-04",
+        "@id": "JORFTEXT000000513367",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-389",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

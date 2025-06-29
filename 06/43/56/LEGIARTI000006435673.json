@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006435673",
+      "ANCIEN_ID": "PEEAXXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/56/LEGIARTI000006435673.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-07-12",
+        "DATE_FIN": "2000-06-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°75-620 du 11 juillet 1975 RELATIVE A L'EDUCATION (LOI HABY)",
+          "@c_titre_court": "Loi n°75-620 du 11 juillet 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000334174"
+        },
+        {
+          "#text": "Loi n°75-620 du 11 juillet 1975 relative à l'éducation *Loi Haby*",
+          "@c_titre_court": "Loi n°75-620 du 11 juillet 1975",
+          "@debut": "1975-07-12",
+          "@fin": "2000-06-22",
+          "@id_txt": "LEGITEXT000006068523"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dispositions particulières et transitoires.",
+            "@debut": "1975-07-12",
+            "@fin": "2000-06-22",
+            "@id": "LEGISCTA000006090579"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000334174",
+      "@date_publi": "1975-07-12",
+      "@date_signature": "1975-07-11",
+      "@nature": "LOI",
+      "@num": "75-620"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-07-12",
+          "@etat": "ABROGE",
+          "@fin": "2000-06-22",
+          "@id": "LEGIARTI000006435673",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Des dérogations aux dispositions de la présente loi peuvent être apportées pour la réalisation d'une expérience pédagogique et pour une durée limitée à la conduite de celle-ci, dans des conditions définies par décret.<br/>\n<br/>   Dans ce cas, l'accès aisé à une école ou à un établissement ne pratiquant pas une telle expérience doit être garanti aux élèves dont les familles le désirent.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 2000-549 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583540",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006435990",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "MENX0000033R",
+        "@num": "7",
+        "@numtexte": "2000-549",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'éducation - art. L314-1 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006524788",
+        "@naturetexte": "CODE",
+        "@num": "L314-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de l'éducation - art. L314-2 (V)",
+        "@cidtexte": "LEGITEXT000006071191",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006524789",
+        "@naturetexte": "CODE",
+        "@num": "L314-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

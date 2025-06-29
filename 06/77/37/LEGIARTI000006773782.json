@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006773782",
+      "ANCIEN_ID": "SSHBE5XXXXX004AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/77/37/LEGIARTI000006773782.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1968-02-20",
+        "DATE_FIN": "1983-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°51-727 du 6 juin 1951 ASSURANCES SOCIALES AGRICOLES",
+          "@c_titre_court": "Décret n°51-727 du 6 juin 1951",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000868022"
+        },
+        {
+          "#text": "Décret n°51-727 du 6 juin 1951  FIXANT LE REGIME DES PENSIONS DE VIEILLESSE ET D'INVALIDITE DE L'ASSURANCE SOCIALE OBLIGATOIRE AGRICOLE.",
+          "@c_titre_court": "Décret n°51-727 du 6 juin 1951",
+          "@debut": "1951-06-09",
+          "@fin": "1990-02-21",
+          "@id_txt": "LEGITEXT000006060617"
+        }
+      ],
+      "@cid": "JORFTEXT000000868022",
+      "@date_publi": "1951-06-09",
+      "@date_signature": "1951-06-06",
+      "@nature": "DECRET",
+      "@num": "51-727"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1968-02-20",
+          "@etat": "MODIFIE",
+          "@fin": "1983-01-01",
+          "@id": "LEGIARTI000006773782",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1990-02-21",
+          "@id": "LEGIARTI000006773783",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La gestion du risque vieillesse de l'assurance sociale agricole est assurée par la caisse centrale de secours mutuels agricoles.<br/>\n<br/>   La gestion du risque invalidité de la même assurance est assurée par les caisses de mutualité sociale agricole [*organismes compétents*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°50-1225 du 21 septembre 1950 - art. 62-1 (M)",
+        "@cidtexte": "JORFTEXT000000675489",
+        "@datesignatexte": "1950-09-21",
+        "@id": "LEGIARTI000006774042",
+        "@naturetexte": "DECRET",
+        "@num": "62-1",
+        "@numtexte": "50-1225",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 68-158 1968-02-17 ART. 2 JORF 20 FEVRIER 1968",
+        "@cidtexte": "JORFTEXT000000702292",
+        "@datesignatexte": "1968-02-17",
+        "@id": "JORFTEXT000000702292",
+        "@naturetexte": "DECRET",
+        "@numtexte": "68-158",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

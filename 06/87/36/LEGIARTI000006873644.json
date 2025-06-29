@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006873644",
+      "ANCIEN_ID": "UQIQLXXXXXX056AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/36/LEGIARTI000006873644.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "56",
+        "ETAT": "ANNULE",
+        "DATE_DEBUT": "1993-03-28",
+        "DATE_FIN": "1996-10-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 1er mars 1993 relatif aux prélèvements et à la consommation d'eau ainsi qu'aux rejets de toute nature des installations classées pour la protection de l'environnement soumises à autorisation",
+          "@c_titre_court": "Arrêté du 1 mars 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000544737"
+        },
+        {
+          "#text": "Arrêté du 1 mars 1993 relatif aux prélèvements et à la consommation d'eau ainsi qu'aux rejets de toute nature des installations classées pour la protection de l'environnement soumises à autorisation",
+          "@c_titre_court": "Arrêté du 1 mars 1993",
+          "@debut": "1993-03-28",
+          "@fin": "1996-10-21",
+          "@id_txt": "LEGITEXT000006081819"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE V : Conditions de rejet.",
+            "@debut": "1993-03-28",
+            "@fin": "1996-10-21",
+            "@id": "LEGISCTA000006111140"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000544737",
+      "@date_publi": "1993-03-28",
+      "@date_signature": "1993-03-01",
+      "@nature": "ARRETE",
+      "@nor": "ENVP9320125A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1993-03-28",
+          "@etat": "ANNULE",
+          "@fin": "1996-10-21",
+          "@id": "LEGIARTI000006873644",
+          "@num": "56",
+          "@origine": "LEGI"
+        },
+        "@etat": "ANNULE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   S'il y a dans le voisinage des obstacles naturels ou artificiels de nature à perturber la dispersion des gaz de combustion, la hauteur de la cheminée doit être corrigée comme suit :<br/>\n<br/>   - on calcule la valeur hp définie à l'article 54, en tenant compte des autres rejets lorsqu'il y en a, comme indiqué à l'article 55 ;<br/>\n<br/>   - on considère comme obstacles les structures et les immeubles, et notamment celui abritant l'installation étudiée, remplissant simultanément les conditions suivantes :<br/>\n<br/>      - ils sont situés à une distance horizontale (exprimée en mètres) inférieure à 10 hp + 50 de l'axe de la cheminée considérée ;<br/>\n<br/>      - ils ont une largeur supérieure à 2 mètres ;<br/>\n<br/>      - ils sont vus de la cheminée considérée sous un angle supérieur à 15° dans le plan horizontal ;<br/>\n<br/>   - soit hi l'altitude (exprimée en mètres et prise par rapport au niveau moyen du sol à l'endroit de la cheminée considérée) d'un point d'un obstacle situé à une distance horizontale di (exprimée en mètres) de l'axe de la cheminée considérée, et soit Hi défini comme suit :<br/>\n<br/>      - si di est inférieure ou égale à 2 hp + 10, Hi = hi + 5 ;<br/>\n<br/>      - si di est comprise entre 2 hp + 10 et 10 hp + 50, Hi = 5/4 (hi + 5) (1 - di/ (10 hp + 50)) ;<br/>\n<br/>   - soit Hp la plus grande des valeurs Hi calculées pour tous les points de tous les obstacles définis ci-dessus ;<br/>\n<br/>   - la hauteur de la cheminée doit être supérieure ou égale à la plus grande des valeurs Hp et hp.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-03-01 art. 54, art. 55",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Conseil d'Etat n° 153782 1996-10-21",
+        "@sens": "source",
+        "@typelien": "ANNULATION"
+      }
+    ]
+  }
+}

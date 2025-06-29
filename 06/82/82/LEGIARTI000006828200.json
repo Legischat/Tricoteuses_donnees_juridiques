@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006828200",
+      "ANCIEN_ID": "UCIBBXXXXXX012AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/82/82/LEGIARTI000006828200.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "12",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1990-01-26",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 mars 1986 relatif à l'application dans les départements d'outre-mer des dispositions relatives aux logements destinés à l'accession à la propriété construits à l'aide de primes à la construction convertibles en bonifications d'intérêt, de prêts spéciaux du Crédit foncier de France et de subventions complémentaires de l'Etat",
+          "@c_titre_court": "Arrêté du 13 mars 1986",
+          "@debut": "1990-01-26",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074126"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : Montant des primes à la construction convertibles en bonifications d'intérêt.",
+            "@debut": "1986-03-15",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108254"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074126",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-03-13",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-03-15",
+          "@etat": "MODIFIE",
+          "@fin": "1990-01-26",
+          "@id": "LEGIARTI000006828199",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-26",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006828200",
+          "@num": "12",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le montant des primes à la construction convertibles en bonifications d'intérêt, prévues à l'article R. 311-12 du code de la construction et de l'habitation, est fixé, par application au montant des prêts accordés, d'un taux d'aide de l'Etat déterminé en tenant compte du coût des ressources concourant au financement de ces prêts. \"<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-03-13 art. 10, art. 16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1990-01-24 art. 4  VIII JORF 26 janvier 1990",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation R311-12",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la construction et de l'habitation R311-7, R311-12, R311-37",
+        "@cidtexte": "LEGITEXT000006074096",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006074096",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006665525",
+      "ANCIEN_ID": "SEHNGXXXXXX011AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/55/LEGIARTI000006665525.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "11",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-10-19",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°75-956 du 17 octobre 1975 APPLICATION DE L'ART. 994 (DUREE MAXIMALE DU TRAVAIL EN AGRICULTURE), RUR",
+          "@c_titre_court": "Décret n°75-956 du 17 octobre 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000497663"
+        },
+        {
+          "#text": "Décret n°75-956 du 17 octobre 1975  FIXANT LES CONDITIONS D'APPLICATION DE L'ARTICLE 994 DU CODE RURAL RELATIF A LA DUREE MAXIMALE DU TRAVAIL EN AGRICULTURE.",
+          "@c_titre_court": "Décret n°75-956 du 17 octobre 1975",
+          "@debut": "1975-10-19",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006062397"
+        }
+      ],
+      "@cid": "JORFTEXT000000497663",
+      "@date_publi": "1975-10-19",
+      "@date_signature": "1975-10-17",
+      "@nature": "DECRET",
+      "@num": "75-956"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-10-19",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006665525",
+          "@num": "11",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Dans les départements d'outre-mer, les attributions conférées par les dispositions ci-dessus aux chefs des services régionaux et départementaux de l'inspection du travail en agriculture sont exercées par les directeurs départementaux du travail et de la main-d'oeuvre.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. R713-34 (V)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006596480",
+        "@naturetexte": "CODE",
+        "@num": "R713-34",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural 994",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code rural R713-34",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006760533",
+      "ANCIEN_ID": "SSHAAJXXXXX010AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/05/LEGIARTI000006760533.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1959-01-09",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°45-0179 du 29 décembre 1945 PORTANT RAP POUR L'APPLICATION DE L'ORDONNANCE 452454 DU 19-12-1945 (REGIME SOCIAL DES ASSURES DES PROFESSIONS NON AGRICOLES)",
+          "@c_titre_court": "Décret n°45-0179 du 29 décembre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000682675"
+        },
+        {
+          "#text": "Décret n°45-0179 du 29 décembre 1945  RELATIF A L'APPLICATION DES DISPOSITIONS DU LIVRE III DU CODE DE LA SECURITE SOCIALE",
+          "@c_titre_court": "Décret n°45-0179 du 29 décembre 1945",
+          "@debut": "1945-12-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060430"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "PRESTATIONS",
+            "@debut": "1945-12-30",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006106442"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "DISPOSITIONS GENERALES RELATIVES AUX SOINS.",
+              "@debut": "1945-12-30",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006127361"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000682675",
+      "@date_publi": "1945-12-30",
+      "@date_signature": "1945-12-29",
+      "@nature": "DECRET",
+      "@num": "45-0179"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1959-01-09",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006760533",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>L'assuré ne peut obtenir le remboursement de ses frais de transport et de séjour en préventorium, en sanatorium, en aérium ou dans une maison de convalescence que s'il a obtenu l'accord de la caisse dans les conditions prévues à la nomenclature générale.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°45-0179 du 29 décembre 1945 - art. 10-1 (Ab)",
+        "@cidtexte": "JORFTEXT000000682675",
+        "@datesignatexte": "1945-12-29",
+        "@id": "LEGIARTI000006760534",
+        "@naturetexte": "DECRET",
+        "@num": "10-1",
+        "@numtexte": "45-0179",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-1353 1985-12-17 art. 6 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000866621",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000866621",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1353",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R322-10 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006750001",
+        "@naturetexte": "CODE",
+        "@num": "R322-10",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale L256 à L282",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R322-10 (M)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006750001",
+        "@naturetexte": "CODE",
+        "@num": "R322-10",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

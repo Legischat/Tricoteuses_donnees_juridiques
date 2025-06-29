@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006364724",
+      "ANCIEN_ID": "MRH07XXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/47/LEGIARTI000006364724.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-06-14",
+        "DATE_FIN": "1988-02-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-856 du 5 septembre 1973 RELATIF AU REGIME FINANCIER ET COMPTABLE DE LA REGION",
+          "@c_titre_court": "Décret n°73-856 du 5 septembre 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000303857"
+        },
+        {
+          "#text": "Décret n°73-856 du 5 septembre 1973 relatif au régime financier et comptable de la région.",
+          "@c_titre_court": "Décret n°73-856 du 5 septembre 1973",
+          "@debut": "1973-09-06",
+          "@fin": "1988-02-12",
+          "@id_txt": "LEGITEXT000006062132"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions générales",
+            "@debut": "1973-09-06",
+            "@fin": "1988-02-12",
+            "@id": "LEGISCTA000006086200"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000303857",
+      "@date_publi": "1973-09-06",
+      "@date_signature": "1973-09-05",
+      "@nature": "DECRET",
+      "@num": "73-856"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-09-06",
+          "@etat": "MODIFIE",
+          "@fin": "1983-06-14",
+          "@id": "LEGIARTI000006364723",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-06-14",
+          "@etat": "ABROGE",
+          "@fin": "1988-02-12",
+          "@id": "LEGIARTI000006364724",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les membres des conseils régionaux et des conseils économiques et sociaux victimes d'un accident survenu à l'occasion de l'exercice de leurs fonctions sont indemnisés dans les mêmes conditions que celles prévues à l'article L. 121-25 du code des communes.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 72-619 1972-07-05",
+        "@cidtexte": "JORFTEXT000000684297",
+        "@datesignatexte": "1972-07-05",
+        "@id": "JORFTEXT000000684297",
+        "@naturetexte": "LOI",
+        "@numtexte": "72-619",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°88-139 du 10 février 1988 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000000871606",
+        "@datesignatexte": "1988-02-10",
+        "@id": "LEGIARTI000006365635",
+        "@naturetexte": "DECRET",
+        "@nortexte": "INTB8800004D",
+        "@num": "9",
+        "@numtexte": "88-139",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "CODE DES COMMUNES. - art. L121-25 (Ab)",
+        "@cidtexte": "LEGITEXT000006070162",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006345006",
+        "@naturetexte": "CODE",
+        "@num": "L121-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006652544",
+      "ANCIEN_ID": "SBAXXXXXXXX5X09300AAXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/65/25/LEGIARTI000006652544.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "93",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1997-11-19",
+        "DATE_FIN": "2009-06-20",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail maritime",
+          "@c_titre_court": "Code du travail maritime",
+          "@debut": "1926-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072051"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat",
+            "@debut": "1977-05-19",
+            "@fin": "2010-12-01",
+            "@id": "LEGISCTA000006101383"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 1 : Dispositions communes à tous les contrats d'engagement",
+              "@debut": "1977-05-19",
+              "@fin": "2010-12-01",
+              "@id": "LEGISCTA000006123921"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006072051",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-05-19",
+          "@etat": "MODIFIE",
+          "@fin": "1997-11-19",
+          "@id": "LEGIARTI000006652543",
+          "@num": "93",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1997-11-19",
+          "@etat": "ABROGE",
+          "@fin": "2009-06-20",
+          "@id": "LEGIARTI000006652544",
+          "@num": "93",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Le contrat d'engagement conclu pour un temps déterminé prend normalement fin par l'expiration du temps pour lequel il a été conclu. <br/>\n<br/>Le contrat d'engagement conclu pour la durée d'un voyage prend fin par l'accomplissement du voyage et par la rupture volontaire ou forcée du voyage. <br/>\n<br/>Quelle que soit sa nature, le contrat d'engagement prend fin : <br/>\n<br/>1° Par le décès du marin ; <br/>\n<br/>2° Par le débarquement régulier du marin résultant notamment du consentement mutuel des parties, de la résiliation ou de la rupture du contrat dans les conditions et circonstances prévues aux articles ci-après du présent titre, de la résolution prononcée par jugement en vertu des dispositions de l'article 1184 du code civil, de la prise, du naufrage ou de l'innavigabilité du navire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi du 13 décembre 1926, v. init.",
+        "@cidtexte": "JORFTEXT000000684474",
+        "@datesignatexte": "1926-12-13",
+        "@id": "JORFTEXT000000684474",
+        "@naturetexte": "LOI",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997",
+        "@cidtexte": "JORFTEXT000000751904",
+        "@datesignatexte": "1997-11-18",
+        "@id": "LEGIARTI000006624180",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9600072L",
+        "@num": "46",
+        "@numtexte": "97-1051",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2009-717\n du 18 juin 2009 - art. 5",
+        "@cidtexte": "JORFTEXT000020756186",
+        "@datesignatexte": "2009-06-18",
+        "@id": "LEGIARTI000020756885",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "DEVT0909151R",
+        "@num": "5",
+        "@numtexte": "2009-717",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code civil - art. 1184",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006436635",
+        "@naturetexte": "CODE",
+        "@num": "1184",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code du travail maritime - art. 102-1 (Ab)",
+        "@cidtexte": "LEGITEXT000006072051",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006652572",
+        "@naturetexte": "CODE",
+        "@num": "102-1",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

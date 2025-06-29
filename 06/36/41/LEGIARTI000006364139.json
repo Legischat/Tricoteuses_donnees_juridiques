@@ -1,0 +1,122 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006364139",
+      "ANCIEN_ID": "MRE01XXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/36/41/LEGIARTI000006364139.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-08",
+        "DATE_FIN": "1996-02-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°72-619 du 5 juillet 1972 PORTANT CREATION ET ORGANISATION DES REGIONS",
+          "@c_titre_court": "Loi n°72-619 du 5 juillet 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000684297"
+        },
+        {
+          "#text": "Loi n° 72-619 du 5 juillet 1972 portant création et organisation des régions.",
+          "@c_titre_court": "Loi n° 72-619 du 5 juillet 1972",
+          "@debut": "1973-10-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068445"
+        }
+      ],
+      "@cid": "JORFTEXT000000684297",
+      "@date_publi": "1972-07-09",
+      "@date_signature": "1972-07-05",
+      "@nature": "LOI",
+      "@num": "72-619"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-10-01",
+          "@etat": "MODIFIE",
+          "@fin": "1986-01-08",
+          "@id": "LEGIARTI000006364138",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-08",
+          "@etat": "ABROGE",
+          "@fin": "1996-02-24",
+          "@id": "LEGIARTI000006364139",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Il est créé, dans les limites territoriales précédemment reconnues aux établissements publics régionaux, des collectivités territoriales qui prennent la dénomination de \"régions\".<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°86-16 du 6 janvier 1986 - art. 2 () JORF 8 janvier 1986",
+        "@cidtexte": "JORFTEXT000000512456",
+        "@datesignatexte": "1986-01-06",
+        "@id": "LEGIARTI000006274953",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "86-16",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°86-16 du 6 janvier 1986 - art. 32 (V)",
+        "@cidtexte": "JORFTEXT000000512456",
+        "@datesignatexte": "1986-01-06",
+        "@id": "LEGIARTI000006364524",
+        "@naturetexte": "LOI",
+        "@num": "32",
+        "@numtexte": "86-16",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996",
+        "@cidtexte": "JORFTEXT000000559120",
+        "@datesignatexte": "1996-02-21",
+        "@id": "LEGIARTI000006340192",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9400076L",
+        "@num": "12",
+        "@numtexte": "96-142",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code général des collectivités territoriales - art. L4111-1 (V)",
+        "@cidtexte": "LEGITEXT000006070633",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006392121",
+        "@naturetexte": "CODE",
+        "@num": "L4111-1",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

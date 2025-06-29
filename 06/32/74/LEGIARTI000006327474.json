@@ -1,0 +1,95 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327474",
+      "ANCIEN_ID": "FAIKGXXXXXX061AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/74/LEGIARTI000006327474.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "61",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1984-01-01",
+        "DATE_FIN": "2009-06-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 décembre 1983 relatif au régime d'exonération fiscale afférent à certaines importations de biens.",
+          "@c_titre_court": "Arrêté du 30 décembre 1983",
+          "@debut": "1984-01-01",
+          "@fin": "2009-06-25",
+          "@id_txt": "LEGITEXT000006069847"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "IMPORTATIONS AYANT TRAIT A CERTAINES RELATIONS INTERNATIONALES",
+            "@debut": "1984-01-01",
+            "@fin": "2009-06-25",
+            "@id": "LEGISCTA000006084908"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CADEAUX RECUS DANS LE CADRE DES RELATIONS INTERNATIONALES",
+              "@debut": "1984-01-01",
+              "@fin": "2009-06-25",
+              "@id": "LEGISCTA000006114980"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069847",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-12-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1984-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2009-06-25",
+          "@id": "LEGIARTI000006327474",
+          "@num": "61",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "L'exonération n'est accordée que pour autant : <br/>\n    - que les objets offerts en cadeau le soient à titre exceptionnel ; <br/>\n    - qu'ils ne traduisent par leur nature, leur valeur et leur quantité aucune préoccupation d'ordre commercial ; <br/>\n    - et qu'ils ne soient pas utilisés à des fins commerciales [*conditions*].<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "\"Le présent arrêté entre en vigueur le 1er janvier 1984\" (art. 94)",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté du 18 juin 2009 - art. 2",
+        "@cidtexte": "JORFTEXT000020782407",
+        "@datesignatexte": "2009-06-18",
+        "@id": "LEGIARTI000020784709",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BCFL0905918A",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

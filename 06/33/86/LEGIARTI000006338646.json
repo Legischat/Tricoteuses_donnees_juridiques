@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006338646",
+      "ANCIEN_ID": "MCEAGXXXXXX015AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/33/86/LEGIARTI000006338646.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "15",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-01-01",
+        "DATE_FIN": "1996-02-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°82-1169 du 31 décembre 1982 RELATIVE A L'ORGANISATION ADMINISTRATIVE DE PARIS,MARSEILLE,LYON ET DES ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE",
+          "@c_titre_court": "Loi n°82-1169 du 31 décembre 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880033"
+        },
+        {
+          "#text": "Loi n° 82-1169 du 31 décembre 1982 relative à l'organisation administrative de Paris, Marseille, Lyon et des établissements publics de coopération intercommunale.",
+          "@c_titre_court": "Loi n° 82-1169 du 31 décembre 1982",
+          "@debut": "1983-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068731"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions communes à Paris, Marseille et Lyon.",
+            "@debut": "1983-01-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006085299"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Des conseils d'arrondissement.",
+              "@debut": "1983-01-01",
+              "@fin": "1996-02-24",
+              "@id": "LEGISCTA000006115172"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000880033",
+      "@date_publi": "1983-01-01",
+      "@date_signature": "1982-12-31",
+      "@nature": "LOI",
+      "@num": "82-1169"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1996-02-24",
+          "@id": "LEGIARTI000006338646",
+          "@num": "15",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le conseil d'arrondissement est consulté sur les conditions générales d'admission dans les crèches, les écoles maternelles, les résidences pour personnes âgées et foyers-logements relevant de la commune, confiés par celle-ci à un tiers ou gérés par un établissement public dépendant de la commune.<br/>\n    Une commission mixte composée d'un nombre égal de représentants du maire d'arrondissement et du maire de la commune, désignés parmi les conseillers élus, définit les conditions générales d'admission aux équipements sportifs principalement destinés aux habitants de l'arrondissement, ainsi que les conditions générales d'utilisation de ces équipements. Elle est, en outre, consultée par le conseil d'arrondissement sur les conditions générales d'admission aux équipements mentionnés aux articles 10 et 11, ainsi que sur les conditions générales d'utilisation de ces équipements.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 82-1169 1982-12-31 ART. 10 et ART. 11",
+        "@cidtexte": "JORFTEXT000000880033",
+        "@datesignatexte": "1982-12-31",
+        "@id": "JORFTEXT000000880033",
+        "@naturetexte": "LOI",
+        "@numtexte": "82-1169",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°96-142 du 21 février 1996 - art. 12 (V) JORF 24 février 1996",
+        "@cidtexte": "JORFTEXT000000559120",
+        "@datesignatexte": "1996-02-21",
+        "@id": "LEGIARTI000006340192",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9400076L",
+        "@num": "12",
+        "@numtexte": "96-142",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code général des collectivités territoriales - art. L2511-21 (M)",
+        "@cidtexte": "LEGITEXT000006070633",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006391049",
+        "@naturetexte": "CODE",
+        "@num": "L2511-21",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

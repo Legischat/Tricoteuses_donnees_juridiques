@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006281297",
+      "ANCIEN_ID": "APEAIXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/12/LEGIARTI000006281297.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-01-07",
+        "DATE_FIN": "2022-02-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°55-20 du 4 janvier 1955 MARQUES DE FABRIQUE ET DE COMMERCE PLACEES SOUS SEQUESTRE : CESSION AUX ANCIENS TITULAIRES PAR LE SERVICE DES DOMAINES",
+          "@c_titre_court": "Loi n°55-20 du 4 janvier 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880001"
+        },
+        {
+          "#text": "Loi n° 55-20 du 4 janvier 1955 relative aux marques de fabrique et de commerce sous séquestre en France comme biens ennemis",
+          "@c_titre_court": "Loi n° 55-20 du 4 janvier 1955",
+          "@debut": "1955-01-07",
+          "@fin": "2022-02-16",
+          "@id_txt": "LEGITEXT000006068142"
+        }
+      ],
+      "@cid": "JORFTEXT000000880001",
+      "@date_publi": "1955-01-07",
+      "@date_signature": "1955-01-04",
+      "@nature": "LOI",
+      "@num": "55-20"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-01-07",
+          "@etat": "ABROGE",
+          "@fin": "2022-02-16",
+          "@id": "LEGIARTI000006281297",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Par dérogation aux dispositions de l'article 34 de la loi n° 47-520 du 21 mars 1947, les marques de fabrique et de commerce allemandes placées sous séquestre en exécution de l'ordonnance du 5 octobre 1944, peuvent être cédées à titre onéreux aux anciens titulaires ou à leurs ayants droit par le service des domaines.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI n° 47-520 du 21 mars 1947",
+        "@cidtexte": "JORFTEXT000000316289",
+        "@datesignatexte": "1947-03-21",
+        "@id": "JORFTEXT000000316289",
+        "@naturetexte": "LOI",
+        "@numtexte": "47-520",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n° 55-20 du 4 janvier 1955 - art. 2 (Ab)",
+        "@cidtexte": "JORFTEXT000000880001",
+        "@datesignatexte": "1955-01-04",
+        "@id": "LEGIARTI000006281298",
+        "@naturetexte": "LOI",
+        "@num": "2",
+        "@numtexte": "55-20",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI n°2022-171 du 14 février 2022 - art. unique (V)",
+        "@cidtexte": "JORFTEXT000045167534",
+        "@datesignatexte": "2022-02-14",
+        "@id": "LEGIARTI000045168380",
+        "@naturetexte": "LOI",
+        "@nortexte": "TFPX2117307L",
+        "@num": "unique",
+        "@numtexte": "2022-171",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Ordonnance 1944-10-05",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006863521",
+      "ANCIEN_ID": "UPIPVXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/35/LEGIARTI000006863521.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-05-21",
+        "DATE_FIN": "1984-05-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 16 mai 1983 relatif à la taxe due par les bénéficiaires du plan de chasse à titre de participation à la réparation des dégâts de grand gibier.",
+          "@c_titre_court": "Arrêté du 16 mai 1983",
+          "@debut": "1983-05-21",
+          "@fin": "1984-05-10",
+          "@id_txt": "LEGITEXT000006074660"
+        }
+      ],
+      "@cid": "LEGITEXT000006074660",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-05-16",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-21",
+          "@etat": "ABROGE",
+          "@fin": "1984-05-10",
+          "@id": "LEGIARTI000006863521",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-05-21",
+          "@etat": "ABROGE",
+          "@fin": "1984-05-10",
+          "@id": "LEGIARTI000006863520",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "L'arrêté du 20 avril 1982 relatif à la taxe due par les bénéficiaires du plan de chasse à titre de participation à la réparation des dégâts de grand gibier est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1982-04-20 abrogé",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1983-05-16 ART. 5 : Les dispositions du présent arrêté sont applicables à compter de la campagne 1983-1984",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1984-04-05 ART. 3 JORF 10 MAI 1984",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "LOI 78-1240 1978-12-29 ART. 17",
+        "@cidtexte": "JORFTEXT000000522721",
+        "@datesignatexte": "1978-12-29",
+        "@id": "JORFTEXT000000522721",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-1240",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "LOI 78-1240 1978-12-29 ART. 17",
+        "@cidtexte": "JORFTEXT000000522721",
+        "@datesignatexte": "1978-12-29",
+        "@id": "JORFTEXT000000522721",
+        "@naturetexte": "LOI",
+        "@numtexte": "78-1240",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

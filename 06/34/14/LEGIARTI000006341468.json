@@ -1,0 +1,120 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006341468",
+      "ANCIEN_ID": "MCHBIXXXXXX055AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/14/LEGIARTI000006341468.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "55",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1962-04-04",
+        "DATE_FIN": "2009-03-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°62-367 du 26 mars 1962 PORTANT RAP POUR L'APPLICATION DE L'ORDONNANCE 59-63 DU 6 JANVIER 1959 RELATIVE A LA REQUISITIONS DE BIENS ET DE SERVICES",
+          "@c_titre_court": "Décret n°62-367 du 26 mars 1962",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000669547"
+        },
+        {
+          "#text": "Décret n°62-367 du 26 mars 1962 portant règlement d'administration publique pour l'application de l'ordonnance n° 59-63 du 6 janvier 1959 relative aux réquisitions de biens et de services",
+          "@c_titre_court": "Décret n°62-367 du 26 mars 1962",
+          "@debut": "1962-04-04",
+          "@fin": "2009-03-07",
+          "@id_txt": "LEGITEXT000006061086"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre IV : Conséquences des travaux exécutés par l'Etat au cours de réquisitions d'immeubles, de navires ou d'aéronefs",
+            "@debut": "1962-04-04",
+            "@fin": "2009-03-07",
+            "@id": "LEGISCTA000006085456"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000669547",
+      "@date_publi": "1962-04-04",
+      "@date_signature": "1962-03-26",
+      "@nature": "DECRET",
+      "@num": "62-367"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1962-04-04",
+          "@etat": "ABROGE",
+          "@fin": "2009-03-07",
+          "@id": "LEGIARTI000006341468",
+          "@num": "55",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les travaux de gros entretien, qui restent à la charge du propriétaire, sont ceux prévus à l'article 1720 du Code civil.<br/>\n    Toutefois, lorsque les dépenses nécessaires sont faites par l'Etat ou le bénéficiaire de la réquisition, au lieu et place du propriétaire, leur remboursement s'effectue par voie de compensation à due concurrence avec les sommes revenant à celui-ci au titre de la réquisition.<br/>\n    Lorsque le montant de la dépense faite au lieu et place du propriétaire excède le montant des indemnités dues par l'Etat, le surplus est remboursé par le propriétaire en dix annuités au plus.<br/>\n    La créance de l'Etat est recouvrée dans les conditions prévues à l'article 61 ci-dessous.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 59-63 1959-01-06",
+        "@cidtexte": "JORFTEXT000000517516",
+        "@datesignatexte": "1959-01-06",
+        "@id": "JORFTEXT000000517516",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "59-63",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°62-367 du 26 mars 1962 - art. 61 (V)",
+        "@cidtexte": "JORFTEXT000000669547",
+        "@datesignatexte": "1962-03-26",
+        "@id": "LEGIARTI000006341476",
+        "@naturetexte": "DECRET",
+        "@num": "61",
+        "@numtexte": "62-367",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2009-254 du 4 mars 2009 - art. 3 (V)",
+        "@cidtexte": "JORFTEXT000020409094",
+        "@datesignatexte": "2009-03-04",
+        "@id": "LEGIARTI000020409819",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEFD0817989D",
+        "@num": "3",
+        "@numtexte": "2009-254",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code civil - art. 1720 (V)",
+        "@cidtexte": "LEGITEXT000006070721",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006442784",
+        "@naturetexte": "CODE",
+        "@num": "1720",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

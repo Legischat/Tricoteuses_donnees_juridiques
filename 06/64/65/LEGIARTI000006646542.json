@@ -1,0 +1,158 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006646542",
+      "ANCIEN_ID": "SAAXXXXXXXX1X145L13AXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/65/LEGIARTI000006646542.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L145-13",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1992-08-01",
+        "DATE_FIN": "2000-12-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code du travail",
+          "@c_titre_court": "Code du travail",
+          "@debut": "1973-01-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072050"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative ancienne",
+            "@debut": "1973-01-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006101375"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre Ier : Conventions relatives au travail",
+              "@debut": "1973-01-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006123870"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre IV : Salaire.",
+                "@debut": "1973-01-03",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006139779"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre V : Saisie et cession de rémunérations dues par un employeur.",
+                  "@debut": "1992-08-01",
+                  "@fin": "2008-03-01",
+                  "@id": "LEGISCTA000006154029"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006072050",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1992-08-01",
+          "@etat": "MODIFIE",
+          "@fin": "2000-12-16",
+          "@id": "LEGIARTI000006646542",
+          "@num": "L145-13",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2000-12-16",
+          "@etat": "ABROGE",
+          "@fin": "2008-05-01",
+          "@id": "LEGIARTI000006646543",
+          "@num": "L145-13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En considération de la quotité saisissable de la rémunération, du montant de la créance et du taux des intérêts dus, le juge peut décider, à la demande du débiteur ou du créancier, que la créance cause de la saisie produira intérêt à un taux réduit à compter de l'autorisation de saisie ou que les sommes retenues sur la rémunération s'imputeront d'abord sur le capital.<br/>\n<br/>   Les majorations de retard prévues par l'article 3 de la loi n° 75-619 du 11 juillet 1975 relative au taux de l'intérêt légal cessent de s'appliquer aux sommes retenues à compter du jour de leur prélèvement sur la rémunération.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 73-1046 1973-11-15",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°75-619 du 11 juillet 1975 - art. 3 (M)",
+        "@cidtexte": "JORFTEXT000000522104",
+        "@datesignatexte": "1975-07-11",
+        "@id": "LEGIARTI000006701621",
+        "@naturetexte": "LOI",
+        "@num": "3",
+        "@numtexte": "75-619",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°91-650 du 9 juillet 1991 - art. 49 () JORF 14 juillet 1991 en vigueur le 1er août 1992",
+        "@cidtexte": "JORFTEXT000000172847",
+        "@datesignatexte": "1991-07-09",
+        "@id": "LEGIARTI000006491426",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX8900065L",
+        "@num": "49",
+        "@numtexte": "91-650",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Code du travail - art. L3252-13 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006902894",
+        "@naturetexte": "CODE",
+        "@num": "L3252-13",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Code du travail - art. L3252-13 (VD)",
+        "@cidtexte": "LEGITEXT000006072050",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006902894",
+        "@naturetexte": "CODE",
+        "@num": "L3252-13",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

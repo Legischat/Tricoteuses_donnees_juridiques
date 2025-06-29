@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006533441",
+      "ANCIEN_ID": "ADHAAXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/34/LEGIARTI000006533441.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1930-05-10",
+        "DATE_FIN": "2003-05-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 8 septembre 1856 portant règlement sur la conservation et l'aménagement des sources d'eaux minérales",
+          "@c_titre_court": "Décret du 8 septembre 1856",
+          "@debut": "1856-09-08",
+          "@fin": "2003-05-27",
+          "@id_txt": "LEGITEXT000006071225"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Demande en déclaration d'utilité publique.",
+            "@debut": "1856-09-08",
+            "@fin": "2003-05-27",
+            "@id": "LEGISCTA000006096207"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071225",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1856-09-08",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1930-05-10",
+          "@etat": "ABROGE",
+          "@fin": "2003-05-27",
+          "@id": "LEGIARTI000006533441",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le conseil général des mines, l'institut d'hydrologie et de climatologie, le conseil supérieur d'hygiène, l'académie de médecine et la commission permanente des stations hydrominérales et climatiques de France sont appelés à donner leur avis après avoir, s'ils le jugent utile, prescrit ou effectué eux-mêmes les compléments d'instruction et les vérifications nécessaires.<br/>\n<br/>   Il est statué par un décret en Conseil d'Etat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de la santé publique - art. R1322-21 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006909706",
+        "@naturetexte": "CODE",
+        "@num": "R1322-21",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Décret 1856-09-08 Bulletin des lois, 2e S., B. 428, n° 4017",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Décret 2003-462 2003-05-21 art. 5 1° JORF 27 mai 2003",
+        "@cidtexte": "JORFTEXT000000412528",
+        "@datesignatexte": "2003-05-21",
+        "@id": "JORFTEXT000000412528",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANP0321523D",
+        "@numtexte": "2003-462",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1856-07-14",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

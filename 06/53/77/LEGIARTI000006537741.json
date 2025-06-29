@@ -1,0 +1,82 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006537741",
+      "ANCIEN_ID": "PPINIXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/77/LEGIARTI000006537741.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-07-07",
+        "DATE_FIN": "1991-11-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 juillet 1989 PORTANT ORGANISATION DU SERVICE DES ESSENCES DES ARMEES",
+          "@c_titre_court": "Arrêté du 3 juillet 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000480224"
+        },
+        {
+          "#text": "Arrêté du 3 juillet 1989 portant organisation du service des essences des armées",
+          "@c_titre_court": "Arrêté du 3 juillet 1989",
+          "@debut": "1989-07-07",
+          "@fin": "1991-11-07",
+          "@id_txt": "LEGITEXT000006059040"
+        }
+      ],
+      "@cid": "JORFTEXT000000480224",
+      "@date_publi": "1989-07-07",
+      "@date_signature": "1989-07-03",
+      "@nature": "ARRETE",
+      "@nor": "DEFD8901375A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-07-07",
+          "@etat": "ABROGE",
+          "@fin": "1991-11-07",
+          "@id": "LEGIARTI000006537741",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La direction centrale du service des essences des armées comprend [*composition*], outre le secrétariat du directeur central :<br/>\n<br/>   - un bureau Etudes générales ;<br/>\n<br/>   - une sous-direction Emploi ;<br/>\n<br/>   - une sous-direction Administration.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-11-05 art. 7 JORF 7 novembre 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 79-53 1979-01-17",
+        "@cidtexte": "JORFTEXT000000516652",
+        "@datesignatexte": "1979-01-17",
+        "@id": "JORFTEXT000000516652",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-53",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

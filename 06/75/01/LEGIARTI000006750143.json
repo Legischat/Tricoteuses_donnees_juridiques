@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006750143",
+      "ANCIEN_ID": "SSAXXXXXXXX2X4A2R017XXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/01/LEGIARTI000006750143.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "TABLEAU 17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1961-01-12",
+        "DATE_FIN": "1985-06-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de la sécurité sociale",
+          "@c_titre_court": "Code de la sécurité sociale.",
+          "@debut": "1958-10-16",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073189"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie réglementaire - Décrets en Conseil d'Etat",
+            "@debut": "1961-01-12",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006106085"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles prévus à l'article R. 461-3",
+              "@debut": "1961-01-12",
+              "@fin": "1989-09-17",
+              "@id": "LEGISCTA000006126959"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "17. DERMATOSES CAUSEES PAR L'ACTION DU SESQUISULFURE DE PHOSPHORE.",
+                "@debut": "1961-01-12",
+                "@fin": "1985-06-23",
+                "@id": "LEGISCTA000006141886"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006073189",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-01-12",
+          "@etat": "ABROGE",
+          "@fin": "1985-06-23",
+          "@id": "LEGIARTI000006750143",
+          "@num": "TABLEAU 17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>MALADIES ENGENDREES PAR LE SESQUISULFURE DE PHOSPHORE Dermites aiguës, chroniques ou récidivantes dues au sesquisulfure de phosphore (phosphorides) DELAI DE PRISE EN CHARGE : 30 jours</p>\n<br/>\n<p>LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES : </p>\n<br/>\n<p>Manipulation et emploi du sesquisulfure de phosphore, notamment dans les usines fabriquant ce produit et dans les manufactures d'allumettes.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 61-28 1961-01-11 art. 1 JORF 12 janvier 1961",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 85-630 1985-06-19 art. 11 JORF 23 juin 1985",
+        "@cidtexte": "JORFTEXT000000508386",
+        "@datesignatexte": "1985-06-19",
+        "@id": "JORFTEXT000000508386",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-630",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale. - art. R461-3 (V)",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006750479",
+        "@naturetexte": "CODE",
+        "@num": "R461-3",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

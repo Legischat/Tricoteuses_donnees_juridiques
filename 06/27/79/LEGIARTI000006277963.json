@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006277963",
+      "ANCIEN_ID": "ANIEYXXXXXX017AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/79/LEGIARTI000006277963.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-01-01",
+        "DATE_FIN": "2002-08-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 mars 1993 relatif au contrôle des ensembles de mesurage routiers en service",
+          "@c_titre_court": "Arrêté du 22 mars 1993",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000870481"
+        },
+        {
+          "#text": "Arrêté du 22 mars 1993 relatif au contrôle des ensembles de mesurage routiers en service",
+          "@c_titre_court": "Arrêté du 22 mars 1993",
+          "@debut": "1994-01-01",
+          "@fin": "2002-08-08",
+          "@id_txt": "LEGITEXT000006060120"
+        }
+      ],
+      "@cid": "JORFTEXT000000870481",
+      "@date_publi": "1993-03-28",
+      "@date_signature": "1993-03-22",
+      "@nature": "ARRETE",
+      "@nor": "INDB9300310A",
+      "@num_parution_jo": "74"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1994-01-01",
+          "@etat": "ABROGE",
+          "@fin": "2002-08-08",
+          "@id": "LEGIARTI000006277963",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les dispositions du présent arrêté sont applicables à compter du 1er janvier 1994. En conséquence, les ensembles de mesurage routiers ayant été entretenus jusqu'au 31 décembre 1993 par un réparateur agréé au sens du décret du 7 janvier 1980 précité et ayant fait l'objet d'un contrôle d'entretien au sens de ce décret devront avoir subi la vérification périodique conformément aux dispositions du présent arrêté au plus tard le 31 décembre 1994. Les autres ensembles de mesurage routiers devront avoir subi la vérification périodique avant le 1er juillet 1994. Les autres ensembles de mesurage mentionnés à l'article 1er devront avoir subi la vérification périodique au plus tard le 31 décembre 1994. Les agréments d'organismes de vérification périodique et des réparateurs prononcés en application du présent arrêté avant le 1er janvier 1994 prendront effet à cette date.</p>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1993-03-22 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 80-17 1980-01-07",
+        "@cidtexte": "JORFTEXT000000879154",
+        "@datesignatexte": "1980-01-07",
+        "@id": "JORFTEXT000000879154",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-17",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 28 juin 2002 - art. 20 (Ab)",
+        "@cidtexte": "JORFTEXT000000774135",
+        "@datesignatexte": "2002-06-28",
+        "@id": "LEGIARTI000020463742",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "INDI0200369A",
+        "@num": "20",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

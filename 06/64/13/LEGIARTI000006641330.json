@@ -1,0 +1,117 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006641330",
+      "ANCIEN_ID": "RLIFKXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/13/LEGIARTI000006641330.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-08-07",
+        "DATE_FIN": "2008-11-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 22 septembre 1999 établissant des mesures de lutte contre les maladies réputées contagieuses des poissons",
+          "@c_titre_court": "Arrêté du 22 septembre 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000213611"
+        },
+        {
+          "#text": "Arrêté du 22 septembre 1999 établissant des mesures de lutte contre les maladies réputées contagieuses des poissons",
+          "@c_titre_court": "Arrêté du 22 septembre 1999",
+          "@debut": "1999-10-16",
+          "@fin": "2008-11-08",
+          "@id_txt": "LEGITEXT000005628632"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : Dispositions générales.",
+            "@debut": "1999-10-16",
+            "@fin": "2008-11-08",
+            "@id": "LEGISCTA000006101051"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000213611",
+      "@date_publi": "1999-10-16",
+      "@date_signature": "1999-09-22",
+      "@ministere": "MINISTERE DE L'AGRICULTURE ET DE LA PECHE",
+      "@nature": "ARRETE",
+      "@nor": "AGRG9902024A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-10-16",
+          "@etat": "MODIFIE",
+          "@fin": "2003-08-07",
+          "@id": "LEGIARTI000006641329",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-08-07",
+          "@etat": "ABROGE",
+          "@fin": "2008-11-08",
+          "@id": "LEGIARTI000006641330",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toutes les exploitations qui détiennent ou élèvent des poissons des espèces sensibles aux maladies réputées contagieuses telles que fixées par l'article R. 223-22 du code rural doivent être déclarées par leur exploitant au préfet.<br/>\n<br/>   Chaque exploitant tient un registre sur lequel figurent :<br/>\n<br/>   - les dates de réception, les quantités, les espèces, les tailles, l'origine, le fournisseur et l'identification du véhicule de transport des poissons vivants, oeufs ou gamètes introduits dans l'exploitation ;<br/>\n<br/>   - les dates d'expédition et toutes les informations concernant les poissons vivants, oeufs et gamètes quittant l'exploitation ainsi que leur destination et le détail des modalités d'expédition et de désinfection des moyens de transport ;<br/>\n<br/>   - la mortalité constatée.<br/>\n<br/>   Ce registre doit être tenu au jour le jour et conservé pendant quatre ans ; il est tenu à la disposition des agents chargés du contrôle.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°2003-768 du 1 août 2003 - art. 3 (V) JORF 7 août 2003",
+        "@cidtexte": "JORFTEXT000000597743",
+        "@datesignatexte": "2003-08-01",
+        "@id": "LEGIARTI000006605925",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0300394D",
+        "@num": "3",
+        "@numtexte": "2003-768",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 4 novembre 2008 - art. 39",
+        "@cidtexte": "JORFTEXT000019732816",
+        "@datesignatexte": "2008-11-04",
+        "@id": "LEGIARTI000019733278",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG0825593A",
+        "@num": "39",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code rural R223-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

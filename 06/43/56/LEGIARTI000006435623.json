@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006435623",
+      "ANCIEN_ID": "PEEAVXXXXXX067AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/56/LEGIARTI000006435623.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "67",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1850-03-15",
+        "DATE_FIN": "1986-04-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 15 mars 1850 sur l'enseignement",
+          "@c_titre_court": "Loi du 15 mars 1850",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000332156"
+        },
+        {
+          "#text": "Loi  du 15 mars 1850 sur l'enseignement \"Loi Falloux\"",
+          "@c_titre_court": "Loi du 15 mars 1850",
+          "@debut": "1850-03-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006070888"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : De l'enseignement secondaire",
+            "@debut": "1850-03-15",
+            "@fin": "2000-06-22",
+            "@id": "LEGISCTA000006090571"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre Ier : Des établissements particuliers d'enseignement secondaire.",
+              "@debut": "1850-03-15",
+              "@fin": "2000-06-22",
+              "@id": "LEGISCTA000006118007"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000332156",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1850-03-15",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1850-03-15",
+          "@etat": "ABROGE",
+          "@fin": "1986-04-01",
+          "@id": "LEGIARTI000006435623",
+          "@num": "67",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de désordre grave dans le régime intérieur d'un établissement libre d'enseignement secondaire, le chef de cet établissement peut être appelé devant le conseil académique et soumis à la réprimande avec ou sans publicité.<br/>\n<br/>   La réprimande ne donne lieu à aucun recours.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1850-03-15 Bull. des lois, 10e S., B. 246, n° 2029",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance n° 2000-549 du 15 juin 2000 - art. 7 (V)",
+        "@cidtexte": "JORFTEXT000000583540",
+        "@datesignatexte": "2000-06-15",
+        "@id": "LEGIARTI000006435990",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "MENX0000033R",
+        "@num": "7",
+        "@numtexte": "2000-549",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

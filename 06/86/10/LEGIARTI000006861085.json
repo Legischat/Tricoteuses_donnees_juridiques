@@ -1,0 +1,126 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861085",
+      "ANCIEN_ID": "UPIEHXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/10/LEGIARTI000006861085.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-03-19",
+        "DATE_FIN": "2004-07-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 février 1974 fixant les règles techniques et de sécurité applicables au stockage et à l'utilisation de produits pétroliers dans les lieux non visés par la législation des établissements dangereux, insalubres ou incommodes et de la réglementation des établissements recevant du public - Annexe A.",
+          "@c_titre_court": "Arrêté du 26 février 1974",
+          "@debut": "1974-03-18",
+          "@fin": "2004-07-26",
+          "@id_txt": "LEGITEXT000006074439"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Règles de construction et d'essais des différents types de réservoirs",
+            "@debut": "1974-03-18",
+            "@fin": "2004-07-26",
+            "@id": "LEGISCTA000006110089"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Réservoirs fermés métalliques à simple paroi de type \"ordinaire\".",
+              "@debut": "1974-03-22",
+              "@fin": "2004-07-26",
+              "@id": "LEGISCTA000006130033"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074439",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-02-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-03-22",
+          "@etat": "MODIFIE",
+          "@fin": "1976-03-19",
+          "@id": "LEGIARTI000049236869",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1976-03-19",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-26",
+          "@id": "LEGIARTI000006861085",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les réservoirs fermés métalliques à simple paroi de type \"ordinaire\" ont la forme d'un cylindre de section circulaire avec des fonds bombés et sont généralement installés en position horizontale. Ils doivent être conformes à la norme française NF M 88515 à laquelle doit se substituer la norme française NF M 88512 lorsque celle-ci sera homologuée.<br/>\n<br/>   La résistance et l'étanchéité de chaque réservoir doivent être vérifiées par le constructeur sous une pression hydraulique de 3 bars. Pour cet essai, l'épreuve pneumatique n'est pas admise.<br/>\n<br/>   L'essai ne doit provoquer en aucune partie du réservoir de déformation permanente appréciable ni susceptible d'en altérer la résistance.<br/>\n<br/>  Le réservoir doit être protégé contre la corrosion externe au moyen d'un revêtement. Ce revêtement doit être vérifié soit au peigne électrique sous une tension minimale de 2500 volts, soit par tout autre moyen équivalent reconnu par le ministre chargé des carburants, après avis du comité technique de l'utilisation des produits pétroliers.<br/>\n<br/>   Après la mise en place du réservoir chez l'utilisateur, il appartient à l'installateur de s'assurer qu'aucune partie de la couche protectrice n'a été endommagée à charge par cette entreprise de remédier à tous défauts de protection facilement contrôlables.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1968-03-21",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 62-1297 1962-11-07",
+        "@cidtexte": "JORFTEXT000000673018",
+        "@datesignatexte": "1962-11-07",
+        "@id": "JORFTEXT000000673018",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1297",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 3 mars 1976 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000308581",
+        "@datesignatexte": "1976-03-03",
+        "@id": "LEGIARTI000049134385",
+        "@naturetexte": "ARRETE",
+        "@num": "2",
+        "@sens": "cible",
+        "@typelien": "MODIFIE"
+      },
+      {
+        "#text": "Arrêté du 1 juillet 2004 - art. 34",
+        "@cidtexte": "JORFTEXT000000437731",
+        "@datesignatexte": "2004-07-01",
+        "@id": "LEGIARTI000020342736",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "INDI0403209A",
+        "@num": "34",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

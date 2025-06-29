@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006892491",
+      "ANCIEN_ID": "UUICWXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/89/24/LEGIARTI000006892491.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1973-11-27",
+        "DATE_FIN": "2021-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 23 novembre 1973 CONDITIONS D'UTILISATION DE L'AERODROME DE TOUSSUS-LE-NOBLE",
+          "@c_titre_court": "Arrêté du 23 novembre 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000835166"
+        },
+        {
+          "#text": "Arrêté du 23 novembre 1973 fixant les conditions d'utilisation de l'aérodrome de Toussus-le-Noble",
+          "@c_titre_court": "Arrêté du 23 novembre 1973",
+          "@debut": "1973-11-27",
+          "@fin": "2021-07-01",
+          "@id_txt": "LEGITEXT000006075112"
+        }
+      ],
+      "@cid": "JORFTEXT000000835166",
+      "@date_publi": "1973-11-27",
+      "@date_signature": "1973-11-23",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-11-27",
+          "@etat": "ABROGE",
+          "@fin": "2021-07-01",
+          "@id": "LEGIARTI000006892491",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les services de contrôle de la circulation aérienne sont chargés d'assurer le respect par les aéronefs fréquentant l'aérodrome des consignes édictées en application du présent arrêté et de relever les infractions éventuelles. Les procès-verbaux d'infraction sont communiqués au ministre des transports chargé de les sanctionner.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 11 juin 2021 - art. 4",
+        "@cidtexte": "JORFTEXT000043679298",
+        "@datesignatexte": "2021-06-11",
+        "@id": "LEGIARTI000043682304",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "TRAA2115677A",
+        "@num": "4",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de l'aviation civile - art. R221-3 (V)",
+        "@cidtexte": "LEGITEXT000006074234",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006844715",
+        "@naturetexte": "CODE",
+        "@num": "R221-3",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

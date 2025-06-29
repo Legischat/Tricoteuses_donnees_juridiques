@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006900745",
+      "ANCIEN_ID": "AKEAGXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/90/07/LEGIARTI000006900745.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-02-06",
+        "DATE_FIN": "1984-07-25",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°41-2532 du 13 juin 1941 relative à la réglementation et à l'organisation de la profession bancaire",
+          "@c_titre_court": "Loi n°41-2532 du 13 juin 1941",
+          "@debut": "1941-07-06",
+          "@fin": "1984-07-25",
+          "@id_txt": "LEGITEXT000006075122"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre Ier : De la réglementation de la profession bancaire",
+            "@debut": "1941-07-06",
+            "@fin": "1984-07-27",
+            "@id": "LEGISCTA000006112872"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Capital minimum des banques.",
+              "@debut": "1972-02-06",
+              "@fin": "1984-07-25",
+              "@id": "LEGISCTA000006132309"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006075122",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1941-06-13",
+      "@nature": "LOI",
+      "@num": "41-2532"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-02-06",
+          "@etat": "ABROGE",
+          "@fin": "1984-07-25",
+          "@id": "LEGIARTI000006900745",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute banque doit justifier à son bilan d'un capital [*social*] atteignant au moins une somme fixée par arrêté du ministre de l'économie et des finances [*montant minimum*].<br/>\n<br/>   Le capital minimum peut être fixé à un montant différent suivant que les banques sont constituées sous forme de sociétés par actions ou sous une autre forme, suivant qu'elles sont classées dans la catégorie des banques de dépôts, des banques d'affaires ou des banques de crédit à long et moyen terme et suivant que le nombre de leurs sièges d'exploitation permanente est ou non supérieur à deux. Le capital minimum ainsi fixé peut aussi tenir compte du montant total du bilan et des engagements hors bilan, tel qu'il apparaît à la clôture des deux derniers exercices.<br/>\n<br/>   Il doit être intégralement libéré dans un délai à fixer par la commission de contrôle des banques [*pouvoirs - attributions*]. Celle-ci a le droit d'exiger de toute banque qu'elle justifie que son actif excède effectivement, d'un montant égal au capital minimum, le passif dont elle est tenue envers les tiers.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 84-46 1984-01-24 art. 94 I JORF 25 janvier 1984 en vigueur le 25 juillet 1984",
+        "@cidtexte": "JORFTEXT000000504724",
+        "@datesignatexte": "1984-01-24",
+        "@id": "JORFTEXT000000504724",
+        "@naturetexte": "LOI",
+        "@numtexte": "84-46",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 41-2532 1941-06-13 JORF 6 juillet 1941 rectificatif JORF 11 septembre 1941",
+        "@cidtexte": "LEGITEXT000006075122",
+        "@datesignatexte": "1941-06-13",
+        "@id": "LEGITEXT000006075122",
+        "@naturetexte": "LOI",
+        "@numtexte": "41-2532",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n°41-2532 du 13 juin 1941 - art. 10 (Ab)",
+        "@cidtexte": "LEGITEXT000006075122",
+        "@datesignatexte": "1941-06-13",
+        "@id": "LEGIARTI000006900747",
+        "@naturetexte": "LOI",
+        "@num": "10",
+        "@numtexte": "41-2532",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

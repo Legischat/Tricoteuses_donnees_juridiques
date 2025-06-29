@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006372500",
+      "ANCIEN_ID": "AAHRCXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/37/25/LEGIARTI000006372500.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1999-03-13",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret no 99-187 du 11 mars 1999 autorisant la cession de la participation de SNCF-Participations au capital de Frantour SA",
+          "@c_titre_court": "Décret n°99-187 du 11 mars 1999",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000392525"
+        },
+        {
+          "#text": "Décret n°99-187 du 11 mars 1999 autorisant la cession de la participation de SNCF-Participations au capital de Frantour SA",
+          "@c_titre_court": "Décret n°99-187 du 11 mars 1999",
+          "@debut": "1999-03-13",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005627639"
+        }
+      ],
+      "@cid": "JORFTEXT000000392525",
+      "@date_publi": "1999-03-13",
+      "@date_signature": "1999-03-11",
+      "@ministere": "MINISTERE DE L'ECONOMIE, DES FINANCES ET DE L'INDUSTRIE",
+      "@nature": "DECRET",
+      "@nor": "ECOT9951781D",
+      "@num": "99-187"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1999-03-13",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006372500",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   SNCF-Participations est autorisée à céder sa participation au capital de Frantour SA à la société Accor.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 86-912 1986-08-06 art. 20",
+        "@cidtexte": "JORFTEXT000000317767",
+        "@datesignatexte": "1986-08-06",
+        "@id": "JORFTEXT000000317767",
+        "@naturetexte": "LOI",
+        "@numtexte": "86-912",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°99-187 du 11 mars 1999 - art. 2 (V)",
+        "@cidtexte": "JORFTEXT000000392525",
+        "@datesignatexte": "1999-03-11",
+        "@id": "LEGIARTI000006372507",
+        "@naturetexte": "DECRET",
+        "@nortexte": "ECOT9951781D",
+        "@num": "2",
+        "@numtexte": "99-187",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

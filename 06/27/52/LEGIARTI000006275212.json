@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006275212",
+      "ANCIEN_ID": "FAEDYXXXXXX018AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/52/LEGIARTI000006275212.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1988-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°87-1061 du 30 décembre 1987 DE FINANCES RECTIFICATIVE POUR 1987",
+          "@c_titre_court": "Loi n°87-1061 du 30 décembre 1987",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000687676"
+        },
+        {
+          "#text": "Loi n° 87-1061 du 30 décembre 1987 de finances rectificative pour 1987 (1)",
+          "@c_titre_court": "Loi n° 87-1061 du 30 décembre 1987",
+          "@debut": "1987-12-31",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068984"
+        }
+      ],
+      "@cid": "JORFTEXT000000687676",
+      "@date_publi": "1987-12-31",
+      "@date_signature": "1987-12-30",
+      "@nature": "LOI",
+      "@nor": "ECOX8700165L",
+      "@num": "87-1061"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006275212",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001491145",
+          "@num": "18",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La plus-value réalisée lors de la cession d'un cheval de course est réduite d'un abattement de 15 p. 100 par année de détention comprise entre la date d'acquisition du cheval et la fin de sa septième année. Toute année commencée compte pour une année pleine.<br/>\n<br/>   Cette disposition s'applique aux personnes qui relèvent du régime d'imposition défini à l'article 150 A du code général des impôts et aux plus-values réalisées à compter du 1er janvier 1988.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 150 A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 87-1061 1987-12-30 Finances rectificative pour 1987 JORF 31 décembre 1987, en vigueur le 1er janvier 1988",
+        "@cidtexte": "JORFTEXT000000687676",
+        "@datesignatexte": "1987-12-30",
+        "@id": "JORFTEXT000000687676",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX8700165L",
+        "@numtexte": "87-1061",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 150 M bis (Ab)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006302764",
+        "@naturetexte": "CODE",
+        "@num": "150 M bis",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

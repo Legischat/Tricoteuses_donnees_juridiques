@@ -1,0 +1,118 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006856882",
+      "ANCIEN_ID": "UPHPKXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/68/LEGIARTI000006856882.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1986-01-01",
+        "DATE_FIN": "1987-07-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-1369 du 20 décembre 1985 PRIS EN APPLICATION DE L'ART. 435 DU CODE RURAL ET FIXANT LES CONDITIONS DANS LESQUELLES LA PECHE EST INTERDITE EN VUE DE LA PROTECTION DU POISSON",
+          "@c_titre_court": "Décret n°85-1369 du 20 décembre 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000507927"
+        },
+        {
+          "#text": "Décret n°85-1369 du 20 décembre 1985 pris en application de l'article 435 du code rural et fixant les conditions dans lesquelles la pêche est interdite en vue de la protection du poisson",
+          "@c_titre_court": "Décret n°85-1369 du 20 décembre 1985",
+          "@debut": "1986-01-01",
+          "@fin": "1989-11-04",
+          "@id_txt": "LEGITEXT000006064811"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Section I : Dispositions générales",
+            "@debut": "1986-01-01",
+            "@fin": "1989-11-04",
+            "@id": "LEGISCTA000006109659"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000507927",
+      "@date_publi": "1985-12-24",
+      "@date_signature": "1985-12-20",
+      "@nature": "DECRET",
+      "@num": "85-1369"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1987-07-09",
+          "@id": "LEGIARTI000006856882",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-07-09",
+          "@etat": "ABROGE",
+          "@fin": "1989-11-04",
+          "@id": "LEGIARTI000006856883",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Afin de favoriser la protection ou la reproduction du poisson, des interdictions permanentes de pêche sont prononcées ou des réserves temporaires de pêche peuvent être instituées sur les eaux mentionnées aux articles 402 et 404 de ce code.<br/>\n    Le champ d'application du premier alinéa du présent article est celui défini par l'article 406 du code rural.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural - art. R*236-84 (Ab)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006590355",
+        "@naturetexte": "CODE",
+        "@num": "R*236-84",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural - art. R*236-98 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006590376",
+        "@naturetexte": "CODE",
+        "@num": "R*236-98",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code rural 402, 404, 406",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code rural 435",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

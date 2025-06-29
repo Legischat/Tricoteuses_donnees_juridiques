@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351224",
+      "ANCIEN_ID": "MDE01XXXXXX069AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/12/LEGIARTI000006351224.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "69",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1964-06-27",
+        "DATE_FIN": "1982-03-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 10 août 1871 relative aux conseils généraux",
+          "@c_titre_court": "Loi du 10 août 1871",
+          "@debut": "1871-08-10",
+          "@fin": "1996-02-24",
+          "@id_txt": "LEGITEXT000006070209"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "COMMISSION DEPARTEMENTALE.",
+            "@debut": "1871-08-29",
+            "@fin": "1982-03-24",
+            "@id": "LEGISCTA000006085644"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006070209",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1871-08-10",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-06-27",
+          "@etat": "ABROGE",
+          "@fin": "1982-03-24",
+          "@id": "LEGIARTI000006351224",
+          "@num": "69",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La commission départementale est élue chaque année [*fréquence périodicité*] à la fin de la deuxième session ordinaire. Il est exceptionnellement procédé à sa réélection à l'ouverture de la session qui suit chaque renouvellement triennal du conseil général.<br/>\n<br/>\n<br/>   Elle se compose de quatre membres [*nombre*] au moins et de sept au plus, et elle comprend un membre choisi, autant que possible, parmi les conseillers élus ou domiciliés dans chaque arrondissement.<br/>\n<br/>   Les membres de la commission sont indéfiniment rééligibles.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 77-449 1977-04-29 ART. 1 : Les dispositions de nature législative de la loi du 10 août 1871 sont applicables à la collectivité territoriale de Mayotte en tant qu'elles ne sont pas contraires aux dispositions de la présente ordonnance",
+        "@cidtexte": "JORFTEXT000000700124",
+        "@datesignatexte": "1977-04-29",
+        "@id": "JORFTEXT000000700124",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "77-449",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 78-1027 1978-10-19 ART. 1 : Les dispositions de nature réglementaire de la loi du 10 août 1871 relative aux conseils généraux sont applicables à la collectivité territoriale de Mayotte en tant qu'elles ne sont pas contraires aux dispositions d",
+        "@cidtexte": "JORFTEXT000000519285",
+        "@datesignatexte": "1978-10-19",
+        "@id": "JORFTEXT000000519285",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-1027",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "LOI 1871-08-10 Bulletin LOIS 29 août 1871",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

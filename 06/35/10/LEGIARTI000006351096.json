@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351096",
+      "ANCIEN_ID": "MDE01XXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/10/LEGIARTI000006351096.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1926-11-07",
+        "DATE_FIN": "1982-03-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 10 août 1871 relative aux conseils généraux",
+          "@c_titre_court": "Loi du 10 août 1871",
+          "@debut": "1871-08-10",
+          "@fin": "1996-02-24",
+          "@id_txt": "LEGITEXT000006070209"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Dispositions générales.",
+            "@debut": "1871-08-29",
+            "@fin": "1996-02-24",
+            "@id": "LEGISCTA000006085635"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006070209",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1871-08-10",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1926-11-07",
+          "@etat": "ABROGE",
+          "@fin": "1982-03-24",
+          "@id": "LEGIARTI000006351096",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1992-02-05",
+          "@etat": "ABROGE",
+          "@fin": "1996-02-24",
+          "@id": "LEGIARTI000006351097",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Le préfet [*attributions*] est le représentant du pouvoir exécutif dans le département [*définition*].<br/>\n<br/>\n<br/>   Il y surveille l'exécution des lois et les décisions du gouvernement. Les chefs des services régionaux et départementaux sont tenus de lui fournir tous renseignements utiles à l'accomplissement de sa mission.<br/>\n<br/>   Il est, en outre, chargé de l'instruction préalable des affaires qui intéressent le département, ainsi que de l'exécution des décisions du conseil général et de la commission départementale, conformément aux dispositions de la présente loi.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 1871-08-10 Bulletin LOIS 29 août 1871",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 77-449 1977-04-29 ART. 1 : Les dispositions de nature législative de la loi du 10 août 1871 sont applicables à la collectivité territoriale de Mayotte en tant qu'elles ne sont pas contraires aux dispositions de la présente ordonnance",
+        "@cidtexte": "JORFTEXT000000700124",
+        "@datesignatexte": "1977-04-29",
+        "@id": "JORFTEXT000000700124",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "77-449",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 78-1027 1978-10-19 ART. 1 : Les dispositions de nature réglementaire de la loi du 10 août 1871 relative aux conseils généraux sont applicables à la collectivité territoriale de Mayotte en tant qu'elles ne sont pas contraires aux dispositions d",
+        "@cidtexte": "JORFTEXT000000519285",
+        "@datesignatexte": "1978-10-19",
+        "@id": "JORFTEXT000000519285",
+        "@naturetexte": "DECRET",
+        "@numtexte": "78-1027",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

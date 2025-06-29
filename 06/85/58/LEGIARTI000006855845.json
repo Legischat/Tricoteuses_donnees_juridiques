@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855845",
+      "ANCIEN_ID": "UPHLUXXXXXX008AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/58/LEGIARTI000006855845.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "8",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-10-05",
+        "DATE_FIN": "1985-03-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-908 du 2 octobre 1976 AGENCE DES ESPACES VERTS DE LA REGION D'ILE-DE-FRANCE",
+          "@c_titre_court": "Décret n°76-908 du 2 octobre 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000306866"
+        },
+        {
+          "#text": "Décret n°76-908 du 2 octobre 1976 relatif à l'organisation et au fonctionnement de l'agence des espaces verts de la région d'Ile-de-France",
+          "@c_titre_court": "Décret n°76-908 du 2 octobre 1976",
+          "@debut": "1976-10-05",
+          "@fin": "1985-03-10",
+          "@id_txt": "LEGITEXT000006062538"
+        }
+      ],
+      "@cid": "JORFTEXT000000306866",
+      "@date_publi": "1976-10-05",
+      "@date_signature": "1976-10-02",
+      "@nature": "DECRET",
+      "@num": "76-908"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-10-05",
+          "@etat": "ABROGE",
+          "@fin": "1985-03-10",
+          "@id": "LEGIARTI000006855845",
+          "@num": "8",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Le conseil d'administration est convoqué [*périodicité*] au moins deux fois par an par le préfet de région, qui fixe l'ordre du jour.  Lorsque la majorité des membres du conseil d'administration en fait la demande, la convocation est de droit dans le délai d'un mois.<br/>\n    Le directeur, le contrôleur financier, le directeur régional de l'office national des forêts et l'agent comptable participent aux travaux du conseil d'administration avec voix consultative.<br/>\n    Le directeur peut se faire assister de toute personne de son choix.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 76-394 1976-05-06 ART. 5",
+        "@cidtexte": "JORFTEXT000000522258",
+        "@datesignatexte": "1976-05-06",
+        "@id": "JORFTEXT000000522258",
+        "@naturetexte": "LOI",
+        "@numtexte": "76-394",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 85-317 1985-03-08 art. 17 JORF 10 mars 1985",
+        "@cidtexte": "JORFTEXT000000518092",
+        "@datesignatexte": "1985-03-08",
+        "@id": "JORFTEXT000000518092",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-317",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

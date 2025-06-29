@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006532286",
+      "ANCIEN_ID": "PPHKAXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/22/LEGIARTI000006532286.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-02-17",
+        "DATE_FIN": "1990-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°88-155 du 15 février 1988 FIXANT LE NOMBRE ET LE RESSORT DES COURS ADMINISTRATIVES D'APPEL",
+          "@c_titre_court": "Décret n°88-155 du 15 février 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000314803"
+        },
+        {
+          "#text": "Décret n°88-155 du 15 février 1988 fixant le nombre et le ressort des cours administratives d'appel",
+          "@c_titre_court": "Décret n°88-155 du 15 février 1988",
+          "@debut": "1988-02-17",
+          "@fin": "1990-01-01",
+          "@id_txt": "LEGITEXT000006066421"
+        }
+      ],
+      "@cid": "JORFTEXT000000314803",
+      "@date_publi": "1988-02-17",
+      "@date_signature": "1988-02-15",
+      "@nature": "DECRET",
+      "@nor": "INTA8800039D",
+      "@num": "88-155"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-02-17",
+          "@etat": "ABROGE",
+          "@fin": "1990-01-01",
+          "@id": "LEGIARTI000006532286",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Chaque cour administrative d'appel est composée de chambres dont le nombre est fixé comme suit :<br/>\n<br/>   Lyon et Paris : 3 chambres ;<br/>\n<br/>   Bordeaux, Nancy et Nantes : 2 chambres.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 87-1127 1987-12-31",
+        "@cidtexte": "JORFTEXT000000874489",
+        "@datesignatexte": "1987-12-31",
+        "@id": "JORFTEXT000000874489",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUST8700055L",
+        "@numtexte": "87-1127",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°89-641 du 7 septembre 1989 - art. 3 (V) JORF 10 septembre 1989 en vigueur le 1er janvier 1990",
+        "@cidtexte": "JORFTEXT000000700028",
+        "@datesignatexte": "1989-09-07",
+        "@id": "LEGIARTI000006272497",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSC8920628D",
+        "@num": "3",
+        "@numtexte": "89-641",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code des tribunaux administratifs et des cours adm - art. R8 (Ab)",
+        "@cidtexte": "LEGITEXT000006071344",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006560999",
+        "@naturetexte": "CODE",
+        "@num": "R8",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code des tribunaux administratifs et des cours adm - art. R8 (M)",
+        "@cidtexte": "LEGITEXT000006071344",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006560995",
+        "@naturetexte": "CODE",
+        "@num": "R8",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

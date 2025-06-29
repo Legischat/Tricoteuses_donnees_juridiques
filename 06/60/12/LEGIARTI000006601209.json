@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006601209",
+      "ANCIEN_ID": "RAEBJXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/12/LEGIARTI000006601209.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1971-01-01",
+        "DATE_FIN": "1993-07-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°70-1299 du 31 décembre 1970 RELATIVE AUX GROUPEMENTS FONCIERS AGRICOLES. (DEFINITION, OBJET, CAPITAL SOCIAL, DUREE, STATUTS)",
+          "@c_titre_court": "Loi n°70-1299 du 31 décembre 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000321398"
+        },
+        {
+          "#text": "Loi n° 70-1299 du 31 décembre 1970 relative aux groupements fonciers agricoles",
+          "@c_titre_court": "Loi n° 70-1299 du 31 décembre 1970",
+          "@debut": "1971-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068352"
+        }
+      ],
+      "@cid": "JORFTEXT000000321398",
+      "@date_publi": "1971-01-01",
+      "@date_signature": "1970-12-31",
+      "@nature": "LOI",
+      "@num": "70-1299"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1993-07-23",
+          "@id": "LEGIARTI000006601209",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Toute infraction à la présente loi donne lieu au remboursement des avantages financiers et fiscaux qu'elle prévoit.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993",
+        "@cidtexte": "JORFTEXT000000545718",
+        "@datesignatexte": "1993-07-22",
+        "@id": "LEGIARTI000006932709",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9300027L",
+        "@num": "4",
+        "@numtexte": "93-934",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural - art. L322-18 (M)",
+        "@cidtexte": "LEGITEXT000006071367",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006583427",
+        "@naturetexte": "CODE",
+        "@num": "L322-18",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      }
+    ]
+  }
+}

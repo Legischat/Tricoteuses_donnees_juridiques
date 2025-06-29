@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006755358",
+      "ANCIEN_ID": "AFIEBXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/53/LEGIARTI000006755358.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-05-10",
+        "DATE_FIN": "1991-10-02",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 mai 1988 RELATIF AUX CONDITIONS D'ATTRIBUTION DU CREDIT A L'ARTISANAT",
+          "@c_titre_court": "Arrêté du 9 mai 1988",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000844149"
+        },
+        {
+          "#text": "Arrêté du 9 mai 1988 relatif aux conditions d'attribution du crédit à l'artisanat",
+          "@c_titre_court": "Arrêté du 9 mai 1988",
+          "@debut": "1988-05-10",
+          "@fin": "1991-10-02",
+          "@id_txt": "LEGITEXT000006058374"
+        }
+      ],
+      "@cid": "JORFTEXT000000844149",
+      "@date_publi": "1988-05-10",
+      "@date_signature": "1988-05-09",
+      "@nature": "ARRETE",
+      "@nor": "COMA8800015A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1988-05-10",
+          "@etat": "ABROGE",
+          "@fin": "1991-10-02",
+          "@id": "LEGIARTI000006755358",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 30 juin 1986 fixant les conditions d'attribution du crédit à l'artisanat est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-06-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1991-09-18 art. 6 JORF 2 octobre 1991",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 83-316 1983-04-15",
+        "@cidtexte": "JORFTEXT000000502806",
+        "@datesignatexte": "1983-04-15",
+        "@id": "JORFTEXT000000502806",
+        "@naturetexte": "DECRET",
+        "@numtexte": "83-316",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006923620",
+      "ANCIEN_ID": "AKHCNXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/92/36/LEGIARTI000006923620.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1955-05-22",
+        "DATE_FIN": "2016-05-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-604 du 20 mai 1955 relatif aux officiers publics ou ministériels et à certains auxiliaires de justice",
+          "@c_titre_court": "Décret n°55-604 du 20 mai 1955",
+          "@debut": "1955-05-22",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006077913"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : Suppléance des officiers publics et ministériels.",
+            "@debut": "1955-05-22",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006113165"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006077913",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1955-05-20",
+      "@nature": "DECRET",
+      "@num": "55-604"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1955-05-22",
+          "@etat": "MODIFIE",
+          "@fin": "2016-05-26",
+          "@id": "LEGIARTI000006923620",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2016-05-26",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000032586689",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent décret ne s'appliquent pas aux cas prévus à l'ordonnance du 28 juin 1945 et au décret n° 54-455 du 26 avril 1954.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 54-455 1954-04-26",
+        "@cidtexte": "JORFTEXT000000848722",
+        "@datesignatexte": "1954-04-26",
+        "@id": "JORFTEXT000000848722",
+        "@naturetexte": "DECRET",
+        "@numtexte": "54-455",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 73-1 1973-01-02 art. 1 *extension aux DOM*",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 45-1418 1945-06-28",
+        "@cidtexte": "JORFTEXT000000705634",
+        "@datesignatexte": "1945-06-28",
+        "@id": "JORFTEXT000000705634",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1418",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

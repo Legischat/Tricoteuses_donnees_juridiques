@@ -1,0 +1,98 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006491082",
+      "ANCIEN_ID": "ACHDSXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/10/LEGIARTI000006491082.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1954-08-11",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°54-802 du 6 août 1954 PORTANT EXTENSION AUX TOM A L'EXCEPTION DES ETABLISSEMENTS FRANCAIS DANS L'INDE AINSI QU'AU CAMEROUN ET AU TOGO DES DISPOSITIONS DE LA LOI 511393 DU 5 décembre 1951 REGLEMENTANT LA PRATIQUE DES ARRHES EN MATIERE DE VENTES MOBILIERES",
+          "@c_titre_court": "Décret n°54-802 du 6 août 1954",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000844815"
+        },
+        {
+          "#text": "Décret n°54-802 du 6 août 1954 portant extension aux territoires d'outre-mer, à l'exception des Etablissements français dans l'Inde, ainsi qu'au Cameroun et au Togo, des dispositions de la loi du 5 décembre 1951 réglementant la pratique des arrhes en matière de ventes mobilières",
+          "@c_titre_court": "Décret n°54-802 du 6 août 1954",
+          "@debut": "1954-08-11",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060704"
+        }
+      ],
+      "@cid": "JORFTEXT000000844815",
+      "@date_publi": "1954-08-11",
+      "@date_signature": "1954-08-06",
+      "@nature": "DECRET",
+      "@num": "54-802"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1954-08-11",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006491082",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dispositions du présent décret ne sont pas applicables aux commandes spéciales sur devis ni aux ventes de produits dont la fabrication est entreprise sur commande spéciale de l'acheteur.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 51-1393 1951-12-05",
+        "@cidtexte": "JORFTEXT000000517161",
+        "@datesignatexte": "1951-12-05",
+        "@id": "JORFTEXT000000517161",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-1393",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°54-802 du 6 août 1954",
+        "@cidtexte": "JORFTEXT000000844815",
+        "@datesignatexte": "1954-08-06",
+        "@id": "LEGITEXT000006060704",
+        "@naturetexte": "DECRET",
+        "@numtexte": "54-802",
+        "@sens": "cible",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret n°54-802 du 6 août 1954 - art. 1 (V)",
+        "@cidtexte": "JORFTEXT000000844815",
+        "@datesignatexte": "1954-08-06",
+        "@id": "LEGIARTI000006491069",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "54-802",
+        "@sens": "cible",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

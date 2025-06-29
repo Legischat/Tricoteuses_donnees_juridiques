@@ -1,0 +1,130 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006313392",
+      "ANCIEN_ID": "FAAACGIXXXX1959AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/33/LEGIARTI000006313392.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1959",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-07-01",
+        "DATE_FIN": "1982-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code général des impôts",
+          "@c_titre_court": "Code général des impôts, CGI.",
+          "@debut": "1952-02-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069577"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "RECOUVREMENT DE L'IMPOT",
+            "@debut": "1972-08-30",
+            "@fin": "2006-01-01",
+            "@id": "LEGISCTA000006084262"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "DEGREVEMENTS ET RESTITUTIONS D'IMPOTS",
+              "@debut": "1979-07-01",
+              "@fin": "1986-12-31",
+              "@id": "LEGISCTA000006114513"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "JURIDICTION CONTENTIEUSE.",
+                "@debut": "1979-07-01",
+                "@fin": "1984-07-20",
+                "@id": "LEGISCTA000006133922"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069577",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-04-30",
+          "@etat": "MODIFIE",
+          "@fin": "1979-07-01",
+          "@id": "LEGIARTI000049266035",
+          "@num": "1959",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1979-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1982-01-01",
+          "@id": "LEGIARTI000006313392",
+          "@num": "1959",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>     1  A l'exception des convocations à l'audience du tribunal administratif tous les avis et notifications relatifs aux réclamations et dégrèvements sont adressés aux contribuables dans les conditions fixées à l'article 2009.<br/>\n<br/>\n<br/>     2  La notification est valablement faite au domicile réel de la partie alors même que celle-ci aurait constitué mandataire et élu domicile chez ce dernier. Si le contribuable est domicilié hors de la métropole, la notification est faite au domicile élu en France par l'intéressé.<br/>\n<br/>\n<br/>     3  Par dérogation aux dispositions du 1, tous les avis, convocations et notifications afférents aux litiges fiscaux soumis aux tribunaux administratifs, y compris les notifications des jugements et les ordonnances de référé, sont effectués conformément aux dispositions des textes réglant la procédure générale devant ces tribunaux.<br/>\n<br/>    Toutefois, lorsqu'ils concernent l'Etat, ces avis, convocations et notifications sont adressés au service qui a suivi l'affaire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 2009",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n° 81-860 du 15 septembre 1981 - art. 2, v. init.",
+        "@cidtexte": "JORFTEXT000000880684",
+        "@datesignatexte": "1981-09-15",
+        "@id": "JORFTEXT000000880684",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-860",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "EDITION 1979-07-01",
+        "@sens": "source",
+        "@typelien": "HISTO"
+      },
+      {
+        "#text": "Livre des procédures fiscales R200-4",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      },
+      {
+        "#text": "Livre des procédures fiscales R202-2",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

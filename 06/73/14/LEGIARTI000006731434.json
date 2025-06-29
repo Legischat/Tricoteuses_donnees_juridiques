@@ -1,0 +1,109 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006731434",
+      "ANCIEN_ID": "SQINVXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/73/14/LEGIARTI000006731434.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1998-01-07",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 10 mai 1995 relatif aux bonnes pratiques de fabrication",
+          "@c_titre_court": "Arrêté du 10 mai 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000537066"
+        },
+        {
+          "#text": "Arrêté du 10 mai 1995 relatif aux bonnes pratiques de fabrication",
+          "@c_titre_court": "Arrêté du 10 mai 1995",
+          "@debut": "1995-06-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005618900"
+        }
+      ],
+      "@cid": "JORFTEXT000000537066",
+      "@date_publi": "1995-05-13",
+      "@date_signature": "1995-05-10",
+      "@ministere": "MINISTERE DES AFFAIRES SOCIALES, DE LA SANTE ET DE LA VILLE",
+      "@nature": "ARRETE",
+      "@nor": "SANP9501524A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-06-15",
+          "@etat": "MODIFIE",
+          "@fin": "1998-01-07",
+          "@id": "LEGIARTI000006731433",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1998-01-07",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006731434",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les bonnes pratiques de fabrication mentionnées à l'article L. 511-2 du code de la santé publique auxquelles doivent se soumettre les établissements pharmaceutiques mentionnés à l'article L. 596 sont décrites en annexe au présent arrêté (1).<br/>\n<br/>\n<br/>   (1) Cet arrêté paraîtra accompagné de son annexe, sous forme d'un fascicule spécial n° 95-2 bis du Bulletin officiel, en vente au prix de 150 F, à la Direction des Journaux officiels, 26, rue Desaix, à Paris (15e).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1995-05-10 annexe",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1997-12-18 art. 1 JORF 7 janvier 1998",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L511-2 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006693417",
+        "@naturetexte": "CODE",
+        "@num": "L511-2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la santé publique - art. L596 (M)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006693686",
+        "@naturetexte": "CODE",
+        "@num": "L596",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

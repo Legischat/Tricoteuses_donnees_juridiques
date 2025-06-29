@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006682863",
+      "ANCIEN_ID": "SMHADXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/68/28/LEGIARTI000006682863.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-12-13",
+        "DATE_FIN": "1980-04-05",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°54-1128 du 15 novembre 1954 MAJORATION D'ALLOCATIONS D'AIDE SOCIALE",
+          "@c_titre_court": "Décret n°54-1128 du 15 novembre 1954",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000691553"
+        },
+        {
+          "#text": "Décret n°54-1128 du 15 novembre 1954  PORTANT MAJORATION D'ALLOCATIONS D'AIDE SOCIALE.",
+          "@c_titre_court": "Décret n°54-1128 du 15 novembre 1954",
+          "@debut": "1954-11-16",
+          "@fin": "2004-10-26",
+          "@id_txt": "LEGITEXT000006060685"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "AIDE SOCIALE AUX PERSONNES AGEES.",
+            "@debut": "1962-04-15",
+            "@fin": "2004-10-26",
+            "@id": "LEGISCTA000006103214"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000691553",
+      "@date_publi": "1954-11-16",
+      "@date_signature": "1954-11-15",
+      "@nature": "DECRET",
+      "@num": "54-1128"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-12-13",
+          "@etat": "MODIFIE",
+          "@fin": "1980-04-05",
+          "@id": "LEGIARTI000006682863",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1981-05-08",
+          "@etat": "ABROGE",
+          "@fin": "2004-10-26",
+          "@id": "LEGIARTI000006682864",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       Le montant de l'allocation simple à domicile attribuée aux personnes âgées en application de l'article 1er du décret n. 62-443 du 14 avril 1962 est fixé à 4.300 F par an à compter du 1er janvier 1977 [*date point de départ*].<br/>\n<br/>       L'allocation simple à domicile ne peut se cumuler avec un avantage de vieillesse et n'est cumulable avec les ressources personnelles dont peuvent disposer les requérants que dans la limite de 9.900 F à compter du 1er avril 1975. Il n'est pas tenu compte dans les ressources de l'allocation de logement instituée par la loi du 16 juillet 1971, éventuellement accordée.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°54-1128 du 15 novembre 1954 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000691553",
+        "@datesignatexte": "1954-11-15",
+        "@id": "LEGIARTI000006682868",
+        "@naturetexte": "DECRET",
+        "@num": "5",
+        "@numtexte": "54-1128",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'action sociale et des familles - art. R231-1 (V)",
+        "@cidtexte": "LEGITEXT000006074069",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006905598",
+        "@naturetexte": "CODE",
+        "@num": "R231-1",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Décret 62-443 1962-04-14 ART. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI   1971-07-16",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

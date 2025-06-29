@@ -1,0 +1,96 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006766882",
+      "ANCIEN_ID": "SSHAL8XXXXX003AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/68/LEGIARTI000006766882.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1950-01-17",
+        "DATE_FIN": "1985-12-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°50-76 du 16 janvier 1950 POUR L'APPLICATION DE LA LOI 491095 DU 02-08-1949 ETENDANT LE BENEFICE DE L'ALLOCATION AUX VIEUX TRAVAILLEURS A CERTAINES CATEGORIES",
+          "@c_titre_court": "Décret n°50-76 du 16 janvier 1950",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000669660"
+        },
+        {
+          "#text": "Décret n°50-76 du 16 janvier 1950  POUR L'APPLICATION DE LA LOI DU 2 AOUT 1949 ETENDANT LE BENEFICE DE L'ALLOCATION AUX VIEUX A CERTAINES CATEGORIES",
+          "@c_titre_court": "Décret n°50-76 du 16 janvier 1950",
+          "@debut": "1950-01-17",
+          "@fin": "1985-12-21",
+          "@id_txt": "LEGITEXT000006060590"
+        }
+      ],
+      "@cid": "JORFTEXT000000669660",
+      "@date_publi": "1950-01-17",
+      "@date_signature": "1950-01-16",
+      "@nature": "DECRET",
+      "@num": "50-76"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1950-01-17",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006766882",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'entrée en jouissance de l'allocation est fixée au premier jour du mois suivant le dépôt de la demande [*date, point de départ*] sans qu'elle puisse être antérieure au premier jour du mois suivant celui du soixante-cinquième [*âge*] anniversaire ou du soixantième anniversaire en cas d'inaptitude au travail.<br/>\n<br/>\n<br/>   Toutefois, si la demande est déposée avant le 1er avril 1950 [*délai*], l'entrée en jouissance est fixée soit au 1er octobre 1949 [*date*] pour les bénéficiaires ayant satisfait aux conditions requises avant cette date, soit au premier jour du mois suivant celui au cours duquel les intéressées ont satisfait aux conditions exigées entre le 1er octobre 1949 et le 31 mars 1950.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 49-1095 1949-08-02",
+        "@cidtexte": "JORFTEXT000000309792",
+        "@datesignatexte": "1949-08-02",
+        "@id": "JORFTEXT000000309792",
+        "@naturetexte": "LOI",
+        "@numtexte": "49-1095",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 85-1354 1985-12-17 art. 2 JORF 21 décembre 1985",
+        "@cidtexte": "JORFTEXT000000507924",
+        "@datesignatexte": "1985-12-17",
+        "@id": "JORFTEXT000000507924",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1354",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "COde de la sécurité sociale D813-15 pour l'alinéa 1",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

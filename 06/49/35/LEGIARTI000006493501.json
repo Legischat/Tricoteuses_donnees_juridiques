@@ -1,0 +1,88 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006493501",
+      "ANCIEN_ID": "PJEDHXXXXXX030AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/35/LEGIARTI000006493501.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "30",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "2000-07-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI no 2000-597 du 30 juin 2000 relative au référé devant les juridictions administratives (1)",
+          "@c_titre_court": "Loi n°2000-597 du 30 juin 2000",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000204851"
+        },
+        {
+          "#text": "Loi n° 2000-597 du 30 juin 2000 relative au référé devant les juridictions administratives",
+          "@c_titre_court": "Loi n° 2000-597 du 30 juin 2000",
+          "@debut": "2000-07-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000005629590"
+        }
+      ],
+      "@cid": "JORFTEXT000000204851",
+      "@date_publi": "2000-07-01",
+      "@date_signature": "2000-06-30",
+      "@nature": "LOI",
+      "@nor": "JUSX9900017L",
+      "@num": "2000-597"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2000-07-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006493501",
+          "@num": "30",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La présente loi entrera en vigueur le même jour que l'ordonnance n° 2000-387 du 4 mai 2000 relative à la partie législative du code de justice administrative.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 2000-387 2000-05-04",
+        "@cidtexte": "JORFTEXT000000217071",
+        "@datesignatexte": "2999-01-01",
+        "@id": "JORFTEXT000000217071",
+        "@naturetexte": "RAPPORT",
+        "@nortexte": "JUSX0000016R",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 1089 B (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006305877",
+        "@naturetexte": "CODE",
+        "@num": "1089 B",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

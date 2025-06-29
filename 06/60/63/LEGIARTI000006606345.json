@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006606345",
+      "ANCIEN_ID": "RAIAMXXXXXX009AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/63/LEGIARTI000006606345.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1979-06-02",
+        "DATE_FIN": "1994-02-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 18 avril 1966 fixant les modalités d'application du décret n° 66-239 du 18 avril 1966 pris en ce qui concerne les abattoirs de volailles pour l'application de la loi n° 65-543 du 8 juillet 1965 relative aux conditions nécessaires à la modernisation du marché de la viande",
+          "@c_titre_court": "Arrêté du 18 avril 1966",
+          "@debut": "1966-04-20",
+          "@fin": "1994-02-12",
+          "@id_txt": "LEGITEXT000006071414"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre II : Fonctionnement.",
+            "@debut": "1966-04-20",
+            "@fin": "1994-02-12",
+            "@id": "LEGISCTA000006098760"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006071414",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1966-04-18",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-06-02",
+          "@etat": "ABROGE",
+          "@fin": "1994-02-12",
+          "@id": "LEGIARTI000006606345",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le refroidissement ou \"ressuyage\" de la carcasse et des abats doit suivre immédiatement l'éviscération ou l'effilage.<br/>\n<br/>   Les dispositions de l'article 1er (par. a) ne font pas obstacle à ce que le refroidissement des volailles éviscérées soit réalisé dans le local dit \"d'éviscération et de conditionnement\" ou dans un local attenant, par trempage dans de l'eau potable dans les conditions fixées par l'annexe du présent arrêté et pour autant que les carcasses ainsi réfrigérées soient immédiatement congelées ou surgelées.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1966-04-18 art. 1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1994-01-14 art. 61 JORF 12 février 1994",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 65-543 1965-07-08",
+        "@cidtexte": "JORFTEXT000000320403",
+        "@datesignatexte": "1965-07-08",
+        "@id": "JORFTEXT000000320403",
+        "@naturetexte": "LOI",
+        "@numtexte": "65-543",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 66-239 1966-04-18",
+        "@cidtexte": "JORFTEXT000000511758",
+        "@datesignatexte": "1966-04-18",
+        "@id": "JORFTEXT000000511758",
+        "@naturetexte": "DECRET",
+        "@numtexte": "66-239",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006719730",
+      "ANCIEN_ID": "SPILXXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/71/97/LEGIARTI000006719730.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1980-04-10",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 avril 1980 CLASSEMENT ET ECHELONNEMENT INDICIAIRES DE CERTAINS AGENTS DES SERVICES MEDICAUX DES ETABLISSEMENTS D'HOSPITALISATION PUBLICS ET DE CERTAINS ETABLISSEMENTS A CARACTERE SOCIAL.APPLICATION DU DECRET 80-253 DU 03/04/1980 RELATIF AU STATUT PARTICULIER DE CERTAINS AGENTS DES SERVICES MEDICAUX DES ETABLISSEMENTS D'HOSPITALISATION PUBLICS ET DE CERTAINS ETABLISSEMENTS A CARACTERE SOCIAL",
+          "@c_titre_court": "Arrêté du 3 avril 1980",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000861211"
+        },
+        {
+          "#text": "Arrêté du 3 avril 1980 relatif au classement et à l'échelonnement indiciaires de certains agents des services médicaux des établissements d'hospitalisation publics et de certains établissements à caractère social.",
+          "@c_titre_court": "Arrêté du 3 avril 1980",
+          "@debut": "1980-04-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006072919"
+        }
+      ],
+      "@cid": "JORFTEXT000000861211",
+      "@date_publi": "1980-04-10",
+      "@date_signature": "1980-04-03",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-04-10",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006719730",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont abrogées les dispositions de l'arrêté modifié du 29 novembre 1973 relatif au classement et à l'échelonnement indiciaires des grades et emplois des personnels des établissements d'hospitalisation, de soins ou de cure publics visés par le décret n° 73-1094 du 29 novembre 1973.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1973-11-29",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 73-1094 1973-11-29",
+        "@cidtexte": "JORFTEXT000000331427",
+        "@datesignatexte": "1973-11-29",
+        "@id": "JORFTEXT000000331427",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-1094",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 80-253 1980-04-03",
+        "@cidtexte": "JORFTEXT000000702845",
+        "@datesignatexte": "1980-04-03",
+        "@id": "JORFTEXT000000702845",
+        "@naturetexte": "DECRET",
+        "@numtexte": "80-253",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code de la santé publique - art. L812 (Ab)",
+        "@cidtexte": "LEGITEXT000006072665",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006695291",
+        "@naturetexte": "CODE",
+        "@num": "L812",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

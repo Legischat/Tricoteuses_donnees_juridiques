@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006324630",
+      "ANCIEN_ID": "FAHKDXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/46/LEGIARTI000006324630.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1985-02-15",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°85-200 du 13 février 1985 RELATIF AUX OBLIGATIONS DECLARATIVES LIEES AU PAIEMENT DE REVENUS DE CAPITAUX MOBILIERS",
+          "@c_titre_court": "Décret n°85-200 du 13 février 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000520377"
+        },
+        {
+          "#text": "Décret n°85-200 du 13 février 1985 relatif aux obligations déclaratives liées au paiement de revenus de capitaux mobiliers",
+          "@c_titre_court": "Décret n°85-200 du 13 février 1985",
+          "@debut": "1985-02-15",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006064881"
+        }
+      ],
+      "@cid": "JORFTEXT000000520377",
+      "@date_publi": "1985-02-15",
+      "@date_signature": "1985-02-13",
+      "@nature": "DECRET",
+      "@num": "85-200"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-02-15",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006324630",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La déclaration comporte, par nature d'opérations et en fonction des caractéristiques des produits, le détail des bons ou titres mentionnés à l'article 990 A du code général des impôts qui ont été souscrits, remboursés ou qui ont donné lieu au paiement d'intérêts au cours de l'année considérée, lorsque le détenteur a fait connaître son identité et son domicile fiscal.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 990 A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 85-200 1985-02-13 art. 10 : date d'application",
+        "@cidtexte": "JORFTEXT000000520377",
+        "@datesignatexte": "1985-02-13",
+        "@id": "JORFTEXT000000520377",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-200",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 49 G (M)",
+        "@cidtexte": "LEGITEXT000006069574",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006298445",
+        "@naturetexte": "CODE",
+        "@num": "49 G",
+        "@sens": "cible",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

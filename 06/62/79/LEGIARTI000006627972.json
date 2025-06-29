@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006627972",
+      "ANCIEN_ID": "RIEASXXXXXX041AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/79/LEGIARTI000006627972.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "41",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1977-06-18",
+        "DATE_FIN": "1998-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°77-620 du 16 juin 1977 COMPLETANT ET MODIFIANT LE CODE MINIER",
+          "@c_titre_court": "Loi n°77-620 du 16 juin 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000886336"
+        },
+        {
+          "#text": "Loi n° 77-620 du 16 juin 1977 complétant et modifiant le code minier",
+          "@c_titre_court": "Loi n° 77-620 du 16 juin 1977",
+          "@debut": "1977-06-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068591"
+        }
+      ],
+      "@cid": "JORFTEXT000000886336",
+      "@date_publi": "1977-06-18",
+      "@date_signature": "1977-06-16",
+      "@nature": "LOI",
+      "@num": "77-620"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-06-18",
+          "@etat": "ABROGE",
+          "@fin": "1998-04-22",
+          "@id": "LEGIARTI000006627972",
+          "@num": "41",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   A l'exception des dispositions prévues par l'article 28, la présente loi n'est pas applicable dans les départements d'outre-mer.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°77-620 du 16 juin 1977 - art. 28, v. init.",
+        "@cidtexte": "JORFTEXT000000886336",
+        "@datesignatexte": "1977-06-16",
+        "@id": "JORFARTI000001117397",
+        "@naturetexte": "LOI",
+        "@num": "28",
+        "@numtexte": "77-620",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°98-297 du 21 avril 1998 - art. 10 (V) JORF 22 avril 1998",
+        "@cidtexte": "JORFTEXT000000205564",
+        "@datesignatexte": "1998-04-21",
+        "@id": "LEGIARTI000006627697",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9600054L",
+        "@num": "10",
+        "@numtexte": "98-297",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi n°98-297 du 21 avril 1998 - art. 10 (V)",
+        "@cidtexte": "JORFTEXT000000205564",
+        "@datesignatexte": "1998-04-21",
+        "@id": "LEGIARTI000006627697",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9600054L",
+        "@num": "10",
+        "@numtexte": "98-297",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

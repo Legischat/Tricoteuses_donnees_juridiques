@@ -1,0 +1,116 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006758695",
+      "ANCIEN_ID": "SSEAEPXXXXX010AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/86/LEGIARTI000006758695.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1949-08-09",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 49-1111 du 2 août 1949 majorant les indemnités dues au titre des législations sur les accidents du travail.",
+          "@c_titre_court": "Loi n° 49-1111 du 2 août 1949",
+          "@debut": "1949-08-09",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073333"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE Ier : Dispositions relatives à la réparation des accidents du travail et des maladies professionnelles",
+            "@debut": "1949-08-09",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006106334"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "CHAPITRE II : Majorations de rentes et allocations",
+              "@debut": "1949-08-09",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006127131"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "SECTION II : Professions agricoles.",
+                "@debut": "1949-08-09",
+                "@fin": "2999-01-01",
+                "@id": "LEGISCTA000006142039"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006073333",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1949-08-02",
+      "@nature": "LOI",
+      "@num": "49-1111"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1949-08-09",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006758695",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les rentes allouées aux victimes d'accidents du travail survenus dans les professions agricoles ou à leurs ayants droit sont majorées dans les conditions ci-après :<br/>\n<br/>   Le droit à majoration est ouvert si la rente allouée est inférieure à celle que le titulaire aurait obtenue sur la base d'un salaire annuel de 180 000 anciens francs en appliquant les règles de calcul des rentes prévues aux articles 50 et 53 de la loi n° 46-2426 du 30 octobre 1946.<br/>\n<br/>   La majoration est égale à la différence entre la rente ainsi calculée et la rente réellement allouée.<br/>\n<br/>   Toutefois, aucune majoration n'est due à la victime d'un accident d'où il résulte une incapacité de travail inférieure à 10 %.<br/>\n<br/>   Les bénéficiaires de l'assurance facultative ont droit à la majoration calculée suivant les dispositions des alinéas précédents si leur rente a été liquidée, sur un gain déclaré qui, à la date de l'accident, était égal ou supérieur au salaire moyen fixé par un arrêté préfectoral pris en application de la loi du 15 décembre 1922 modifiée, pour le journalier agricole, à capacité physique normale, le moins rémunéré dans le département.<br/>\n<br/>   Pour les assurés facultatifs dont la rente a été liquidée par un gain inférieur au salaire moyen préfectoral, la rente nouvelle est égale à celle que le titulaire aurait obtenue sur la base d'un gain annuel de 180 000 anciens francs, cette rente étant réduite dans la proportion du gain déclaré par rapport au salaire moyen préfectoral, sans pouvoir être inférieure à celle qui résulterait d'un gain de 90 000 (anciens francs).<br/>\n<br/>   Toutefois, les assurés facultatifs dont la rente a été liquidée au titre d'un accident du travail survenu avant le 1er avril 1943 bénéficient sans conditions de la majoration prévue aux alinéas 2, 3 et 4 du présent article.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1922-12-15",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 46-2426 1946-10-30 art. 50, art. 53",
+        "@cidtexte": "JORFTEXT000000315097",
+        "@datesignatexte": "1946-10-30",
+        "@id": "JORFTEXT000000315097",
+        "@naturetexte": "LOI",
+        "@numtexte": "46-2426",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°49-1111 du 2 août 1949 - art. 20 (V)",
+        "@cidtexte": "LEGITEXT000006073333",
+        "@datesignatexte": "1949-08-02",
+        "@id": "LEGIARTI000006758703",
+        "@naturetexte": "LOI",
+        "@num": "20",
+        "@numtexte": "49-1111",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

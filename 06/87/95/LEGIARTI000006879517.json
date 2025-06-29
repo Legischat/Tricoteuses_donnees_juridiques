@@ -1,0 +1,108 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006879517",
+      "ANCIEN_ID": "UTFADXXXXXX013AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/95/LEGIARTI000006879517.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "13",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1945-10-25",
+        "DATE_FIN": "1958-10-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 45-2497 du 24 octobre 1945 sur les gares routières de voyageurs",
+          "@c_titre_court": "Ordonnance n° 45-2497 du 24 octobre 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000699046"
+        },
+        {
+          "#text": "Ordonnance n° 45-2497 du 24 octobre 1945 sur les gares routières de voyageurs",
+          "@c_titre_court": "Ordonnance n° 45-2497 du 24 octobre 1945",
+          "@debut": "1945-10-25",
+          "@fin": "2016-02-01",
+          "@id_txt": "LEGITEXT000006069172"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre I : Gares routières publiques de voyageurs",
+            "@debut": "1945-10-25",
+            "@fin": "2016-02-01",
+            "@id": "LEGISCTA000006111675"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre II : Déclaration d'utilité publique.",
+              "@debut": "1945-10-25",
+              "@fin": "1958-10-24",
+              "@id": "LEGISCTA000006131350"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000699046",
+      "@date_publi": "1945-10-25",
+      "@date_signature": "1945-10-24",
+      "@nature": "ORDONNANCE",
+      "@num": "45-2497"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1945-10-25",
+          "@etat": "ABROGE",
+          "@fin": "1958-10-24",
+          "@id": "LEGIARTI000006879517",
+          "@num": "13",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   article abrogé<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n° 45-2497 du 24 octobre 1945 - art. 38 (Ab)",
+        "@cidtexte": "JORFTEXT000000699046",
+        "@datesignatexte": "1945-10-24",
+        "@id": "LEGIARTI000006879545",
+        "@naturetexte": "ORDONNANCE",
+        "@num": "38",
+        "@numtexte": "45-2497",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 58-997 1958-10-23 art. 56 JORF 24 octobre 1958",
+        "@cidtexte": "JORFTEXT000000705504",
+        "@datesignatexte": "1958-10-23",
+        "@id": "JORFTEXT000000705504",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-997",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

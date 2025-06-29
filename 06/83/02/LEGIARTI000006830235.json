@@ -1,0 +1,79 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006830235",
+      "ANCIEN_ID": "UCIHZXXXXXX007AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/83/02/LEGIARTI000006830235.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "7",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1983-07-03",
+        "DATE_FIN": "1999-09-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 avril 1983 relatif à la détermination du degré de résistance au feu des éléments de construction et conditions particulières d'essais des ventilateurs de désenfumage.",
+          "@c_titre_court": "Arrêté du 21 avril 1983",
+          "@debut": "1983-07-03",
+          "@fin": "1999-09-11",
+          "@id_txt": "LEGITEXT000006074200"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE II : ESSAIS DE RÉSISTANCE AU FEU.",
+            "@debut": "1983-07-03",
+            "@fin": "1999-09-11",
+            "@id": "LEGISCTA000006108414"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006074200",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1983-04-21",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1983-07-03",
+          "@etat": "ABROGE",
+          "@fin": "1999-09-11",
+          "@id": "LEGIARTI000006830235",
+          "@num": "7",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les éléments sont essayés face à, ou dans des fours agréés après avis du C.E.C.M.I.<br/>\n<br/>   Les essais conventionnels de résistance au feu sur éléments de construction sont conduits en suivant la courbe température-temps définie analytiquement par l'expression :<br/>\n T - To = 345 log10 (8 t + 1)<br/>\n<br/>      où<br/>\n T désigne la température mesurée comme dit à l'article 8 ;<br/>\n To la température initiale, exprimée en degrés Celsius ;<br/>\n<br/>      et<br/>\n t les temps comptés en minutes.<br/>\n<br/>   Les valeurs données par cette relation conduisent en particulier aux résultats ci-après :<br/>\n<br/>       659 °C après dix minutes ;<br/>\n<br/>       718 °C après quinze minutes ;<br/>\n<br/>       822 °C après trente minutes ;<br/>\n<br/>       880 °C après quarante-cinq minutes ;<br/>\n<br/>       925 °C après une heure ;<br/>\n<br/>       986 °C après une heure et demie ;<br/>\n<br/>      1030 °C après deux heures ;<br/>\n<br/>      1090 °C après trois heures ;<br/>\n<br/>      1133 °C après quatre heures ;<br/>\n<br/>      1194 °C après six heures.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1983-04-21 art. 8",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1999-08-03 art. 33 JORF 11 septembre 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

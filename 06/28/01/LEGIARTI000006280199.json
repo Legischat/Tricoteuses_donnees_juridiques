@@ -1,0 +1,162 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006280199",
+      "ANCIEN_ID": "AAEAAXXXXXX313AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/01/LEGIARTI000006280199.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "313",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1988-01-06",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692245"
+        },
+        {
+          "#text": "Loi n°66-537 du 24 juillet 1966 sur les sociétés commerciales",
+          "@c_titre_court": "Loi n°66-537 du 24 juillet 1966",
+          "@debut": "1964-04-01",
+          "@fin": "2001-01-01",
+          "@id_txt": "LEGITEXT000006068288"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre 1 : Règles de fonctionnement des diverses sociétés commerciales",
+            "@debut": "1964-04-01",
+            "@fin": "2003-01-01",
+            "@id": "LEGISCTA000006083319"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre 5 : Valeurs mobilières émises par les sociétés par actions",
+              "@debut": "1964-04-01",
+              "@fin": "2001-01-01",
+              "@id": "LEGISCTA000006114033"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Section 3 : Obligations.",
+                "@debut": "1964-04-01",
+                "@fin": "2001-01-01",
+                "@id": "LEGISCTA000006133344"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000692245",
+      "@date_publi": "1966-07-26",
+      "@date_signature": "1966-07-24",
+      "@nature": "LOI",
+      "@num": "66-537"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1988-01-06",
+          "@id": "LEGIARTI000006280198",
+          "@num": "313",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-01-06",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006280199",
+          "@num": "313",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'assemblée générale délibère sur toutes mesures ayant pour objet d'assurer la défense des obligataires et l'exécution du contrat d'emprunt ainsi que sur toute proposition tendant à la modification du contrat et notamment :<br/>\n<br/>   1° Sur toute proposition relative à la modification de l'objet ou de la forme de la société ;<br/>\n<br/>   2° Sur toute proposition, soit de compromis, soit de transaction sur des droits litigieux ou ayant fait l'objet de décisions judiciaires ;<br/>\n<br/>   3° Sur les propositions de fusion ou de scission de la société dans les cas prévus aux articles 380 et 384 ;<br/>\n<br/>   4° Sur toute proposition relative à l'émission d'obligations comportant un droit de préférence par rapport à la créance des obligataires composant la masse ;<br/>\n<br/>   5° Sur toute proposition relative à l'abandon total ou partiel des garanties conférées aux obligataires, au report de l'échéance du paiement des intérêts et à la modification des modalités d'amortissement ou du taux des intérêts.<br/>\n<br/>   Elle délibère dans les conditions de quorum et de majorité prévues aux deuxième et troisième alinéas de l'article 155.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 66-537 1966-07-24 art. 155, art. 380, art. 384",
+        "@cidtexte": "JORFTEXT000000692245",
+        "@datesignatexte": "1966-07-24",
+        "@id": "JORFTEXT000000692245",
+        "@naturetexte": "LOI",
+        "@numtexte": "66-537",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 88-15 1988-01-05 art. 52 II *champ d'application*",
+        "@cidtexte": "JORFTEXT000000684065",
+        "@datesignatexte": "1988-01-05",
+        "@id": "JORFTEXT000000684065",
+        "@naturetexte": "LOI",
+        "@nortexte": "COMX8700028L",
+        "@numtexte": "88-15",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi n°88-15 du 5 janvier 1988 - art. 29 () JORF 6 janvier 1988 rectificatif JORF 12 mars 1988",
+        "@cidtexte": "JORFTEXT000000684065",
+        "@datesignatexte": "1988-01-05",
+        "@id": "LEGIARTI000006314112",
+        "@naturetexte": "LOI",
+        "@nortexte": "COMX8700028L",
+        "@num": "29",
+        "@numtexte": "88-15",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L228-65 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006228307",
+        "@naturetexte": "CODE",
+        "@num": "L228-65",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

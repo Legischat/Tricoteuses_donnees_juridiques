@@ -1,0 +1,113 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006273287",
+      "ANCIEN_ID": "AAEAUXXXXXX023AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/32/LEGIARTI000006273287.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "23",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1979-04-25",
+        "DATE_FIN": "1988-12-31",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°79-12 du 3 janvier 1979 RELATIVE AUX SOCIETES D'INVESTISSEMENT A CAPITAL VARIABLE (SICAV)",
+          "@c_titre_court": "Loi n°79-12 du 3 janvier 1979",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000339250"
+        },
+        {
+          "#text": "Loi n° 79-12 du 3 janvier 1979 relative aux sociétés d'investissement à capital variable",
+          "@c_titre_court": "Loi n° 79-12 du 3 janvier 1979",
+          "@debut": "1979-01-04",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068659"
+        }
+      ],
+      "@cid": "JORFTEXT000000339250",
+      "@date_publi": "1979-01-04",
+      "@date_signature": "1979-01-03",
+      "@nature": "LOI",
+      "@num": "79-12"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-04-25",
+          "@etat": "MODIFIE",
+          "@fin": "1988-12-31",
+          "@id": "LEGIARTI000006273287",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1988-12-31",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006273288",
+          "@num": "23",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000001118225",
+          "@num": "23",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les SICAV sont exonérées de l'impôt sur les sociétés pour les bénéfices réalisés dans le cadre de leur objet légal.<br/>\n<br/>   Les dispositions de l'alinéa précédent et, au regard des droits d'enregistrement, celles de l'article 831 du code général des impôts ne s'appliquent qu'aux SICAV qui distribuent ou s'engagent à distribuer au titre de chaque exercice l'intégralité des sommes distribuables calculées conformément à l'article 9.<br/>\n<br/>   Les dispositions relatives à l'avoir fiscal, au précompte mobilier et au transfert aux actionnaires des crédits d'impôt et avoirs fiscaux sont celles prévues pour les sociétés d'investissement à capital variable qui étaient régies par le titre III de l'ordonnance n° 45-2710 du 2 novembre 1945.<br/>\n<br/>   Les sommes attribuées aux actionnaires pour le rachat de leurs actions par les sociétés d'investissement à capital variable ne sont pas considérées, pour l'application de l'impôt sur le revenu, comme des revenus distribués.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 831",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-2710 1945-11-02",
+        "@cidtexte": "JORFTEXT000000334411",
+        "@datesignatexte": "1945-11-02",
+        "@id": "JORFTEXT000000334411",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2710",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°79-12 du 3 janvier 1979 - art. 9 (Ab)",
+        "@cidtexte": "JORFTEXT000000339250",
+        "@datesignatexte": "1979-01-03",
+        "@id": "LEGIARTI000006290613",
+        "@naturetexte": "LOI",
+        "@num": "9",
+        "@numtexte": "79-12",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

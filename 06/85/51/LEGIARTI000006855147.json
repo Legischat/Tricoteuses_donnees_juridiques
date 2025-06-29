@@ -1,0 +1,129 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006855147",
+      "ANCIEN_ID": "UPHJZXXXXXX014AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/51/LEGIARTI000006855147.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1970-09-03",
+        "DATE_FIN": "1984-08-09",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°70-777 du 2 septembre 1970 PORTANT CREATION DU PARC NATIONAL DES CEVENNES DONT LA GESTION EST CONFIEE A UN ETABLISSEMENT PUBLIC A CARACTERE ADMINISTRATIF",
+          "@c_titre_court": "Décret n°70-777 du 2 septembre 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000331611"
+        },
+        {
+          "#text": "Décret n°70-777 du 2 septembre 1970 créant le parc national des Cévennes",
+          "@c_titre_court": "Décret n°70-777 du 2 septembre 1970",
+          "@debut": "1970-09-03",
+          "@fin": "2010-01-01",
+          "@id_txt": "LEGITEXT000006061766"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "CHAPITRE II : Réglementation générale du parc",
+            "@debut": "1970-09-03",
+            "@fin": "2010-01-01",
+            "@id": "LEGISCTA000006109527"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section 2 : Pêche et chasse.",
+              "@debut": "1970-09-03",
+              "@fin": "2010-01-01",
+              "@id": "LEGISCTA000022816101"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000331611",
+      "@date_publi": "1970-09-03",
+      "@date_signature": "1970-09-02",
+      "@nature": "DECRET",
+      "@num": "70-777"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-09-03",
+          "@etat": "MODIFIE",
+          "@fin": "1984-08-09",
+          "@id": "LEGIARTI000006855147",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1984-08-09",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-01",
+          "@id": "LEGIARTI000006855148",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont considérés comme territoires aménagés ceux qui répondent aux conditions suivantes [*définition*] :<br/>\n<br/>   Surface minimum de 100 hectares d'un seul tenant ;<br/>\n<br/>   Paiement des impôts et taxes sur les chasses gardées ;<br/>\n<br/>   Surveillance par un garde assermenté ;<br/>\n<br/>   Signalisation assurée par des pancartes d'un modèle agréé par le conseil d'administration du parc.<br/>\n<br/>   A l'égard de ces territoires, le conseil d'administration du parc fixe aux détenteurs du droit de chasse, après consultation de ceux-ci, les contingents de pièces de gibier à éliminer et le nombre de journées individuelles de chasse autorisées en application du règlement visé à l'article 11 (2°) ci-dessus.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 60-708 1960-07-22",
+        "@cidtexte": "JORFTEXT000000512209",
+        "@datesignatexte": "1960-07-22",
+        "@id": "JORFTEXT000000512209",
+        "@naturetexte": "LOI",
+        "@numtexte": "60-708",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 70-777 1970-09-02 ART. 11 2°",
+        "@cidtexte": "JORFTEXT000000331611",
+        "@datesignatexte": "1970-09-02",
+        "@id": "JORFTEXT000000331611",
+        "@naturetexte": "DECRET",
+        "@numtexte": "70-777",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°70-777 du 2 septembre 1970 - art. 13 (M)",
+        "@cidtexte": "JORFTEXT000000331611",
+        "@datesignatexte": "1970-09-02",
+        "@id": "LEGIARTI000006855143",
+        "@naturetexte": "DECRET",
+        "@num": "13",
+        "@numtexte": "70-777",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

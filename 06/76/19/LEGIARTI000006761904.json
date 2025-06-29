@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006761904",
+      "ANCIEN_ID": "SSHAD4XXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/19/LEGIARTI000006761904.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1972-02-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°72-83 du 29 janvier 1972 PORTANT APPLICATION DE LA LOI 71-563 DU 13-07-1971 RELATIVE A DIVERSES MESURES EN FAVEUR DES HANDICAPES",
+          "@c_titre_court": "Décret n°72-83 du 29 janvier 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000854913"
+        },
+        {
+          "#text": "Décret n°72-83 du 29 janvier 1972  PORTANT APPLICATION DE LA LOI 563 DU 13 JUILLET 1971 RELATIVE A DIVERSES MESURES EN FAVEUR DES HANDICAPES.",
+          "@c_titre_court": "Décret n°72-83 du 29 janvier 1972",
+          "@debut": "1972-02-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006061988"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE 1 : ALLOCATION DES MINEURS HANDICAPES.",
+            "@debut": "1972-02-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006106536"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000854913",
+      "@date_publi": "1972-02-01",
+      "@date_signature": "1972-01-29",
+      "@nature": "DECRET",
+      "@num": "72-83"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-02-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006761904",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le droit à l'allocation des mineurs handicapés est ouvert pour l'enfant atteint d'une infirmité entraînant une incapacité permanente d'au moins 80 %.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Circulaire 1972-09-08",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Code rural 1090)",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "LOI 71-563 1971-07-13 ART. 1 A ART. 6 (Code de la sécurité sociale L510, L527, L536, L543-2 A L543-4",
+        "@cidtexte": "JORFTEXT000000322076",
+        "@datesignatexte": "1971-07-13",
+        "@id": "JORFTEXT000000322076",
+        "@naturetexte": "LOI",
+        "@numtexte": "71-563",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 72-83 1972-01-29 ART. 24 : DATE D'ENTREE EN JOUISSANCE DE L'ALLOCATION",
+        "@cidtexte": "JORFTEXT000000854913",
+        "@datesignatexte": "1972-01-29",
+        "@id": "JORFTEXT000000854913",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-83",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      }
+    ]
+  }
+}

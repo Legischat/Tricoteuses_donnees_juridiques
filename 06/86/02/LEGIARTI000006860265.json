@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006860265",
+      "ANCIEN_ID": "UPIDAXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/02/LEGIARTI000006860265.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1972-12-31",
+        "DATE_FIN": "2010-11-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 9 novembre 1972 REGLES D'AMENAGEMENT ET D'EXPLOITATION DES DEPOTS D'HYDROCARBURES LIQUIDES. LES ARRETES DU 16-06-66 ET DU 26-11-48 SONT ABROGES",
+          "@c_titre_court": "Arrêté du 9 novembre 1972",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000672522"
+        },
+        {
+          "#text": "Arrêté du 9 novembre 1972 relatif aux règles d'aménagement et d'exploitation des dépôts d'hydrocarbures liquides",
+          "@c_titre_court": "Arrêté du 9 novembre 1972",
+          "@debut": "1972-12-31",
+          "@fin": "2010-11-17",
+          "@id_txt": "LEGITEXT000006074404"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "I - Dispositions générales",
+            "@debut": "1972-12-31",
+            "@fin": "2010-11-17",
+            "@id": "LEGISCTA000006109971"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000672522",
+      "@date_publi": "1972-12-31",
+      "@date_signature": "1972-11-09",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1972-12-31",
+          "@etat": "ABROGE",
+          "@fin": "2010-11-17",
+          "@id": "LEGIARTI000006860265",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Sont considérés comme hydrocarbures au sens du présent arrêté les produits repris aux tableaux B et C annexés à l'article 265 du code des douanes, à l'exception du gaz naturel liquéfié.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 7 juillet 2009 (Ab)",
+        "@cidtexte": "JORFTEXT000021028200",
+        "@datesignatexte": "2009-07-07",
+        "@id": "LEGITEXT000021028921",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVP0915436A",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté du 3 octobre 2010 - art. 64",
+        "@cidtexte": "JORFTEXT000023081678",
+        "@datesignatexte": "2010-10-03",
+        "@id": "LEGIARTI000023100877",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVP1025848A",
+        "@num": "64",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code des douanes - art. 265",
+        "@cidtexte": "LEGITEXT000006071570",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006615102",
+        "@naturetexte": "CODE",
+        "@num": "265",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

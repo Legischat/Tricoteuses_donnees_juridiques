@@ -1,0 +1,103 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006438792",
+      "ANCIEN_ID": "PEHDDXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/43/87/LEGIARTI000006438792.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1989-09-01",
+        "DATE_FIN": "1990-09-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°89-608 du 1 septembre 1989 PORTANT CREATION D'ALLOCATIONS D'ENSEIGNEMENT",
+          "@c_titre_court": "Décret n°89-608 du 1 septembre 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000885998"
+        },
+        {
+          "#text": "Décret n°89-608 du 1 septembre 1989 portant création d'allocations d'enseignement",
+          "@c_titre_court": "Décret n°89-608 du 1 septembre 1989",
+          "@debut": "1989-09-01",
+          "@fin": "1991-09-01",
+          "@id_txt": "LEGITEXT000006067227"
+        }
+      ],
+      "@cid": "JORFTEXT000000885998",
+      "@date_publi": "1989-09-02",
+      "@date_signature": "1989-09-01",
+      "@nature": "DECRET",
+      "@nor": "MENZ8901802D",
+      "@num": "89-608"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-09-01",
+          "@etat": "MODIFIE",
+          "@fin": "1990-09-01",
+          "@id": "LEGIARTI000006438792",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-09-01",
+          "@etat": "ABROGE",
+          "@fin": "1991-09-01",
+          "@id": "LEGIARTI000006438793",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'allocation d'enseignement est attribuée aux candidats qui se destinent aux fonctions d'enseignant du premier degré dans les conditions suivantes :<br/>\n<br/>   1° Pour une période de deux années, pour les candidats inscrits en première année d'un diplôme national de premier cycle de l'enseignement supérieur. En cas d'échec en fin de première année, l'allocation est suspendue pour une année ; en cas de nouvel échec à l'issue de cette année, l'allocation est supprimée ;<br/>\n<br/>   2° Pour une période d'une année, pour les candidats inscrits en deuxième année d'un diplôme national de premier cycle de l'enseignement supérieur.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°89-608 du 1 septembre 1989 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000885998",
+        "@datesignatexte": "1989-09-01",
+        "@id": "LEGIARTI000006438804",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENZ8901802D",
+        "@num": "10",
+        "@numtexte": "89-608",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°91-586 du 24 juin 1991 - art. 6 (V)",
+        "@cidtexte": "JORFTEXT000000720504",
+        "@datesignatexte": "1991-06-24",
+        "@id": "LEGIARTI000019561791",
+        "@naturetexte": "DECRET",
+        "@nortexte": "MENZ9101010D",
+        "@num": "6",
+        "@numtexte": "91-586",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

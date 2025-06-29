@@ -1,0 +1,147 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006769334",
+      "ANCIEN_ID": "SSHAU1XXXXX046AXXXXXXXAC",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/93/LEGIARTI000006769334.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Tableau 44",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1998-06-19",
+        "DATE_FIN": "2005-04-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 RUR. TABLEAU DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869963"
+        },
+        {
+          "#text": "Décret n°55-806 du 17 juin 1955 portant règlement d'administration publique pour l'application de l'article 1146 du code rural",
+          "@c_titre_court": "Décret n°55-806 du 17 juin 1955",
+          "@debut": "1955-06-21",
+          "@fin": "2005-04-22",
+          "@id_txt": "LEGITEXT000006060751"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1955-01-15",
+            "@fin": "2005-04-22",
+            "@id": "LEGISCTA000006107084"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Tableaux des maladies professionnelles",
+              "@debut": "1955-01-15",
+              "@fin": "2005-04-22",
+              "@id": "LEGISCTA000006127777"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "44° Affections cutanées et muqueuses professionnelles de mécanisme allergique",
+                "@debut": "1996-01-30",
+                "@fin": "2005-04-22",
+                "@id": "LEGISCTA000006142325"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000869963",
+      "@date_publi": "1955-06-21",
+      "@date_signature": "1955-06-17",
+      "@nature": "DECRET",
+      "@num": "55-806"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-15",
+          "@etat": "MODIFIE",
+          "@fin": "1996-01-30",
+          "@id": "LEGIARTI000006769332",
+          "@num": "Tableau 44",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1996-01-30",
+          "@etat": "MODIFIE",
+          "@fin": "1998-06-19",
+          "@id": "LEGIARTI000006769333",
+          "@num": "Tableau 44",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1998-06-19",
+          "@etat": "ABROGE",
+          "@fin": "2005-04-22",
+          "@id": "LEGIARTI000006769334",
+          "@num": "Tableau 44",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "DESIGNATION DES MALADIES :<br/>\n Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test épicutané positif au produit manipulé<br/>\n DELAI de prise en charge : 15 jours<br/>\n TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :<br/>\n Manipulation ou emploi habituels, dans l'activité professionnelle, de tous produits. <br/>\n<br/>\n DESIGNATION DES MALADIES :<br/>\n Conjonctivite aiguë bilatérale récidivant en cas de nouvelle exposition ou confirmée par un test<br/>\n DELAI de prise en charge : 7 jours  <br/>\n<br/>\n DESIGNATION DES MALADIES :<br/>\n Urticaire de contact récidivant en cas de nouvelle exposition et confirmé par un test<br/>\n DELAI de prise en charge : 7 jours  <br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 1146",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°98-483 du 17 juin 1998 - art. 1 () JORF 19 juin 1998",
+        "@cidtexte": "JORFTEXT000000755210",
+        "@datesignatexte": "1998-06-17",
+        "@id": "LEGIARTI000006772504",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRS9800526D",
+        "@num": "1",
+        "@numtexte": "98-483",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 2005-368 2005-04-19 art. 3 JORF 22 avril 2005",
+        "@cidtexte": "JORFTEXT000000257037",
+        "@datesignatexte": "2005-04-19",
+        "@id": "JORFTEXT000000257037",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0500695D",
+        "@numtexte": "2005-368",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

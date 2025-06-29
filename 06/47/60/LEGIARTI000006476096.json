@@ -1,0 +1,104 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006476096",
+      "ANCIEN_ID": "ACECSXXXXXX034AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/47/60/LEGIARTI000006476096.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "34",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1942-11-22",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 1er juin 1924 portant introduction des lois commerciales françaises dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle",
+          "@c_titre_court": "Loi du 1er juin 1924",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000869866"
+        },
+        {
+          "#text": "Loi du 1er juin 1924 portant introduction des lois commerciales françaises dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle",
+          "@c_titre_court": "Loi du 1er juin 1924",
+          "@debut": "1924-06-03",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071005"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions spéciales",
+            "@debut": "1924-06-03",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006093055"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Section V : De la juridiction et de la procédure commerciale.",
+              "@debut": "1924-06-03",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006118919"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000869866",
+      "@date_publi": "1924-06-03",
+      "@date_signature": "1924-06-01",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1942-11-22",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006476096",
+          "@num": "34",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La prescription d'un an prévue par l'article 108, alinéa 2, du code de commerce, s'applique aux actions énoncées à l'article 541 du code de procédure auquel renvoie ce texte, c'est-à-dire aux actions relatives à la révision des comptes en cas d'erreurs, omissions, faux ou doubles emplois.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code de commerce 108",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000005634379",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de procédure civile 541",
+        "@cidtexte": "LEGITEXT000006070680",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070680",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

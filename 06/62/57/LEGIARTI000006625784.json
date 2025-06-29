@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006625784",
+      "ANCIEN_ID": "RHHDKXXXXXX018AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/62/57/LEGIARTI000006625784.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "18",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-11-01",
+        "DATE_FIN": "2010-05-08",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 9 janvier 1852 fixant les conditions générales d'exercice de la pêche maritime",
+          "@c_titre_court": "Décret du 9 janvier 1852",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000296130"
+        },
+        {
+          "#text": "Décret du 9 janvier 1852 sur l'exercice de la pêche maritime",
+          "@c_titre_court": "Décret du 9 janvier 1852",
+          "@debut": "1971-01-01",
+          "@fin": "2010-05-08",
+          "@id_txt": "LEGITEXT000006071755"
+        }
+      ],
+      "@cid": "JORFTEXT000000296130",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1852-01-09",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1971-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1985-11-01",
+          "@id": "LEGIARTI000006625783",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-11-01",
+          "@etat": "ABROGE",
+          "@fin": "2010-05-08",
+          "@id": "LEGIARTI000006625784",
+          "@num": "18",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les délits et contraventions en matière de pêche maritime sont jugées :<br/>\n<br/>   1° pour les navires français, par le tribunal du port où le navire a été conduit ou, s'il n'a pas été conduit au port, par le tribunal du port d'immatriculation ;<br/>\n<br/>   2° pour les navires étrangers, par le tribunal du port où le navire a été conduit ou, s'il n'a pas été conduit au port, par le tribunal de la résidence administrative de l'agent qui a constaté l'infraction.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°85-542 du 22 mai 1985 - art. 4 () JORF 24 mai 1985 en vigueur le 1er novembre 1985",
+        "@cidtexte": "JORFTEXT000000693441",
+        "@datesignatexte": "1985-05-22",
+        "@id": "LEGIARTI000006274589",
+        "@naturetexte": "LOI",
+        "@num": "4",
+        "@numtexte": "85-542",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n°2010-462 du 6 mai 2010 - art. 4",
+        "@cidtexte": "JORFTEXT000022176680",
+        "@datesignatexte": "2010-05-06",
+        "@id": "LEGIARTI000022195076",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "AGRS1007353R",
+        "@num": "4",
+        "@numtexte": "2010-462",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

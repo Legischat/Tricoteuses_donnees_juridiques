@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861544",
+      "ANCIEN_ID": "UPIHBXXXXXX022AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/15/LEGIARTI000006861544.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "22",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1983-12-14",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 octobre 1977 STATUT DES GARDES-CHASSE",
+          "@c_titre_court": "Arrêté du 7 octobre 1977",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000666824"
+        },
+        {
+          "#text": "Arrêté du 7 octobre 1977 portant application du décret n° 77-898 du 2 août 1977 portant statut des gardes-chasse de l'office national de la chasse.",
+          "@c_titre_court": "Arrêté du 7 octobre 1977",
+          "@debut": "1977-10-25",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074496"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Commission paritaire",
+            "@debut": "1977-10-25",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006110117"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000666824",
+      "@date_publi": "1977-10-25",
+      "@date_signature": "1977-10-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1977-10-25",
+          "@etat": "MODIFIE",
+          "@fin": "1983-12-14",
+          "@id": "LEGIARTI000006861543",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-12-14",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006861544",
+          "@num": "22",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour les gardes affectés en fédération,  les opérations électorales se déroulent au siège de chaque fédération, pendant les heures de travail. Le vote a lieu à bulletin secret au  scrutin de liste proportionnel. Le bulletin de vote, à remettre par le garde le jour du scrutin au bureau composé de trois gardes dont un président et deux assesseurs désignés par les gardes présents à l'ouverture du scrutin, est inséré dans une première enveloppe cachetée par l'électeur et ne portant aucun signe extérieur. Cette enveloppe est placée dans une enveloppe n° 2 portant mention de la fédération, sur laquelle il porte ses nom, prénom et grade et appose sa signature. Cette enveloppe est également cachetée.<br/>\n<br/>   Le vote par correspondance est autorisé. Les bulletins et les enveloppes nécessaires sont envoyés aux intéressés huit jours francs au moins avant la clôture du scrutin. Le garde expédie sous pli recommandé au président du bureau son bulletin de vote inclus comme indiqué ci-dessus dans les enveloppes réglementaires.<br/>\n<br/>   Cette enveloppe doit parvenir avant la clôture du scrutin.<br/>\n<br/>   En cas d'arrivée tardive, les plis sont renvoyés aux votants avec indication de la date et de l'heure de leur réception.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1983-11-04 ART. 4 : Les dispositions du présent arrêté entreront en vigueur pour le remplacement des membres de la commission paritaire des gardes de l'office national de la chasse élus le 16 février 1981",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Arrêté 1983-11-04 art. 2 JONC 14 décembre 1983",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Décret 77-898 1977-08-02",
+        "@cidtexte": "JORFTEXT000000519090",
+        "@datesignatexte": "1977-08-02",
+        "@id": "JORFTEXT000000519090",
+        "@naturetexte": "DECRET",
+        "@numtexte": "77-898",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

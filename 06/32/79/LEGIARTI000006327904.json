@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327904",
+      "ANCIEN_ID": "FAIPXXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/79/LEGIARTI000006327904.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "PERIME",
+        "DATE_DEBUT": "1986-01-17",
+        "DATE_FIN": "1987-01-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 janvier 1986 fixant les limites des tranches du tarif de la retenue à la source applicable aux salaires, pensions et rentes viagères versés en 1986 à des personnes domiciliées hors de France",
+          "@c_titre_court": "Arrêté du 13 janvier 1986",
+          "@debut": "1986-01-17",
+          "@fin": "1987-01-22",
+          "@id_txt": "LEGITEXT000006069951"
+        }
+      ],
+      "@cid": "LEGITEXT000006069951",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-01-13",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-17",
+          "@etat": "PERIME",
+          "@fin": "1987-01-22",
+          "@id": "LEGIARTI000006327904",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "PERIME"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En application du troisième alinéa du III de l'article 182 A du code général des impôts, les taux de 15 p. 100 et 25 p. 100 mentionnés ci-dessus sont ramenés à 10 p. 100 et 18 p. 100 dans les départements d'outre-mer.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 182 A",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 85-1403 1985-12-30 art. 2 I Finances pour 19869",
+        "@cidtexte": "JORFTEXT000000878230",
+        "@datesignatexte": "1985-12-30",
+        "@id": "JORFTEXT000000878230",
+        "@naturetexte": "LOI",
+        "@numtexte": "85-1403",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 8 janvier 1987, v. init.",
+        "@cidtexte": "JORFTEXT000000494452",
+        "@datesignatexte": "1987-01-08",
+        "@id": "JORFTEXT000000494452",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "BUDF8720001A",
+        "@sens": "source",
+        "@typelien": "PEREMPTION"
+      }
+    ]
+  }
+}

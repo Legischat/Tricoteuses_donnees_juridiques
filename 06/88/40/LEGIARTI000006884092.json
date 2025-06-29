@@ -1,0 +1,85 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006884092",
+      "ANCIEN_ID": "UTHRVXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/40/LEGIARTI000006884092.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "DATE_DEBUT": "2999-01-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "ENTIEREMENT_MODIF"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°82-355 du 21 avril 1982 COMITE INTERMINISTERIEL DE LA SECURITE ROUTIERE",
+          "@c_titre_court": "Décret n°82-355 du 21 avril 1982",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000880301"
+        },
+        {
+          "#text": "Décret n°82-355 du 21 avril 1982 modifiant le décret n° 75-360 du 15 mai 1975 relatif au comité interministériel de la sécurité routière.",
+          "@c_titre_court": "Décret n°82-355 du 21 avril 1982",
+          "@debut": "1982-04-23",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006063756"
+        }
+      ],
+      "@cid": "JORFTEXT000000880301",
+      "@date_publi": "1982-04-23",
+      "@date_signature": "1982-04-21",
+      "@nature": "DECRET",
+      "@num": "82-355"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006884092",
+          "@num": "1",
+          "@origine": "LEGI"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "a modifié les dispositions suivantes<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 75-360 1975-05-15",
+        "@cidtexte": "JORFTEXT000000700258",
+        "@datesignatexte": "1975-05-15",
+        "@id": "JORFTEXT000000700258",
+        "@naturetexte": "DECRET",
+        "@numtexte": "75-360",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°75-360 du 15 mai 1975 - art. 1 (M)",
+        "@cidtexte": "JORFTEXT000000700258",
+        "@datesignatexte": "1975-05-15",
+        "@id": "LEGIARTI000006884082",
+        "@naturetexte": "DECRET",
+        "@num": "1",
+        "@numtexte": "75-360",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

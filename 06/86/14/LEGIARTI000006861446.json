@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861446",
+      "ANCIEN_ID": "UPIGUXXXXXX003AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/14/LEGIARTI000006861446.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-02-08",
+        "DATE_FIN": "1993-11-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 7 mai 1976 relatif aux modalités de l'examen pour la délivrance du permis de chasser.",
+          "@c_titre_court": "Arrêté du 7 mai 1976",
+          "@debut": "1976-05-09",
+          "@fin": "1993-11-27",
+          "@id_txt": "LEGITEXT000006074491"
+        }
+      ],
+      "@cid": "LEGITEXT000006074491",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1976-05-07",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-05-09",
+          "@etat": "MODIFIE",
+          "@fin": "1990-02-08",
+          "@id": "LEGIARTI000006861445",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-02-08",
+          "@etat": "ABROGE",
+          "@fin": "1993-11-27",
+          "@id": "LEGIARTI000006861446",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les examinateurs prévus à l'article R. 223-7 du code rural s'assurent, avant l'épreuve, de l'identité des candidats et de la régularité de leur convocation.<br/>\n<br/>   \" Les candidats leur remettent l'attestation mentionnée à l'article 1er bis. Celle-ci leur est restituée en cas d'échec à l'examen.<br/>\n<br/>   \" Les examinateurs surveillent et corrigent les épreuves des candidats.<br/>\n<br/>   \" Tout candidat convaincu de fraude ou de tentative de fraude est immédiatement exclu de la salle d'examen et ajourné. \"<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1976-05-07 art. 1 bis",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1989-12-08 art. 3 JORF 8 février 1990",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1993-11-22 art. 12 JORF 27 novembre 1993",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code rural R223-7",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 76-398 1976-05-07",
+        "@cidtexte": "JORFTEXT000000304644",
+        "@datesignatexte": "1976-05-07",
+        "@id": "JORFTEXT000000304644",
+        "@naturetexte": "DECRET",
+        "@numtexte": "76-398",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

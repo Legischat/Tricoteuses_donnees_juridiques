@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006869033",
+      "ANCIEN_ID": "UQI1IXXXXXX005AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/90/LEGIARTI000006869033.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1995-10-01",
+        "DATE_FIN": "2011-07-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 27 juillet 1995 fixant la liste des mammifères marins protégés sur    le territoire national",
+          "@c_titre_court": "Arrêté du 27 juillet 1995",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000554572"
+        },
+        {
+          "#text": "Arrêté du 27 juillet 1995 fixant la liste des mammifères marins protégés sur le territoire national",
+          "@c_titre_court": "Arrêté du 27 juillet 1995",
+          "@debut": "1995-10-01",
+          "@fin": "2011-07-27",
+          "@id_txt": "LEGITEXT000005619536"
+        }
+      ],
+      "@cid": "JORFTEXT000000554572",
+      "@date_publi": "1995-10-01",
+      "@date_signature": "1995-07-27",
+      "@ministere": "MINISTERE DE L'ENVIRONNEMENT",
+      "@nature": "ARRETE",
+      "@nor": "ENVN9540263A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1995-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2011-07-27",
+          "@id": "LEGIARTI000006869033",
+          "@num": "5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 28 février 1991 fixant la liste des espèces de phoques protégés est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1991-02-28",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 1er juillet 2011 - art. 12",
+        "@cidtexte": "JORFTEXT000024396902",
+        "@datesignatexte": "2011-07-01",
+        "@id": "LEGIARTI000024397487",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "DEVL1110724A",
+        "@num": "12",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

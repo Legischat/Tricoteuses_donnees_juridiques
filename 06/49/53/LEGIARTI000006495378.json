@@ -1,0 +1,114 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006495378",
+      "ANCIEN_ID": "PJFAPXXXXXX042AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/49/53/LEGIARTI000006495378.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "42",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1951-06-02",
+        "DATE_FIN": "2021-09-30",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante",
+          "@c_titre_court": "Ordonnance n° 45-174 du 2 février 1945",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000517521"
+        },
+        {
+          "#text": "Ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.",
+          "@c_titre_court": "Ordonnance n° 45-174 du 2 février 1945",
+          "@debut": "1958-12-23",
+          "@fin": "2021-09-30",
+          "@id_txt": "LEGITEXT000006069158"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Chapitre V : Dispositions diverses.",
+            "@debut": "1945-02-04",
+            "@fin": "2021-09-30",
+            "@id": "LEGISCTA000006094227"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000517521",
+      "@date_publi": "1945-02-04",
+      "@date_signature": "1945-02-02",
+      "@nature": "ORDONNANCE",
+      "@num": "45-174"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1951-06-02",
+          "@etat": "ABROGE",
+          "@fin": "2021-09-30",
+          "@id": "LEGIARTI000006495378",
+          "@num": "42",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont abrogés la loi du 22 juillet 1912 et les textes qui l'ont complétée et modifiée ainsi que la loi du 5 août 1850 sur l'éducation et le patronage des jeunes détenus.<br/>\n<br/>   La présente ordonnance sera applicable aux départements d'outre-mer.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1912-07-22",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance 45-174 1945-02-02 JORF 4 février 1945 rectificatif JORF 6 et 21 mars 1945",
+        "@cidtexte": "JORFTEXT000000517521",
+        "@datesignatexte": "1945-02-02",
+        "@id": "JORFTEXT000000517521",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-174",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Loi n° 51-687 du 24 mai 1951, art. 11 v. init.",
+        "@cidtexte": "JORFTEXT000031521001",
+        "@datesignatexte": "1951-05-24",
+        "@id": "JORFTEXT000031521001",
+        "@naturetexte": "LOI",
+        "@numtexte": "51-687",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance n° 2019-950 du 11 septembre 2019 - art. 7",
+        "@cidtexte": "JORFTEXT000039085102",
+        "@datesignatexte": "2019-09-11",
+        "@id": "LEGIARTI000039086609",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX1919677R",
+        "@num": "7",
+        "@numtexte": "2019-950",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

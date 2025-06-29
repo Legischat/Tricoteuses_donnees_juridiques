@@ -1,0 +1,89 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006552102",
+      "ANCIEN_ID": "PRHY1XXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/21/LEGIARTI000006552102.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1976-02-07",
+        "DATE_FIN": "2010-01-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°76-125 du 6 février 1976 RELATIF AUX ATTRIBUTIONS DE LA DIRECTION DE LA DOCUMENTATION FRANCAISE",
+          "@c_titre_court": "Décret n°76-125 du 6 février 1976",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000502035"
+        },
+        {
+          "#text": "Décret n°76-125 du 6 février 1976 relatif aux attributions de la direction de la Documentation française.",
+          "@c_titre_court": "Décret n°76-125 du 6 février 1976",
+          "@debut": "1976-02-07",
+          "@fin": "2010-01-13",
+          "@id_txt": "LEGITEXT000006062440"
+        }
+      ],
+      "@cid": "JORFTEXT000000502035",
+      "@date_publi": "1976-02-07",
+      "@date_signature": "1976-02-06",
+      "@nature": "DECRET",
+      "@num": "76-125"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1976-02-07",
+          "@etat": "ABROGE",
+          "@fin": "2010-01-13",
+          "@id": "LEGIARTI000006552102",
+          "@num": "3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret n° 50-1600 du 30 décembre 1950 relatif aux attributions de la direction de la documentation et de la diffusion est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°50-1600 du 30 décembre 1950",
+        "@cidtexte": "JORFTEXT000000672650",
+        "@datesignatexte": "1950-12-30",
+        "@id": "JORFTEXT000000672650",
+        "@naturetexte": "DECRET",
+        "@numtexte": "50-1600",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2010-31 du 11 janvier 2010 - art. 5",
+        "@cidtexte": "JORFTEXT000021658499",
+        "@datesignatexte": "2010-01-11",
+        "@id": "LEGIARTI000021660232",
+        "@naturetexte": "DECRET",
+        "@nortexte": "PRMX0931176D",
+        "@num": "5",
+        "@numtexte": "2010-31",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

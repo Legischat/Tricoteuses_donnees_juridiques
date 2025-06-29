@@ -1,0 +1,92 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006557067",
+      "ANCIEN_ID": "ADHGIXXXXXX010AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/55/70/LEGIARTI000006557067.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "10",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1975-02-05",
+        "DATE_FIN": "1981-05-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°75-65 du 24 janvier 1975 PORTANT APPLICATION DE LA LOI DU 1 août 1905 SUR LA REPRESSION DES FRAUDES EN CE QUI CONCERNE LES PRODUITS DIETETIQUES ET DE REGIME",
+          "@c_titre_court": "Décret n°75-65 du 24 janvier 1975",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000863645"
+        },
+        {
+          "#text": "Décret n°75-65 du 24 janvier 1975 portant application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne les produits diététiques et de régime",
+          "@c_titre_court": "Décret n°75-65 du 24 janvier 1975",
+          "@debut": "1975-02-05",
+          "@fin": "1981-05-17",
+          "@id_txt": "LEGITEXT000006062347"
+        }
+      ],
+      "@cid": "JORFTEXT000000863645",
+      "@date_publi": "1975-02-05",
+      "@date_signature": "1975-01-24",
+      "@nature": "DECRET",
+      "@num": "75-65"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1975-02-05",
+          "@etat": "ABROGE",
+          "@fin": "1981-05-17",
+          "@id": "LEGIARTI000006557067",
+          "@num": "10",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le décret susvisé du 12 octobre 1972 demeure applicable aux produits visés au présent décret dans toutes les dispositions qui ne sont pas contraires à celles dudit décret.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 72-937 1972-10-12",
+        "@cidtexte": "JORFTEXT000000856746",
+        "@datesignatexte": "1972-10-12",
+        "@id": "JORFTEXT000000856746",
+        "@naturetexte": "DECRET",
+        "@numtexte": "72-937",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 1 juillet 1976 - art. 11 (Ab)",
+        "@cidtexte": "JORFTEXT000000642046",
+        "@datesignatexte": "1976-07-01",
+        "@id": "LEGIARTI000006733279",
+        "@naturetexte": "ARRETE",
+        "@num": "11",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006351759",
+      "ANCIEN_ID": "MDH0CXXXXXX061AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/35/17/LEGIARTI000006351759.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "61",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1955-01-21",
+        "DATE_FIN": "1964-12-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°49-1416 du 5 octobre 1949 PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE POUR L'APPLICATION DE L'ART. 3 DE L'ORDONNANCE 45993 DU 17-05-1945 SUR LA CAISSE DE RETRAITE DES AGENTS DES COLLECTIVITES LOCALES",
+          "@c_titre_court": "Décret n°49-1416 du 5 octobre 1949",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000686940"
+        },
+        {
+          "#text": "Décret n°49-1416 du 5 octobre 1949 portant règlement d'administration publique pour l'application de l'article 3 de l'ordonnance n° 45-993 du 17 mai 1945 *caisse nationale de retraites*",
+          "@c_titre_court": "Décret n°49-1416 du 5 octobre 1949",
+          "@debut": "1949-10-14",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060532"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "REMBOURSEMENT DES RETENUES",
+            "@debut": "1949-10-14",
+            "@fin": "1964-12-01",
+            "@id": "LEGISCTA000006085675"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000686940",
+      "@date_publi": "1949-10-14",
+      "@date_signature": "1949-10-05",
+      "@nature": "DECRET",
+      "@num": "49-1416"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1949-10-14",
+          "@etat": "MODIFIE",
+          "@fin": "1955-01-21",
+          "@id": "LEGIARTI000006351758",
+          "@num": "61",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1955-01-21",
+          "@etat": "ABROGE",
+          "@fin": "1964-12-01",
+          "@id": "LEGIARTI000006351759",
+          "@num": "61",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>       I - L'agent rayé des cadres par mesure disciplinaire sans suspension des droits à pension ne peut obtenir une pension que s'il remplit la condition de durée de service exigée pour le droit à pension d'ancienneté.<br/>\n<br/>       Dans le cas contraire, les dispositions du I, 2e alinéa de l'article 60 lui sont applicables [*il est rétabli en ce qui concerne l'assurance vieillesse*].<br/>\n<br/>       II - L'agent révoqué avec suspension des droits à pension bénéficie des dispositions du I, 2e alinéa, de l'article 60 sous réserve que celles de l'article 51 [*subrogation de la femme et des enfants mineurs*] ne soient pas applicables.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 45-993 1945-05-17 art. 3",
+        "@cidtexte": "JORFTEXT000000338923",
+        "@datesignatexte": "1945-05-17",
+        "@id": "JORFTEXT000000338923",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-993",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 49-1416 1949-10-05 ART. 51 et ART. 60 AL. 1 et AL. 2",
+        "@cidtexte": "JORFTEXT000000686940",
+        "@datesignatexte": "1949-10-05",
+        "@id": "JORFTEXT000000686940",
+        "@naturetexte": "DECRET",
+        "@numtexte": "49-1416",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°65-773 du 9 septembre 1965 - art. 70 (Ab) JORF 12 septembre 1965 date d'entrée en vigueur 1 décembre 1964",
+        "@cidtexte": "JORFTEXT000000849963",
+        "@datesignatexte": "1965-09-09",
+        "@id": "LEGIARTI000006368329",
+        "@naturetexte": "DECRET",
+        "@num": "70",
+        "@numtexte": "65-773",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006513468",
+      "ANCIEN_ID": "ADEDKXXXXXX025AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/51/34/LEGIARTI000006513468.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1996-07-06",
+        "DATE_FIN": "2023-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat (1)",
+          "@c_titre_court": "LOI n° 96-603 du 5 juillet 1996",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000193678"
+        },
+        {
+          "#text": "Loi n° 96-603 du 5 juillet 1996 relative au développement et à la promotion du commerce et de l'artisanat",
+          "@c_titre_court": "Loi n° 96-603 du 5 juillet 1996",
+          "@debut": "1996-07-06",
+          "@fin": "2023-07-01",
+          "@id_txt": "LEGITEXT000005621315"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre II : Dispositions relatives à la qualification professionnelle et à l'artisanat",
+            "@debut": "1996-07-06",
+            "@fin": "2023-07-01",
+            "@id": "LEGISCTA000006095476"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre III : Dispositions communes.",
+              "@debut": "1996-07-06",
+              "@fin": "2023-07-01",
+              "@id": "LEGISCTA000006120155"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000193678",
+      "@date_publi": "1996-07-06",
+      "@date_signature": "1996-07-05",
+      "@nature": "LOI",
+      "@nor": "COMX9600031L",
+      "@num": "96-603",
+      "@num_parution_jo": "0156"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1996-07-06",
+          "@etat": "ABROGE",
+          "@fin": "2023-07-01",
+          "@id": "LEGIARTI000006513468",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Sont abrogés :<br/>\n<br/>   - la loi n° 56-1096 du 30 octobre 1956 modifiant certaines dispositions relatives à l'élection aux chambres de métiers et aux métiers artisanaux ;<br/>\n<br/>   - l'article 35 ter du code de l'artisanat.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°56-1096 du 30 octobre 1956",
+        "@cidtexte": "JORFTEXT000000309799",
+        "@datesignatexte": "1956-10-30",
+        "@id": "JORFTEXT000000309799",
+        "@naturetexte": "LOI",
+        "@numtexte": "56-1096",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2023-208 du 28 mars 2023 - art. 5",
+        "@cidtexte": "JORFTEXT000047358025",
+        "@datesignatexte": "2023-03-28",
+        "@id": "LEGIARTI000047361634",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "ECOI2234224R",
+        "@num": "5",
+        "@numtexte": "2023-208",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de l'artisanat - art. 35 ter (Ab)",
+        "@cidtexte": "LEGITEXT000006075116",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006900650",
+        "@naturetexte": "CODE",
+        "@num": "35 ter",
+        "@sens": "cible",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de l'artisanat - art. 35 ter",
+        "@cidtexte": "LEGITEXT000006075116",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006900649",
+        "@naturetexte": "CODE",
+        "@num": "35 ter",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

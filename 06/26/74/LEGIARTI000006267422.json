@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006267422",
+      "ANCIEN_ID": "PSI9UXXXXXX002AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/26/74/LEGIARTI000006267422.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "2",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "2007-08-21",
+        "DATE_FIN": "2011-03-16",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 3 août 2007 portant définition des normes techniques des systèmes de vidéosurveillance",
+          "@c_titre_court": "Arrêté du 3 août 2007",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000649127"
+        },
+        {
+          "#text": "Arrêté du 3 août 2007 portant définition des normes techniques des systèmes de vidéosurveillance.",
+          "@c_titre_court": "Arrêté du 3 août 2007",
+          "@debut": "2007-08-21",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006056808"
+        }
+      ],
+      "@cid": "JORFTEXT000000649127",
+      "@date_publi": "2007-08-21",
+      "@date_signature": "2007-08-03",
+      "@ministere": "MINISTERE DE L'INTERIEUR, DE L'OUTRE-MER ET DES COLLECTIVITES TERRITORIALES",
+      "@nature": "ARRETE",
+      "@nor": "IOCD0762353A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "2007-08-21",
+          "@etat": "MODIFIE",
+          "@fin": "2011-03-16",
+          "@id": "LEGIARTI000006267422",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2011-03-16",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000023721919",
+          "@num": "2",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id": "JORFARTI000002477501",
+          "@num": "2",
+          "@origine": "JORF"
+        }
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>Le stockage des flux vidéo est réalisé sur support numérique pour les systèmes de vidéosurveillance comportant huit caméras ou plus. Ce stockage peut également être réalisé sur un autre type de support. Le stockage des flux vidéo est réalisé sur support analogique ou numérique pour les systèmes de vidéosurveillance comportant moins de huit caméras. <br/>\n<br/>Tout flux vidéo enregistré numériquement est stocké avec des informations permettant de déterminer à tout moment de la séquence vidéo sa date, son heure et l'emplacement de la caméra. <br/>\n<br/>Pour les systèmes à enregistrement analogique des flux vidéo, un dispositif permet de déterminer à tout moment la date, l'heure et l'emplacement de la caméra correspondant aux images enregistrées.<br/>\n<br/>L'enregistrement numérique garantit l'intégrité des flux vidéo et des données associées relatives à la date, à l'heure et à l'emplacement de la caméra. <br/>\n<br/>Les flux vidéo stockés issus des caméras, qui, compte tenu de leur positionnement et de leur orientation, fonctionnent principalement en plan étroit, à l'exclusion de celles de régulation du trafic routier, ont un format d'image supérieur ou égal à 704 x 576 pixels. Ce format pourra être inférieur si le système permet l'extraction de vignettes de visage d'une résolution minimum de 90 x 60 pixels. <br/>\n<br/>Les autres flux vidéo stockés ont un format d'image supérieur ou égal à 352 x 288 pixels. <br/>\n<br/>Une fréquence minimale de douze images par seconde est requise pour l'enregistrement des flux vidéo issus de caméras installées pour une des finalités mentionnées au II de l'article 10 de la loi du 21 janvier 1995 susvisée, à l'exclusion de celles de régulation du trafic routier, et qui, compte tenu de leur positionnement et de leur orientation, fonctionnent principalement en plan étroit et filment principalement des flux d'individus en déplacement rapide. <br/>\n<br/>Pour l'enregistrement des autres flux vidéo, une fréquence minimale de six images par seconde est requise. <br/>\n<br/>Le système de stockage utilisé est associé à un journal qui conserve la trace de l'ensemble des actions effectuées sur les flux vidéo. <br/>\n<br/>Pour les systèmes numériques, ce journal est généré automatiquement sous forme électronique.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°95-73 du 21 janvier 1995 - art. 10 (V)",
+        "@cidtexte": "JORFTEXT000000369046",
+        "@datesignatexte": "1995-01-21",
+        "@id": "LEGIARTI000006527953",
+        "@naturetexte": "LOI",
+        "@nortexte": "INTX9400063L",
+        "@num": "10",
+        "@numtexte": "95-73",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006661872",
+      "ANCIEN_ID": "SEHABXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/66/18/LEGIARTI000006661872.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1994-03-01",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°73-84 du 25 janvier 1973 POUR L'APPLICATION DE LA LOI 72-648 DU 11-07-1972 RELATIVE AU TRAVAIL CLANDESTIN (INFRACTIONS)",
+          "@c_titre_court": "Décret n°73-84 du 25 janvier 1973",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000859894"
+        },
+        {
+          "#text": "Décret n°73-84 du 25 janvier 1973  POUR L'APPLICATION DE LA LOI N. 72-648 DU 11 JUILLET 1972 RELATIVE AU TRAVAIL CLANDESTIN.",
+          "@c_titre_court": "Décret n°73-84 du 25 janvier 1973",
+          "@debut": "1973-01-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006062128"
+        }
+      ],
+      "@cid": "JORFTEXT000000859894",
+      "@date_publi": "1973-01-27",
+      "@date_signature": "1973-01-25",
+      "@nature": "DECRET",
+      "@num": "73-84"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1973-01-27",
+          "@etat": "MODIFIE",
+          "@fin": "1994-03-01",
+          "@id": "LEGIARTI000006661871",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-03-01",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006661872",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "<br/>(1) voir article 131-13 du code pénal. <br/>\n<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Toute infraction aux dispositions de l'article 1er de la loi du 11 juillet 1972 relative au travail clandestin sera punie de l'amende prévue pour les contraventions de 5° classe.</p>\n<br/>\n<p>Une copie du procès-verbal sera transmise au préfet.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "LOI 72-648 1972-07-11 ART. 1",
+        "@cidtexte": "JORFTEXT000000322098",
+        "@datesignatexte": "1972-07-11",
+        "@id": "JORFTEXT000000322098",
+        "@naturetexte": "LOI",
+        "@numtexte": "72-648",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994",
+        "@cidtexte": "JORFTEXT000000729725",
+        "@datesignatexte": "1993-03-29",
+        "@id": "JORFTEXT000000729725",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX9300012Z",
+        "@numtexte": "93-726",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

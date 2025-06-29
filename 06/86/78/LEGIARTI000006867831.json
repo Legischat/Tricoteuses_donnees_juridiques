@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006867831",
+      "ANCIEN_ID": "AIIDKXXXXXX006AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/78/LEGIARTI000006867831.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "6",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1986-01-15",
+        "DATE_FIN": "1988-03-22",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 14 janvier 1986 relatif à la détermination des prix des produits et prestations inscrits au tarif interministériel des prestations sanitaires",
+          "@c_titre_court": "Arrêté du 14 janvier 1986",
+          "@debut": "1986-01-15",
+          "@fin": "1988-03-22",
+          "@id_txt": "LEGITEXT000006074879"
+        }
+      ],
+      "@cid": "LEGITEXT000006074879",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1986-01-14",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-15",
+          "@etat": "ABROGE",
+          "@fin": "1988-03-22",
+          "@id": "LEGIARTI000006867831",
+          "@num": "6",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté n° 74-6/P du 26 février 1974 cesse d'être applicable.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1988-03-17 art. 5 JORF 22 mars 1988 BOCC n° 8, 16 avril 1988",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Arrêté 74-6/P 1974-02-26",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 86-2/A 1986-01-14 BOCC n° 1, 15 janvier 1986",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      },
+      {
+        "#text": "Ordonnance 45-1483 1945-06-30",
+        "@cidtexte": "JORFTEXT000000516237",
+        "@datesignatexte": "1945-06-30",
+        "@id": "JORFTEXT000000516237",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-1483",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 81-460 1981-05-08",
+        "@cidtexte": "JORFTEXT000000503737",
+        "@datesignatexte": "1981-05-08",
+        "@id": "JORFTEXT000000503737",
+        "@naturetexte": "DECRET",
+        "@numtexte": "81-460",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

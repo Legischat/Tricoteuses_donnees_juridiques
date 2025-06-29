@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006641119",
+      "ANCIEN_ID": "RLIFAXXXXXX001AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/64/11/LEGIARTI000006641119.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "2003-08-07",
+        "DATE_FIN": "2011-08-13",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 21 avril 1997 complétant les dispositions de l'article 1er du    décret no 96-596 du 27 juin 1996 relatif à la lutte contre la rage",
+          "@c_titre_court": "Arrêté du 21 avril 1997",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000565021"
+        },
+        {
+          "#text": "Arrêté du 21 avril 1997 complétant les dispositions de l'article 1er du décret n° 96-596 du 27 juin 1996 relatif à la lutte contre la rage",
+          "@c_titre_court": "Arrêté du 21 avril 1997",
+          "@debut": "1997-05-06",
+          "@fin": "2011-08-13",
+          "@id_txt": "LEGITEXT000005623416"
+        }
+      ],
+      "@cid": "JORFTEXT000000565021",
+      "@date_publi": "1997-05-06",
+      "@date_signature": "1997-04-21",
+      "@ministere": "MINISTERE DE L'AGRICULTURE, DE LA PECHE ET DE L'ALIMENTATION",
+      "@nature": "ARRETE",
+      "@nor": "AGRG9700185A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1997-05-06",
+          "@etat": "MODIFIE",
+          "@fin": "2003-08-07",
+          "@id": "LEGIARTI000006641118",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2003-08-07",
+          "@etat": "ABROGE",
+          "@fin": "2011-08-13",
+          "@id": "LEGIARTI000006641119",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La période prévue à l'article R. 223-25, point 3° et point 4° (c), du code rural :<br/>\n<br/>   - dans le cas où l'animal reconnu enragé est un animal domestique, commence quinze jours avant l'apparition des symptômes de la rage et finit avec la mort de cet animal ;<br/>\n<br/>   - dans le cas où l'animal reconnu enragé est un animal sauvage, qu'il soit ou non apprivoisé ou tenu en captivité, commence trente jours avant l'apparition des symptômes de la rage et finit avec la mort de cet animal.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté du 9 août 2011 - art. 5",
+        "@cidtexte": "JORFTEXT000024463902",
+        "@datesignatexte": "2011-08-09",
+        "@id": "LEGIARTI000024466967",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "AGRG1122472A",
+        "@num": "5",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code rural R223-25",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2003-768 du 1 août 2003 - art. 3 (V) JORF 7 août 2003",
+        "@cidtexte": "JORFTEXT000000597743",
+        "@datesignatexte": "2003-08-01",
+        "@id": "LEGIARTI000006605925",
+        "@naturetexte": "DECRET",
+        "@nortexte": "AGRD0300394D",
+        "@num": "3",
+        "@numtexte": "2003-768",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

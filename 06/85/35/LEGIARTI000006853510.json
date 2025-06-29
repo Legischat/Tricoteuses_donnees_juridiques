@@ -1,0 +1,99 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006853510",
+      "ANCIEN_ID": "UPHEEXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/35/LEGIARTI000006853510.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1970-12-04",
+        "DATE_FIN": "2005-08-18",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°70-1115 du 3 décembre 1970 RELATIF A LA DELIMITATION DU DOMAINE PUBLIC FLUVIAL",
+          "@c_titre_court": "Décret n°70-1115 du 3 décembre 1970",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000511162"
+        },
+        {
+          "#text": "Décret n°70-1115 du 3 décembre 1970 relatif à la délimitation du domaine public fluvial",
+          "@c_titre_court": "Décret n°70-1115 du 3 décembre 1970",
+          "@debut": "1970-12-04",
+          "@fin": "2005-08-18",
+          "@id_txt": "LEGITEXT000006061708"
+        }
+      ],
+      "@cid": "JORFTEXT000000511162",
+      "@date_publi": "1970-12-04",
+      "@date_signature": "1970-12-03",
+      "@nature": "DECRET",
+      "@num": "70-1115"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1970-12-04",
+          "@etat": "ABROGE",
+          "@fin": "2005-08-18",
+          "@id": "LEGIARTI000006853510",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le deuxième alinéa de l'article 8 du code du domaine public fluvial et de la navigation intérieure est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code du domaine public fluvial 8",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Code du domaine public fluvial 8 AL. 2 abrogé",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2005-992 du 16 août 2005 - art. 17 (Ab) JORF 18 août 2005",
+        "@cidtexte": "JORFTEXT000000447711",
+        "@datesignatexte": "2005-08-16",
+        "@id": "LEGIARTI000006884887",
+        "@naturetexte": "DECRET",
+        "@nortexte": "DEVO0530028D",
+        "@num": "17",
+        "@numtexte": "2005-992",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code du domaine public fluvial et de la navigation - art. 8 (Ab)",
+        "@cidtexte": "LEGITEXT000006074237",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006846017",
+        "@naturetexte": "CODE",
+        "@num": "8",
+        "@sens": "cible",
+        "@typelien": "MODIFICATION"
+      }
+    ]
+  }
+}

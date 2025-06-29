@@ -1,0 +1,132 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006708885",
+      "ANCIEN_ID": "SPHP4XXXXXX009AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/70/88/LEGIARTI000006708885.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "9",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-01-16",
+        "DATE_FIN": "1992-11-17",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°60-654 du 6 juillet 1960 CONDITIONS PARTICULIERES DE FONCTIONNEMENT ET D'ORGANISATION DES HOPITAUX RURAUX",
+          "@c_titre_court": "Décret n°60-654 du 6 juillet 1960",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000492314"
+        },
+        {
+          "#text": "Décret n°60-654 du 6 juillet 1960 relatif aux conditions particulières d'organisation et de fonctionnement des hôpitaux ruraux.",
+          "@c_titre_court": "Décret n°60-654 du 6 juillet 1960",
+          "@debut": "1960-07-07",
+          "@fin": "1992-11-17",
+          "@id_txt": "LEGITEXT000006060975"
+        }
+      ],
+      "@cid": "JORFTEXT000000492314",
+      "@date_publi": "1960-07-07",
+      "@date_signature": "1960-07-06",
+      "@nature": "DECRET",
+      "@num": "60-654"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1960-07-07",
+          "@etat": "MODIFIE",
+          "@fin": "1974-01-16",
+          "@id": "LEGIARTI000006708884",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1974-01-16",
+          "@etat": "ABROGE",
+          "@fin": "1992-11-17",
+          "@id": "LEGIARTI000006708885",
+          "@num": "9",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Alinéas 1 et 2 abrogés.<br/>\n    Lors de l'admission, le directeur économe demande au malade ou à sa famille de désigner, sur la liste des médecins et sages-femmes agréés pour donner des soins dans l'établissement, celui ou celle d'entre eux par lequel il désire être soigné.  A défaut de choix, le directeur économe fait appel au médecin responsable de l'établissement.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 58-1202 1958-12-11",
+        "@cidtexte": "JORFTEXT000000485834",
+        "@datesignatexte": "1958-12-11",
+        "@id": "JORFTEXT000000485834",
+        "@naturetexte": "DECRET",
+        "@numtexte": "58-1202",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 59-957 1959-08-03",
+        "@cidtexte": "JORFTEXT000000670255",
+        "@datesignatexte": "1959-08-03",
+        "@id": "JORFTEXT000000670255",
+        "@naturetexte": "DECRET",
+        "@numtexte": "59-957",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°60-654 du 6 juillet 1960 - art. 10 (Ab)",
+        "@cidtexte": "JORFTEXT000000492314",
+        "@datesignatexte": "1960-07-06",
+        "@id": "LEGIARTI000006708886",
+        "@naturetexte": "DECRET",
+        "@num": "10",
+        "@numtexte": "60-654",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°74-27 du 14 janvier 1974 - art. 84 (Ab)",
+        "@cidtexte": "JORFTEXT000000703193",
+        "@datesignatexte": "1974-01-14",
+        "@id": "LEGIARTI000006709185",
+        "@naturetexte": "DECRET",
+        "@num": "84",
+        "@numtexte": "74-27",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°92-1210 du 13 novembre 1992 - art. 5 (V) JORF 17 novembre 1992",
+        "@cidtexte": "JORFTEXT000000711225",
+        "@datesignatexte": "1992-11-13",
+        "@id": "LEGIARTI000006712551",
+        "@naturetexte": "DECRET",
+        "@nortexte": "SANH9202490D",
+        "@num": "5",
+        "@numtexte": "92-1210",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

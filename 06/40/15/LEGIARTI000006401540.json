@@ -1,0 +1,153 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006401540",
+      "ANCIEN_ID": "ABEACXXXXXX193AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/40/15/LEGIARTI000006401540.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "193",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1994-10-01",
+        "DATE_FIN": "2000-09-21",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n°85-98 du 25 janvier 1985 RELATIVE AU REDRESSEMENT ET A LA LIQUIDATION JUDICIAIRE DES ENTREPRISES",
+          "@c_titre_court": "Loi n°85-98 du 25 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000693911"
+        },
+        {
+          "#text": "Loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises",
+          "@c_titre_court": "Loi n° 85-98 du 25 janvier 1985",
+          "@debut": "1985-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068923"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre VI : Faillite personnelle et autres mesures d'interdiction.",
+            "@debut": "1986-01-01",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006088246"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000693911",
+      "@date_publi": "1985-01-26",
+      "@date_signature": "1985-01-25",
+      "@nature": "LOI",
+      "@num": "85-98"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1986-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1994-10-01",
+          "@id": "LEGIARTI000006401539",
+          "@num": "193",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1994-10-01",
+          "@etat": "ABROGE",
+          "@fin": "2000-09-21",
+          "@id": "LEGIARTI000006401540",
+          "@num": "193",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le droit de vote des dirigeants frappés de la faillite personnelle ou de l'interdiction prévue à l'article 192 est exercé dans les assemblées des personnes morales soumises à une procédure de redressement judiciaire ou de liquidation judiciaire par un mandataire désigné par le tribunal à cet effet, à la requête de l'administrateur, du liquidateur ou du commissaire à l'exécution du plan.<br/>\n<br/>   Le tribunal peut enjoindre à ces dirigeants ou à certains d'entre eux, de céder leurs actions ou parts sociales dans la personne morale ou ordonner leur cession forcée par les soins d'un mandataire de justice, au besoin après expertise ; le produit de la vente est affecté au paiement de la part des dettes sociales dans le cas où ces dettes ont été mises à la charge des dirigeants.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°85-98 du 25 janvier 1985 - art. 192 (M)",
+        "@cidtexte": "JORFTEXT000000693911",
+        "@datesignatexte": "1985-01-25",
+        "@id": "LEGIARTI000006401536",
+        "@naturetexte": "LOI",
+        "@num": "192",
+        "@numtexte": "85-98",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°85-1388 du 27 décembre 1985 - art. 52 (M)",
+        "@cidtexte": "JORFTEXT000000688577",
+        "@datesignatexte": "1985-12-27",
+        "@id": "LEGIARTI000006407749",
+        "@naturetexte": "DECRET",
+        "@num": "52",
+        "@numtexte": "85-1388",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n°94-475 du 10 juin 1994 - art. 92 () JORF 11 juin 1994 en vigueur au plus tard le 1er octobre 1994",
+        "@cidtexte": "JORFTEXT000000731608",
+        "@datesignatexte": "1994-06-10",
+        "@id": "LEGIARTI000006403072",
+        "@naturetexte": "LOI",
+        "@nortexte": "JUSX9400223L",
+        "@num": "92",
+        "@numtexte": "94-475",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Ordonnance 2000-912 2000-09-18 art. 4 JORF 21 septembre 2000",
+        "@cidtexte": "JORFTEXT000000219662",
+        "@datesignatexte": "2000-09-18",
+        "@id": "JORFTEXT000000219662",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "JUSX0000038R",
+        "@numtexte": "2000-912",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Code de commerce. - art. L625-9 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006237013",
+        "@naturetexte": "CODE",
+        "@num": "L625-9",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de commerce. - art. L625-9 (M)",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006237013",
+        "@naturetexte": "CODE",
+        "@num": "L625-9",
+        "@sens": "source",
+        "@typelien": "CONCORDE"
+      }
+    ]
+  }
+}

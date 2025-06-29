@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006327039",
+      "ANCIEN_ID": "FAIFXXXXXXX003AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/32/70/LEGIARTI000006327039.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "ANNEXE",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1982-05-30",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 28 mai 1982 Approbation de la méthode de calcul du complément de rémunération des comptes sur livret d'épargne populaire.",
+          "@c_titre_court": "Arrêté du 28 mai 1982",
+          "@debut": "1982-05-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069747"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1982-05-30",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084862"
+          }
+        ]
+      },
+      "@cid": "LEGITEXT000006069747",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1982-05-28",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-05-30",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006327039",
+          "@num": "ANNEXE",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Le complément de rémunération C (m) acquis au cours d'un mois m par le compte sur livret d'épargne populaire est fourni par la différence : C (m) = R (m) - A (m), dans laquelle R (m) représente le montant de la rémunération globale nécessaire au maintien du pouvoir d'achat de la somme à protéger et A (m) celui des intérêts déjà acquis par cette somme au taux du premier livret des caisses d'épargne. Les termes R (m) et A (m) sont déterminés par les formules développées ci-dessous :</p>\n<br/>\n<br/>\n<p>1. Rémunération R (m) globalement nécessaire au maintien du pouvoir d'achat :</p>\n<br/>\n<p>R (m) = ( S (m - 1) + R (m - 1) x (Im / Im - 1) - S (m - 1) + delta m / m-1 x K - delta m / m-1 où S (m - 1) est le capital stable du mois précédent (solde minimum du compte au cours des mois (m - 6) à (m - 1) ;</p>\n<br/>\n<p>R (m - 1) est la rémunération de maintien de pouvoir d'achat du mois précédent ;</p>\n<br/>\n<p>I (m), I (m - 1) sont les valeurs de l'indice des prix publiées par l'INSEE au cours des mois m et m - 1 ;</p>\n<br/>\n<p>Delta m / m-1 est la variation du capital stable entre le mois m - 1 et le mois m ;</p>\n<br/>\n<p>K est un coefficient dont la valeur est :</p>\n<br/>\n<p>(Im / Im - 1) si delta m / m-1 est négatif ou nul ;</p>\n<br/>\n<p>(Im / Im - 6) si delta m / m-1 est strictement positif.</p>\n<br/>\n<p>2. Rémunération A (m) déjà acquise au taux du premier livret des caisses d'épargne :</p>\n<br/>\n<p>A (m) = A (m - 1) + S (m - 1) x (t / 12 x 100) + delta m / m-1 x (t / 12 x 100) x a où S (m - 1) et delta m / m-1 ont la signification indiquée au paragraphe 1 ;</p>\n<br/>\n<p>t est la valeur du taux d'intérêt du premier livret des caisses d'épargne exprimé en pourcentage ;</p>\n<br/>\n<p>a est un paramètre qui vaut :</p>\n<br/>\n<p>1 si delta m / m-1 est négatif ou nul ;</p>\n<br/>\n<p>6 si delta m / m-1 est strictement positif.</p>\n<br/>\n<p>Dans les deux formules ci-dessus l'expression \"capital stable\" est employée pour désigner l'ensemble des dépôts qui remplissent la condition de stabilité posée par l'article 5 de la loi susvisée du 27 avril 1982.</p>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°82-357 du 27 avril 1982 - art. 5 (Ab)",
+        "@cidtexte": "JORFTEXT000000319742",
+        "@datesignatexte": "1982-04-27",
+        "@id": "LEGIARTI000006702353",
+        "@naturetexte": "LOI",
+        "@num": "5",
+        "@numtexte": "82-357",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°82-454 du 28 mai 1982 - art. 16 (Ab)",
+        "@cidtexte": "JORFTEXT000000879675",
+        "@datesignatexte": "1982-05-28",
+        "@id": "LEGIARTI000006730900",
+        "@naturetexte": "DECRET",
+        "@num": "16",
+        "@numtexte": "82-454",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

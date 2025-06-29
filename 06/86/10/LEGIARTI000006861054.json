@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006861054",
+      "ANCIEN_ID": "UPIEGXXXXXX014AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/86/10/LEGIARTI000006861054.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "14",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-03-22",
+        "DATE_FIN": "2004-07-26",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 février 1974 fixant les règles techniques et de sécurité applicables au stockage et à l'utilisation de produits pétroliers dans les lieux non visés par la législation des établissements dangereux, insalubres ou incommodes et de la réglementation des établissements recevant du public - Annexe.",
+          "@c_titre_court": "Arrêté du 26 février 1974",
+          "@debut": "1974-03-22",
+          "@fin": "2004-07-26",
+          "@id_txt": "LEGITEXT000006074437"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Règles d'implantation du stockage.",
+            "@debut": "1974-03-22",
+            "@fin": "2004-07-26",
+            "@id": "LEGISCTA000006110086"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Stockage non enterré en plein air",
+              "@debut": "1974-03-22",
+              "@fin": "2004-07-26",
+              "@id": "LEGISCTA000006130025"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074437",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-02-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-03-22",
+          "@etat": "ABROGE",
+          "@fin": "2004-07-26",
+          "@id": "LEGIARTI000006861054",
+          "@num": "14",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Suivant la quantité pouvant être emmagasinée dans le stockage, une distance minimale doit être respectée entre la paroi d'un réservoir et le bâtiment le plus proche :<br/>\n<br/>      1,5 mètre cube et moins : aucune distance n'est imposée ;<br/>\n<br/>      De 1,5 à 10 mètres cubes : 1 mètre ;<br/>\n<br/>      De 10 à 60 mètres cubes : 2 mètres ;<br/>\n<br/>      De 60 à 200 mètres cubes : 5 mètres ;<br/>\n<br/>      De 200 mètres cubes et plus : 10 mètres.<br/>\n<br/>   Lorsque le bâtiment est à usage collectif, cette distance est de 3 mètres au moins si la quantité pouvant être emmagasinée est inférieure à 1,5 mètre cube ; dans les autres cas, les distances définies ci-dessus sont majorées de 5 mètres.<br/>\n<br/>   Lorsque le stockage dépasse 15000 litres de capacité globale, la distance entre deux réservoirs est de 0,2 D (diamètre D du plus grand réservoir) avec un minimum de 1,50 mètre.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1968-03-21",
+        "@sens": "source",
+        "@typelien": "TXT_ASSOCIE"
+      },
+      {
+        "#text": "Décret 62-1297 1962-11-07",
+        "@cidtexte": "JORFTEXT000000673018",
+        "@datesignatexte": "1962-11-07",
+        "@id": "JORFTEXT000000673018",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1297",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Arrêté du 1 juillet 2004 - art. 34",
+        "@cidtexte": "JORFTEXT000000437731",
+        "@datesignatexte": "2004-07-01",
+        "@id": "LEGIARTI000020342736",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "INDI0403209A",
+        "@num": "34",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

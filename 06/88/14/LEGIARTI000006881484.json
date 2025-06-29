@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006881484",
+      "ANCIEN_ID": "UTHDWXXXXXX001AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/88/14/LEGIARTI000006881484.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1990-03-07",
+        "DATE_FIN": "2009-10-12",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret  no 90-200 du 5 mars 1990 relatif à l'exercice    de la profession de commissionnaire de transport",
+          "@c_titre_court": "Décret n°90-200 du 5 mars 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000158953"
+        },
+        {
+          "#text": "Décret n°90-200 du 5 mars 1990 relatif à l'exercice de la profession de commissionnaire de transport",
+          "@c_titre_court": "Décret n°90-200 du 5 mars 1990",
+          "@debut": "1990-03-07",
+          "@fin": "2014-05-28",
+          "@id_txt": "LEGITEXT000006075505"
+        }
+      ],
+      "@cid": "JORFTEXT000000158953",
+      "@date_publi": "1990-03-07",
+      "@date_signature": "1990-03-05",
+      "@ministere": "MINISTERE DU LOGEMENT DES TRANSPORTS ET DE LA MER",
+      "@nature": "DECRET",
+      "@nor": "EQUT9000023D",
+      "@num": "90-200"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-03-07",
+          "@etat": "MODIFIE",
+          "@fin": "2009-10-12",
+          "@id": "LEGIARTI000006881484",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "2009-10-12",
+          "@etat": "ABROGE",
+          "@fin": "2014-05-28",
+          "@id": "LEGIARTI000021144631",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Est soumis aux dispositions du présent décret tout commissionnaire établi en France qui, dans les conditions fixées par le code de commerce, organise et fait exécuter, sous sa responsabilité et en son propre nom, un transport de marchandises selon les modes de son choix pour le compte d'un commettant.<br/>\n<br/>   Les activités qui font l'objet du présent décret sont les suivantes :<br/>\n<br/>   a) Les opérations de groupage, par lesquelles des envois de marchandises en provenance de plusieurs expéditeurs ou à l'adresse de plusieurs destinataires sont réunis et constitués en un lot unique en vue de leur transport ;<br/>\n<br/>   b) Les opérations d'affrètement par lesquelles des envois sont confiés sans groupage préalable à des transporteurs publics ;<br/>\n<br/>   c) Les opérations de bureau de ville par lesquelles le commissionnaire prend en charge des colis ou expéditions de détail et les remet séparément soit à des transporteurs publics, soit à d'autres commissionnaires de transport ;<br/>\n<br/>   d) Les opérations d'organisation de transport par lesquelles le commissionnaire prend en charge des marchandises en provenance ou à destination du territoire national et en assure l'acheminement par les soins d'un ou plusieurs transporteurs publics par quelque voie que ce soit.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 90-200 1990-03-05 art. 23",
+        "@cidtexte": "JORFTEXT000000158953",
+        "@datesignatexte": "1990-03-05",
+        "@id": "JORFTEXT000000158953",
+        "@naturetexte": "DECRET",
+        "@nortexte": "EQUT9000023D",
+        "@numtexte": "90-200",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Code de commerce",
+        "@cidtexte": "LEGITEXT000005634379",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000005634379",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

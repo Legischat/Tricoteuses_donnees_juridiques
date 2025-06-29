@@ -1,0 +1,111 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006345354",
+      "ANCIEN_ID": "AAHHWXXXXXX301AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/34/53/LEGIARTI000006345354.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "301",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1968-01-13",
+        "DATE_FIN": "2007-03-27",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°67-236 du 23 mars 1967 SUR LES SOCIETES COMMERCIALES",
+          "@c_titre_court": "Décret n°67-236 du 23 mars 1967",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000674772"
+        },
+        {
+          "#text": "Décret n°67-236 du 23 mars 1967 sur les sociétés commerciales",
+          "@c_titre_court": "Décret n°67-236 du 23 mars 1967",
+          "@debut": "1967-04-01",
+          "@fin": "2007-03-27",
+          "@id_txt": "LEGITEXT000006061426"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Dispositions diverses et transitoires.",
+            "@debut": "1967-04-01",
+            "@fin": "2007-03-27",
+            "@id": "LEGISCTA000006085622"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000674772",
+      "@date_publi": "1967-03-24",
+      "@date_signature": "1967-03-23",
+      "@nature": "DECRET",
+      "@num": "67-236"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1967-04-01",
+          "@etat": "MODIFIE",
+          "@fin": "1968-01-13",
+          "@id": "LEGIARTI000006345353",
+          "@num": "301",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1968-01-13",
+          "@etat": "ABROGE",
+          "@fin": "2007-03-27",
+          "@id": "LEGIARTI000006345354",
+          "@num": "301",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La disposition de l'article 21 n'est pas applicable aux sociétés responsabilité limitée constituées avant l'entrée en vigueur de la loi sur les sociétés commerciales.<br/>\n<br/>   Dans chacune de ces sociétés, la valeur nominale des parts sociales ne pourra être fixée à un montant inférieur à celui des parts existant lors de cette entrée en vigueur, lorsque ce dernier montant est lui-même inférieur à 100 F.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret n°67-236 du 23 mars 1967 - art. 21 (Ab)",
+        "@cidtexte": "JORFTEXT000000674772",
+        "@datesignatexte": "1967-03-23",
+        "@id": "LEGIARTI000006340057",
+        "@naturetexte": "DECRET",
+        "@num": "21",
+        "@numtexte": "67-236",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°2007-431 du 25 mars 2007 - art. 3 (V) JORF 27 mars 2007",
+        "@cidtexte": "JORFTEXT000000820567",
+        "@datesignatexte": "2007-03-25",
+        "@id": "LEGIARTI000006261692",
+        "@naturetexte": "DECRET",
+        "@nortexte": "JUSX0600197D",
+        "@num": "3",
+        "@numtexte": "2007-431",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006847064",
+      "ANCIEN_ID": "UPEBQXXXXXX025AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/70/LEGIARTI000006847064.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "25",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1919-10-18",
+        "DATE_FIN": "2011-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique",
+          "@c_titre_court": "Loi du 16 octobre 1919",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000498687"
+        },
+        {
+          "#text": "Loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique",
+          "@c_titre_court": "Loi du 16 octobre 1919",
+          "@debut": "1919-10-18",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006074248"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre V : Dispositions générales",
+            "@debut": "1919-10-18",
+            "@fin": "2011-06-01",
+            "@id": "LEGISCTA000006108797"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000498687",
+      "@date_publi": "1919-10-18",
+      "@date_signature": "1919-10-16",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1919-10-18",
+          "@etat": "ABROGE",
+          "@fin": "2011-06-01",
+          "@id": "LEGIARTI000006847064",
+          "@num": "25",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les litiges dans lesquels l'Etat serait engagé par l'application de la présente loi peuvent être soumis à l'arbitrage tel qu'il est réglé par le livre III du Code de procédure civile.<br/>\n<br/>   Le recours à cette procédure doit être autorisé par un décret délibéré en conseil des ministres et contresigné par le ministre compétent et par le ministre de l'économie et des finances.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance n°2011-504\n du 9 mai 2011 - art. 4",
+        "@cidtexte": "JORFTEXT000023974937",
+        "@datesignatexte": "2011-05-09",
+        "@id": "LEGIARTI000023977696",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "INDR1111324R",
+        "@num": "4",
+        "@numtexte": "2011-504",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      },
+      {
+        "#text": "Code de l'énergie - art. L511-13 (V)",
+        "@cidtexte": "LEGITEXT000023983208",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000023987186",
+        "@naturetexte": "CODE",
+        "@num": "L511-13",
+        "@sens": "cible",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Code de procédure civile (1807)",
+        "@cidtexte": "LEGITEXT000006070680",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070680",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

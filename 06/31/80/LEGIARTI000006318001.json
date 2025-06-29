@@ -1,0 +1,100 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006318001",
+      "ANCIEN_ID": "FAEFDXXXXXX055AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/80/LEGIARTI000006318001.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "55",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1990-12-30",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI de finances pour 1991  (n° 90-1168 du 29 décembre 1990) (1)",
+          "@c_titre_court": "Loi n° 90-1168 du 29 décembre 1990",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000717191"
+        },
+        {
+          "#text": "Loi n° 90-1168 du 29 décembre 1990 de finances pour 1991 (1)",
+          "@c_titre_court": "Loi n° 90-1168 du 29 décembre 1990",
+          "@debut": "1990-12-30",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006076956"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE III : DISPOSITIONS RELATIVES À L'ÉQUILIBRE DES RESSOURCES ET DES CHARGES.",
+            "@debut": "1990-12-30",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084534"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000717191",
+      "@date_publi": "1990-12-30",
+      "@date_signature": "1990-12-29",
+      "@nature": "LOI",
+      "@nor": "ECOX9000140L",
+      "@num": "90-1168"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1990-12-30",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006318001",
+          "@num": "55",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Le taux de taxe professionnelle pour 1986 mentionné au quatrième alinéa du IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986) est, à compter de 1991, multiplié par 0,960.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi n°86-1317 du 30 décembre 1986 - art. 6, v. init.",
+        "@cidtexte": "JORFTEXT000000317305",
+        "@datesignatexte": "1986-12-30",
+        "@id": "JORFARTI000002069720",
+        "@naturetexte": "LOI",
+        "@num": "6",
+        "@numtexte": "86-1317",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "LOI 90-1168 1990-12-29 Finances pour 1991 JORF 30 décembre 1990",
+        "@cidtexte": "JORFTEXT000000717191",
+        "@datesignatexte": "1990-12-29",
+        "@id": "JORFTEXT000000717191",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9000140L",
+        "@numtexte": "90-1168",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

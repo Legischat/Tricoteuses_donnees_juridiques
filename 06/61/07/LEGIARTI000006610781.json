@@ -1,0 +1,143 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006610781",
+      "ANCIEN_ID": "RBAXXXXXXXX1X314L03AXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/61/07/LEGIARTI000006610781.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L314-3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-12-05",
+        "DATE_FIN": "2001-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code forestier",
+          "@c_titre_court": "Code forestier",
+          "@debut": "1979-02-07",
+          "@fin": "2012-07-01",
+          "@id_txt": "LEGITEXT000006071514"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1979-02-07",
+            "@fin": "2012-07-01",
+            "@id": "LEGISCTA000006099185"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Livre III : Conservation et police des bois et forêts en général.",
+              "@debut": "1979-02-07",
+              "@fin": "2012-07-01",
+              "@id": "LEGISCTA000006121943"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "Titre Ier : Défrichements.",
+                "@debut": "1979-02-07",
+                "@fin": "2012-07-01",
+                "@id": "LEGISCTA000006138687"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "Chapitre IV : Taxe sur les défrichements.",
+                  "@debut": "1979-02-07",
+                  "@fin": "2001-01-01",
+                  "@id": "LEGISCTA000006152823"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006071514",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1979-02-07",
+          "@etat": "MODIFIE",
+          "@fin": "1985-12-05",
+          "@id": "LEGIARTI000006610780",
+          "@num": "L314-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-12-05",
+          "@etat": "ABROGE",
+          "@fin": "2001-01-01",
+          "@id": "LEGIARTI000006610781",
+          "@num": "L314-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'assiette de la taxe est constituée par la surface des bois et forêts à défricher.<br/>\n<br/>   Lorsque le défrichement a pour objet la réalisation d'une opération d'urbanisme, l'assiette de la taxe est constituée par la surface des terrains boisés inclus dans le périmètre de l'opération, quelle que soit l'ampleur des défrichements qui y sont autorisés. Toutefois, les parties communes destinées à une affectation forestière sont exclues de l'assiette sous réserve qu'elles aient une surface d'au moins un hectare d'un seul tenant.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 79-113 1979-01-25",
+        "@cidtexte": "JORFTEXT000000880699",
+        "@datesignatexte": "1979-01-25",
+        "@id": "JORFTEXT000000880699",
+        "@naturetexte": "DECRET",
+        "@numtexte": "79-113",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°85-1273 du 4 décembre 1985 - art. 50 () JORF 5 décembre 1985",
+        "@cidtexte": "JORFTEXT000000320896",
+        "@datesignatexte": "1985-12-04",
+        "@id": "LEGIARTI000006613694",
+        "@naturetexte": "LOI",
+        "@num": "50",
+        "@numtexte": "85-1273",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi - art. 57 () JORF 31 décembre 1999 en vigueur le 1er janvier 2001",
+        "@cidtexte": "JORFTEXT000000762233",
+        "@datesignatexte": "1999-12-30",
+        "@id": "LEGIARTI000006320590",
+        "@naturetexte": "LOI",
+        "@nortexte": "ECOX9900112L",
+        "@num": "57",
+        "@numtexte": "99-1172",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

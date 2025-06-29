@@ -1,0 +1,110 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006277901",
+      "ANCIEN_ID": "ANIEWXXXXXX017AAXXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/27/79/LEGIARTI000006277901.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "17",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1987-05-14",
+        "DATE_FIN": "1990-03-24",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 30 octobre 1945 fixant les modalités d'application de certaines dispositions du décret du 30 novembre 1944 relatif au contrôle des instruments de mesure",
+          "@c_titre_court": "Arrêté du 30 octobre 1945",
+          "@debut": "1946-01-01",
+          "@fin": "1990-03-24",
+          "@id_txt": "LEGITEXT000006069404"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Titre III : Marques de vérifications",
+            "@debut": "1946-01-01",
+            "@fin": "1990-03-24",
+            "@id": "LEGISCTA000006083558"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Emplacement des marques de vérification.",
+              "@debut": "1946-01-01",
+              "@fin": "1990-03-24",
+              "@id": "LEGISCTA000006113960"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069404",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1945-10-30",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1946-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1987-05-14",
+          "@id": "LEGIARTI000006277900",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1987-05-14",
+          "@etat": "ABROGE",
+          "@fin": "1990-03-24",
+          "@id": "LEGIARTI000006277901",
+          "@num": "17",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La marque de vérification primitive est portée soit sur un des organes essentiels de l'instrument, soit sur des dispositifs scellant son carter ou interdisant l'accès au mécanisme.<br/>\n<br/>   La marque de vérification périodique est apposée soit sur la plaque de poinçonnage, soit directement sur l'instrument ou sur les plombs de poinçonnage dont il est muni, si l'arrêté fixant les conditions de construction de l'instrument, le dispense de la plaque. Les marques périodiques successives apposées sur la plaque de poinçonnage ou directement sur l'instrument sont placées côte à côte, dans l'ordre chronologique et dans le sens habituel de l'écriture.<br/>\n<br/>   La marque de refus est apposée, pour oblitération, sur la marque primitive et répétée à la suite de la dernière marque périodique. Lorsque les appareils portent la marque primitive à la fois sur un organe essentiel et sur la plaque de poinçonnage, la marque de refus est insculpée sur la marque primitive de la plaque et à côté de la dernière marque périodique. La marque primitive de l'organe essentiel n'est pas oblitérée.<br/>\n<br/>   L'indication du poinçon à employer, celle de l'emplacement des marques et de la plaque de poinçonnage sont précisées, pour chaque genre d'instrument, par décision du ministre de la production industrielle.<br/>\n<br/>   Au cours d'une réparation, lorsque l'espace restant libre sur la plaque est insuffisant pour recevoir la marque du réparateur, la marque primitive et cinq marques périodiques, le réparateur doit remplacer la plaque.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1945-10-30 art. 13",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1987-04-27 art. 2 JORF 14 mai 1987",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Arrêté 1990-03-01 art. 37 JORF 24 mars 1990",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 1944-11-30",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

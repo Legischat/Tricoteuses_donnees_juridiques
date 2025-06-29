@@ -1,0 +1,115 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006847597",
+      "ANCIEN_ID": "UPECWXXXXXX092AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/84/75/LEGIARTI000006847597.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "92",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1985-01-10",
+        "DATE_FIN": "2011-06-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne",
+          "@c_titre_court": "Loi n° 85-30 du 9 janvier 1985",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000317293"
+        },
+        {
+          "#text": "Loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne",
+          "@c_titre_court": "Loi n° 85-30 du 9 janvier 1985",
+          "@debut": "1985-01-10",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006068895"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "TITRE V : De la valorisation des ressources spécifiques de la montagne",
+            "@debut": "1985-01-10",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006108832"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Chapitre IV : De l'utilisation des ressources hydroélectriques.",
+              "@debut": "1985-01-10",
+              "@fin": "2999-01-01",
+              "@id": "LEGISCTA000006129213"
+            }
+          ]
+        }
+      },
+      "@cid": "JORFTEXT000000317293",
+      "@date_publi": "1985-01-10",
+      "@date_signature": "1985-01-09",
+      "@nature": "LOI",
+      "@num": "85-30"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1985-01-10",
+          "@etat": "ABROGE",
+          "@fin": "2011-06-01",
+          "@id": "LEGIARTI000006847597",
+          "@num": "92",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les réserves en force prévues, en application du 6° de l'article 10 de la loi du 16 octobre 1919 précitée, par les cahiers des charges applicables aux concessions en cours à la date d'entrée en vigueur de la présente loi, sont soumises aux dispositions de l'article 91 lorsqu'elles ne sont pas ou plus attribuées.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Loi 1919-10-16 art. 10 6°",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Loi n° 85-30 du 9 janvier 1985 - art. 91",
+        "@cidtexte": "JORFTEXT000000317293",
+        "@datesignatexte": "1985-01-09",
+        "@id": "JORFARTI000002069712",
+        "@naturetexte": "LOI",
+        "@num": "91",
+        "@numtexte": "85-30",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Ordonnance n°2011-504\n du 9 mai 2011 - art. 4",
+        "@cidtexte": "JORFTEXT000023974937",
+        "@datesignatexte": "2011-05-09",
+        "@id": "LEGIARTI000023977696",
+        "@naturetexte": "ORDONNANCE",
+        "@nortexte": "INDR1111324R",
+        "@num": "4",
+        "@numtexte": "2011-504",
+        "@sens": "cible",
+        "@typelien": "ABROGE"
+      }
+    ]
+  }
+}

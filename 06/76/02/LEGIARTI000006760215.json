@@ -1,0 +1,152 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006760215",
+      "ANCIEN_ID": "SSHAA2XXXXX114AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/76/02/LEGIARTI000006760215.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "114",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1961-01-12",
+        "DATE_FIN": "1985-12-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°46-2959 du 31 décembre 1946 PORTANT RAP POUR L'APPLICATION DE LA LOI 462426 DU 30-10-1946 SUR LA PREVENTION ET LA REPARATION DES ACCIDENTS DU TRAVAIL ET DES MALADIES PROFESSIONNELLES",
+          "@c_titre_court": "Décret n°46-2959 du 31 décembre 1946",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000495266"
+        },
+        {
+          "#text": "Décret n°46-2959 du 31 décembre 1946  RELATIF A L'APPLICATION DES DISPOSITIONS DU LIVRE IV DU CODE DE LA SECURITE SOCIALE",
+          "@c_titre_court": "Décret n°46-2959 du 31 décembre 1946",
+          "@debut": "1961-01-12",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060463"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "REPARATION",
+            "@debut": "1947-01-01",
+            "@fin": "1985-12-21",
+            "@id": "LEGISCTA000006106431"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "DISPOSITIONS DIVERSES RELATIVES AUX REPARATIONS",
+              "@debut": "1947-01-01",
+              "@fin": "1985-12-21",
+              "@id": "LEGISCTA000006127256"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "INDEMNITE JOURNALIERE.",
+                "@debut": "1947-01-01",
+                "@fin": "1985-12-21",
+                "@id": "LEGISCTA000006142077"
+              }
+            ]
+          }
+        }
+      },
+      "@cid": "JORFTEXT000000495266",
+      "@date_publi": "1947-01-01",
+      "@date_signature": "1946-12-31",
+      "@nature": "DECRET",
+      "@num": "46-2959"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1961-01-12",
+          "@etat": "MODIFIE",
+          "@fin": "1985-12-07",
+          "@id": "LEGIARTI000006760215",
+          "@num": "114",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1985-12-07",
+          "@etat": "ABROGE",
+          "@fin": "1985-12-21",
+          "@id": "LEGIARTI000006760216",
+          "@num": "114",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'indemnité journalière prévue à l'article 45 de la loi du 30 octobre 1946 est mise en payement par la caisse primaire [*organisme compétent*] dès la réception de tout certificat médical attestant la nécessité d'arrêt de travail, sans préjudice des dispositions de l'article 118 [*condition*].<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 61-28 1961-01-11 ART. 1 JORF 12 janvier 1961",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "LOI 46-2426 1946-10-30 ART. 45 (Code de la sécurité sociale L448)",
+        "@cidtexte": "JORFTEXT000000315097",
+        "@datesignatexte": "1946-10-30",
+        "@id": "JORFTEXT000000315097",
+        "@naturetexte": "LOI",
+        "@numtexte": "46-2426",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret n°46-2959 du 31 décembre 1946 - art. 118 (Ab)",
+        "@cidtexte": "JORFTEXT000000495266",
+        "@datesignatexte": "1946-12-31",
+        "@id": "LEGIARTI000006760220",
+        "@naturetexte": "DECRET",
+        "@num": "118",
+        "@numtexte": "46-2959",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L448",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L448",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

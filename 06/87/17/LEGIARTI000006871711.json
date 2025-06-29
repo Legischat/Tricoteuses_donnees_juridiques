@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006871711",
+      "ANCIEN_ID": "AIIGMXXXXXXA00AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/87/17/LEGIARTI000006871711.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "Annexe I",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1974-07-16",
+        "DATE_FIN": "1999-08-10",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 26 juin 1974 réglementant les conditions d'hygiène relatives à la préparation, la conservation, la distribution et la vente des plats cuisinés à l'avance",
+          "@c_titre_court": "Arrêté du 26 juin 1974",
+          "@debut": "1974-07-16",
+          "@fin": "1999-08-10",
+          "@id_txt": "LEGITEXT000006074913"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Annexes",
+            "@debut": "1974-07-16",
+            "@fin": "1999-08-10",
+            "@id": "LEGISCTA000006111012"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Critères microbiologiques des plats cuisinés à l'avance.",
+              "@debut": "1974-07-16",
+              "@fin": "1999-08-10",
+              "@id": "LEGISCTA000006130809"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006074913",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1974-06-26",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1974-07-16",
+          "@etat": "ABROGE",
+          "@fin": "1999-08-10",
+          "@id": "LEGIARTI000006871711",
+          "@num": "Annexe I",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Pour qu'un plat cuisiné à l'avance puisse être reconnu propre à la consommation conformément à l'article 3 du décret n° 71-636 du 21 juillet 1971, il doit correspondre aux critères microbiologiques suivants :<br/>\n<br/>   Germes pathogènes :<br/>\n<br/>   Salmonella : absence dans 25 grammes de produit.<br/>\n<br/>   Staphylocoques présumés pathogènes : moins de 100 germes au gramme de produit (absence dans 1 cg de produit) (1).<br/>\n<br/>   Germes témoins de contamination fécale :<br/>\n<br/>   Coliformes : moins de 1.000 germes au gramme de produit (moins de 100 germes dans 1 dg de produit) (1).<br/>\n<br/>   Escherichia coli : moins de 10 germes au gramme de produit (absence dans 1 dg de produit) (1).<br/>\n<br/>   Anaérobies sulfitoréducteurs (formes végétatives et spores) (incubation à 46° C) : moins de 30 germes au gramme de produit (moins de 3 germes dans 1 dg de produit) (1).<br/>\n<br/>   Germes aérobies mésophiles (2) (30-32° C, 72 h) : au plus 300 000 germes au gramme de produit (au plus 150 germes dans 0,5 mg de produit) (1).<br/>\n<br/>   (1) \"Absence dans ...\" \"moins de ...\" \"au plus ...\" signifient qu'en utilisant un inoculum de masse correspondante, on peut contrôler le critère. Toutefois, l'ensemencement simultané de masses inférieures et supérieures doit être conseillé en vue d'obtenir un meilleur renseignement concernant la contamination du produit et une expression plus complète des résultats.<br/>\n<br/>   Ce critère n'est pas applicable aux produits dont la préparation comporte normalement une fermentation lactique.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1999-07-30 art. 2 JORF 10 août 1999",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 67-295 1967-03-31",
+        "@cidtexte": "JORFTEXT000000305784",
+        "@datesignatexte": "1967-03-31",
+        "@id": "JORFTEXT000000305784",
+        "@naturetexte": "DECRET",
+        "@numtexte": "67-295",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret n°71-636 du 21 juillet 1971 - art. 3 (Ab)",
+        "@cidtexte": "JORFTEXT000000335914",
+        "@datesignatexte": "1971-07-21",
+        "@id": "LEGIARTI000006638191",
+        "@naturetexte": "DECRET",
+        "@num": "3",
+        "@numtexte": "71-636",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

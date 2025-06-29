@@ -1,0 +1,119 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006853863",
+      "ANCIEN_ID": "UPHFCXXXXXX033AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/85/38/LEGIARTI000006853863.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "33",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1962-11-08",
+        "DATE_FIN": "1995-05-07",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°62-1296 du 6 novembre 1962 STOCKAGE SOUTERRAIN",
+          "@c_titre_court": "Décret n°62-1296 du 6 novembre 1962",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000852329"
+        },
+        {
+          "#text": "Décret n°62-1296 du 6 novembre 1962 portant règlement d'administration publique pour l'application de l'ordonnance du 25 novembre 1958 en ce qui concerne le stockage souterrain de gaz combustible",
+          "@c_titre_court": "Décret n°62-1296 du 6 novembre 1962",
+          "@debut": "1962-11-08",
+          "@fin": "2006-06-03",
+          "@id_txt": "LEGITEXT000006061064"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Police des travaux de recherches et d'exploitation",
+            "@debut": "1962-11-08",
+            "@fin": "2006-06-03",
+            "@id": "LEGISCTA000006109336"
+          }
+        ]
+      },
+      "@cid": "JORFTEXT000000852329",
+      "@date_publi": "1962-11-08",
+      "@date_signature": "1962-11-06",
+      "@nature": "DECRET",
+      "@num": "62-1296"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1962-11-08",
+          "@etat": "MODIFIE",
+          "@fin": "1995-05-07",
+          "@id": "LEGIARTI000006853863",
+          "@num": "33",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1995-05-07",
+          "@etat": "ABROGE",
+          "@fin": "2006-06-03",
+          "@id": "LEGIARTI000006853864",
+          "@num": "33",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'auteur des recherches visées par le titre Ier et le titulaire de l'autorisation de stockage sont tenus de porter immédiatement à la connaissance du préfet et du chef de l'arrondissement minéralogique tous faits résultant de leurs travaux de nature à compromettre la sécurité publique, la conservation des mines, des ouvrages utilisés pour les recherches des mines, des voies de communication, des eaux minérales, la solidité des constructions, l'usage des sources et des nappes d'eau alimentant les lieux habités, les exploitations agricoles et industrielles et les établissements publics.<br/>\n<br/>   De même, le titulaire de l'autorisation de stockage porte à la connaissance du préfet et du chef de l'arrondissement minéralogique tous faits de nature à compromettre la conservation du réservoir souterrain [*obligation*].<br/>\n<br/>   Le préfet, sur proposition du chef de l'arrondissement minéralogique, prescrit les mesures qu'il estime nécessaires et, si l'intéressé ne s'y conforme pas, fait, après mise en demeure, exécuter d'office aux frais de celui-ci les travaux correspondants.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Ordonnance 58-1132 1958-11-25",
+        "@cidtexte": "JORFTEXT000000705069",
+        "@datesignatexte": "1958-11-25",
+        "@id": "JORFTEXT000000705069",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "58-1132",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Décret 62-1296 1962-11-06 ART. 2 à ART. 7",
+        "@cidtexte": "JORFTEXT000000852329",
+        "@datesignatexte": "1962-11-06",
+        "@id": "JORFTEXT000000852329",
+        "@naturetexte": "DECRET",
+        "@numtexte": "62-1296",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté du 17 janvier 2003 - art. 7 (VD)",
+        "@cidtexte": "JORFTEXT000000601941",
+        "@datesignatexte": "2003-01-17",
+        "@id": "LEGIARTI000020373282",
+        "@naturetexte": "ARRETE",
+        "@nortexte": "INDI0301013A",
+        "@num": "7",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

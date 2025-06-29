@@ -1,0 +1,151 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006579588",
+      "ANCIEN_ID": "RAA0XXXXXXX0188FAXXXXXAB",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/57/95/LEGIARTI000006579588.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "188-5",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1990-01-01",
+        "DATE_FIN": "1993-07-23",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code rural (ancien)",
+          "@c_titre_court": "Code rural ancien",
+          "@debut": "1955-04-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006071366"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre Ier : Régime du sol",
+            "@debut": "1955-04-19",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006098247"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre VII : Du contrôle des structures des exploitations agricoles.",
+              "@debut": "1980-07-05",
+              "@fin": "1993-07-23",
+              "@id": "LEGISCTA000006121353"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006071366",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1980-07-05",
+          "@etat": "MODIFIE",
+          "@fin": "1984-08-02",
+          "@id": "LEGIARTI000006579587",
+          "@num": "188-5",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1990-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1993-07-23",
+          "@id": "LEGIARTI000006579588",
+          "@num": "188-5",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   La déclaration ou la demande d'autorisation est adressée au représentant de l'Etat dans le département sur le territoire duquel est situé le fonds. Lorsque la demande d'autorisation porte sur un fonds n'appartenant pas au demandeur, celui-ci doit justifier qu'il en a préalablement informé le propriétaire.<br/>\n<br/>   La déclaration prévue au paragraphe III de l'article 188-2 est réputée enregistrée et l'opération correspondante peut être réalisée si, dans un délai d'un mois à compter de sa réception, le représentant de l'Etat dans le département n'a pas avisé le déclarant que l'opération relève du régime d'autorisation prévu aux paragraphes I et II de l'article 188-2 et sera, par suite, soumise par ses soins à la procédure définie à l'article 188-5-1.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Code rural 188-2, 188-5-1",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Décret 55-433 1955-04-16",
+        "@cidtexte": "JORFTEXT000000507528",
+        "@datesignatexte": "1955-04-16",
+        "@id": "JORFTEXT000000507528",
+        "@naturetexte": "DECRET",
+        "@numtexte": "55-433",
+        "@sens": "source",
+        "@typelien": "CODIFICATION"
+      },
+      {
+        "#text": "Loi n°84-741 du 1 août 1984 - art. 6 () JORF 2 août 1984",
+        "@cidtexte": "JORFTEXT000000320665",
+        "@datesignatexte": "1984-08-01",
+        "@id": "LEGIARTI000006600871",
+        "@naturetexte": "LOI",
+        "@num": "6",
+        "@numtexte": "84-741",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°84-741 du 1 août 1984 - art. 7 () JORF 2 août 1984",
+        "@cidtexte": "JORFTEXT000000320665",
+        "@datesignatexte": "1984-08-01",
+        "@id": "LEGIARTI000006600872",
+        "@naturetexte": "LOI",
+        "@num": "7",
+        "@numtexte": "84-741",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°90-85 du 23 janvier 1990 - art. 6 () JORF 25 janvier 1990",
+        "@cidtexte": "JORFTEXT000000525219",
+        "@datesignatexte": "1990-01-23",
+        "@id": "LEGIARTI000006600119",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX8900045L",
+        "@num": "6",
+        "@numtexte": "90-85",
+        "@sens": "source",
+        "@typelien": "MODIFICATION"
+      },
+      {
+        "#text": "Loi n°93-934 du 22 juillet 1993 - art. 4 (V) JORF 23 juillet 1993",
+        "@cidtexte": "JORFTEXT000000545718",
+        "@datesignatexte": "1993-07-22",
+        "@id": "LEGIARTI000006932709",
+        "@naturetexte": "LOI",
+        "@nortexte": "AGRX9300027L",
+        "@num": "4",
+        "@numtexte": "93-934",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      }
+    ]
+  }
+}

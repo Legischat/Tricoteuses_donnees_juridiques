@@ -1,0 +1,94 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006283256",
+      "ANCIEN_ID": "ARAXXXXXXXX5X00053AAXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/28/32/LEGIARTI000006283256.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "53",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1807-09-20",
+        "DATE_FIN": "1958-12-28",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Code de commerce (ancien)",
+          "@c_titre_court": "Code de commerce",
+          "@debut": "1807-09-20",
+          "@fin": "2000-09-21",
+          "@id_txt": "LEGITEXT000006069441"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Livre I : Du commerce en général",
+            "@debut": "1807-09-20",
+            "@fin": "2000-09-21",
+            "@id": "LEGISCTA000006083845"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "Titre IV : Du registre du commerce.",
+              "@debut": "1807-09-20",
+              "@fin": "1958-12-28",
+              "@id": "LEGISCTA000006114097"
+            }
+          ]
+        }
+      },
+      "@cid": "LEGITEXT000006069441",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1807-09-20",
+          "@etat": "ABROGE",
+          "@fin": "1958-12-28",
+          "@id": "LEGIARTI000006283256",
+          "@num": "53",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   (Texte abrogé, non reproduit).<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 58-1355 1958-12-27 art. 22 JORF 28 décembre 1958",
+        "@cidtexte": "JORFTEXT000000670951",
+        "@datesignatexte": "1958-12-27",
+        "@id": "JORFTEXT000000670951",
+        "@naturetexte": "DECRET",
+        "@numtexte": "58-1355",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1807-09-10 promulguée le 20 septembre 1807",
+        "@sens": "source",
+        "@typelien": "CREATION"
+      }
+    ]
+  }
+}

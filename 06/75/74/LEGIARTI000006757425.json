@@ -1,0 +1,105 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006757425",
+      "ANCIEN_ID": "SSEADCXXXXX004AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/75/74/LEGIARTI000006757425.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "MODIFIE",
+        "DATE_DEBUT": "1937-07-13",
+        "DATE_FIN": "1951-07-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "LOI du 12 juillet 1937 instituant une caisse de retraite et d'assistance des clercs de notaires‎",
+          "@c_titre_court": "LOI du 12 juillet 1937",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000692648"
+        },
+        {
+          "#text": "Loi du 12 juillet 1937 instituant une caisse de retraite et d'assistance des clercs de notaires.",
+          "@c_titre_court": "Loi du 12 juillet 1937",
+          "@debut": "1937-07-13",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073318"
+        }
+      ],
+      "@cid": "JORFTEXT000000692648",
+      "@date_publi": "1937-07-13",
+      "@date_signature": "1937-07-12",
+      "@nature": "LOI"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1937-07-13",
+          "@etat": "MODIFIE",
+          "@fin": "1951-07-01",
+          "@id": "LEGIARTI000006757425",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1951-07-01",
+          "@etat": "ABROGE",
+          "@fin": "1990-12-30",
+          "@id": "LEGIARTI000006757426",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "NOTA": {
+    "CONTENU": "[*Nota : Décret 51-722 du 8 juin 1951 : Application de la loi aux clercs et employés des études notariales et des organismes professionnels assimilés des départements du Haut-Rhin, du Bas-Rhin et de la Moselle.<br/>\n    Décret 51-723 du 8 juin 1951 : application de la présente loi à l'Algérie*].<br/>"
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "Les taux des cotisations patronales et le montant des centimes additionnels ainsi que le taux des versements de clercs et employés prévus à l'article 2 pourront être diminués par décret rendu en conseil d'Etat, mais ils ne pourront être augmentés que par la loi.<br/>\n    Le montant des centimes additionnels sera obligatoirement révisé à l'expiration de la période transitoire.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 51-722 1951-06-08",
+        "@cidtexte": "JORFTEXT000000502181",
+        "@datesignatexte": "1951-06-08",
+        "@id": "JORFTEXT000000502181",
+        "@naturetexte": "DECRET",
+        "@numtexte": "51-722",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 51-723 1951-06-08",
+        "@cidtexte": "JORFTEXT000000502182",
+        "@datesignatexte": "1951-06-08",
+        "@id": "JORFTEXT000000502182",
+        "@naturetexte": "DECRET",
+        "@numtexte": "51-723",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Loi 1937-07-12 art. 2",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

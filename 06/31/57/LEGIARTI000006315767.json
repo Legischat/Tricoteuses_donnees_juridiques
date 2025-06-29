@@ -1,0 +1,157 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006315767",
+      "ANCIEN_ID": "FAAALPFXXXXL082AAXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/31/57/LEGIARTI000006315767.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "L82",
+        "ETAT": "MODIFIE_MORT_NE",
+        "DATE_DEBUT": "1982-01-01",
+        "DATE_FIN": "1982-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Livre des procédures fiscales",
+          "@c_titre_court": "Livre des procédures fiscales",
+          "@debut": "1938-06-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006069583"
+        }
+      ],
+      "TM": {
+        "TITRE_TM": [
+          {
+            "#text": "Partie législative",
+            "@debut": "1938-06-01",
+            "@fin": "2999-01-01",
+            "@id": "LEGISCTA000006084350"
+          }
+        ],
+        "TM": {
+          "TITRE_TM": [
+            {
+              "#text": "LE CONTROLE DE L'IMPOT",
+              "@debut": "1982-01-01",
+              "@fin": "1989-07-14",
+              "@id": "LEGISCTA000006114553"
+            }
+          ],
+          "TM": {
+            "TITRE_TM": [
+              {
+                "#text": "LE DROIT DE COMMUNICATION",
+                "@debut": "1982-01-01",
+                "@fin": "1988-01-05",
+                "@id": "LEGISCTA000006133972"
+              }
+            ],
+            "TM": {
+              "TITRE_TM": [
+                {
+                  "#text": "DEFINITION ET ETENDUE DU DROIT DE COMMUNICATION *CHAMP D'APPLICATION*.",
+                  "@debut": "1982-01-01",
+                  "@fin": "1988-01-05",
+                  "@id": "LEGISCTA000006147354"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "@cid": "LEGITEXT000006069583",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "2999-01-01",
+      "@nature": "CODE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-01",
+          "@etat": "MODIFIE_MORT_NE",
+          "@fin": "1982-01-01",
+          "@id": "LEGIARTI000006315767",
+          "@num": "L82",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE_MORT_NE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1982-01-01",
+          "@etat": "MODIFIE",
+          "@fin": "1983-01-01",
+          "@id": "LEGIARTI000006315768",
+          "@num": "L82",
+          "@origine": "LEGI"
+        },
+        "@etat": "MODIFIE"
+      },
+      {
+        "LIEN_ART": {
+          "@debut": "1983-01-01",
+          "@etat": "ABROGE",
+          "@fin": "1989-12-30",
+          "@id": "LEGIARTI000006315769",
+          "@num": "L82",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Les livres, registres, documents ou pièces sur lesquels peut s'exercer le droit de communication de l'administration des impôts doivent être conservés pendant un délai de six ans à compter de la date de la dernière opération mentionnée sur les livres ou registres ou de la date à laquelle les documents ou pièces ont été établis.</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "CGI 2002 bis",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "LOI 63-1316 1963-12-27 ART. 55",
+        "@cidtexte": "JORFTEXT000000509287",
+        "@datesignatexte": "1963-12-27",
+        "@id": "JORFTEXT000000509287",
+        "@naturetexte": "LOI",
+        "@numtexte": "63-1316",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "Loi n°66-10 du 6 janvier 1966 - art. 38, v. init.",
+        "@cidtexte": "JORFTEXT000000320413",
+        "@datesignatexte": "1966-01-06",
+        "@id": "JORFARTI000001295652",
+        "@naturetexte": "LOI",
+        "@num": "38",
+        "@numtexte": "66-10",
+        "@sens": "source",
+        "@typelien": "CONCORDANCE"
+      },
+      {
+        "#text": "CODE GENERAL DES IMPOTS, CGI. - art. 286 (M)",
+        "@cidtexte": "LEGITEXT000006069577",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGIARTI000006309523",
+        "@naturetexte": "CODE",
+        "@num": "286",
+        "@sens": "cible",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

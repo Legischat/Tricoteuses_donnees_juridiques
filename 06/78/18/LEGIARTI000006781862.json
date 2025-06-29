@@ -1,0 +1,90 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006781862",
+      "ANCIEN_ID": "SSIAA7XXXXX001AXXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/78/18/LEGIARTI000006781862.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "1",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1948-12-19",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 13 décembre 1948 RACHAT DES RENTES ACQUISES AU TITRE DE LA LEGISLATION DES RETRAITES OUVRIERES ET PAYSANNES ET DE CELLE DES ASSURANCES SOCIALES (ART. 15 DE LA LOI 1306 DU 23-08-1948) SELON UN CHIFFRE LIMITE DE 1000 FRS",
+          "@c_titre_court": "Arrêté du 13 décembre 1948",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000622907"
+        },
+        {
+          "#text": "Arrêté du 13 décembre 1948  RELATIF AU REMBOURSEMENT DES COTISATIONS LORSQUE LE MONTANT ANNUEL DE LA RENTE EST INFERIEUR A 1.000 F.",
+          "@c_titre_court": "Arrêté du 13 décembre 1948",
+          "@debut": "1948-12-19",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006073448"
+        }
+      ],
+      "@cid": "JORFTEXT000000622907",
+      "@date_publi": "1948-12-19",
+      "@date_signature": "1948-12-13",
+      "@nature": "ARRETE"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1948-12-19",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006781862",
+          "@num": "1",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<p>Il est procédé au remboursement des cotisations prévu à l'article 67 de l'ordonnance du 19 octobre 1945 modifiée lorsque le montant  annuel de la rente susceptible d'être servie au titre de l'article 66 de ladite ordonnance est inférieur à 1.000 francs (anciens).</p>\n<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "MONTANT MINIMUM REVALORISE PERIODIQUEMENT EN MEME TEMPS QUE LA PENSION",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Ordonnance 45-2454 1945-10-19 ART. 67, ART. 66 (Code de la sécurité sociale L336, L337)",
+        "@cidtexte": "JORFTEXT000000333985",
+        "@datesignatexte": "1945-10-19",
+        "@id": "JORFTEXT000000333985",
+        "@naturetexte": "ORDONNANCE",
+        "@numtexte": "45-2454",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de la sécurité sociale L336, L337",
+        "@cidtexte": "LEGITEXT000006073189",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006073189",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

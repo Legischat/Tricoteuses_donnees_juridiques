@@ -1,0 +1,91 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006423222",
+      "ANCIEN_ID": "PCHEYXXXXXX029AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/42/32/LEGIARTI000006423222.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "29",
+        "ETAT": "VIGUEUR",
+        "DATE_DEBUT": "1954-04-27",
+        "DATE_FIN": "2999-01-01",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret n°54-546 du 22 mai 1954 ORDRE DE LA SANTE PUBLIQUE",
+          "@c_titre_court": "Décret n°54-546 du 22 mai 1954",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000486708"
+        },
+        {
+          "#text": "Décret n°54-546 du 26 avril 1954 portant règlement d'administration publique pour l'application de la loi n° 53-684 du 6 août 1953 portant création d'un fonds de développement de l'industrie cinématographique.",
+          "@c_titre_court": "Décret n°54-546 du 26 avril 1954",
+          "@debut": "1954-04-27",
+          "@fin": "2999-01-01",
+          "@id_txt": "LEGITEXT000006060701"
+        }
+      ],
+      "@cid": "JORFTEXT000000486708",
+      "@date_publi": "1954-05-27",
+      "@date_signature": "1954-05-22",
+      "@nature": "DECRET",
+      "@num": "54-546"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1954-04-27",
+          "@etat": "VIGUEUR",
+          "@fin": "2999-01-01",
+          "@id": "LEGIARTI000006423222",
+          "@num": "29",
+          "@origine": "LEGI"
+        },
+        "@etat": "VIGUEUR"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   En cas de liquidation judiciaire ou de faillite d'un producteur, le liquidateur judiciaire ou le syndic du faillite doit saisir le centre national de la cinématographie dans un délai de trois mois, de la situation active et passive du producteur, et lui fournir tous les éléments nécessaires à l'apurement éventuel des créances mentionnées à l'article 15 de la loi du 6 août 1953, dans l'ordre prévu aux articles 15 et 20 de ladite loi.<br/>\n<br/>   Les opérations d'apurement sont effectuées par le liquidateur ou le syndic sous sa responsabilité, en liaison avec le centre national de la cinématographie.<br/>\n<br/>   Après règlement des créances privilégiées, les dispositions de l'article 27 ci-dessus, relatives aux à-valoir des distributeurs, sont également applicables en cas de règlement judiciaire ou de faillite.<br/>\n<br/>   Le solde éventuel du concours financier dû au producteur est annulé.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 54-456 1954-04-26 art. 27",
+        "@cidtexte": "JORFTEXT000000848723",
+        "@datesignatexte": "1954-04-26",
+        "@id": "JORFTEXT000000848723",
+        "@naturetexte": "DECRET",
+        "@numtexte": "54-456",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Code de l'industrie cinématographique 68 et 63",
+        "@cidtexte": "LEGITEXT000006070882",
+        "@datesignatexte": "2999-01-01",
+        "@id": "LEGITEXT000006070882",
+        "@naturetexte": "CODE",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      },
+      {
+        "#text": "Loi 53-684 1653-08-06 art. 15, art. 20",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      }
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006534398",
+      "ANCIEN_ID": "ADHAIXXXXXX004AAXXXXXXDA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/53/43/LEGIARTI000006534398.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4-3",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1964-11-25",
+        "DATE_FIN": "1973-02-15",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Décret du 11 mars 1908 pris pour l'exécution de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles en ce qui concerne les graisses et huiles comestibles",
+          "@c_titre_court": "Décret du 11 mars 1908",
+          "@debut": "1908-03-14",
+          "@fin": "2008-02-29",
+          "@id_txt": "LEGITEXT000006071231"
+        }
+      ],
+      "@cid": "LEGITEXT000006071231",
+      "@date_publi": "2999-01-01",
+      "@date_signature": "1908-03-11",
+      "@nature": "DECRET"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1964-11-25",
+          "@etat": "ABROGE",
+          "@fin": "1973-02-15",
+          "@id": "LEGIARTI000006534398",
+          "@num": "4-3",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   Les dénominations usitées dans le commerce pour désigner les mélanges de graisses peuvent être accompagnées de l'indication d'un ou de plusieurs des éléments constituant le mélange, mais à la condition que la mention complémentaire fasse connaître exactement la proportion dans laquelle le ou les éléments dénommés entrent dans le mélange.<br/>\n<br/>   Les dénominations et mentions ci-dessus prévues doivent être imprimées en caractères identiques.<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Décret 64-1166 1964-11-19 *champ d'application*",
+        "@cidtexte": "JORFTEXT000000876976",
+        "@datesignatexte": "1964-11-19",
+        "@id": "JORFTEXT000000876976",
+        "@naturetexte": "DECRET",
+        "@numtexte": "64-1166",
+        "@sens": "source",
+        "@typelien": "SPEC_APPLI"
+      },
+      {
+        "#text": "Décret 73-139 1973-02-12 JORF 15 février 1973 rectificatif JORF 15 avril 1973",
+        "@cidtexte": "JORFTEXT000000875382",
+        "@datesignatexte": "1973-02-12",
+        "@id": "JORFTEXT000000875382",
+        "@naturetexte": "DECRET",
+        "@numtexte": "73-139",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Loi 1905-08-01",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}

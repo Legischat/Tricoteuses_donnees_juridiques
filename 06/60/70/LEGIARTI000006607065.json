@@ -1,0 +1,87 @@
+{
+  "META": {
+    "META_COMMUN": {
+      "ID": "LEGIARTI000006607065",
+      "ANCIEN_ID": "RAICTXXXXXX004AAXXXXXXAA",
+      "ORIGINE": "LEGI",
+      "URL": "article/LEGI/ARTI/00/00/06/60/70/LEGIARTI000006607065.xml",
+      "NATURE": "Article"
+    },
+    "META_SPEC": {
+      "META_ARTICLE": {
+        "NUM": "4",
+        "ETAT": "ABROGE",
+        "DATE_DEBUT": "1989-05-26",
+        "DATE_FIN": "1997-02-11",
+        "TYPE": "AUTONOME"
+      }
+    }
+  },
+  "CONTEXTE": {
+    "TEXTE": {
+      "TITRE_TXT": [
+        {
+          "#text": "Arrêté du 5 mai 1989 RELATIF AUX AIDES PARTICULIERES EN FAVEUR DE LA MODERNISATION",
+          "@c_titre_court": "Arrêté du 5 mai 1989",
+          "@debut": "2999-01-01",
+          "@fin": "2999-01-01",
+          "@id_txt": "JORFTEXT000000315168"
+        },
+        {
+          "#text": "Arrêté du 5 mai 1989 relatif aux aides particulières en faveur de la modernisation",
+          "@c_titre_court": "Arrêté du 5 mai 1989",
+          "@debut": "1989-05-26",
+          "@fin": "1997-02-11",
+          "@id_txt": "LEGITEXT000006058979"
+        }
+      ],
+      "@cid": "JORFTEXT000000315168",
+      "@date_publi": "1989-05-26",
+      "@date_signature": "1989-05-05",
+      "@nature": "ARRETE",
+      "@nor": "AGRS8900807A"
+    }
+  },
+  "VERSIONS": {
+    "VERSION": [
+      {
+        "LIEN_ART": {
+          "@debut": "1989-05-26",
+          "@etat": "ABROGE",
+          "@fin": "1997-02-11",
+          "@id": "LEGIARTI000006607065",
+          "@num": "4",
+          "@origine": "LEGI"
+        },
+        "@etat": "ABROGE"
+      }
+    ]
+  },
+  "BLOC_TEXTUEL": {
+    "CONTENU": "<br/>   L'arrêté du 4 mars 1986 relatif aux montants et plafonds d'aides à la modernisation des exploitations agricoles est abrogé.<br/>\n<br/>"
+  },
+  "LIENS": {
+    "LIEN": [
+      {
+        "#text": "Arrêté 1986-03-04",
+        "@sens": "source",
+        "@typelien": "CITATION"
+      },
+      {
+        "#text": "Arrêté 1997-02-10 art. 3 JORF 11 février 1997",
+        "@sens": "source",
+        "@typelien": "ABROGATION"
+      },
+      {
+        "#text": "Décret 85-1144 1985-10-30",
+        "@cidtexte": "JORFTEXT000000324471",
+        "@datesignatexte": "1985-10-30",
+        "@id": "JORFTEXT000000324471",
+        "@naturetexte": "DECRET",
+        "@numtexte": "85-1144",
+        "@sens": "source",
+        "@typelien": "TXT_SOURCE"
+      }
+    ]
+  }
+}
